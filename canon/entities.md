@@ -39,6 +39,7 @@
 - [[Vlerro]] — Placed Alamar in a magical coma (Sequestered)
 - [[Gossa]] — Aasimar mentor to Vokunar 60 years ago
 - [[Solar Flare]] — Tall woman with shining light seen by Vokunar 60 years ago
+- [[Deep World Wizard]] — Mage in [[Darvinblast]] allied with an [[Etten]] champion
 
 ## Creatures & Companions
 - [[Zulu]] — Kerben's dinosaur companion
@@ -55,6 +56,8 @@
 - [[Blibdoolpoolp]] — God of the Kuo-Toa, defeated by the party
 - [[Kuo-Toa]] — Amphibious race whose god is Blibdoolpoolp
 - [[Sunspite]] — Entity that hates the sun, wanted Castle Kaedon sunk
+- [[Etten]] — Two-headed giant creature encountered in Darvinblast
+- [[Fire Giant]] — Flame-engulfed giant encountered in Darvinblast, allied with dwarvish anti-sky deities
 
 ## Locations
 - [[The Opal]] — The party's ship
@@ -64,6 +67,7 @@
 - [[The Darvenlast]] — Self-sufficient area within The Deepworlders Delve
 - [[Deep World]] — The underground realm of the dwarves
 - [[Broy]] — The Empire in the eastern continent (Broyish Empire)
+- [[Brimboland]] — Elfish continent, believed destination of the Order of Seasons
 - [[Stark]] — Destination of Vokunar's fall
 - [[The Pit]] — Dwarvish settlement, seat of Figma Brickfinger's Union
 - [[The Palace of the Pit]] — Seat of power in The Pit
@@ -98,6 +102,7 @@
 - [[League Banner]] — Banner from The League of New Stark
 - [[Para and Bellum]] — Two copper blades given to Red Caesar
 - [[Genesis Mundi]] — The Demi Spell sought by The Order of Seasons
+- [[Potion of Proof Against Storms]] — Potion granting thunder and lightning resistance, given to Domyx
 
 ## Deities
 - [[Aeris]] — Sister goddess of Chaos, Potential, and Fate (alias: The Sky)

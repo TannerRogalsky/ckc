@@ -16,7 +16,11 @@ Properties should always include:
 Properties can include:
 * aliases (for common misspellings)
 
+An entity file should never use an alias in it's main content. All aliases should be resolved to the canonical name.
+
 Maintain @canon/entities.md as a list per file entry with a one-line description of the content.
 
 # Session Summation
 Each session should have a summary written to @canon/sessions/. It should provide a bullet point list of events and items acquired if relevant and then a longer summary of characters and plot. It can also provide connections with previous sessions.
+
+An summary file should never use an alias in it's main content. All aliases should be resolved to the canonical name.
