@@ -1,8 +1,9 @@
 ---
-tags: [session]
+type: session
 session: "003"
 date: "2025-08-21"
 ---
+
 
 # Session 003
 

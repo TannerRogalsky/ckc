@@ -1,7 +1,8 @@
 ---
-tags: [session]
+type: session
 session: "005"
 ---
+
 
 # Session 005
 

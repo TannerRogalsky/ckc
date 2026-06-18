@@ -1,7 +1,9 @@
 ---
-tags: [session]
+type: session
 session: "011"
+chunks: 4
 ---
+
 
 # Session 011
 

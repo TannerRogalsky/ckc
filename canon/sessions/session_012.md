@@ -1,7 +1,9 @@
 ---
-tags: [session]
+type: session
 session: "012"
+chunks: 6
 ---
+
 
 # Session 012
 
@@ -98,7 +100,7 @@ The party is now deeper in the city, having proven their combat capability again
   - [[Domyx]]: ASI to Constitution (14→16, +8 HP).
   - [[Red Caesar]]: ASI to attack bonus. Spell DC 16, ward 21. Prepared Control Water and Banishment.
   - [[Vokunar]]: Heavy Armor Master feat. Prepared Arcane Eye and Banishment.
-- **Next steps:** Head to the elfish continent [[Brimboland]] to track the [[Order of Seasons]] who stole a Penumbra piece. Figure Brickfinger needs to be warned. Consider visiting the dwarven market to enchant weapons with the collected gems.
+- **Next steps:** Head to the elfish continent [[Brimboland]] to track [[The Order of Seasons]] who stole a Penumbra piece. Figure Brickfinger needs to be warned. Consider visiting the dwarven market to enchant weapons with the collected gems.
 
 ## Connections
 
@@ -107,8 +109,8 @@ The party is now deeper in the city, having proven their combat capability again
 - The [[Fire Giant]] encounter reveals dwarvish giants worship anti-sky deities and oppose the sister goddesses
 - Morel's revelation fundamentally changes the Darvinblast arc — the "villain" was never real, just a spell gone wrong
 - The binding spell's feedback loop serves as allegory for how good intentions can twist into tyranny
-- The [[Mirage Arcana]] was linked to the curse — breaking the spell cleared the illusion and revealed the Penumbra
+- The *Mirage Arcana* was linked to the curse — breaking the spell cleared the illusion and revealed the Penumbra
 - Imperial scouts were crossing overhead but couldn't see the Penumbra due to the illusion
 - The party's persuasive approach (rather than pure combat) was key to weakening Morel — his power came from the congregation's hatred
 - [[Ceril]]'s divination ability proved crucial multiple times — revealing Morel's nature and finding the hidden shrine
-- Next destination: elfish continent [[Brimboland]] to pursue the [[Order of Seasons]]
+- Next destination: elfish continent [[Brimboland]] to pursue [[The Order of Seasons]]

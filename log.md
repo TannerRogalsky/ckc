@@ -26,3 +26,8 @@
 ## [2026-06-18] lint | Brimbaland → Brimboland — Fixed misspelling in session_012.md
 ## [2026-06-18] lint | Eris → Aeris — Fixed non-canonical entity name in session_012.md, Morel Chainsunder.md, and Fire Giant.md.
 ## [2026-06-18] lint | Cyril → Ceril — Fixed misspelling in session_012.md and Morel Chainsunder.md. Cyril is just the DM's pronunciation of Ceril, not a separate form. (0000-0005). Triceratops tamed, Fire Giant defeated, Morel revealed as illusion, curse broken, massive Penumbra chunk discovered, party leveled to 8
+## [2026-06-18] query | evaluated Frontmatter Standard in AGENTS.md
+## [2026-06-18] update | AGENTS.md Frontmatter Standard formatting and categories
+## [2026-06-18] lint | frontmatter standard — Converted legacy `tags` to `type` + `subtypes` across all 92 entity files and 12 session files
+## [2026-06-18] restructure | canon/entities/ — Moved all 92 entity files into type-based subdirectories (characters/34, locations/22, creatures/15, organizations/7, deities/4, items/3, concepts/3, vessels/3, events/1). Updated AGENTS.md to reflect new structure.
+## [2026-06-18] lint | broken links — Fixed `[[Order of Seasons]]` → `[[The Order of Seasons]]` in 3 files. Removed wiki-link formatting from `Mirage Arcana` (not a tracked entity) in 3 files.
