@@ -1,0 +1,5 @@
+---
+tags: [character, party-member]
+session_introduced: "001"
+---
+A cleric/druid in the party capable of wild shape transformations including mountain goat and gargoyle forms. Has an owl familiar named [[Nyquil]]. Can cast Plant Growth, Guiding Bolt, Luminous Arrow, Moonbeam, Augury, Woe, Healing Word, and Misty Step. Enters a luminous/angelic form in combat. Wields a shield given by [[Aeris]]. Keeps watch outside dungeon entrances. Has access to the Hero's Respite gargoyle form (one-use flying). Cast Moonbeam at level 2 during the Darvinblast atrium battle, creating a crescent moon image of [[Crone]] on the ceiling. Uses Woe extensively to mitigate damage. Uses Luminous Arrow/Bolt effectively, scoring multiple critical hits on [[Bat Rider]]s. Can reposition Moonbeam as a bonus action to track enemies. Served on [[The Croakborne Carnival]] alongside a half-elf woman who later stole the [[Penumbra]]. Recognized the woman as working for [[The Order of Seasons]]. Found a map to the [[Far Helm Clan]] keep among enemy effects. Sliced off [[Red Caesar]]'s hand in a flashback scenario.

@@ -1,0 +1,5 @@
+---
+tags: [character, party-member]
+session_introduced: "001"
+---
+A member of [[Heaven's Bulb]] who survived [[The Cataclysm]]. Travels aboard [[The Opal]] as part of the party. Awakened by something aboard The Opal. Uses a shocking grasp cantrip. Keeps alarms strewn about the ship and personally investigates any disturbances. Has [[Vizier Jade]]'s secret regarding her visit. Can cast dispel magic (used level 4 dispel to free the [[Steelfend Clan]] from [[Morel Chainsunder]]'s control), Lightning Bolt (used at level 5 to devastating effect), Fireball, and Misty Step. Acquired Resilient Sphere through advancement — creates an impenetrable warding sphere covered in runes identical to those used on [[Heaven's Bulb]]'s stanchions. Has the War Caster feat, allowing spell casting on opportunity attacks while in the sphere. Uses a scimitar for two-weapon fighting. Known to have lost his hand (sliced off by [[Ceril]] in a flashback scenario). Took 22 damage from a [[Bat Rider]]'s greatsword during the atrium battle but remained resilient. Received [[Para and Bellum]], two copper blades, from [[Master Lee]] in a flashback at [[Heaven's Bulb]].

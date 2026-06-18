@@ -1,0 +1,17 @@
+## [2026-06-18] ingest | session_011/chunk_0000 — Extracted 22 entities: Red Caesar, Domyx, Kerbin, Ceril, Vokunar, Vizier Jade, Morrell, Zulu, Nyquil, The Opal, Darvinblast, Broy, Heaven's Bulb, Penumbra, The Cataclysm, The Moon, The Sun, Emperor Shen, Master Li, Stark, The Pit, Figma Brickfinger's Union, Tango
+## [2026-06-18] ingest | session_011/chunk_0001 — Extracted 1 new entity: Penelope. Updated: Vokunar, Red Caesar, Domyx, Kerbin, Ceril, Darvinblast
+## [2026-06-18] ingest | session_011/chunk_0002 — Extracted 7 new entities: Gammix, Tammix, Bat Rider, Steelfend Clan, Far Helm Clan, Deep World. Updated: Red Caesar, Domyx, Kerbin, Ceril, Vokunar, Darvinblast, Morrell
+## [2026-06-18] ingest | session_011/chunk_0003 — No new entities. Updated: Gammix, Tammix, Steelfend Clan, Far Helm Clan (final battle resolution, short rest, clan reunion, map discovery)
+## [2026-06-18] summary | session_011 — Wrote session summary to canon/sessions/session_011.md
+## [2026-06-18] ingest | sessions_001-0010 — Extracted 55 new entities: Lady Jacinthe, Ema-Tep, Damien Ouranous, Raxxy, Obould, Otto, Kerben, The White Drake, Cutlass Cray, The Croakborne Carnival, The Garden, Theotropa, Boril Arangel, The Pitt, The Darvenlast, The Funnel, Castle Kaedon, Lyngbakr, Otyugh Isle, Rasharan's Rock, Broyish Empire, The League of New Stark, The Order of Seasons, Blib Doolp Poolp, Sunspite, Alamar, Vlerro, Tuna, Morel Chainsunder, Sigrid Forgewelt, Beryzoz Helmscar, The Wonder Hulk, Pleasance MacLenth, Pastor Borm, Octavia Crayborne, The Marid, Saratan, Wyrm, Hole in the Sky, Genesis Mundi, League Banner, Para and Bellum, Master Lee, Keeper Rufus, Gossa, Solar Flare, Kuo-Toa, Blink Dog, The Boardwalks, The Brine and Bodak, Bookbinders Cray, The Church of the Thirty Lights, The Deepworlders Delve, The Palace of the Pitt
+## [2026-06-18] ingest | sessions_001-0010 — Updated existing entities: Red Caesar, Domyx, Kerbin, Vokunar, The Opal, Penumbra, Heaven's Bulb, Sigil, Crone, Aeris, The Cataclysm, Broy, Figma Brickfinger's Union, Stark, Ceril
+## [2026-06-18] summary | sessions_001-0010 — Wrote session summaries to canon/sessions/session_001.md through session_010.md
+## [2026-06-18] index | canon/entities.md — Updated entity index with all new entities from sessions 1-10
+## [2026-06-18] lint | The Pitt → The Pit — Renamed misspelled entity files and fixed all references across canon
+## [2026-06-18] lint | Morrell → Morel Chainsunder — Merged Morrell.md into Morel Chainsunder.md and fixed all references across canon
+## [2026-06-18] lint | Blib Doolp Poolp → Blibdoolpoolp — Renamed entity file and fixed all references across canon
+## [2026-06-18] lint | Kerbin → Kerben — Merged Kerbin.md into Kerben.md and fixed all references across canon
+## [2026-06-18] lint | Master Li → Master Lee — Merged Master Li.md into Master Lee.md and fixed all references across canon
+## [2026-06-18] lint | Ema-Tep → Imotep — Renamed entity file and fixed all references across canon
+## [2026-06-18] lint | broken links — Created missing entities (The Palace of the Pit, The Corsairs' Court, The Bad Hare Day Theatre, Figma Brickfinger, Grotusqu, The W. H. Boutique, Redrick Wenn). Fixed broken links: The Palace of the Pitt → The Palace of the Pit, The Brine & Bodak → The Brine and Bodak, League of New Stark → The League of New Stark, Session 011 → session_011. Removed duplicate index entries.
+## [2026-06-18] lint | Eris → Aeris — Merged Eris.md into Aeris.md and fixed all references across canon
