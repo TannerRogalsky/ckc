@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026"]
 related:
   - "[[Antumbra]]"
   - "[[Heaven's Bulb]]"
@@ -143,3 +143,7 @@ The party reviewed available quests and committed to a route north. [[Red Caesar
 Red Caesar traveled to [[The Academy]] in [[Brimbalin]] with [[Keys]] and [[Lydriel Gondara]] to synthesize [[Antumbra]] — a poisoned form of [[Penumbra]] designed to sabotage the [[Broyish Empire]]'s [[Starfall]] device. He theorized that [[Akasha]] — the silvery-white liquid raining over Continental Stark — is a less concentrated form of Penumbra and that extreme pressure could transmute it back. Using Otiluke's Resilient Sphere filled with Akasha and an inversion of enlarge/reduce spells, he compressed the sphere to hand-size, generating enormous internal pressure. After multiple iterations compressing an entire lake of collected Akasha roughly a thousand-fold, the process produced a perfect palm-sized sphere of jet-black synthesized Penumbra.
 
 The synthesis method — dubbed the "Caesarean method" — could produce approximately one sphere every five to ten days once established. [[Lydriel Gondara]] and [[Keys]] poisoned the Antumbra using a method concealed by illusion to prevent self-infection. [[Aeris]] confirmed through divination that deploying the Antumbra carries no risk of harming the piece of herself trapped within Starfall. The Antumbra was then planted into the hidden Penumbra stash aboard [[The White Drake]] by [[Kerben]].
+
+## Session 026
+
+After the moon was shattered by [[Starfall]], Red Caesar argued that restoring [[Aeris]] would make many other crises easier to resolve. At [[Xarag's Island]], he helped locate [[Xarag]] before the party slew the prologue dragon and recovered [[The Opal]]'s lost treasure. When imperial [[Gun Balloon]]s attacked the ship, Red captured one by expanding Otiluke's Resilient Sphere inside its cramped gondola, forcing the crew out and bringing the vessel down onto the ship.

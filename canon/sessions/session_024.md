@@ -43,7 +43,7 @@ The party planned their next moves: head north to [[Thalasia]] to visit Domyx's 
 
 ### Quest Planning and Departure
 
-The party reviewed their available quests with [[Red Caesar]] acting as interim planner. The proposed route included heading north to [[The White Drake]] for information, then potentially pursuing a hijacking scheme against the [[Broyish Empire]]. Other quest leads included a siren in the water requiring underwater breathing, a map of all of [[Stark]] created by an entity called Witness, revenge against the [[Black Dragon]] whose offspring attacked at [[Castle Kaedon]], and clearing trolls from an island for [[The League of New Stark]].
+The party reviewed their available quests with [[Red Caesar]] acting as interim planner. The proposed route included heading north to [[The White Drake]] for information, then potentially pursuing a hijacking scheme against the [[Broyish Empire]]. Other quest leads included a siren in the water requiring underwater breathing, a map of all of [[Stark]] created by an entity called Witness, revenge against the [[Xarag]] whose offspring attacked at [[Castle Kaedon]], and clearing trolls from an island for [[The League of New Stark]].
 
 [[Kerben]] used [[Shark's Edge]] to stab the map, officially committing to the route. The magic falchion revealed warm water currents, guiding navigation. [[Red Caesar]] sequestered himself to work on creating a fake [[Penumbra]] as a bargaining chip against [[Vizier Jade]], feeling more determined than usual — partly motivated by his dislike of Jade.
 

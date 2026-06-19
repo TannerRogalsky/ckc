@@ -137,3 +137,11 @@
 ## [2026-06-19] ingest | session_025/chunk_0001 — Extracted 6 new entities: Bane Siren, Paxo, Witness, Southern Archipelago Castle, Half Chart of the Witness, Potion of Fluid Adamantite. Updated: Deep Roses, session summary, timeline, entities.md
 ## [2026-06-19] lint | Paxo → PAXO — Renamed entity file and fixed all references across canon. PAXO is an acronym, not a proper name.
 ## [2026-06-19] lint | session_025 — Fixed factual drift, headings, links, entity metadata, and index entries.
+## [2026-06-19] ingest | session_026/chunk_0000 — Updated: Crone, Sigil, Vokunar, Domyx, Kerben, Red Caesar, Ceril, Emperor Shen, Starfall, Brimbalin, Xarag's Island, Black Dragon. Wrote session summary, updated timeline and entities.md.
+## [2026-06-19] lint | session_026 — Validated: entities.md has 232 entries matching 232 files. No duplicate or stale entries. Frontmatter and wiki links verified.
+## [2026-06-19] ingest | session_026/chunk_0001 — Created 3 new entities: Gun Balloon, Orkland Pin of Courage, Obould's Wedding Band. Updated: Black Dragon (slain, named Xarag), Xarag's Island, session summary, timeline, entities.md, Yalet Mora, Brim the Bullywog, Ulrich Fjöler, Obould.
+## [2026-06-19] lint | canon-wide — Corrected misspellings: Zaraig → Xarag, Zerag's Island → Xarag's Island across all canon files, entities.md, sessions, timeline, and log.
+## [2026-06-19] lint | canon-wide — Renamed entity Black Dragon → Xarag; updated all wiki links and entities.md index.
+## [2026-06-19] ingest | session_026/chunk_0002 — No new entities. Updated: The Marid, The Brine and Bodak, Cutlass Cray, session summary, timeline.
+## [2026-06-19] lint | session_026 — Fixed factual drift, canonical names, entity metadata, and party session notes.
+## [2026-06-19] lint | Carrot Cake links — Fixed stale canonical links found during session_026 validation.

@@ -44,7 +44,7 @@ summary: "Party clears sturges, questions a dead Kaedon noble, discovers Carrot 
 - [[Vokunar]] uses Wall of Ice to slow the water elementals. [[Kerben]] snipes elementals from range, shattering one partially frozen target.
 - [[Domyx]] uses brutal strikes and the [[Iklwa Isondo]] to help finish the remaining enemies, including psychic goops.
 - After a short rest, the party scouts forward along the cliff edges toward more broken landmasses.
-- A [[Black Dragon]] and four black dragon wyrmlings burst from the ocean waters and attack. [[Ceril]] recognizes them as offspring of the dragon from the prologue.
+- A [[Xarag]] and four black dragon wyrmlings burst from the ocean waters and attack. [[Ceril]] recognizes them as offspring of the dragon from the prologue.
 - [[Vokunar]] opens with Sacred Spear, striking all five dragons. [[Domyx]] uses the [[Iklwa Isondo]] to kill wyrmlings.
 - [[Red Caesar]] attempts Charm Monster on the adult black dragon but fails. The dragon uses acid breath, damaging [[Kerben]] and melting his cover.
 - [[Ceril]] creates a Wall of Fire, trapping the adult dragon in a corridor. The dragon declares "father will be pleased" when it finds the castle.
@@ -52,7 +52,7 @@ summary: "Party clears sturges, questions a dead Kaedon noble, discovers Carrot 
 
 ### Chunk 0002
 
-- The [[Black Dragon]] battle concludes. [[Kerben]] triggers a hidden mangonel trap during the fight before its enchantment fades.
+- The [[Xarag]] battle concludes. [[Kerben]] triggers a hidden mangonel trap during the fight before its enchantment fades.
 - The adult dragon's acid breath overwhelms [[Ceril]]'s starry shield and knocks Ceril unconscious.
 - [[Vokunar]] heals Ceril with Aura of Vitality, restoring him as [[Domyx]] delivers the final blow to the adult black dragon. As the dragon falls, Vokunar loses his wings and Domyx shrinks back down.
 - After the battle, [[Kerben]] harvests the dragon's acid-resistant scales and crafts [[Preparation Melf]] — a throwable sticky acid flask.
@@ -73,7 +73,7 @@ The party then scouts the granary interior. [[Ceril]] wild shapes into a scorpio
 
 After clearing the sturges, the party discovers a preserved corpse of a [[Kaedon]]-era noble woman under dead mold. [[Red Caesar]]'s Speak with Dead reveals crucial lore: [[Alamar]] transformed Kaedon from monarchy to republic; [[The Carrot Cake]] was a massive magical amusement park spanning mountaintops; the settlement of [[Taylin]] existed nearby; and streaks of light from the east preceded the castle's collapse. These streaks match what [[Ceril]] and [[Vokunar]] witnessed, suggesting they may be the direct cause of [[The Cataclysm]].
 
-The party explores the castle's cliff edges, where [[Kerben]]'s Stone Sense reveals hollow underground spaces. They are ambushed by water elementals rising from the sea and [[Animated Armor]] constructs. After clearing these threats and resting, the party is attacked by a [[Black Dragon]] and four wyrmlings that burst from the ocean. The adult dragon declares "father will be pleased" when it finds the castle, hinting at a larger draconic threat.
+The party explores the castle's cliff edges, where [[Kerben]]'s Stone Sense reveals hollow underground spaces. They are ambushed by water elementals rising from the sea and [[Animated Armor]] constructs. After clearing these threats and resting, the party is attacked by a [[Xarag]] and four wyrmlings that burst from the ocean. The adult dragon declares "father will be pleased" when it finds the castle, hinting at a larger draconic threat.
 
 The dragon battle concludes with [[Domyx]] delivering the killing blow after [[Vokunar]] restores [[Ceril]] to consciousness. [[Kerben]] triggers a hidden mangonel trap during the fight but survives. Afterward, Kerben harvests the dragon's scales to craft [[Preparation Melf]], a throwable acid flask. The party discovers decorative fireworks from [[Broy]] in the mangonel — evidence of the castle's peaceful past. [[Domyx]] finds [[The Jewel of Alfheimer]], a rare painting by [[Aramil Keirnodel]] showing Brimbalin before the Cataclysm.
 
@@ -85,6 +85,6 @@ The dragon battle concludes with [[Domyx]] delivering the killing blow after [[V
 - The streaks of light from the east connect [[Ceril]]'s and [[Vokunar]]'s flashbacks to a possible cause of [[The Cataclysm]].
 - [[Esperanto]] is confirmed sunken, being the lowest point on the land.
 - [[Animated Armor]] constructs are confirmed as spell-sustained guardians of the castle.
-- The [[Black Dragon]] encounter marks the party's first full engagement with the prologue dragon's clutch. The dragon's reference to "father" suggests a larger draconic threat.
+- The [[Xarag]] encounter marks the party's first full engagement with the prologue dragon's clutch. The dragon's reference to "father" suggests a larger draconic threat.
 - [[Preparation Melf]] is a new consumable item crafted from the dragon's scales.
 - [[The Jewel of Alfheimer]] and [[Aramil Keirnodel]] connect Castle Kaedon to pre-Cataclysm Brimbalin.

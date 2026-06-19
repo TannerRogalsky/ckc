@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026"]
 related:
   - "[[Arcadia]]"
   - "[[Sigil]]"
@@ -102,7 +102,7 @@ That night during a full moon, Vokunar summoned [[Crone]]. She appeared blood-so
 
 During the Castle Kaedon exploration, Vokunar led the party's response to a specter ambush by using Turn Undead, devastating the specter pack and leaving many of them frightened and incapacitated. He cast an icy Flame Strike from outside the granary, striking both [[Sturges]] and ochre jellies inside the room. He disintegrated a water elemental that had grappled [[Domyx]], reducing it to silvery gray nothing that faded from the plane.
 
-During the battle with the [[Black Dragon]], Vokunar opened with Sacred Spear, striking all five dragons. When [[Ceril]] was knocked unconscious by the dragon's acid breath, Vokunar healed him with Aura of Vitality, bringing Ceril back to consciousness as [[Domyx]] delivered the killing blow. Vokunar lost his wings as the dragon fell.
+During the battle with the [[Xarag]], Vokunar opened with Sacred Spear, striking all five dragons. When [[Ceril]] was knocked unconscious by the dragon's acid breath, Vokunar healed him with Aura of Vitality, bringing Ceril back to consciousness as [[Domyx]] delivered the killing blow. Vokunar lost his wings as the dragon fell.
 
 ## Session 019
 
@@ -155,3 +155,15 @@ When the [[Remorhaz]] swallowed [[Domyx]], Vokunar destroyed the creature with a
 During session 025, Vokunar used locating magic to discover hidden [[Penumbra]] stones in [[The White Drake]]'s hold. He proposed planting [[Antumbra]] among the League's stockpile so it would eventually be traded to [[Broy]] and fed into [[Starfall]].
 
 Vokunar consulted [[Sigil]] about the plan and learned that [[Obould]] was in less danger than he appeared, while [[Broy]] was more dangerous than the party understood. [[Crone]] then appeared and demanded that he return to training. Vokunar departed [[The Opal]] soon afterward, saying he was not ready for the coming battle and would be gone for several weeks. His departure left [[Kerben]] as acting captain while the remaining party members pursued the Antumbra plot and dealt with the [[Mana Sickness]] crisis in [[Southport]].
+
+## Session 026
+
+Vokunar resumes training with [[Crone]] and [[Sigil]] in the space between worlds. He fights demons alongside Crone and spars with her, learning to never lower his guard. Crone sometimes sides with the demons to test him. He overhears Crone and Sigil arguing about his fate — Crone rebukes Sigil for giving him too many breaks, but Sigil defends Vokunar's ethics as essential to his mission.
+
+[[Aeris]] is seen floating between the stars, appearing stronger but unconscious as she rests and heals. Sigil confirms the [[Penumbra]] the party finds is restoring her, but warns against complacency — if the party waited a hundred or two hundred years, the sky would renew itself from the Penumbra already found, but anything could happen during that time.
+
+During sparring, Vokunar strikes Crone with his old Akasha blade, drawing white pearlescent blood. Crone is shocked and in agony — but the wound is not from Vokunar's attack. Crone is rapidly aging, weakening, and bleeding silvery blood. Vokunar scrys down to [[Broy]] and witnesses [[Emperor Shen]] (Domyx Acathian III) loading a large [[Penumbra]] chunk into [[Starfall]] and firing a beam at the moon.
+
+Sigil tells Vokunar that Crone has been attacked in a way she cannot heal from. Crone's dying command: focus on restoring [[Aeris]], not the moon, and not to waver from the mission for even a moment. Vokunar is returned to the world.
+
+Back aboard [[The Opal]], Vokunar finds the crew assembled and the moon shattered in the sky. He relays Crone's message to the party. The party debates destinations — [[The Carrot Cake]] has opened, but they decide to finish local quests first, starting with the [[Xarag]] on [[Xarag's Island]]. Vokunar drinks a potion of acid resistance and joins the fight, opening with Toll the Dead and summoning a Spiritual Weapon in the form of Crone's bastard sword.

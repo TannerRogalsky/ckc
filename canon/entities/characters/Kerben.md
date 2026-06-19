@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026"]
 aliases:
   - Kerbin
 related:
@@ -83,7 +83,7 @@ On the journey back to [[Lyngbakr Lagoon]], Kerben used his intelligence and nav
 
 During the Castle Kaedon exploration, Kerben entered the granary building to create blood scent for attracting [[Sturges]] inside. He used his firearms and scimitar against the sturges and ochre jellies as the party cleared the room. His [[Tango]] was targeted by specters and life-drained, prompting Kerben to resummon a fresh Tango afterward.
 
-During the battle with the [[Black Dragon]] and its wyrmlings, Kerben triggered a hidden [[Mangonel]] trap before the enchantment faded. After the dragon was defeated, Kerben harvested the dragon's acid-resistant scales and crafted [[Preparation Melf]] — a throwable sticky acid flask. He also investigated the mangonel, discovering it contained decorative fireworks from [[Broy]] that were originally used for celebration rather than warfare.
+During the battle with the [[Xarag]] and its wyrmlings, Kerben triggered a hidden [[Mangonel]] trap before the enchantment faded. After the dragon was defeated, Kerben harvested the dragon's acid-resistant scales and crafted [[Preparation Melf]] — a throwable sticky acid flask. He also investigated the mangonel, discovering it contained decorative fireworks from [[Broy]] that were originally used for celebration rather than warfare.
 
 ## Session 019
 
@@ -128,3 +128,7 @@ When a [[Remorhaz]] ambushed the party, Kerben fought from within [[Vokunar]]'s 
 After the party sailed south from [[Thalasia]], [[Kerben]] used his invisibility and lockpicking skills to sneak aboard [[The White Drake]] while docked in [[Broy]]. Using [[Zulu]] as a distraction, he lockpicked into the ship's hold and pitched the [[Antumbra]] sphere among the League's stockpiled [[Penumbra]] stones. This act of sabotage was intended to poison the League's Penumbra supply when it was eventually handed off to the [[Broyish Empire]] and fed into [[Starfall]].
 
 Kerben took on the role of acting captain of [[The Opal]] while [[Red Caesar]] was away working on the [[Antumbra]] synthesis at [[The Academy]] in [[Brimbalin]]. He recruited [[Trent]] and [[Ebi]] aboard during their passage through [[Southport]] waters. He also gained the Roving ranger feature, enhancing his combat capabilities.
+
+## Session 026
+
+Kerben was first aboard [[The Opal]] to see the elemental streak from [[Starfall]] strike the moon. He inferred the likely consequences for tides, falling debris, and [[Brimbalin]], then helped steer the crew's response. At [[Xarag's Island]], Kerben helped kill [[Xarag]] and salvaged dragon material that let [[Red Caesar]] preserve two potions of acid resistance. During the [[Gun Balloon]] attack, Kerben helped repel imperial boarders and later gathered binding materials for the charmed beach troll's raft.

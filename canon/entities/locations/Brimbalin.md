@@ -2,7 +2,7 @@
 type: location
 subtypes: [city]
 session_introduced: "012"
-sessions_appeared: ["012", "013", "014"]
+sessions_appeared: ["012", "013", "014", "026"]
 aliases:
   - Brimboland
   - Brembole
@@ -28,3 +28,5 @@ Before [[Queen Caeradwyn]]'s fall, the surrounding elven lands were defined by a
 In session 014, the party arrived at the city via a magical self-conducting train along cleared rail lines. The city is protected by the [[Knights of the Four Seasons]] who inspect all arrivals at the train junction, casting Augury and an augmented Sanctuary spell on visitors. The city contains an [[Elvish Marketplace]], [[The Academy]] (the Order's epicenter), [[House Kiernodel]]'s court, and connects via rail to 11 towns across the continent including Kirboku. The city is mostly elves and tieflings; humans are rare. [[Marshal Zem]] leads the militia. The current leader of [[House Kiernodel]] is Rizolvir Kyrno Del, son of Eremil Kyrno Del, aligned chiefly with the Order.
 
 Outside the city, in the jungle, lies the monument of [[Yalet Aurum]] — a 40-50 foot stone face built by a Galeb Duurr around his golden body. The city has less forgiving alleyway districts where gangs roam. A tram connects the city to [[The Academy]] through jungle terrain.
+
+In session 026, Brimbalin is directly in the path of falling moon debris after [[Emperor Shen]] fires [[Starfall]] at [[Crone]] from [[Broy]]. The shot was deliberately aimed over western elf land, making the moon's destruction an act of war against the elves. The party anticipates many casualties and chaos in the city from direct meteor impacts.

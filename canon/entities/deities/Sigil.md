@@ -2,7 +2,7 @@
 type: deity
 subtypes: [goddess]
 session_introduced: "001"
-sessions_appeared: ["013", "025"]
+sessions_appeared: ["013", "025", "026"]
 aliases:
   - The Sun
 ---
@@ -14,3 +14,5 @@ Speaks to [[Vokunar]] during his training. More aggressive in approach than Cron
 When [[Vokunar]] contacts her, the colored gems in his mantle turn into white diamonds and a brilliant sun rises from them for his eyes only. Only [[Vokunar]] can hear her answers — he must relay them to the party.
 
 When contacted in session 013, [[Sigil]] advised the party to head first to the elves by the shortest wind-favored route, revealed that [[The Order of Seasons]] had moved [[Penumbra]] beyond the jungles, confirmed [[Alamar]] is an ally but will withhold truths, said allies will appear for [[Lyngbakr Lagoon]], and named [[Domyx's Ancestor]] as the party's greatest enemy.
+
+In session 026, Sigil trains alongside [[Crone]] with [[Vokunar]] between worlds. She argues with Crone about Vokunar's fate, defending his ethics and morality as essential to his mission — had he not carried them down into the world, he would not have taken the mission at all and could have become a cutthroat pirate. When Crone is wounded by [[Starfall]], Sigil tends to her sister and tells Vokunar that Crone has been attacked in a way she cannot be healed from. She returns Vokunar to the world, placing a hand on his shoulder and telling him to be safe.

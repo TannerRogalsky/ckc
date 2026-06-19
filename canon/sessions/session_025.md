@@ -35,7 +35,7 @@ summary: "Party synthesizes and plants Antumbra, de-petrifies priests at Temple 
 - The party was ambushed by [[PAXO]], a warforged construct with a reflective faceplate and heat beam attacks.
 - The party defeated PAXO in close-quarters combat; [[Kerben]]'s critical strike popped its faceplate and [[Red Caesar]]'s Bigby's Hand crushed its body. The faceplate was recovered as a potential treasure.
 - On exit, [[Zulu]] led the party to a hidden treasury hoard of 100 pounds of [[Esperanto|Esperantan]] coins.
-- The party continued toward [[Zerag's Island]], where the [[Black Dragon]] holds treasure [[The Opal]] once carried.
+- The party continued toward [[Xarag's Island]], where the [[Xarag]] holds treasure [[The Opal]] once carried.
 - A flashback showed a younger [[Red Caesar]] speaking with [[Master Lee]] inside [[Heaven's Bulb]]. Lee expressed pride in Red's determination to understand how the world works, even if the knowledge is unbearable. A crack appeared in the Bulb's fake sky ceiling, revealing a beam of real sunlight.
 
 ## Summary
@@ -54,7 +54,7 @@ The party sailed south along the archipelago, where [[Red Caesar]] recognized wr
 
 Six days later, the party reached the [[Southern Archipelago Castle]], an old-world human castle described by [[The Garden]] as the former residence of [[Witness]], a construct who mapped all of [[Stark]] before the flood. Inside, they found bodies killed by focused fire attacks and bludgeoning force. [[Red Caesar]] used Speak with Dead to learn that a wicked new construct — [[PAXO]] — had appeared, chased Witness away, and massacred the humans who had sheltered there. The corpse also revealed that [[Heaven's Bulb]] had tried to help the refugees but was too weak.
 
-The party cleared the castle's black pollen with Gust of Wind, finding 50 pounds of mithril in the armory and the [[Half Chart of the Witness]] in the inner sanctum. [[Kerben]] found a [[Potion of Fluid Adamantite]]. The party was ambushed by PAXO, a warforged construct with a reflective faceplate and heat beam attacks. They defeated it in close-quarters combat; [[Kerben]]'s critical strike popped its faceplate and [[Red Caesar]]'s Bigby's Hand crushed its body. On exit, [[Zulu]] led the party to a hidden treasury hoard of 100 pounds of [[Esperanto|Esperantan]] coins. The party continued toward [[Zerag's Island]], where the [[Black Dragon]] holds treasure [[The Opal]] once carried.
+The party cleared the castle's black pollen with Gust of Wind, finding 50 pounds of mithril in the armory and the [[Half Chart of the Witness]] in the inner sanctum. [[Kerben]] found a [[Potion of Fluid Adamantite]]. The party was ambushed by PAXO, a warforged construct with a reflective faceplate and heat beam attacks. They defeated it in close-quarters combat; [[Kerben]]'s critical strike popped its faceplate and [[Red Caesar]]'s Bigby's Hand crushed its body. On exit, [[Zulu]] led the party to a hidden treasury hoard of 100 pounds of [[Esperanto|Esperantan]] coins. The party continued toward [[Xarag's Island]], where the [[Xarag]] holds treasure [[The Opal]] once carried.
 
 A flashback to [[Heaven's Bulb]] showed a younger [[Red Caesar]] speaking with [[Master Lee]], who expressed pride in Red's determination to understand how the world works, even if the knowledge proves unbearable. A crack appeared in the Bulb's fake sky ceiling, revealing a beam of real sunlight.
 

@@ -106,7 +106,7 @@
 - [[Warg Lord]] — Massive fey beast with a bear-wolf body and goblin face, captain of the hobgoblin pirate ship The Hideous Truth
 - [[Tome Keeper]] — Demon who keeps the Tome of Satariel; can track the Rakshasa and summon other escaped demons
 - [[Storm Phoenix]] — Elemental being of pure power, once a gem of amber, driven mad by the Cataclysm. Destroyed by the party in session 015
-- [[Black Dragon]] — Draconic threat from the prologue; an adult offspring and four wyrmlings attacked at Castle Kaedon
+- [[Xarag]] — Prologue black dragon; slain on Xarag's Island; offspring attacked at Castle Kaedon
 - [[Animated Armor]] — Spell-sustained metal constructs disguised as statues, guarding Castle Kaedon
 - [[Psychic Goop]] — Gray ooze formed from decayed brain matter; retaliates against magical attacks with psychic damage
 - [[Mezzoloth]] — Fiendish beetle-like creature with four arms, magic resistance, and liquid-metal teleportation
@@ -140,6 +140,7 @@
 - [[The White Drake]] — Main ship of The League of New Stark
 - [[The Hideous Truth]] — Captured hobgoblin pirate galley, originally named Eschaton, hidden in a jungled grotto
 - [[The Croakborne Carnival]] — Ship of The Order of Seasons
+- [[Gun Balloon]] — Imperial hot air balloon combat platform captured by the party from the Broyish Empire
 - [[Darvinblast]] — Underground dwarven city
 - [[The Darvenlast]] — Self-sufficient area within The Deepworlders Delve
 - [[Deep World]] — The underground realm of the dwarves
@@ -169,7 +170,7 @@
 - [[Castle Kaedon Arena]] — Interior courtyard within Castle Kaedon with bleachers, arena floor, and stables
 - [[Esperanto]] — Pre-Cataclysm place south of Kaedon, linked by developing trade routes
 - [[Southern Archipelago Castle]] — Old-world human castle in the southern archipelago; former residence of Witness, massacred by PAXO
-- [[Zerag's Island]] — Southern island where the prologue Black Dragon holds treasure once carried by The Opal
+- [[Xarag's Island]] — Southern island where the prologue Black Dragon Xarag held treasure once carried by The Opal; dragon slain and treasure recovered
 - [[Harengon Warrens]] — Island with extensive underground tunnels used by the Harengon, now partially occupied by the Empire
 - [[Otyugh Isle]] — Island with Kuo-Toa and Temple of Sigil
 - [[Lyngbakr Lagoon]] — Developing base near Castle Kaedon where Alamar, Relic Elnavi, and Kilosaurus remain
@@ -242,9 +243,11 @@
 - [[Antumbra]] — Poisoned, synthesized Penumbra created by Red Caesar, Keys, and Lydriel Gondara; designed to sabotage Starfall
 - [[Half Chart of the Witness]] — One half of a pre-flood map of Stark created by the construct Witness; found in the Southern Archipelago Castle
 - [[Potion of Fluid Adamantite]] — Rare potion granting resistance to all damage for one minute; found in the Southern Archipelago Castle
+- [[Orkland Pin of Courage]] — Award given to Obould for saving orc tribes in southern battles decades ago
+- [[Obould's Wedding Band]] — Inscribed wedding ring belonging to Obould, possibly intended for a future betrothal
 
 ## Deities
-- [[Aeris]] — Sister goddess of Chaos, Potential, and Fate (alias: The Sky)
-- [[Sigil]] — Sister goddess of Life, Energy, and Motion (alias: The Sun)
-- [[Crone]] — Sister goddess of Time, Death, and Passage of Things (alias: The Moon)
+- [[Aeris]] — Sister goddess of Chaos, Potential, and Fate (alias: The Sky); wounded sixty years ago by Starfall, now being restored by Penumbra
+- [[Sigil]] — Sister goddess of Life, Energy, and Motion (alias: The Sun); trains Vokunar alongside Crone
+- [[Crone]] — Sister goddess of Time, Death, and Passage of Things (alias: The Moon); shattered by Starfall in session 026
 - [[Rakshasa]] — Divine being, Ceril's father, encountered at The Garden

@@ -2,7 +2,7 @@
 type: concept
 subtypes: [lore]
 session_introduced: "019"
-sessions_appeared: ["019", "021", "022", "023", "024"]
+sessions_appeared: ["019", "021", "022", "023", "024", "026"]
 aliases:
   - Star screen
   - Skyfall
@@ -34,3 +34,7 @@ In session 023, [[Vizier Jade]] confirmed that the [[Broyish Empire]] wants enou
 [[Ceril]] and [[Vokunar]] were drawn into a vision of the Starfall device itself. It appears as a massive ring — perhaps 50-60 feet across — combining all four elements: stone coursing with clouds, trapped water, and bits of fire. At its center, [[Aeris]]'s mortal body is trapped as a collection of stars, pulled from the black sky above. The device generates a fusion of all elements — everything required to rebuild the world in a single stream. When used, it fires a beam of light into the sky, using Aeris's physical form to destroy part of her godhood. The [[Penumbra]] pieces serve as additional fuel after Aeris's initial divine power was spent.
 
 Aeris explained that the Starfall was originally used to connect Stark with [[Arcadia]], but was repurposed as a weapon. She believes it may be located deep underground, perhaps at the center of the world. The device emits a pulsing infrasound rumble, and approaching it too closely may be dangerous. It also siphons fire elements from its surface.
+
+## Session 026
+
+[[Vokunar]] scrys down to [[Broy]] and witnesses [[Emperor Shen]] (Domyx Acathian III) loading a large [[Penumbra]] chunk into Starfall and firing a beam of energy across the heavens. The beam strikes the moon, shattering it. On [[The Opal]], [[Kerben]] sees a pencil-thin white streak cut across the sky from the east, widening into red, green, blue, and yellow colors representing the four elements. The blast is completely silent. An apple-core crescent of the moon remains. The shot was aimed over [[Brimbalin]] in western elf land — a deliberate act of war against the elves. The consequences include falling moon debris, tsunamis, disrupted tides, and possible time disruption since the moon helps control time.

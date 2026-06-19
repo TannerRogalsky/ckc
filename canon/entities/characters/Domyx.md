@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026"]
 aliases:
   - Domyx Akathian
 related:
@@ -102,7 +102,7 @@ While sleeping aboard [[The Opal]], Domyx experienced a rare and vivid dream. [[
 
 During the Castle Kaedon exploration, Domyx was ambushed along the island's southern perimeter by specters rising from a graveyard field and a water elemental formed from cistern seepage. Vokunar's Turn Undead devastated the specters first. Domyx engaged the water elemental directly, hampering its movement and holding it away from the rest of the party. He was eventually grappled and pulled inside the elemental's vortex form, where he continued attacking from within despite the crushing pressure. The elemental was disintegrated by Vokunar, freeing Domyx. He was partially drained by the specters but recovered after the party used healing scrolls.
 
-During the battle with the [[Black Dragon]], Domyx used brutal strikes to finish off the adult dragon, delivering the final blow as Vokunar lost his wings and Domyx shrank back down from his enlarged form. After the fight, while recovering and wiping dust off a wall, Domyx discovered [[The Jewel of Alfheimer]] — a rare framed landscape painting by [[Aramil Keirnodel]] depicting what [[Brimbalin]] looked like before [[The Cataclysm]] as a lush jungled continent with no visible water.
+During the battle with the [[Xarag]], Domyx used brutal strikes to finish off the adult dragon, delivering the final blow as Vokunar lost his wings and Domyx shrank back down from his enlarged form. After the fight, while recovering and wiping dust off a wall, Domyx discovered [[The Jewel of Alfheimer]] — a rare framed landscape painting by [[Aramil Keirnodel]] depicting what [[Brimbalin]] looked like before [[The Cataclysm]] as a lush jungled continent with no visible water.
 
 ## Session 019
 
@@ -167,3 +167,7 @@ The party proceeded to the [[Prison of Frost]], where [[Ulrich Fjöler]] was tra
 After returning from [[Thalasia]], Domyx helped distract crew aboard [[The White Drake]] while [[Kerben]] planted [[Antumbra]] among the League's hidden [[Penumbra]] stash. Domyx then visited the [[Temple of Sigil]] on [[Otyugh Isle]] with [[Ceril]], where the party found petrified priests and Kuo-Toa.
 
 Domyx continued to go by just "Domyx" without his Akathian title, fully embracing his renounced identity. He remained a key combatant aboard [[The Opal]], fighting alongside the crew against the [[Bane Siren]] and [[PAXO]] in the southern archipelago.
+
+## Session 026
+
+Domyx helped slay [[Xarag]] on [[Xarag's Island]] and discovered the cliff-face hollow where the dragon had hidden [[The Opal]]'s stolen treasure. During the imperial [[Gun Balloon]] attack, he defended the deck by hurling boarders overboard and keeping enemies away from the crew. He later helped a charmed beach troll build a raft, allowing it to leave the League-claimed sandbar instead of killing it.

@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026"]
 related:
   - "[[Vanzia Vinfei]]"
   - "[[House Kiernodel]]"
@@ -90,7 +90,7 @@ The party sailed to [[The Garden]]. Ceril accompanied [[Domyx]] to meet the [[Ra
 
 During the Castle Kaedon exploration, Ceril spotted specters rising from a graveyard field hidden in fog along the island's southern perimeter, alerting the party before the ambush could fully spring. He used his starry form and Moonbeam against the specters and other enemies. When [[Red Caesar]] walked into a brown mold infestation in the granary building, Ceril used Shape Water combined with create water to freeze the mold and destroy it completely. He later wild-shaped into a scorpion and squeezed under the granary door to scout the interior, discovering [[Sturges]] hanging from the ceiling.
 
-During the battle with the [[Black Dragon]], Ceril's starry shield was overwhelmed by the dragon's acid breath, knocking him unconscious. He was restored to consciousness by [[Vokunar]]'s Aura of Vitality as [[Domyx]] delivered the killing blow to the dragon.
+During the battle with the [[Xarag]], Ceril's starry shield was overwhelmed by the dragon's acid breath, knocking him unconscious. He was restored to consciousness by [[Vokunar]]'s Aura of Vitality as [[Domyx]] delivered the killing blow to the dragon.
 
 ## Session 019
 

@@ -302,7 +302,7 @@
 - Ceril realized that lightning had been "stolen from the heavens" since [[The Cataclysm]] and that the party had returned some of nature's weather balance by dissipating the storm phoenix.
 - The party returned to [[The Garden]]. [[Theotropa]] confirmed the task was complete — lightning had struck deep into one of her woodlands and storms had been returned. She gave the party the drained [[Penumbra]] and noted that a scout from the [[Broyish Empire]] had come looking for it while they were gone, appearing as a cloud on some device.
 - Theotropa offered to hold onto any future Penumbra the party found, since others were coming for it. Her own was under non-detection.
-- The party discussed their next moves: returning to [[Castle Kaedon]], finding [[Southport]] to drop off [[Rochella Golf]], or revisiting the prologue quest [[Black Dragon]]. They decided to head toward the lagoon area.
+- The party discussed their next moves: returning to [[Castle Kaedon]], finding [[Southport]] to drop off [[Rochella Golf]], or revisiting the prologue quest [[Xarag]]. They decided to head toward the lagoon area.
 
 ### Chunk 0004
 
@@ -390,14 +390,14 @@
 - [[Kerben]] uses Stone Sense to discover hollow underground spaces — much of [[Castle Kaedon]] is buried beneath the surface.
 - The party is ambushed by water elementals rising from the ocean and [[Animated Armor]] constructs disguised as statues.
 - [[Red Caesar]] and [[Ceril]] each destroy an animated armor with Dispel Magic, confirming they are sustained by active spellwork.
-- After a short rest, the party is attacked by a [[Black Dragon]] and four black dragon wyrmlings that burst from the ocean.
+- After a short rest, the party is attacked by a [[Xarag]] and four black dragon wyrmlings that burst from the ocean.
 - [[Ceril]] recognizes the wyrmlings as offspring of the prologue dragon. The adult declares "father will be pleased" when it finds the castle.
 - [[Vokunar]] strikes all five dragons with Sacred Spear. [[Domyx]] kills wyrmlings with the [[Iklwa Isondo]]. [[Ceril]] traps the adult dragon in a Wall of Fire.
 
 ### Chunk 0002
 
 - [[Kerben]] triggers a hidden [[Mangonel]] trap during the dragon battle before its enchantment fades.
-- The [[Black Dragon]]'s serial acid breath overwhelms [[Ceril]]'s starry shield, knocking him unconscious. [[Vokunar]] heals Ceril with Aura of Vitality as [[Domyx]] delivers the killing blow to the adult dragon.
+- The [[Xarag]]'s serial acid breath overwhelms [[Ceril]]'s starry shield, knocking him unconscious. [[Vokunar]] heals Ceril with Aura of Vitality as [[Domyx]] delivers the killing blow to the adult dragon.
 - [[Kerben]] harvests the dragon's acid-resistant scales and crafts [[Preparation Melf]], a throwable sticky acid flask.
 - Investigation reveals the [[Mangonel]] was originally a celebration device containing decorative fireworks from [[Broy]].
 - [[Domyx]] discovers [[The Jewel of Alfheimer]], a rare painting by [[Aramil Keirnodel]] depicting pre-Cataclysm [[Brimbalin]] as a lush jungled continent.
@@ -669,5 +669,38 @@
 - [[Kerben]] finds a [[Potion of Fluid Adamantite]].
 - The party is ambushed by [[PAXO]], a warforged construct with heat beam attacks and a reflective faceplate. They defeat it in close-quarters combat.
 - [[Zulu]] leads the party to a hidden treasury hoard of 100 pounds of [[Esperanto|Esperantan]] coins on exit.
-- The party continues toward [[Zerag's Island]], where the [[Black Dragon]] holds treasure [[The Opal]] once carried.
+- The party continues toward [[Xarag's Island]], where the [[Xarag]] holds treasure [[The Opal]] once carried.
 - A flashback shows [[Master Lee]] expressing pride in a younger [[Red Caesar]] inside [[Heaven's Bulb]]. A crack appears in the Bulb's fake sky, revealing real sunlight.
+
+## Session 026
+
+### Chunk 0000
+
+- [[Vokunar]] resumes training with [[Crone]] and [[Sigil]] between worlds, fighting demons and sparring with Crone.
+- Vokunar strikes Crone with his Akasha blade, drawing pearlescent blood — but the wound comes from elsewhere. Crone is rapidly aging and weakening.
+- Vokunar scrys down to [[Broy]] and witnesses [[Emperor Shen]] (Domyx Acathian III) loading [[Penumbra]] into [[Starfall]] and firing a beam at the moon.
+- The moon is shattered by the Starfall beam. An apple-core crescent remains. The shot was aimed over [[Brimbalin]] — a deliberate attack on the elves.
+- [[Kerben]] witnesses the streak from the helm of [[The Opal]]. [[Ceril]] recognizes the attack as the same weapon that caused [[The Cataclysm]].
+- Crone's dying command to Vokunar: focus on restoring [[Aeris]], not the moon. If Aeris is restored she could create a new moon.
+- [[The Carrot Cake]] demi-plane opens on the first day of the fifth moon.
+- The party sails to [[Xarag's Island]] and engages the [[Xarag]] in combat.
+
+### Chunk 0001
+
+- The party slays the prologue [[Xarag]], revealed to be named **Xarag**. The dragon dies in the algal bloom.
+- [[Kerben]] salvages the dragon corpse, using scales and acid gizzard to craft two permanent potions of acid resistance.
+- [[Domyx]] discovers a cliff-face hollow containing the dragon's hoard. The party recovers 200 pounds of gold, five units of mithril, bags of gems, the [[Orkland Pin of Courage]], and [[Obould's Wedding Band]].
+- Returning to [[The Opal]], the party finds three [[Broyish Empire]] [[Gun Balloon]]s attacking the ship. [[Yalet Mora]] mans the helm, [[Ulrich Fjöler]] the cannons, and [[Brim the Bullywog]] the arbalest.
+- Imperial warriors board the ship. The party defeats the boarders in a major deck battle and captures one gun balloon as a usable aerial vessel after repairs.
+- [[Vokunar]] charms one balloon pilot into flying north; [[Red Caesar]] brings another balloon down using Otiluke's Resilient Sphere.
+- [[Yalet Mora]] reminds [[Red Caesar]] of their plan to kill [[Yalet Aurum]].
+- The party takes a long rest and heads toward a nearby island to deal with trolls for [[The League of New Stark]]. [[Vokunar]] is pulled aside by [[Sigil]] for private counsel about the elves and Crone's fate.
+
+### Chunk 0002
+
+- The party hunts two beach trolls on a small island. The trolls have unusual regeneration — immune to fire and acid but vulnerable to lightning damage.
+- [[Red Caesar]] charms one troll, who reveals he was trapped on the island by a mage. The troll offers an amethyst as payment.
+- The party builds a raft for the charmed troll using palm trees and coconuts. The troll takes his dead brother's femur as an oar and rows away.
+- The party sails toward [[Cutlass Cray]], riding a massive swell caused by the moon's destruction. [[The Opal]]'s upgrades allow it to survive the wave.
+- [[Cutlass Cray]] is intact — [[The Marid]] uses his water genie magic to deflect the catastrophic waves away from the town.
+- The freed troll arrives separately at [[Cutlass Cray]] and becomes the new bartender at [[The Brine and Bodak]].

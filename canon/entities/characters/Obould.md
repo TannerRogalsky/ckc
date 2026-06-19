@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "015", "016", "019", "021", "022", "023"]
+sessions_appeared: ["001", "013", "015", "016", "019", "021", "022", "023", "026"]
 related:
   - "[[The Opal]]"
   - "[[Domyx]]"

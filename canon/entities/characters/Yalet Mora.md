@@ -2,7 +2,7 @@
 type: character
 subtypes: [crew]
 session_introduced: "013"
-sessions_appeared: ["013", "015", "022"]
+sessions_appeared: ["013", "015", "022", "026"]
 related:
   - "[[The Opal]]"
   - "[[Yalet Aurum]]"

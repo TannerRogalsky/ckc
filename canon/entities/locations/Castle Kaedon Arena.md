@@ -7,7 +7,7 @@ related:
   - "[[Castle Kaedon]]"
   - "[[Psychic Goop]]"
   - "[[Animated Armor]]"
-  - "[[Black Dragon]]"
+  - "[[Xarag]]"
 ---
 
 A large interior courtyard within [[Castle Kaedon]], accessible through an archway beneath the turret walkways. The space features bleacher-style seating rising to a VIP skybox with a throne, a circular arena floor with a wooden post, stables along one wall, and mercantile kiosks. The bleachers contain the skeletal remains of ancient spectators and a noble figure in the skybox.
@@ -22,4 +22,4 @@ One of the enclosed buildings is a granary, its large doors big enough to lead a
 
 Beyond the granary, the southern perimeter of the island features a graveyard field where specters rise from unrested spirits. Nearby cisterns seep water that collects into a vortex capable of forming water elementals. An enclosed building behind the granary contains horse racks, barrels, and old perished leather, with four entry points. This area was infested with brown mold. An old [[Kaedon]] equestrian manual was found here.
 
-The castle's cliff edges feature smooth white stone descending 35 to 50 feet to the ocean. Broken landmasses hang on barnacle-encrusted pillars above the water. [[Kerben]]'s Stone Sense revealed hollow spaces underground — parts of the castle are buried beneath the surface. [[Animated Armor]] constructs guard the side walls, appearing as intact metal statues. Water elementals can rise from the ocean and ambush intruders along the cliffs. A [[Black Dragon]] and four wyrmlings also emerged from the surrounding waters to attack the party.
+The castle's cliff edges feature smooth white stone descending 35 to 50 feet to the ocean. Broken landmasses hang on barnacle-encrusted pillars above the water. [[Kerben]]'s Stone Sense revealed hollow spaces underground — parts of the castle are buried beneath the surface. [[Animated Armor]] constructs guard the side walls, appearing as intact metal statues. Water elementals can rise from the ocean and ambush intruders along the cliffs. A [[Xarag]] and four wyrmlings also emerged from the surrounding waters to attack the party.
