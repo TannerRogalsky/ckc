@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019"]
 aliases:
   - Kerbin
 related:
@@ -76,4 +76,10 @@ On the journey back to [[Lyngbakr Lagoon]], Kerben used his intelligence and nav
 
 During the Castle Kaedon exploration, Kerben entered the granary building to create blood scent for attracting [[Sturges]] inside. He used his firearms and scimitar against the sturges and ochre jellies as the party cleared the room. His [[Tango]] was targeted by specters and life-drained, prompting Kerben to resummon a fresh Tango afterward.
 
-During the battle with the [[Black Dragon]] and its wyrmlings, Kerben triggered a hidden mangonel trap before the enchantment faded. After the dragon was defeated, Kerben harvested the dragon's acid-resistant scales and crafted [[Preparation Melf]] — a throwable sticky acid flask. He also investigated the mangonel, discovering it contained decorative fireworks from [[Broy]] that were originally used for celebration rather than warfare.
+During the battle with the [[Black Dragon]] and its wyrmlings, Kerben triggered a hidden [[Mangonel]] trap before the enchantment faded. After the dragon was defeated, Kerben harvested the dragon's acid-resistant scales and crafted [[Preparation Melf]] — a throwable sticky acid flask. He also investigated the mangonel, discovering it contained decorative fireworks from [[Broy]] that were originally used for celebration rather than warfare.
+
+## Session 019
+
+Kerben used the [[Mangonel]] to launch [[Domyx]] across an 80-foot gap to the southern island platform of [[Castle Kaedon]], adjusting the weight mechanism for Domyx's mass. The mangonel survived the stunt intact.
+
+The party explored an acid-damaged room and the castle's entrance foyer, where Kerben fought through black puddings, a [[Flabbergast]], a [[Carrion Crawler]], [[Severed Hands]], and giant scorpions. After the party returned to the castle from [[The White Drake]], Kerben was briefly struck by the Mark of the Home curse before [[Ceril]] removed it with Greater Restoration.

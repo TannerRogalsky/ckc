@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019"]
 related:
   - "[[Arcadia]]"
   - "[[Sigil]]"
@@ -93,3 +93,7 @@ That night during a full moon, Vokunar summoned [[Crone]]. She appeared blood-so
 During the Castle Kaedon exploration, Vokunar led the party's response to a specter ambush by using Turn Undead, devastating the specter pack and leaving many of them frightened and incapacitated. He cast an icy Flame Strike from outside the granary, striking both [[Sturges]] and ochre jellies inside the room. He disintegrated a water elemental that had grappled [[Domyx]], reducing it to silvery gray nothing that faded from the plane.
 
 During the battle with the [[Black Dragon]], Vokunar opened with Sacred Spear, striking all five dragons. When [[Ceril]] was knocked unconscious by the dragon's acid breath, Vokunar healed him with Aura of Vitality, bringing Ceril back to consciousness as [[Domyx]] delivered the killing blow. Vokunar lost his wings as the dragon fell.
+
+## Session 019
+
+During the [[Castle Kaedon]] exploration, Vokunar's Akasha-infused weapon pressured a [[Zorn]] on the southern island platform, causing the creature to vomit up gold coins and flee. Vokunar fought through the acid-damaged room and castle entrance foyer alongside a [[Flabbergast]], a [[Carrion Crawler]], [[Severed Hands]], black puddings, and giant scorpions.

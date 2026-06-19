@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019"]
 aliases:
   - Domyx Akathian
 related:
@@ -86,3 +86,9 @@ While sleeping aboard [[The Opal]], Domyx experienced a rare and vivid dream. [[
 During the Castle Kaedon exploration, Domyx was ambushed along the island's southern perimeter by specters rising from a graveyard field and a water elemental formed from cistern seepage. Vokunar's Turn Undead devastated the specters first. Domyx engaged the water elemental directly, hampering its movement and holding it away from the rest of the party. He was eventually grappled and pulled inside the elemental's vortex form, where he continued attacking from within despite the crushing pressure. The elemental was disintegrated by Vokunar, freeing Domyx. He was partially drained by the specters but recovered after the party used healing scrolls.
 
 During the battle with the [[Black Dragon]], Domyx used brutal strikes to finish off the adult dragon, delivering the final blow as Vokunar lost his wings and Domyx shrank back down from his enlarged form. After the fight, while recovering and wiping dust off a wall, Domyx discovered [[The Jewel of Alfheimer]] — a rare framed landscape painting by [[Aramil Keirnodel]] depicting what [[Brimbalin]] looked like before [[The Cataclysm]] as a lush jungled continent with no visible water.
+
+## Session 019
+
+[[Kerben]] used the [[Mangonel]] to launch Domyx across an 80-foot gap to the southern island platform of [[Castle Kaedon]]. There, Domyx confronted a [[Zorn]], a subterranean elemental creature that had been eating gold coins. Under pressure from [[Vokunar]]'s Akasha-infused weapon and Domyx's intimidation, the Zorn vomited up roughly 50 pounds of gold coins before burrowing away.
+
+Domyx helped clear the acid-damaged room and entrance foyer, fighting black puddings, [[Severed Hands]], a [[Flabbergast]], a [[Carrion Crawler]], and giant scorpions. After the party returned to the castle from [[The White Drake]], magic circles summoned [[Bearded Devil]]s in a pentagonal inner chamber.

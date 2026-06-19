@@ -8,7 +8,7 @@
 - [[Vokunar]] — Young being falling through the sky, trained by goddesses
 
 ## Crew & Allies
-- [[Obould]] — Captain of The Opal, a gaudy orc
+- [[Obould]] — Captain of The Opal, bound by oath to protect Lady Jacinthe
 - [[Raxxy]] — Navigator aboard The Opal
 - [[Otto]] — Boat repairman recruited to the crew
 - [[Brim the Bullywog]] — Frog-headed tinkerer recruited to the party on Continental Stark
@@ -95,6 +95,10 @@
 - [[Mezzoloth]] — Fiendish beetle-like creature with four arms, magic resistance, and liquid-metal teleportation
 - [[Severed Hands]] — Swarm of crawling severed hands that scuttle like spiders, carried by wind and fog
 - [[Sturges]] — Parasitic bat clusters that hang from ceilings, sensitive to the smell of blood
+- [[Zorn]] — Subterranean elemental creature of stone and soil that eats gold coins and gems
+- [[Flabbergast]] — Undead creature found crushed under Castle Kaedon's portcullis
+- [[Bearded Devil]] — Fiend with rubbery purple skin and barbed facial tentacles, summoned in Castle Kaedon
+- [[Carrion Crawler]] — Large arachnid-like creature encountered in Castle Kaedon's entrance foyer
 
 ## Locations
 - [[Continental Stark]] — Massive elfish continent, last remnant of the Old World, home to Brimbalin
@@ -176,6 +180,8 @@
 - [[Tome of Satariel]] — Book kept by the Tome Keeper demon; its destruction would free the Rakshasa from his charge
 - [[Preparation Melf]] — Throwable sticky acid flask crafted from Black Dragon scales
 - [[The Jewel of Alfheimer]] — Rare landscape painting by Aramil Keirnodel depicting pre-Cataclysm Brimbalin
+- [[Mangonel]] — Siege catapult at Castle Kaedon, originally a celebration device with fireworks
+- [[Starfall]] — Ancient cannon of celestial origin in the possession of the Broyish Empire
 
 ## Deities
 - [[Aeris]] — Sister goddess of Chaos, Potential, and Fate (alias: The Sky)

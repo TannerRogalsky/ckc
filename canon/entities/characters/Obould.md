@@ -2,11 +2,12 @@
 type: character
 subtypes: [npc]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "015", "016"]
+sessions_appeared: ["001", "013", "015", "016", "019"]
 related:
   - "[[The Opal]]"
   - "[[Domyx]]"
   - "[[Kerben]]"
+  - "[[Lady Jacinthe]]"
 ---
 
 Captain of [[The Opal]]. A gaudy orc who is very friendly with his crew and willing to go to great lengths (even "helping an elf") to establish himself and his ship as a force to be reckoned with. Hates [[The Order of Seasons]], describing them as "mostly elves, mostly jerks." The ship may have been inherited or stolen.
@@ -18,3 +19,5 @@ In session 015, while the rest of the party was ashore, Obould discussed the cre
 After the battle, Obould proposed rafting the surviving hobgoblin out to sea as a message to their fleet — a calling card from [[The Opal]]. He then sent the party aboard the [[Gheister]] to chase down the hobgoblins' second ship, [[The Hideous Truth]], instructing them not to destroy it. With the capture of the vessel, Obould now commanded three ships (the Opal, the Gheister, and The Hideous Truth), effectively making him Commodore.
 
 The party decided they lacked resources to crew a third ship and hid the vessel in a jungled grotto, renaming it [[The Hideous Truth]]. Obould agreed, noting it would be hard to travel with so many ships and that they could sell it later for 30-40 pounds of gold if needed. The party sailed to [[The Garden]], where Obould was happy to be around and found things to do with the crew.
+
+In session 019, [[Red Caesar]] learned from [[Lady Jacinthe]] that Obould and Jacinthe were once to be wed for shared ambition rather than romance. Their paths diverged when Jacinthe chose to build [[The League of New Stark]] while Obould pursued adventure and piracy. Obould gave Jacinthe an oath that if she would die, he would die first; Jacinthe described this as him cursing himself with the oath and cursing her with sorrow.

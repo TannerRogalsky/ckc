@@ -396,8 +396,32 @@
 
 ### Chunk 0002
 
-- [[Kerben]] triggers a hidden mangonel trap during the dragon battle before its enchantment fades.
+- [[Kerben]] triggers a hidden [[Mangonel]] trap during the dragon battle before its enchantment fades.
 - The [[Black Dragon]]'s serial acid breath overwhelms [[Ceril]]'s starry shield, knocking him unconscious. [[Vokunar]] heals Ceril with Aura of Vitality as [[Domyx]] delivers the killing blow to the adult dragon.
 - [[Kerben]] harvests the dragon's acid-resistant scales and crafts [[Preparation Melf]], a throwable sticky acid flask.
-- Investigation reveals the mangonel was originally a celebration device containing decorative fireworks from [[Broy]].
+- Investigation reveals the [[Mangonel]] was originally a celebration device containing decorative fireworks from [[Broy]].
 - [[Domyx]] discovers [[The Jewel of Alfheimer]], a rare painting by [[Aramil Keirnodel]] depicting pre-Cataclysm [[Brimbalin]] as a lush jungled continent.
+
+## Session 019
+
+### Chunk 0000
+
+- [[Kerben]] used the [[Mangonel]] to launch [[Domyx]] across an 80-foot gap to the southern island platform of [[Castle Kaedon]].
+- On the southern island, the party found statues honoring aasimar heroes; the statues animated as marble gargoyles.
+- The party encountered a [[Zorn]], a subterranean elemental that had been eating gold coins beneath the flagstones. It vomited up roughly 50 pounds of gold before burrowing away.
+- [[Ceril]]'s Plant Growth created permanent seaweed and fungus bridges between the broken island platforms.
+- In an acid-smoothed interior room, black puddings and [[Severed Hands]] emerged from the ruins.
+
+### Chunk 0001
+
+- The party finished clearing the acid-damaged room, short-rested, and opened the arcane-locked door into the castle proper.
+- The party explored the castle's entrance foyer, fighting a [[Flabbergast]] undead, a [[Carrion Crawler]], [[Severed Hands]], and giant scorpions.
+- Part of the party traveled to [[The White Drake]] via Teleportation Circle and attended a banquet hosted by [[The League of New Stark]].
+
+### Chunk 0002
+
+- [[Red Caesar]] spoke privately with [[Lady Jacinthe]], who revealed she and [[Obould]] were once to be wed for shared ambition. Their paths diverged — Jacinthe built the League, Obould pursued piracy.
+- Jacinthe revealed Obould swore an oath to die in her place should she come to harm, and that she cursed him with sorrow in return.
+- [[Red Caesar]] learned of [[Starfall]], an ancient cannon of celestial origin now in the possession of the [[Broyish Empire]].
+- The party returned to [[Castle Kaedon]] the next day during a storm. [[Ceril]] protected Red Caesar from the Mark of the Home curse and cured [[Kerben]] after it took hold.
+- In a pentagonal inner chamber, magic circles summoned [[Bearded Devil]]s, setting up the next battle.

@@ -87,3 +87,9 @@
 ## [2026-06-19] lint | Alsa Keirnodel → Aramil Keirnodel — Merged duplicate entity. Deleted Alsa Keirnodel.md, consolidated lore into Aramil Keirnodel, fixed all references across canon.
 ## [2026-06-19] lint | session_018 — Fixed duplicate sections, broken links, mechanics drift, and stale entity metadata.
 ## [2026-06-19] update | AGENTS.md — Added post-ingest validation requirements.
+## [2026-06-19] ingest | session_019/chunk_0000 — Created 2 new entities: Zorn, Mangonel (backdated to 018). Updated 6 entities. Wrote session summary and timeline.
+## [2026-06-19] ingest | session_019/chunk_0001 — Created 3 new entities: Flabbergast, Bearded Devil, Carrion Crawler. Updated 5 entities. Updated session summary and timeline.
+## [2026-06-19] ingest | session_019/chunk_0002 — Created 1 new entity: Starfall. Updated 7 entities (Lady Jacinthe, Obould, Red Caesar, Domyx, Kerben, Ceril, Vokunar). Updated session summary and timeline.
+## [2026-06-19] summary | session_019 — Wrote session summary to canon/sessions/session_019.md
+## [2026-06-19] index | canon/entities.md — Added 6 new entities from session 019
+## [2026-06-19] lint | session_019 — Fixed chronology, entity metadata, and Bearded Devil setup.

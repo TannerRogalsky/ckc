@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019"]
 related:
   - "[[Heaven's Bulb]]"
   - "[[The Cataclysm]]"
@@ -81,3 +81,11 @@ The party then sailed south of the Garden to hunt the [[Storm Phoenix]]. Red use
 ## Session 018
 
 During the Castle Kaedon exploration, Red entered the granary building and triggered a brown mold infestation — the mold spread frostbite across his legs. He was saved when [[Ceril]] froze the mold with Shape Water. Red investigated the area and found an old Kaedonite equestrian manual — a collector's item in a world where few people know what horses look like. He later devised a "hamster ball" strategy: casting Otiluke's Resilient Sphere on himself and entering the granary to attract [[Sturges]] onto the sphere's exterior, where they harmlessly battered against the barrier. He used Gust of Wind to push specters toward the cliff edge and Shocking Grasp against remaining enemies. The sphere strategy proved highly effective, containing the low-intelligence creatures without risk to the party.
+
+## Session 019
+
+During the [[Castle Kaedon]] exploration, Red fought through the acid-damaged room and castle entrance foyer alongside a [[Flabbergast]], a [[Carrion Crawler]], [[Severed Hands]], black puddings, and giant scorpions.
+
+The party then traveled to [[The White Drake]] via Teleportation Circle. At the banquet, Red sought out [[Lady Jacinthe]] for a private conversation. He learned that Jacinthe and [[Obould]] were once to be wed — not for romance, but for shared ambition. Jacinthe's ambition was building the League to unite kingdoms after the world was torn down; Obould's was adventure and piracy. Their diverging paths forced them apart. Jacinthe revealed that Obould gave her an oath: should she come to harm, he will go in her place and die first. He cursed himself with the oath and she cursed him with sorrow. Red also learned of [[Starfall]], an ancient cannon of celestial origin in the possession of the [[Broyish Empire]].
+
+After the party returned to [[Castle Kaedon]], [[Ceril]] protected Red from the Mark of the Home curse before it could take hold.
