@@ -12,3 +12,5 @@ In session 013, [[The Opal]] received a reinforced laminate deck and hull improv
 In session 022, the party purchased ship upgrades including a bulbous bow for better terrain navigation and hardened sails for improved speed, increasing the ship's speed by 50 to 100 percent.
 
 In session 024, the Empire installed a full complement of cannons on port and starboard sides. The reinforced bow proved useful breaking through ice near [[Thalasia]]. During a hydra encounter, the ship sustained hull damage from the creature ramming the port side.
+
+In session 027, [[The Opal]] was fully repaired in [[Cutlass Cray]]. It was also upgraded with a new steering mechanism and a new crow's nest.

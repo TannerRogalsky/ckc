@@ -145,3 +145,7 @@
 ## [2026-06-19] ingest | session_026/chunk_0002 — No new entities. Updated: The Marid, The Brine and Bodak, Cutlass Cray, session summary, timeline.
 ## [2026-06-19] lint | session_026 — Fixed factual drift, canonical names, entity metadata, and party session notes.
 ## [2026-06-19] lint | Carrot Cake links — Fixed stale canonical links found during session_026 validation.
+## [2026-06-19] ingest | session_027/chunk_0000 — Created 5 new entities: Gilder Savar, The Ascot, Wand of Blighting Bolts, Moon Blade, Magen. Updated: Kerben, Ceril, Red Caesar, Vokunar, Domyx, The Opal, The Carrot Cake, The Hideous Truth, The Brine and Bodak, Cutlass Cray. Wrote session summary, updated timeline and entities.md.
+## [2026-06-19] ingest | session_027/chunk_0001 — Created 5 new entities: Cloaker, Flame Skull, Hooksy the Clown Automaton, Magic Hat, Hole Shebang. Updated: Magen, The Carrot Cake, session summary, timeline, entities.md.
+## [2026-06-19] ingest | session_027/chunk_0002 — Created 6 new entities: Haunted Living Tent, City Hole, King of the Hole, Hole on Wheels, Jack Harvey's Portrait, Ranger Scroll. Updated: Hole Shebang, Magic Hat, Jack Harvey, Magen, session summary, timeline, entities.md.
+## [2026-06-19] lint | session_027 — Fixed entity typing, metadata, links, and mechanical detail.

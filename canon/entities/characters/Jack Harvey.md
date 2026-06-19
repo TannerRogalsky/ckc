@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc]
 session_introduced: "018"
-sessions_appeared: ["018", "022", "024"]
+sessions_appeared: ["018", "022", "024", "027"]
 related:
   - "[[The Carrot Cake]]"
   - "[[David Harvey]]"
@@ -25,3 +25,7 @@ Later in session 022, while captured by the party, Theo revealed that Jack Harve
 ## Session 024
 
 During his secret meeting with [[Kerben]] aboard [[The Opal]], [[Theo Harvey]] revealed that Jack Harvey's main skill was not doing everything himself, but assembling the perfect crew — the right alchemist, the right leather worker, the right person for each task. Jack was like a captain himself, defined by his crew. When the sky first broke during [[The Cataclysm]], Jack collected [[Penumbra]] shards and hid them within [[The Carrot Cake]] as a safeguard for future generations. He didn't know what they would be needed for, but trusted that someday someone would come looking for all the pieces of the sky in one place. Jack Harvey knew [[Kerben]] personally — Kerben had worked at Jack's museum.
+
+## Session 027
+
+Inside the extra-dimensional space of the [[Haunted Living Tent]] at [[The Carrot Cake]], [[Red Caesar]] and [[Kerben]] recovered a portrait of Jack Harvey. Red recognized it by sight; Kerben identified its value because it was painted to look like his old boss. The painting was salvaged as the tent disintegrated.

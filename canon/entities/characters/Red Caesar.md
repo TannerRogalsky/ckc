@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027"]
 related:
   - "[[Antumbra]]"
   - "[[Heaven's Bulb]]"
@@ -36,8 +36,9 @@ related:
   - "[[Broy]]"
   - "[[Keys]]"
   - "[[Lydriel Gondara]]"
-  - "[[The White Drake]]"
-  - "[[Starfall]]"
+  - "[[Wand of Blighting Bolts]]"
+  - "[[The Wonder Hulk]]"
+  - "[[Cutlass Cray]]"
 ---
 
 A member of [[Heaven's Bulb]] who survived [[The Cataclysm]]. Travels aboard [[The Opal]] as part of the party. Awakened by something aboard The Opal. Keeps alarms strewn about the ship and personally investigates any disturbances. Has [[Vizier Jade]]'s secret regarding her visit.
@@ -147,3 +148,9 @@ The synthesis method — dubbed the "Caesarean method" — could produce approxi
 ## Session 026
 
 After the moon was shattered by [[Starfall]], Red Caesar argued that restoring [[Aeris]] would make many other crises easier to resolve. At [[Xarag's Island]], he helped locate [[Xarag]] before the party slew the prologue dragon and recovered [[The Opal]]'s lost treasure. When imperial [[Gun Balloon]]s attacked the ship, Red captured one by expanding Otiluke's Resilient Sphere inside its cramped gondola, forcing the crew out and bringing the vessel down onto the ship.
+
+## Session 027
+
+In [[Cutlass Cray]], Red visited [[The Wonder Hulk]] and traded his Wand of Lightning Bolts, a sapphire, jade, and a mithril for the [[Wand of Blighting Bolts]], giving him access to necrotic damage for the first time. He also purchased a potion of invulnerability and a potion of feather fall.
+
+Red sailed with the party to [[The Carrot Cake]]. During the first combat inside, he engaged the undead enemies alongside the party.

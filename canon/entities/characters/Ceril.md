@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027"]
 related:
   - "[[Vanzia Vinfei]]"
   - "[[House Kiernodel]]"
@@ -34,6 +34,8 @@ related:
   - "[[Tome of Satariel]]"
   - "[[Tome Keeper's Pyramid]]"
   - "[[Broy]]"
+  - "[[Gilder Savar]]"
+  - "[[Cutlass Cray]]"
 aliases:
   - Cyril
   - Serral
@@ -155,3 +157,9 @@ After [[Domyx]] was swallowed by the Remorhaz, Ceril helped coordinate the rescu
 As the party sailed south from [[Thalasia]], [[Ceril]] used a divine summoning spell to contact [[Aeris]] (also called Eris). She was in a dark, windowless room with a single candle, and Ceril cast Continual Flame to provide her light. Eris confirmed that deploying the [[Antumbra]] would not harm the piece of herself trapped within [[Starfall]].
 
 Ceril visited the [[Temple of Sigil]] on Otyugh Isle with [[Domyx]], where they encountered 12 petrified priests and 19 petrified Kuo-Toa who had been turned by a cockatrice. Ceril cast Greater Restoration on [[Father Warwick]], the highest-ranking priest, de-petrifying him first. Warwick then used his own abjuration abilities to de-petrify several more priests. The freed priests planned to head to [[Southport]] to help combat the [[Mana Sickness]] plague. Ceril also encountered a cockatrice in the temple and dealt with it during their visit.
+
+## Session 027
+
+In [[Cutlass Cray]], Ceril visited [[Gilder Savar]], a lich operating a potion shop. Ceril did not recognize Gilder in his lich form, but Gilder recognized Ceril from their shared past — both had escaped [[Brimbalin]] together alongside [[Vanzia Vinfei]]. Gilder revealed he chose undeath to live long enough to perfect his craft, saying "the best drinks take centuries to distill into perfection." Ceril purchased protective and emergency-use supplies from him.
+
+Ceril sailed with the party to [[The Carrot Cake]]. He supported the party during the entrance battle against undead and later collected seeds from the park's magically preserved trees.

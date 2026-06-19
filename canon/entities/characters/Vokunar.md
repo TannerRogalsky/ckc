@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027"]
 related:
   - "[[Arcadia]]"
   - "[[Sigil]]"
@@ -51,6 +51,9 @@ related:
   - "[[Starfall]]"
   - "[[The Carrot Cake]]"
   - "[[Gheister]]"
+  - "[[Moon Blade]]"
+  - "[[The Church of the Thirty Lights]]"
+  - "[[Cutlass Cray]]"
 ---
 
 A young being trapped in stone for decades, falling through the sky toward [[Stark]].
@@ -167,3 +170,9 @@ During sparring, Vokunar strikes Crone with his old Akasha blade, drawing white 
 Sigil tells Vokunar that Crone has been attacked in a way she cannot heal from. Crone's dying command: focus on restoring [[Aeris]], not the moon, and not to waver from the mission for even a moment. Vokunar is returned to the world.
 
 Back aboard [[The Opal]], Vokunar finds the crew assembled and the moon shattered in the sky. He relays Crone's message to the party. The party debates destinations — [[The Carrot Cake]] has opened, but they decide to finish local quests first, starting with the [[Xarag]] on [[Xarag's Island]]. Vokunar drinks a potion of acid resistance and joins the fight, opening with Toll the Dead and summoning a Spiritual Weapon in the form of Crone's bastard sword.
+
+## Session 027
+
+In [[Cutlass Cray]], Vokunar traded lapis lazuli for the [[Moon Blade]], a versatile warhammer fashioned by [[The Church of the Thirty Lights]] from a fragment of [[Crone]]. The weapon channels moon-touched necrotic and cold power, connecting Vokunar's new armament directly to Crone's shattered remains.
+
+Vokunar sailed with the party to [[The Carrot Cake]]. During the first combat inside, he fought alongside the party against the undead enemies.

@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027"]
 aliases:
   - Domyx Akathian
 related:
@@ -47,6 +47,8 @@ related:
   - "[[Akathia Manor]]"
   - "[[Prison of Frost]]"
   - "[[Remorhaz]]"
+  - "[[The Wonder Hulk]]"
+  - "[[Cutlass Cray]]"
 ---
 
 Full name: Domyx Akathian. A titan from [[Clan Akathia]] who favors kicking doors open and fighting with rage. Travels aboard [[The Opal]].
@@ -171,3 +173,9 @@ Domyx continued to go by just "Domyx" without his Akathian title, fully embracin
 ## Session 026
 
 Domyx helped slay [[Xarag]] on [[Xarag's Island]] and discovered the cliff-face hollow where the dragon had hidden [[The Opal]]'s stolen treasure. During the imperial [[Gun Balloon]] attack, he defended the deck by hurling boarders overboard and keeping enemies away from the crew. He later helped a charmed beach troll build a raft, allowing it to leave the League-claimed sandbar instead of killing it.
+
+## Session 027
+
+In [[Cutlass Cray]], Domyx purchased a potion of invulnerability and a potion of feather fall from [[The Wonder Hulk]]. He also bought a potion of gaseous form that he immediately drank and used to squeeze under a door, confirming the effect worked as intended.
+
+Domyx sailed with the party to [[The Carrot Cake]]. During the first combat inside, he engaged the undead enemies alongside the party.

@@ -704,3 +704,38 @@
 - The party sails toward [[Cutlass Cray]], riding a massive swell caused by the moon's destruction. [[The Opal]]'s upgrades allow it to survive the wave.
 - [[Cutlass Cray]] is intact — [[The Marid]] uses his water genie magic to deflect the catastrophic waves away from the town.
 - The freed troll arrives separately at [[Cutlass Cray]] and becomes the new bartender at [[The Brine and Bodak]].
+
+## Session 027
+
+### Chunk 0000
+
+- The party shops extensively in [[Cutlass Cray]] at [[The Wonder Hulk]] and elsewhere, upgrading gear with dragon treasure.
+- [[Kerben]] acquires [[The Ascot]], a scarf granting animal communication and animal swap-place. He also buys three feather tokens, five Pipes of Smoke Monsters, and three immovable rods.
+- [[Red Caesar]] trades for the [[Wand of Blighting Bolts]], gaining access to necrotic damage for the first time.
+- [[Vokunar]] trades lapis lazuli for the [[Moon Blade]], a warhammer forged from a fragment of [[Crone]]'s remains by [[The Church of the Thirty Lights]].
+- [[Domyx]] stocks up on protective and mobility potions before the expedition.
+- [[Ceril]] visits [[Gilder Savar]], a lich who recognizes Ceril from their shared escape from [[Brimbalin]] decades ago. Ceril purchases protective and emergency-use supplies.
+- [[The Opal]] is fully repaired and upgraded with a new steering mechanism and crow's nest.
+- The party confirms [[The Hideous Truth]] remains hidden in its grotto, now more overgrown.
+- After a three-day sail, the party arrives at [[The Carrot Cake]]. The entrance is a man-made lagoon with illusions recently dissipated, leading to a giant carrot entrance marked with the "40 Carats" logo.
+- A [[Magen]] in rabbit form — likely a construct of [[Jack Harvey]] — welcomes the party with the words "come one, come all and welcome to the 40 carats, let the dance begin."
+- Undead in tattered orange uniforms — mummies and revenants — rise from the ground and attack the party. The party defeats them; mummies retreat into the mud and revenants are killed.
+
+### Chunk 0001
+
+- The [[Magen]] confirms [[Penumbra]] is the power source still running [[The Carrot Cake]] midway. It provides a directory of park areas: the [[Magic Hat]] (hotel/bunker), the [[Hole Shebang]] (festival island), and other zones connected by teleport circles.
+- The party explores the midway boulevard. Trees from across Stark line the path, each fruiting with varieties that should not grow together. [[Ceril]] collects seeds.
+- A [[Cloaker]], two [[Flame Skull]]s, and [[Hooksy the Clown Automaton]] ambush the party. The cloaker summoned the others through infrasound. Hooksy is revealed to be a living creature beneath metal plating, not a true construct. The party defeats all three enemies.
+- [[Red Caesar]] salvages Hooksy's blood-covered clown mask.
+- [[Kerben]] plays the "Mind the Mimic" carnival shell game, winning gold and platinum carrot coins.
+- A haunted living tent attacks the party as they approach a large main tent.
+
+### Chunk 0002
+
+- The party defeats the [[Haunted Living Tent]], a gargantuan creature that siphons victims into an extra-dimensional tea cozy house. Sustained damage from inside and out causes it to deflate and disintegrate.
+- [[Red Caesar]] and [[Kerben]] recover [[Jack Harvey's Portrait]] from inside the tent before the extra-dimensional space collapses.
+- The party enters a large courtyard with a sealed gate bearing the "40 Carats" logo and warding sigils. Four holes in the ground serve as portals to different park zones.
+- A [[Magen]] explains that four lamps must be lit to access [[Jack Harvey]]'s inner sanctum. It describes the four portal destinations: [[Magic Hat]], [[Hole Shebang]], [[King of the Hole]], and [[Hole on Wheels]].
+- [[Red Caesar]] impulsively jumps into the Hole Shebang portal first. The rest of the party wards the entrance, then follows.
+- [[Domyx]] finds a dead adventurer's belongings, including a [[Ranger Scroll]] for [[Kerben]].
+- The party emerges from barrels in [[City Hole]], a small cavern with barrel portals connecting to the other zones. A wireframe gate blocks the path deeper into the Hole Shebang.

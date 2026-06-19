@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027"]
 aliases:
   - Kerbin
 related:
@@ -35,6 +35,8 @@ related:
   - "[[Mobley]]"
   - "[[The Carrot Cake]]"
   - "[[Jack Harvey]]"
+  - "[[The Ascot]]"
+  - "[[Gilder Savar]]"
 ---
 
 A rogue with a sailor background who speaks Northern (dwarvish). Travels aboard [[The Opal]] and works with [[Raxxy]] on navigation and astrology duties. Has poison resistance, likely from childhood exposure to toxic fumes in the dwarven deep world.
@@ -122,6 +124,12 @@ After the hydra was defeated, the party trekked into the Arctic Plains near [[Th
 After the fight, Kerben searched the area and determined the dragon did not keep a traditional horde. He used the dragon's scales and darkwood bark to craft [[Tatzelwurm Gizzard Juice]], a one-use white dragon poison. The dragon's blood stained a nearby river red, providing a visible landmark for the party's path forward into Titanfolk territory.
 
 When a [[Remorhaz]] ambushed the party, Kerben fought from within [[Vokunar]]'s Wall of Radiance alongside [[Domyx]]. After Domyx was swallowed, Kerben fired into the Remorhaz's side, punching a hole that let light reach Domyx inside. After [[Vokunar]]'s radiant magic destroyed the beast, Kerben used his survival knowledge to cut into the creature's underbelly and extract Domyx's unconscious body. He harvested the Remorhaz's heat gland while it was still warm, providing warmth for the rest of the mountain climb. When [[Domyx]] split from the group to enter [[Akathia Manor]], Kerben stayed hidden at a distance with the rest of the party, remaining stealthy among the xenophobic titan folk.
+
+## Session 027
+
+In [[Cutlass Cray]], Kerben purchased three of [[The Wonder Hulk]]'s feather tokens — a swan boat, a swift multi-colored bird called Oscar, and a hot air balloon. He acquired [[The Ascot]], a scarf that lets him communicate with animals and swap places with nearby animals. He also purchased Pipes of Smoke Monsters for the entire party and three immovable rods. [[The Opal]] was fully repaired.
+
+Kerben guided the party to [[The Carrot Cake]] — the culmination of breadcrumbs he had followed since the first dungeon. He recognized the "40 Carats" carrot-diamond logo and recalled that [[Jack Harvey]] had been converting the amusement park into a bunker before the Cataclysm. Inside the park, Kerben helped defeat undead in tattered orange uniforms and later won gold and platinum carrot coins at the "Mind the Mimic" carnival game.
 
 ## Session 025
 

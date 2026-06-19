@@ -2,7 +2,7 @@
 type: location
 subtypes: [city]
 session_introduced: "001"
-sessions_appeared: ["013"]
+sessions_appeared: ["013", "027"]
 ---
 
 A floating city that grows as more boats attach to it. A typical pirate gathering place, heavily trafficked with ships flying bright colors. Some ships are anchored into a continental shelf that never surfaces — a lacuna.
@@ -12,7 +12,7 @@ A floating city that grows as more boats attach to it. A typical pirate gatherin
 - [[The Brine and Bodak]] — A popular establishment where [[Octavia Crayborne]] sings
 - [[The Corsairs' Court]]
 - [[The W. H. Boutique]] — Run by [[The Wonder Hulk]], a well-traveled proprietor
-- Savar Brews
+- Savar Brews — Potion shop run by [[Gilder Savar]]
 - [[Bookbinders Cray]] — Library run by [[Pleasance MacLenth]]
 - [[The Church of the Thirty Lights]] — Led by Pastor Borm, a gold wyrmling
 - [[The Bad Hare Day Theatre]]

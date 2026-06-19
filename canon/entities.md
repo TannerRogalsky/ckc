@@ -38,6 +38,7 @@
 - [[Theotropa]] — Leader of The Garden, a druid sanctuary
 - [[Boral Erendel]] — Order member stationed at The Garden, working on a side project
 - [[The Wonder Hulk]] — Proprietor of The W. H. Boutique in Cutlass Cray
+- [[Gilder Savar]] — Lich operating a potion shop in Cutlass Cray; former traveling companion of Ceril and Vanzia Vinfei
 - [[Pleasance MacLenth]] — Librarian at Bookbinders Cray
 - [[Pastor Borm]] — Gold wyrmling, pastor of The Church of the Thirty Lights
 - [[Octavia Crayborne]] — Singer at [[The Brine and Bodak]]
@@ -82,6 +83,11 @@
 ## Creatures & Companions
 - [[Arcanoloth]] — Arcanoloth-type outsider; the [[Tome Keeper]] is one and commands a portion of the ocean
 - [[Zulu]] — Kerben's dinosaur companion
+- [[Cloaker]] — Bat-like creature wrapped in a massive silk membrane; ambushes from the canopy and summons allies through infrasound
+- [[Flame Skull]] — Tiny neon-colored floating fiend skulls that cast fire spells and blend with magical illusions
+- [[Hooksy the Clown Automaton]] — Grotesque clown-faced automaton that is actually a living creature bound within metal plating
+- [[Haunted Living Tent]] — Gargantuan living tent at The Carrot Cake that siphons victims into an extra-dimensional tea cozy house
+- [[Magen]] — Construct-like rabbit automata carrying part of Jack Harvey's mind and maintaining The Carrot Cake
 - [[Tango]] — Kerben's flying companion creature
 - [[Nyquil]] — Ceril's owl familiar, killed by Akasha rain
 - [[Kilosaurus]] — Triceratops-like companion used to haul Penumbra and later left at Lyngbakr Lagoon
@@ -184,6 +190,11 @@
 - [[Akathia Manor]] — Golden palace atop the highest mountains in Stark; ruling seat of [[Clan Akathia]]
 - [[Prison of Frost]] — Prison facility in the titan homeland where [[Ulrich Fjöler]] is held awaiting execution
 - [[Tome Keeper's Pyramid]] — Temple in the eastern waters built by the Tome Keeper to house the Tome of Satariel
+- [[Magic Hat]] — Hotel and bunker within The Carrot Cake, accessible via teleport circle from the midway
+- [[Hole Shebang]] — Festival island of games and entertainments within The Carrot Cake, accessible via teleport circle
+- [[City Hole]] — Central hub cavern with barrel portals connecting to the park's zones
+- [[King of the Hole]] — Island resort and coliseum zone within The Carrot Cake
+- [[Hole on Wheels]] — Flying train zone offering scenic views of Esperanto
 
 ## Organizations
 - [[Clan Lapis]] — Titan folk clan known for mining and gem exploration; Lorelei married into this clan
@@ -245,6 +256,11 @@
 - [[Potion of Fluid Adamantite]] — Rare potion granting resistance to all damage for one minute; found in the Southern Archipelago Castle
 - [[Orkland Pin of Courage]] — Award given to Obould for saving orc tribes in southern battles decades ago
 - [[Obould's Wedding Band]] — Inscribed wedding ring belonging to Obould, possibly intended for a future betrothal
+- [[The Ascot]] — Magic scarf granting animal communication and animal swap-place, acquired by Kerben
+- [[Wand of Blighting Bolts]] — Blight-based wand acquired by Red Caesar in exchange for his Wand of Lightning Bolts
+- [[Moon Blade]] — Versatile warhammer forged from Crone's remains, traded to Vokunar by the Church of the Thirty Lights
+- [[Jack Harvey's Portrait]] — Painting of Jack Harvey recovered from the haunted living tent
+- [[Ranger Scroll]] — Ranger spell scroll found among a dead adventurer's belongings
 
 ## Deities
 - [[Aeris]] — Sister goddess of Chaos, Potential, and Fate (alias: The Sky); wounded sixty years ago by Starfall, now being restored by Penumbra
