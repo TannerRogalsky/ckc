@@ -21,9 +21,10 @@
 ## NPCs
 - [[Lorelei]] — Domyx's sister, titan folk married into Clan Lapis, pregnant with Ulrich's child
 - [[Gunk Grodley]] — Dapper goblin trader who captains the Goblin Traders' ship
-- [[Vizier Jade]] — Vizier from Broy serving Emperor Shen
+- [[Vizier Jade]] — Vizier from Broy serving Emperor Shen; mind-reader, holds Obould as leverage
 - [[Morel Chainsunder]] — Cult leader controlling the dwarves of Darvinblast
-- [[Emperor Shen]] — Emperor of Broy
+- [[Emperor Shen]] — Emperor of Broy, revealed to be Domyx's grandfather and Domyx's Ancestor
+- [[Seneschal Faran]] — Masked human seneschal of the Broyish Empire who serves as gatekeeper to the imperial high court
 - [[Master Lee]] — Figure associated with Heaven's Bulb (also called Master Li)
 - [[Keeper Rufus]] — Figure at Heaven's Bulb alongside Master Lee
 - [[Lady Jacinthe]] — Leader of The League of New Stark, former princess
@@ -60,7 +61,9 @@
 - [[Deep World Wizard]] — Mage in [[Darvinblast]] allied with an [[Etten]] champion
 - [[Domyx's Ancestor]] — Erased sky-touching member of Domyx's bloodline, named by Sigil as the party's greatest enemy
 - [[Queen Caeradwyn]] — Former elven queen whose death preceded elven uprisings and the Cataclysm
-- [[Vanzia Vinfei]] — High elf paladin revolutionary who escaped Brimbalin with Ceril
+- [[Vanzia Vinfei]] — High elf paladin revolutionary who escaped Brimbalin with Ceril; now operating in the Broyish Capital alongside Naomi
+- [[Naomi]] — Underground fixer in the Broyish Capital who absolves criminal records through magically stamped documents
+- [[Chan Hu]] — Ancient-world survivor and merchant in the Broyish market; previously known as "The Emerald Leaf" and knew Master Lee
 - [[Ulrich Fjöler]] — Domyx's friend from Clan Akathia; imprisoned and facing execution; father of Lorelei's child
 - [[Courteous Cam]] — Dwarf farmer-trader who gave Ceril seeds, a scroll, and the gnoll Penumbra lead
 - [[Xander MacLenth]] — Pirate ghost released from the abandoned Far Helm Clan home
@@ -112,6 +115,9 @@
 - [[Chain Devil]] — Devil composed entirely of chains with an unnerving gaze that inflicts supernatural fear
 - [[Hezru]] — Large orange toad-like monster with bull horns and a nauseating stench aura
 - [[Harengon]] — Rabbit-like species with fuzzy orange fur and rapid reproduction
+- [[Baron Akathian the Second]] — Cloud titan related to Domyx's bloodline; attacked the party then departed peacefully
+- [[Oni]] — Fiendish horned demons serving as imperial guards for the Broyish Empire
+- [[The Tyrant]] — Bulky one-eyed creature and companion of Vizier Jade; sent to find The Carrot Cake and never returned
 
 ## Locations
 - [[Continental Stark]] — Massive elfish continent, last remnant of the Old World, home to Brimbalin
@@ -154,7 +160,11 @@
 - [[Lyngbakr Lagoon]] — Developing base near Castle Kaedon where Alamar, Relic Elnavi, and Kilosaurus remain
 - [[Rasharan's Rock]] — Location that no longer exists
 - [[Hole in the Sky]] — Hole the party aims to find and plug
-- [[Southport]] — Port city somewhere to the west of The Garden, sought by Rochella Golf
+- [[Southport]] — Port city west of The Garden, now a plague town afflicted by Mana Sickness; sought by Rochella Golf
+- [[Broyish Capital]] — Imperial capital of the Broyish Empire; highly industrialized with oni sentries, magic restrictions, and a bustling market
+- [[Mana Sea]] — Treacherous body of water near Southport; source of Mana Sickness and home to Deep Roses
+- [[Thalasia]] — Continent where Domyx's titan people live, separated by treacherous mountains
+- [[Tome Keeper's Pyramid]] — Temple in the eastern waters built by the Tome Keeper to house the Tome of Satariel
 
 ## Organizations
 - [[Clan Lapis]] — Titan folk clan known for mining and gem exploration; Lorelei married into this clan
@@ -207,6 +217,8 @@
 - [[Boots of the Alvigard]] — Magical boots that quicken Red Caesar
 - [[Branch of the Itinerant]] — Spellcasting wand that blooms flowers along a drawn path, acquired by Ceril
 - [[Cloaks of Billowing]] — Magic cloaks allowing dramatic billowing as a bonus action, purchased for the party
+- [[Deep Roses]] — Rare herbs growing underwater in the Mana Sea; correct cure for Mana Sickness
+- [[Mana Sickness]] — Contagious plague spreading through Southport from the Mana Sea; victims fall into impenetrable slumber
 
 ## Deities
 - [[Aeris]] — Sister goddess of Chaos, Potential, and Fate (alias: The Sky)

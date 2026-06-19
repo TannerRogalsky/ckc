@@ -2,7 +2,7 @@
 type: organization
 subtypes: [empire]
 session_introduced: "004"
-sessions_appeared: ["013", "014", "016", "022"]
+sessions_appeared: ["013", "014", "016", "022", "023"]
 aliases:
   - Dawn Empire
 related:
@@ -11,6 +11,8 @@ related:
   - "[[Red Caesar]]"
   - "[[The Opal]]"
   - "[[Genesis Mundi]]"
+  - "[[The Tyrant]]"
+  - "[[Oni]]"
   - "[[Penumbra]]"
 ---
 
@@ -22,4 +24,8 @@ In session 013, [[Alamar]] reported seeing Broyish airships searching the area a
 
 In session 014, [[Risolvir Kirnodell]] and [[Veronia Karadel]] of [[House Kiernodel]] warned the party that the Empire is their greatest enemy. The Empire is also pursuing the [[Genesis Mundi]] and collecting [[Penumbra]] pieces — likely for a weapon. The Empire is described as more violent than any elf, killing people who don't even stand in their way. [[Vizier Jade]] confirmed the Empire has a military arm mapping all of what was once Stark and that she has been watching [[Red Caesar]] to ensure he survives until he can be recruited.
 
-In session 022, the party encountered imperial military forces on the [[Harengon Warrens]] island. [[Theo Harvey]] confirmed an alternate name for the Empire during his captivity. The Empire maintains a significant military presence in the region with scouts and marshals stationed on occupied islands.
+In session 022, the party encountered imperial military forces on the [[Harengon Warrens]] island. [[Red Caesar]] identified distinctive markings on the soldiers' capes as imperial insignia. The Empire maintains a significant military presence in the region with scouts and marshals stationed on occupied islands.
+
+## Session 023
+
+The party arrived at the coast of [[Broy]] and disembarked. They encountered [[Oni]] demons serving as imperial guards, suggesting the Empire employs fiendish creatures for enforcement. [[Theo Harvey]] revealed that [[Vizier Jade]] had sent her companion [[The Tyrant]] to search for [[The Carrot Cake]], indicating the Empire's interest in ancient magical structures and their potential power sources.

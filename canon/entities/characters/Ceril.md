@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023"]
 related:
   - "[[Vanzia Vinfei]]"
   - "[[House Kiernodel]]"
@@ -30,6 +30,10 @@ related:
   - "[[Rakshasa]]"
   - "[[Veronia Karadel]]"
   - "[[Risolvir Kirnodell]]"
+  - "[[Tome Keeper]]"
+  - "[[Tome of Satariel]]"
+  - "[[Tome Keeper's Pyramid]]"
+  - "[[Broy]]"
 aliases:
   - Cyril
   - Serral
@@ -102,7 +106,7 @@ In a later encounter in the same hallway, Ceril fired Guiding Bolt at the [[Hezr
 
 ## Session 022
 
-The party split into two groups. [[Ceril]] traveled with [[Red Caesar]] via Magic Circle to [[The White Drake]] to seek information about [[Obould]]'s fate. They learned from [[Damien Ouranous]] that [[Lady Jacinthe]] was inconsolable and declared Obould deceased.
+The party split into two groups. [[Ceril]] traveled with [[Red Caesar]] via Teleportation Circle to [[The White Drake]] to seek information about [[Obould]]'s fate. They learned from [[Damien Ouranous]] that [[Lady Jacinthe]] was inconsolable and declared Obould deceased.
 
 Ceril infiltrated the ship's interior, blending in with refugees and staff. He observed the security around Jacinthe's quarters — guards at the staircase and trusted nobility at the doors — and judged a direct approach too risky. Instead, he tracked down the laundry service and overheard attendants discussing Jacinthe's drinking habits and a frazzled sommelier stuck in the wine cellar. He stole clothes from the laundry, disguised himself as a crew member named "Baragas," and convinced the sommelier to hand over a prized bottle of Talyn brandy that Jacinthe had been drinking from.
 
@@ -117,3 +121,15 @@ After the scrying, Ceril shared all the information with [[Red Caesar]] and the 
 The party reconvened aboard [[The Opal]] and learned of a new quest from [[David Harvey]]: retrieve the traitor [[Theo Harvey]] from imperial-occupied territory.
 
 The party sailed to the [[Harengon Warrens]] island and was ambushed by invisible imperial scouts and marshals alongside Theo. After the battle, Ceril and [[Vokunar]] stopped the fleeing imperial forces, killing most of the remaining soldiers. Ceril helped secure Theo as a prisoner.
+
+## Session 023
+
+During the voyage to [[Broy]], Ceril cast Commune with Nature to locate the [[Tome Keeper]]. Dragonflies appeared as indicators that the fiend was within three miles. Ceril discovered a pyramid-shaped landmass approximately 10 miles away — [[Tome Keeper's Pyramid]], created by the [[Arcanoloth]] to house the [[Tome of Satariel]]. The eastern waters retain pre-[[The Cataclysm|Cataclysm]] ecology, with ancient trees visible beneath the waves.
+
+Ceril fought alongside the party against [[Baron Akathian the Second]] and the frost titan during the storm. He repositioned his Moonbeam on the cloud titan and rode on [[Domyx]]'s shoulder during the enlarged titan battle. After the titans departed, the party docked near the coast of [[Broy]].
+
+Upon disembarking, the party encountered a human and tiefling surrounded by [[Oni]] demons on slick stone. Ceril cast Moonbeam on the nearest oni and helped engage them in combat.
+
+After the oni were defeated, the party learned the human couple was from [[Southport]] seeking a cure for [[Mana Sickness]]. Ceril used his knowledge of nature to identify the herbs they had purchased — wrong herbs for the wrong illness. He identified [[Deep Roses]] as the correct cure and learned the Mana Sickness is contagious and spreading through Southport. He misty-stepped inside [[Vokunar]]'s wall of fire to reach the couple safely. Later, Ceril was reunited with [[Vanzia Vinfei]] in the [[Broyish Capital]] — an old ally from their escape from [[Brimbalin]] decades ago. Vanzia was now operating alongside [[Naomi]] in the imperial city.
+
+The party entered the imperial palace and was granted audience with [[Vizier Jade]]. Ceril observed Jade's cruelty to [[Obould]] — she forced him to dance in a resilient sphere as entertainment. Ceril attempted to help [[Red Caesar]]'s negotiation by suggesting the party let Obould die, but also urged against giving Jade the secrets to penumbra alchemy, calling it too dangerous. Ceril correctly suspected that Jade might already have killed Obould and was bluffing about his survival.

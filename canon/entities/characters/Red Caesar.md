@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023"]
 related:
   - "[[Heaven's Bulb]]"
   - "[[The Cataclysm]]"
@@ -31,6 +31,8 @@ related:
   - "[[Damien Ouranous]]"
   - "[[The League of New Stark]]"
   - "[[Starfall]]"
+  - "[[Baron Akathian the Second]]"
+  - "[[Broy]]"
 ---
 
 A member of [[Heaven's Bulb]] who survived [[The Cataclysm]]. Travels aboard [[The Opal]] as part of the party. Awakened by something aboard The Opal. Keeps alarms strewn about the ship and personally investigates any disturbances. Has [[Vizier Jade]]'s secret regarding her visit.
@@ -101,7 +103,7 @@ In a later encounter in the same hallway, Red held the doorway against a [[Hezru
 
 ## Session 022
 
-The party split into two groups. [[Red Caesar]] and [[Ceril]] used Magic Circle to travel to [[The White Drake]] to seek information about [[Obould]]'s fate. They were greeted by [[Damien Ouranous]], who relayed that [[Lady Jacinthe]] was inconsolable and would not receive visitors. Jacinthe's message was delivered through Damien: "For all intents and purposes, you should treat your captain as deceased. There is no more Captain Obould. He is dead and gone." Invoking his name had caused Jacinthe to weep extensively.
+The party split into two groups. [[Red Caesar]] and [[Ceril]] used Teleportation Circle to travel to [[The White Drake]] to seek information about [[Obould]]'s fate. They were greeted by [[Damien Ouranous]], who relayed that [[Lady Jacinthe]] was inconsolable and would not receive visitors. Jacinthe's message was delivered through Damien: "For all intents and purposes, you should treat your captain as deceased. There is no more Captain Obould. He is dead and gone." Invoking his name had caused Jacinthe to weep extensively.
 
 Red Caesar was given lodging (room 17) and permission to stay as long as they liked.
 
@@ -114,3 +116,13 @@ Red and Ceril returned to [[The White Drake]] and debriefed the rest of the part
 The party received a quest from [[David Harvey]] to capture [[Theo Harvey]], a traitor Harengon working for the [[Broyish Empire]]. The party sailed to the [[Harengon Warrens]] island and found it oddly empty. Red detected a Harengon nearby, and the party was ambushed by invisible imperial scouts and marshals alongside Theo. Red trapped Theo alive, preventing him from escaping. After the battle, the remaining imperial forces attempted to flee by longboat but were killed by [[Ceril]] and [[Vokunar]].
 
 The party discovered the entrance to the Harengon warrens — a hole beneath a baobab tree concealed by illusion and invisible dirt. Theo revealed that [[Jack Harvey]]'s final project, [[The Carrot Cake]], is "alive and well." The party skipped [[Cutlass Cray]] and continued east toward the [[Broyish Empire]] with Theo as prisoner, weighing his value as a bargaining chip against the risk of him escaping.
+
+## Session 023
+
+During the voyage to [[Broy]], Red helped track the titans during the storm, discovering two targets approaching from the starboard side. He also helped [[Domyx]] match the titans' size during the fight with [[Baron Akathian the Second]].
+
+Upon disembarking near [[Broy]], Red helped engage the [[Oni]] demons threatening the human and tiefling civilians.
+
+In the [[Broyish Capital]], Red helped defeat the oni near the coast, then acquired citizenship papers from [[Vanzia Vinfei]] and received a teleport circle scriptum back to [[Brimbalin]]. He explored the capital's market, meeting [[Chan Hu]] — an ancient-world survivor who recognized him as a member of [[Heaven's Bulb]].
+
+The party entered the imperial palace and was granted audience with [[Vizier Jade]]. Red attempted to negotiate [[Obould]]'s freedom by offering to teach the Empire how to synthesize penumbra from water. Jade read his thoughts directly and caught the deception, noting he had no solid plan in place. Red then pivoted to offering to procure penumbra over time. Jade demanded fifteen pieces — the same deal made with [[The League of New Stark]]. When Obould was brought before them, Red offered to part with one piece of penumbra to secure his captain's freedom, but Jade raised the price back to fifteen. Red departed the palace recognizing that Jade was conserving energy and keeping them alive as a resource.

@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023"]
 aliases:
   - Domyx Akathian
 related:
@@ -34,6 +34,12 @@ related:
   - "[[Figma Brickfinger]]"
   - "[[Gith Shard Glaive]]"
   - "[[Sigrid Forgewelt]]"
+  - "[[Baron Akathian the Second]]"
+  - "[[Thalasia]]"
+  - "[[Theo Harvey]]"
+  - "[[Broy]]"
+  - "[[Emperor Shen]]"
+  - "[[Vizier Jade]]"
 ---
 
 Full name: Domyx Akathian. A titan from [[Clan Akathia]] who favors kicking doors open and fighting with rage. Travels aboard [[The Opal]].
@@ -112,3 +118,15 @@ The party split into two groups. Domyx sailed with [[Kerben]] and [[Vokunar]] ab
 Domyx visited [[Sigrid Forgewelt]] at the marketplace. He traded a Gith Star Gem (from the [[Aeon]] encounter), a ruby, and gold to commission the [[Gith Shard Glaive]], a halberd with extended-range psychic cleave attacks. He also traded equestrian manuals for enchanted javelins, useful now that dwarves employed livestock for transport.
 
 The party received a quest from [[David Harvey]] to capture [[Theo Harvey]], a traitor Harengon working for the [[Broyish Empire]]. The party sailed to the [[Harengon Warrens]] island and was ambushed by invisible imperial scouts and marshals alongside Theo. Domyx fought through the ambush on the island surface. After the battle, [[Vokunar]] located the warren entrance beneath a baobab tree. The party skipped [[Cutlass Cray]] and continued east toward the [[Broyish Empire]] with Theo as prisoner.
+
+## Session 023
+
+During the voyage to [[Broy]], [[Theo Harvey]] approached Domyx during his guard duty and attempted to negotiate accommodations. Theo revealed that he knew the location of [[The Carrot Cake]] — a massive magical amusement park project from old [[Kaedon]] that was powered by [[Penumbra]] before the sky broke. The Carrot Cake is a maze of illusions and arcane traps; [[Vizier Jade]] had previously sent her companion [[The Tyrant]] to find it, and the Tyrant never returned. Theo claimed the Empire wanted this information and that executing him was merely a display of force.
+
+As the party approached the coast of [[Broy]], a fierce storm struck. Two titans appeared — [[Baron Akathian the Second]], a cloud titan, and an unnamed female frost titan. Baron Akathian was a relation to Domyx's bloodline and called him "great nephew abomination." The titans were acting under orders from a higher power, not of their own volition. Domyx grew to match their size and fought Baron Akathian aboard [[The Opal]]. He steadied the ship with his massive form, preventing it from capsizing, and helped defeat Baron Akathian.
+
+After [[Vokunar]] healed both titans, they departed peacefully heading north toward titan homeland territory. Baron Akathian gave Domyx a scroll case containing a map of [[Thalasia]] — the continent where Domyx's people live — showing a treacherous path through hills into the titan homeland. The party then docked near the coast of [[Broy]] and disembarked.
+
+In the [[Broyish Capital]], Domyx helped defeat the oni near the coast. He negotiated with [[Naomi]] to clear the party's warrants, paying 10 pounds of mithril. He asked about titan folk in the region and learned they live to the north and have assimilated into the industrial society.
+
+The party entered the imperial palace and was granted audience with [[Vizier Jade]]. Jade revealed [[Emperor Shen]] was Domyx's grandfather — confirmed by the matching sky-colored palms shared between Domyx and the emperor, evidence of having touched the sky. Shen spoke in Giant's Runic and revealed he was the first of his bloodline to touch the sky and planned to be the last. He tried to destroy the sky using [[Starfall]] and was not entirely successful. His goal is that "our rage will kill the gods." Shen fell unconscious after speaking, and Jade dismissed the party.

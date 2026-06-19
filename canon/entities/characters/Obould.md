@@ -2,12 +2,14 @@
 type: character
 subtypes: [npc]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "015", "016", "019", "021", "022"]
+sessions_appeared: ["001", "013", "015", "016", "019", "021", "022", "023"]
 related:
   - "[[The Opal]]"
   - "[[Domyx]]"
   - "[[Kerben]]"
   - "[[Lady Jacinthe]]"
+  - "[[Vizier Jade]]"
+  - "[[Broyish Empire]]"
 ---
 
 Captain of [[The Opal]]. A gaudy orc who is very friendly with his crew and willing to go to great lengths (even "helping an elf") to establish himself and his ship as a force to be reckoned with. Hates [[The Order of Seasons]], describing them as "mostly elves, mostly jerks." The ship may have been inherited or stolen.
@@ -26,6 +28,10 @@ In session 021, Obould abandoned [[The Opal]] without warning. He told the crew 
 
 ## Session 022
 
-[[Red Caesar]] and [[Ceril]] visited [[The White Drake]] to learn what had happened to Obould. [[Lady Jacinthe]] was inconsolable and declared him deceased through [[Damien Ouranous]], saying "There is no more Captain Obould. He is dead and gone." Invoking his name caused Jacinthe to weep extensively. This confirmed Red Caesar's suspicion that Obould's capture was tied to his oath to die in Jacinthe's place.
+[[Red Caesar]] and [[Ceril]] visited [[The White Drake]] to learn what had happened to Obould. [[Lady Jacinthe]] appeared inconsolable and declared him deceased through [[Damien Ouranous]], saying "There is no more Captain Obould. He is dead and gone." Invoking his name reportedly caused Jacinthe to weep extensively. This deepened Red Caesar's suspicion that Obould's capture was tied to his oath to die in Jacinthe's place.
 
 Later in session 022, [[Ceril]]'s successful scrying on [[Lady Jacinthe]] revealed that [[Vizier Jade]] was using Obould as leverage against Jacinthe. Jade confirmed Obould was safe but living, being fed and in "not the best of moods." She gave Jacinthe a one-month ultimatum to provide the [[Broyish Empire]] with [[Penumbra]] or information leading to it. Every piece of useful intelligence might extend the deadline, but after a month Jade could not guarantee Obould's survival. This gave the party approximately 21 days remaining (after accounting for travel time) to act.
+
+## Session 023
+
+In the imperial palace, [[Vizier Jade]] brought Obould before the party encased in a resilient sphere. He was alive but manacled, hunched over, and emaciated — clearly in poor spirits and enduring indignity. Jade cast a spell forcing him to dance in place as entertainment, humiliating him further. Obould had enough control to turn his face away from the party, refusing to let them see him in this state. When Jade ended the spell and prepared to return him, Obould managed to speak briefly: he warned the party not to give Jade any penumbra, explaining its purpose, before his mouth sealed over with flesh and he was hauled away. Jade revealed that [[The League of New Stark]] had been giving her penumbra, extending Obould's stay of execution to three months.

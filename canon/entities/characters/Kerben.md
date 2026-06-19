@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023"]
 aliases:
   - Kerbin
 related:
@@ -28,6 +28,7 @@ related:
   - "[[Wyvern Poison]]"
   - "[[Lolth's Sting]]"
   - "[[Subpoena Deuces Mercator]]"
+  - "[[Broy]]"
 ---
 
 A rogue with a sailor background who speaks Northern (dwarvish). Travels aboard [[The Opal]] and works with [[Raxxy]] on navigation and astrology duties. Has poison resistance, likely from childhood exposure to toxic fumes in the dwarven deep world.
@@ -95,3 +96,7 @@ In a later encounter in the same hallway, Kerben shredded the [[Hezru]] with dua
 Kerben sailed aboard [[The Opal]] to [[The Pit]] with [[Domyx]] and [[Vokunar]], piloting the ship and keeping distance from the Gheister (which Kerben had previously stolen). At the marketplace, Kerben waited while the others shopped for weapons and armor. The party purchased ship upgrades including a bulbous bow for better terrain navigation and hardened sails for improved speed.
 
 The party received a quest from [[David Harvey]] to capture [[Theo Harvey]], a traitor Harengon working for the [[Broyish Empire]]. The party sailed to the [[Harengon Warrens]] island and was ambushed by invisible imperial scouts and marshals alongside Theo. Kerben helped fight through the ambush on the island surface. The party skipped [[Cutlass Cray]] and continued east toward the [[Broyish Empire]] with Theo as prisoner.
+
+## Session 023
+
+As the party approached [[Broy]], [[Kerben]] was tasked with finding a secure anchorage for [[The Opal]] along the hostile coastline. He identified a hidden docking spot among the cliffside slick stones. With the captain missing and territory hostile, Kerben chose to stay behind and guard the ship rather than venture inland with the party.

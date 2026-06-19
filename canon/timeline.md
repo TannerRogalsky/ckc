@@ -503,7 +503,7 @@
 
 ### Chunk 0000
 
-- The party splits into two groups: [[Kerben]], [[Domyx]], and [[Vokunar]] sail [[The Opal]] to [[The Pit]]; [[Red Caesar]] and [[Ceril]] travel to [[The White Drake]] via Magic Circle.
+- The party splits into two groups: [[Kerben]], [[Domyx]], and [[Vokunar]] sail [[The Opal]] to [[The Pit]]; [[Red Caesar]] and [[Ceril]] travel to [[The White Drake]] via Teleportation Circle.
 - [[Brim the Bullywog]] departs [[The Opal]] at The Pit to explore Dwarfland independently.
 - [[Vokunar]] meets [[Figma Brickfinger]] at [[The Palace of the Pit]]. She reports that deep worlder integration is progressing with minor conflicts, and that industrial expansion is underway at The Pit. Aerial scouts have sighted [[Broyish Empire]] airships in the region.
 - [[Domyx]] trades a Gith Star Gem and a ruby to [[Sigrid Forgewelt]] for the [[Gith Shard Glaive]], a halberd with extended-range psychic cleave attacks. He also trades equestrian manuals for enchanted javelins.
@@ -534,5 +534,49 @@
 - [[Ceril]] and [[Vokunar]] stop the fleeing imperial forces on their longboat, killing most of the remaining soldiers.
 - [[Vokunar]] locates the hidden entrance to the Harengon warrens beneath a baobab tree.
 - Theo revealed that [[Jack Harvey]]'s final project — [[The Carrot Cake]] — is "alive and well," implying the amusement park's legacy persists.
-- Theo confirmed an alternate name for the [[Broyish Empire]].
+- [[Red Caesar]] identified distinctive markings on the imperial soldiers.
 - The party skips [[Cutlass Cray]] and continues east toward the [[Broyish Empire]] with Theo as prisoner.
+
+## Session 023
+
+### Chunk 0000
+
+- The party sails east toward [[Broy]] aboard [[The Opal]] with [[Theo Harvey]] as prisoner. The eastern waters retain pre-[[The Cataclysm]] ecology with ancient underwater trees.
+- [[Ceril]]'s Commune with Nature locates [[Tome Keeper's Pyramid]] — a temple in the eastern waters approximately 10 miles away, housing the [[Tome of Satariel]]. Dragonflies appear as indicators that the [[Tome Keeper]] is within three miles.
+- [[Vokunar]]'s Legend Lore reveals the Tome is made of 666 pages, each from a different wizard's soul, and returns to hell if destroyed. The Tome Keeper can only capture knowledge through death. The temple's interior mirrors its state in hell and contains traps.
+- The party decides to head to [[Broy]] first to rescue [[Obould]], based on the then-known deadline, and return to the pyramid later.
+- That night, [[Theo Harvey]] reveals to [[Domyx]] that [[The Carrot Cake]] was powered by [[Penumbra]] and is a maze of illusions and arcane traps. [[Vizier Jade]] sent [[The Tyrant]] to find it; the Tyrant never returned.
+- A fierce storm strikes as the party approaches the coast of [[Broy]]. Two titans appear: [[Baron Akathian the Second]], a cloud titan, and an unnamed female frost titan.
+- Baron Akathian is a relation to [[Domyx]]'s bloodline and calls him "great nephew abomination." The titans attack the party aboard [[The Opal]], acting under orders from a higher power.
+- [[Domyx]] uses Enlarge to match the titans' size and fights Baron Akathian. He steadies [[The Opal]] with his massive form, preventing it from capsizing.
+- The party defeats Baron Akathian and heals both titans.
+- The titans depart peacefully heading north toward [[Thalasia]], the continent where Domyx's people live. Baron Akathian gives Domyx a map showing a path through hills into the titan homeland.
+- The party docks [[The Opal]] near the coast of [[Broy]]. [[Kerben]] stays behind to guard the ship.
+- The remaining party members disembark and cross a waterway using a wrecked boat as a bridge.
+- They encounter a human and tiefling woman surrounded by [[Oni]] demons on slick stone. The human shouts to his wife "stay back, I will protect you." [[Vokunar]] intervenes to protect the civilians, and combat begins.
+
+### Chunk 0001
+
+- The party defeats the oni near the coast. The oni regenerate but disintegrate into black ash when killed.
+- The saved civilians are Trent and Abby from [[Southport]]. They seek a cure for [[Mana Sickness]], a contagious plague spreading through Southport from the [[Mana Sea]]. The correct cure requires [[Deep Roses]] — herbs growing exclusively underwater in the Mana Sea.
+- Trent and Abby guide the party through winding stairs into an industrial steel town with whirring gears, copper electrical cables, and automated magic-powered devices.
+- [[Oni]] sentries guard the approach, some invisible. [[Vokunar]] uses scouting magic to find a safe route and discover [[Naomi]]'s dive bar.
+- Naomi operates as an underground fixer, absolving criminal records through magically stamped documents in coordination with an armored elf government associate.
+- The party pays Naomi 10 pounds of mithril to clear their automated oni warrants.
+- [[Vanzia Vinfei]] — who escaped [[Brimbalin]] with [[Ceril]] decades earlier — is reunited with Ceril. She now operates alongside Naomi in the [[Broyish Capital]].
+- Vanzia confirms [[Obould]] is held by [[Vizier Jade]] as prisoner of war and leverage against [[The League of New Stark]]. She offers to lead the party to Obould but warns Jade must be confronted first.
+- The party learns the capital has magic restrictions: permanent dead magic zones in hotels and fields suppressing spells below 7th level. Spell scrolls are contraband.
+- [[Red Caesar]] receives citizenship papers and a teleport circle scriptum back to [[Brimbalin]]. He meets [[Chan Hu]], an ancient-world survivor who recognizes him as a member of [[Heaven's Bulb]].
+- The party explores the bustling market, finding diverse non-human residents despite the empire's xenophobic reputation. They consider outfitting [[The Opal]] with cannons.
+- The party long-rests in the [[Broyish Capital]].
+
+### Chunk 0002
+
+- The party enters the imperial palace and is intercepted by [[Seneschal Faran]], who verifies their identities before granting audience with the imperial high court.
+- The party meets [[Vizier Jade]] in her chamber. Jade reads the party's thoughts directly and catches [[Red Caesar]]'s attempted deception about penumbra synthesis.
+- Jade demands fifteen pieces of [[Penumbra]] for [[Obould]]'s freedom — the same deal made with [[The League of New Stark]].
+- Jade brings Obould before the party encased in a resilient sphere. He is alive but humiliated; Jade forces him to dance as entertainment before he warns the party not to give her penumbra.
+- Jade reveals [[Emperor Shen]] is [[Domyx]]'s grandfather, confirmed by matching sky-colored palms. Shen is [[Domyx's Ancestor]], the sky-toucher [[Sigil]] named as the party's greatest enemy.
+- Emperor Shen reveals he was the first of his bloodline to touch the sky and tried to destroy it using [[Starfall]]. His goal is to kill the gods. He falls unconscious after speaking.
+- Jade reveals [[The League of New Stark]] has been giving her penumbra, extending Obould's stay of execution to three months.
+- The party returns to [[The Opal]]. [[Theo Harvey]] has vanished from his cage in the brig.

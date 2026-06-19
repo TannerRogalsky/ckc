@@ -114,3 +114,10 @@
 ## [2026-06-19] lint | Odaluk → Otiluke — Fixed misspelled spellcaster name in Risolvir Kirnodell.md, Red Caesar.md, and Veronia Karadel.md.
 ## [2026-06-19] ingest | session_022/chunk_0002 — Updated: Theo Harvey, David Harvey, Jack Harvey, Harengon Warrens, Harengon, Broyish Empire, Red Caesar, Domyx, Ceril, Vokunar, Kerben, Yalet Mora. Updated session summary and timeline. Theo captured, Carrot Cake alive, Dawn Empire alias.
 ## [2026-06-19] lint | session_022 — Fixed destination drift, metadata, mechanics prose, and Carrot Cake update.
+## [2026-06-19] ingest | session_023/chunk_0000 — Created 5 new entities: Baron Akathian the Second, Oni, The Tyrant, Thalasia, Tome Keeper's Pyramid. Updated 9 entities. Wrote session summary and timeline.
+## [2026-06-19] lint | Baron Akkadian → Baron Akathian — Renamed entity file and fixed all references across canon. Akkadian was a misspelling of Akathian (matches Clan Akathia).
+## [2026-06-19] ingest | session_023/chunk_0001 — Created 6 entities: Naomi, Manna Sickness, Manna Sea, Deep Roses, Chan Hu, Broyish Capital. Updated 9 entities. Updated session summary and timeline.
+## [2026-06-19] lint | Manna → Mana — Renamed Manna Sea.md → Mana Sea.md, Manna Sickness.md → Mana Sickness.md. Fixed all references across canon.
+## [2026-06-19] ingest | session_023/chunk_0002 — Created 1 entity: Seneschal Faran. Updated 10 entities (Vizier Jade, Emperor Shen, Domyx, Obould, Red Caesar, Ceril, Vokunar, Starfall, Theo Harvey, Domyx's Ancestor). Emperor Shen revealed as Domyx's grandfather and ancestor. Updated session summary and timeline.
+## [2026-06-19] lint | session_022 — Corrected scrying, imperial markings, travel spell, and warren warning.
+## [2026-06-19] lint | session_023 — Fixed schema, stale deadline, broken links, and mechanics drift.

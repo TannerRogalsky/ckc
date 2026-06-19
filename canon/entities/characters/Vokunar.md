@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023"]
 related:
   - "[[Arcadia]]"
   - "[[Sigil]]"
@@ -44,6 +44,10 @@ related:
   - "[[Figma Brickfinger]]"
   - "[[Sunset's Solace]]"
   - "[[Sigrid Forgewelt]]"
+  - "[[Tome of Satariel]]"
+  - "[[Tome Keeper]]"
+  - "[[Baron Akathian the Second]]"
+  - "[[Broy]]"
 ---
 
 A young being trapped in stone for decades, falling through the sky toward [[Stark]].
@@ -116,3 +120,15 @@ Vokunar visited [[Figma Brickfinger]] at [[The Palace of the Pit]] and checked o
 At the marketplace, Vokunar traded a rare gem to [[Sigrid Forgewelt]] for [[Sunset's Solace]], a spell-storing shield that helps him carry situational magic during long journeys.
 
 The party received a quest from [[David Harvey]] to capture [[Theo Harvey]], a traitor Harengon working for the [[Broyish Empire]]. The party sailed to the [[Harengon Warrens]] island and was ambushed by invisible imperial scouts and marshals alongside Theo. Vokunar located the warren entrance — a hole beneath a baobab tree concealed by illusion and invisible dirt. After the battle, Vokunar and [[Ceril]] stopped the fleeing imperial forces, killing most of the remaining soldiers. The party skipped [[Cutlass Cray]] and continued east toward the [[Broyish Empire]] with Theo as prisoner.
+
+## Session 023
+
+During the voyage to [[Broy]], Vokunar cast Legend Lore on the [[Tome of Satariel]]. The spell revealed that the Tome is made of 666 pages, each collected from a different wizard's soul — the [[Tome Keeper]] had to kill and extract the souls of 666 wizards to create it. The Tome is permanent and returns to hell if destroyed in the material realm. It captures souls of magical beings, and the Tome Keeper can only capture knowledge through death. The Tome resides in [[Tome Keeper's Pyramid]], a temple in the eastern waters whose interior mirrors its state in hell and contains traps set by the Tome Keeper.
+
+Vokunar fought alongside the party against [[Baron Akathian the Second]] and the frost titan during a storm. After the battle, Vokunar healed the party and both titans. The titans departed peacefully heading north toward [[Thalasia]].
+
+Upon disembarking near [[Broy]], Vokunar protected a human and tiefling who were surrounded by [[Oni]] demons and helped keep the party in the fight.
+
+In the [[Broyish Capital]], Vokunar used Divine Intervention to scout the city. The eye discovered [[Naomi]]'s tavern and her operation as an underground fixer. Vokunar mapped a safe route through the city avoiding visible [[Oni]] sentry positions, then tracked hidden oni as the party traveled. He helped defeat the oni near the coast and proposed that the party help the Southport couple with their plague, suggesting he could accompany them after the current mission.
+
+The party entered the imperial palace and was granted audience with [[Vizier Jade]]. Jade read the party's thoughts directly. Vokunar observed [[Emperor Shen]] slumped in his throne, barely moving, with metal covering his face. The emperor revealed he was [[Domyx]]'s grandfather and that his goal was to kill the gods. Shen fell unconscious after speaking. Jade dismissed the party and allowed them to depart. On the way out, the emperor spoke to Domyx in Giant's Runic, and Vokunar observed the emotional weight of the revelation.

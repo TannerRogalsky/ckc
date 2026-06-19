@@ -2,13 +2,15 @@
 type: character
 subtypes: [npc, antagonist]
 session_introduced: "011"
-sessions_appeared: ["011", "013", "014", "021", "022"]
+sessions_appeared: ["011", "013", "014", "021", "022", "023"]
 related:
   - "[[Broyish Empire]]"
   - "[[Red Caesar]]"
   - "[[Emperor Shen]]"
   - "[[The Opal]]"
   - "[[Heaven's Bulb]]"
+  - "[[Obould]]"
+  - "[[Starfall]]"
 ---
 
 A vizier from [[Broy]] who serves [[Emperor Shen]]. Appeared on the deck of [[The Opal]] through powerful illusion magic, not projection. Knows of [[Heaven's Bulb]] and seeks to recruit [[Red Caesar]] to the Empire. Claims the party members are a liability to Red Caesar. Knew [[Master Lee]] personally before the cataclysm. Warned that the Empire also seeks [[Penumbra]]. Asked Red Caesar to keep their meeting secret. Sliced off Red Caesar's hand before teleporting away.
@@ -18,3 +20,5 @@ In session 014, she appeared again on The Opal's deck as the party sailed from [
 In session 021, [[Vokunar]] scryed on [[Obould]] and found Jade leading his capture deep in the mountains of the [[Broyish Empire]]. She appeared in a long flowing dress with black hair, commanding armed humans in white and gold with rifles, muskets, and cutlasses. Obould was in manacles, being led up stone stairs through angular archways far inland. Jade cast See Invisibility to search for the scrying sensor, then cast a dispelling spell that ended Vokunar's scrying. She is apparently high-ranking in the Empire.
 
 In session 022, Jade appeared via illusion magic in [[Lady Jacinthe]]'s private room aboard [[The White Drake]]. She confirmed [[Obould]] was safe but living, and gave Jacinthe a one-month ultimatum: provide the Empire with Penumbra or information leading to it, or Obould's safety could not be guaranteed. Every piece of useful intelligence might extend the deadline. She told Jacinthe she was "not the first" to make such a plea and "won't be the last." Jade departed of her own volition using her own magics.
+
+In session 023, the party entered the imperial palace and was granted audience with Jade in her chamber. Jade demonstrated powerful mind-reading magic, reading the party's thoughts directly and catching [[Red Caesar]]'s attempted deception about penumbra synthesis. She demanded fifteen pieces of penumbra in exchange for [[Obould]]'s freedom — the same deal she made with [[The League of New Stark]]. She brought Obould before the party encased in a resilient sphere, alive but humiliated; she cast a spell forcing him to dance in place as entertainment before ending the effect. Jade revealed that [[The League of New Stark]] had been giving her penumbra, extending Obould's stay of execution to three months. She also revealed that the [[Broyish Empire]] knows [[The League of New Stark]] possesses at least fifteen pieces of penumbra. Jade is willing to accept larger penumbra for longer extensions. She dismissed the party and allowed them to depart on their own terms, conserving energy and keeping them alive as a resource.
