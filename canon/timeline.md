@@ -326,3 +326,35 @@
 - [[Damien Ouranous]] arrives as an envoy of [[The League of New Stark]] aboard a League ship. He reveals the League shot down a [[Broyish Empire]] airship on the party's behalf and will continue protecting their operations.
 - The party visits [[Lady Jacinthe]] aboard [[The White Drake]] via Teleport Circle. She warns that the Empire may be collecting [[Penumbra]]-like stones to power a massive magical weapon. She offers two side quests: a corrupted siren in the southwestern seas and an old-world construct at a southern castle.
 - [[Imotep]] uses *Transport via Plants* to return the party to [[Lyngbakr Lagoon]].
+
+## Session 017
+
+### Chunk 0000
+
+- The party sails aboard the [[Gheister]] toward the risen [[Castle Kaedon]], passing over [[Westerness]] — the sunken human city visible beneath the waves, its streets and buildings reclaimed by nature.
+- The abjuration magic pervading [[Castle Kaedon]] has grown stronger since the party's last visit, now fueled by the [[Penumbra]] the castle consumed. [[Red Caesar]] detects its planar, alien quality.
+- [[Kerben]] sends [[Tango]] overhead to scout the island layout, revealing disconnected landmasses and the castle's structural connections.
+- The party enters through a stone ramp and discovers the [[Castle Kaedon Arena]], a large interior courtyard with bleachers, a circular arena floor, stables, and mercantile kiosks, strangely preserved by the castle's magic.
+- Ancient human remains in the arena coalesce into hostile oozes: [[Psychic Goop]]s, ochre jellies, and a black pudding.
+- [[Ceril]] identifies the ooze types and warns the party about their properties — psychic goops retaliate against magical attacks, jellies split from slashing or lightning.
+- The party engages the oozes in combat. [[Ceril]] casts Wall of Fire; [[Vokunar]] uses Radiance of Dawn; [[Domyx]] bludgeons the black pudding; [[Kerben]] shoots at range; [[Red Caesar]] uses Vampiric Touch.
+- The psychic goops attack from the bleachers with psionic crush, targeting minds and detecting hidden creatures through mental sensing.
+
+### Chunk 0001
+
+- The party defeats the remaining oozes in the [[Castle Kaedon Arena]], clearing the space.
+- The party searches the arena stalls and finds [[Kaedon]] coinage bearing the profile of King Maniasis — [[Alamar]]'s father, who went mad from elf-blood poisoning.
+- A preserved ringmaster's motley vestment is recovered from one of the stables — an ancient art piece from the [[Kaedon]] era.
+- The party skips a short rest and heads west across elevated plateaus toward the cataract (giant waterfall) on the castle island.
+- Wind and fog from the cataract carry a swarm of crawling severed hands across the grounds.
+- Two [[Mezzoloth]]s emerge from the stables — fiendish beetle-like creatures with four arms, magic resistance, and liquid-metal teleportation. Combat begins.
+
+### Chunk 0002
+
+- [[Vokunar]] is knocked down by a [[Mezzoloth]] but is stabilized and healed by [[Kerben]]'s Cure Wounds. [[Domyx]] finishes the last mezzoloth, ending the battle.
+- The party explores the stables and finds silvered hackamores and bridles as intact treasure.
+- The party enters a granary building — its grain fermented into 60 to 100 year old malt liquor. Opening the doors releases toxic alcohol fumes that poison the party.
+- The granary is infested with giant scorpions, parasitic sturge bats, and carrion crawlers. [[Red Caesar]] ignites the alcohol vapor, clearing the fumes and turning the room's hazard against its inhabitants.
+- [[Domyx]] is swarmed and grappled by multiple giant scorpions while suffering from alcohol poisoning. The party clears the granary after a prolonged fight.
+- During a short rest, [[Red Caesar]] investigates and finds drinkable [[Kaedonite Black Ale]].
+- The party recalls lore about [[Kaedon]], the human civilization from before [[The Cataclysm]]: at the end of its life, Kaedon was nearly at peace, with trade routes forming between Kaedon and [[Esperanto]].

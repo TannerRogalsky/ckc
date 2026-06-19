@@ -89,6 +89,9 @@
 - [[Tome Keeper]] — Demon who keeps the Tome of Satariel; can track the Rakshasa and summon other escaped demons
 - [[Storm Phoenix]] — Elemental being of pure power, once a gem of amber, driven mad by the Cataclysm. Destroyed by the party in session 015
 - [[Black Dragon]] — Ancient black dragon from the prologue that wrecked the party's hold and stole their gold
+- [[Psychic Goop]] — Gray ooze formed from decayed brain matter; retaliates against magical attacks with psychic damage
+- [[Mezzoloth]] — Fiendish beetle-like creature with four arms, magic resistance, and liquid-metal teleportation
+- [[Severed Hands]] — Swarm of crawling severed hands that scuttle like spiders, carried by wind and fog
 
 ## Locations
 - [[Continental Stark]] — Massive elfish continent, last remnant of the Old World, home to Brimbalin
@@ -121,6 +124,9 @@
 - [[Bookbinders Cray]] — Library in Cutlass Cray
 - [[The Church of the Thirty Lights]] — Church in Cutlass Cray
 - [[Castle Kaedon]] — Castle on the back of Lyngbakr
+- [[Westerness]] — Sunken human city that surrounded Castle Kaedon, visible beneath the waves
+- [[Castle Kaedon Arena]] — Interior courtyard within Castle Kaedon with bleachers, arena floor, and stables
+- [[Esperanto]] — Pre-Cataclysm place south of Kaedon, linked by developing trade routes
 - [[Otyugh Isle]] — Island with Kuo-Toa and Temple of Sigil
 - [[Lyngbakr Lagoon]] — Developing base near Castle Kaedon where Alamar, Relic Elnavi, and Kilosaurus remain
 - [[Rasharan's Rock]] — Location that no longer exists
@@ -160,6 +166,8 @@
 - [[Subpoena Deuces Mercator]] — Reusable scroll that summons the Goblin Traders' ship anywhere at sea
 - [[Wyvern Poison]] — Injury poison crafted from wyvern glands aboard the Goblin Traders' ship
 - [[Lolth's Sting]] — Contact poison from the Goblin Traders that weakens a target's ability to fight
+- [[Kaedon]] — The pre-[[The Cataclysm|Cataclysm]] human civilization, nearly at peace when the world ended
+- [[Kaedonite Black Ale]] — Uncommon drinkable black ale found in the Castle Kaedon Arena granary
 - [[Tome of Satariel]] — Book kept by the Tome Keeper demon; its destruction would free the Rakshasa from his charge
 
 ## Deities

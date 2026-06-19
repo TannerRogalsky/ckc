@@ -67,3 +67,12 @@
 ## [2026-06-19] lint | Emma Tep → Imotep — Emma Tep is a misspelling of Imotep (alias Ema-Tep). Deleted duplicate entity, merged details into Imotep.md, fixed all references.
 ## [2026-06-19] lint | Saril → Ceril, Kirbin → Kerben — Fixed misspelled entity names in session_016.md and timeline.md.
 ## [2026-06-19] lint | session_016 — Fixed canonical names, metadata, and Damien classification.
+## [2026-06-19] ingest | session_017/chunk_0000 — Created 3 new entities: Westerness, Castle Kaedon Arena, Psychic Goop. Updated 7 entities. Wrote session summary and timeline.
+## [2026-06-19] ingest | session_017/chunk_0001 — Created 2 new entities: Meseloth, Severed Hands. Updated Castle Kaedon Arena, session summary, and timeline.
+## [2026-06-19] lint | Meseloth → Mezzoloth — Renamed misspelled entity file and fixed all references across canon.
+## [2026-06-19] ingest | session_017/chunk_0002 — Created 2 new entities: Kaedon, Kaedonite Black Ale. Updated Castle Kaedon Arena, session summary, and timeline. Fixed Cadenite/Catanite → Kaedonite across canon.
+## [2026-06-19] lint | mesoloth → mezzoloth — Fixed remaining misspellings in session_017.md and timeline.md.
+## [2026-06-19] lint | session_017 — Fixed Westerness, Kaedon, Esperanto, and mechanics/meta prose.
+## [2026-06-19] lint | session_017 — Removed remaining routine combat mechanics from canon prose.
+## [2026-06-19] lint | session_017 — Rephrased granary combat outcome around narrative hazard.
+## [2026-06-19] lint | session_017 — Fixed Cataclysm links to canonical entity name.
