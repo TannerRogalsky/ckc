@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025"]
 related:
   - "[[Vanzia Vinfei]]"
   - "[[House Kiernodel]]"
@@ -149,3 +149,9 @@ During the trek into the Arctic Plains, Ceril wild-shaped into a ram to better r
 As the party followed the blood-stained river into Titanfolk territory, a [[Remorhaz]] surged toward them. Ceril cast Moonbeam directly on the creature as it approached. He then switched to constellation mode for better attack accuracy. The Remorhaz moved out of the Moonbeam, forcing Ceril to redirect it. He healed [[Kerben]] again during the fight.
 
 After [[Domyx]] was swallowed by the Remorhaz, Ceril helped coordinate the rescue. When [[Vokunar]] destroyed the creature with radiant magic, Ceril healed Domyx back to consciousness with Healing Word and then used his chalice form to restore him further. When Domyx split from the party to enter [[Akathia Manor]], Ceril stayed hidden nearby. He sent his magma owl familiar to scout the area, which reported a large cavern with heavy security at its entrance and food trays being delivered inside — a suspicious location that likely corresponded to the [[Prison of Frost]] where [[Ulrich Fjöler]] was being held. [[Vokunar]] detected no [[Penumbra]] in the area, and the sky appeared intact from this distance — the titan homeland was far from the cataclysm's effects.
+
+## Session 025
+
+As the party sailed south from [[Thalasia]], [[Ceril]] used a divine summoning spell to contact [[Aeris]] (also called Eris). She was in a dark, windowless room with a single candle, and Ceril cast Continual Flame to provide her light. Eris confirmed that deploying the [[Antumbra]] would not harm the piece of herself trapped within [[Starfall]].
+
+Ceril visited the [[Temple of Sigil]] on Otyugh Isle with [[Domyx]], where they encountered 12 petrified priests and 19 petrified Kuo-Toa who had been turned by a cockatrice. Ceril cast Greater Restoration on [[Father Warwick]], the highest-ranking priest, de-petrifying him first. Warwick then used his own abjuration abilities to de-petrify several more priests. The freed priests planned to head to [[Southport]] to help combat the [[Mana Sickness]] plague. Ceril also encountered a cockatrice in the temple and dealt with it during their visit.

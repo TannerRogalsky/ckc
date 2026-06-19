@@ -2,11 +2,14 @@
 type: location
 subtypes: [settlement]
 session_introduced: "015"
-sessions_appeared: ["015", "023"]
+sessions_appeared: ["015", "023", "025"]
 related:
   - "[[Rochella Golf]]"
   - "[[Mana Sickness]]"
   - "[[Mana Sea]]"
+  - "[[Trent]]"
+  - "[[Ebi]]"
+  - "[[Father Warwick]]"
 ---
 
 A port city to the west of [[The Garden]]. [[Rochella Golf]] is aboard [[The Opal]] seeking to reach Southport.

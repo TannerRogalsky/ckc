@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025"]
 related:
   - "[[Arcadia]]"
   - "[[Sigil]]"
@@ -149,3 +149,9 @@ As [[The Opal]] sailed north, Vokunar cast Water Walk so the party could disemba
 During the trek into the Arctic Plains, Vokunar helped sustain the party with healing before they set out. He maintained his Celestial Defender to support the group and cast Scorching Ray during the [[Tatzelwurm]] encounter. He also cast Wall of Radiance around himself and [[Kerben]] during the [[Remorhaz]] fight, creating a ring of protective light.
 
 When the [[Remorhaz]] swallowed [[Domyx]], Vokunar destroyed the creature with a radiant blast, helping free Domyx from inside. After Domyx was extracted by [[Kerben]], Vokunar helped restore the wounded party. When the party reached [[Akathia Manor]], Vokunar stayed hidden with the rest of the group. He cast Locate Object to search for [[Penumbra]] in the area but detected none — the titan homeland was far from the cataclysm's effects and the sky appeared intact from this distance.
+
+## Session 025
+
+During session 025, Vokunar used locating magic to discover hidden [[Penumbra]] stones in [[The White Drake]]'s hold. He proposed planting [[Antumbra]] among the League's stockpile so it would eventually be traded to [[Broy]] and fed into [[Starfall]].
+
+Vokunar consulted [[Sigil]] about the plan and learned that [[Obould]] was in less danger than he appeared, while [[Broy]] was more dangerous than the party understood. [[Crone]] then appeared and demanded that he return to training. Vokunar departed [[The Opal]] soon afterward, saying he was not ready for the coming battle and would be gone for several weeks. His departure left [[Kerben]] as acting captain while the remaining party members pursued the Antumbra plot and dealt with the [[Mana Sickness]] crisis in [[Southport]].

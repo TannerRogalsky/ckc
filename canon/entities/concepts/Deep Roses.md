@@ -2,7 +2,7 @@
 type: concept
 subtypes: [lore]
 session_introduced: "023"
-sessions_appeared: ["023"]
+sessions_appeared: ["023", "025"]
 related:
   - "[[Mana Sickness]]"
   - "[[Mana Sea]]"

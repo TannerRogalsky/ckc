@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025"]
 aliases:
   - Domyx Akathian
 related:
@@ -161,3 +161,9 @@ Domyx confronted his father [[Domyx IV]] at the manor's exterior. Domyx IV initi
 Domyx returned to the party and introduced [[Lorelei]], who apologized for dragging them into the mess. Domyx told the party to call him just "Domyx" from now on — no more noble title. With Lorelei's information, the party knew Ulrich was held in the Prison of Frost.
 
 The party proceeded to the [[Prison of Frost]], where [[Ulrich Fjöler]] was trapped behind a plane of pure magical energy — an abomination to titan folk who traditionally shun magic. [[Ceril]] dispelled the barrier with ease. Ulrich greeted Domyx, who presented himself without his Akathian title as a mark of his renounced identity, and [[Lorelei]] with relief. He asked if the world below was safe for them. The party escaped the peaks of the Titans and returned swiftly to [[The Opal]], bringing Ulrich and Lorelei aboard as new crew members.
+
+## Session 025
+
+After returning from [[Thalasia]], Domyx helped distract crew aboard [[The White Drake]] while [[Kerben]] planted [[Antumbra]] among the League's hidden [[Penumbra]] stash. Domyx then visited the [[Temple of Sigil]] on [[Otyugh Isle]] with [[Ceril]], where the party found petrified priests and Kuo-Toa.
+
+Domyx continued to go by just "Domyx" without his Akathian title, fully embracing his renounced identity. He remained a key combatant aboard [[The Opal]], fighting alongside the crew against the [[Bane Siren]] and [[PAXO]] in the southern archipelago.

@@ -639,3 +639,35 @@
 - [[Ceril]] dispelled the barrier with ease, freeing Ulrich. Ulrich greeted [[Domyx]] and [[Lorelei]] with relief.
 - The party escaped the peaks of the Titans swiftly and returned to [[The Opal]].
 - [[Ulrich Fjöler]] and [[Lorelei]] joined [[The Opal]] as new crew members. The ship now carried two couples, one of whom — Lorelei — was pregnant.
+
+## Session 025
+
+### Chunk 0000
+
+- [[Red Caesar]] traveled to [[The Academy]] in [[Brimbalin]] with [[Keys]] and [[Lydriel Gondara]] to synthesize [[Antumbra]].
+- Using the "Caesarean method," Red Caesar compressed [[Akasha]] through magical pressure using Otiluke's Resilient Sphere and inverted enlarge/reduce spells. After multiple iterations compressing an entire lake roughly a thousand-fold, the process produced a palm-sized sphere of jet-black synthesized [[Penumbra]].
+- [[Lydriel Gondara]] and [[Keys]] poisoned the Antumbra using a method concealed by illusion, ensuring the poison would not infect their own samples.
+- [[Kerben]] took on the role of acting captain of [[The Opal]] during Red Caesar's absence.
+- The party recruited [[Trent]] and [[Ebi]] aboard — a couple fleeing the [[Mana Sickness]] in [[Southport]]. Trent was assigned as master gunner.
+- [[Vokunar]] discovered a hidden [[Penumbra]] stash aboard [[The White Drake]] in the ship's hold and proposed planting the Antumbra among it.
+- [[Vokunar]] consulted [[Sigil]], learned [[Obould]] was in less danger than he appeared, and departed [[The Opal]] to resume training with [[Sigil]] and [[Crone]].
+- [[Ceril]] contacted [[Aeris]] through a divine summoning. Aeris confirmed that sending the Antumbra toward [[Starfall]] would not risk the piece of herself trapped within the device.
+- [[Kerben]] sneaked aboard [[The White Drake]] while docked in [[Broy]], using invisibility and lockpicking. With [[Zulu]] as a distraction, he pitched the Antumbra among the League's stockpiled Penumbra stones.
+- [[Ceril]] and [[Domyx]] visited the [[Temple of Sigil]] on [[Otyugh Isle]], discovering 12 petrified priests and 19 petrified Kuo-Toa who had been turned by a cockatrice approximately 70 years earlier.
+- [[Ceril]] cast Greater Restoration on [[Father Warwick]], the highest-ranking priest, de-petrifying him first. Warwick then used his own abjuration abilities to de-petrify several more priests.
+- The freed priests planned to return to [[Southport]] to help combat the [[Mana Sickness]] plague.
+- [[Rochella Golf]], Trent, and Ebi disembarked near Southport to pursue their respective goals.
+
+### Chunk 0001
+
+- The party sails south along the archipelago, where [[Red Caesar]] recognizes wreckage from the ruined world he glimpsed leaving [[Heaven's Bulb]].
+- The party dives underwater and defeats the [[Bane Siren]] at a confluence between two sharp rocks. [[Ceril]] collects [[Deep Roses]] from the underwater garden.
+- A drowned sailor victim with a lapis lazuli locket is recovered from the siren's garden.
+- Six days later, the party reaches the [[Southern Archipelago Castle]], former residence of [[Witness]].
+- [[Red Caesar]] uses Speak with Dead on a corpse, learning that [[PAXO]] — a wicked construct — chased Witness away and massacred the castle's human inhabitants. The corpse reveals [[Heaven's Bulb]] tried to help but was too weak.
+- The party clears the castle's black pollen, finding 50 pounds of mithril and the [[Half Chart of the Witness]] in the inner sanctum.
+- [[Kerben]] finds a [[Potion of Fluid Adamantite]].
+- The party is ambushed by [[PAXO]], a warforged construct with heat beam attacks and a reflective faceplate. They defeat it in close-quarters combat.
+- [[Zulu]] leads the party to a hidden treasury hoard of 100 pounds of [[Esperanto|Esperantan]] coins on exit.
+- The party continues toward [[Zerag's Island]], where the [[Black Dragon]] holds treasure [[The Opal]] once carried.
+- A flashback shows [[Master Lee]] expressing pride in a younger [[Red Caesar]] inside [[Heaven's Bulb]]. A crack appears in the Bulb's fake sky, revealing real sunlight.

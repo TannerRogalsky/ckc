@@ -2,8 +2,9 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025"]
 related:
+  - "[[Antumbra]]"
   - "[[Heaven's Bulb]]"
   - "[[The Cataclysm]]"
   - "[[The Opal]]"
@@ -33,6 +34,10 @@ related:
   - "[[Starfall]]"
   - "[[Baron Akathian the Second]]"
   - "[[Broy]]"
+  - "[[Keys]]"
+  - "[[Lydriel Gondara]]"
+  - "[[The White Drake]]"
+  - "[[Starfall]]"
 ---
 
 A member of [[Heaven's Bulb]] who survived [[The Cataclysm]]. Travels aboard [[The Opal]] as part of the party. Awakened by something aboard The Opal. Keeps alarms strewn about the ship and personally investigates any disturbances. Has [[Vizier Jade]]'s secret regarding her visit.
@@ -132,3 +137,9 @@ The party entered the imperial palace and was granted audience with [[Vizier Jad
 After the party returned to [[The Opal]], Red discovered that [[Theo Harvey]] had escaped and the [[Gheister]] was missing. He returned to the ship and found the crew discussing the situation. Red was skeptical about Theo's map to [[The Carrot Cake]], questioning whether Theo had simply bluffed about [[Penumbra]] being there because he knew what the party was looking for. The party had 31 days before the Carrot Cake's demi-plane opened, giving them time to pursue other quests first. Red agreed with the plan to head north to [[Thalasia]] to visit [[Domyx]]'s people, then swing through southern waters for resources.
 
 The party reviewed available quests and committed to a route north. [[Red Caesar]] sequestered himself to work on manufacturing a fake [[Penumbra]] as a bargaining chip against [[Vizier Jade]], feeling more determined than usual — partly motivated by his dislike of Jade and her cruelty to [[Obould]].
+
+## Session 025
+
+Red Caesar traveled to [[The Academy]] in [[Brimbalin]] with [[Keys]] and [[Lydriel Gondara]] to synthesize [[Antumbra]] — a poisoned form of [[Penumbra]] designed to sabotage the [[Broyish Empire]]'s [[Starfall]] device. He theorized that [[Akasha]] — the silvery-white liquid raining over Continental Stark — is a less concentrated form of Penumbra and that extreme pressure could transmute it back. Using Otiluke's Resilient Sphere filled with Akasha and an inversion of enlarge/reduce spells, he compressed the sphere to hand-size, generating enormous internal pressure. After multiple iterations compressing an entire lake of collected Akasha roughly a thousand-fold, the process produced a perfect palm-sized sphere of jet-black synthesized Penumbra.
+
+The synthesis method — dubbed the "Caesarean method" — could produce approximately one sphere every five to ten days once established. [[Lydriel Gondara]] and [[Keys]] poisoned the Antumbra using a method concealed by illusion to prevent self-infection. [[Aeris]] confirmed through divination that deploying the Antumbra carries no risk of harming the piece of herself trapped within Starfall. The Antumbra was then planted into the hidden Penumbra stash aboard [[The White Drake]] by [[Kerben]].

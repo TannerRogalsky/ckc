@@ -2,7 +2,7 @@
 type: deity
 subtypes: [goddess]
 session_introduced: "001"
-sessions_appeared: ["013", "021", "024"]
+sessions_appeared: ["013", "021", "024", "025"]
 aliases:
   - The Sky
   - Eris
@@ -17,3 +17,5 @@ In session 021, [[Ceril]] contacted Aeris through his shield while [[Lyngbakr]] 
 In session 024, [[Ceril]] and [[Vokunar]] were drawn into a shared vision of Aeris's mortal body, which had been imprisoned for sixty to eighty years. Her body is trapped at the center of the [[Starfall]] device — a massive ring combining all four elements (earth, water, air, fire) — and is being used as a battery. The captor is a man who reached up and touched her sixty to eighty years ago (understood to be [[Emperor Shen]] / [[Domyx's Ancestor]]), who broke her into pieces so no one else could have her power. Her soul flows into the world through the sky, but her physical body ages and weakens in captivity like a mortal. She has been learning mortal magic for fifty years to survive and could barely muster enough power to bring Ceril and Vokunar to her.
 
 Aeris confirmed that repairing the sky will restore her divinity and potentially save her mortal body. She warned the party not to underestimate her captor. [[Vokunar]] cast Continual Flame to leave her a source of light, and [[Ceril]] cast Plant Growth to grow food for her.
+
+In session 025, [[Ceril]] contacted Aeris through divine summoning after the party debated planting [[Antumbra]] among [[The League of New Stark]]'s hidden [[Penumbra]] supply. She appeared in her star-filled form and confirmed that sending Antumbra toward [[Starfall]] would not risk the piece of herself trapped inside the device. She also confirmed [[Obould]] was alive and that the Antumbra plan should proceed.

@@ -9,6 +9,8 @@ related:
   - "[[The Academy]]"
   - "[[Demi-Spell]]"
   - "[[Keys]]"
+  - "[[Red Caesar]]"
+  - "[[Antumbra]]"
 ---
 
 A half-elf member of [[The Order of Seasons]] who works alongside [[Keys]] at [[The Academy]]. She was previously encountered by [[Ceril]] at [[Castle Kaedon]], where she and Keys stole a piece of [[Penumbra]]. She recognized Ceril when they met at the Academy.

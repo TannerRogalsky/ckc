@@ -2,7 +2,7 @@
 type: deity
 subtypes: [goddess]
 session_introduced: "001"
-sessions_appeared: ["013"]
+sessions_appeared: ["013", "025"]
 aliases:
   - The Sun
 ---

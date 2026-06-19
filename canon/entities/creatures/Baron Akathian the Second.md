@@ -2,10 +2,11 @@
 type: creature
 subtypes: [enemy]
 session_introduced: "023"
-sessions_appeared: ["023"]
+sessions_appeared: ["023", "025"]
 aliases:
   - Fair Akathian
   - Farin Akathian
+  - Baron Akathian
 related:
   - "[[Domyx]]"
   - "[[Clan Akathia]]"

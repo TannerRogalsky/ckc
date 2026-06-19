@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025"]
 aliases:
   - Kerbin
 related:
@@ -122,3 +122,9 @@ After the hydra was defeated, the party trekked into the Arctic Plains near [[Th
 After the fight, Kerben searched the area and determined the dragon did not keep a traditional horde. He used the dragon's scales and darkwood bark to craft [[Tatzelwurm Gizzard Juice]], a one-use white dragon poison. The dragon's blood stained a nearby river red, providing a visible landmark for the party's path forward into Titanfolk territory.
 
 When a [[Remorhaz]] ambushed the party, Kerben fought from within [[Vokunar]]'s Wall of Radiance alongside [[Domyx]]. After Domyx was swallowed, Kerben fired into the Remorhaz's side, punching a hole that let light reach Domyx inside. After [[Vokunar]]'s radiant magic destroyed the beast, Kerben used his survival knowledge to cut into the creature's underbelly and extract Domyx's unconscious body. He harvested the Remorhaz's heat gland while it was still warm, providing warmth for the rest of the mountain climb. When [[Domyx]] split from the group to enter [[Akathia Manor]], Kerben stayed hidden at a distance with the rest of the party, remaining stealthy among the xenophobic titan folk.
+
+## Session 025
+
+After the party sailed south from [[Thalasia]], [[Kerben]] used his invisibility and lockpicking skills to sneak aboard [[The White Drake]] while docked in [[Broy]]. Using [[Zulu]] as a distraction, he lockpicked into the ship's hold and pitched the [[Antumbra]] sphere among the League's stockpiled [[Penumbra]] stones. This act of sabotage was intended to poison the League's Penumbra supply when it was eventually handed off to the [[Broyish Empire]] and fed into [[Starfall]].
+
+Kerben took on the role of acting captain of [[The Opal]] while [[Red Caesar]] was away working on the [[Antumbra]] synthesis at [[The Academy]] in [[Brimbalin]]. He recruited [[Trent]] and [[Ebi]] aboard during their passage through [[Southport]] waters. He also gained the Roving ranger feature, enhancing his combat capabilities.

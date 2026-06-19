@@ -133,3 +133,7 @@
 ## [2026-06-19] ingest | session_024/chunk_0004 — No new entities. Updated: Ulrich Fjöler, Lorelei, Domyx, Prison of Frost. Wrote session summary chunk 0004. Updated timeline.
 ## [2026-06-19] lint | session_024 — Fixed chunk count, mechanics prose, Remorhaz finish, and entity session metadata.
 ## [2026-06-19] lint | session_024 — Replaced Domics transcript variant with canonical Domyx prose.
+## [2026-06-19] ingest | session_025/chunk_0000 — Extracted 4 new entities: Antumbra, Trent, Ebi, Father Warwick, Temple of Sigil. Updated: Domyx, Kerben, Red Caesar, Ceril, Vokunar, Keys, Lydriel Gondara, The White Drake, Rochella Golf, Ulrich Fjöler, Sigil, Otyugh Isle, Broy, Southport, Mana Sickness. Wrote session summary, updated timeline and entities.md.
+## [2026-06-19] ingest | session_025/chunk_0001 — Extracted 6 new entities: Bane Siren, Paxo, Witness, Southern Archipelago Castle, Half Chart of the Witness, Potion of Fluid Adamantite. Updated: Deep Roses, session summary, timeline, entities.md
+## [2026-06-19] lint | Paxo → PAXO — Renamed entity file and fixed all references across canon. PAXO is an acronym, not a proper name.
+## [2026-06-19] lint | session_025 — Fixed factual drift, headings, links, entity metadata, and index entries.

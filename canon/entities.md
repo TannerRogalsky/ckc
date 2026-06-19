@@ -15,6 +15,9 @@
 - [[Gammix]] — Dwarf fighter from the Steelfend Clan, recruited ally
 - [[Tammix]] — Dwarf fighter and brother of Gammix, recruited ally
 - [[Rochella Golf]] — Passenger or temporary crew member aboard The Opal seeking Southport
+- [[Trent]] — Sailor from Southport who briefly served as The Opal's master gunner before returning home with Ebi
+- [[Ebi]] — Healer from Southport who briefly served aboard The Opal before returning home with Trent
+- [[Ulrich Fjöler]] — Domyx's friend from Clan Akathia; freed from Prison of Frost, now crew aboard The Opal; father of Lorelei's child
 - [[Yalet Mora]] — Stone-bodied crew member who suggested recruiting a wind creature for The Opal
 - [[Aramil Keirnodel]] — Primary force behind the Demi-Spell's power, former leader of Brimbalin, and painter of The Jewel of Alfheimer
 - [[Mobley]] — The cook aboard The Opal; prepared sedated carrot tea that allowed Theo Harvey's escape
@@ -65,8 +68,8 @@
 - [[Vanzia Vinfei]] — High elf paladin revolutionary who escaped Brimbalin with Ceril; now operating in the Broyish Capital alongside Naomi
 - [[Naomi]] — Underground fixer in the Broyish Capital who absolves criminal records through magically stamped documents
 - [[Chan Hu]] — Ancient-world survivor and merchant in the Broyish market; previously known as "The Emerald Leaf" and knew Master Lee
-- [[Ulrich Fjöler]] — Domyx's friend from Clan Akathia; imprisoned and facing execution; father of Lorelei's child
 - [[Courteous Cam]] — Dwarf farmer-trader who gave Ceril seeds, a scroll, and the gnoll Penumbra lead
+- [[Father Warwick]] — High-ranking priest of Sigil, petrified for ~70 years at Temple of Sigil; de-petrified by Ceril in session 025
 - [[Xander MacLenth]] — Pirate ghost released from the abandoned Far Helm Clan home
 - [[Lenth the Rugged]] — Legendary pirate, father of Xander MacLenth, had wives on every continent
 - [[Redrick Wenn]] — Dwarf whose visa was stolen by the party in [[The Pit]]
@@ -125,6 +128,9 @@
 - [[Rimefire Hydra]] — Massive eight-headed frost hydra encountered in the northern straits near Thalasia
 - [[Tatzelwurm]] — Unique white dragon variant near Thalasia that commands terrain weather; defeated by party ambush (alias: Pretzel Worm)
 - [[Remorhaz]] — Huge, heat-exuding voracious creature of the northern territories that ambushes prey (alias: Remoraz)
+- [[Bane Siren]] — Siren dwelling in an underwater garden among Deep Roses; twisted by the Cataclysm, defeated by the party
+- [[PAXO]] — Warforged construct with a reflective faceplate and heat beam attacks; massacred humans in the Southern Archipelago Castle before being defeated by the party
+- [[Witness]] — Construct that mapped all of Stark before the flood; chased away from the Southern Archipelago Castle by PAXO
 
 ## Locations
 - [[Continental Stark]] — Massive elfish continent, last remnant of the Old World, home to Brimbalin
@@ -162,12 +168,15 @@
 - [[Taylin]] — Old Kaedon settlement near Castle Kaedon, likely destroyed during the Cataclysm
 - [[Castle Kaedon Arena]] — Interior courtyard within Castle Kaedon with bleachers, arena floor, and stables
 - [[Esperanto]] — Pre-Cataclysm place south of Kaedon, linked by developing trade routes
+- [[Southern Archipelago Castle]] — Old-world human castle in the southern archipelago; former residence of Witness, massacred by PAXO
+- [[Zerag's Island]] — Southern island where the prologue Black Dragon holds treasure once carried by The Opal
 - [[Harengon Warrens]] — Island with extensive underground tunnels used by the Harengon, now partially occupied by the Empire
 - [[Otyugh Isle]] — Island with Kuo-Toa and Temple of Sigil
 - [[Lyngbakr Lagoon]] — Developing base near Castle Kaedon where Alamar, Relic Elnavi, and Kilosaurus remain
 - [[Rasharan's Rock]] — Location that no longer exists
 - [[Hole in the Sky]] — Hole the party aims to find and plug
 - [[Southport]] — Port city west of The Garden, now a plague town afflicted by Mana Sickness; sought by Rochella Golf
+- [[Temple of Sigil]] — Temple on Otyugh Isle where 12 priests and 19 Kuo-Toa were petrified by a cockatrice ~70 years ago
 - [[Broyish Capital]] — Imperial capital of the Broyish Empire; highly industrialized with oni sentries, magic restrictions, and a bustling market
 - [[Mana Sea]] — Treacherous body of water near Southport; source of Mana Sickness and home to Deep Roses
 - [[Thalasia]] — Continent where Domyx's titan people live, separated by treacherous mountains
@@ -230,6 +239,9 @@
 - [[Mana Sickness]] — Contagious plague spreading through Southport from the Mana Sea; victims fall into impenetrable slumber
 - [[Shark's Edge]] — Kerben's +2 falchion made from a megalodon tooth; reveals water temperature by sight
 - [[Tatzelwurm Gizzard Juice]] — One-use white dragon poison crafted by Kerben from Tatzelwurm scales and darkwood bark
+- [[Antumbra]] — Poisoned, synthesized Penumbra created by Red Caesar, Keys, and Lydriel Gondara; designed to sabotage Starfall
+- [[Half Chart of the Witness]] — One half of a pre-flood map of Stark created by the construct Witness; found in the Southern Archipelago Castle
+- [[Potion of Fluid Adamantite]] — Rare potion granting resistance to all damage for one minute; found in the Southern Archipelago Castle
 
 ## Deities
 - [[Aeris]] — Sister goddess of Chaos, Potential, and Fate (alias: The Sky)

@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc]
 session_introduced: "014"
-sessions_appeared: ["014", "022"]
+sessions_appeared: ["014", "022", "025"]
 aliases:
   - Keyes
 related:
@@ -11,6 +11,8 @@ related:
   - "[[Demi-Spell]]"
   - "[[Lydriel Gondara]]"
   - "[[Veronia Karadel]]"
+  - "[[Red Caesar]]"
+  - "[[Antumbra]]"
 ---
 
 A tiefling who works on actually writing the [[Demi-Spell]] at [[The Academy]]. He has been copying the spell's work for some time and spends hours each day on it followed by ten hours of divinations to ensure it stays on the right course. He rejected godhood, aligning with the "torch compass" philosophy of abdicating power one doesn't deserve.
