@@ -54,3 +54,12 @@
 ## [2026-06-19] ingest | session_014/chunk_0003 — Extracted 7 new entities. Updated 8 entities. Updated session summary and timeline.
 ## [2026-06-19] ingest | session_014/chunk_0004 — Extracted 3 new entities. Updated 9 entities. Updated session summary and timeline.
 ## [2026-06-19] lint | session_014 — Fixed factual and syntactical issues in recent canon ingest.
+## [2026-06-19] update | AGENTS.md — Added ingestion rules for aliases, concepts, mechanics, index.
+## [2026-06-19] ingest | session_015/chunk_0000 — Extracted 5 new entities: Gunk Grodley, Goblin Traders, Subpoena Deuces Mercator, Wyvern Poison, Lolth's Sting. Updated 8 entities. Updated timeline.
+## [2026-06-19] lint | entities.md — Fixed 5 missing/incorrect descriptions in the entities index.
+## [2026-06-19] ingest | session_015/chunk_0001 — Extracted 2 new entities: Warg Lord, Eschaton. Updated 6 entities. Updated timeline.
+## [2026-06-19] ingest | session_015/chunk_0002 — Extracted 3 new entities: Tome Keeper, Tome of Satariel, Storm Phoenix. Updated 10 entities. Updated timeline.
+## [2026-06-19] ingest | session_015/chunk_0003 — Extracted 2 new entities: Southport, Black Dragon. Updated 8 entities. Updated timeline.
+## [2026-06-19] ingest | session_015/chunk_0004 — Extracted 1 new entity: Geister. Updated 7 entities. Updated timeline. Act 2 begins.
+## [2026-06-19] lint | session_015 — Fixed summary, Gheister metadata, index duplication, and combat-detail drift.
+## [2026-06-19] update | AGENTS.md — Added ingestion, review, index, mechanics, and log guardrails.

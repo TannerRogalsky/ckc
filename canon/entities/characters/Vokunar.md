@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014"]
+sessions_appeared: ["001", "013", "014", "015"]
 related:
   - "[[Arcadia]]"
   - "[[Sigil]]"
@@ -78,3 +78,11 @@ Uses a healing-focused combat style, prioritizing others over himself — strate
 - At [[The Academy]], spoke with [[Keys]] and [[Lydriel Gondara]] about the [[Demi-Spell]]. Questioned whether the spell would simply replay the same cycle of events and whether the gods themselves might have caused the Cataclysm.
 - Negotiated an accord with the Order: the party will stop collecting new [[Penumbra]], and if their plan to fix the sky fails, they will give all collected Penumbra to the Order. The Order granted the party access to teleport circles.
 - At [[House Kiernodel]], questioned [[Faronia Karadel]] about the [[Genesis Mundi]] and whether the Demi-Spell would be fair to all peoples, including the [[Broyish Empire]]. Learned that the Genesis Mundi is a fixed point between worlds that occurs regardless, and the Demi-Spell merely modifies it with guidelines.
+
+## Session 015
+
+After the party returned from elf country, Vokunar was asleep in the bunks when [[Red Caesar]] and [[Kerben]]'s alarm spells triggered simultaneously. Woken by gunfire, Vokunar rushed to the top deck as hobgoblin pirates boarded [[The Opal]] and helped repel the attack. During the later battle with the [[Warg Lord]], he protected and healed the party through the creature's psychic assault.
+
+The party sailed to [[The Garden]]. Vokunar used Locate Object to find a drained [[Penumbra]] chunk in [[Theotropa]]'s possession. Theotropa agreed to give it to them if they destroyed a [[Storm Phoenix]] — a being of pure elemental power driven mad by [[The Cataclysm]] — located south of the Garden. Vokunar gave his word the party would keep the druid waters safe.
+
+That night during a full moon, Vokunar summoned [[Crone]]. She appeared blood-soaked and exhausted, dragging a greatsword. She confirmed there is time to stop the [[Demi-Spell]] but warned the party is more likely to die than run out of time. She revealed [[Aeris]] could heal the sky herself if given enough power — the party doesn't need all the Penumbra, just enough. She advised using the [[Rakshasa]] as a bargaining chip and confirmed the elves cannot be trusted to halt the Demi-Spell even if the sky were repaired.

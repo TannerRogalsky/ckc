@@ -4,6 +4,8 @@ Sources will be transcripts of a roleplaying. They will be segmented by session 
 
 Maintain @log.md as a chronological list of the operations you perform such as ingestions, queries, and lints. It's an append-only record of what happened and when. Each entry should start with a consistent prefix (e.g. `## [2026-04-02] ingest | Article Title`). Each entry must be a single line under 25 words. Log lines should capture which operation happened and when — not the content of the operation. The file should contain no content other than the individual log lines.
 
+If an earlier log line contains a typo, mistaken entity name, or incomplete operation description, do not edit it. Append a later lint or update entry recording the correction.
+
 # Entity Extraction
 Ingest a source and extract entities from it. Prune entities that are not relevant to the larger context. People and places tend to be relevant. Spells and items tend to be less globally relevant.
 
@@ -13,7 +15,24 @@ Every entity file must include frontmatter. Follow the [Frontmatter Standard](#f
 
 An entity file should never use an alias in it's main content. All aliases should be resolved to the canonical name.
 
-Maintain @canon/entities.md as a list per file entry with a one-line description of the content.
+When transcripts contain phonetic, misspelled, or uncertain names, resolve them to an established canonical entity if one exists. Record useful transcript variants in `aliases`; do not create a new entity unless the source clearly indicates a distinct person, place, or thing.
+
+Before creating a new entity or changing `session_introduced`, search existing entity files, aliases, and `canon/entities.md`. Preserve the earliest known `session_introduced` unless the previous canonical identity was wrong. Append to `sessions_appeared`; do not reset history.
+
+Maintain @canon/entities.md as a list per file entry with a one-line description of the content. When creating an entity or materially correcting one, update this index so the one-line description reflects current canon.
+
+`canon/entities.md` must have exactly one entry per entity file. When an entity is moved, merged, renamed, or materially corrected, remove stale duplicate index lines and keep the entry under the correct category.
+
+# Ingestion Completion Checklist
+
+A session ingestion is incomplete until all required canon surfaces have been handled:
+
+- Source chunks are present in `chunks/session_NNN/`.
+- A session summary exists at `canon/sessions/session_NNN.md`.
+- `canon/timeline.md` includes the session and represented chunk headings.
+- Relevant entity files are created or updated.
+- `canon/entities.md` is updated for new or materially corrected entities.
+- `log.md` records the operations performed.
 
 # Frontmatter Standard
 
@@ -172,7 +191,18 @@ summary: "Party breaks the Darvinblast curse, reveals Morel as illusion, discove
 3. **Consistent quoting.** `session_introduced`, `session`, and all entries in `sessions_appeared` are always quoted strings, zero-padded to three digits.
 4. **`sessions_appeared` is incremental.** When ingesting a new chunk, append the session number if the entity appears. Do not rewrite the full list from scratch.
 5. **`related` carries narrative weight.** Link entities that share plot significance, not just incidental mention. A passing reference to `"[[The Opal]]"` in a Darvinblast scene does not warrant a `related` link. All `related` values must be quoted wiki-link strings.
-6. **Validate on write.** When creating or editing any entity file, verify the frontmatter matches this schema before saving.
+6. **No canonical self-aliases.** The canonical entity name, which should match the file name, must never appear in `aliases`.
+7. **Validate on write.** When creating or editing any entity file, verify the frontmatter matches this schema before saving.
+
+# Lore Concepts
+
+Closely related lore terms should be merged only when the source treats them as identical in use and meaning. If a session clarifies that two terms are related but not identical, keep separate entity files and explain the relationship in both files as needed.
+
+For example, if one term is an underlying cosmological event and another is a spell, ritual, faction plan, or method that triggers or modifies it, they should remain distinct concepts with `related` links rather than aliases.
+
+# Mechanics Scope
+
+Avoid damage numbers, save results, spell slot levels, action sequencing, exact combat distances, dice expressions, and turn-by-turn tactics in all canon files unless the mechanic directly changes the story. Item files may describe mechanical function only at a high level.
 
 # Party-Member Content
 
@@ -202,6 +232,10 @@ Each session should have a summary written to @canon/sessions/. It should provid
 
 An summary file should never use an alias in it's main content. All aliases should be resolved to the canonical name.
 
+Session summaries should focus on narrative outcomes, discoveries, decisions, relationships, items acquired, and state changes. Do not include damage numbers, save results, AC values, spell slot levels, turn sequencing, or routine tactical actions unless the mechanical detail directly changes the story.
+
+Do not include table meta, player jokes, scheduling, act breaks, DM production notes, or out-of-world commentary in canon prose unless it describes an in-world fact. Put operational notes only in `log.md`.
+
 # Timeline
 Maintain @canon/timeline.md as a chronological list of high-level plot events. Use session headers and chunk subheaders to denote provenance because session and chunk numbers increment monotonically.
 
@@ -214,3 +248,18 @@ Use one heading per session and one subheading per chunk represented in the time
 Each entry should use canonical entity names with Obsidian links where helpful. Keep entries concise, factual, and ordered by in-world chronology. If the exact in-world order is unclear, use session and chunk order as the fallback.
 
 Timeline entries should never use aliases in main content. All aliases should be resolved to the canonical name.
+
+# Review and Lint Checklist
+
+When reviewing a recent ingestion, check for:
+
+- Missing session summary.
+- Missing session or chunk headings in `canon/timeline.md`.
+- Broken, stale, or duplicate entries in `canon/entities.md`.
+- New entities that should be aliases of existing entities.
+- Regressed or overwritten `session_introduced` values.
+- Missing session numbers in `sessions_appeared`.
+- Noncanonical names or aliases in canon prose.
+- Mechanical combat detail that does not affect story state.
+- Out-of-world or table meta commentary in canon prose.
+- Incidental `related` links that do not carry narrative weight.

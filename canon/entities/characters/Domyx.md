@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014"]
+sessions_appeared: ["001", "013", "014", "015"]
 aliases:
   - Domyx Akathian
 related:
@@ -26,6 +26,8 @@ related:
   - "[[Iklwa Isondo]]"
   - "[[Lysanderol Nokirna]]"
   - "[[Yalet Aurum]]"
+  - "[[Gunk Grodley]]"
+  - "[[Goblin Traders]]"
 ---
 
 Full name: Domyx Akathian. A titan from [[Clan Akathia]] who favors kicking doors open and fighting with rage. Travels aboard [[The Opal]].
@@ -58,3 +60,17 @@ Wields a halberd and later a trident. Has divine smite (Holy Light) and Divine F
 - Recruited [[Brim the Bullywog]] to join the party. Met [[Marshal Zem]] at the train junction.
 - In the [[Elvish Marketplace]], traded mithril, two uncommon items, and a rare item to [[Lysanderol Nokirna]] for the [[Iklwa Isondo]], a +1 mithril trident with magnetic auto-return and pull effects.
 - Visited [[Yalet Aurum]]'s monument in the jungle outside [[Brimbalin]] with [[Red Caesar]] and the party. Helped solve Yalet's riddle about his brother [[Yalet Mora]].
+
+## Session 015
+
+[[Obould]] summoned Domyx to his quarters and revealed a solemn decision: should anything happen to him, [[The Opal]] belongs to Domyx. Obould named Domyx as the first domino that set everything in motion — the crew's direction, the elf joining, the gods guiding them — and said he trusts Domyx to lead the ship forward. His name is recorded in Obould's private logbook as proof.
+
+That night, hobgoblin pirates boarded [[The Opal]]. Domyx was jostled awake by gunfire and rushed to the top deck in a rage, helping repel the boarders and protect the crew.
+
+The party then boarded the hobgoblins' second ship, [[The Hideous Truth]], and confronted the [[Warg Lord]], a massive fey creature with a bear-wolf body and a goblin face. Domyx fought through the creature's fearsome howl and held the front line until [[Kerben]] delivered the killing shot.
+
+The party decided they lacked resources to crew a third ship and hid the vessel in a jungled grotto, renaming it [[The Hideous Truth]]. They sailed to [[The Garden]], where Domyx accompanied [[Ceril]] to meet the [[Rakshasa]] in the inner sanctum. The Rakshasa recognized Domyx as Domyx Akathian, revealing he had once visited Domyx's realm and met his father. The Rakshasa gave the party a quest to find and kill the [[Tome Keeper]] demon, which would allow him to leave his hiding place and visit his family.
+
+The party reached level 9; Domyx gained Brutal Strike, Forceful Blow, and Hamstring Blow abilities.
+
+The party then sailed south of the Garden to hunt the [[Storm Phoenix]]. Domyx used his [[Iklwa Isondo]] to drag the flying creature closer to the ship, helping make it vulnerable before the party destroyed it.

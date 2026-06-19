@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014"]
+sessions_appeared: ["001", "013", "014", "015"]
 related:
   - "[[Vanzia Vinfei]]"
   - "[[House Kiernodel]]"
@@ -73,3 +73,11 @@ Can cast: Plant Growth, Guiding Bolt, Luminous Arrow, Moonbeam (repositionable a
 - Negotiated an accord with the Order: the party will stop collecting new Penumbra, and if their plan to fix the sky fails, they will give all collected Penumbra to the Order. In exchange, the Order granted access to teleport circles.
 - Revealed that his father is the [[Rakshasa]], a divine being he visited in a cave for years. Keys and Lydriel were unaware of the Rakshasa's existence.
 - Visited [[House Kiernodel]] and recognized [[Faronia Karadel]] and [[Risolvir Kirnodell]] from his pre-Cataclysm escape flashback. Faronia recognized Ceril's future self, saying his soul survives many worlds unchanged and predicting he would become a god in the reset world.
+
+## Session 015
+
+After the party returned from elf country, Ceril was asleep in the bunks when [[Red Caesar]] and [[Kerben]]'s alarm spells triggered simultaneously. Woken by gunfire, Ceril rushed to the top deck as hobgoblin pirates boarded [[The Opal]] and helped defend the ship.
+
+The party boarded the hobgoblins' second ship, [[The Hideous Truth]], and confronted the [[Warg Lord]]. Ceril's Moonbeam stripped away the creature's goblin-like features, revealing its true beast form. He helped keep the party alive until [[Kerben]] delivered the killing shot.
+
+The party sailed to [[The Garden]]. Ceril accompanied [[Domyx]] to meet the [[Rakshasa]] in the inner sanctum. The Rakshasa showed emotion when Ceril mentioned coming on behalf of his son, then hid his true thoughts. The Rakshasa revealed he is trapped and must hunt escaped demons, and gave the party a quest to kill the [[Tome Keeper]] demon. Ceril also joined [[Red Caesar]] in visiting [[Boral Erendel]], who revealed his eugenics plan for the [[Demi-Spell]] — reincarnating all beings as high elves. Ceril called Boral an apostate and proposed capturing or assassinating the Rakshasa as leverage against [[Keys]] to halt the Demi-Spell entirely. The party reached level 9.

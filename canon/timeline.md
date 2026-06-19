@@ -261,3 +261,58 @@
 - Faronia asked the party to check on [[Boral Erendel]] at [[The Garden]] and convince him to return.
 - House Kiernodel granted the party [[Teleport Keys]] for accessing teleport circles back to Brimbalin.
 - The party set sail from Continental Stark toward Cutlass Cray. [[Vizier Jade]] appeared on [[The Opal]]'s deck, confirming she has been watching [[Red Caesar]] and will ensure he survives. Red declined her restriction scroll. She departed via Teleport Circle.
+
+## Session 015
+
+### Chunk 0000
+
+- While the party explored elf country, [[Kerben]] stayed aboard [[The Opal]] with [[Obould]], discussing the crew's new direction and the rising oceans.
+- The [[Goblin Traders]]' ship approached [[The Opal]]. [[Kerben]] met [[Gunk Grodley]] and traded with his wife in the hold, crafting [[Wyvern Poison]] from collected wyvern glands and trading bullet eggs for [[Lolth's Sting]].
+- With the party's approval, [[Kerben]] traded a rare gem for the [[Subpoena Deuces Mercator]], a reusable scroll that can summon the goblin traders at sea.
+- The crew returned from elf country with [[Brim the Bullywog]] as a new recruit. Brim leaped aboard with a 50-foot jump and immediately climbed into the crow's nest.
+- [[Yalet Mora]] called [[Red Caesar]] into the mess and revealed that [[Yalet Aurum]] is his older brother. Yalet described Yalet Aurum as an arrogant bully and proposed a plan to train up and eventually defeat him. Red agreed, and the two toasted to the idea.
+- [[Obould]] summoned [[Domyx]] to his quarters and formally named him heir to [[The Opal]], recording the decision in his private logbook. Obould said Domyx was the first domino that set everything in motion.
+- That night, hobgoblin pirates boarded [[The Opal]], triggering [[Kerben]] and [[Red Caesar]]'s alarm spells simultaneously. [[Raxxy]] was injured and [[Obould]] was wounded during the initial attack.
+- The party rallied to defend the ship, repelling the hobgoblin boarders and protecting the wounded crew. No lives were lost.
+
+### Chunk 0001
+
+- [[Obould]] proposed rafting the surviving hobgoblin out to sea as a calling card from [[The Opal]]. He sent the party aboard the [[Gheister]] to chase the hobgoblins' second ship.
+- The party found the hobgoblins' second vessel adrift and discovered the [[Warg Lord]] below decks — a massive fey creature with a bear-wolf body and goblin face whose howl terrified and battered the party.
+- [[Ceril]]'s Moonbeam stripped the Warg Lord's goblin features to reveal its true beast form. The party overcame the creature, and [[Kerben]] delivered the killing shot.
+- The captured ship was originally named "Eschaton" ("end times" in Fae), later renamed [[The Hideous Truth]]. With the Opal, the Gheister, and The Hideous Truth, [[Obould]] effectively became Commodore. The party recovered gold from crates lost overboard during the Warg Lord's howl.
+
+### Chunk 0002
+
+- The party decided they lacked resources to crew a third ship. [[Kerben]] and [[Domyx]] scouted a jungled grotto — a moon-shaped cape with canopy over the ocean — and hid the vessel there under foliage, protected from aerial reconnaissance by the [[Broyish Empire]]. They renamed it [[The Hideous Truth]]. The party discussed each member eventually getting their own ship.
+- The party sailed to [[The Garden]], which had grown more populated with boats. [[Theotropa]] was building a fleet with cyan and green banners to supply food and livestock to nearby settlements.
+- [[Domyx]] and [[Ceril]] met the [[Rakshasa]] in the Garden's inner sanctum. He recognized Domyx as Domyx Akathian and showed emotion when Ceril mentioned coming on behalf of his son. The Rakshasa revealed he is trapped and must hunt escaped demons before he can see his family. He tasked the party with finding and killing the [[Tome Keeper]] demon, who keeps the [[Tome of Satariel]] and can track the Rakshasa wherever he travels.
+- [[Kerben]] investigated the Garden's supply routes with Theotropa. [[Vokunar]] used Locate Object to find a drained [[Penumbra]] chunk in Theotropa's possession. She agreed to give it if the party destroyed a [[Storm Phoenix]] — an elemental being driven mad by [[The Cataclysm]] — located south of the Garden.
+- [[Red Caesar]] and [[Ceril]] visited [[Boral Erendel]] in his side office. Boral revealed his eugenics plan for the [[Demi-Spell]]: he has created thousands of empty high elf forms and intends to reincarnate all spirits into these "perfect" bodies, eliminating all difference and war. He told Red that humans would be replaced by forms "better" than themselves. Red and Ceril were horrified.
+- [[Vokunar]] summoned [[Crone]] during a full moon. She appeared blood-soaked and exhausted. She confirmed there is time to stop the Demi-Spell but warned the party is more likely to die than run out of time. She revealed [[Aeris]] could heal the sky herself if given enough power — the party doesn't need all the Penumbra, just enough. She advised using the Rakshasa as a bargaining chip and confirmed the elves cannot be trusted to halt the Demi-Spell even if the sky were repaired.
+- [[Ceril]] proposed capturing or assassinating the Rakshasa as leverage against [[Keys]] to halt the Demi-Spell entirely, given the danger posed by apostates like Boral.
+- The party reached level 9 during their long rest at [[The Garden]].
+
+### Chunk 0003
+
+- The party sailed south of the Garden to hunt the [[Storm Phoenix]]. [[Ceril]] cast Commune with Nature to locate it, learning its position and discovering plantain groves in the tropical terrain.
+- The Storm Phoenix was found circling above the ocean, moving as lightning between clouds before attacking [[The Opal]].
+- The party destroyed the Storm Phoenix, revealing a single chunk of amber at its core.
+- [[Kerben]] wanted to keep the amber, but the party wrested it from him and threw it overboard. When it hit the seawater, it became a vertical lightning bolt that split outward, returning lightning to the heavens.
+- Ceril realized that lightning had been "stolen from the heavens" since [[The Cataclysm]] and that the party had returned some of nature's weather balance by dissipating the storm phoenix.
+- The party returned to [[The Garden]]. [[Theotropa]] confirmed the task was complete — lightning had struck deep into one of her woodlands and storms had been returned. She gave the party the drained [[Penumbra]] and noted that a scout from the [[Broyish Empire]] had come looking for it while they were gone, appearing as a cloud on some device.
+- Theotropa offered to hold onto any future Penumbra the party found, since others were coming for it. Her own was under non-detection.
+- The party discussed their next moves: returning to [[Castle Kaedon]], finding [[Southport]] to drop off [[Rochella Golf]], or revisiting the prologue quest [[Black Dragon]]. They decided to head toward the lagoon area.
+
+### Chunk 0004
+
+- [[Kerben]] used his navigation tools to trace the druid supply routes, identifying the general direction of [[Southport]] on the map — reachable but requiring extra travel west.
+- The party sailed for roughly two weeks back to [[Lyngbakr Lagoon]]. They found the settlement expanded with huts, residents, and an oil-burning alarm path system.
+- [[Alamar]] greeted the party mounted on [[Kilosaurus]] with weapons. [[Lyngbakr]] had finished digesting the previous [[Penumbra]] feedings roughly three weeks prior.
+- The party fed the drained Penumbra from [[Theotropa]] through the now-fully-excavated chute, ringed with blue ever-burning torch lights.
+- [[Alamar]] revealed a canvas dome covered with foliage that can shroud the island from aerial reconnaissance by the [[Broyish Empire]].
+- [[Alamar]] revealed that a druid garden existed in his time as well, led by a kindly woman named [[Theotropa]] — the same name as the current leader, suggesting a possible connection across ages.
+- After feeding the Penumbra, [[Lyngbakr]] rose again. The island and surrounding pillars rose in unison, exposing twice as much of [[Castle Kaedon]] to explore. The turrets were now clearly visible.
+- [[Alamar]] sensed forces of hell and undead pervading the castle, saying it is cursed by every kind of curse — physical, metaphysical, divine, and profane — tracing the curse to [[Queen Caeradwyn]]'s ambition and bloodline magic.
+- [[Alamar]] chose to stay behind at the lagoon to guard against aerial scouts, saying he is "damned if I do and damned if I don't."
+- The party took the [[Gheister]] as a longboat toward the risen [[Castle Kaedon]].

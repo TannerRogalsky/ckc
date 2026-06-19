@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014"]
+sessions_appeared: ["001", "013", "014", "015"]
 related:
   - "[[Heaven's Bulb]]"
   - "[[The Cataclysm]]"
@@ -25,6 +25,7 @@ related:
   - "[[The Academy]]"
   - "[[Vizier Jade]]"
   - "[[House Kiernodel]]"
+  - "[[Yalet Mora]]"
 ---
 
 A member of [[Heaven's Bulb]] who survived [[The Cataclysm]]. Travels aboard [[The Opal]] as part of the party. Awakened by something aboard The Opal. Keeps alarms strewn about the ship and personally investigates any disturbances. Has [[Vizier Jade]]'s secret regarding her visit.
@@ -60,3 +61,15 @@ Can cast: Shocking Grasp, Dispel Magic, Lightning Bolt, Fireball, Misty Step, Re
 ## Leveling
 
 **Level 8:** Took ability score improvement to attack bonus. Spell save DC raised to 16, ward to 21. Prepared Control Water and Banishment. Gained access to two additional wizard spells for his spellbook. Considered Fabricate and Phantom Steed as utility options.
+
+## Session 015
+
+On the first evening aboard [[The Opal]] after returning from elf country, [[Yalet Mora]] called Red into the mess to drink. Yalet revealed that [[Yalet Aurum]] is his older brother and described him as an arrogant bully. Yalet proposed a plan: they would train up, grow stronger, and eventually confront Yalet Aurum to take his golden head. Red agreed there might be something in it for both of them, and the two toasted to the idea.
+
+That night, Red's alarm spells triggered simultaneously with [[Kerben]]'s, indicating a serious breach aboard the ship. The two investigated and discovered hobgoblin pirates had boarded [[The Opal]]. Red protected [[Obould]] and an injured deckhand while helping drive the boarders from the ship. The party then boarded the hobgoblins' second ship, [[The Hideous Truth]], and confronted the [[Warg Lord]]. Red was struck by the Warg Lord's terrifying howl and helped [[Domyx]] hold the creature off until [[Kerben]] killed it.
+
+The party sailed to [[The Garden]]. Red visited [[Boral Erendel]] in his side office, where Boral revealed his eugenics plan for the [[Demi-Spell]]: he has created thousands of empty high elf forms and intends to reincarnate all spirits into these "perfect" bodies, eliminating war by erasing all difference. He told Red that humans like him would be replaced by forms "better" than themselves. If [[Keys]] would not allow him to integrate his ideas, Boral said he would forge ahead on his own. Red and [[Ceril]] were horrified; Red admitted it took everything in him not to destroy the office. Red gained access to Control Winds and Contact Other Plane spells upon reaching level 9.
+
+Red gained the Circle of Power feature and learned Bigby's Hand and Teleportation Circle. Through Circle of Power, he learned the sigil sequences for two random teleport destinations: [[The White Drake]] (the League's main ship) and the dwarfish market in [[The Pit]].
+
+The party then sailed south of the Garden to hunt the [[Storm Phoenix]]. Red used his abjuration and offensive magic to help weaken the creature before the party destroyed it.

@@ -2,6 +2,14 @@
 type: character
 subtypes: [npc]
 session_introduced: "001"
+sessions_appeared: ["001", "015"]
+aliases:
+  - Roxy
+related:
+  - "[[The Opal]]"
+  - "[[Kerben]]"
 ---
 
-Navigator aboard [[The Opal]]. A jack-of-all-trades who works in the rigging. Works alongside [[Kerben]] on navigation and astrology duties.
+Navigator aboard [[The Opal]]. A jack-of-all-trades who works in the rigging. Works alongside [[Kerben]] on navigation and astrology duties. An orc who serves as the ship's crow's nest lookout.
+
+In session 015, Raxxy spotted an incoming vessel with red sails from the crow's nest — the [[Goblin Traders]]' ship. Later that night, she was injured during a hobgoblin pirate boarding attack, holding an unconscious crew member while warning the party that the ship was being boarded.

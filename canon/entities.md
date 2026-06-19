@@ -18,6 +18,7 @@
 - [[Yalet Mora]] — Stone-bodied crew member who suggested recruiting a wind creature for The Opal
 
 ## NPCs
+- [[Gunk Grodley]] — Dapper goblin trader who captains the Goblin Traders' ship
 - [[Vizier Jade]] — Vizier from Broy serving Emperor Shen
 - [[Morel Chainsunder]] — Cult leader controlling the dwarves of Darvinblast
 - [[Emperor Shen]] — Emperor of Broy
@@ -83,13 +84,18 @@
 - [[Grotusqu]] — Non-magical giant squid that Lady Jacinthe asked the party to hunt
 - [[Fuchsia Fungus]] — Purple fungal mound creature in the bogs of Continental Stark that assimilates victims
 - [[Aeon]] — Githzerai creature from beyond Stark, green-skinned with psionic powers. Escaped after offering a star gem to Vokunar
+- [[Warg Lord]] — Massive fey beast with a bear-wolf body and goblin face, captain of the hobgoblin pirate ship The Hideous Truth
+- [[Tome Keeper]] — Demon who keeps the Tome of Satariel; can track the Rakshasa and summon other escaped demons
+- [[Storm Phoenix]] — Elemental being of pure power, once a gem of amber, driven mad by the Cataclysm. Destroyed by the party in session 015
+- [[Black Dragon]] — Ancient black dragon from the prologue that wrecked the party's hold and stole their gold
 
 ## Locations
 - [[Continental Stark]] — Massive elfish continent, last remnant of the Old World, home to Brimbalin
 - [[Arcadia]] — Realm above Stark, origin of Vokunar and Lyngbakr
 - [[The Opal]] — The party's ship
-- [[Gheister]] — Ship that received visas from Beryzoz Helmscar in The Pit, whereabouts unknown
+- [[Gheister]] — Second ship in Obould's fleet, used as the party's transport to Lyngbakr Lagoon and Castle Kaedon
 - [[The White Drake]] — Main ship of The League of New Stark
+- [[The Hideous Truth]] — Captured hobgoblin pirate galley, originally named Eschaton, hidden in a jungled grotto
 - [[The Croakborne Carnival]] — Ship of The Order of Seasons
 - [[Darvinblast]] — Underground dwarven city
 - [[The Darvenlast]] — Self-sufficient area within The Deepworlders Delve
@@ -118,6 +124,7 @@
 - [[Lyngbakr Lagoon]] — Developing base near Castle Kaedon where Alamar, Relic Elnavi, and Kilosaurus remain
 - [[Rasharan's Rock]] — Location that no longer exists
 - [[Hole in the Sky]] — Hole the party aims to find and plug
+- [[Southport]] — Port city somewhere to the west of The Garden, sought by Rochella Golf
 
 ## Organizations
 - [[Heaven's Bulb]] — Group of cataclysm survivors
@@ -129,7 +136,8 @@
 - [[The League of New Stark]] — Maritime organization led by Lady Jacinthe
 - [[The Order of Seasons]] — Organization mostly of elves, seeks Genesis Mundi
 - [[Broyish Empire]] — Xenophobic eastern empire ruled by Emperor Shen
-- [[Knights of the Four Seasons]] — Militia protecting The Order of Seasons, stationed at the Brimbalin train junction
+- [[Knights of the Four Seasons]] — Elven marshal service on Continental Stark, led by Marshal Zem
+- [[Goblin Traders]] — Goblin crew operating a red-sailed trading ship on the high seas, selling poisons and magical wares
 
 ## Items & Concepts
 - [[Akasha]] — Silvery-white liquid raining from the sky over Continental Stark, connected to Arcadia's oceans
@@ -147,6 +155,10 @@
 - [[Beryzoz's Teeth]] — Red Caesar's necrotic-resistance ring that can speak with the dead
 - [[Touching the Sky]] — Titan rite with cosmic implications for Domyx and the broken sky
 - [[Teleport Keys]] — Teleport circle encodements granted by House Kiernodel for returning to Brimbalin
+- [[Subpoena Deuces Mercator]] — Reusable scroll that summons the Goblin Traders' ship anywhere at sea
+- [[Wyvern Poison]] — Injury poison crafted from wyvern glands aboard the Goblin Traders' ship
+- [[Lolth's Sting]] — Contact poison from the Goblin Traders that weakens a target's ability to fight
+- [[Tome of Satariel]] — Book kept by the Tome Keeper demon; its destruction would free the Rakshasa from his charge
 
 ## Deities
 - [[Aeris]] — Sister goddess of Chaos, Potential, and Fate (alias: The Sky)
