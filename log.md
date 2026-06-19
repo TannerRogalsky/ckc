@@ -48,3 +48,9 @@
 ## [2026-06-19] lint | Party-member files — Rewrote Domyx, Ceril, Kerben, Red Caesar, Vokunar to remove combat logs per new guidelines
 ## [2026-06-19] timeline | canon/timeline.md — Wrote full campaign timeline covering sessions 001-013
 ## [2026-06-19] timeline | canon/timeline.md — Audited and corrected timeline provenance format
+## [2026-06-19] ingest | session_014/chunk_0000 — Extracted 3 new entities: Akasha, Continental Stark, Fuchsia Fungus. Updated 7 entities. Wrote session summary.
+## [2026-06-19] ingest | session_014/chunk_0001 — Extracted 2 new entities: Aeon, Moon Mushrooms. Updated 8 entities. Updated session summary and timeline.
+## [2026-06-19] ingest | session_014/chunk_0002 — Extracted 11 new entities. Updated 8 entities. Updated session summary and timeline.
+## [2026-06-19] ingest | session_014/chunk_0003 — Extracted 7 new entities. Updated 8 entities. Updated session summary and timeline.
+## [2026-06-19] ingest | session_014/chunk_0004 — Extracted 3 new entities. Updated 9 entities. Updated session summary and timeline.
+## [2026-06-19] lint | session_014 — Fixed factual and syntactical issues in recent canon ingest.

@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013"]
+sessions_appeared: ["001", "013", "014"]
 aliases:
   - Domyx Akathian
 related:
@@ -20,6 +20,12 @@ related:
   - "[[Morel Chainsunder]]"
   - "[[Yalet Mora]]"
   - "[[Relic Elnavi]]"
+  - "[[Continental Stark]]"
+  - "[[Fuchsia Fungus]]"
+  - "[[Aeon]]"
+  - "[[Iklwa Isondo]]"
+  - "[[Lysanderol Nokirna]]"
+  - "[[Yalet Aurum]]"
 ---
 
 Full name: Domyx Akathian. A titan from [[Clan Akathia]] who favors kicking doors open and fighting with rage. Travels aboard [[The Opal]].
@@ -47,7 +53,8 @@ Wields a halberd and later a trident. Has divine smite (Holy Light) and Divine F
 - In gnoll territory, killed a pack lord with a punch and broke a [[Wyvern]]'s neck when it tried to bite [[Kerben]]. Wore a hyena pelt as a trophy outfit afterward.
 - During the [[Wyvern]] encounter, grappled a flying wyvern using his trident, catching a wing in the tines and pulling it to the ground. Was stung by the wyvern's scorpion tail but survived.
 - Uses his high mobility to position himself inside [[Ceril]]'s Moonbeam to hold enemies in place.
-
-## Leveling
-
-**Level 8:** Took ability score improvement, raising Constitution from 14 to 16 (+8 max HP, hit dice modifier improved).
+- On [[Continental Stark]], used his lodestone greaves to detect buried train rails through magnetic pull. Defeated the [[Fuchsia Fungus]] with a Holy Light hammer strike, then carried unconscious migrants to safety and gave them to the elven scouts.
+- Fought through the [[Aeon]]'s psychic charm and kept the creature pinned down long enough for the party to turn the battle. The Aeon offered a star gem and gold before Plane Shifting away; [[Vokunar]] chose not to attack and accepted the offer.
+- Recruited [[Brim the Bullywog]] to join the party. Met [[Marshal Zem]] at the train junction.
+- In the [[Elvish Marketplace]], traded mithril, two uncommon items, and a rare item to [[Lysanderol Nokirna]] for the [[Iklwa Isondo]], a +1 mithril trident with magnetic auto-return and pull effects.
+- Visited [[Yalet Aurum]]'s monument in the jungle outside [[Brimbalin]] with [[Red Caesar]] and the party. Helped solve Yalet's riddle about his brother [[Yalet Mora]].

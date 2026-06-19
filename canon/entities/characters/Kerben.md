@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013"]
+sessions_appeared: ["001", "013", "014"]
 aliases:
   - Kerbin
 related:
@@ -21,6 +21,8 @@ related:
   - "[[Gammix]]"
   - "[[Tammix]]"
   - "[[Tango]]"
+  - "[[Continental Stark]]"
+  - "[[Moon Mushrooms]]"
 ---
 
 A rogue with a sailor background who speaks Northern (dwarvish). Travels aboard [[The Opal]] and works with [[Raxxy]] on navigation and astrology duties. Has poison resistance, likely from childhood exposure to toxic fumes in the dwarven deep world.
@@ -43,6 +45,7 @@ Travels with [[Zulu]], a dinosaur companion that can be given grasshopper legs v
 - Cast Speak with Animals to communicate with the triceratops before battle, then used the commands to direct it to charge and gore the [[Fire Giant]], knocking it off a 60-foot bridge. Found a posting in Northern with triceratops commands after Speak with Animals wore off.
 - Received Deep World ivory figures as treasure. Found texts on the deep worlders during looting.
 - In gnoll territory, his new musket proved devastating at range against [[Gnoll]] packs and [[Wyvern]] guardians.
+- On [[Continental Stark]], expressed interest in developing [[Moon Mushrooms]] and wyvern gland extracts into battle poisons.
 
 ## Leveling
 

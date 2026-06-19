@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013"]
+sessions_appeared: ["001", "013", "014"]
 related:
   - "[[Arcadia]]"
   - "[[Sigil]]"
@@ -28,6 +28,18 @@ related:
   - "[[Domyx's Ancestor]]"
   - "[[Lyngbakr Lagoon]]"
   - "[[Morel Chainsunder]]"
+  - "[[Akasha]]"
+  - "[[Continental Stark]]"
+  - "[[Fuchsia Fungus]]"
+  - "[[Aeon]]"
+  - "[[Demi-Spell]]"
+  - "[[Academia Lux]]"
+  - "[[Brimbalin]]"
+  - "[[The Academy]]"
+  - "[[Keys]]"
+  - "[[Lydriel Gondara]]"
+  - "[[Faronia Karadel]]"
+  - "[[Boral Erendel]]"
 ---
 
 A young being trapped in stone for decades, falling through the sky toward [[Stark]].
@@ -58,7 +70,11 @@ Uses a healing-focused combat style, prioritizing others over himself — strate
 - Contacted [[Sigil]], who advised the party to go first to the elves, revealed that [[The Order of Seasons]] had moved [[Penumbra]] to a protected place beyond the jungles, confirmed [[Alamar]] was an ally but not fully forthcoming, and named [[Domyx's Ancestor]] as the party's greatest enemy.
 - Taught [[Alamar]] Continual Flame and cast several continual flame torches at [[Lyngbakr Lagoon]] for safe lighting.
 - During the [[Wyvern]] encounter, grew wings to gain flight and repositioned over the battlefield. Finished the last wyvern by flying above it and planting his sword two-handed down the center of its back, pinning it to the ground like a reverse sword in the stone.
-
-## Leveling
-
-**Level 8:** Took Heavy Armor Master feat (reduces slashing, bludgeoning, and piercing damage by 3). Rounding up strength score.
+- On [[Continental Stark]], cast Locate Object to find overgrown train rails and used Water Walk to traverse a quicksand bog. Collected a sample of [[Akasha]] liquid and used Guardian of Faith against the [[Fuchsia Fungus]].
+- Cast Calm Emotions against the [[Aeon]], helping neutralize its charm effects on the party.
+- Chose not to attack the [[Aeon]] when it offered a star gem and gold, allowing it to Plane Shift away. Called the Aeon's celestial stone "Ceril-ish."
+- Met [[Osiris Dims]], an aasimar born in [[Brimbalin]] 45 years ago, who revealed details about [[The Order of Seasons]] and the [[Demi-Spell]].
+- Reunited with [[Gossa]] at the [[Elvish Marketplace]] — a former teacher from [[Academia Lux]] in [[Arcadia]]. She recognized him immediately and warned him to learn what he could about the Order.
+- At [[The Academy]], spoke with [[Keys]] and [[Lydriel Gondara]] about the [[Demi-Spell]]. Questioned whether the spell would simply replay the same cycle of events and whether the gods themselves might have caused the Cataclysm.
+- Negotiated an accord with the Order: the party will stop collecting new [[Penumbra]], and if their plan to fix the sky fails, they will give all collected Penumbra to the Order. The Order granted the party access to teleport circles.
+- At [[House Kiernodel]], questioned [[Faronia Karadel]] about the [[Genesis Mundi]] and whether the Demi-Spell would be fair to all peoples, including the [[Broyish Empire]]. Learned that the Genesis Mundi is a fixed point between worlds that occurs regardless, and the Demi-Spell merely modifies it with guidelines.

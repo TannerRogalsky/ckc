@@ -11,6 +11,7 @@
 - [[Obould]] — Captain of The Opal, a gaudy orc
 - [[Raxxy]] — Navigator aboard The Opal
 - [[Otto]] — Boat repairman recruited to the crew
+- [[Brim the Bullywog]] — Frog-headed tinkerer recruited to the party on Continental Stark
 - [[Gammix]] — Dwarf fighter from the Steelfend Clan, recruited ally
 - [[Tammix]] — Dwarf fighter and brother of Gammix, recruited ally
 - [[Rochella Golf]] — Passenger or temporary crew member aboard The Opal seeking Southport
@@ -26,7 +27,7 @@
 - [[Imotep]] — Yuan-ti associated with The League of New Stark
 - [[Damien Ouranous]] — Solar from Sigil associated with The League of New Stark
 - [[Theotropa]] — Leader of The Garden, a druid sanctuary
-- [[Boril Arangel]] — Associated with The Order of Seasons, stationed at The Garden
+- [[Boral Erendel]] — Order member stationed at The Garden, working on a side project
 - [[The Wonder Hulk]] — Proprietor of The W. H. Boutique in Cutlass Cray
 - [[Pleasance MacLenth]] — Librarian at Bookbinders Cray
 - [[Pastor Borm]] — Gold wyrmling, pastor of The Church of the Thirty Lights
@@ -36,7 +37,18 @@
 - [[Beryzoz Helmscar]] — Gnomish armor forger in The Pit
 - [[Alamar]] — Person placed in magical coma by Vlerro, bound to Castle Kaedon
 - [[Vlerro]] — Placed Alamar in a magical coma (Sequestered)
-- [[Gossa]] — Aasimar mentor to Vokunar 60 years ago
+- [[Gossa]] — Aasimar mentor to Vokunar from Academia Lux, now working in the Elvish Marketplace in Brimbalin
+- [[Osiris Dims]] — Aasimar born in Brimbalin 45 years ago, revealed details about the Demi-Spell
+- [[Marshal Zem]] — Tiefling marshal of the Knights of the Four Seasons
+- [[Lysanderol Nokirna]] — Elf mithril smith in the Elvish Marketplace
+- [[Garsinth Theralal]] — Older elf in Brimbalin whose son cast Sleep on Red Caesar
+- [[Yalet Aurum]] — Galeb Duurr with a golden body encased in a stone monument outside Brimbalin
+- [[Stefan Quist]] — Human receptionist at The Academy
+- [[Keys]] — Tiefling working on the Demi-Spell at The Academy, was at Castle Kaedon
+- [[Lydriel Gondara]] — Half-elf of the Order working with Keys, was at Castle Kaedon
+- [[Alsa Keirnodel]] — Primary force behind the Demi-Spell's power, related to House Kiernodel
+- [[Faronia Karadel]] — Drow, Keys' mother, chiefly in command of enacting the Demi-Spell from House Kiernodel
+- [[Risolvir Kirnodell]] — Leader of House Kiernodel, warned the party about the Broyish Empire
 - [[Solar Flare]] — Tall woman with shining light seen by Vokunar 60 years ago
 - [[Deep World Wizard]] — Mage in [[Darvinblast]] allied with an [[Etten]] champion
 - [[Domyx's Ancestor]] — Erased sky-touching member of Domyx's bloodline, named by Sigil as the party's greatest enemy
@@ -51,7 +63,7 @@
 ## Creatures & Companions
 - [[Zulu]] — Kerben's dinosaur companion
 - [[Tango]] — Kerben's flying companion creature
-- [[Nyquil]] — Ceril's owl familiar
+- [[Nyquil]] — Ceril's owl familiar, killed by Akasha rain
 - [[Kilosaurus]] — Triceratops-like companion used to haul Penumbra and later left at Lyngbakr Lagoon
 - [[Penelope]] — Giant bat ridden by a dwarf bat rider knight
 - [[Bat Rider]] — Elite dwarf knights riding giant bats
@@ -69,8 +81,11 @@
 - [[Etten]] — Two-headed giant creature encountered in Darvinblast
 - [[Fire Giant]] — Flame-engulfed giant encountered in Darvinblast, allied with dwarvish anti-sky deities
 - [[Grotusqu]] — Non-magical giant squid that Lady Jacinthe asked the party to hunt
+- [[Fuchsia Fungus]] — Purple fungal mound creature in the bogs of Continental Stark that assimilates victims
+- [[Aeon]] — Githzerai creature from beyond Stark, green-skinned with psionic powers. Escaped after offering a star gem to Vokunar
 
 ## Locations
+- [[Continental Stark]] — Massive elfish continent, last remnant of the Old World, home to Brimbalin
 - [[Arcadia]] — Realm above Stark, origin of Vokunar and Lyngbakr
 - [[The Opal]] — The party's ship
 - [[Gheister]] — Ship that received visas from Beryzoz Helmscar in The Pit, whereabouts unknown
@@ -80,7 +95,10 @@
 - [[The Darvenlast]] — Self-sufficient area within The Deepworlders Delve
 - [[Deep World]] — The underground realm of the dwarves
 - [[Broy]] — The Empire in the eastern continent (Broyish Empire)
-- [[Brimbalin]] — Elfish continent and magic city, believed destination of the Order of Seasons
+- [[Brimbalin]] — Magic city on Continental Stark, seat of The Order of Seasons, connected to 11 towns by rail
+- [[Elvish Marketplace]] — Marketplace in Brimbalin where elves sell magical goods
+- [[The Academy]] — Epicenter of The Order of Seasons' activity in Brimbalin
+- [[Academia Lux]] — School in Arcadia where Vokunar was taught
 - [[Stark]] — Destination of Vokunar's fall
 - [[The Pit]] — Dwarvish settlement, seat of Figma Brickfinger's Union
 - [[The Palace of the Pit]] — Seat of power in The Pit
@@ -111,20 +129,27 @@
 - [[The League of New Stark]] — Maritime organization led by Lady Jacinthe
 - [[The Order of Seasons]] — Organization mostly of elves, seeks Genesis Mundi
 - [[Broyish Empire]] — Xenophobic eastern empire ruled by Emperor Shen
+- [[Knights of the Four Seasons]] — Militia protecting The Order of Seasons, stationed at the Brimbalin train junction
 
 ## Items & Concepts
+- [[Akasha]] — Silvery-white liquid raining from the sky over Continental Stark, connected to Arcadia's oceans
+- [[Moon Mushrooms]] — Hallucinogenic translucent mushrooms in the Continental Stark jungle, harvestable as poison
 - [[Penumbra]] — Pieces of the fallen sky, sources of great power
 - [[The Cataclysm]] — World-ending event that reset the world
 - [[League Banner]] — Banner from The League of New Stark
 - [[Para and Bellum]] — Two copper blades given to Red Caesar
-- [[Genesis Mundi]] — The Demi Spell sought by The Order of Seasons
+- [[Genesis Mundi]] — Fixed point between worlds that the Demi-Spell expedites and modifies
+- [[Demi-Spell]] — The Order's spell to rewrite the past and undo the Cataclysm, less than a year away
+- [[Iklwa Isondo]] — Domyx's +1 mithril trident with magnetic auto-return, crafted by Lysanderol Nokirna
 - [[Potion of Proof Against Storms]] — Potion granting thunder and lightning resistance, given to Domyx
 - [[Hilltop Hunter]] — Kerben's upgraded force-damage musket
 - [[Vivarian Zodex]] — Kerben's animal-protecting magical breastplate
 - [[Beryzoz's Teeth]] — Red Caesar's necrotic-resistance ring that can speak with the dead
 - [[Touching the Sky]] — Titan rite with cosmic implications for Domyx and the broken sky
+- [[Teleport Keys]] — Teleport circle encodements granted by House Kiernodel for returning to Brimbalin
 
 ## Deities
 - [[Aeris]] — Sister goddess of Chaos, Potential, and Fate (alias: The Sky)
 - [[Sigil]] — Sister goddess of Life, Energy, and Motion (alias: The Sun)
 - [[Crone]] — Sister goddess of Time, Death, and Passage of Things (alias: The Moon)
+- [[Rakshasa]] — Divine being, Ceril's father, encountered at The Garden

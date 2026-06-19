@@ -200,3 +200,64 @@
 - [[Domyx]] explains [[Touching the Sky]] as a titan ambition contest that may have brought his ancestor into direct contact with [[Aeris]].
 - [[Relic Elnavi]] offers [[Ceril]] hope about the elven lands, then blinks away while [[Ceril]] stays at [[Lyngbakr Lagoon]].
 - The party charts a four-day wind-favored route north toward the elves, then curving south past [[The Garden]], and sets sail.
+
+## Session 014
+
+### Chunk 0000
+
+- [[Obould]] leaves the party at the coast of [[Continental Stark]] to guard [[The Opal]], warning that the jungle interior is treacherous and should be crossed in one day.
+- The party treks into the jungle of [[Continental Stark]], following overgrown train rails located by [[Vokunar]]'s Locate Object spell.
+- [[Domyx]] uses his lodestone greaves to detect buried rails magnetically beneath the jungle floor.
+- The party is struck by [[Akasha]] rain — a silvery-white liquid dealing radiant damage. [[Ceril]]'s familiar [[Nyquil]] is killed; Ceril consumes the owl's body.
+- [[Red Caesar]] casts Leomund's Tiny Hut to shelter the party during subsequent Akasha storms. [[Vokunar]] collects a sample of Akasha for study.
+- A giant tyrannosaurus charges the party; [[Ceril]] dominates it with Dominate Beast and sends it north on a rampage against anyone who looks like him.
+- The party encounters fleeing elven scouts and migrants warning of a creature devouring people in the bogs ahead. An elf scout gives the party mithril as payment.
+- The party enters the bog, using Water Walk to cross the quicksand. [[Domyx]] rescues an unconscious migrant.
+- The [[Fuchsia Fungus]] rises from the bog and begins combat with the party.
+
+### Chunk 0001
+
+- [[Domyx]] defeats the [[Fuchsia Fungus]], slicing it in half with a Holy Light hammer strike. The creature's remains turn to ash.
+- [[Ceril]] heals unconscious migrants with holy light. The elven scout thanks the party and asks if their magic came from [[The Order of Seasons]].
+- The scout warns of a train junction ahead, with trains passing every eighth of the sun. The scouts give the party platinum credit chips from the Magic City (Queen's face scratched off) as payment.
+- The party continues along the rails through increasingly wet terrain. [[Domyx]]'s magnet sense navigates broken and submerged rail sections.
+- [[Ceril]] discovers and harvests hallucinogenic Moon Mushrooms for [[Kerben]]'s poison research.
+- An [[Aeon]] — a green-skinned Githzerai from beyond Stark — descends from a cliff and attacks with psychic charm effects and psionic magic. [[Vokunar]] protects the party with Calm Emotions while [[Domyx]] and [[Red Caesar]] keep it pressured. Combat ongoing.
+
+### Chunk 0002
+
+- The party turns the [[Aeon]] encounter in their favor, forcing the creature to bargain rather than continue fighting.
+- The Aeon offered a star gem and golden astral coins to [[Vokunar]], who accepted and told it to leave. [[Red Caesar]] cast Mage Hand to retrieve the gem.
+- The Aeon cast Plane Shift to escape. [[Red Caesar]] Counterspelled, but the Aeon Counterspelled the Counterspell and departed, insulting Red as "the filth."
+- The party short-rested and continued along the rail line, finding a well-maintained shiny rail replacing the old rusted line.
+- The party met [[Brim the Bullywog]], a frog-headed tinkerer beside the rails, and recruited him as their tinkerer and lookout.
+- At the train junction, [[Marshal Zem]] of the [[Knights of the Four Seasons]] inspected the party, cast Augury on each traveler, and applied an augmented Sanctuary spell. Brim vouched for the group.
+- The party boarded a magical self-conducting train to [[Brimbalin]], traveling at 75 mph through cleared jungle terrain.
+- In Brimbalin, the party explored the city and the [[Elvish Marketplace]]. The city is mostly elves and tieflings; humans are rare.
+- [[Red Caesar]] was targeted by young elves who cast Sleep on him — a mockery since only humans are susceptible. Red failed the save, then Misty Stepped behind the caster and slapped him.
+- [[Vokunar]] met [[Osiris Dims]], an aasimar who revealed the Magic City and [[The Order of Seasons]] are "one and the same" and that the [[Demi-Spell]] may be less than a year away.
+- [[Vokunar]] and [[Ceril]] reconnected with [[Gossa]], a former teacher from [[Academia Lux]] in [[Arcadia]], now working in the marketplace.
+- [[Domyx]] traded mithril, two uncommon items, and a rare item to [[Lysanderol Nokirna]] for the [[Iklwa Isondo]], a +1 mithril trident with magnetic auto-return.
+- Brim got lost in town and told the party to meet him at midnight where a bell sounds.
+
+### Chunk 0003
+
+- [[Red Caesar]] met [[Garsinth Theralal]], an older elf who apologized for his son's Sleep prank and gave Red directions to [[Yalet Aurum]].
+- The party visited [[Yalet Aurum]] — a Galeb Duurr with a solid gold body encased in a 40-50 foot stone monument outside Brimbalin. Yalet confirmed [[The Order of Seasons]] is interested in [[Penumbra]] and warned the party to "act faster than an elf."
+- Yalet posed a riddle about his brother [[Yalet Mora]]; [[Red Caesar]] solved it as "bolder" and received chunks of gold.
+- The party took a tram to [[The Academy]] and met [[Keys]] and [[Lydriel Gondara]] — the same tiefling and half-elf who stole [[Penumbra]] from [[Castle Kaedon]].
+- The party learned the [[Demi-Spell]] works by going to the far future until everything begins again, recycling all souls and elements. Penumbra pieces are used as energy to accelerate the spell. The Demi-Spell is more powerful than the gods.
+- [[Alsa Keirnodel]] is the primary force behind the Demi-Spell's power. The spell is written as volumes upon volumes with hexagrams and mathematical structures.
+- [[Ceril]] revealed his father is the [[Rakshasa]], a divine being he visited in a cave for years.
+- The party negotiated an accord: they will stop collecting new Penumbra, and if their plan to fix the sky fails, they will give all collected Penumbra to the Order. The Order granted the party access to teleport circles.
+- [[Ceril]] traded a Mask of Ogun to [[Gossa]] for an amulet that lets him summon his familiar as a magma elemental.
+
+### Chunk 0004
+
+- The party visited [[House Kiernodel]] in Brimbalin. [[Ceril]] recognized [[Faronia Karadel]] and [[Risolvir Kirnodell]] from his pre-Cataclysm escape flashback.
+- [[Faronia Karadel]], a drow and mother of [[Keys]], is chiefly in command of enacting the Demi-Spell. She recognized Ceril's future self and predicted he would become a god in the reset world.
+- [[Risolvir Kirnodell]] warned the party that the [[Broyish Empire]] is their greatest enemy, also pursuing the [[Genesis Mundi]] and collecting [[Penumbra]] pieces for a weapon.
+- [[Vokunar]] learned that the [[Genesis Mundi]] is a fixed point between worlds that occurs regardless — the Demi-Spell merely expedites and modifies it with guidelines.
+- Faronia asked the party to check on [[Boral Erendel]] at [[The Garden]] and convince him to return.
+- House Kiernodel granted the party [[Teleport Keys]] for accessing teleport circles back to Brimbalin.
+- The party set sail from Continental Stark toward Cutlass Cray. [[Vizier Jade]] appeared on [[The Opal]]'s deck, confirming she has been watching [[Red Caesar]] and will ensure he survives. Red declined her restriction scroll. She departed via Teleport Circle.
