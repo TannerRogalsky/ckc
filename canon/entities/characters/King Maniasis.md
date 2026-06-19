@@ -5,7 +5,6 @@ session_introduced: "017"
 sessions_appeared: ["017", "021"]
 aliases:
   - Maniasis
-  - King Maniasis
 related:
   - "[[Alamar]]"
   - "[[Lady Acelia]]"

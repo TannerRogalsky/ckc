@@ -2,9 +2,19 @@
 type: concept
 subtypes: [lore]
 session_introduced: "019"
-sessions_appeared: ["019"]
+sessions_appeared: ["019", "021"]
+aliases:
+  - Star screen
+  - Skyfall
+related:
+  - "[[The Cataclysm]]"
+  - "[[Broyish Empire]]"
+  - "[[Hole in the Sky]]"
+  - "[[Castle Kaedon]]"
 ---
 
-The name given to an ancient cannon in the possession of the [[Broyish Empire]]. According to an Imperial mage captured by [[The League of New Stark]], the cannon fell from the heavens itself. [[Lady Jacinthe]] confirmed this name to [[Red Caesar]] during their private conversation aboard [[The White Drake]].
+An ancient weapon of celestial origin, now in the possession of the [[Broyish Empire]].
 
-The cannon appears to be a major weapon the Empire has been developing, and its celestial origin suggests a connection to pre-[[The Cataclysm]] technology or fallen artifacts.
+Sixty years ago, at the time of [[The Cataclysm]], streaks of light were seen shooting across the heavens from the east. Multiple witnesses — including [[Ceril]], [[Vokunar]], and the deceased of [[Castle Kaedon]] — observed these same streaks. The conjecture, formed in session 021, is that [[Starfall]] was the weapon fired from the east that punched a hole in the heavens, causing the oceans of [[Arcadia]] to pour down through the [[Hole in the Sky]] and triggering the Cataclysm.
+
+The weapon's current location is unknown, though it is believed to be in the territory of the [[Broyish Empire]] to the east. Finding Starfall is a major ongoing quest.

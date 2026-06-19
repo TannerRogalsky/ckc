@@ -2,6 +2,7 @@
 type: item
 subtypes: [treasure]
 session_introduced: "021"
+sessions_appeared: ["021"]
 related:
   - "[[Lady Acelia]]"
   - "[[Castle Kaedon]]"

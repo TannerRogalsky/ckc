@@ -30,6 +30,7 @@ related:
   - "[[Lady Jacinthe]]"
   - "[[Damien Ouranous]]"
   - "[[The League of New Stark]]"
+  - "[[Starfall]]"
 ---
 
 A member of [[Heaven's Bulb]] who survived [[The Cataclysm]]. Travels aboard [[The Opal]] as part of the party. Awakened by something aboard The Opal. Keeps alarms strewn about the ship and personally investigates any disturbances. Has [[Vizier Jade]]'s secret regarding her visit.

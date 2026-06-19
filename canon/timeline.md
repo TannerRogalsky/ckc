@@ -463,18 +463,38 @@
 - The party explores a flooded guest room in [[Castle Kaedon]] and finds [[Sunspite]]'s severed head crushed under rubble, overgrown with roses.
 - [[Vokunar]] discovers [[Lady Acelia's Chalice]], identifying [[Lady Acelia]] as [[Alamar]]'s younger sister and last child of the Rodgard family.
 - [[Red Caesar]] uncovers mithril bars hidden beneath floorboards, along with gilded puzzle toys.
-- The party is ambushed in a presentation hall by specters and a wraith coalesced from silvery [[Akasha]] mist that drains maximum hit points when magic is cast.
-- [[Vokunar]] casts Daylight to disadvantage the undead; [[Red Caesar]] casts Gust of Wind to clear the mist. The party defeats all undead.
+- The party is ambushed in a presentation hall by specters and a wraith coalesced from silvery [[Akasha]] mist that drains life force when magic is cast.
+- [[Red Caesar]] clears the Akasha mist at personal cost, and the party defeats the undead.
 - The Akasha quest resolves: Akasha is the pure substance of abjuration that destroyed the old world's magic. A theory emerges that [[Penumbra]] may be crystallized Akasha, and a new quest to manufacture Penumbra is added.
 - The party finds [[Deception by Lenth]], a [[Potion of Eels]], and a [[Potion of Clairvoyance]] — all inventions of [[Lenth the Rugged]].
 - Multiple arcane-locked doors are discovered, protected by the Guards and Wards spell, likely cast by the [[Nalfeshne]] to fortify its territory.
 
 ### Chunk 0001
 
-- The party ambushes the [[Nalfeshne]] in its throne room by dropping through the ceiling via [[Kerben]]'s Pass Wall.
-- [[Red Caesar]]'s Circle of Power and [[Vokunar]]'s Calm Emotions insulate the party from the Nalfeshne's fear and psychic attacks.
-- [[Domyx]] tanks the Nalfeshne's focused assault while [[Ceril]]'s summoned crab scores critical hits throughout the fight.
+- The party ambushes the [[Nalfeshne]] in its throne room by opening a passage through the ceiling with [[Kerben]]'s magic key.
+- The party's protective magic insulates them from the Nalfeshne's fear and psychic attacks.
+- [[Domyx]] holds the Nalfeshne's attention while [[Ceril]]'s summoned crab proves decisive.
 - [[Ceril]]'s crab delivers the killing blow, clamping the Nalfeshne's neck; the demon dissipates in blue smoke.
 - The party loots the throne room: a black Hell-forged periapt with sardonyx gems, a ruby and sapphire from the throne, and a large [[Penumbra]] chunk with a fractal structure.
 - With the Nalfeshne defeated, the castle's magical aura and abjurations weaken; arcane locks dissipate.
 - The party transports the Penumbra aboard the [[Gheister]] and feeds it to [[Lyngbakr]].
+
+### Chunk 0002
+
+- [[Lyngbakr]] rises from the sea carrying [[Castle Kaedon]] and parts of [[Westerness]], shaking off demons and Penumbra fragments. The silver [[Akasha]] mist rises from where remaining fiends hit the ocean.
+- [[Lyngbakr]] communicates telepathically with [[Ceril]], asking what to do next since the [[Hole in the Sky]] remains.
+- [[Ceril]] contacts [[Aeris]] through his shield. She appears wearing the stars and answers only through glowing (yes) or fading (no). She confirms the party's quest will fix the sky, that they need not intervene personally, and that they should not head west.
+- [[Lyngbakr]] ascends toward the [[Hole in the Sky]], emitting a silver-and-black mist that repairs the wound's edges. The hole stops growing and shrinks by about a third — visible from miles away.
+- [[Lyngbakr]] reveals it can dive beneath the ocean to a "second sea" of [[Akasha]] and agrees to collect Akasha for the party.
+- The party returns to [[Lyngbakr Lagoon]]. [[Raxxy]] reports that [[Obould]] has disappeared — he lied about heading to the castle and instead took a longboat east.
+- [[Vokunar]] scries on Obould and finds him far inland in the mountains of the [[Broyish Empire]], in manacles, being led by [[Vizier Jade]] and armed humans in white and gold. Jade casts See Invisibility to find the scrying sensor, then dispels the spell.
+- [[Red Caesar]] identifies Jade and the location as Broy. He explains Obould swore an oath to die in [[Lady Jacinthe]]'s place should she come to harm.
+- The conjecture is formed that [[Starfall]] — an ancient weapon of celestial origin — caused [[The Cataclysm]] 60 years ago by punching a hole in the heavens from the east.
+- The party discusses possible routes through [[The White Drake]], [[The Pit]], and eventually the [[Broyish Empire]].
+
+### Chunk 0003
+
+- The party reaches level 10.
+- The [[Tome Keeper]] is identified as an [[Arcanoloth]] who commands a portion of the ocean and holds the [[Tome of Satariel]].
+- [[Mudeep]] is introduced as a contact at [[The Garden]] who trades art pieces for attunable magic items.
+- [[Domyx]] keeps private the fact that [[Obould]] named him heir to [[The Opal]] in his logbook.

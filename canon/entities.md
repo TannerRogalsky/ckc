@@ -9,7 +9,7 @@
 
 ## Crew & Allies
 - [[Obould]] — Captain of The Opal, bound by oath to protect Lady Jacinthe
-- [[Raxxy]] — Navigator aboard The Opal
+- [[Raxxy]] — Navigator and lookout aboard The Opal
 - [[Otto]] — Boat repairman recruited to the crew
 - [[Brim the Bullywog]] — Frog-headed tinkerer recruited to the party on Continental Stark
 - [[Gammix]] — Dwarf fighter from the Steelfend Clan, recruited ally
@@ -29,6 +29,7 @@
 - [[Lady Jacinthe]] — Leader of The League of New Stark, former princess
 - [[Imotep]] — Yuan-ti associated with The League of New Stark
 - [[Damien Ouranous]] — Aasimar envoy associated with The League of New Stark
+- [[Mudeep]] — Figure at The Garden who trades art pieces for attunable magic items
 - [[Theotropa]] — Leader of The Garden, a druid sanctuary
 - [[Boral Erendel]] — Order member stationed at The Garden, working on a side project
 - [[The Wonder Hulk]] — Proprietor of The W. H. Boutique in Cutlass Cray
@@ -67,6 +68,7 @@
 - [[King Maniasis]] — King of Kaedon, father of Alamar; went mad from elf-blood poisoning
 
 ## Creatures & Companions
+- [[Arcanoloth]] — Arcanoloth-type outsider; the [[Tome Keeper]] is one and commands a portion of the ocean
 - [[Zulu]] — Kerben's dinosaur companion
 - [[Tango]] — Kerben's flying companion creature
 - [[Nyquil]] — Ceril's owl familiar, killed by Akasha rain
@@ -190,12 +192,12 @@
 - [[Preparation Melf]] — Throwable sticky acid flask crafted from Black Dragon scales
 - [[The Jewel of Alfheimer]] — Rare landscape painting by Aramil Keirnodel depicting pre-Cataclysm Brimbalin
 - [[Mangonel]] — Siege catapult at Castle Kaedon, originally a celebration device with fireworks
-- [[Starfall]] — Ancient cannon of celestial origin in the possession of the Broyish Empire
+- [[Starfall]] — Ancient weapon of celestial origin; conjectured to have caused the Cataclysm
 - [[Potion of Soothing Gaze]] — Healing potion that restores 10 HP to drinker and 10 HP to two creatures looked at
 - [[Lady Acelia's Chalice]] — Expertly carved oak chalice with jade insets, once belonging to Lady Acelia
-- [[Deception by Lenth]] — Magical perfume based on Lenth the Rugged's musk; grants advantage on deception checks for 8 hours
-- [[Potion of Eels]] — Potion containing swirling black eels; grants 21 Dexterity for one hour
-- [[Potion of Clairvoyance]] — Potion granting clairvoyance for 10 minutes without concentration
+- [[Deception by Lenth]] — Magical perfume based on Lenth the Rugged's musk that improves deception for a limited time
+- [[Potion of Eels]] — Potion containing swirling black eels that greatly enhances agility for a limited time
+- [[Potion of Clairvoyance]] — Potion granting clairvoyant sight or hearing from a distant location for a limited time
 
 ## Deities
 - [[Aeris]] — Sister goddess of Chaos, Potential, and Fate (alias: The Sky)

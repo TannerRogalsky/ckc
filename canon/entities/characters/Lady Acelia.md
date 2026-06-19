@@ -2,6 +2,7 @@
 type: character
 subtypes: [npc]
 session_introduced: "021"
+sessions_appeared: ["021"]
 aliases:
   - Acelia
 related:

@@ -101,3 +101,8 @@
 ## [2026-06-19] lint | Deception by Lentz → Deception by Lenth — Renamed file and fixed all wiki links, entities.md, and aliases
 ## [2026-06-19] lint | Created King Maniasis entity — Fixed all wiki links in Lady Acelia, Kaedon, Castle Kaedon Arena, session_017, session_021, timeline, entities.md
 ## [2026-06-19] ingest | session_021/chunk_0001 — Nalfeshne destroyed by party ambush. Updated: Nalfeshne, Castle Kaedon, Penumbra, Gheister, Lyngbakr, Red Caesar, Domyx, Kerben, Ceril, Vokunar. Updated session summary, timeline, entities.md
+## [2026-06-19] ingest | session_021/chunk_0002 — Created: Starfall, Raxi. Updated: Lyngbakr, Obould, Vizier Jade, Aeris, Red Caesar, session_021, timeline
+## [2026-06-19] lint | Raxi → Raxxy — Removed duplicate Raxi entity; added "Raxi" as alias to Raxxy; updated Raxxy with session 021 events
+## [2026-06-19] ingest | session_021/chunk_0003 — Created: Arcanoloth, MooDeep. Updated: Tome Keeper (identified as Arcanoloth), Tome of Satariel (alias: Soteriel), session_021, timeline, entities.md
+## [2026-06-19] lint | MooDeep → Mudeep — Renamed entity file and updated all canon references; added "MooDeep" as alias
+## [2026-06-19] lint | session_021 — Fixed canon syntax, entity metadata, aliases, and factual drift
