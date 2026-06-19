@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018"]
 related:
   - "[[Heaven's Bulb]]"
   - "[[The Cataclysm]]"
@@ -77,3 +77,7 @@ The party sailed to [[The Garden]]. Red visited [[Boral Erendel]] in his side of
 Red gained the Circle of Power feature and learned Bigby's Hand and Teleportation Circle. Through Circle of Power, he learned the sigil sequences for two random teleport destinations: [[The White Drake]] (the League's main ship) and the dwarfish market in [[The Pit]].
 
 The party then sailed south of the Garden to hunt the [[Storm Phoenix]]. Red used his abjuration and offensive magic to help weaken the creature before the party destroyed it.
+
+## Session 018
+
+During the Castle Kaedon exploration, Red entered the granary building and triggered a brown mold infestation — the mold spread frostbite across his legs. He was saved when [[Ceril]] froze the mold with Shape Water. Red investigated the area and found an old Kaedonite equestrian manual — a collector's item in a world where few people know what horses look like. He later devised a "hamster ball" strategy: casting Otiluke's Resilient Sphere on himself and entering the granary to attract [[Sturges]] onto the sphere's exterior, where they harmlessly battered against the barrier. He used Gust of Wind to push specters toward the cliff edge and Shocking Grasp against remaining enemies. The sphere strategy proved highly effective, containing the low-intelligence creatures without risk to the party.

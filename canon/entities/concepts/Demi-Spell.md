@@ -11,7 +11,7 @@ related:
   - "[[The Cataclysm]]"
   - "[[The Academy]]"
   - "[[Keys]]"
-  - "[[Alsa Keirnodel]]"
+  - "[[Aramil Keirnodel]]"
 ---
 
 A spell being developed by [[The Order of Seasons]] to rewrite the past and undo the damage caused by [[The Cataclysm]]. Described as a "grand reassembly of the elements" that changes history rather than merely predicting the future.
@@ -22,7 +22,7 @@ Decades ago, someone tried to stop the Demi-Spell and destroy all who knew it �
 
 The Demi-Spell works by going to the far future until everything has begun again — recycling all souls and elements of the world. Some places and people will always come back; others won't. The cycle necessarily breaks due to chaos, so the new world will have different catastrophes, wars, and nations, though every world eventually ends in entropy and [[Genesis Mundi]].
 
-The spell is written as volumes upon volumes — not a scroll but an encyclopedia of things that ought to exist, with hexagrams, pentagrams, and mathematical structures linking it all. [[Keys]] works on writing it at [[The Academy]], spending hours on the spell followed by ten hours of divinations to ensure more good than harm. [[Alsa Keirnodel]] is primarily behind keeping its power growing.
+The spell is written as volumes upon volumes — not a scroll but an encyclopedia of things that ought to exist, with hexagrams, pentagrams, and mathematical structures linking it all. [[Keys]] works on writing it at [[The Academy]], spending hours on the spell followed by ten hours of divinations to ensure more good than harm. [[Aramil Keirnodel]] is primarily behind keeping its power growing.
 
 [[Penumbra]] pieces are used as energy sources to accelerate the Demi-Spell, saving the lives of those who would otherwise drain themselves casting it. The spell itself can harm those who commit their soul to its casting.
 

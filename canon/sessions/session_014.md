@@ -81,7 +81,7 @@ Yalet posed a riddle: "I can only produce mountains. My brother only produces sm
 
 The party returned to Brimbalin and took a tram to [[The Academy]], [[The Order of Seasons]]' epicenter. They were greeted by [[Stefan Quist]], a human receptionist, and led to [[Keys]] and [[Lydriel Gondara]] — the same tiefling and half-elf who stole [[Penumbra]] from [[Castle Kaedon]].
 
-At the Academy, the party learned extensive details about the [[Demi-Spell]]: it works by going to the far future until everything begins again, recycling all souls and elements. Some places and people will always come back; others won't. The spell is written as volumes upon volumes — an encyclopedia of things that should exist with hexagrams and mathematical structures linking it all. [[Alsa Keirnodel]] is the primary force behind the Demi-Spell's power. Penumbra pieces are used as energy sources to accelerate the spell.
+At the Academy, the party learned extensive details about the [[Demi-Spell]]: it works by going to the far future until everything begins again, recycling all souls and elements. Some places and people will always come back; others won't. The spell is written as volumes upon volumes — an encyclopedia of things that should exist with hexagrams and mathematical structures linking it all. [[Aramil Keirnodel]] is the primary force behind the Demi-Spell's power. Penumbra pieces are used as energy sources to accelerate the spell.
 
 The Demi-Spell is more powerful than the gods — "the one thing mortals have over them." The gods are almighty but not omnipotent.
 

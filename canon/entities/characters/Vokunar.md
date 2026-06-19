@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018"]
 related:
   - "[[Arcadia]]"
   - "[[Sigil]]"
@@ -87,3 +87,9 @@ After the party returned from elf country, Vokunar was asleep in the bunks when 
 The party sailed to [[The Garden]]. Vokunar used Locate Object to find a drained [[Penumbra]] chunk in [[Theotropa]]'s possession. Theotropa agreed to give it to them if they destroyed a [[Storm Phoenix]] — a being of pure elemental power driven mad by [[The Cataclysm]] — located south of the Garden. Vokunar gave his word the party would keep the druid waters safe.
 
 That night during a full moon, Vokunar summoned [[Crone]]. She appeared blood-soaked and exhausted, dragging a greatsword. She confirmed there is time to stop the [[Demi-Spell]] but warned the party is more likely to die than run out of time. She revealed [[Aeris]] could heal the sky herself if given enough power — the party doesn't need all the Penumbra, just enough. She advised using the [[Rakshasa]] as a bargaining chip and confirmed the elves cannot be trusted to halt the Demi-Spell even if the sky were repaired.
+
+## Session 018
+
+During the Castle Kaedon exploration, Vokunar led the party's response to a specter ambush by using Turn Undead, devastating the specter pack and leaving many of them frightened and incapacitated. He cast an icy Flame Strike from outside the granary, striking both [[Sturges]] and ochre jellies inside the room. He disintegrated a water elemental that had grappled [[Domyx]], reducing it to silvery gray nothing that faded from the plane.
+
+During the battle with the [[Black Dragon]], Vokunar opened with Sacred Spear, striking all five dragons. When [[Ceril]] was knocked unconscious by the dragon's acid breath, Vokunar healed him with Aura of Vitality, bringing Ceril back to consciousness as [[Domyx]] delivered the killing blow. Vokunar lost his wings as the dragon fell.

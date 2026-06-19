@@ -247,7 +247,7 @@
 - Yalet posed a riddle about his brother [[Yalet Mora]]; [[Red Caesar]] solved it as "bolder" and received chunks of gold.
 - The party took a tram to [[The Academy]] and met [[Keys]] and [[Lydriel Gondara]] — the same tiefling and half-elf who stole [[Penumbra]] from [[Castle Kaedon]].
 - The party learned the [[Demi-Spell]] works by going to the far future until everything begins again, recycling all souls and elements. Penumbra pieces are used as energy to accelerate the spell. The Demi-Spell is more powerful than the gods.
-- [[Alsa Keirnodel]] is the primary force behind the Demi-Spell's power. The spell is written as volumes upon volumes with hexagrams and mathematical structures.
+- [[Aramil Keirnodel]] is the primary force behind the Demi-Spell's power. The spell is written as volumes upon volumes with hexagrams and mathematical structures.
 - [[Ceril]] revealed his father is the [[Rakshasa]], a divine being he visited in a cave for years.
 - The party negotiated an accord: they will stop collecting new Penumbra, and if their plan to fix the sky fails, they will give all collected Penumbra to the Order. The Order granted the party access to teleport circles.
 - [[Ceril]] traded a Mask of Ogun to [[Gossa]] for an amulet that lets him summon his familiar as a magma elemental.
@@ -358,3 +358,46 @@
 - [[Domyx]] is swarmed and grappled by multiple giant scorpions while suffering from alcohol poisoning. The party clears the granary after a prolonged fight.
 - During a short rest, [[Red Caesar]] investigates and finds drinkable [[Kaedonite Black Ale]].
 - The party recalls lore about [[Kaedon]], the human civilization from before [[The Cataclysm]]: at the end of its life, Kaedon was nearly at peace, with trade routes forming between Kaedon and [[Esperanto]].
+
+## Session 018
+
+### Chunk 0000
+
+- The party scouts the southern perimeter of the Castle Kaedon island. [[Ceril]] spots specters rising from a graveyard field hidden in fog, alerting the party to the ambush.
+- Behind the party, water seeping from old cisterns collects into a vortex that forms a water elemental. The party is trapped between the specters ahead and the elemental behind.
+- [[Vokunar]] uses Turn Undead, devastating the specter pack and leaving them frightened and incapacitated. Most flee back into their graves.
+- [[Domyx]] engages the water elemental with brutal strikes and hamstring blows. He is eventually grappled and pulled inside the elemental's vortex form.
+- [[Red Caesar]] uses Gust of Wind to push specters toward the cliff edge. [[Kerben]]'s [[Tango]] is targeted by specters and life-drained.
+- [[Vokunar]] disintegrates the water elemental, reducing it to silvery gray nothing and freeing Domyx. [[Ceril]] finishes the last specter.
+- After the fight, [[Kerben]] resummons a fresh [[Tango]]. [[Domyx]] recovers from the specters' life drain with healing scrolls.
+- The party explores a building behind the granary with horse racks, barrels, and old leather. It has four entrances: a back door, two small front doors, and a large horse gate.
+- [[Red Caesar]] enters through the back door and triggers a brown mold infestation that spreads frostbite. [[Ceril]] uses Shape Water combined with create water to freeze and destroy the mold.
+- [[Red Caesar]] finds an old [[Kaedon]] equestrian manual in the building — a collector's item in a world where few know what horses look like.
+- [[Ceril]] wild shapes into a scorpion and squeezes under the granary door to scout the interior, discovering [[Sturges]] hanging from the ceiling.
+- The party plans a "hamster ball" strategy: [[Red Caesar]] casts Otiluke's Resilient Sphere on himself and enters the granary to attract sturges while [[Kerben]] creates blood scent from another entrance.
+- Ochre jellies appear from grain silos inside the granary. [[Vokunar]] uses an icy Flame Strike from outside, catching both sturges and jellies.
+- The party systematically defeats the sturges and ochre jellies using the sphere strategy, with [[Ceril]] using Moonbeam and Wild Resurgence, and [[Domyx]] brute-forcing through the door.
+
+### Chunk 0001
+
+- The party discovers a preserved corpse of a human female noble from old [[Kaedon]] under dead mold.
+- [[Red Caesar]] uses [[Beryzoz's Teeth]] to question the corpse, learning that [[Alamar]] abdicated the old crown and led Kaedon's transformation into a republic of syndicates.
+- The corpse reveals she had tickets for [[The Carrot Cake]] — a massive magical amusement park spanning mountaintops, set up by Jack Harvey.
+- She lived in [[Taylin]], a settlement near [[Castle Kaedon]], and was visiting the castle before relocating to [[Esperanto]].
+- [[Esperanto]] is confirmed sunken, being the lowest point on the land and likely flooded first during [[The Cataclysm]].
+- The corpse saw streaks of light from the east cutting across the sky before the castle collapsed — matching what [[Ceril]] and [[Vokunar]] witnessed, suggesting the streaks may be the direct cause of [[The Cataclysm]].
+- The party explores the castle's cliff edges: smooth white stone descending 35 to 50 feet to the ocean, with broken landmasses on barnacle-encrusted pillars.
+- [[Kerben]] uses Stone Sense to discover hollow underground spaces — much of [[Castle Kaedon]] is buried beneath the surface.
+- The party is ambushed by water elementals rising from the ocean and [[Animated Armor]] constructs disguised as statues.
+- [[Red Caesar]] and [[Ceril]] each destroy an animated armor with Dispel Magic, confirming they are sustained by active spellwork.
+- After a short rest, the party is attacked by a [[Black Dragon]] and four black dragon wyrmlings that burst from the ocean.
+- [[Ceril]] recognizes the wyrmlings as offspring of the prologue dragon. The adult declares "father will be pleased" when it finds the castle.
+- [[Vokunar]] strikes all five dragons with Sacred Spear. [[Domyx]] kills wyrmlings with the [[Iklwa Isondo]]. [[Ceril]] traps the adult dragon in a Wall of Fire.
+
+### Chunk 0002
+
+- [[Kerben]] triggers a hidden mangonel trap during the dragon battle before its enchantment fades.
+- The [[Black Dragon]]'s serial acid breath overwhelms [[Ceril]]'s starry shield, knocking him unconscious. [[Vokunar]] heals Ceril with Aura of Vitality as [[Domyx]] delivers the killing blow to the adult dragon.
+- [[Kerben]] harvests the dragon's acid-resistant scales and crafts [[Preparation Melf]], a throwable sticky acid flask.
+- Investigation reveals the mangonel was originally a celebration device containing decorative fireworks from [[Broy]].
+- [[Domyx]] discovers [[The Jewel of Alfheimer]], a rare painting by [[Aramil Keirnodel]] depicting pre-Cataclysm [[Brimbalin]] as a lush jungled continent.

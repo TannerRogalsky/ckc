@@ -16,6 +16,7 @@
 - [[Tammix]] — Dwarf fighter and brother of Gammix, recruited ally
 - [[Rochella Golf]] — Passenger or temporary crew member aboard The Opal seeking Southport
 - [[Yalet Mora]] — Stone-bodied crew member who suggested recruiting a wind creature for The Opal
+- [[Aramil Keirnodel]] — Primary force behind the Demi-Spell's power, former leader of Brimbalin, and painter of The Jewel of Alfheimer
 
 ## NPCs
 - [[Lorelei]] — Domyx's sister, titan folk married into Clan Lapis, pregnant with Ulrich's child
@@ -48,7 +49,7 @@
 - [[Stefan Quist]] — Human receptionist at The Academy
 - [[Keys]] — Tiefling working on the Demi-Spell at The Academy, was at Castle Kaedon
 - [[Lydriel Gondara]] — Half-elf of the Order working with Keys, was at Castle Kaedon
-- [[Alsa Keirnodel]] — Primary force behind the Demi-Spell's power, related to House Kiernodel
+
 - [[Faronia Karadel]] — Drow, Keys' mother, chiefly in command of enacting the Demi-Spell from House Kiernodel
 - [[Risolvir Kirnodell]] — Leader of House Kiernodel, warned the party about the Broyish Empire
 - [[Solar Flare]] — Tall woman with shining light seen by Vokunar 60 years ago
@@ -88,10 +89,12 @@
 - [[Warg Lord]] — Massive fey beast with a bear-wolf body and goblin face, captain of the hobgoblin pirate ship The Hideous Truth
 - [[Tome Keeper]] — Demon who keeps the Tome of Satariel; can track the Rakshasa and summon other escaped demons
 - [[Storm Phoenix]] — Elemental being of pure power, once a gem of amber, driven mad by the Cataclysm. Destroyed by the party in session 015
-- [[Black Dragon]] — Ancient black dragon from the prologue that wrecked the party's hold and stole their gold
+- [[Black Dragon]] — Draconic threat from the prologue; an adult offspring and four wyrmlings attacked at Castle Kaedon
+- [[Animated Armor]] — Spell-sustained metal constructs disguised as statues, guarding Castle Kaedon
 - [[Psychic Goop]] — Gray ooze formed from decayed brain matter; retaliates against magical attacks with psychic damage
 - [[Mezzoloth]] — Fiendish beetle-like creature with four arms, magic resistance, and liquid-metal teleportation
 - [[Severed Hands]] — Swarm of crawling severed hands that scuttle like spiders, carried by wind and fog
+- [[Sturges]] — Parasitic bat clusters that hang from ceilings, sensitive to the smell of blood
 
 ## Locations
 - [[Continental Stark]] — Massive elfish continent, last remnant of the Old World, home to Brimbalin
@@ -125,6 +128,8 @@
 - [[The Church of the Thirty Lights]] — Church in Cutlass Cray
 - [[Castle Kaedon]] — Castle on the back of Lyngbakr
 - [[Westerness]] — Sunken human city that surrounded Castle Kaedon, visible beneath the waves
+- [[The Carrot Cake]] — Massive magical amusement park from old Kaedon spanning multiple mountaintops
+- [[Taylin]] — Old Kaedon settlement near Castle Kaedon, likely destroyed during the Cataclysm
 - [[Castle Kaedon Arena]] — Interior courtyard within Castle Kaedon with bleachers, arena floor, and stables
 - [[Esperanto]] — Pre-Cataclysm place south of Kaedon, linked by developing trade routes
 - [[Otyugh Isle]] — Island with Kuo-Toa and Temple of Sigil
@@ -169,6 +174,8 @@
 - [[Kaedon]] — The pre-[[The Cataclysm|Cataclysm]] human civilization, nearly at peace when the world ended
 - [[Kaedonite Black Ale]] — Uncommon drinkable black ale found in the Castle Kaedon Arena granary
 - [[Tome of Satariel]] — Book kept by the Tome Keeper demon; its destruction would free the Rakshasa from his charge
+- [[Preparation Melf]] — Throwable sticky acid flask crafted from Black Dragon scales
+- [[The Jewel of Alfheimer]] — Rare landscape painting by Aramil Keirnodel depicting pre-Cataclysm Brimbalin
 
 ## Deities
 - [[Aeris]] — Sister goddess of Chaos, Potential, and Fate (alias: The Sky)

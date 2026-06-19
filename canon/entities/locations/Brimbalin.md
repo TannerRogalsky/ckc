@@ -8,6 +8,7 @@ aliases:
   - Brembole
   - Brimblein
   - Brimbalun
+  - Brimbalan
 related:
   - "[[Queen Caeradwyn]]"
   - "[[The Order of Seasons]]"

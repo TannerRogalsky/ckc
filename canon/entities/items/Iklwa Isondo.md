@@ -2,6 +2,7 @@
 type: item
 subtypes: [magic-item, equipment]
 session_introduced: "014"
+sessions_appeared: ["014", "018"]
 related:
   - "[[Domyx]]"
   - "[[Lysanderol Nokirna]]"

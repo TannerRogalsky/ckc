@@ -10,7 +10,7 @@ related:
   - "[[Ceril]]"
   - "[[Queen Caeradwyn]]"
   - "[[Brimbalin]]"
-  - "[[Alsa Keirnodel]]"
+  - "[[Aramil Keirnodel]]"
   - "[[Faronia Karadel]]"
   - "[[Risolvir Kirnodell]]"
   - "[[The Order of Seasons]]"

@@ -7,7 +7,7 @@ related:
   - "[[House Kiernodel]]"
   - "[[The Order of Seasons]]"
   - "[[Demi-Spell]]"
-  - "[[Alsa Keirnodel]]"
+  - "[[Aramil Keirnodel]]"
 ---
 
 A drow of former House Karadel, mother of [[Keys]]. She is "chiefly in command of enacting the demi-spell" and operates from [[House Kiernodel]].

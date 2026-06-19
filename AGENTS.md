@@ -34,6 +34,17 @@ A session ingestion is incomplete until all required canon surfaces have been ha
 - `canon/entities.md` is updated for new or materially corrected entities.
 - `log.md` records the operations performed.
 
+# Post-Ingest Validation
+
+After every ingest or lint, validate the canon surfaces touched by the operation:
+
+- Check for broken Obsidian wiki links, including links broken by misspelled canonical names.
+- Confirm `canon/entities.md` has exactly one entry per entity file, with no stale, missing, or duplicate entries.
+- Validate frontmatter for schema compliance, duplicate keys, accidentally nested keys, and canonical self-aliases.
+- Confirm session summaries use represented `### Chunk NNNN` headings and contain exactly one integrated `### Summary` and one `### Connections` section.
+- Confirm entities updated by the session include the session number in `sessions_appeared`, without regressing `session_introduced`.
+- Confirm canon prose does not retain routine mechanical detail, table meta, or aliases in main content.
+
 # Frontmatter Standard
 
 All entity and session files use YAML frontmatter enclosed in `---`. The schema below is authoritative. When ingesting or updating, always validate against it.

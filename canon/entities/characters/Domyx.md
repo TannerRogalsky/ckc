@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018"]
 aliases:
   - Domyx Akathian
 related:
@@ -80,3 +80,9 @@ The party then sailed south of the Garden to hunt the [[Storm Phoenix]]. Domyx u
 ## Session 016
 
 While sleeping aboard [[The Opal]], Domyx experienced a rare and vivid dream. [[Lorelei]], his sister, appeared in the dream and revealed that [[Ulrich Fjöler]] had been imprisoned for months and was sentenced to execution. Lorelei was pregnant with Ulrich's child and pleaded with Domyx to return to the titan consulate, rescue Ulrich, and stay his execution. Domyx promised he would come.
+
+## Session 018
+
+During the Castle Kaedon exploration, Domyx was ambushed along the island's southern perimeter by specters rising from a graveyard field and a water elemental formed from cistern seepage. Vokunar's Turn Undead devastated the specters first. Domyx engaged the water elemental directly, hampering its movement and holding it away from the rest of the party. He was eventually grappled and pulled inside the elemental's vortex form, where he continued attacking from within despite the crushing pressure. The elemental was disintegrated by Vokunar, freeing Domyx. He was partially drained by the specters but recovered after the party used healing scrolls.
+
+During the battle with the [[Black Dragon]], Domyx used brutal strikes to finish off the adult dragon, delivering the final blow as Vokunar lost his wings and Domyx shrank back down from his enlarged form. After the fight, while recovering and wiping dust off a wall, Domyx discovered [[The Jewel of Alfheimer]] — a rare framed landscape painting by [[Aramil Keirnodel]] depicting what [[Brimbalin]] looked like before [[The Cataclysm]] as a lush jungled continent with no visible water.

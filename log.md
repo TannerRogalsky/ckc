@@ -76,3 +76,14 @@
 ## [2026-06-19] lint | session_017 — Removed remaining routine combat mechanics from canon prose.
 ## [2026-06-19] lint | session_017 — Rephrased granary combat outcome around narrative hazard.
 ## [2026-06-19] lint | session_017 — Fixed Cataclysm links to canonical entity name.
+## [2026-06-19] ingest | session_018/chunk_0000 — Created 1 new entity: Sturges. Updated 7 entities. Wrote session summary and timeline.
+## [2026-06-19] lint | Tango — Fixed sessions_appeared to include 011, 013, 017, 018. Added session 018 narrative.
+## [2026-06-19] ingest | session_018/chunk_0001 — Created 4 new entities: Alomar Rotgard, The Carrot Cake, Animated Armor, Taylin. Updated 8 entities. Updated timeline.
+## [2026-06-19] lint | Alomar Rotgard — Was a misspelling of Alamar. Deleted entity, consolidated lore into Alamar, fixed all references.
+## [2026-06-19] ingest | session_018/chunk_0002 — Extracted 3 new entities: Preparation Melf, The Jewel of Alfheimer, Aramil Kirno Dell. Updated: Black Dragon, Kerben, Domyx, Ceril, Vokunar, Brimbalin. Added alias Brimbalan.
+## [2026-06-19] summary | session_018 — Updated session summary with chunk 0002: dragon battle resolution, poison crafting, painting discovery, fireworks find
+## [2026-06-19] timeline | session_018 — Added chunk 0002 entries: dragon defeat, Preparation Melf, fireworks, The Jewel of Alfheimer
+## [2026-06-19] lint | Aramil Kirno Dell → Aramil Keirnodel — Renamed entity file and fixed all references across canon.
+## [2026-06-19] lint | Alsa Keirnodel → Aramil Keirnodel — Merged duplicate entity. Deleted Alsa Keirnodel.md, consolidated lore into Aramil Keirnodel, fixed all references across canon.
+## [2026-06-19] lint | session_018 — Fixed duplicate sections, broken links, mechanics drift, and stale entity metadata.
+## [2026-06-19] update | AGENTS.md — Added post-ingest validation requirements.

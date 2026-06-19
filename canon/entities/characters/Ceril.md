@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018"]
 related:
   - "[[Vanzia Vinfei]]"
   - "[[House Kiernodel]]"
@@ -81,3 +81,9 @@ After the party returned from elf country, Ceril was asleep in the bunks when [[
 The party boarded the hobgoblins' second ship, [[The Hideous Truth]], and confronted the [[Warg Lord]]. Ceril's Moonbeam stripped away the creature's goblin-like features, revealing its true beast form. He helped keep the party alive until [[Kerben]] delivered the killing shot.
 
 The party sailed to [[The Garden]]. Ceril accompanied [[Domyx]] to meet the [[Rakshasa]] in the inner sanctum. The Rakshasa showed emotion when Ceril mentioned coming on behalf of his son, then hid his true thoughts. The Rakshasa revealed he is trapped and must hunt escaped demons, and gave the party a quest to kill the [[Tome Keeper]] demon. Ceril also joined [[Red Caesar]] in visiting [[Boral Erendel]], who revealed his eugenics plan for the [[Demi-Spell]] — reincarnating all beings as high elves. Ceril called Boral an apostate and proposed capturing or assassinating the Rakshasa as leverage against [[Keys]] to halt the Demi-Spell entirely. The party reached level 9.
+
+## Session 018
+
+During the Castle Kaedon exploration, Ceril spotted specters rising from a graveyard field hidden in fog along the island's southern perimeter, alerting the party before the ambush could fully spring. He used his starry form and Moonbeam against the specters and other enemies. When [[Red Caesar]] walked into a brown mold infestation in the granary building, Ceril used Shape Water combined with create water to freeze the mold and destroy it completely. He later wild-shaped into a scorpion and squeezed under the granary door to scout the interior, discovering [[Sturges]] hanging from the ceiling.
+
+During the battle with the [[Black Dragon]], Ceril's starry shield was overwhelmed by the dragon's acid breath, knocking him unconscious. He was restored to consciousness by [[Vokunar]]'s Aura of Vitality as [[Domyx]] delivered the killing blow to the dragon.

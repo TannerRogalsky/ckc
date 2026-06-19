@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018"]
 aliases:
   - Kerbin
 related:
@@ -71,3 +71,9 @@ The party sailed to [[The Garden]]. Kerben investigated the Garden's supply rout
 The party then sailed south of the Garden to hunt the [[Storm Phoenix]]. Kerben delivered the killing shot, revealing a single chunk of amber at its core. Kerben wanted to keep the amber before reluctantly letting the party wrest it from him and throw it overboard.
 
 On the journey back to [[Lyngbakr Lagoon]], Kerben used his intelligence and navigation tools to trace the druid supply routes from [[Theotropa]]'s information. He identified the general direction of [[Southport]] on the map — confirming it requires extra travel west of their current route but is reachable.
+
+## Session 018
+
+During the Castle Kaedon exploration, Kerben entered the granary building to create blood scent for attracting [[Sturges]] inside. He used his firearms and scimitar against the sturges and ochre jellies as the party cleared the room. His [[Tango]] was targeted by specters and life-drained, prompting Kerben to resummon a fresh Tango afterward.
+
+During the battle with the [[Black Dragon]] and its wyrmlings, Kerben triggered a hidden mangonel trap before the enchantment faded. After the dragon was defeated, Kerben harvested the dragon's acid-resistant scales and crafted [[Preparation Melf]] — a throwable sticky acid flask. He also investigated the mangonel, discovering it contained decorative fireworks from [[Broy]] that were originally used for celebration rather than warfare.
