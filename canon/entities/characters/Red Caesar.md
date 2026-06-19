@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015"]
+sessions_appeared: ["001", "013", "014", "015", "016"]
 related:
   - "[[Heaven's Bulb]]"
   - "[[The Cataclysm]]"
@@ -26,6 +26,10 @@ related:
   - "[[Vizier Jade]]"
   - "[[House Kiernodel]]"
   - "[[Yalet Mora]]"
+  - "[[The White Drake]]"
+  - "[[Lady Jacinthe]]"
+  - "[[Damien Ouranous]]"
+  - "[[The League of New Stark]]"
 ---
 
 A member of [[Heaven's Bulb]] who survived [[The Cataclysm]]. Travels aboard [[The Opal]] as part of the party. Awakened by something aboard The Opal. Keeps alarms strewn about the ship and personally investigates any disturbances. Has [[Vizier Jade]]'s secret regarding her visit.

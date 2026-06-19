@@ -63,3 +63,7 @@
 ## [2026-06-19] ingest | session_015/chunk_0004 — Extracted 1 new entity: Geister. Updated 7 entities. Updated timeline. Act 2 begins.
 ## [2026-06-19] lint | session_015 — Fixed summary, Gheister metadata, index duplication, and combat-detail drift.
 ## [2026-06-19] update | AGENTS.md — Added ingestion, review, index, mechanics, and log guardrails.
+## [2026-06-19] ingest | session_016/chunk_0000 — Created 3 new entities: Lorelei, Emma Tep, Clan Lapis. Updated 6 entities. Wrote session summary and timeline.
+## [2026-06-19] lint | Emma Tep → Imotep — Emma Tep is a misspelling of Imotep (alias Ema-Tep). Deleted duplicate entity, merged details into Imotep.md, fixed all references.
+## [2026-06-19] lint | Saril → Ceril, Kirbin → Kerben — Fixed misspelled entity names in session_016.md and timeline.md.
+## [2026-06-19] lint | session_016 — Fixed canonical names, metadata, and Damien classification.

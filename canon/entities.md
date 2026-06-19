@@ -18,6 +18,7 @@
 - [[Yalet Mora]] — Stone-bodied crew member who suggested recruiting a wind creature for The Opal
 
 ## NPCs
+- [[Lorelei]] — Domyx's sister, titan folk married into Clan Lapis, pregnant with Ulrich's child
 - [[Gunk Grodley]] — Dapper goblin trader who captains the Goblin Traders' ship
 - [[Vizier Jade]] — Vizier from Broy serving Emperor Shen
 - [[Morel Chainsunder]] — Cult leader controlling the dwarves of Darvinblast
@@ -26,7 +27,7 @@
 - [[Keeper Rufus]] — Figure at Heaven's Bulb alongside Master Lee
 - [[Lady Jacinthe]] — Leader of The League of New Stark, former princess
 - [[Imotep]] — Yuan-ti associated with The League of New Stark
-- [[Damien Ouranous]] — Solar from Sigil associated with The League of New Stark
+- [[Damien Ouranous]] — Aasimar envoy associated with The League of New Stark
 - [[Theotropa]] — Leader of The Garden, a druid sanctuary
 - [[Boral Erendel]] — Order member stationed at The Garden, working on a side project
 - [[The Wonder Hulk]] — Proprietor of The W. H. Boutique in Cutlass Cray
@@ -55,7 +56,7 @@
 - [[Domyx's Ancestor]] — Erased sky-touching member of Domyx's bloodline, named by Sigil as the party's greatest enemy
 - [[Queen Caeradwyn]] — Former elven queen whose death preceded elven uprisings and the Cataclysm
 - [[Vanzia Vinfei]] — High elf paladin revolutionary who escaped Brimbalin with Ceril
-- [[Ulrich Fjöler]] — Domyx's friend from Clan Akathia who warned him of an erased ancestor
+- [[Ulrich Fjöler]] — Domyx's friend from Clan Akathia; imprisoned and facing execution; father of Lorelei's child
 - [[Courteous Cam]] — Dwarf farmer-trader who gave Ceril seeds, a scroll, and the gnoll Penumbra lead
 - [[Xander MacLenth]] — Pirate ghost released from the abandoned Far Helm Clan home
 - [[Lenth the Rugged]] — Legendary pirate, father of Xander MacLenth, had wives on every continent
@@ -127,6 +128,7 @@
 - [[Southport]] — Port city somewhere to the west of The Garden, sought by Rochella Golf
 
 ## Organizations
+- [[Clan Lapis]] — Titan folk clan known for mining and gem exploration; Lorelei married into this clan
 - [[Heaven's Bulb]] — Group of cataclysm survivors
 - [[Figma Brickfinger's Union]] — Dwarven union (The Pitman's Union) at The Pit
 - [[Steelfend Clan]] — Dwarf clan; Gammix and Tammix joined the party

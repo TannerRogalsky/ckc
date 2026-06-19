@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc]
 session_introduced: "007"
-sessions_appeared: ["007", "013", "015"]
+sessions_appeared: ["007", "013", "015", "016"]
 related:
   - "[[Lyngbakr Lagoon]]"
   - "[[Lyngbakr]]"

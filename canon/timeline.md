@@ -316,3 +316,13 @@
 - [[Alamar]] sensed forces of hell and undead pervading the castle, saying it is cursed by every kind of curse — physical, metaphysical, divine, and profane — tracing the curse to [[Queen Caeradwyn]]'s ambition and bloodline magic.
 - [[Alamar]] chose to stay behind at the lagoon to guard against aerial scouts, saying he is "damned if I do and damned if I don't."
 - The party took the [[Gheister]] as a longboat toward the risen [[Castle Kaedon]].
+
+## Session 016
+
+### Chunk 0000
+
+- At [[Lyngbakr Lagoon]], the settlement continues growing with wooden structures, a watchtower, and a cistern. [[Ceril]] and [[Kerben]] improve the food supply using druidic magic.
+- [[Domyx]] receives a dream visitation from his sister [[Lorelei]], who reveals [[Ulrich Fjöler]] is imprisoned and sentenced to execution. Lorelei is pregnant with Ulrich's child and begs Domyx to rescue him. Domyx pledges to return.
+- [[Damien Ouranous]] arrives as an envoy of [[The League of New Stark]] aboard a League ship. He reveals the League shot down a [[Broyish Empire]] airship on the party's behalf and will continue protecting their operations.
+- The party visits [[Lady Jacinthe]] aboard [[The White Drake]] via Teleport Circle. She warns that the Empire may be collecting [[Penumbra]]-like stones to power a massive magical weapon. She offers two side quests: a corrupted siren in the southwestern seas and an old-world construct at a southern castle.
+- [[Imotep]] uses *Transport via Plants* to return the party to [[Lyngbakr Lagoon]].

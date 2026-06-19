@@ -2,12 +2,14 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015"]
+sessions_appeared: ["001", "013", "014", "015", "016"]
 aliases:
   - Domyx Akathian
 related:
   - "[[Clan Akathia]]"
   - "[[Ulrich Fjöler]]"
+  - "[[Lorelei]]"
+  - "[[Clan Lapis]]"
   - "[[Domyx's Ancestor]]"
   - "[[Touching the Sky]]"
   - "[[Sigil]]"
@@ -74,3 +76,7 @@ The party decided they lacked resources to crew a third ship and hid the vessel 
 The party reached level 9; Domyx gained Brutal Strike, Forceful Blow, and Hamstring Blow abilities.
 
 The party then sailed south of the Garden to hunt the [[Storm Phoenix]]. Domyx used his [[Iklwa Isondo]] to drag the flying creature closer to the ship, helping make it vulnerable before the party destroyed it.
+
+## Session 016
+
+While sleeping aboard [[The Opal]], Domyx experienced a rare and vivid dream. [[Lorelei]], his sister, appeared in the dream and revealed that [[Ulrich Fjöler]] had been imprisoned for months and was sentenced to execution. Lorelei was pregnant with Ulrich's child and pleaded with Domyx to return to the titan consulate, rescue Ulrich, and stay his execution. Domyx promised he would come.

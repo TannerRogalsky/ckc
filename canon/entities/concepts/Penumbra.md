@@ -2,7 +2,7 @@
 type: concept
 subtypes: [lore]
 session_introduced: "001"
-sessions_appeared: ["013", "014"]
+sessions_appeared: ["013", "014", "016"]
 ---
 
 Described as "pieces of the fallen sky." Sources of great energy and power that function as magical batteries. A stone found on a beach had no magical function — it was like a magical battery but fading. [[Sunspite]] used the Penumbra as a magical battery and wanted [[Castle Kaedon]] sunk. A half-elf and tiefling made off with the Penumbra; [[Ceril]] recognized the half-elf as working for [[The Order of Seasons]]. The Duergar of [[The Deepworlders Delve]] are obsessed with Penumbra. Sought by both the party and the [[Broyish Empire]], though for different reasons. One chunk was found in Bokanara's pocket, powering a golem in an earlier dungeon. Located within the [[Darvinblast]] is the party's objective, though they must find [[Morel Chainsunder]] first. The party's plan is to give Penumbra to [[Lyngbakr]] the turtle, as [[Sigil]] confirmed.
@@ -14,3 +14,5 @@ The party also recovered a pure chunk from [[Gnoll]] territory, then fed the col
 In session 014, the DM connected [[Akasha]] — the silvery-white liquid raining over [[Continental Stark]] — to the same substance found in [[Vokunar]]'s sword, suggesting a link between Akasha, the oceans of [[Arcadia]], and the fallen sky that the Penumbra represents.
 
 At [[The Academy]], the party learned that [[The Order of Seasons]] uses Penumbra pieces as energy sources to accelerate the [[Demi-Spell]], draining their power to save the lives of casters who would otherwise exhaust themselves. The party negotiated an accord: they will stop collecting new Penumbra, and if their plan to fix the sky fails, they will give all collected Penumbra to the Order.
+
+In session 016, [[Lady Jacinthe]] warned that the [[Broyish Empire]] may also be collecting Penumbra-like obsidian stones to power a massive magical weapon.

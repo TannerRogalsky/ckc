@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015"]
+sessions_appeared: ["001", "013", "014", "015", "016"]
 related:
   - "[[Arcadia]]"
   - "[[Sigil]]"
@@ -40,6 +40,7 @@ related:
   - "[[Lydriel Gondara]]"
   - "[[Faronia Karadel]]"
   - "[[Boral Erendel]]"
+  - "[[The League of New Stark]]"
 ---
 
 A young being trapped in stone for decades, falling through the sky toward [[Stark]].

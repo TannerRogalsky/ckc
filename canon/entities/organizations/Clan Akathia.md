@@ -2,7 +2,7 @@
 type: organization
 subtypes: [clan]
 session_introduced: "013"
-sessions_appeared: ["013"]
+sessions_appeared: ["013", "016"]
 related:
   - "[[Domyx]]"
   - "[[Ulrich Fjöler]]"
