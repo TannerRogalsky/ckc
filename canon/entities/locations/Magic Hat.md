@@ -2,7 +2,7 @@
 type: location
 subtypes: [building]
 session_introduced: "027"
-sessions_appeared: ["027"]
+sessions_appeared: ["027", "028"]
 aliases:
   - The Magic Hat
 related:

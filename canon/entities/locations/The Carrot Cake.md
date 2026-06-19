@@ -2,7 +2,7 @@
 type: location
 subtypes: [landmark]
 session_introduced: "018"
-sessions_appeared: ["018", "022", "023", "024", "027"]
+sessions_appeared: ["018", "022", "023", "024", "027", "028"]
 aliases:
   - Carrot Cake
   - 40 Carats

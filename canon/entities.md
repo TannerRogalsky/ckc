@@ -82,10 +82,15 @@
 
 ## Creatures & Companions
 - [[Arcanoloth]] — Arcanoloth-type outsider; the [[Tome Keeper]] is one and commands a portion of the ocean
+- [[Death Spark]] — Small lightning-based entity resembling a will-o'-wisp, encountered in the Hole Shebang
+- [[Roger Ribbons]] — Aberration of string and twine with a red skull and crucifix spikes, boss of the Hole Shebang island
 - [[Zulu]] — Kerben's dinosaur companion
 - [[Cloaker]] — Bat-like creature wrapped in a massive silk membrane; ambushes from the canopy and summons allies through infrasound
 - [[Flame Skull]] — Tiny neon-colored floating fiend skulls that cast fire spells and blend with magical illusions
-- [[Hooksy the Clown Automaton]] — Grotesque clown-faced automaton that is actually a living creature bound within metal plating
+- [[Hooksy the Clown Automaton]] — Grotesque clown-faced automaton that is actually a living creature bound within metal plating; multiple variants exist across the park
+- [[Mary Andrews]] — Lute-playing construct automaton in the Hole Shebang that uses music to charm and damage targets
+- [[Phase Cat]] — Ethereal feline native to the Hole Shebang area that phases through walls and teleports its targets
+- [[Smoke Elemental]] — Elemental creature of smoke and fumes in the Hole Shebang, formed from smoldering debris
 - [[Haunted Living Tent]] — Gargantuan living tent at The Carrot Cake that siphons victims into an extra-dimensional tea cozy house
 - [[Magen]] — Construct-like rabbit automata carrying part of Jack Harvey's mind and maintaining The Carrot Cake
 - [[Tango]] — Kerben's flying companion creature

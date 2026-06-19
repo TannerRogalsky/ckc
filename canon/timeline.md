@@ -739,3 +739,30 @@
 - [[Red Caesar]] impulsively jumps into the Hole Shebang portal first. The rest of the party wards the entrance, then follows.
 - [[Domyx]] finds a dead adventurer's belongings, including a [[Ranger Scroll]] for [[Kerben]].
 - The party emerges from barrels in [[City Hole]], a small cavern with barrel portals connecting to the other zones. A wireframe gate blocks the path deeper into the Hole Shebang.
+
+## Session 028
+
+### Chunk 0000
+
+- [[Red Caesar]] used Arcane Eye to scout the [[Hole Shebang]] island, revealing a subtropical island with beaches, a piano, ruined automata puppets, and a central electrical hub with a breaker switch. Red theorized the switch might activate one of the four lamps.
+- The party was ambushed by [[Roger Ribbons]], swarms of animated toys, a lightning elemental, and a [[Death Spark]]. The party defeated all enemies after a fierce battle involving paralysis, fireballs, and [[Ceril]]'s Moonbeam.
+- [[Domyx]] played the Sky High Striker carnival game, hitting nine out of ten and earning a scroll containing five spells (Expeditious Retreat through Synaptic Static).
+- [[Kerben]] played Al-Qadif's Tower of Treasures, using his last [[Tatzelwurm Gizzard Juice]] on a sniper shot to clear all bottles and win the maximum gold reward.
+
+### Chunk 0001
+
+- [[Domyx]] ran through the electrical arcs and flipped the breaker switch in the [[Hole Shebang]], deactivating the island's electrical traps and activating one of the four lamps needed to open [[Jack Harvey]]'s inner sanctum.
+- Flipping the switch spawned a new wave of enemies: a second [[Roger Ribbons]], more toy swarms, [[Death Spark]]s, and [[Mary Andrews]] — a lute-playing construct automaton.
+- The party defeated the second wave. [[Domyx]] resisted Mary Andrews' lute charm with a protective pendant and smashed the construct with his hammer.
+- The party was ambushed by [[Phase Cat]]s — ethereal felines native to the area — and [[Smoke Elemental]]s formed from smoldering debris.
+- [[Ceril]] wild-shaped into a chalice and cast Mass Cure Wounds, healing the entire party as grass and flowers sprang through the debris.
+- [[Red Caesar]] cast Gust of Wind against a smoke elemental, pushing it toward the ocean and dealing significant damage.
+- The party entered an interior room with a billiard table where a [[Magen]] challenged them to eight-ball pool. [[Vokunar]] played with [[Ceril]]'s cheating help but still lost.
+- [[Kerben]] played the "Smack a Bodak" whack-a-mole carnival game with [[Red Caesar]]'s Guidance, hitting all 60 bodaks and winning gold chips.
+- The party reached the southern stage area where barrels spawned another [[Mary Andrews]], death sparks, and a second [[Hooksy the Clown Automaton]].
+
+### Chunk 0002
+
+- The party defeated the final wave of enemies on the southern stage: [[Mary Andrews]], [[Hooksy the Clown Automaton]], and toy swarms. [[Domyx]]'s repeated dying and reviving via his Zealot feature unnerved Mary Andrews and helped draw its focus.
+- A dart trap animated darts that poisoned [[Domyx]] and struck [[Zulu]]. The dart game awarded the party coins.
+- The party confirmed one of four lamps was lit for [[Jack Harvey]]'s inner sanctum and decided to head to the [[Magic Hat]] next.

@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028"]
 aliases:
   - Kerbin
 related:
@@ -130,6 +130,8 @@ When a [[Remorhaz]] ambushed the party, Kerben fought from within [[Vokunar]]'s 
 In [[Cutlass Cray]], Kerben purchased three of [[The Wonder Hulk]]'s feather tokens — a swan boat, a swift multi-colored bird called Oscar, and a hot air balloon. He acquired [[The Ascot]], a scarf that lets him communicate with animals and swap places with nearby animals. He also purchased Pipes of Smoke Monsters for the entire party and three immovable rods. [[The Opal]] was fully repaired.
 
 Kerben guided the party to [[The Carrot Cake]] — the culmination of breadcrumbs he had followed since the first dungeon. He recognized the "40 Carats" carrot-diamond logo and recalled that [[Jack Harvey]] had been converting the amusement park into a bunker before the Cataclysm. Inside the park, Kerben helped defeat undead in tattered orange uniforms and later won gold and platinum carrot coins at the "Mind the Mimic" carnival game.
+
+In the [[Hole Shebang]], Kerben fought through encounters with [[Roger Ribbons]], [[Mary Andrews]], [[Phase Cat]]s, and [[Smoke Elemental]]s. He used his final dose of [[Tatzelwurm Gizzard Juice]] to win Al-Qadif's Tower of Treasures, then later won the "Smack a Bodak" carnival game with [[Red Caesar]]'s Guidance. In combat, he used precise shots to deal heavy damage to Mary Andrews, disengaged from smoke elementals, and eliminated phase cats from range.
 
 ## Session 025
 

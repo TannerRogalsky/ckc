@@ -149,3 +149,7 @@
 ## [2026-06-19] ingest | session_027/chunk_0001 — Created 5 new entities: Cloaker, Flame Skull, Hooksy the Clown Automaton, Magic Hat, Hole Shebang. Updated: Magen, The Carrot Cake, session summary, timeline, entities.md.
 ## [2026-06-19] ingest | session_027/chunk_0002 — Created 6 new entities: Haunted Living Tent, City Hole, King of the Hole, Hole on Wheels, Jack Harvey's Portrait, Ranger Scroll. Updated: Hole Shebang, Magic Hat, Jack Harvey, Magen, session summary, timeline, entities.md.
 ## [2026-06-19] lint | session_027 — Fixed entity typing, metadata, links, and mechanical detail.
+## [2026-06-19] ingest | session_028/chunk_0000 — Created 2 new entities: Roger Ribbons, Death Spark. Updated: Red Caesar, Domyx, Kerben, Ceril, Vokunar, Zulu, The Carrot Cake, Hole Shebang, City Hole, Tatzelwurm Gizzard Juice. Wrote session summary, updated timeline and entities.md.
+## [2026-06-19] ingest | session_028/chunk_0001 — Created 3 new entities: Mary Andrews, Phase Cat, Smoke Elemental. Updated: Roger Ribbons, Death Spark, Hooksy the Clown Automaton, Magen, Hole Shebang, Domyx, Red Caesar, Kerben, Ceril, Vokunar. Wrote session summary, updated timeline and entities.md.
+## [2026-06-19] ingest | session_028/chunk_0002 — No new entities. Updated: Mary Andrews, Magic Hat, session summary, timeline. Party defeats final wave, triggers dart trap, heads to Magic Hat.
+## [2026-06-19] lint | session_028 — Fixed Smack a Bodak attribution, rest timing, automata prose, and entity metadata.

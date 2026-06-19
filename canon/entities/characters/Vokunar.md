@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028"]
 related:
   - "[[Arcadia]]"
   - "[[Sigil]]"
@@ -176,3 +176,7 @@ Back aboard [[The Opal]], Vokunar finds the crew assembled and the moon shattere
 In [[Cutlass Cray]], Vokunar traded lapis lazuli for the [[Moon Blade]], a versatile warhammer fashioned by [[The Church of the Thirty Lights]] from a fragment of [[Crone]]. The weapon channels moon-touched necrotic and cold power, connecting Vokunar's new armament directly to Crone's shattered remains.
 
 Vokunar sailed with the party to [[The Carrot Cake]]. During the first combat inside, he fought alongside the party against the undead enemies.
+
+## Session 028
+
+In the [[Hole Shebang]], Vokunar fought through encounters with [[Roger Ribbons]], [[Mary Andrews]], [[Phase Cat]]s, and [[Smoke Elemental]]s. He was temporarily blinded by smoke elemental poison but recovered. He cast Toll the Dead to finish off weakened enemies. He accepted a [[Magen]]'s challenge to a game of eight-ball pool, playing with [[Ceril]]'s subtle cheating help but still losing to the magen's superior skill.

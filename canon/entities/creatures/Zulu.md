@@ -2,7 +2,7 @@
 type: creature
 subtypes: [companion]
 session_introduced: "001"
-sessions_appeared: ["001", "011", "012", "019", "020"]
+sessions_appeared: ["001", "011", "012", "019", "020", "028"]
 related:
   - "[[Kerben]]"
   - "[[Nalfeshne]]"

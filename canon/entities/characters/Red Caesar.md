@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028"]
 related:
   - "[[Antumbra]]"
   - "[[Heaven's Bulb]]"
@@ -154,3 +154,9 @@ After the moon was shattered by [[Starfall]], Red Caesar argued that restoring [
 In [[Cutlass Cray]], Red visited [[The Wonder Hulk]] and traded his Wand of Lightning Bolts, a sapphire, jade, and a mithril for the [[Wand of Blighting Bolts]], giving him access to necrotic damage for the first time. He also purchased a potion of invulnerability and a potion of feather fall.
 
 Red sailed with the party to [[The Carrot Cake]]. During the first combat inside, he engaged the undead enemies alongside the party.
+
+## Session 028
+
+In the [[Hole Shebang]], Red Caesar used Shocking Grasp to test whether he could trigger the electrical arcs predictably, confirming the arcs would focus on a living target. He identified that the party's immovable rods were non-conductive. He cast Guidance to help [[Kerben]] play the "Smack a Bodak" carnival game.
+
+Red fought through multiple encounters, using Steelwind Strike against [[Phase Cat]]s and a [[Smoke Elemental]], dealing massive damage with a critical hit. He used the [[Wand of Blighting Bolts]] to devastate a second [[Roger Ribbons]], withering its ribbons from red to gray. He cast Gust of Wind against a [[Smoke Elemental]], dealing significant damage and pushing it toward the ocean. He wore the salvaged [[Hooksy the Clown Automaton]] mask during the southern stage encounter.

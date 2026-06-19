@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028"]
 related:
   - "[[Vanzia Vinfei]]"
   - "[[House Kiernodel]]"
@@ -163,3 +163,7 @@ Ceril visited the [[Temple of Sigil]] on Otyugh Isle with [[Domyx]], where they 
 In [[Cutlass Cray]], Ceril visited [[Gilder Savar]], a lich operating a potion shop. Ceril did not recognize Gilder in his lich form, but Gilder recognized Ceril from their shared past — both had escaped [[Brimbalin]] together alongside [[Vanzia Vinfei]]. Gilder revealed he chose undeath to live long enough to perfect his craft, saying "the best drinks take centuries to distill into perfection." Ceril purchased protective and emergency-use supplies from him.
 
 Ceril sailed with the party to [[The Carrot Cake]]. He supported the party during the entrance battle against undead and later collected seeds from the park's magically preserved trees.
+
+## Session 028
+
+In the [[Hole Shebang]], Ceril was grappled by a second [[Roger Ribbons]]'s ribbons but was freed by [[Domyx]]'s attacks. He wild-shaped into a chalice and cast Mass Cure Wounds, healing the entire party for a massive total — grass and flowers sprang through the debris as pollen spread restorative energy. He helped [[Vokunar]] cheat at pool against a [[Magen]] by tilting the table with Plant Growth.

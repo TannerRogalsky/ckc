@@ -2,7 +2,7 @@
 type: location
 subtypes: [landmark]
 session_introduced: "027"
-sessions_appeared: ["027"]
+sessions_appeared: ["027", "028"]
 related:
   - "[[The Carrot Cake]]"
   - "[[Hole Shebang]]"

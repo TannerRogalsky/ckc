@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028"]
 aliases:
   - Domyx Akathian
 related:
@@ -179,3 +179,11 @@ Domyx helped slay [[Xarag]] on [[Xarag's Island]] and discovered the cliff-face 
 In [[Cutlass Cray]], Domyx purchased a potion of invulnerability and a potion of feather fall from [[The Wonder Hulk]]. He also bought a potion of gaseous form that he immediately drank and used to squeeze under a door, confirming the effect worked as intended.
 
 Domyx sailed with the party to [[The Carrot Cake]]. During the first combat inside, he engaged the undead enemies alongside the party.
+
+## Session 028
+
+In the [[Hole Shebang]], Domyx volunteered to run through the electrical arcs to flip the breaker switch. He navigated the lightning traps and successfully toggled the switch, deactivating the island's electrical defenses and activating one of the four lamps needed to open [[Jack Harvey]]'s inner sanctum. Flipping the switch triggered a new wave of enemies.
+
+Domyx fought through multiple encounters, defeating a second [[Roger Ribbons]] and a [[Mary Andrews]] construct. He used his [[Iklwa Isondo]] to reel Mary Andrews into range and smashed him with his hammer. He resisted the lute music's charm effect using a protective pendant. He also fought [[Phase Cat]]s and [[Smoke Elemental]]s, using his [[Gith Shard Glaive]] to cleave through enemies.
+
+Domyx played the Sky High Striker carnival game, striking the mallet hard enough to earn a scroll containing several spells. He was challenged to a game of pool by a [[Magen]] but declined.
