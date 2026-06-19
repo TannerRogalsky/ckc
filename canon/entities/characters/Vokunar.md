@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022"]
 related:
   - "[[Arcadia]]"
   - "[[Sigil]]"
@@ -38,9 +38,12 @@ related:
   - "[[The Academy]]"
   - "[[Keys]]"
   - "[[Lydriel Gondara]]"
-  - "[[Faronia Karadel]]"
+  - "[[Veronia Karadel]]"
   - "[[Boral Erendel]]"
   - "[[The League of New Stark]]"
+  - "[[Figma Brickfinger]]"
+  - "[[Sunset's Solace]]"
+  - "[[Sigrid Forgewelt]]"
 ---
 
 A young being trapped in stone for decades, falling through the sky toward [[Stark]].
@@ -78,7 +81,7 @@ Uses a healing-focused combat style, prioritizing others over himself — strate
 - Reunited with [[Gossa]] at the [[Elvish Marketplace]] — a former teacher from [[Academia Lux]] in [[Arcadia]]. She recognized him immediately and warned him to learn what he could about the Order.
 - At [[The Academy]], spoke with [[Keys]] and [[Lydriel Gondara]] about the [[Demi-Spell]]. Questioned whether the spell would simply replay the same cycle of events and whether the gods themselves might have caused the Cataclysm.
 - Negotiated an accord with the Order: the party will stop collecting new [[Penumbra]], and if their plan to fix the sky fails, they will give all collected Penumbra to the Order. The Order granted the party access to teleport circles.
-- At [[House Kiernodel]], questioned [[Faronia Karadel]] about the [[Genesis Mundi]] and whether the Demi-Spell would be fair to all peoples, including the [[Broyish Empire]]. Learned that the Genesis Mundi is a fixed point between worlds that occurs regardless, and the Demi-Spell merely modifies it with guidelines.
+- At [[House Kiernodel]], questioned [[Veronia Karadel]] about the [[Genesis Mundi]] and whether the Demi-Spell would be fair to all peoples, including the [[Broyish Empire]]. Learned that the Genesis Mundi is a fixed point between worlds that occurs regardless, and the Demi-Spell merely modifies it with guidelines.
 
 ## Session 015
 
@@ -103,3 +106,13 @@ During the [[Castle Kaedon]] exploration, Vokunar's Akasha-infused weapon pressu
 In [[Castle Kaedon]], Vokunar's See Invisibility revealed the invisible [[Nalfeshne]] overseeing a fight between [[Chain Devil]]s, [[Bearded Devil]]s, and a [[Hezru]]. The Nalfeshne had been buffing the chain devil with temporary hit points. Vokunar used Radiance of Dawn and Channel Divinity in the fight. When the Nalfeshne prepared to leave after casting Fireball on the party, Vokunar used intimidation to warn it that the party had resources to deal with it directly. The Nalfeshne teleported away in a puff of invisible blue fire. Vokunar also prayed over the dead prisoners in the dungeon, feeling heartened that the sister goddess was watching over them.
 
 In a later encounter in the stained-glass hallway, Vokunar cast Guardian of Faith to pressure the [[Hezru]] and two [[Bearded Devil]]s. The Guardian of Faith delivered a devastating rainbow-sword strike that helped destroy one bearded devil after [[Domyx]] reeled it into range. Vokunar delivered the final blow on the Hezru with his Akasha blade. After the battle, he healed [[Red Caesar]] with Aura of Vitality when Red was knocked down by the [[Nalfeshne]]'s Lightning Bolt.
+
+## Session 022
+
+The party split into two groups. Vokunar sailed with [[Domyx]] and [[Kerben]] aboard [[The Opal]] to [[The Pit]] for ship upgrades. There, [[Brim the Bullywog]] hopped off to explore Dwarfland independently.
+
+Vokunar visited [[Figma Brickfinger]] at [[The Palace of the Pit]] and checked on the integration of deep worlders into dwarven society. Figma reported that integration was progressing with minor conflicts but overall improving. She mentioned industrial expansion at the city — new wings on the palace, widened roads, minecart tracks — and noted that [[Broyish Empire]] airships had been sighted in the region by scouts, though she had not seen them herself.
+
+At the marketplace, Vokunar traded a rare gem to [[Sigrid Forgewelt]] for [[Sunset's Solace]], a spell-storing shield that helps him carry situational magic during long journeys.
+
+The party received a quest from [[David Harvey]] to capture [[Theo Harvey]], a traitor Harengon working for the [[Broyish Empire]]. The party sailed to the [[Harengon Warrens]] island and was ambushed by invisible imperial scouts and marshals alongside Theo. Vokunar located the warren entrance — a hole beneath a baobab tree concealed by illusion and invisible dirt. After the battle, Vokunar and [[Ceril]] stopped the fleeing imperial forces, killing most of the remaining soldiers. The party skipped [[Cutlass Cray]] and continued east toward the [[Broyish Empire]] with Theo as prisoner.

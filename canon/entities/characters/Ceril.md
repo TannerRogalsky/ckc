@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022"]
 related:
   - "[[Vanzia Vinfei]]"
   - "[[House Kiernodel]]"
@@ -28,7 +28,7 @@ related:
   - "[[Keys]]"
   - "[[Lydriel Gondara]]"
   - "[[Rakshasa]]"
-  - "[[Faronia Karadel]]"
+  - "[[Veronia Karadel]]"
   - "[[Risolvir Kirnodell]]"
 aliases:
   - Cyril
@@ -72,7 +72,7 @@ Can cast: Plant Growth, Guiding Bolt, Luminous Arrow, Moonbeam (repositionable a
 - At [[The Academy]], recognized [[Keys]] and [[Lydriel Gondara]] as the same individuals who stole [[Penumbra]] from [[Castle Kaedon]].
 - Negotiated an accord with the Order: the party will stop collecting new Penumbra, and if their plan to fix the sky fails, they will give all collected Penumbra to the Order. In exchange, the Order granted access to teleport circles.
 - Revealed that his father is the [[Rakshasa]], a divine being he visited in a cave for years. Keys and Lydriel were unaware of the Rakshasa's existence.
-- Visited [[House Kiernodel]] and recognized [[Faronia Karadel]] and [[Risolvir Kirnodell]] from his pre-Cataclysm escape flashback. Faronia recognized Ceril's future self, saying his soul survives many worlds unchanged and predicting he would become a god in the reset world.
+- Visited [[House Kiernodel]] and recognized [[Veronia Karadel]] and [[Risolvir Kirnodell]] from his pre-Cataclysm escape flashback. Veronia recognized Ceril's future self, saying his soul survives many worlds unchanged and predicting he would become a god in the reset world.
 
 ## Session 015
 
@@ -99,3 +99,21 @@ After the party returned to the castle from [[The White Drake]], Ceril sensed th
 In [[Castle Kaedon]], Ceril summoned a bestial spirit crab to fight in the stained-glass hallway. He prayed over the dead prisoners in the dungeon cells, feeling emboldened that the gods — particularly "the sister" — were watching over the party. His keen elf ears detected the chalk of summoning circles being drawn, alerting the party before the fiends appeared.
 
 In a later encounter in the same hallway, Ceril fired Guiding Bolt at the [[Hezru]] while affected by its stench aura, and let his summoned bestial spirit crab attack. His keen Perception check after the battle was the highest of the party, giving him the sense that something bad was about to happen — allowing him to duck out of the way of the [[Nalfeshne]]'s retaliatory Lightning Bolt.
+
+## Session 022
+
+The party split into two groups. [[Ceril]] traveled with [[Red Caesar]] via Magic Circle to [[The White Drake]] to seek information about [[Obould]]'s fate. They learned from [[Damien Ouranous]] that [[Lady Jacinthe]] was inconsolable and declared Obould deceased.
+
+Ceril infiltrated the ship's interior, blending in with refugees and staff. He observed the security around Jacinthe's quarters — guards at the staircase and trusted nobility at the doors — and judged a direct approach too risky. Instead, he tracked down the laundry service and overheard attendants discussing Jacinthe's drinking habits and a frazzled sommelier stuck in the wine cellar. He stole clothes from the laundry, disguised himself as a crew member named "Baragas," and convinced the sommelier to hand over a prized bottle of Talyn brandy that Jacinthe had been drinking from.
+
+Ceril used the brandy bottle as a focus to attempt his first scrying on Jacinthe, but Jacinthe resisted the effect. [[Red Caesar]] suggested finding a portrait of Jacinthe for a second attempt with better odds.
+
+Red created a loud distraction in the lounge, shattering porthole windows. While guards rushed toward the commotion, Ceril stole a portrait of Jacinthe christening [[The White Drake]]. He encountered [[Damien Ouranous]] along the way, who kindly offered his cape to conceal the painting. Ceril made it back to the room safely.
+
+Before scrying, Ceril checked Damien's cape and confirmed it was safe conjuration magic. He then used the portrait, mercury, and brandy for a second scrying attempt. This time, Ceril successfully observed Jacinthe's private room. He discovered that Jacinthe's grief was a ruse — the wine bottles were unopened and lined up neatly. After verifying the coast was clear, Jacinthe wept loudly for anyone listening outside. [[Vizier Jade]] then appeared in the room via illusion magic and delivered a one-month ultimatum: Jacinthe must help the [[Broyish Empire]] find [[Penumbra]] or [[Obould]]'s safety could not be guaranteed.
+
+After the scrying, Ceril shared all the information with [[Red Caesar]] and the full party. He wrote a message to Damien about the truth of the situation and hid it inside the stolen painting. He then traveled with Red through a teleport circle to [[Brimbalin]], arriving at [[House Kiernodel]]'s courtyard. At the [[Elvish Marketplace]], Ceril acquired the [[Branch of the Itinerant]], a spellcasting wand that also blooms flowers along a drawn path.
+
+The party reconvened aboard [[The Opal]] and learned of a new quest from [[David Harvey]]: retrieve the traitor [[Theo Harvey]] from imperial-occupied territory.
+
+The party sailed to the [[Harengon Warrens]] island and was ambushed by invisible imperial scouts and marshals alongside Theo. After the battle, Ceril and [[Vokunar]] stopped the fleeing imperial forces, killing most of the remaining soldiers. Ceril helped secure Theo as a prisoner.

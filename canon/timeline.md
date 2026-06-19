@@ -254,11 +254,11 @@
 
 ### Chunk 0004
 
-- The party visited [[House Kiernodel]] in Brimbalin. [[Ceril]] recognized [[Faronia Karadel]] and [[Risolvir Kirnodell]] from his pre-Cataclysm escape flashback.
-- [[Faronia Karadel]], a drow and mother of [[Keys]], is chiefly in command of enacting the Demi-Spell. She recognized Ceril's future self and predicted he would become a god in the reset world.
+- The party visited [[House Kiernodel]] in Brimbalin. [[Ceril]] recognized [[Veronia Karadel]] and [[Risolvir Kirnodell]] from his pre-Cataclysm escape flashback.
+- [[Veronia Karadel]], a drow and mother of [[Keys]], is chiefly in command of enacting the Demi-Spell. She recognized Ceril's future self and predicted he would become a god in the reset world.
 - [[Risolvir Kirnodell]] warned the party that the [[Broyish Empire]] is their greatest enemy, also pursuing the [[Genesis Mundi]] and collecting [[Penumbra]] pieces for a weapon.
 - [[Vokunar]] learned that the [[Genesis Mundi]] is a fixed point between worlds that occurs regardless — the Demi-Spell merely expedites and modifies it with guidelines.
-- Faronia asked the party to check on [[Boral Erendel]] at [[The Garden]] and convince him to return.
+- Veronia asked the party to check on [[Boral Erendel]] at [[The Garden]] and convince him to return.
 - House Kiernodel granted the party [[Teleport Keys]] for accessing teleport circles back to Brimbalin.
 - The party set sail from Continental Stark toward Cutlass Cray. [[Vizier Jade]] appeared on [[The Opal]]'s deck, confirming she has been watching [[Red Caesar]] and will ensure he survives. Red declined her restriction scroll. She departed via Teleport Circle.
 
@@ -498,3 +498,41 @@
 - The [[Tome Keeper]] is identified as an [[Arcanoloth]] who commands a portion of the ocean and holds the [[Tome of Satariel]].
 - [[Mudeep]] is introduced as a contact at [[The Garden]] who trades art pieces for attunable magic items.
 - [[Domyx]] keeps private the fact that [[Obould]] named him heir to [[The Opal]] in his logbook.
+
+## Session 022
+
+### Chunk 0000
+
+- The party splits into two groups: [[Kerben]], [[Domyx]], and [[Vokunar]] sail [[The Opal]] to [[The Pit]]; [[Red Caesar]] and [[Ceril]] travel to [[The White Drake]] via Magic Circle.
+- [[Brim the Bullywog]] departs [[The Opal]] at The Pit to explore Dwarfland independently.
+- [[Vokunar]] meets [[Figma Brickfinger]] at [[The Palace of the Pit]]. She reports that deep worlder integration is progressing with minor conflicts, and that industrial expansion is underway at The Pit. Aerial scouts have sighted [[Broyish Empire]] airships in the region.
+- [[Domyx]] trades a Gith Star Gem and a ruby to [[Sigrid Forgewelt]] for the [[Gith Shard Glaive]], a halberd with extended-range psychic cleave attacks. He also trades equestrian manuals for enchanted javelins.
+- [[Vokunar]] trades a rare gem to Sigrid Forgewelt for [[Sunset's Solace]], a spell-storing shield.
+- [[Red Caesar]] and [[Ceril]] arrive at [[The White Drake]]. [[Damien Ouranous]] reports that [[Lady Jacinthe]] is inconsolable and will not receive visitors. She declares [[Obould]] deceased through Damien: "There is no more Captain Obould. He is dead and gone."
+- [[Ceril]] infiltrates the ship, steals clothes from laundry, and disguises himself as a crew member named "Baragas." He tricks the sommelier into handing over a bottle of Talyn brandy that Jacinthe had been drinking from.
+- [[Ceril]] attempts his first scrying on Jacinthe through the brandy bottle, but Jacinthe resists.
+- [[Red Caesar]] suggests finding a portrait of Jacinthe for a second scrying attempt.
+
+### Chunk 0001
+
+- [[Red Caesar]] creates a loud distraction in the lounge, shattering porthole windows. [[Ceril]] steals a portrait of Jacinthe christening [[The White Drake]]. [[Damien Ouranous]] helps conceal the painting with his cape.
+- [[Ceril]]'s second scrying succeeds. He discovers Jacinthe's grief is a ruse — wine bottles are unopened, lined up neatly.
+- [[Vizier Jade]] appears in Jacinthe's room via illusion magic and delivers a one-month ultimatum: provide the [[Broyish Empire]] with [[Penumbra]] or information leading to it, or [[Obould]]'s safety cannot be guaranteed. Every piece of useful intelligence may extend the deadline.
+- Jacinthe whispers after Jade departs: "One month. Can we even get there in one month?" — confirming she wants Obould to survive.
+- [[Red Caesar]] and [[Ceril]] leave a message for Damien hidden in the stolen painting, then use a teleport circle to travel to [[Brimbalin]].
+- At [[House Kiernodel]], [[Risolvir Kirnodell]] and [[Veronia Karadel]] recognize the party. Red reports that [[Boral Erendel]] has gone off the rails at [[The Garden]], adding nearly a hundred pages of his own design to the [[Demi-Spell]].
+- At the [[Elvish Marketplace]], Red trades [[The Jewel of Alfheimer]] for the [[Boots of the Alvigard]]. Ceril acquires the [[Branch of the Itinerant]]. Red purchases [[Cloaks of Billowing]] for the entire party.
+- The party returns to [[The White Drake]] and debriefs [[Domyx]], [[Kerben]], and [[Vokunar]] about the Jade ultimatum. Approximately 21 days remain.
+- [[Vokunar]] uses lore divination on [[Genesis Mundi]], confirming it is a natural world-reset event that carries over important souls and structures. The [[Demi-Spell]] merely expedites and modifies it.
+- [[Vokunar]] uses lore divination on [[Starfall]], confirming it was created in hell, brought to [[Broy]], and uses [[Penumbra]] as fuel. It can pierce the membrane between worlds — "god's skin."
+- [[David Harvey]], a [[Harengon]], gives the party a quest: retrieve the traitor [[Theo Harvey]] from imperial-occupied territory. A large gold bounty awaits his safe return. David's great uncle was [[Jack Harvey]], creator of [[The Carrot Cake]].
+
+### Chunk 0002
+
+- The party sailed [[The Opal]] to the [[Harengon Warrens]] island and was ambushed by invisible imperial scouts, marshals, and [[Theo Harvey]].
+- [[Red Caesar]] traps Theo alive, capturing the traitor.
+- [[Ceril]] and [[Vokunar]] stop the fleeing imperial forces on their longboat, killing most of the remaining soldiers.
+- [[Vokunar]] locates the hidden entrance to the Harengon warrens beneath a baobab tree.
+- Theo revealed that [[Jack Harvey]]'s final project — [[The Carrot Cake]] — is "alive and well," implying the amusement park's legacy persists.
+- Theo confirmed an alternate name for the [[Broyish Empire]].
+- The party skips [[Cutlass Cray]] and continues east toward the [[Broyish Empire]] with Theo as prisoner.

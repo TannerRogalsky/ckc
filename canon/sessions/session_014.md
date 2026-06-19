@@ -95,15 +95,15 @@ The party negotiated an accord: they will stop collecting new Penumbra, and if t
 
 The party visited [[House Kiernodel]] in Brimbalin at the suggestion of [[Keys]] and [[Lydriel Gondara]]. The estate is beautiful with pink, purple, and blue flowers growing on everything.
 
-[[Ceril]] immediately recognized two faces from his pre-Cataclysm escape flashback: [[Faronia Karadel]], a drow of former House Karadel, and [[Risolvir Kirnodell]], leader of House Kiernodel. They had let Ceril flee years ago.
+[[Ceril]] immediately recognized two faces from his pre-Cataclysm escape flashback: [[Veronia Karadel]], a drow of former House Karadel, and [[Risolvir Kirnodell]], leader of House Kiernodel. They had let Ceril flee years ago.
 
-Faronia is "chiefly in command of enacting the demi-spell." She recognized Ceril's future self, saying "your soul survives many worlds unchanged" and predicting he would become a god in the reset world. She is the mother of [[Keys]].
+Veronia is "chiefly in command of enacting the demi-spell." She recognized Ceril's future self, saying "your soul survives many worlds unchanged" and predicting he would become a god in the reset world. She is the mother of [[Keys]].
 
 Risolvir warned the party that their greatest enemy is the [[Broyish Empire]], which is also pursuing the [[Genesis Mundi]] and collecting [[Penumbra]] pieces — likely for a weapon. He said the Empire is more violent than any elf and kills people who don't even stand in their way.
 
-[[Vokunar]] questioned Faronia about the [[Genesis Mundi]] and whether the Demi-Spell would be fair to all peoples. Faronia clarified that the Genesis Mundi is a fixed point between worlds that occurs regardless — the Demi-Spell merely expedites and modifies it with guidelines.
+[[Vokunar]] questioned Veronia about the [[Genesis Mundi]] and whether the Demi-Spell would be fair to all peoples. Veronia clarified that the Genesis Mundi is a fixed point between worlds that occurs regardless — the Demi-Spell merely expedites and modifies it with guidelines.
 
-Faronia asked the party to check on [[Boral Erendel]] at [[The Garden]], worrying where his mind has taken him with his side project.
+Veronia asked the party to check on [[Boral Erendel]] at [[The Garden]], worrying where his mind has taken him with his side project.
 
 The house granted the party [[Teleport Keys]] for accessing teleport circles back to Brimbalin.
 

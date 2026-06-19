@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc]
 session_introduced: "009"
-sessions_appeared: ["009", "013"]
+sessions_appeared: ["009", "013", "022"]
 related:
   - "[[Figma Brickfinger's Union]]"
   - "[[The Pit]]"
@@ -13,3 +13,7 @@ related:
 Leader of [[Figma Brickfinger's Union]] (The Pitman's Union) at [[The Pit]].
 
 After the fall of [[Morel Chainsunder]]'s curse, [[Figma Brickfinger]] posted guards around the revealed [[Penumbra]] and helped the party process it. She acknowledged owing the party a favor and noted that the diplomatic road ahead would be long. Her dwarves shaved away the drained obsidian shell, leaving a smaller star-filled core for transport. She warned the party that [[The Pit]] was politically unstable and asked them not to stir up more trouble before leaving.
+
+## Session 022
+
+[[Vokunar]] visited Figma at [[The Palace of the Pit]] to check on the integration of deep worlders. Figma reported that things were progressing — lots of movement and chaos, but people were motivated to build their lives again. Deep worlders no longer competed for space underground, though minor conflicts persisted. She noted industrial expansion at the city: new palace wings, widened roads, and minecart tracks. She mentioned that aerial scouts had reported [[Broyish Empire]] airships in the region, though she had never seen them with her own eyes.

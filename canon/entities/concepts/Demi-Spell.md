@@ -2,6 +2,7 @@
 type: concept
 subtypes: [lore, cosmology]
 session_introduced: "014"
+sessions_appeared: ["014", "015", "022"]
 aliases:
   - Demi Spell
 related:
@@ -28,6 +29,6 @@ The spell is written as volumes upon volumes — not a scroll but an encyclopedi
 
 The Demi-Spell is more powerful than the gods — "the one thing mortals have over them." The gods are almighty (more powerful than any mortal thing) but not omnipotent; the Demi-Spell is the exception.
 
-The [[Genesis Mundi]] is the underlying force of nature — the fixed point between the end of one world and the beginning of the next. It occurs no matter what; the Demi-Spell merely expedites and modifies it. The Demi-Spell puts guidelines on the Genesis Mundi to ensure some things don't go awry. Without the Demi-Spell, the Genesis Mundi still happens but with fewer controls. [[Faronia Karadel]] described the Demi-Spell as having "a few extra rolls" of the dice to influence outcomes.
+The [[Genesis Mundi]] is the underlying force of nature — the fixed point between the end of one world and the beginning of the next. It occurs no matter what; the Demi-Spell merely expedites and modifies it. The Demi-Spell puts guidelines on the Genesis Mundi to ensure some things don't go awry. Without the Demi-Spell, the Genesis Mundi still happens but with fewer controls. [[Veronia Karadel]] described the Demi-Spell as having "a few extra rolls" of the dice to influence outcomes.
 
 The party negotiated an accord with the Order: the party will stop collecting new Penumbra for now, and if their own plan to fix the sky fails, they will give all collected Penumbra to the Order. The Order granted the party access to teleport circles.

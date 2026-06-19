@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022"]
 related:
   - "[[Heaven's Bulb]]"
   - "[[The Cataclysm]]"
@@ -60,7 +60,7 @@ Can cast: Shocking Grasp, Dispel Magic, Lightning Bolt, Fireball, Misty Step, Re
 - Visited [[Yalet Aurum]]'s monument in the jungle outside Brimbalin. Yalet is a Galeb Duurr with a solid gold body encased in a 40-50 foot stone face. Yalet posed a riddle about his brother [[Yalet Mora]]; Red solved it as "bolder" (bold/rocks pun) and received chunks of gold from Yalet's laughter.
 - Yalet confirmed that [[The Order of Seasons]] is interested in collecting [[Penumbra]] and warned the party to "act faster than an elf."
 - At [[The Academy]], negotiated with [[Keys]] and [[Lydriel Gondara]] about the [[Demi-Spell]] and the party's plan to fix the sky. Argued that the Order's approach takes away choice from the world's people.
-- Visited [[House Kiernodel]] with the party. Met [[Risolvir Kirnodell]] and [[Faronia Karadel]].
+- Visited [[House Kiernodel]] with the party. Met [[Risolvir Kirnodell]] and [[Veronia Karadel]].
 - On the first evening sailing from [[Continental Stark]], [[Vizier Jade]] appeared on [[The Opal]]'s deck. She confirmed she has been watching Red and will continue to ensure he survives. Red declined her offer of a restriction scroll, saying his trust in her was bond enough. She cast Teleport Circle and departed, saying she won't appear again until the party arrives in the capital.
 
 ## Leveling
@@ -98,3 +98,19 @@ In [[Castle Kaedon]], Red found a chunk of mithril among old metal bars. He inve
 In the stained-glass hallway, Red cast Vampiric Touch on a [[Chain Devil]], then Protection from Evil and Good on himself to ward against the [[Hezru]]'s attacks. The Hezru's thick hide and leaping ability made it a difficult target.
 
 In a later encounter in the same hallway, Red held the doorway against a [[Hezru]] and two [[Bearded Devil]]s. After the battle, the invisible [[Nalfeshne]] struck from the hallway with a Lightning Bolt and knocked Red down. He healed himself using Vampiric Touch on [[Zulu]], and [[Vokunar]] restored him further with Aura of Vitality.
+
+## Session 022
+
+The party split into two groups. [[Red Caesar]] and [[Ceril]] used Magic Circle to travel to [[The White Drake]] to seek information about [[Obould]]'s fate. They were greeted by [[Damien Ouranous]], who relayed that [[Lady Jacinthe]] was inconsolable and would not receive visitors. Jacinthe's message was delivered through Damien: "For all intents and purposes, you should treat your captain as deceased. There is no more Captain Obould. He is dead and gone." Invoking his name had caused Jacinthe to weep extensively.
+
+Red Caesar was given lodging (room 17) and permission to stay as long as they liked.
+
+Red attempted to steal a portrait of [[Lady Jacinthe]] to aid [[Ceril]]'s scrying. After being refused by a guard, Red created a loud distraction in the lounge, shattering porthole windows and causing a commotion across the ship. While guards rushed toward the noise, [[Ceril]] stole the portrait. Red was apprehended by [[Damien Ouranous]] and tasked with cleaning up the mess. He paid for the broken windows using old Cadenite coins.
+
+After Ceril's successful scrying revealed Jacinthe's secret meeting with [[Vizier Jade]], Red shared the information with the full party. He and Ceril left a message for Damien hidden in the stolen painting, then used a teleport circle to travel to [[Brimbalin]]. There they arrived at [[House Kiernodel]]'s teleport circle, which was enclosed in an Otiluke blast shield. [[Risolvir Kirnodell]] and [[Veronia Karadel]] recognized them. Red reported that [[Boral Erendel]] had gone "off the rails" with wild ideas at [[The Garden]], prompting Risolvir to agree to send someone to check on him. Red then traded [[The Jewel of Alfheimer]] at the [[Elvish Marketplace]] for the [[Boots of the Alvigard]]. He also purchased [[Cloaks of Billowing]] for the entire party.
+
+Red and Ceril returned to [[The White Drake]] and debriefed the rest of the party about [[Obould]]'s situation: [[Vizier Jade]] was using him as leverage to pressure Jacinthe into finding [[Penumbra]] for the [[Broyish Empire]], with a one-month deadline.
+
+The party received a quest from [[David Harvey]] to capture [[Theo Harvey]], a traitor Harengon working for the [[Broyish Empire]]. The party sailed to the [[Harengon Warrens]] island and found it oddly empty. Red detected a Harengon nearby, and the party was ambushed by invisible imperial scouts and marshals alongside Theo. Red trapped Theo alive, preventing him from escaping. After the battle, the remaining imperial forces attempted to flee by longboat but were killed by [[Ceril]] and [[Vokunar]].
+
+The party discovered the entrance to the Harengon warrens — a hole beneath a baobab tree concealed by illusion and invisible dirt. Theo revealed that [[Jack Harvey]]'s final project, [[The Carrot Cake]], is "alive and well." The party skipped [[Cutlass Cray]] and continued east toward the [[Broyish Empire]] with Theo as prisoner, weighing his value as a bargaining chip against the risk of him escaping.

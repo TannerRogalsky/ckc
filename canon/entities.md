@@ -51,8 +51,10 @@
 - [[Keys]] — Tiefling working on the Demi-Spell at The Academy, was at Castle Kaedon
 - [[Lydriel Gondara]] — Half-elf of the Order working with Keys, was at Castle Kaedon
 - [[Clockwork]] — Member of the Dancing Blades thieves guild, imprisoned in Castle Kaedon
-
-- [[Faronia Karadel]] — Drow, Keys' mother, chiefly in command of enacting the Demi-Spell from House Kiernodel
+- [[David Harvey]] — Harengon working with The League to reclaim harengon territory
+- [[Theo Harvey]] — Traitor harengon who revealed warren locations to the Broyish Empire
+- [[Jack Harvey]] — Famous Kaedon-era entrepreneur, creator of The Carrot Cake, great uncle of David Harvey
+- [[Veronia Karadel]] — Drow, Keys' mother, chiefly in command of enacting the Demi-Spell from House Kiernodel
 - [[Risolvir Kirnodell]] — Leader of House Kiernodel, warned the party about the Broyish Empire
 - [[Solar Flare]] — Tall woman with shining light seen by Vokunar 60 years ago
 - [[Deep World Wizard]] — Mage in [[Darvinblast]] allied with an [[Etten]] champion
@@ -109,6 +111,7 @@
 - [[Wraith]] — Grayish ghostly undead that life-drains victims, encountered riding nightmares in Castle Kaedon
 - [[Chain Devil]] — Devil composed entirely of chains with an unnerving gaze that inflicts supernatural fear
 - [[Hezru]] — Large orange toad-like monster with bull horns and a nauseating stench aura
+- [[Harengon]] — Rabbit-like species with fuzzy orange fur and rapid reproduction
 
 ## Locations
 - [[Continental Stark]] — Massive elfish continent, last remnant of the Old World, home to Brimbalin
@@ -142,10 +145,11 @@
 - [[The Church of the Thirty Lights]] — Church in Cutlass Cray
 - [[Castle Kaedon]] — Castle on the back of Lyngbakr
 - [[Westerness]] — Sunken human city that surrounded Castle Kaedon, visible beneath the waves
-- [[The Carrot Cake]] — Massive magical amusement park from old Kaedon spanning multiple mountaintops
+- [[The Carrot Cake]] — Massive magical amusement park from old Kaedon, later claimed by Theo Harvey to be "alive and well"
 - [[Taylin]] — Old Kaedon settlement near Castle Kaedon, likely destroyed during the Cataclysm
 - [[Castle Kaedon Arena]] — Interior courtyard within Castle Kaedon with bleachers, arena floor, and stables
 - [[Esperanto]] — Pre-Cataclysm place south of Kaedon, linked by developing trade routes
+- [[Harengon Warrens]] — Island with extensive underground tunnels used by the Harengon, now partially occupied by the Empire
 - [[Otyugh Isle]] — Island with Kuo-Toa and Temple of Sigil
 - [[Lyngbakr Lagoon]] — Developing base near Castle Kaedon where Alamar, Relic Elnavi, and Kilosaurus remain
 - [[Rasharan's Rock]] — Location that no longer exists
@@ -198,6 +202,11 @@
 - [[Deception by Lenth]] — Magical perfume based on Lenth the Rugged's musk that improves deception for a limited time
 - [[Potion of Eels]] — Potion containing swirling black eels that greatly enhances agility for a limited time
 - [[Potion of Clairvoyance]] — Potion granting clairvoyant sight or hearing from a distant location for a limited time
+- [[Gith Shard Glaive]] — Halberd with extended-range psychic cleave, crafted by Sigrid Forgewelt from a Gith Star Gem
+- [[Sunset's Solace]] — Spell-storing shield for Vokunar
+- [[Boots of the Alvigard]] — Magical boots that quicken Red Caesar
+- [[Branch of the Itinerant]] — Spellcasting wand that blooms flowers along a drawn path, acquired by Ceril
+- [[Cloaks of Billowing]] — Magic cloaks allowing dramatic billowing as a bonus action, purchased for the party
 
 ## Deities
 - [[Aeris]] — Sister goddess of Chaos, Potential, and Fate (alias: The Sky)

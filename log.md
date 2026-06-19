@@ -106,3 +106,11 @@
 ## [2026-06-19] ingest | session_021/chunk_0003 — Created: Arcanoloth, MooDeep. Updated: Tome Keeper (identified as Arcanoloth), Tome of Satariel (alias: Soteriel), session_021, timeline, entities.md
 ## [2026-06-19] lint | MooDeep → Mudeep — Renamed entity file and updated all canon references; added "MooDeep" as alias
 ## [2026-06-19] lint | session_021 — Fixed canon syntax, entity metadata, aliases, and factual drift
+## [2026-06-19] ingest | session_022/chunk_0000 — Created: Gith Shard Glaive, Sunset's Solace. Updated: Domyx, Vokunar, Red Caesar, Ceril, Kerben, Brim the Bullywog, Figma Brickfinger, The Pit, The White Drake, Damien Ouranous, Lady Jacinthe, Obould, timeline, entities.md
+## [2026-06-19] summary | session_022 — Wrote session summary to canon/sessions/session_022.md
+## [2026-06-19] ingest | session_022/chunk_0001 — Created 9 entities: David Harvey, Theo Harvey, Jack Harvey, Veronia Karadel, Harangon, Harangon Warrens, Boots of the Alvigard, Branch of the Itinerant, Cloaks of Billowing. Updated: Lady Jacinthe, Vizier Jade, Red Caesar, Ceril, Damien Ouranous, Risolvir Kirnodell, Boral Erendel, Genesis Mundi, Starfall, Obould, Esperanto, The Carrot Cake. Updated session summary and timeline.
+## [2026-06-19] lint | Faronia Karadel → Veronia Karadel — Merged duplicate entity; Faronia was a misspelling of Veronia. Deleted Faronia Karadel.md, consolidated lore into Veronia Karadel.md, fixed all references across canon.
+## [2026-06-19] lint | Harangon → Harengon — Renamed creature entity and location; Harangon was a misspelling of Harengon. Renamed Harangon.md → Harengon.md, Harangon Warrens.md → Harengon Warrens.md, fixed all references across canon. Added "Harangon" as alias.
+## [2026-06-19] lint | Odaluk → Otiluke — Fixed misspelled spellcaster name in Risolvir Kirnodell.md, Red Caesar.md, and Veronia Karadel.md.
+## [2026-06-19] ingest | session_022/chunk_0002 — Updated: Theo Harvey, David Harvey, Jack Harvey, Harengon Warrens, Harengon, Broyish Empire, Red Caesar, Domyx, Ceril, Vokunar, Kerben, Yalet Mora. Updated session summary and timeline. Theo captured, Carrot Cake alive, Dawn Empire alias.
+## [2026-06-19] lint | session_022 — Fixed destination drift, metadata, mechanics prose, and Carrot Cake update.

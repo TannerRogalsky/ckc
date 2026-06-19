@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022"]
 aliases:
   - Domyx Akathian
 related:
@@ -30,6 +30,10 @@ related:
   - "[[Yalet Aurum]]"
   - "[[Gunk Grodley]]"
   - "[[Goblin Traders]]"
+  - "[[The Pit]]"
+  - "[[Figma Brickfinger]]"
+  - "[[Gith Shard Glaive]]"
+  - "[[Sigrid Forgewelt]]"
 ---
 
 Full name: Domyx Akathian. A titan from [[Clan Akathia]] who favors kicking doors open and fighting with rage. Travels aboard [[The Opal]].
@@ -100,3 +104,11 @@ While exploring [[Castle Kaedon]], Domyx triggered a ceiling collapse in a room 
 In the stained-glass hallway, Domyx was targeted by a [[Chain Devil]]'s unnerving gaze — beams of red light from the devil's eye-pits overwhelmed him with supernatural fear. He used Recklessness to counteract the disadvantage and focused his attacks on a [[Bearded Devil]] instead, eventually killing it. On the Nalfeshne's second gaze attack, Domyx resisted and became immune to the effect.
 
 In a later encounter in the same hallway against a [[Hezru]] and two more bearded devils, Domyx shoved one bearded devil through the stained glass window, sending it plummeting into the ocean below. He reeled in the second devil with his trident into the range of [[Vokunar]]'s Guardian of Faith. After the visible enemies were defeated, the invisible [[Nalfeshne]] struck from the hallway with a Lightning Bolt. The party discussed strategy afterward, deciding to clear the left wing of the castle's pentagonal layout as a war of attrition against the Nalfeshne's resources.
+
+## Session 022
+
+The party split into two groups. Domyx sailed with [[Kerben]] and [[Vokunar]] aboard [[The Opal]] to [[The Pit]] for ship upgrades. There, [[Brim the Bullywog]] hopped off to explore Dwarfland independently.
+
+Domyx visited [[Sigrid Forgewelt]] at the marketplace. He traded a Gith Star Gem (from the [[Aeon]] encounter), a ruby, and gold to commission the [[Gith Shard Glaive]], a halberd with extended-range psychic cleave attacks. He also traded equestrian manuals for enchanted javelins, useful now that dwarves employed livestock for transport.
+
+The party received a quest from [[David Harvey]] to capture [[Theo Harvey]], a traitor Harengon working for the [[Broyish Empire]]. The party sailed to the [[Harengon Warrens]] island and was ambushed by invisible imperial scouts and marshals alongside Theo. Domyx fought through the ambush on the island surface. After the battle, [[Vokunar]] located the warren entrance beneath a baobab tree. The party skipped [[Cutlass Cray]] and continued east toward the [[Broyish Empire]] with Theo as prisoner.
