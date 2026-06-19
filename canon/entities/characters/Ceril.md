@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020"]
 related:
   - "[[Vanzia Vinfei]]"
   - "[[House Kiernodel]]"
@@ -93,3 +93,9 @@ During the battle with the [[Black Dragon]], Ceril's starry shield was overwhelm
 During the [[Castle Kaedon]] exploration, Ceril used Plant Growth to overrun the broken island platforms with seaweed and fungus, creating permanent natural bridges and climbing supports. He helped the party clear the acid-damaged room and the entrance foyer, where they fought a [[Flabbergast]], a [[Carrion Crawler]], [[Severed Hands]], giant scorpions, and black puddings.
 
 After the party returned to the castle from [[The White Drake]], Ceril sensed the Mark of the Home curse before it fully struck. He protected [[Red Caesar]] with Dispel Magic, then used Greater Restoration to remove the curse from [[Kerben]] after it took hold.
+
+## Session 020
+
+In [[Castle Kaedon]], Ceril summoned a bestial spirit crab to fight in the stained-glass hallway. He prayed over the dead prisoners in the dungeon cells, feeling emboldened that the gods — particularly "the sister" — were watching over the party. His keen elf ears detected the chalk of summoning circles being drawn, alerting the party before the fiends appeared.
+
+In a later encounter in the same hallway, Ceril fired Guiding Bolt at the [[Hezru]] while affected by its stench aura, and let his summoned bestial spirit crab attack. His keen Perception check after the battle was the highest of the party, giving him the sense that something bad was about to happen — allowing him to duck out of the way of the [[Nalfeshne]]'s retaliatory Lightning Bolt.

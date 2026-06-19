@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020"]
 aliases:
   - Domyx Akathian
 related:
@@ -92,3 +92,11 @@ During the battle with the [[Black Dragon]], Domyx used brutal strikes to finish
 [[Kerben]] used the [[Mangonel]] to launch Domyx across an 80-foot gap to the southern island platform of [[Castle Kaedon]]. There, Domyx confronted a [[Zorn]], a subterranean elemental creature that had been eating gold coins. Under pressure from [[Vokunar]]'s Akasha-infused weapon and Domyx's intimidation, the Zorn vomited up roughly 50 pounds of gold coins before burrowing away.
 
 Domyx helped clear the acid-damaged room and entrance foyer, fighting black puddings, [[Severed Hands]], a [[Flabbergast]], a [[Carrion Crawler]], and giant scorpions. After the party returned to the castle from [[The White Drake]], magic circles summoned [[Bearded Devil]]s in a pentagonal inner chamber.
+
+## Session 020
+
+While exploring [[Castle Kaedon]], Domyx triggered a ceiling collapse in a room with rose bushes growing through a damaged wall. He avoided the worst of the falling stones from the old apothecary above, and a [[Potion of Soothing Gaze]] fell from the ruins directly into his lap.
+
+In the stained-glass hallway, Domyx was targeted by a [[Chain Devil]]'s unnerving gaze — beams of red light from the devil's eye-pits overwhelmed him with supernatural fear. He used Recklessness to counteract the disadvantage and focused his attacks on a [[Bearded Devil]] instead, eventually killing it. On the Nalfeshne's second gaze attack, Domyx resisted and became immune to the effect.
+
+In a later encounter in the same hallway against a [[Hezru]] and two more bearded devils, Domyx shoved one bearded devil through the stained glass window, sending it plummeting into the ocean below. He reeled in the second devil with his trident into the range of [[Vokunar]]'s Guardian of Faith. After the visible enemies were defeated, the invisible [[Nalfeshne]] struck from the hallway with a Lightning Bolt. The party discussed strategy afterward, deciding to clear the left wing of the castle's pentagonal layout as a war of attrition against the Nalfeshne's resources.

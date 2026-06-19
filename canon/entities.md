@@ -49,6 +49,7 @@
 - [[Stefan Quist]] — Human receptionist at The Academy
 - [[Keys]] — Tiefling working on the Demi-Spell at The Academy, was at Castle Kaedon
 - [[Lydriel Gondara]] — Half-elf of the Order working with Keys, was at Castle Kaedon
+- [[Clockwork]] — Member of the Dancing Blades thieves guild, imprisoned in Castle Kaedon
 
 - [[Faronia Karadel]] — Drow, Keys' mother, chiefly in command of enacting the Demi-Spell from House Kiernodel
 - [[Risolvir Kirnodell]] — Leader of House Kiernodel, warned the party about the Broyish Empire
@@ -99,6 +100,11 @@
 - [[Flabbergast]] — Undead creature found crushed under Castle Kaedon's portcullis
 - [[Bearded Devil]] — Fiend with rubbery purple skin and barbed facial tentacles, summoned in Castle Kaedon
 - [[Carrion Crawler]] — Large arachnid-like creature encountered in Castle Kaedon's entrance foyer
+- [[Nalfeshne]] — Powerful boar-bodied demon with bluish fire, oversees fiends in Castle Kaedon
+- [[Nightmare]] — Horse of pure flame that can ethereal stride, ridden by wraiths
+- [[Wraith]] — Grayish ghostly undead that life-drains victims, encountered riding nightmares in Castle Kaedon
+- [[Chain Devil]] — Devil composed entirely of chains with an unnerving gaze that inflicts supernatural fear
+- [[Hezru]] — Large orange toad-like monster with bull horns and a nauseating stench aura
 
 ## Locations
 - [[Continental Stark]] — Massive elfish continent, last remnant of the Old World, home to Brimbalin
@@ -155,6 +161,7 @@
 - [[Broyish Empire]] — Xenophobic eastern empire ruled by Emperor Shen
 - [[Knights of the Four Seasons]] — Elven marshal service on Continental Stark, led by Marshal Zem
 - [[Goblin Traders]] — Goblin crew operating a red-sailed trading ship on the high seas, selling poisons and magical wares
+- [[Dancing Blades]] — Thieves guild from old Kaedon, members including Clockwork who was imprisoned in Castle Kaedon
 
 ## Items & Concepts
 - [[Akasha]] — Silvery-white liquid raining from the sky over Continental Stark, connected to Arcadia's oceans
@@ -182,6 +189,7 @@
 - [[The Jewel of Alfheimer]] — Rare landscape painting by Aramil Keirnodel depicting pre-Cataclysm Brimbalin
 - [[Mangonel]] — Siege catapult at Castle Kaedon, originally a celebration device with fireworks
 - [[Starfall]] — Ancient cannon of celestial origin in the possession of the Broyish Empire
+- [[Potion of Soothing Gaze]] — Healing potion that restores 10 HP to drinker and 10 HP to two creatures looked at
 
 ## Deities
 - [[Aeris]] — Sister goddess of Chaos, Potential, and Fate (alias: The Sky)

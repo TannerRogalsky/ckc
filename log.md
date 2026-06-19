@@ -93,3 +93,7 @@
 ## [2026-06-19] summary | session_019 — Wrote session summary to canon/sessions/session_019.md
 ## [2026-06-19] index | canon/entities.md — Added 6 new entities from session 019
 ## [2026-06-19] lint | session_019 — Fixed chronology, entity metadata, and Bearded Devil setup.
+## [2026-06-19] ingest | session_020/chunk_0000 — Created 3 new entities: Nalfeshne, Wraith, Nightmare. Updated 6 entities (Bearded Devil, Kerben, Domyx, Vokunar, Ceril, Red Caesar). Updated session summary and timeline.
+## [2026-06-19] ingest | session_020/chunk_0001 — Created 5 new entities: Chain Devil, Hezru, Potion of Soothing Gaze, Clockwork, Dancing Blades. Updated 8 entities (Castle Kaedon, Bearded Devil, Nalfeshne, Zulu, Red Caesar, Domyx, Kerben, Ceril, Vokunar). Updated session summary and timeline.
+## [2026-06-19] ingest | session_020/chunk_0002 — No new entities. Updated 9 entities (Hezru, Nalfeshne, Bearded Devil, Zulu, Domyx, Red Caesar, Kerben, Vokunar, Ceril). Updated session summary and timeline.
+## [2026-06-19] lint | session_020 — Fixed factual drift, mechanics prose, links, and entity metadata.

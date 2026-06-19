@@ -425,3 +425,33 @@
 - [[Red Caesar]] learned of [[Starfall]], an ancient cannon of celestial origin now in the possession of the [[Broyish Empire]].
 - The party returned to [[Castle Kaedon]] the next day during a storm. [[Ceril]] protected Red Caesar from the Mark of the Home curse and cured [[Kerben]] after it took hold.
 - In a pentagonal inner chamber, magic circles summoned [[Bearded Devil]]s, setting up the next battle.
+
+## Session 020
+
+### Chunk 0000
+
+- The party fights the summoned [[Bearded Devil]]s in the pentagonal chamber. An invisible [[Nalfeshne]] — a powerful boar-bodied demon with bluish fire — oversees the devils and speaks Heavenly to [[Vokunar]], calling Castle Kaedon "my brand new castle" before teleporting away.
+- After clearing the devils, the party explores the surrounding rooms. [[Kerben]]'s Stone Cunning detects patrol movement to the north and a small safe room to the southeast.
+- The party proceeds down the red carpet into the next chamber. [[Vokunar]]'s See Invisibility reveals [[Wraith]]s riding atop [[Nightmare]]s — flame horses that can ethereal stride through walls.
+- The wraiths prove devastating, life-draining [[Kerben]] and leaving him badly weakened. The party defeats the wraiths and nightmares but skips a short rest to press onward.
+
+### Chunk 0001
+
+- The party explores deeper into [[Castle Kaedon]], finding a chunk of mithril and a heavily barricaded arcane-locked door.
+- [[Red Caesar]] determines a collapsed wall section is recent damage — the fiendish occupation is suppressing the castle's protective abjurations.
+- A [[Potion of Soothing Gaze]] falls from the ruined apothecary above onto [[Domyx]].
+- The party discovers a dungeon with rusted iron-barred cells containing ancient corpses. [[Red Caesar]] uses Speak with Dead on a skeleton with platinum teeth, learning of the [[Dancing Blades]] thieves guild and that [[Clockwork]] was once imprisoned here.
+- A map of Western Stark and its surrounding areas is found — now mostly ocean floor.
+- [[Kerben]] finds a stash of Kaedonite coins with bite marks from a [[Zorn]].
+- Summoning circles are drawn in a long stained-glass hallway. A [[Hezru]], two [[Bearded Devil]]s, and a [[Chain Devil]] appear, overseen by the invisible [[Nalfeshne]].
+- The party defeats the bearded devil and chain devil. The [[Nalfeshne]] casts Fireball on the entire party before teleporting away.
+- [[Zulu]] is knocked down by the Nalfeshne's Fireball.
+- [[Vokunar]] and [[Ceril]] pray over the dead prisoners, feeling the sister goddesses watching over them.
+
+### Chunk 0002
+
+- The battle with the [[Hezru]] and two more [[Bearded Devil]]s concludes in the stained-glass hallway. [[Domyx]] shoves one bearded devil through the stained glass into the ocean below. [[Vokunar]]'s Guardian of Faith destroys the second.
+- [[Kerben]] shreds the Hezru with dual blades; [[Vokunar]] delivers the final blow with his Akasha blade.
+- After visible enemies fall, the invisible [[Nalfeshne]] ambushes the party with a Lightning Bolt from the hallway. [[Red Caesar]] and [[Zulu]] are knocked down, while [[Domyx]] and [[Ceril]] weather the attack.
+- The party heals through coordinated efforts: [[Red Caesar]] uses Vampiric Touch, [[Vokunar]] uses Aura of Vitality, and [[Kerben]] restores Zulu.
+- The party decides to pursue a war of attrition, clearing the left wing of the castle's pentagonal layout before confronting the Nalfeshne directly.

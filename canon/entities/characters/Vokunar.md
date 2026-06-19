@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020"]
 related:
   - "[[Arcadia]]"
   - "[[Sigil]]"
@@ -97,3 +97,9 @@ During the battle with the [[Black Dragon]], Vokunar opened with Sacred Spear, s
 ## Session 019
 
 During the [[Castle Kaedon]] exploration, Vokunar's Akasha-infused weapon pressured a [[Zorn]] on the southern island platform, causing the creature to vomit up gold coins and flee. Vokunar fought through the acid-damaged room and castle entrance foyer alongside a [[Flabbergast]], a [[Carrion Crawler]], [[Severed Hands]], black puddings, and giant scorpions.
+
+## Session 020
+
+In [[Castle Kaedon]], Vokunar's See Invisibility revealed the invisible [[Nalfeshne]] overseeing a fight between [[Chain Devil]]s, [[Bearded Devil]]s, and a [[Hezru]]. The Nalfeshne had been buffing the chain devil with temporary hit points. Vokunar used Radiance of Dawn and Channel Divinity in the fight. When the Nalfeshne prepared to leave after casting Fireball on the party, Vokunar used intimidation to warn it that the party had resources to deal with it directly. The Nalfeshne teleported away in a puff of invisible blue fire. Vokunar also prayed over the dead prisoners in the dungeon, feeling heartened that the sister goddess was watching over them.
+
+In a later encounter in the stained-glass hallway, Vokunar cast Guardian of Faith to pressure the [[Hezru]] and two [[Bearded Devil]]s. The Guardian of Faith delivered a devastating rainbow-sword strike that helped destroy one bearded devil after [[Domyx]] reeled it into range. Vokunar delivered the final blow on the Hezru with his Akasha blade. After the battle, he healed [[Red Caesar]] with Aura of Vitality when Red was knocked down by the [[Nalfeshne]]'s Lightning Bolt.

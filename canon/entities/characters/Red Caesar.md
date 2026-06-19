@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020"]
 related:
   - "[[Heaven's Bulb]]"
   - "[[The Cataclysm]]"
@@ -89,3 +89,11 @@ During the [[Castle Kaedon]] exploration, Red fought through the acid-damaged ro
 The party then traveled to [[The White Drake]] via Teleportation Circle. At the banquet, Red sought out [[Lady Jacinthe]] for a private conversation. He learned that Jacinthe and [[Obould]] were once to be wed — not for romance, but for shared ambition. Jacinthe's ambition was building the League to unite kingdoms after the world was torn down; Obould's was adventure and piracy. Their diverging paths forced them apart. Jacinthe revealed that Obould gave her an oath: should she come to harm, he will go in her place and die first. He cursed himself with the oath and she cursed him with sorrow. Red also learned of [[Starfall]], an ancient cannon of celestial origin in the possession of the [[Broyish Empire]].
 
 After the party returned to [[Castle Kaedon]], [[Ceril]] protected Red from the Mark of the Home curse before it could take hold.
+
+## Session 020
+
+In [[Castle Kaedon]], Red found a chunk of mithril among old metal bars. He investigated a collapsed wall section and determined the structural damage was recent — likely caused by the arrival of the fiends suppressing the castle's protective abjurations. He explored the dungeon cells and found skeletons, using [[Beryzoz's Teeth]] to cast Speak with Dead on one corpse with platinum teeth. The animated skeleton revealed he was a senator of the [[Dancing Blades]] who had been locked in during the rising waters of [[The Cataclysm]].
+
+In the stained-glass hallway, Red cast Vampiric Touch on a [[Chain Devil]], then Protection from Evil and Good on himself to ward against the [[Hezru]]'s attacks. The Hezru's thick hide and leaping ability made it a difficult target.
+
+In a later encounter in the same hallway, Red held the doorway against a [[Hezru]] and two [[Bearded Devil]]s. After the battle, the invisible [[Nalfeshne]] struck from the hallway with a Lightning Bolt and knocked Red down. He healed himself using Vampiric Touch on [[Zulu]], and [[Vokunar]] restored him further with Aura of Vitality.

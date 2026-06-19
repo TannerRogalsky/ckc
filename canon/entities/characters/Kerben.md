@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020"]
 aliases:
   - Kerbin
 related:
@@ -83,3 +83,9 @@ During the battle with the [[Black Dragon]] and its wyrmlings, Kerben triggered 
 Kerben used the [[Mangonel]] to launch [[Domyx]] across an 80-foot gap to the southern island platform of [[Castle Kaedon]], adjusting the weight mechanism for Domyx's mass. The mangonel survived the stunt intact.
 
 The party explored an acid-damaged room and the castle's entrance foyer, where Kerben fought through black puddings, a [[Flabbergast]], a [[Carrion Crawler]], [[Severed Hands]], and giant scorpions. After the party returned to the castle from [[The White Drake]], Kerben was briefly struck by the Mark of the Home curse before [[Ceril]] removed it with Greater Restoration.
+
+## Session 020
+
+In [[Castle Kaedon]], Kerben used Stone Cunning to sense that two passages were inert with no movement. He found a stash of Kaedonite coins on a table, some bearing bite marks — likely the meal of the [[Zorn]] the party had encountered earlier. Kerben coordinated [[Zulu]] and a summoned crab spirit as a defensive wall against enemies. [[Zulu]] was knocked down by a [[Nalfeshne]]'s Fireball, and Kerben used magic to restore him.
+
+In a later encounter in the same hallway, Kerben shredded the [[Hezru]] with dual blades while affected by its stench aura. After the visible enemies fell, the invisible [[Nalfeshne]] struck with a Lightning Bolt, knocking down [[Red Caesar]] and [[Zulu]]. Kerben healed Zulu after the attack.
