@@ -2,7 +2,7 @@
 
 ## Party Members
 - [[Red Caesar]] — Member of Heaven's Bulb, travels aboard The Opal
-- [[Domyx]] — Rage fighter who favors kicking doors open
+- [[Domyx]] — Domyx Akathian, rage fighter from Clan Akathia who favors kicking doors open
 - [[Kerben]] — Rogue archer with poison resistance and a dinosaur companion
 - [[Ceril]] — Cleric/druid with wild shape and an owl familiar
 - [[Vokunar]] — Young being falling through the sky, trained by goddesses
@@ -10,10 +10,11 @@
 ## Crew & Allies
 - [[Obould]] — Captain of The Opal, a gaudy orc
 - [[Raxxy]] — Navigator aboard The Opal
-- [[Kerben]] — Crew member aboard The Opal, works with Raxxy
 - [[Otto]] — Boat repairman recruited to the crew
 - [[Gammix]] — Dwarf fighter from the Steelfend Clan, recruited ally
 - [[Tammix]] — Dwarf fighter and brother of Gammix, recruited ally
+- [[Rochella Golf]] — Passenger or temporary crew member aboard The Opal seeking Southport
+- [[Yalet Mora]] — Stone-bodied crew member who suggested recruiting a wind creature for The Opal
 
 ## NPCs
 - [[Vizier Jade]] — Vizier from Broy serving Emperor Shen
@@ -31,8 +32,6 @@
 - [[Pastor Borm]] — Gold wyrmling, pastor of The Church of the Thirty Lights
 - [[Octavia Crayborne]] — Singer at [[The Brine and Bodak]]
 - [[Figma Brickfinger]] — Leader of [[Figma Brickfinger's Union]] at [[The Pit]]
-- [[Morel Chainsunder]] — Leader of the Duergar in The Deepworlders Delve
-(merged into [[Aeris]])
 - [[Sigrid Forgewelt]] — Dwarven weapon forger in The Pit
 - [[Beryzoz Helmscar]] — Gnomish armor forger in The Pit
 - [[Alamar]] — Person placed in magical coma by Vlerro, bound to Castle Kaedon
@@ -40,34 +39,48 @@
 - [[Gossa]] — Aasimar mentor to Vokunar 60 years ago
 - [[Solar Flare]] — Tall woman with shining light seen by Vokunar 60 years ago
 - [[Deep World Wizard]] — Mage in [[Darvinblast]] allied with an [[Etten]] champion
+- [[Domyx's Ancestor]] — Erased sky-touching member of Domyx's bloodline, named by Sigil as the party's greatest enemy
+- [[Queen Caeradwyn]] — Former elven queen whose death preceded elven uprisings and the Cataclysm
+- [[Vanzia Vinfei]] — High elf paladin revolutionary who escaped Brimbalin with Ceril
+- [[Ulrich Fjöler]] — Domyx's friend from Clan Akathia who warned him of an erased ancestor
+- [[Courteous Cam]] — Dwarf farmer-trader who gave Ceril seeds, a scroll, and the gnoll Penumbra lead
+- [[Xander MacLenth]] — Pirate ghost released from the abandoned Far Helm Clan home
+- [[Lenth the Rugged]] — Legendary pirate, father of Xander MacLenth, had wives on every continent
+- [[Redrick Wenn]] — Dwarf whose visa was stolen by the party in [[The Pit]]
 
 ## Creatures & Companions
 - [[Zulu]] — Kerben's dinosaur companion
 - [[Tango]] — Kerben's flying companion creature
 - [[Nyquil]] — Ceril's owl familiar
+- [[Kilosaurus]] — Triceratops-like companion used to haul Penumbra and later left at Lyngbakr Lagoon
 - [[Penelope]] — Giant bat ridden by a dwarf bat rider knight
 - [[Bat Rider]] — Elite dwarf knights riding giant bats
-- [[Blink Dog]] — Blink dog companion from Otyugh Isle
+- [[Relic Elnavi]] — Blink dog companion from Otyugh Isle, now stationed at Lyngbakr Lagoon
 - [[The Marid]] — Huge pale dignitary, Port Authority at Cutlass Cray
 - [[Tuna]] — Sphinx, half cat half falcon, associated with Alamar
-- [[Lyngbakr]] — Giant turtle from Arkadia that fell through the Hole in the Sky
+- [[Lyngbakr]] — Giant turtle from [[Arcadia]] that fell through the Hole in the Sky
 - [[Saratan]] — Species of gigantic turtle/whale things (includes Lyngbakr)
 - [[Wyrm]] — Famous Saratan noted in records
 - [[Blibdoolpoolp]] — God of the Kuo-Toa, defeated by the party
 - [[Kuo-Toa]] — Amphibious race whose god is Blibdoolpoolp
+- [[Gnoll]] — Fiendish hyena-like highland people who guarded a Penumbra chunk
+- [[Wyvern]] — Poisonous dragon-like predators encountered in gnoll territory
 - [[Sunspite]] — Entity that hates the sun, wanted Castle Kaedon sunk
 - [[Etten]] — Two-headed giant creature encountered in Darvinblast
 - [[Fire Giant]] — Flame-engulfed giant encountered in Darvinblast, allied with dwarvish anti-sky deities
+- [[Grotusqu]] — Non-magical giant squid that Lady Jacinthe asked the party to hunt
 
 ## Locations
+- [[Arcadia]] — Realm above Stark, origin of Vokunar and Lyngbakr
 - [[The Opal]] — The party's ship
+- [[Gheister]] — Ship that received visas from Beryzoz Helmscar in The Pit, whereabouts unknown
 - [[The White Drake]] — Main ship of The League of New Stark
 - [[The Croakborne Carnival]] — Ship of The Order of Seasons
 - [[Darvinblast]] — Underground dwarven city
 - [[The Darvenlast]] — Self-sufficient area within The Deepworlders Delve
 - [[Deep World]] — The underground realm of the dwarves
 - [[Broy]] — The Empire in the eastern continent (Broyish Empire)
-- [[Brimboland]] — Elfish continent, believed destination of the Order of Seasons
+- [[Brimbalin]] — Elfish continent and magic city, believed destination of the Order of Seasons
 - [[Stark]] — Destination of Vokunar's fall
 - [[The Pit]] — Dwarvish settlement, seat of Figma Brickfinger's Union
 - [[The Palace of the Pit]] — Seat of power in The Pit
@@ -84,6 +97,7 @@
 - [[The Church of the Thirty Lights]] — Church in Cutlass Cray
 - [[Castle Kaedon]] — Castle on the back of Lyngbakr
 - [[Otyugh Isle]] — Island with Kuo-Toa and Temple of Sigil
+- [[Lyngbakr Lagoon]] — Developing base near Castle Kaedon where Alamar, Relic Elnavi, and Kilosaurus remain
 - [[Rasharan's Rock]] — Location that no longer exists
 - [[Hole in the Sky]] — Hole the party aims to find and plug
 
@@ -92,6 +106,8 @@
 - [[Figma Brickfinger's Union]] — Dwarven union (The Pitman's Union) at The Pit
 - [[Steelfend Clan]] — Dwarf clan; Gammix and Tammix joined the party
 - [[Far Helm Clan]] — Dwarf clan with hidden treasure cavern
+- [[Clan Akathia]] — Domyx's titan clan, hiding records of a previous sky-toucher
+- [[House Kiernodel]] — Elven aristocratic house encountered in Ceril's escape flashback
 - [[The League of New Stark]] — Maritime organization led by Lady Jacinthe
 - [[The Order of Seasons]] — Organization mostly of elves, seeks Genesis Mundi
 - [[Broyish Empire]] — Xenophobic eastern empire ruled by Emperor Shen
@@ -103,6 +119,10 @@
 - [[Para and Bellum]] — Two copper blades given to Red Caesar
 - [[Genesis Mundi]] — The Demi Spell sought by The Order of Seasons
 - [[Potion of Proof Against Storms]] — Potion granting thunder and lightning resistance, given to Domyx
+- [[Hilltop Hunter]] — Kerben's upgraded force-damage musket
+- [[Vivarian Zodex]] — Kerben's animal-protecting magical breastplate
+- [[Beryzoz's Teeth]] — Red Caesar's necrotic-resistance ring that can speak with the dead
+- [[Touching the Sky]] — Titan rite with cosmic implications for Domyx and the broken sky
 
 ## Deities
 - [[Aeris]] — Sister goddess of Chaos, Potential, and Fate (alias: The Sky)

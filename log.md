@@ -31,3 +31,18 @@
 ## [2026-06-18] lint | frontmatter standard — Converted legacy `tags` to `type` + `subtypes` across all 92 entity files and 12 session files
 ## [2026-06-18] restructure | canon/entities/ — Moved all 92 entity files into type-based subdirectories (characters/34, locations/22, creatures/15, organizations/7, deities/4, items/3, concepts/3, vessels/3, events/1). Updated AGENTS.md to reflect new structure.
 ## [2026-06-18] lint | broken links — Fixed `[[Order of Seasons]]` → `[[The Order of Seasons]]` in 3 files. Removed wiki-link formatting from `Mirage Arcana` (not a tracked entity) in 3 files.
+## [2026-06-18] ingest | session_013/chunks_0000-0004 — Extracted entities, updated canon, processed Darvinblast Penumbra, gnoll Penumbra, Lyngbakr Lagoon, and sky-touching revelations
+## [2026-06-18] summary | session_013 — Wrote session summary to canon/sessions/session_013.md
+## [2026-06-18] lint | Queen Ceridwen → Queen Caeradwyn — Renamed misspelled entity, updated links, and added aliases
+## [2026-06-18] lint | House Kier Nodell → House Kiernodel — Renamed misspelled entity, updated links, and added aliases
+## [2026-06-18] lint | Brimboland → Brimbalin — Renamed misspelled entity, merged with existing Brimbalin, updated links, and added Brimboland alias
+## [2026-06-18] lint | Xander McClent → Xander MacLenth — Renamed misspelled entity, updated links, added aliases, fixed truncated Pleasance MacLenth references across canon
+## [2026-06-18] entity | Gheister — Created vessel entity from sessions_001-0010 mention
+## [2026-06-18] ingest | session_013/chunk_0001 — Extracted 1 new entity: Lenth the Rugged. Updated 7 entities. Updated session_013 summary.
+## [2026-06-18] ingest | session_013/chunk_0002 — No new entities. Updated 7 entities. Updated session_013 summary.
+## [2026-06-18] ingest | session_013/chunk_0003 — No new entities. Updated 6 entities. Updated session_013 summary.
+## [2026-06-18] ingest | session_013/chunk_0004 — No new entities. Updated 7 entities (Sigil, Crone, Aeris, Domyx, Vokunar, Touching the Sky, Domyx's Ancestor). Updated session_013 summary.
+## [2026-06-18] lint | broken links — Created Arcadia entity. Removed wiki-links for Owlbear, Windwall, Mirage Arcana (D&D spells/monsters). Fixed Arkadia → Arcadia across 8 files.
+## [2026-06-18] lint | House Akathian → Clan Akathia — Renamed organization, fixed all references across 8 files. Added Domyx Akathian full name and Clan Akathia origin. Added Arcadia to Vokunar and Lyngbakr related links.
+## [2026-06-18] lint | general audit — Added missing subtypes to 27 entity files. Fixed 4 broken pipe wiki links. Added Grotusqu and Redrick Wenn to entities.md. Removed duplicate Kerben entry. Fixed [[sessions_001-0010]] placeholders in session_011.md. Added summary fields to 12 session files. Fixed incomplete sessions_appeared on 14 character files.
+## [2026-06-19] lint | Party-member files — Rewrote Domyx, Ceril, Kerben, Red Caesar, Vokunar to remove combat logs per new guidelines

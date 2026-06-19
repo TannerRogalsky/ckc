@@ -2,6 +2,7 @@
 type: location
 subtypes: [dungeon]
 session_introduced: "011"
+sessions_appeared: ["013"]
 aliases:
   - Darvin Last
 ---
@@ -19,3 +20,5 @@ Further on, the party reached the back entrance to Morel's church. The sanctuary
 Behind the church, a hidden shrine/office contained the skeleton of the real [[Morel Chainsunder]] (dead ~50 years) and his last will and testament — the binding spell document itself. [[Red Caesar]] destroyed the document, breaking the curse and clearing the *Mirage Arcana* illusion over the northern mountains.
 
 With the illusion cleared, a previously hidden quarry was revealed containing a massive chunk of [[Penumbra]] — 50-60 feet across, tetrahedron-shaped. The deep worlders had been harnessing energy from this Penumbra piece.
+
+The enormous [[Penumbra]] revealed near [[Darvinblast]] had been drained for decades by deep worlder magic. In session 013, [[Figma Brickfinger]]'s workers shaved away its dead obsidian shell, leaving a much smaller star-filled core.

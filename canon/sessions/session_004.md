@@ -2,6 +2,7 @@
 type: session
 session: "004"
 date: "2025-08-28"
+summary: "Party returns to Cutlass Cray, recruits Otto, encounters The Marid at the port."
 ---
 
 

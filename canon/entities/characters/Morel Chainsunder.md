@@ -2,6 +2,7 @@
 type: character
 subtypes: [npc, antagonist]
 session_introduced: "009"
+sessions_appeared: ["009", "013"]
 aliases:
   - Morrell
 ---

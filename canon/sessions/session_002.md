@@ -2,6 +2,7 @@
 type: session
 session: "002"
 date: "2025-08-14"
+summary: "Party explores Otyugh Isle, defeats Blibdoolpoolp, Red Caesar receives Para and Bellum."
 ---
 
 
@@ -13,13 +14,13 @@ date: "2025-08-14"
 - **Temple of Sigil:** The party obtains a map to a Temple of Sigil. A statue of a "very scared looking Kua-Toa" appears there.
 - **[[Blibdoolpoolp]]:** The god of the Kuo-Toa — a massive shadow entity holding an even larger entity in its claws. The party defeats this god.
 - **[[Para and Bellum]]:** In a flashback at [[Heaven's Bulb]], [[Master Lee]] gives [[Red Caesar]] two copper blades named "Para" and "Bellum" (from "Si vis pacem, para bellum"). [[Keeper Rufus]] is also present.
-- **[[Blink Dog]]:** A blink dog joins the party after the Otyugh Isle adventure.
+- **[[Relic Elnavi]]:** A blink dog joins the party after the Otyugh Isle adventure.
 
 ## Items Acquired
 
 - [[Para and Bellum]] (two copper blades)
 - Map to the Temple of Sigil
-- [[Blink Dog]] companion
+- [[Relic Elnavi]] companion
 
 ## Characters & Plot Summary
 
@@ -29,4 +30,4 @@ This session deepens the party's mythological connections. The defeat of [[Blibd
 
 - Connects to [[Heaven's Bulb]] and [[The Cataclysm]] backstory
 - The Temple of Sigil map connects to the goddess [[Sigil]]
-- [[Blink Dog]] becomes a party companion going forward
+- [[Relic Elnavi]] becomes a party companion going forward

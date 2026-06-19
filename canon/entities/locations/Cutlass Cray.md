@@ -1,6 +1,8 @@
 ---
 type: location
+subtypes: [city]
 session_introduced: "001"
+sessions_appeared: ["013"]
 ---
 
 A floating city that grows as more boats attach to it. A typical pirate gathering place, heavily trafficked with ships flying bright colors. Some ships are anchored into a continental shelf that never surfaces — a lacuna.

@@ -1,5 +1,6 @@
 ---
 type: location
+subtypes: [landmark]
 session_introduced: "009"
 ---
 

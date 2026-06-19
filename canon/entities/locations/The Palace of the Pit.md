@@ -1,5 +1,6 @@
 ---
 type: location
+subtypes: [building]
 session_introduced: "009"
 ---
 

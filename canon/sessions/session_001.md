@@ -2,6 +2,7 @@
 type: session
 session: "001"
 date: "2025-07-08"
+summary: "Party introduced aboard The Opal, meet Lady Jacinthe, visit The Garden and Cutlass Cray."
 ---
 
 
@@ -15,7 +16,7 @@ date: "2025-07-08"
 - **Trade stops:** The party visits [[The Garden]], a druid sanctuary led by [[Theotropa]]. [[Boril Arangel]] advises them to "look east" for answers about empire.
 - **[[Cutlass Cray]]:** The party visits the floating pirate city. Notable locations include [[Bookbinders Cray]] (run by [[Pleasance MacLenth]]), [[The Brine and Bodak]], [[The Church of the Thirty Lights]] (led by [[Pastor Borm]]), and [[The Bad Hare Day Theatre]].
 - **[[The Marid]]:** A huge pale dignitary wading in the water serves as Port Authority at Cutlass Cray.
-- **Vokunar flashback:** 60 years ago, [[Vokunar]] stared out over water in Arkadia. [[Gossa]], an aasimar mentor, suggested other paths than becoming a Guardian. [[Solar Flare]] was seen.
+- **Vokunar flashback:** 60 years ago, [[Vokunar]] stared out over water in [[Arcadia]]. [[Gossa]], an aasimar mentor, suggested other paths than becoming a Guardian. [[Solar Flare]] was seen.
 - **[[The Croakborne Carnival]]:** [[Ceril]] previously served on this ship of [[The Order of Seasons]]. A half-elf woman stole the [[Penumbra]].
 
 ## Items Acquired

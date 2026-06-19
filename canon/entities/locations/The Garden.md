@@ -1,6 +1,8 @@
 ---
 type: location
+subtypes: [landmark]
 session_introduced: "001"
+sessions_appeared: ["013"]
 ---
 
 A druid sanctuary. Reliable in trade, particularly food.

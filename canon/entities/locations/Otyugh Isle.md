@@ -1,6 +1,8 @@
 ---
 type: location
+subtypes: [landmark]
 session_introduced: "003"
+sessions_appeared: ["013"]
 ---
 
-An island where Lyngbakr Lagoon is located. Contains a dungeon with Kuo-Toa who wanted to move in. The party obtained a map to a Temple of Sigil here. The party defeated [[Blibdoolpoolp]] here.
+An island where [[Lyngbakr Lagoon]] is located. Contains a dungeon with Kuo-Toa who wanted to move in. The party obtained a map to a Temple of Sigil here. The party defeated [[Blibdoolpoolp]] here.

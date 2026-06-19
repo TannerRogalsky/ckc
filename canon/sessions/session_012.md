@@ -2,6 +2,7 @@
 type: session
 session: "012"
 chunks: 6
+summary: "Party fights through Darvinblast, defeats Deep World Wizards, Morel's illusion breaks."
 ---
 
 
@@ -100,7 +101,7 @@ The party is now deeper in the city, having proven their combat capability again
   - [[Domyx]]: ASI to Constitution (14→16, +8 HP).
   - [[Red Caesar]]: ASI to attack bonus. Spell DC 16, ward 21. Prepared Control Water and Banishment.
   - [[Vokunar]]: Heavy Armor Master feat. Prepared Arcane Eye and Banishment.
-- **Next steps:** Head to the elfish continent [[Brimboland]] to track [[The Order of Seasons]] who stole a Penumbra piece. Figure Brickfinger needs to be warned. Consider visiting the dwarven market to enchant weapons with the collected gems.
+- **Next steps:** Head to the elfish continent [[Brimbalin]] to track [[The Order of Seasons]] who stole a Penumbra piece. Figure Brickfinger needs to be warned. Consider visiting the dwarven market to enchant weapons with the collected gems.
 
 ## Connections
 
@@ -113,4 +114,4 @@ The party is now deeper in the city, having proven their combat capability again
 - Imperial scouts were crossing overhead but couldn't see the Penumbra due to the illusion
 - The party's persuasive approach (rather than pure combat) was key to weakening Morel — his power came from the congregation's hatred
 - [[Ceril]]'s divination ability proved crucial multiple times — revealing Morel's nature and finding the hidden shrine
-- Next destination: elfish continent [[Brimboland]] to pursue [[The Order of Seasons]]
+- Next destination: elfish continent [[Brimbalin]] to pursue [[The Order of Seasons]]

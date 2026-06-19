@@ -1,5 +1,6 @@
 ---
 type: deity
+subtypes: [god]
 session_introduced: "002"
 ---
 

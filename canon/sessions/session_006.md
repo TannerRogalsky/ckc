@@ -1,6 +1,7 @@
 ---
 type: session
 session: "006"
+summary: "Limited session details available in source material."
 ---
 
 

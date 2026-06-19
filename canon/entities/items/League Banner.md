@@ -1,5 +1,6 @@
 ---
 type: item
+subtypes: [equipment]
 session_introduced: "004"
 ---
 

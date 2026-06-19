@@ -2,6 +2,7 @@
 type: session
 session: "008"
 date: "2025-11-23"
+summary: "Session between Alamar rescue and dwarven storyline; limited details available."
 ---
 
 

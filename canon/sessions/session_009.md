@@ -2,6 +2,7 @@
 type: session
 session: "009"
 date: "2025-12-06"
+summary: "Party arrives at The Pit, meets Figma Brickfinger, learns of Deepworlders and Darvinblast."
 ---
 
 
@@ -15,7 +16,7 @@ date: "2025-12-06"
 - **[[The Darvenlast]]:** A self-sufficient area within The Deepworlder's Dig. Entrance via a very thin break in a very thin mountain in the Dwarfish highlands, near [[The Funnel]].
 - **[[The Funnel]]:** The primary mining operation area.
 - **[[Sigrid Forgewelt]]:** A dwarven weapon forger in The Pit.
-- **[[Beryzoz Helmscar]]:** A gnomish armor forger. Last issued visas to the Gheister. [[Red Caesar]]'s dwarvish visa was stolen here.
+- **[[Beryzoz Helmscar]]:** A gnomish armor forger. Last issued visas to the [[Gheister]]. [[Red Caesar]]'s dwarvish visa was stolen here.
 - **[[Otto]]'s friends:** The party's quest to find Otto's dwarf friends leads them here.
 
 ## Characters & Plot Summary

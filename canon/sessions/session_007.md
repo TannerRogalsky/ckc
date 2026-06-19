@@ -2,6 +2,7 @@
 type: session
 session: "007"
 date: "2025-11-16"
+summary: "Party finds Alamar in magical coma at Rasharan's Rock, encounters Vlerro and Tuna."
 ---
 
 

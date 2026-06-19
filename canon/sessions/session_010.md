@@ -2,6 +2,7 @@
 type: session
 session: "010"
 date: "2025-12-14"
+summary: "Party prepares for Darvinblast, learns of Morel Chainsunder's cult control."
 ---
 
 

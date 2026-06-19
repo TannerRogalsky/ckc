@@ -1,5 +1,6 @@
 ---
 type: creature
+subtypes: [beast]
 session_introduced: "001"
 ---
 
