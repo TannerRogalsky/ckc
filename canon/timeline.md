@@ -343,7 +343,7 @@
 ### Chunk 0001
 
 - The party defeats the remaining oozes in the [[Castle Kaedon Arena]], clearing the space.
-- The party searches the arena stalls and finds [[Kaedon]] coinage bearing the profile of King Maniasis — [[Alamar]]'s father, who went mad from elf-blood poisoning.
+- The party searches the arena stalls and finds [[Kaedon]] coinage bearing the profile of [[King Maniasis]] — [[Alamar]]'s father, who went mad from elf-blood poisoning.
 - A preserved ringmaster's motley vestment is recovered from one of the stables — an ancient art piece from the [[Kaedon]] era.
 - The party skips a short rest and heads west across elevated plateaus toward the cataract (giant waterfall) on the castle island.
 - Wind and fog from the cataract carry a swarm of crawling severed hands across the grounds.
@@ -455,3 +455,26 @@
 - After visible enemies fall, the invisible [[Nalfeshne]] ambushes the party with a Lightning Bolt from the hallway. [[Red Caesar]] and [[Zulu]] are knocked down, while [[Domyx]] and [[Ceril]] weather the attack.
 - The party heals through coordinated efforts: [[Red Caesar]] uses Vampiric Touch, [[Vokunar]] uses Aura of Vitality, and [[Kerben]] restores Zulu.
 - The party decides to pursue a war of attrition, clearing the left wing of the castle's pentagonal layout before confronting the Nalfeshne directly.
+
+## Session 021
+
+### Chunk 0000
+
+- The party explores a flooded guest room in [[Castle Kaedon]] and finds [[Sunspite]]'s severed head crushed under rubble, overgrown with roses.
+- [[Vokunar]] discovers [[Lady Acelia's Chalice]], identifying [[Lady Acelia]] as [[Alamar]]'s younger sister and last child of the Rodgard family.
+- [[Red Caesar]] uncovers mithril bars hidden beneath floorboards, along with gilded puzzle toys.
+- The party is ambushed in a presentation hall by specters and a wraith coalesced from silvery [[Akasha]] mist that drains maximum hit points when magic is cast.
+- [[Vokunar]] casts Daylight to disadvantage the undead; [[Red Caesar]] casts Gust of Wind to clear the mist. The party defeats all undead.
+- The Akasha quest resolves: Akasha is the pure substance of abjuration that destroyed the old world's magic. A theory emerges that [[Penumbra]] may be crystallized Akasha, and a new quest to manufacture Penumbra is added.
+- The party finds [[Deception by Lenth]], a [[Potion of Eels]], and a [[Potion of Clairvoyance]] — all inventions of [[Lenth the Rugged]].
+- Multiple arcane-locked doors are discovered, protected by the Guards and Wards spell, likely cast by the [[Nalfeshne]] to fortify its territory.
+
+### Chunk 0001
+
+- The party ambushes the [[Nalfeshne]] in its throne room by dropping through the ceiling via [[Kerben]]'s Pass Wall.
+- [[Red Caesar]]'s Circle of Power and [[Vokunar]]'s Calm Emotions insulate the party from the Nalfeshne's fear and psychic attacks.
+- [[Domyx]] tanks the Nalfeshne's focused assault while [[Ceril]]'s summoned crab scores critical hits throughout the fight.
+- [[Ceril]]'s crab delivers the killing blow, clamping the Nalfeshne's neck; the demon dissipates in blue smoke.
+- The party loots the throne room: a black Hell-forged periapt with sardonyx gems, a ruby and sapphire from the throne, and a large [[Penumbra]] chunk with a fractal structure.
+- With the Nalfeshne defeated, the castle's magical aura and abjurations weaken; arcane locks dissipate.
+- The party transports the Penumbra aboard the [[Gheister]] and feeds it to [[Lyngbakr]].

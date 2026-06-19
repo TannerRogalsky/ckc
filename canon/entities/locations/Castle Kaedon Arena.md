@@ -14,7 +14,7 @@ A large interior courtyard within [[Castle Kaedon]], accessible through an archw
 
 The arena appears to have hosted athletic or sporting events — largely a human cultural tradition. Despite the castle's long submersion, the space is strangely preserved, protected by the abjuration magic pervading the castle. When the party entered, sludge and black mold among the seaweed coalesced into hostile oozes — [[Psychic Goop]]s, ochre jellies, and a black pudding — formed from the ancient human remains scattered across the arena. The party cleared these oozes after a prolonged battle.
 
-Beyond the arena proper, the surrounding grounds include elevated plateaus with cliff edges overlooking the ocean, old fields overgrown with thick seaweed, additional stables, and enclosed buildings. A giant waterfall (cataract) nearby sends sheets of wind and mist across the island. One stable contained a preserved ringmaster's motley vestment in bright colors, and Kaedonite coinage bearing the profile of King Maniasis was found among the kiosks.
+Beyond the arena proper, the surrounding grounds include elevated plateaus with cliff edges overlooking the ocean, old fields overgrown with thick seaweed, additional stables, and enclosed buildings. A giant waterfall (cataract) nearby sends sheets of wind and mist across the island. One stable contained a preserved ringmaster's motley vestment in bright colors, and Kaedonite coinage bearing the profile of [[King Maniasis]] was found among the kiosks.
 
 From the stables emerged [[Mezzoloth]]s — fiendish beetle-like creatures with four arms and magic resistance. The fog also carried swarms of [[Severed Hands]] — crawling severed hands that scuttle like spiders.
 

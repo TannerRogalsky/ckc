@@ -63,6 +63,8 @@
 - [[Xander MacLenth]] — Pirate ghost released from the abandoned Far Helm Clan home
 - [[Lenth the Rugged]] — Legendary pirate, father of Xander MacLenth, had wives on every continent
 - [[Redrick Wenn]] — Dwarf whose visa was stolen by the party in [[The Pit]]
+- [[Lady Acelia]] — Younger sister of Alamar, youngest child of the Rodgard family; likely perished in the Cataclysm
+- [[King Maniasis]] — King of Kaedon, father of Alamar; went mad from elf-blood poisoning
 
 ## Creatures & Companions
 - [[Zulu]] — Kerben's dinosaur companion
@@ -100,7 +102,7 @@
 - [[Flabbergast]] — Undead creature found crushed under Castle Kaedon's portcullis
 - [[Bearded Devil]] — Fiend with rubbery purple skin and barbed facial tentacles, summoned in Castle Kaedon
 - [[Carrion Crawler]] — Large arachnid-like creature encountered in Castle Kaedon's entrance foyer
-- [[Nalfeshne]] — Powerful boar-bodied demon with bluish fire, oversees fiends in Castle Kaedon
+- [[Nalfeshne]] — Powerful boar-bodied demon with bluish fire; oversaw fiends in Castle Kaedon before being destroyed by the party
 - [[Nightmare]] — Horse of pure flame that can ethereal stride, ridden by wraiths
 - [[Wraith]] — Grayish ghostly undead that life-drains victims, encountered riding nightmares in Castle Kaedon
 - [[Chain Devil]] — Devil composed entirely of chains with an unnerving gaze that inflicts supernatural fear
@@ -190,6 +192,10 @@
 - [[Mangonel]] — Siege catapult at Castle Kaedon, originally a celebration device with fireworks
 - [[Starfall]] — Ancient cannon of celestial origin in the possession of the Broyish Empire
 - [[Potion of Soothing Gaze]] — Healing potion that restores 10 HP to drinker and 10 HP to two creatures looked at
+- [[Lady Acelia's Chalice]] — Expertly carved oak chalice with jade insets, once belonging to Lady Acelia
+- [[Deception by Lenth]] — Magical perfume based on Lenth the Rugged's musk; grants advantage on deception checks for 8 hours
+- [[Potion of Eels]] — Potion containing swirling black eels; grants 21 Dexterity for one hour
+- [[Potion of Clairvoyance]] — Potion granting clairvoyance for 10 minutes without concentration
 
 ## Deities
 - [[Aeris]] — Sister goddess of Chaos, Potential, and Fate (alias: The Sky)

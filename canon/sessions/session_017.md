@@ -23,7 +23,7 @@ summary: "Party clears arena oozes, defeats mezzoloths, explores granary with al
 ### Chunk 0001
 
 - The party finishes off the remaining oozes in the arena, including the last psychic goop. The battle ends with the arena cleared.
-- After the fight, [[Domyx]] searches the stalls and finds Kaedonite coinage bearing the profile of King Maniasis — [[Alamar]]'s father, who was poisoned by elf blood and went mad.
+- After the fight, [[Domyx]] searches the stalls and finds Kaedonite coinage bearing the profile of [[King Maniasis]] — [[Alamar]]'s father, who was poisoned by elf blood and went mad.
 - [[Vokunar]] discovers a wardrobe stable containing a ringmaster's motley vestment in bright pink, green, and blue — an ancient preserved art piece from the Kaedonite era.
 - The party skips a short rest and heads west across elevated plateaus toward the cataract (giant waterfall).
 - The western grounds feature cliff edges overlooking the ocean, old fields overgrown with seaweed, additional stables, and enclosed buildings.
@@ -53,7 +53,7 @@ The castle's protective magic has noticeably strengthened since the party's last
 
 Inside, the party discovers the [[Castle Kaedon Arena]], a strangely preserved interior courtyard that hosted ancient sporting events. Despite the castle's long submersion, the space is protected by magic — wood structures remain intact and mercantile kiosks still stand.
 
-The ancient human remains scattered across the arena — spectators in the bleachers, athletes on the court — have rotted into hostile ooze creatures. The party fights through [[Psychic Goop]]s, ochre jellies, and a black pudding, all formed from the biomass of the castle's former inhabitants. After clearing the arena, the party finds [[Kaedon]] coinage bearing King Maniasis and a ringmaster's motley vestment.
+The ancient human remains scattered across the arena — spectators in the bleachers, athletes on the court — have rotted into hostile ooze creatures. The party fights through [[Psychic Goop]]s, ochre jellies, and a black pudding, all formed from the biomass of the castle's former inhabitants. After clearing the arena, the party finds [[Kaedon]] coinage bearing [[King Maniasis]] and a ringmaster's motley vestment.
 
 The party pushes westward into the castle's outer grounds, encountering [[Mezzoloth]]s and [[Severed Hands]] near the stables. [[Vokunar]] is knocked down during the fight but is healed by [[Kerben]]. [[Domyx]] finishes the last mezzoloth. The stables yield silvered horse tack as treasure.
 

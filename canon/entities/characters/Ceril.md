@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021"]
 related:
   - "[[Vanzia Vinfei]]"
   - "[[House Kiernodel]]"

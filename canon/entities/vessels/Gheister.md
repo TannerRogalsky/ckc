@@ -2,7 +2,7 @@
 type: vessel
 subtypes: [ship]
 session_introduced: "009"
-sessions_appeared: ["009", "015"]
+sessions_appeared: ["009", "015", "021"]
 related:
   - "[[Obould]]"
   - "[[The Opal]]"

@@ -97,3 +97,7 @@
 ## [2026-06-19] ingest | session_020/chunk_0001 — Created 5 new entities: Chain Devil, Hezru, Potion of Soothing Gaze, Clockwork, Dancing Blades. Updated 8 entities (Castle Kaedon, Bearded Devil, Nalfeshne, Zulu, Red Caesar, Domyx, Kerben, Ceril, Vokunar). Updated session summary and timeline.
 ## [2026-06-19] ingest | session_020/chunk_0002 — No new entities. Updated 9 entities (Hezru, Nalfeshne, Bearded Devil, Zulu, Domyx, Red Caesar, Kerben, Vokunar, Ceril). Updated session summary and timeline.
 ## [2026-06-19] lint | session_020 — Fixed factual drift, mechanics prose, links, and entity metadata.
+## [2026-06-19] ingest | session_021/chunk_0000 — Created 5 entities: Lady Acelia, Lady Acelias Chalice, Deception by Lentz, Potion of Eels, Potion of Clairvoyance. Updated: Akasha, Nalfeshne, Sunspite, Lenth the Rugged. Wrote session summary, updated timeline.
+## [2026-06-19] lint | Deception by Lentz → Deception by Lenth — Renamed file and fixed all wiki links, entities.md, and aliases
+## [2026-06-19] lint | Created King Maniasis entity — Fixed all wiki links in Lady Acelia, Kaedon, Castle Kaedon Arena, session_017, session_021, timeline, entities.md
+## [2026-06-19] ingest | session_021/chunk_0001 — Nalfeshne destroyed by party ambush. Updated: Nalfeshne, Castle Kaedon, Penumbra, Gheister, Lyngbakr, Red Caesar, Domyx, Kerben, Ceril, Vokunar. Updated session summary, timeline, entities.md
