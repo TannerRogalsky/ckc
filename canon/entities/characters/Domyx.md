@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024"]
 aliases:
   - Domyx Akathian
 related:
@@ -40,6 +40,13 @@ related:
   - "[[Broy]]"
   - "[[Emperor Shen]]"
   - "[[Vizier Jade]]"
+  - "[[The Carrot Cake]]"
+  - "[[Gheister]]"
+  - "[[Domyx IV]]"
+  - "[[Charlotte]]"
+  - "[[Akathia Manor]]"
+  - "[[Prison of Frost]]"
+  - "[[Remorhaz]]"
 ---
 
 Full name: Domyx Akathian. A titan from [[Clan Akathia]] who favors kicking doors open and fighting with rage. Travels aboard [[The Opal]].
@@ -130,3 +137,27 @@ After [[Vokunar]] healed both titans, they departed peacefully heading north tow
 In the [[Broyish Capital]], Domyx helped defeat the oni near the coast. He negotiated with [[Naomi]] to clear the party's warrants, paying 10 pounds of mithril. He asked about titan folk in the region and learned they live to the north and have assimilated into the industrial society.
 
 The party entered the imperial palace and was granted audience with [[Vizier Jade]]. Jade revealed [[Emperor Shen]] was Domyx's grandfather — confirmed by the matching sky-colored palms shared between Domyx and the emperor, evidence of having touched the sky. Shen spoke in Giant's Runic and revealed he was the first of his bloodline to touch the sky and planned to be the last. He tried to destroy the sky using [[Starfall]] and was not entirely successful. His goal is that "our rage will kill the gods." Shen fell unconscious after speaking, and Jade dismissed the party.
+
+## Session 024
+
+After the party returned to [[The Opal]], Domyx was the first to discover that [[Theo Harvey]] had escaped from the brig. He investigated the empty cell, finding pry marks and tooth marks on the wooden posts. He found [[Raxxy]] delirious from sedated carrot tea — she had been on watch. Domyx discovered the map and note Theo had left, marking [[The Carrot Cake]]'s location on the rear side of the central mountain of [[Thalasia]] and noting its seasonal opening window.
+
+Before leaving the [[Broyish Capital]], Domyx explored the city alone and encountered [[Seneschal Faran]] near the Dawn Palace. Faran explained that the Empire welcomes those who "fall through the cracks" in other societies — humans originally, then other races like titan folk who could not compete with elves and dwarves. Seneschal Faran recognized Domyx as being of House Akathian, noting that many titan folk have left their mountains and found opportunity in the capital. This revealed to Domyx that his sheltered upbringing in the titan homeland had hidden from him the broader diaspora of his own people.
+
+As [[The Opal]] sailed north toward [[Thalasia]], Domyx felt nostalgic recalling his earlier journey across the same frozen northern straits — walking on ice, leaping between floating chunks, and swimming through freezing water that had forged his physical strength. When a [[Rimefire Hydra]] burst from the ice, Domyx held the frontline with his [[Gith Shard Glaive]], cleaving between multiple heads while raged. The hydra focused its heads on him, but [[Vokunar]] and [[Ceril]] kept him alive through coordinated healing and Moonbeam.
+
+After the hydra battle, the party trekked into the Arctic Plains. Domyx and [[Kerben]] worked together as survivalists, with Domyx drawing on memories of his earlier descent from the titan mountains to help endure the bitter cold. When Kerben ambushed the [[Tatzelwurm]], Domyx rushed in, went into rage mode, and delivered powerful hammer strikes to the dragon's head. The dragon was knocked prone by Domyx's attack. Domyx's relentless assault, combined with the party's magic and Kerben's poisons, quickly defeated the creature.
+
+As the party followed the blood-stained river into Titanfolk territory, a [[Remorhaz]] — a huge, heat-exuding creature — surged toward them from a woodland. Domyx raged and used his [[Iklwa Isondo]] to hook himself onto the creature's head, then struck it with his hammer. The Remorhaz eventually bit Domyx and grappled him in its jaws.
+
+The Remorhaz swallowed Domyx whole. Trapped inside the creature, he attempted to use Enlarge and fight his way out. [[Kerben]] fired into the Remorhaz's side, punching a hole that let light reach Domyx. [[Vokunar]] then destroyed the creature with radiant magic, freeing Domyx. [[Kerben]] cut into the corpse to extract Domyx's body, and [[Ceril]] healed him back to consciousness. After the fight, Kerben harvested the Remorhaz's heat gland for warmth during the rest of their mountain climb.
+
+The party climbed from snow into grassy hills with orchards and flowers — the magic of the titan realm taking hold. They reached the last place [[Ulrich Fjöler]] had been seen before his capture. Domyx recognized the terrain from his earlier descent and could lead the party the rest of the way. At this altitude, the sky appeared as a flat plate separating [[Stark]] from [[Arcadia]]. A golden palace — [[Akathia Manor]] — drew heavy titan traffic.
+
+Domyx entered the manor alone while the rest of the party stayed hidden, as outsiders would be endangered among the xenophobic titan folk. He found [[Charlotte]], Ulrich's sister, who warned him against being there. Domyx revealed the truth about [[Domyx's Ancestor]] breaking the sky with [[Starfall]]. [[Lorelei]] emerged from hiding, having overheard everything. She confirmed she was pregnant and that Ulrich was imprisoned in the [[Prison of Frost]]. She begged to flee with Ulrich's child.
+
+Domyx confronted his father [[Domyx IV]] at the manor's exterior. Domyx IV initially showed relief at seeing his son, then anger at the rule-breaking. He offered to cover up Domyx's return and send him back to Stark. When Domyx refused to forget the truth about their grandfather and discarded his Akathian medallion, Domyx IV disowned him: "You are an Akathian no more. You are my son no more." Domyx walked away, renouncing his family name permanently.
+
+Domyx returned to the party and introduced [[Lorelei]], who apologized for dragging them into the mess. Domyx told the party to call him just "Domyx" from now on — no more noble title. With Lorelei's information, the party knew Ulrich was held in the Prison of Frost.
+
+The party proceeded to the [[Prison of Frost]], where [[Ulrich Fjöler]] was trapped behind a plane of pure magical energy — an abomination to titan folk who traditionally shun magic. [[Ceril]] dispelled the barrier with ease. Ulrich greeted Domyx, who presented himself without his Akathian title as a mark of his renounced identity, and [[Lorelei]] with relief. He asked if the world below was safe for them. The party escaped the peaks of the Titans and returned swiftly to [[The Opal]], bringing Ulrich and Lorelei aboard as new crew members.

@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024"]
 related:
   - "[[Arcadia]]"
   - "[[Sigil]]"
@@ -48,6 +48,9 @@ related:
   - "[[Tome Keeper]]"
   - "[[Baron Akathian the Second]]"
   - "[[Broy]]"
+  - "[[Starfall]]"
+  - "[[The Carrot Cake]]"
+  - "[[Gheister]]"
 ---
 
 A young being trapped in stone for decades, falling through the sky toward [[Stark]].
@@ -132,3 +135,17 @@ Upon disembarking near [[Broy]], Vokunar protected a human and tiefling who were
 In the [[Broyish Capital]], Vokunar used Divine Intervention to scout the city. The eye discovered [[Naomi]]'s tavern and her operation as an underground fixer. Vokunar mapped a safe route through the city avoiding visible [[Oni]] sentry positions, then tracked hidden oni as the party traveled. He helped defeat the oni near the coast and proposed that the party help the Southport couple with their plague, suggesting he could accompany them after the current mission.
 
 The party entered the imperial palace and was granted audience with [[Vizier Jade]]. Jade read the party's thoughts directly. Vokunar observed [[Emperor Shen]] slumped in his throne, barely moving, with metal covering his face. The emperor revealed he was [[Domyx]]'s grandfather and that his goal was to kill the gods. Shen fell unconscious after speaking. Jade dismissed the party and allowed them to depart. On the way out, the emperor spoke to Domyx in Giant's Runic, and Vokunar observed the emotional weight of the revelation.
+
+## Session 024
+
+While resting aboard [[The Opal]], Vokunar and [[Ceril]] were drawn into a shared vision of a black expanse with a jet-black sky and smooth silver powder underfoot. At the center stood the [[Starfall]] device — a massive ring combining all four elements — with [[Aeris]]'s mortal body trapped inside, being used as a battery. Aeris spoke directly to them, revealing she had been imprisoned for sixty years by a man who wanted her power exclusively. She explained that her soul flows into the world through the sky, but her physical body ages and weakens in captivity. She could barely muster the magic to bring them there after fifty years of learning mortal magic.
+
+Vokunar cast Continual Flame to leave Aeris a source of light in her darkness, explaining it would burn as long as the party continued working to free her. Aeris's last words to them were: "Do not underestimate him" — a warning about her captor. Vokunar also learned that Aeris's body can be reached through the plants Ceril grew during the vision, which could serve as a way to locate her prison.
+
+After the vision, Vokunar and the party discovered that [[Theo Harvey]] had escaped and the [[Gheister]] was missing. The party regrouped and discussed their strategy: they had 31 days before [[The Carrot Cake]]'s demi-plane opened, giving them time to pursue other quests first. The party planned to head north to [[Thalasia]] to visit Domyx's people, then swing through the southern waters for resources before the Carrot Cake became accessible.
+
+As [[The Opal]] sailed north, Vokunar cast Water Walk so the party could disembark on the ice without bringing the ship too close to shore. During the [[Rimefire Hydra]] encounter, Vokunar helped keep Domyx alive with healing magic, summoned a Celestial Defender with Inner Radiance, and finished the creature with a holy fireball that burst it open from the inside while [[Kerben]]'s acid prevented regeneration.
+
+During the trek into the Arctic Plains, Vokunar helped sustain the party with healing before they set out. He maintained his Celestial Defender to support the group and cast Scorching Ray during the [[Tatzelwurm]] encounter. He also cast Wall of Radiance around himself and [[Kerben]] during the [[Remorhaz]] fight, creating a ring of protective light.
+
+When the [[Remorhaz]] swallowed [[Domyx]], Vokunar destroyed the creature with a radiant blast, helping free Domyx from inside. After Domyx was extracted by [[Kerben]], Vokunar helped restore the wounded party. When the party reached [[Akathia Manor]], Vokunar stayed hidden with the rest of the group. He cast Locate Object to search for [[Penumbra]] in the area but detected none — the titan homeland was far from the cataclysm's effects and the sky appeared intact from this distance.

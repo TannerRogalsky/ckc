@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc, ally]
 session_introduced: "014"
-sessions_appeared: ["014", "015", "022"]
+sessions_appeared: ["014", "015", "022", "024"]
 related:
   - "[[The Opal]]"
   - "[[Brimbalin]]"
@@ -20,3 +20,7 @@ In session 015, Brim officially joined [[The Opal]]'s crew, leaping aboard from 
 ## Session 022
 
 When [[The Opal]] arrived at [[The Pit]], Brim hopped off the boat to stretch his legs. He had never been to Dwarfland away from elf territory with so much room to hop around. He declared he would go explore and get lost, telling the party to "give a holler" if they needed him.
+
+## Session 024
+
+During the voyage north toward [[Thalasia]], Brim manned [[The Opal]]'s new cannons when a [[Rimefire Hydra]] burst from the ice. He fired grape shot that blasted two heads off the creature. Despite his enthusiasm, the DM noted he was not the most adept gunner and the party would benefit from recruiting a dedicated master gunner.

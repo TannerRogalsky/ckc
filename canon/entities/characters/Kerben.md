@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024"]
 aliases:
   - Kerbin
 related:
@@ -29,6 +29,12 @@ related:
   - "[[Lolth's Sting]]"
   - "[[Subpoena Deuces Mercator]]"
   - "[[Broy]]"
+  - "[[Theo Harvey]]"
+  - "[[Gheister]]"
+  - "[[Shark's Edge]]"
+  - "[[Mobley]]"
+  - "[[The Carrot Cake]]"
+  - "[[Jack Harvey]]"
 ---
 
 A rogue with a sailor background who speaks Northern (dwarvish). Travels aboard [[The Opal]] and works with [[Raxxy]] on navigation and astrology duties. Has poison resistance, likely from childhood exposure to toxic fumes in the dwarven deep world.
@@ -100,3 +106,19 @@ The party received a quest from [[David Harvey]] to capture [[Theo Harvey]], a t
 ## Session 023
 
 As the party approached [[Broy]], [[Kerben]] was tasked with finding a secure anchorage for [[The Opal]] along the hostile coastline. He identified a hidden docking spot among the cliffside slick stones. With the captain missing and territory hostile, Kerben chose to stay behind and guard the ship rather than venture inland with the party.
+
+## Session 024
+
+While serving as acting captain of [[The Opal]], Kerben struggled to fill [[Obould]]'s shoes — managing the crew, handling basic ship duties, and commanding respect from the other crew members. He received [[Shark's Edge]], a +2 falchion made from a megalodon tooth that allows him to perceive the temperature of visible water.
+
+Kerben secretly freed [[Theo Harvey]] from the brig, striking a bargain: Theo would provide the exact location and seasonal access window for [[The Carrot Cake]] in exchange for his freedom and the [[Gheister]]. Kerben learned from Theo that [[Jack Harvey]] — whom Kerben knew personally — had collected [[Penumbra]] shards when the sky first broke, hiding them within the Carrot Cake as a safeguard. Theo revealed he had spent his life emulating Jack, researching everything he could about him. Kerben shared stories of Jack with Theo, and the two shared rum and carrot tea.
+
+Kerben arranged the escape by providing [[Mobley]] with a carrot tea recipe that acted as a sedative, dulling the crew during their evening in the mess hall. He staged the brig to look like a violent escape, then helped Theo board the [[Gheister]] under cover of fog and darkness. Theo left behind a map and note for the party, revealing the Carrot Cake's location and its seasonal opening window (fifth moon through ninth moon).
+
+As [[The Opal]] sailed north toward [[Thalasia]], Kerben used [[Shark's Edge]] to stab the map, officially committing to the route. He then used the falchion's water-temperature perception to detect warm currents and weave the ship through weaker ice patches, expediting the journey through the frozen straits. During the [[Rimefire Hydra]] encounter, Kerben opened with Hunter's Mark and blasted a head clean off. He later applied black dragon acid poison to prevent head regrowth, removing two more heads with follow-up shots.
+
+After the hydra was defeated, the party trekked into the Arctic Plains near [[Thalasia]]. Kerben used Locate Animals or Plants to track warm-blooded creatures and stealthed ahead of the group to scout a safe route through the bitterly cold terrain. While scouting, he discovered a giant white dragon — the [[Tatzelwurm]] — finishing a meal of caribou. Kerben initiated an ambush, switching his Hunter's Mark to the dragon and opening with a devastating shot laced with wyvern poison. He followed up with additional attacks using [[Shark's Edge]] and applied Lolth's Sting. The ambush caught the dragon by surprise, and the party's coordinated attack quickly overwhelmed the creature. Kerben also used an Alarm spell to warn the rest of the party not to advance into the dragon's position.
+
+After the fight, Kerben searched the area and determined the dragon did not keep a traditional horde. He used the dragon's scales and darkwood bark to craft [[Tatzelwurm Gizzard Juice]], a one-use white dragon poison. The dragon's blood stained a nearby river red, providing a visible landmark for the party's path forward into Titanfolk territory.
+
+When a [[Remorhaz]] ambushed the party, Kerben fought from within [[Vokunar]]'s Wall of Radiance alongside [[Domyx]]. After Domyx was swallowed, Kerben fired into the Remorhaz's side, punching a hole that let light reach Domyx inside. After [[Vokunar]]'s radiant magic destroyed the beast, Kerben used his survival knowledge to cut into the creature's underbelly and extract Domyx's unconscious body. He harvested the Remorhaz's heat gland while it was still warm, providing warmth for the rest of the mountain climb. When [[Domyx]] split from the group to enter [[Akathia Manor]], Kerben stayed hidden at a distance with the rest of the party, remaining stealthy among the xenophobic titan folk.

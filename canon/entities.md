@@ -17,6 +17,7 @@
 - [[Rochella Golf]] — Passenger or temporary crew member aboard The Opal seeking Southport
 - [[Yalet Mora]] — Stone-bodied crew member who suggested recruiting a wind creature for The Opal
 - [[Aramil Keirnodel]] — Primary force behind the Demi-Spell's power, former leader of Brimbalin, and painter of The Jewel of Alfheimer
+- [[Mobley]] — The cook aboard The Opal; prepared sedated carrot tea that allowed Theo Harvey's escape
 
 ## NPCs
 - [[Lorelei]] — Domyx's sister, titan folk married into Clan Lapis, pregnant with Ulrich's child
@@ -71,6 +72,9 @@
 - [[Redrick Wenn]] — Dwarf whose visa was stolen by the party in [[The Pit]]
 - [[Lady Acelia]] — Younger sister of Alamar, youngest child of the Rodgard family; likely perished in the Cataclysm
 - [[King Maniasis]] — King of Kaedon, father of Alamar; went mad from elf-blood poisoning
+- [[Charlotte]] — Sister of [[Ulrich Fjöler]]; works at [[Akathia Manor]] preparing food and maintenance
+- [[Domyx IV]] — Current ruler of [[Clan Akathia]], father of [[Domyx]] and [[Lorelei]]; disowned Domyx after he refused to forget clan secrets
+
 
 ## Creatures & Companions
 - [[Arcanoloth]] — Arcanoloth-type outsider; the [[Tome Keeper]] is one and commands a portion of the ocean
@@ -118,6 +122,9 @@
 - [[Baron Akathian the Second]] — Cloud titan related to Domyx's bloodline; attacked the party then departed peacefully
 - [[Oni]] — Fiendish horned demons serving as imperial guards for the Broyish Empire
 - [[The Tyrant]] — Bulky one-eyed creature and companion of Vizier Jade; sent to find The Carrot Cake and never returned
+- [[Rimefire Hydra]] — Massive eight-headed frost hydra encountered in the northern straits near Thalasia
+- [[Tatzelwurm]] — Unique white dragon variant near Thalasia that commands terrain weather; defeated by party ambush (alias: Pretzel Worm)
+- [[Remorhaz]] — Huge, heat-exuding voracious creature of the northern territories that ambushes prey (alias: Remoraz)
 
 ## Locations
 - [[Continental Stark]] — Massive elfish continent, last remnant of the Old World, home to Brimbalin
@@ -164,6 +171,8 @@
 - [[Broyish Capital]] — Imperial capital of the Broyish Empire; highly industrialized with oni sentries, magic restrictions, and a bustling market
 - [[Mana Sea]] — Treacherous body of water near Southport; source of Mana Sickness and home to Deep Roses
 - [[Thalasia]] — Continent where Domyx's titan people live, separated by treacherous mountains
+- [[Akathia Manor]] — Golden palace atop the highest mountains in Stark; ruling seat of [[Clan Akathia]]
+- [[Prison of Frost]] — Prison facility in the titan homeland where [[Ulrich Fjöler]] is held awaiting execution
 - [[Tome Keeper's Pyramid]] — Temple in the eastern waters built by the Tome Keeper to house the Tome of Satariel
 
 ## Organizations
@@ -172,7 +181,7 @@
 - [[Figma Brickfinger's Union]] — Dwarven union (The Pitman's Union) at The Pit
 - [[Steelfend Clan]] — Dwarf clan; Gammix and Tammix joined the party
 - [[Far Helm Clan]] — Dwarf clan with hidden treasure cavern
-- [[Clan Akathia]] — Domyx's titan clan, hiding records of a previous sky-toucher
+- [[Clan Akathia]] — Domyx's titan clan, hiding records of a previous sky-toucher; ruled by [[Domyx IV]]
 - [[House Kiernodel]] — Elven aristocratic house encountered in Ceril's escape flashback
 - [[The League of New Stark]] — Maritime organization led by Lady Jacinthe
 - [[The Order of Seasons]] — Organization mostly of elves, seeks Genesis Mundi
@@ -219,6 +228,8 @@
 - [[Cloaks of Billowing]] — Magic cloaks allowing dramatic billowing as a bonus action, purchased for the party
 - [[Deep Roses]] — Rare herbs growing underwater in the Mana Sea; correct cure for Mana Sickness
 - [[Mana Sickness]] — Contagious plague spreading through Southport from the Mana Sea; victims fall into impenetrable slumber
+- [[Shark's Edge]] — Kerben's +2 falchion made from a megalodon tooth; reveals water temperature by sight
+- [[Tatzelwurm Gizzard Juice]] — One-use white dragon poison crafted by Kerben from Tatzelwurm scales and darkwood bark
 
 ## Deities
 - [[Aeris]] — Sister goddess of Chaos, Potential, and Fate (alias: The Sky)

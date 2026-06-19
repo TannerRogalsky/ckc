@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024"]
 related:
   - "[[Vanzia Vinfei]]"
   - "[[House Kiernodel]]"
@@ -133,3 +133,19 @@ Upon disembarking, the party encountered a human and tiefling surrounded by [[On
 After the oni were defeated, the party learned the human couple was from [[Southport]] seeking a cure for [[Mana Sickness]]. Ceril used his knowledge of nature to identify the herbs they had purchased — wrong herbs for the wrong illness. He identified [[Deep Roses]] as the correct cure and learned the Mana Sickness is contagious and spreading through Southport. He misty-stepped inside [[Vokunar]]'s wall of fire to reach the couple safely. Later, Ceril was reunited with [[Vanzia Vinfei]] in the [[Broyish Capital]] — an old ally from their escape from [[Brimbalin]] decades ago. Vanzia was now operating alongside [[Naomi]] in the imperial city.
 
 The party entered the imperial palace and was granted audience with [[Vizier Jade]]. Ceril observed Jade's cruelty to [[Obould]] — she forced him to dance in a resilient sphere as entertainment. Ceril attempted to help [[Red Caesar]]'s negotiation by suggesting the party let Obould die, but also urged against giving Jade the secrets to penumbra alchemy, calling it too dangerous. Ceril correctly suspected that Jade might already have killed Obould and was bluffing about his survival.
+
+## Session 024
+
+While resting aboard [[The Opal]], Ceril and [[Vokunar]] were drawn into a shared vision of a black expanse with a jet-black sky and smooth silver powder underfoot. At the center of this space stood the [[Starfall]] device — a massive ring combining all four elements (earth, water, air, fire) — with a figure trapped inside. The figure was [[Aeris]] herself, her mortal body imprisoned and used as a battery for the weapon. She revealed that sixty to eighty years ago, a man (later understood to be [[Emperor Shen]]) reached up and captured her, breaking her into pieces so no one else could have her power. Her soul flows into the world through the sky, but her physical body ages and weakens in captivity.
+
+Ceril cast Plant Growth on the ring's earth elements, causing an orchard of apples, pears, and citrus to grow for Aeris to eat. He also cast Druidcraft to confirm that spells work in this space and that a light rain would arrive despite the cloudless black sky. The plants he grew — citrons, apples, and pears — could potentially serve as a way to locate Aeris's prison in the future.
+
+Ceril also learned that the [[The League of New Stark]] had been secretly paying [[Vizier Jade]] with [[Penumbra]], which he discussed with the party. The group debated whether to confront the League or pursue the [[The Carrot Cake]] lead first.
+
+As [[The Opal]] sailed north toward [[Thalasia]], Ceril used Moonbeam and Wheel and Woe during the [[Rimefire Hydra]] encounter, keeping the creature trapped in the beam's continuous damage while healing [[Domyx]] with Healing Word as the hydra focused its attacks on him.
+
+During the trek into the Arctic Plains, Ceril wild-shaped into a ram to better resist the bitter cold. He used his starry wisp form to deliver powerful healing through a chalice. When the party encountered the [[Tatzelwurm]], Ceril summoned a bestial spirit bird that attacked the dragon from the flank. He healed [[Kerben]] after the dragon's frost breath, and his bird continued striking the creature. During the Tatzelwurm fight, Ceril learned that his dragon wild shape had evolved to grant flight and the ability to hover.
+
+As the party followed the blood-stained river into Titanfolk territory, a [[Remorhaz]] surged toward them. Ceril cast Moonbeam directly on the creature as it approached. He then switched to constellation mode for better attack accuracy. The Remorhaz moved out of the Moonbeam, forcing Ceril to redirect it. He healed [[Kerben]] again during the fight.
+
+After [[Domyx]] was swallowed by the Remorhaz, Ceril helped coordinate the rescue. When [[Vokunar]] destroyed the creature with radiant magic, Ceril healed Domyx back to consciousness with Healing Word and then used his chalice form to restore him further. When Domyx split from the party to enter [[Akathia Manor]], Ceril stayed hidden nearby. He sent his magma owl familiar to scout the area, which reported a large cavern with heavy security at its entrance and food trays being delivered inside — a suspicious location that likely corresponded to the [[Prison of Frost]] where [[Ulrich Fjöler]] was being held. [[Vokunar]] detected no [[Penumbra]] in the area, and the sky appeared intact from this distance — the titan homeland was far from the cataclysm's effects.

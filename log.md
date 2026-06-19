@@ -121,3 +121,15 @@
 ## [2026-06-19] ingest | session_023/chunk_0002 — Created 1 entity: Seneschal Faran. Updated 10 entities (Vizier Jade, Emperor Shen, Domyx, Obould, Red Caesar, Ceril, Vokunar, Starfall, Theo Harvey, Domyx's Ancestor). Emperor Shen revealed as Domyx's grandfather and ancestor. Updated session summary and timeline.
 ## [2026-06-19] lint | session_022 — Corrected scrying, imperial markings, travel spell, and warren warning.
 ## [2026-06-19] lint | session_023 — Fixed schema, stale deadline, broken links, and mechanics drift.
+## [2026-06-19] ingest | session_024/chunk_0000 — Created 3 new entities: Mobley, Shark's Edge, Farran. Updated 10 entities. Wrote session summary and timeline.
+## [2026-06-19] lint | Farran merged into Seneschal Faran; Farran was a misspelling of the existing entity.
+## [2026-06-19] ingest | session_024/chunk_0001 — Extracted 1 new entity: Rimefire Hydra. Updated: Brim the Bullywog, Domyx, Kerben, Ceril, Vokunar, Red Caesar, The Opal, Shark's Edge. Created session summary chunk 0001. Updated timeline.
+## [2026-06-19] ingest | session_024/chunk_0002 — Created 3 entities: Pretzel Worm, Remoraz, Pretzelverm Gizzard Juice. Updated: Kerben, Domyx, Ceril, Vokunar, Thalasia, session summary, timeline, entities.md.
+## [2026-06-19] lint | Renamed Pretzel Worm to Tatzelwurm. Updated all wiki-links in canon. Added Pretzel Worm as alias.
+## [2026-06-19] lint | Renamed Pretzelverm Gizzard Juice to Tatzelwurm Gizzard Juice. Updated all wiki-links in canon.
+## [2026-06-19] lint | Renamed Remoraz to Remorhaz. Updated all wiki-links in canon. Added Remoraz as alias.
+## [2026-06-19] ingest | session_024/chunk_0003 — Extracted 4 new entities: Charlotte, Domyx IV, Acathia Manor, Prison of Frost. Updated: Domyx, Lorelei, Ulrich Fjöler, Kerben, Ceril, Vokunar, Thalasia, Clan Akathia, session summary, timeline, entities.md
+## [2026-06-19] lint | Akathia Manor spelling corrected from "Acathia Manor" across 14 canon files; renamed entity file
+## [2026-06-19] ingest | session_024/chunk_0004 — No new entities. Updated: Ulrich Fjöler, Lorelei, Domyx, Prison of Frost. Wrote session summary chunk 0004. Updated timeline.
+## [2026-06-19] lint | session_024 — Fixed chunk count, mechanics prose, Remorhaz finish, and entity session metadata.
+## [2026-06-19] lint | session_024 — Replaced Domics transcript variant with canonical Domyx prose.

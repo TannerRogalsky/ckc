@@ -580,3 +580,62 @@
 - Emperor Shen reveals he was the first of his bloodline to touch the sky and tried to destroy it using [[Starfall]]. His goal is to kill the gods. He falls unconscious after speaking.
 - Jade reveals [[The League of New Stark]] has been giving her penumbra, extending Obould's stay of execution to three months.
 - The party returns to [[The Opal]]. [[Theo Harvey]] has vanished from his cage in the brig.
+
+## Session 024
+
+### Chunk 0000
+
+- [[Kerben]], serving as acting captain of [[The Opal]], secretly freed [[Theo Harvey]] in exchange for the [[Gheister]] and information about [[The Carrot Cake]].
+- Theo revealed that [[Jack Harvey]] collected [[Penumbra]] shards when the sky first broke and hid them within the Carrot Cake as a safeguard. The Carrot Cake exists as a demi-plane accessible only from the first day of the fifth moon through the last day of the ninth moon.
+- Theo provided a map showing the Carrot Cake's location on the rear side of the central mountain of [[Thalasia]].
+- Kerben arranged the escape by giving [[Mobley]] a sedative-laced carrot tea recipe, dulling the crew during their evening in the mess hall. He staged the brig to look like a violent escape.
+- Theo boarded the [[Gheister]] under cover of fog and darkness, departing without revealing his destination.
+- [[Domyx]] was the first to discover the empty brig, finding pry marks and tooth marks on the wooden posts. [[Raxxy]] was found delirious from the sedated carrot tea.
+- Domyx discovered the map and note Theo had left behind.
+- [[Ceril]] and [[Vokunar]] were drawn into a shared vision of [[Aeris]]'s mortal body, trapped at the center of the [[Starfall]] device.
+- Aeris revealed she had been imprisoned for sixty to eighty years by a man who reached up and touched her (understood to be [[Emperor Shen]] / [[Domyx's Ancestor]]). He broke her into pieces so no one else could have her power.
+- Aeris explained that the Starfall generates a fusion of all elements — everything required to rebuild the world in a single stream. [[Penumbra]] pieces serve as additional fuel.
+- Aeris confirmed that repairing the sky will restore her divinity and potentially save her mortal body. She warned the party not to underestimate her captor.
+- Ceril cast Plant Growth to grow food for Aeris; Vokunar cast Continual Flame to leave her a source of light.
+- The party discovered the [[Gheister]] was missing alongside Theo.
+- [[Domyx]] explored the [[Broyish Capital]] and encountered [[Seneschal Faran]], who explained the Empire's diversity policy and revealed a broader titan folk diaspora.
+- [[Red Caesar]] expressed skepticism about Theo's Carrot Cake map, questioning whether Theo had bluffed about Penumbra being there.
+- The party planned to head north to [[Thalasia]] to visit Domyx's people (eight-day journey), then swing through southern waters for resources before the Carrot Cake became accessible in 31 days.
+
+### Chunk 0001
+
+- The party reviewed available quests and committed to a route north toward [[Thalasia]] and beyond, with optional stops at [[Cutlass Cray]], [[The White Drake]], and other locations.
+- [[Kerben]] used [[Shark's Edge]] to stab the map, officially confirming the route. The falchion's water-temperature perception would guide navigation.
+- [[Red Caesar]] sequestered himself to work on manufacturing a fake [[Penumbra]] as a bargaining chip against [[Vizier Jade]].
+- [[The Opal]] set sail north, significantly faster with its upgraded bulbous bow and hardened sails. The ship passed through the strait between the elf continent and the [[Broy]] continent, navigating busy waters with merchant and imperial traffic.
+- After six days, the party reached the frozen northern straits near [[Thalasia]]. [[Kerben]] used [[Shark's Edge]] to detect warm water currents and weave the ship through weaker ice, expediting the journey.
+- On the seventh day, an aurora borealis shimmered across the heavens. [[Domyx]] reflected on his earlier journey across these same freezing waters that had forged his physical strength.
+- [[Vokunar]] cast Water Walk so the party could disembark without bringing the ship too close to shore, sparing [[The Opal]] further ice damage.
+- A [[Rimefire Hydra]] — a massive eight-headed frost creature — burst through the ice on the port side, awakened from decades-long hibernation by the ship's disturbance. The hydra's body was armored with ice permafrost over dragon-like scales.
+- The party defeated the hydra in a ship-side battle. [[Kerben]]'s acid poison prevented head regrowth, [[Brim the Bullywog]]'s cannon fire removed two heads, [[Ceril]]'s Moonbeam and healing kept the party alive, [[Domyx]] held the frontline, and [[Vokunar]] finished the creature with a holy fireball.
+- The hydra rammed [[The Opal]] during the fight, damaging the hull. The battle validated the ship's new cannons and reinforced bow.
+
+### Chunk 0002
+
+- The party trekked into the Arctic Plains near [[Thalasia]]. [[Kerben]] and [[Domyx]] led as survivalists, tracking warm-blooded creatures and navigating the bitterly cold terrain. [[Ceril]] wild-shaped into a ram to resist the cold.
+- [[Kerben]], scouting ahead, discovered the [[Tatzelwurm]] — a unique white dragon variant that flew and surveyed its territory. The dragon commanded the surrounding terrain, causing blizzards and avalanches. Kerben initiated an ambush using Hunter's Mark and wyvern poison.
+- The party defeated the Tatzelwurm in a swift engagement. [[Domyx]] knocked the dragon prone with hammer strikes; [[Ceril]] summoned a bestial spirit bird and healed Kerben after the dragon's frost breath. The dragon's death calmed the extreme cold in the region.
+- Kerben determined the dragon kept no traditional horde. He used the dragon's scales and darkwood bark to craft [[Tatzelwurm Gizzard Juice]], a one-use white dragon poison. The dragon's blood stained a nearby river red.
+- The party followed the blood-stained river into Titanfolk territory. A [[Remorhaz]] — a huge, heat-exuding creature — surged toward them from a woodland. [[Ceril]] cast Moonbeam on the creature and wild-shaped into his dragon form, discovering it now granted flight. [[Domyx]] hooked himself onto the Remorhaz's head with his [[Iklwa Isondo]]. [[Vokunar]] cast Wall of Radiance around himself and Kerben. The Remorhaz grappled Domyx in its jaws, then swallowed him whole.
+
+### Chunk 0003
+
+- [[Domyx]] was swallowed by the [[Remorhaz]] and trapped inside. [[Kerben]] fired into the Remorhaz's side, punching a rescue hole. [[Vokunar]] destroyed the creature with a radiant blast. [[Kerben]] cut into the corpse to extract Domyx's unconscious body; [[Ceril]] healed him back to consciousness. Kerben harvested the Remorhaz's heat gland for warmth.
+- The party climbed from snow into grassy hills, orchards, and farmland — the magic of the titan realm taking hold. They reached the last place [[Ulrich Fjöler]] had been seen before his capture. At this altitude, the sky appeared as a flat plate separating [[Stark]] from [[Arcadia]]. A golden palace — [[Akathia Manor]] — drew heavy titan traffic.
+- [[Domyx]] entered [[Akathia Manor]] alone while the rest of the party stayed hidden, as outsiders would be endangered among the xenophobic titan folk. [[Vokunar]] detected no [[Penumbra]] nearby; the sky appeared intact from this distance.
+- Inside the manor, [[Domyx]] found [[Charlotte]] (Ulrich's sister), who warned him against being there. Domyx revealed the truth about [[Domyx's Ancestor]] breaking the sky with [[Starfall]]. [[Lorelei]] emerged from hiding, having overheard everything. She confirmed she was pregnant and that Ulrich was imprisoned in the [[Prison of Frost]]. She begged to flee with Ulrich's child.
+- [[Ceril]]'s magma owl familiar scouted the area and reported a large cavern with heavy security and food trays being delivered inside — likely the Prison of Frost.
+- [[Domyx]] confronted his father [[Domyx IV]] at the manor's exterior. Domyx IV offered to cover up Domyx's return and send him back to Stark. When Domyx refused to forget the truth about their grandfather and discarded his Akathian medallion, Domyx IV disowned him: "You are an Akathian no more. You are my son no more." Domyx permanently renounced his family name.
+- [[Lorelei]] introduced herself to the party and apologized for dragging them into the situation. With her information, the party knew Ulrich was held in the Prison of Frost.
+
+### Chunk 0004
+
+- The party reached the [[Prison of Frost]], where [[Ulrich Fjöler]] was trapped behind a plane of pure magical energy — an abomination to titan folk who traditionally shun magic.
+- [[Ceril]] dispelled the barrier with ease, freeing Ulrich. Ulrich greeted [[Domyx]] and [[Lorelei]] with relief.
+- The party escaped the peaks of the Titans swiftly and returned to [[The Opal]].
+- [[Ulrich Fjöler]] and [[Lorelei]] joined [[The Opal]] as new crew members. The ship now carried two couples, one of whom — Lorelei — was pregnant.

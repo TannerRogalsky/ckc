@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc, antagonist]
 session_introduced: "022"
-sessions_appeared: ["022", "023"]
+sessions_appeared: ["022", "023", "024"]
 related:
   - "[[David Harvey]]"
   - "[[Harengon]]"
@@ -13,6 +13,9 @@ related:
   - "[[The Carrot Cake]]"
   - "[[The Tyrant]]"
   - "[[Domyx]]"
+  - "[[Kerben]]"
+  - "[[Gheister]]"
+  - "[[The Opal]]"
 ---
 
 A [[Harengon]] traitor who betrayed his people by revealing the location of their secret underground warrens to the [[Broyish Empire]]. He works with the Empire's military forces. He is described as "wicked to the end" and a pirate through and through.
@@ -36,3 +39,13 @@ During the voyage to [[Broy]], Theo approached [[Domyx]] during his guard duty a
 Theo revealed significant information about [[The Carrot Cake]]: it was powered by [[Penumbra]] before the sky broke, and it is a massive maze of illusions and arcane traps. [[Vizier Jade]] had sent her companion [[The Tyrant]] to find the Carrot Cake, and the Tyrant never returned. Theo noted that if one wound up inside the Carrot Cake, one would not come back either. He implied the Empire wanted this information and that executing him was merely a display of force.
 
 After the party returned to [[The Opal]] following their audience at the imperial palace, [[Vokunar]] checked on Theo during his night watch. Theo was gone from his cage in the brig — vanished without explanation. The party did not know when or how he escaped.
+
+## Session 024
+
+It was later revealed that [[Kerben]] had secretly freed Theo. While serving as acting captain of [[The Opal]] while [[Obould]] was imprisoned, Kerben had been struggling with the managerial duties Obould had handled so easily. During one evening, Theo approached Kerben in the brig and struck a bargain: in exchange for his freedom and the [[Gheister]], he would provide the exact location and access window for [[The Carrot Cake]].
+
+Theo revealed that [[Jack Harvey]] had collected [[Penumbra]] shards when the sky first broke, hiding them in the Carrot Cake as a safeguard for future generations. The Carrot Cake exists as a demi-plane that only opens seasonally — from the first day of the fifth moon through the last day of the ninth moon. He promised a map and the exact date.
+
+Kerben arranged the escape by giving [[Mobley]] a carrot tea recipe laced with sedative properties, which dulled the crew during their evening in the mess hall. Kerben staged the brig to look like a violent escape, then let Theo board the [[Gheister]] under cover of fog and darkness. Theo left behind a map marked with the Carrot Cake's location and a note thanking the party for not turning him over to the League.
+
+When the rest of the party returned, they discovered Theo gone and the [[Gheister]] missing. [[Domyx]] was the first to investigate the empty brig, finding pry marks and tooth marks on the wooden posts. [[Raxxy]] was found delirious from the sedated carrot tea, having been on watch. [[Domyx]] discovered the map and note Theo had left, marking the Carrot Cake's location on the rear side of the central mountain of [[Thalasia]].

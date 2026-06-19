@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024"]
 related:
   - "[[Heaven's Bulb]]"
   - "[[The Cataclysm]]"
@@ -126,3 +126,9 @@ Upon disembarking near [[Broy]], Red helped engage the [[Oni]] demons threatenin
 In the [[Broyish Capital]], Red helped defeat the oni near the coast, then acquired citizenship papers from [[Vanzia Vinfei]] and received a teleport circle scriptum back to [[Brimbalin]]. He explored the capital's market, meeting [[Chan Hu]] — an ancient-world survivor who recognized him as a member of [[Heaven's Bulb]].
 
 The party entered the imperial palace and was granted audience with [[Vizier Jade]]. Red attempted to negotiate [[Obould]]'s freedom by offering to teach the Empire how to synthesize penumbra from water. Jade read his thoughts directly and caught the deception, noting he had no solid plan in place. Red then pivoted to offering to procure penumbra over time. Jade demanded fifteen pieces — the same deal made with [[The League of New Stark]]. When Obould was brought before them, Red offered to part with one piece of penumbra to secure his captain's freedom, but Jade raised the price back to fifteen. Red departed the palace recognizing that Jade was conserving energy and keeping them alive as a resource.
+
+## Session 024
+
+After the party returned to [[The Opal]], Red discovered that [[Theo Harvey]] had escaped and the [[Gheister]] was missing. He returned to the ship and found the crew discussing the situation. Red was skeptical about Theo's map to [[The Carrot Cake]], questioning whether Theo had simply bluffed about [[Penumbra]] being there because he knew what the party was looking for. The party had 31 days before the Carrot Cake's demi-plane opened, giving them time to pursue other quests first. Red agreed with the plan to head north to [[Thalasia]] to visit [[Domyx]]'s people, then swing through southern waters for resources.
+
+The party reviewed available quests and committed to a route north. [[Red Caesar]] sequestered himself to work on manufacturing a fake [[Penumbra]] as a bargaining chip against [[Vizier Jade]], feeling more determined than usual — partly motivated by his dislike of Jade and her cruelty to [[Obould]].
