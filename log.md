@@ -46,3 +46,5 @@
 ## [2026-06-18] lint | House Akathian → Clan Akathia — Renamed organization, fixed all references across 8 files. Added Domyx Akathian full name and Clan Akathia origin. Added Arcadia to Vokunar and Lyngbakr related links.
 ## [2026-06-18] lint | general audit — Added missing subtypes to 27 entity files. Fixed 4 broken pipe wiki links. Added Grotusqu and Redrick Wenn to entities.md. Removed duplicate Kerben entry. Fixed [[sessions_001-0010]] placeholders in session_011.md. Added summary fields to 12 session files. Fixed incomplete sessions_appeared on 14 character files.
 ## [2026-06-19] lint | Party-member files — Rewrote Domyx, Ceril, Kerben, Red Caesar, Vokunar to remove combat logs per new guidelines
+## [2026-06-19] timeline | canon/timeline.md — Wrote full campaign timeline covering sessions 001-013
+## [2026-06-19] timeline | canon/timeline.md — Audited and corrected timeline provenance format
