@@ -160,3 +160,4 @@
 ## [2026-06-20] lint | Emperor Shen — Clarified post-godhood vision is unknown; Shen defines himself by destruction not construction
 ## [2026-06-20] lint | Party members — Added class field to frontmatter: Domyx (Barbarian), Ceril (Druid), Kerben (Ranger), Red Caesar (Wizard), Vokunar (Cleric)
 ## [2026-06-20] lint | entities.md — Updated party member descriptions with class information
+## [2026-06-20] update | Warg Lord — Added in-combat dialogue quote from session 015
