@@ -32,6 +32,7 @@ A session ingestion is incomplete until all required canon surfaces have been ha
 - `canon/timeline.md` includes the session and represented chunk headings.
 - Relevant entity files are created or updated.
 - `canon/entities.md` is updated for new or materially corrected entities.
+- `canon/quests.md` and `canon/resolved quests.md` are updated for any new or completed quests.
 - `log.md` records the operations performed.
 
 # Post-Ingest Validation
@@ -44,6 +45,7 @@ After every ingest or lint, validate the canon surfaces touched by the operation
 - Confirm session summaries use represented `### Chunk NNNN` headings and contain exactly one integrated `### Summary` and one `### Connections` section.
 - Confirm entities updated by the session include the session number in `sessions_appeared`, without regressing `session_introduced`.
 - Confirm canon prose does not retain routine mechanical detail, table meta, or aliases in main content.
+- Confirm `canon/quests.md` has no completed quests and `canon/resolved quests.md` has no duplicates or out-of-order entries.
 
 # Frontmatter Standard
 
@@ -259,6 +261,30 @@ Use one heading per session and one subheading per chunk represented in the time
 Each entry should use canonical entity names with Obsidian links where helpful. Keep entries concise, factual, and ordered by in-world chronology. If the exact in-world order is unclear, use session and chunk order as the fallback.
 
 Timeline entries should never use aliases in main content. All aliases should be resolved to the canonical name.
+
+# Quest Tracking
+Maintain `canon/quests.md` as a list of active quests and `canon/resolved quests.md` as a chronological list of completed quests.
+
+## Adding New Quests
+When ingesting a session that introduces a new quest, add an entry to `canon/quests.md`. Each quest entry should include:
+- A `##` heading with a concise quest title.
+- `**Given by:**` — the NPC or source of the quest, using wiki-links where possible.
+- `**Status:**` — the current state (e.g. "In progress", "In progress (1 of 4 lamps lit)").
+- `**Details:**` — a brief description of the quest objective and any known progress, using wiki-links for entities.
+
+Only track quests that carry narrative weight. Routine fetch quests, one-off combats, or incidental objectives do not need entries.
+
+## Completing Quests
+When a quest is resolved during ingestion, move its entry from `canon/quests.md` to `canon/resolved quests.md`. The resolved entry should include:
+- A `##` heading with the same quest title.
+- `**Given by:**` — same as the original entry.
+- `**Resolved:**` — the session number in which the quest was completed.
+- `**Details:**` — a brief description of how the quest was resolved, focusing on narrative outcomes.
+
+Resolved quests in `canon/resolved quests.md` should be ordered chronologically by resolution session.
+
+## Abandoned Quests
+Quests that were given but never revisited (e.g. the Grotusqu hunt from session 001) remain in `canon/quests.md` with `**Status:** Abandoned / unresolved` rather than being moved to resolved.
 
 # Review and Lint Checklist
 

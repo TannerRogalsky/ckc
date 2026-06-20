@@ -196,7 +196,7 @@
 
 - [[Vokunar]] consults [[Sigil]], who confirms [[Alamar]] is an ally but has not told every truth.
 - [[Sigil]] says allies will appear along the party's route and that [[The Order of Seasons]] moved [[Penumbra]] beyond the jungles to a protected place.
-- [[Sigil]] identifies [[Domyx's Ancestor]] as the party's greatest enemy, perhaps their only great enemy.
+- [[Sigil]] identifies [[Emperor Shen]] as the party's greatest enemy, perhaps their only great enemy.
 - [[Domyx]] explains [[Touching the Sky]] as a titan ambition contest that may have brought his ancestor into direct contact with [[Aeris]].
 - [[Relic Elnavi]] offers [[Ceril]] hope about the elven lands, then blinks away while [[Ceril]] stays at [[Lyngbakr Lagoon]].
 - The party charts a four-day wind-favored route north toward the elves, then curving south past [[The Garden]], and sets sail.
@@ -576,7 +576,7 @@
 - The party meets [[Vizier Jade]] in her chamber. Jade reads the party's thoughts directly and catches [[Red Caesar]]'s attempted deception about penumbra synthesis.
 - Jade demands fifteen pieces of [[Penumbra]] for [[Obould]]'s freedom — the same deal made with [[The League of New Stark]].
 - Jade brings Obould before the party encased in a resilient sphere. He is alive but humiliated; Jade forces him to dance as entertainment before he warns the party not to give her penumbra.
-- Jade reveals [[Emperor Shen]] is [[Domyx]]'s grandfather, confirmed by matching sky-colored palms. Shen is [[Domyx's Ancestor]], the sky-toucher [[Sigil]] named as the party's greatest enemy.
+- Jade reveals [[Emperor Shen]] is [[Domyx]]'s grandfather, confirmed by matching sky-colored palms. Shen is [[Emperor Shen]], the sky-toucher [[Sigil]] named as the party's greatest enemy.
 - Emperor Shen reveals he was the first of his bloodline to touch the sky and tried to destroy it using [[Starfall]]. His goal is to kill the gods. He falls unconscious after speaking.
 - Jade reveals [[The League of New Stark]] has been giving her penumbra, extending Obould's stay of execution to three months.
 - The party returns to [[The Opal]]. [[Theo Harvey]] has vanished from his cage in the brig.
@@ -593,7 +593,7 @@
 - [[Domyx]] was the first to discover the empty brig, finding pry marks and tooth marks on the wooden posts. [[Raxxy]] was found delirious from the sedated carrot tea.
 - Domyx discovered the map and note Theo had left behind.
 - [[Ceril]] and [[Vokunar]] were drawn into a shared vision of [[Aeris]]'s mortal body, trapped at the center of the [[Starfall]] device.
-- Aeris revealed she had been imprisoned for sixty to eighty years by a man who reached up and touched her (understood to be [[Emperor Shen]] / [[Domyx's Ancestor]]). He broke her into pieces so no one else could have her power.
+- Aeris revealed she had been imprisoned for sixty to eighty years by a man who reached up and touched her (understood to be [[Emperor Shen]] / [[Emperor Shen]]). He broke her into pieces so no one else could have her power.
 - Aeris explained that the Starfall generates a fusion of all elements — everything required to rebuild the world in a single stream. [[Penumbra]] pieces serve as additional fuel.
 - Aeris confirmed that repairing the sky will restore her divinity and potentially save her mortal body. She warned the party not to underestimate her captor.
 - Ceril cast Plant Growth to grow food for Aeris; Vokunar cast Continual Flame to leave her a source of light.
@@ -628,7 +628,7 @@
 - [[Domyx]] was swallowed by the [[Remorhaz]] and trapped inside. [[Kerben]] fired into the Remorhaz's side, punching a rescue hole. [[Vokunar]] destroyed the creature with a radiant blast. [[Kerben]] cut into the corpse to extract Domyx's unconscious body; [[Ceril]] healed him back to consciousness. Kerben harvested the Remorhaz's heat gland for warmth.
 - The party climbed from snow into grassy hills, orchards, and farmland — the magic of the titan realm taking hold. They reached the last place [[Ulrich Fjöler]] had been seen before his capture. At this altitude, the sky appeared as a flat plate separating [[Stark]] from [[Arcadia]]. A golden palace — [[Akathia Manor]] — drew heavy titan traffic.
 - [[Domyx]] entered [[Akathia Manor]] alone while the rest of the party stayed hidden, as outsiders would be endangered among the xenophobic titan folk. [[Vokunar]] detected no [[Penumbra]] nearby; the sky appeared intact from this distance.
-- Inside the manor, [[Domyx]] found [[Charlotte]] (Ulrich's sister), who warned him against being there. Domyx revealed the truth about [[Domyx's Ancestor]] breaking the sky with [[Starfall]]. [[Lorelei]] emerged from hiding, having overheard everything. She confirmed she was pregnant and that Ulrich was imprisoned in the [[Prison of Frost]]. She begged to flee with Ulrich's child.
+- Inside the manor, [[Domyx]] found [[Charlotte]] (Ulrich's sister), who warned him against being there. Domyx revealed the truth about [[Emperor Shen]] breaking the sky with [[Starfall]]. [[Lorelei]] emerged from hiding, having overheard everything. She confirmed she was pregnant and that Ulrich was imprisoned in the [[Prison of Frost]]. She begged to flee with Ulrich's child.
 - [[Ceril]]'s magma owl familiar scouted the area and reported a large cavern with heavy security and food trays being delivered inside — likely the Prison of Frost.
 - [[Domyx]] confronted his father [[Domyx IV]] at the manor's exterior. Domyx IV offered to cover up Domyx's return and send him back to Stark. When Domyx refused to forget the truth about their grandfather and discarded his Akathian medallion, Domyx IV disowned him: "You are an Akathian no more. You are my son no more." Domyx permanently renounced his family name.
 - [[Lorelei]] introduced herself to the party and apologized for dragging them into the situation. With her information, the party knew Ulrich was held in the Prison of Frost.

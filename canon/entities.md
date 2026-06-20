@@ -27,7 +27,7 @@
 - [[Gunk Grodley]] — Dapper goblin trader who captains the Goblin Traders' ship
 - [[Vizier Jade]] — Vizier from Broy serving Emperor Shen; mind-reader, holds Obould as leverage
 - [[Morel Chainsunder]] — Cult leader controlling the dwarves of Darvinblast
-- [[Emperor Shen]] — Emperor of Broy, revealed to be Domyx's grandfather and Domyx's Ancestor
+- [[Emperor Shen]] — Emperor of Broy, Domyx's grandfather and the erased sky-touching ancestor of Clan Akathia; operator of Starfall, captor of Aeris; named by Sigil as the party's greatest enemy
 - [[Seneschal Faran]] — Masked human seneschal of the Broyish Empire who serves as gatekeeper to the imperial high court
 - [[Master Lee]] — Figure associated with Heaven's Bulb (also called Master Li)
 - [[Keeper Rufus]] — Figure at Heaven's Bulb alongside Master Lee
@@ -64,7 +64,6 @@
 - [[Risolvir Kirnodell]] — Leader of House Kiernodel, warned the party about the Broyish Empire
 - [[Solar Flare]] — Tall woman with shining light seen by Vokunar 60 years ago
 - [[Deep World Wizard]] — Mage in [[Darvinblast]] allied with an [[Etten]] champion
-- [[Domyx's Ancestor]] — Erased sky-touching member of Domyx's bloodline, named by Sigil as the party's greatest enemy
 - [[Queen Caeradwyn]] — Former elven queen whose death preceded elven uprisings and the Cataclysm
 - [[Vanzia Vinfei]] — High elf paladin revolutionary who escaped Brimbalin with Ceril; now operating in the Broyish Capital alongside Naomi
 - [[Naomi]] — Underground fixer in the Broyish Capital who absolves criminal records through magically stamped documents

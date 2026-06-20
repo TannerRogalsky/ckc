@@ -13,7 +13,7 @@ related:
   - "[[Akathia Manor]]"
 ---
 
-Sister of [[Ulrich Fjöler]] and sister-in-law to [[Lorelei]]. She works at [[Akathia Manor]] preparing food and performing general maintenance duties. She was present when [[Domyx]] confronted his family about the truth of [[Domyx's Ancestor]]'s crimes.
+Sister of [[Ulrich Fjöler]] and sister-in-law to [[Lorelei]]. She works at [[Akathia Manor]] preparing food and performing general maintenance duties. She was present when [[Domyx]] confronted his family about the truth of [[Emperor Shen]]'s crimes.
 
 ## Plot Events
 

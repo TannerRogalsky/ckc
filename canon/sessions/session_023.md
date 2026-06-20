@@ -57,7 +57,7 @@ The party returned to [[The Opal]]. During his night watch, [[Vokunar]] checked 
 
 ### Summary
 
-The party arrived at the [[Broyish Empire]], survived a titan attack, and entered the imperial capital. They cleared their warrants through [[Naomi]] and reunited [[Ceril]] with [[Vanzia Vinfei]]. The party had audience with [[Vizier Jade]] and [[Emperor Shen]], learning that Shen is [[Domyx]]'s grandfather and [[Domyx's Ancestor]]. Jade demanded fifteen pieces of [[Penumbra]] for [[Obould]]'s freedom. [[Theo Harvey]] vanished from his cage during the night.
+The party arrived at the [[Broyish Empire]], survived a titan attack, and entered the imperial capital. They cleared their warrants through [[Naomi]] and reunited [[Ceril]] with [[Vanzia Vinfei]]. The party had audience with [[Vizier Jade]] and [[Emperor Shen]], learning that Shen is [[Domyx]]'s grandfather and [[Emperor Shen]]. Jade demanded fifteen pieces of [[Penumbra]] for [[Obould]]'s freedom. [[Theo Harvey]] vanished from his cage during the night.
 
 ### Connections
 

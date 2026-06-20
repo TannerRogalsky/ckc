@@ -25,7 +25,7 @@ related:
   - "[[Figma Brickfinger]]"
   - "[[The Order of Seasons]]"
   - "[[Alamar]]"
-  - "[[Domyx's Ancestor]]"
+  - "[[Emperor Shen]]"
   - "[[Lyngbakr Lagoon]]"
   - "[[Morel Chainsunder]]"
   - "[[Akasha]]"
@@ -81,7 +81,7 @@ Uses a healing-focused combat style, prioritizing others over himself — strate
 - Consulted [[Aeris]] (Eris) via [[Ceril]]'s shield, asking five yes/no questions about the curse, the Penumbra, and the path forward. Eris confirmed destroying the spell was the right choice and that the Penumbra was nearby in the hills.
 - At the abandoned [[Far Helm Clan]] home, used See Invisibility to find [[Xander MacLenth]] and raised water to release the ghost to the tide.
 - During the Penumbra processing at [[The Pit]], used Detect Magic on the massive drained chunk and discovered that a kernel of real sky remained at the exact center. Advised [[Figma Brickfinger]]'s dwarves to carefully chisel away the dead outer shell to reach the pure inner core.
-- Contacted [[Sigil]], who advised the party to go first to the elves, revealed that [[The Order of Seasons]] had moved [[Penumbra]] to a protected place beyond the jungles, confirmed [[Alamar]] was an ally but not fully forthcoming, and named [[Domyx's Ancestor]] as the party's greatest enemy.
+- Contacted [[Sigil]], who advised the party to go first to the elves, revealed that [[The Order of Seasons]] had moved [[Penumbra]] to a protected place beyond the jungles, confirmed [[Alamar]] was an ally but not fully forthcoming, and named [[Emperor Shen]] as the party's greatest enemy.
 - Taught [[Alamar]] Continual Flame and cast several continual flame torches at [[Lyngbakr Lagoon]] for safe lighting.
 - During the [[Wyvern]] encounter, grew wings to gain flight and repositioned over the battlefield. Finished the last wyvern by flying above it and planting his sword two-handed down the center of its back, pinning it to the ground like a reverse sword in the stone.
 - On [[Continental Stark]], cast Locate Object to find overgrown train rails and used Water Walk to traverse a quicksand bog. Collected a sample of [[Akasha]] liquid and used Guardian of Faith against the [[Fuchsia Fungus]].

@@ -10,7 +10,7 @@ related:
   - "[[Ulrich Fjöler]]"
   - "[[Lorelei]]"
   - "[[Clan Lapis]]"
-  - "[[Domyx's Ancestor]]"
+  - "[[Emperor Shen]]"
   - "[[Touching the Sky]]"
   - "[[Sigil]]"
   - "[[Aeris]]"
@@ -57,7 +57,7 @@ Full name: Domyx Akathian. A titan from [[Clan Akathia]] who favors kicking door
 
 Domyx is a titan warrior known for bold intimidation tactics. Among his people, touching the sky is an ambition contest — those who want to be the best climber simply go up as far as they can. He touched the sky, which imbued his hands with a sky-blue glow he carries as proof of the surface world.
 
-In a flashback, [[Ulrich Fjöler]] intercepted him during his descent from the titan mountains and warned that [[Clan Akathia]] had erased a previous sky-toucher from its records. [[Sigil]] later confirmed that [[Domyx's Ancestor]] — the previous sky-toucher — is the party's greatest enemy, perhaps their only great enemy. The ancestor was banished from home and may have aimed for [[Arcadia]].
+In a flashback, [[Ulrich Fjöler]] intercepted him during his descent from the titan mountains and warned that [[Clan Akathia]] had erased a previous sky-toucher from its records. [[Sigil]] later confirmed that [[Emperor Shen]] — the previous sky-toucher — is the party's greatest enemy, perhaps their only great enemy. The ancestor was banished from home and may have aimed for [[Arcadia]].
 
 During the church confrontation with [[Morel Chainsunder]], Domyx gave a powerful speech about self-determination and freedom while barely alive. He showed his sky-blue hands to the congregation as proof of the surface world and removed cowls from congregants to show them as individuals.
 
@@ -156,7 +156,7 @@ The Remorhaz swallowed Domyx whole. Trapped inside the creature, he attempted to
 
 The party climbed from snow into grassy hills with orchards and flowers — the magic of the titan realm taking hold. They reached the last place [[Ulrich Fjöler]] had been seen before his capture. Domyx recognized the terrain from his earlier descent and could lead the party the rest of the way. At this altitude, the sky appeared as a flat plate separating [[Stark]] from [[Arcadia]]. A golden palace — [[Akathia Manor]] — drew heavy titan traffic.
 
-Domyx entered the manor alone while the rest of the party stayed hidden, as outsiders would be endangered among the xenophobic titan folk. He found [[Charlotte]], Ulrich's sister, who warned him against being there. Domyx revealed the truth about [[Domyx's Ancestor]] breaking the sky with [[Starfall]]. [[Lorelei]] emerged from hiding, having overheard everything. She confirmed she was pregnant and that Ulrich was imprisoned in the [[Prison of Frost]]. She begged to flee with Ulrich's child.
+Domyx entered the manor alone while the rest of the party stayed hidden, as outsiders would be endangered among the xenophobic titan folk. He found [[Charlotte]], Ulrich's sister, who warned him against being there. Domyx revealed the truth about [[Emperor Shen]] breaking the sky with [[Starfall]]. [[Lorelei]] emerged from hiding, having overheard everything. She confirmed she was pregnant and that Ulrich was imprisoned in the [[Prison of Frost]]. She begged to flee with Ulrich's child.
 
 Domyx confronted his father [[Domyx IV]] at the manor's exterior. Domyx IV initially showed relief at seeing his son, then anger at the rule-breaking. He offered to cover up Domyx's return and send him back to Stark. When Domyx refused to forget the truth about their grandfather and discarded his Akathian medallion, Domyx IV disowned him: "You are an Akathian no more. You are my son no more." Domyx walked away, renouncing his family name permanently.
 

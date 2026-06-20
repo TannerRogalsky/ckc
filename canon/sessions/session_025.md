@@ -60,7 +60,7 @@ A flashback to [[Heaven's Bulb]] showed a younger [[Red Caesar]] speaking with [
 
 ## Connections
 
-- The Antumbra plot directly targets the [[Broyish Empire]]'s [[Starfall]] device, the same machine [[Domyx's Ancestor]] used to break the sky.
+- The Antumbra plot directly targets the [[Broyish Empire]]'s [[Starfall]] device, the same machine [[Emperor Shen]] used to break the sky.
 - The de-petrified priests at the Temple of Sigil provide potential allies in Southport's fight against Mana Sickness.
 - [[Vokunar]]'s training with [[Sigil]] and [[Crone]] parallels his earlier training sessions, with the goddesses pushing him toward greater purpose and conviction.
 - The party's sabotage of [[The League of New Stark]]'s Penumbra supply cuts off a key resource for the Empire, potentially altering the balance of power.

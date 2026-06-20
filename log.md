@@ -152,4 +152,6 @@
 ## [2026-06-19] ingest | session_028/chunk_0000 — Created 2 new entities: Roger Ribbons, Death Spark. Updated: Red Caesar, Domyx, Kerben, Ceril, Vokunar, Zulu, The Carrot Cake, Hole Shebang, City Hole, Tatzelwurm Gizzard Juice. Wrote session summary, updated timeline and entities.md.
 ## [2026-06-19] ingest | session_028/chunk_0001 — Created 3 new entities: Mary Andrews, Phase Cat, Smoke Elemental. Updated: Roger Ribbons, Death Spark, Hooksy the Clown Automaton, Magen, Hole Shebang, Domyx, Red Caesar, Kerben, Ceril, Vokunar. Wrote session summary, updated timeline and entities.md.
 ## [2026-06-19] ingest | session_028/chunk_0002 — No new entities. Updated: Mary Andrews, Magic Hat, session summary, timeline. Party defeats final wave, triggers dart trap, heads to Magic Hat.
+## [2026-06-19] lint | Domyx's Ancestor → Emperor Shen — Merged duplicate entity; Domyx's Ancestor was Emperor Shen revealed in session 023. Deleted Domyx's Ancestor.md, consolidated lore into Emperor Shen.md, fixed all wiki links across canon, removed duplicate index entry.
 ## [2026-06-19] lint | session_028 — Fixed Smack a Bodak attribution, rest timing, automata prose, and entity metadata.
+## [2026-06-19] ingest | Populated canon/quests.md and canon/resolved quests.md

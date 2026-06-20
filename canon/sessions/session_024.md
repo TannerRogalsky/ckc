@@ -25,7 +25,7 @@ When the rest of the party returned, [[Domyx]] was the first to discover the emp
 
 While resting aboard [[The Opal]], [[Ceril]] and [[Vokunar]] were drawn into a shared vision of a black expanse with a jet-black sky and smooth silver powder underfoot. At the center stood the [[Starfall]] device — a massive ring of 50-60 feet combining all four elements (earth, water, air, fire) — with [[Aeris]]'s mortal body trapped inside, appearing as a collection of stars pulled from the sky above.
 
-Aeris revealed she had been imprisoned for sixty to eighty years by a man who reached up and touched her — understood to be [[Emperor Shen]] / [[Domyx's Ancestor]]. He captured her and broke her into pieces so no one else could have her power. Her soul flows into the world through the sky, but her physical body ages and weakens in captivity like a mortal. She has been learning mortal magic for fifty years and could barely muster enough power to bring Ceril and Vokunar to her.
+Aeris revealed she had been imprisoned for sixty to eighty years by a man who reached up and touched her — understood to be [[Emperor Shen]] / [[Emperor Shen]]. He captured her and broke her into pieces so no one else could have her power. Her soul flows into the world through the sky, but her physical body ages and weakens in captivity like a mortal. She has been learning mortal magic for fifty years and could barely muster enough power to bring Ceril and Vokunar to her.
 
 Aeris explained that the Starfall generates a fusion of all elements — everything required to rebuild the world in a single stream. When used, it fires a beam of light into the sky, using Aeris's physical form to destroy part of her godhood. [[Penumbra]] pieces serve as additional fuel. She confirmed that repairing the sky will restore her divinity and potentially save her mortal body. She warned the party not to underestimate her captor.
 
@@ -103,7 +103,7 @@ The party climbed from snow into grassy hills with orchards and flowers — the 
 
 [[Domyx]] entered the manor alone while the rest of the party stayed hidden, as elves, dwarves, and aasimar would be endangered among the xenophobic titan folk. [[Vokunar]] cast Locate Object searching for [[Penumbra]] but detected none — the sky appeared intact from this distance.
 
-Inside the manor, Domyx found [[Charlotte]], Ulrich's sister, who warned him against being there. Domyx revealed the truth about [[Domyx's Ancestor]] breaking the sky with [[Starfall]]. [[Lorelei]] emerged from hiding, having overheard everything. She confirmed she was pregnant and that Ulrich was imprisoned in the [[Prison of Frost]], not far away. She begged to flee with Ulrich's child.
+Inside the manor, Domyx found [[Charlotte]], Ulrich's sister, who warned him against being there. Domyx revealed the truth about [[Emperor Shen]] breaking the sky with [[Starfall]]. [[Lorelei]] emerged from hiding, having overheard everything. She confirmed she was pregnant and that Ulrich was imprisoned in the [[Prison of Frost]], not far away. She begged to flee with Ulrich's child.
 
 Meanwhile, [[Ceril]]'s magma owl familiar scouted the area and reported a large cavern with heavy security and food trays being delivered inside — a suspicious location likely corresponding to the Prison of Frost.
 
@@ -127,14 +127,14 @@ This session revealed the full truth behind Theo Harvey's disappearance: Kerben 
 
 Beyond the hydra, the party trekked into the Arctic Plains and defeated the Tatzelwurm — a unique white dragon whose death calmed the region's extreme weather. Kerben crafted a new poison from the dragon's remains. The party followed the dragon's blood-stained river into Titanfolk territory, where a Remorhaz ambushed them and swallowed Domyx. The party destroyed the Remorhaz with radiant magic and extracted Domyx from the corpse.
 
-The party then climbed into the titan homeland proper, reaching Akathia Manor. Domyx confronted his family, learning that Ulrich Fjöler is imprisoned in the Prison of Frost and that Lorelei is pregnant with Ulrich's child. When Domyx refused to forget the truth about Domyx's Ancestor breaking the sky, his father Domyx IV disowned him. Domyx permanently renounced his Akathian name and returned to the party with Lorelei.
+The party then climbed into the titan homeland proper, reaching Akathia Manor. Domyx confronted his family, learning that Ulrich Fjöler is imprisoned in the Prison of Frost and that Lorelei is pregnant with Ulrich's child. When Domyx refused to forget the truth about [[Emperor Shen]] breaking the sky, his father Domyx IV disowned him. Domyx permanently renounced his Akathian name and returned to the party with Lorelei.
 The party then rescued Ulrich Fjöler from the Prison of Frost by dispelling the magical barrier holding him captive. Ulrich and Lorelei joined the party aboard [[The Opal]] as new crew members.
 
 ### Connections
 
 - Theo Harvey's escape (session 023 cliffhanger) is resolved, revealing Kerben as the architect.
 - The Carrot Cake's demi-plane nature and seasonal access window explain why [[The Tyrant]] never returned and why [[Vizier Jade]] wants Penumbra so urgently.
-- Aeris's vision confirms Emperor Shen / [[Domyx's Ancestor]] as both the party's greatest enemy (per [[Sigil]]) and Aeris's captor.
+- Aeris's vision confirms Emperor Shen / [[Emperor Shen]] as both the party's greatest enemy (per [[Sigil]]) and Aeris's captor.
 - Jack Harvey's Penumbra collection ties the pre-Cataclysm era directly to the party's current quest.
 - The Gheister's theft removes one of the party's transport assets and creates a loose end with Theo's whereabouts.
 - [[Shark's Edge]] proves its utility beyond combat as a water-temperature radar, enabling safe ice navigation.
