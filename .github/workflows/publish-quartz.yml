@@ -1,0 +1,92 @@
+name: Publish Quartz site
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout wiki
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node
+        uses: actions/setup-node@v6
+        with:
+          node-version: 24
+
+      - name: Cache npm
+        uses: actions/cache@v5
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-npm-quartz-v5
+          restore-keys: |
+            ${{ runner.os }}-npm-
+
+      - name: Compute Pages base URL
+        id: pages-url
+        shell: bash
+        run: |
+          repo_name="${GITHUB_REPOSITORY#*/}"
+          if [[ "$repo_name" == "${GITHUB_REPOSITORY_OWNER}.github.io" ]]; then
+            echo "base_url=${GITHUB_REPOSITORY_OWNER}.github.io" >> "$GITHUB_OUTPUT"
+          else
+            echo "base_url=${GITHUB_REPOSITORY_OWNER}.github.io/${repo_name}" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Clone Quartz 5
+        run: git clone --depth 1 --branch v5 https://github.com/jackyzha0/quartz.git "$RUNNER_TEMP/quartz"
+
+      - name: Install Quartz dependencies
+        working-directory: ${{ runner.temp }}/quartz
+        run: npm ci
+
+      - name: Import canon into Quartz
+        working-directory: ${{ runner.temp }}/quartz
+        run: |
+          npx quartz create \
+            --template obsidian \
+            --strategy copy \
+            --source "$GITHUB_WORKSPACE/canon" \
+            --baseUrl "${{ steps.pages-url.outputs.base_url }}"
+
+      - name: Configure Quartz site
+        working-directory: ${{ runner.temp }}/quartz
+        env:
+          QUARTZ_BASE_URL: ${{ steps.pages-url.outputs.base_url }}
+          QUARTZ_SITE_TITLE: CKC Canon
+        run: node "$GITHUB_WORKSPACE/.github/quartz/configure-site.mjs"
+
+      - name: Build Quartz site
+        working-directory: ${{ runner.temp }}/quartz
+        run: npx quartz build
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: ${{ runner.temp }}/quartz/public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
