@@ -1,11 +1,11 @@
 # Canon Entities
 
 ## Party Members
-- [[Red Caesar]] — Member of Heaven's Bulb, travels aboard The Opal
-- [[Domyx]] — Domyx Akathian, rage fighter from Clan Akathia who favors kicking doors open
-- [[Kerben]] — Rogue archer with poison resistance and a dinosaur companion
-- [[Ceril]] — Cleric/druid with wild shape and an owl familiar
-- [[Vokunar]] — Young being falling through the sky, trained by goddesses
+- [[Red Caesar]] — Wizard (Abjurer), member of Heaven's Bulb, travels aboard The Opal
+- [[Domyx]] — Barbarian, Domyx Akathian from Clan Akathia who favors kicking doors open
+- [[Kerben]] — Ranger/Rogue (Arcane Trickster), archer with poison resistance and a dinosaur companion
+- [[Ceril]] — Druid with wild shape and an owl familiar
+- [[Vokunar]] — Cleric, young being falling through the sky, trained by goddesses
 
 ## Crew & Allies
 - [[Obould]] — Captain of The Opal, bound by oath to protect Lady Jacinthe
