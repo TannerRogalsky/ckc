@@ -42,7 +42,7 @@ aliases:
   - Serral
 ---
 
-A cleric/druid in the party. Keeps watch outside dungeon entrances. Has an owl familiar named [[Nyquil]]. Wields a shield given by [[Aeris]].
+A druid with a shield given by [[Aeris]] that serves as a conduit to the goddess. A pre-[[Cataclysm]] survivor who fled [[Brimbalin]] alongside [[Vanzia Vinfei]] decades ago, and whose father is the [[Rakshasa]]. Communicates with [[Aeris]] through his shield and was drawn into a shared vision with [[Vokunar]] to witness her imprisoned mortal body at the heart of [[Starfall]]. A balanced utility caster whose toolkit spans scouting, divination, environmental manipulation, summoning, and healing.
 
 ## Identity and Backstory
 

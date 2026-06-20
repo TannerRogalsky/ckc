@@ -52,7 +52,7 @@ related:
   - "[[Cutlass Cray]]"
 ---
 
-Full name: Domyx Akathian. A titan from [[Clan Akathia]] who favors kicking doors open and fighting with rage. Travels aboard [[The Opal]].
+A titan barbarian and former member of [[Clan Akathia]] who touched the sky, earning sky-blue palms that mark him as a blood relative of [[Emperor Shen]]. Renounced his family name after confronting his grandfather's role in breaking the sky and being disowned by his father [[Domyx IV]]. Named as [[The Opal]]'s successor by [[Obould]], but carries the burden of being Shen's grandson — the descendant of the party's greatest enemy. Traveled to the titan homeland, rescued [[Ulrich Fjöler]] from the [[Prison of Frost]], and brought [[Lorelei]] aboard with him.
 
 ## Identity and Backstory
 

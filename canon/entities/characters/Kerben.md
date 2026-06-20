@@ -40,7 +40,7 @@ related:
   - "[[Gilder Savar]]"
 ---
 
-A rogue with a sailor background who speaks Northern (dwarvish). Travels aboard [[The Opal]] and works with [[Raxxy]] on navigation and astrology duties. Has poison resistance, likely from childhood exposure to toxic fumes in the dwarven deep world.
+A ranger/rogue multiclass and the party's primary scout and marksman. Travels aboard [[The Opal]] as navigator and, during [[Obould]]'s captivity, as acting captain. Expert tracker and survivalist who navigated the party through frozen straits, ambushed a [[Tatzelwurm]], and infiltrated [[The White Drake]] to plant [[Antumbra]] among the League's [[Penumbra]] stash. Freed [[Theo Harvey]] in exchange for the location of [[The Carrot Cake]], a project tied to his personal history with [[Jack Harvey]].
 
 ## Identity and Backstory
 

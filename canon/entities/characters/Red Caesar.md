@@ -42,7 +42,7 @@ related:
   - "[[Cutlass Cray]]"
 ---
 
-A member of [[Heaven's Bulb]] who survived [[The Cataclysm]]. Travels aboard [[The Opal]] as part of the party. Awakened by something aboard The Opal. Keeps alarms strewn about the ship and personally investigates any disturbances. Has [[Vizier Jade]]'s secret regarding her visit.
+An abjurer wizard and survivor of [[The Cataclysm]], formerly of [[Heaven's Bulb]]. Travels aboard [[The Opal]] as the party's scientist and moral compass. Driven by curiosity about how the world works, fierce loyalty to his crew — especially [[Obould]] — and a deep conviction that no single person or group should impose their will on the rest of the world. Mastered the synthesis of [[Antumbra]] from [[Akasha]] to sabotage the [[Broyish Empire]]'s [[Starfall]], and has repeatedly stood against plans that sacrifice choice for control, from the [[Demi-Spell]] at [[The Academy]] to [[Boral Erendel]]'s eugenics scheme.
 
 ## Identity and Backstory
 

@@ -57,7 +57,7 @@ related:
   - "[[Cutlass Cray]]"
 ---
 
-A young being trapped in stone for decades, falling through the sky toward [[Stark]].
+A cleric from [[Arcadia]], trained by the goddesses [[Sigil]] and [[Crone]] in the space between worlds. Originally from a citadel in Arcadia 60 years ago, he fell toward [[Stark]] and has spent the intervening decades in divine training. Serves as the party's healer and moral anchor, communicating with the divine through his mantle and scrying. Witnessed [[Emperor Shen]] fire [[Starfall]] at the moon through scrying, and carries Crone's dying command to focus on restoring [[Aeris]].
 
 ## Identity and Backstory
 

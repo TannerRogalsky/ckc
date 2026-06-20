@@ -161,3 +161,4 @@
 ## [2026-06-20] lint | Party members — Added class field to frontmatter: Domyx (Barbarian), Ceril (Druid), Kerben (Ranger), Red Caesar (Wizard), Vokunar (Cleric)
 ## [2026-06-20] lint | entities.md — Updated party member descriptions with class information
 ## [2026-06-20] update | Warg Lord — Added in-combat dialogue quote from session 015
+## [2026-06-20] lint | Party member intros — Rewrote opening paragraphs for Vokunar, Kerben, Domyx, and Ceril to reflect current narrative identity
