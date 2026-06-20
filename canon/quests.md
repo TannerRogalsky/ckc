@@ -1,9 +1,9 @@
 # Active Quests
 
-## Restore Aeris and repair the sky
+## Find and disable Starfall / rescue Aeris
 - **Given by:** [[Sigil]], [[Crone]], [[Aeris]]
-- **Status:** In progress
-- **Details:** [[Aeris]] is imprisoned inside [[Starfall]], her mortal body aging and weakening. [[Crone]] confirmed that restoring Aeris's power will allow her to heal the sky. The party needs enough [[Penumbra]] to give Aeris sufficient strength. Feeding [[Penumbra]] to [[Lyngbakr]] has been raising [[Castle Kaedon]] and shrinking the [[Hole in the Sky]], but the sky remains broken.
+- **Status:** In progress — Starfall location unknown
+- **Details:** [[Aeris]] is imprisoned inside [[Starfall]], her mortal body aging and weakening. [[Crone]] confirmed that restoring Aeris's power will allow her to heal the sky. [[Aeris]] believes Starfall may be located deep underground, perhaps at the center of the world. [[Vokunar]] has scryed on [[Emperor Shen]] loading Penumbra into Starfall and firing it, but could not pinpoint its location. Feeding [[Penumbra]] to [[Lyngbakr]] has been raising [[Castle Kaedon]] and shrinking the [[Hole in the Sky]], but the sky remains broken. The party's [[Antumbra]] planted in the League's supply chain may sabotage Starfall when fed as fuel.
 
 ## Rescue Obould from the Broyish Empire
 - **Given by:** [[Obould]] (implied), [[Lady Jacinthe]]

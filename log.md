@@ -155,3 +155,6 @@
 ## [2026-06-19] lint | Domyx's Ancestor → Emperor Shen — Merged duplicate entity; Domyx's Ancestor was Emperor Shen revealed in session 023. Deleted Domyx's Ancestor.md, consolidated lore into Emperor Shen.md, fixed all wiki links across canon, removed duplicate index entry.
 ## [2026-06-19] lint | session_028 — Fixed Smack a Bodak attribution, rest timing, automata prose, and entity metadata.
 ## [2026-06-19] ingest | Populated canon/quests.md and canon/resolved quests.md
+## [2026-06-20] lint | Updated Akasha.md with confirmed Penumbra synthesis from session 025
+## [2026-06-20] lint | Red Caesar — Added Motivations section: understanding the world, protecting found family, opposition to imposed destiny
+## [2026-06-19] lint | Emperor Shen — Clarified post-godhood vision is unknown; Shen defines himself by destruction not construction

@@ -47,6 +47,16 @@ A member of [[Heaven's Bulb]] who survived [[The Cataclysm]]. Travels aboard [[T
 
 In a flashback at [[Heaven's Bulb]], received [[Para and Bellum]], two copper blades, from [[Master Lee]].
 
+## Motivations
+
+Red Caesar is driven by three core principles:
+
+**1. Understanding how the world works.** Master Lee's pride in Red was specifically that "Red Caesar wants to understand how the world works, even if the knowledge is unbearable." As a member of [[Heaven's Bulb]] — an organization dedicated to making people "capable of inheriting the new world" — Red is a natural scientist. He tests hypotheses (the [[Akasha]] to [[Penumbra]] synthesis theory), experiments (testing electrical arcs in the [[Hole Shebang]]), and builds theories about the world's mechanics.
+
+**2. Protecting his found family.** He is deeply loyal to [[Obould]] — he tried to negotiate for Obould's freedom in the imperial palace, sequestered himself to manufacture fake [[Penumbra]] specifically motivated by his dislike of [[Vizier Jade]] and her cruelty to Obould, and has been the primary driver of the Obould rescue thread. He protected Obould during the hobgoblin boarding of [[The Opal]], and sought out [[Lady Jacinthe]] privately to learn about the Obould/Jacinthe oath.
+
+**3. Opposition to imposed destiny.** Red believes that no single person or group should make existential choices for the entire world. In session 014 at [[The Academy]], he argued against the [[Demi-Spell]]: "It's simply a matter of giving folks the opportunity to decide for themselves. I-I, for one, would not make this choice for the entire world. I'm merely trying to patch up the sky, and then folks can do with that what they will." When [[Lydriel Gondara]] countered that fixing the sky also deprives people of choice, he replied: "You're talking about causing immense harm, possibly, with some also immense good. But it doesn't matter, because you're taking away that choice from so many people. Choice is life." This same principle made him horrified by [[Boral Erendel]]'s eugenics Demi-Spell plan in session 015 — "it took everything in him not to destroy the office" — and his argument at The Academy that the [[Order of Seasons]]' approach "takes away choice from the world's people." Both the Demi-Spell and Boral's plan are about one group deciding what the world should look like for everyone else. Red's opposition to imposed destiny runs deeper than his distrust of any single antagonist — he would oppose the Demi-Spell even without [[Vizier Jade]] or the [[Broyish Empire]]. This is particularly personal for Red as a human in a world dominated by elves and the Empire; he is the "filth" the [[Aeon]] called him — the one who gets left behind in resets and eugenics plans alike.
+
 ## Abilities and Equipment
 
 Can cast: Shocking Grasp, Dispel Magic, Lightning Bolt, Fireball, Misty Step, Resilient Sphere, Shield of Faith, Counterspell, Guiding Bolt, Magic Missile, Mage Armor, Locate Creature, Detect Magic, Identify, Guidance, Control Water, Banishment, and Vampiric Touch. Has the War Caster feat, allowing spell casting on opportunity attacks while in Resilient Sphere. Uses a scimitar for two-weapon fighting. Resilient Sphere creates an impenetrable warding sphere covered in runes identical to those used on [[Heaven's Bulb]]'s stanchions.
@@ -67,13 +77,9 @@ Can cast: Shocking Grasp, Dispel Magic, Lightning Bolt, Fireball, Misty Step, Re
 - Met [[Garsinth Theralal]], an older elf who apologized for his son's prank and gave Red directions to [[Yalet Aurum]].
 - Visited [[Yalet Aurum]]'s monument in the jungle outside Brimbalin. Yalet is a Galeb Duurr with a solid gold body encased in a 40-50 foot stone face. Yalet posed a riddle about his brother [[Yalet Mora]]; Red solved it as "bolder" (bold/rocks pun) and received chunks of gold from Yalet's laughter.
 - Yalet confirmed that [[The Order of Seasons]] is interested in collecting [[Penumbra]] and warned the party to "act faster than an elf."
-- At [[The Academy]], negotiated with [[Keys]] and [[Lydriel Gondara]] about the [[Demi-Spell]] and the party's plan to fix the sky. Argued that the Order's approach takes away choice from the world's people.
+- At [[The Academy]], engaged in a heated philosophical debate with [[Keys]] and [[Lydriel Gondara]] about the [[Demi-Spell]]. Red argued that the Order's approach takes away choice from the world's people: "I'm merely trying to patch up the sky, and then folks can do with that what they will." He countered Lydriel's claim that fixing the sky also deprives people of choice: "You're taking away that choice from so many people. Choice is life." The party negotiated an accord: they would stop collecting new Penumbra, and if their plan failed, they would give all collected Penumbra to the Order.
 - Visited [[House Kiernodel]] with the party. Met [[Risolvir Kirnodell]] and [[Veronia Karadel]].
 - On the first evening sailing from [[Continental Stark]], [[Vizier Jade]] appeared on [[The Opal]]'s deck. She confirmed she has been watching Red and will continue to ensure he survives. Red declined her offer of a restriction scroll, saying his trust in her was bond enough. She cast Teleport Circle and departed, saying she won't appear again until the party arrives in the capital.
-
-## Leveling
-
-**Level 8:** Took ability score improvement to attack bonus. Spell save DC raised to 16, ward to 21. Prepared Control Water and Banishment. Gained access to two additional wizard spells for his spellbook. Considered Fabricate and Phantom Steed as utility options.
 
 ## Session 015
 

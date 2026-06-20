@@ -2,12 +2,14 @@
 type: concept
 subtypes: [lore, cosmology]
 session_introduced: "014"
-sessions_appeared: ["014", "021"]
+sessions_appeared: ["014", "021", "025"]
 related:
   - "[[Arcadia]]"
   - "[[Penumbra]]"
   - "[[Continental Stark]]"
   - "[[Castle Kaedon]]"
+  - "[[Red Caesar]]"
+  - "[[Antumbra]]"
 ---
 
 A silvery-white liquid substance that falls from the sky as periodic rainstorms over [[Continental Stark]]. The DM connects it to the "oceans above" — the liquid said to come from [[Arcadia]] that fell through the [[Hole in the Sky]].
@@ -20,4 +22,6 @@ Akasha is the pure substance of abjuration — the cancellation of magic and ele
 
 In [[Castle Kaedon]], Akasha manifests as a silvery-white mist that fills rooms and coagulates into undead creatures like specters and wraiths. When magic is cast in its presence, the mist drains the caster's life force and reacts to magical energy, similar to how Akasha reacts with [[Vokunar]]'s blade.
 
-A theory emerged that [[Penumbra]] might be the crystallized or most solid form of liquid Akasha — a substance that soaks magic and power from everything to form the sky layer. If Akasha can be distilled, it might be possible to manufacture Penumbra artificially.
+A theory emerged that [[Penumbra]] might be the crystallized or most solid form of liquid Akasha — a substance that soaks magic and power from everything to form the sky layer.
+
+This theory was confirmed in session 025 when [[Red Caesar]] successfully synthesized a small chunk of [[Penumbra]] from Akasha at [[The Academy]] in [[Brimbalin]]. He theorized that Akasha is a less concentrated form of Penumbra and that extreme pressure could transmute it back. Using Otiluke's Resilient Sphere filled with Akasha and an inversion of enlarge/reduce spells, he compressed the sphere to hand-size, generating enormous internal pressure. After compressing an entire lake of collected Akasha roughly a thousand-fold, the process produced a perfect palm-sized sphere of jet-black synthesized Penumbra. The method — dubbed the "Caesarean method" — could produce approximately one sphere every five to ten days once established.
