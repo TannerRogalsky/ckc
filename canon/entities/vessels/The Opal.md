@@ -2,10 +2,34 @@
 type: vessel
 subtypes: [ship]
 session_introduced: "001"
-sessions_appeared: ["013", "015", "016", "024"]
+sessions_appeared: ["013", "015", "016", "024", "025", "026", "027"]
+related:
+  - "[[Obould]]"
+  - "[[Kerben]]"
+  - "[[Red Caesar]]"
+  - "[[Domyx]]"
 ---
 
 The ship on which the party travels. Captained by [[Obould]], a gaudy orc. Navigator [[Raxxy]] and crew member [[Kerben]] handle navigation and astrology. [[Otto]] was later recruited as a carpenter. Equipped with alarm systems set by [[Red Caesar]]. Has a helm that was inspected by [[Vizier Jade]] during her visit. Crew includes both rotating night shifts and permanent duty personnel. Something aboard the ship awoke [[Red Caesar]] early in the campaign. The captain is very friendly with his crew and may have inherited or stolen the ship.
+
+## Crew
+
+| Role | Name | Notes |
+|------|------|-------|
+| Captain | [[Obould]] | Gaudy orc captain; named [[Domyx]] as heir. Captured by the [[Broyish Empire]] in session 021. |
+| Acting Captain | [[Kerben]] | Took command after Obould's departure. Navigator and primary scout. |
+| Navigator / Crow's Nest | [[Raxxy]] | Jack-of-all-trades; works the rigging and handles astrology with Kerben. |
+| Carpenter | [[Otto]] | Boat repairman recruited in [[Cutlass Cray]]. |
+| Master Gunner | [[Trent]] | Cannon specialist. Departed with [[Ebi]] to help cure the [[Mana Sickness]] in [[Southport]]. |
+| Master Gunner | [[Ulrich Fjöler]] | Took over gunner duties after Trent departed. Freed from the [[Prison of Frost]] in session 024. |
+| Cook | [[Mobley]] | Antisocial older crew member. |
+| Healer | [[Ebi]] | Tended the sickbay. Departed with [[Trent]] to help cure the [[Mana Sickness]] in [[Southport]]. |
+| Crew | [[Yalet Mora]] | Stone-bodied Galeb Duurr; can roll in boulder form. |
+| Crew | [[Lorelei]] | [[Domyx]]'s sister; joined after being freed from the titan homeland in session 024. |
+| Janitor | [[Relic Elnavi]] | Uses blink ability to teleport trash and misplaced items. |
+| Named Heir | [[Domyx]] | Named successor to the ship by Obould in session 015. |
+
+Additionally, three unnamed dwarf deckhands were recruited by Obould in session 013, and [[Rochella Golf]] traveled as a temporary passenger/crew member toward [[Southport]].
 
 In session 013, [[The Opal]] received a reinforced laminate deck and hull improvements to carry [[Kilosaurus]] and heavy [[Penumbra]]. [[Obould]] also recruited three additional dwarf deckhands, and the crew began treating [[Lyngbakr Lagoon]] as a potential shore base.
 

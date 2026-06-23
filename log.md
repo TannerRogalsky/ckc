@@ -162,3 +162,5 @@
 ## [2026-06-20] lint | entities.md — Updated party member descriptions with class information
 ## [2026-06-20] update | Warg Lord — Added in-combat dialogue quote from session 015
 ## [2026-06-20] lint | Party member intros — Rewrote opening paragraphs for Vokunar, Kerben, Domyx, and Ceril to reflect current narrative identity
+## [2026-06-21] lint | Red Caesar — Re-evaluated and rewrote introductory paragraph to incorporate character flavor, social dynamics as a human outsider, and specific narrative quirks (steampunk aesthetic, reckless curiosity)
+## [2026-06-21] lint | Red Caesar — Comprehensive re-evaluation of character across all session summaries; rewrote introduction to synthesize academic curiosity, social outsider status, and philosophical drive.

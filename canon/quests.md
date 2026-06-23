@@ -8,7 +8,7 @@
 ## Rescue Obould from the Broyish Empire
 - **Given by:** [[Obould]] (implied), [[Lady Jacinthe]]
 - **Status:** In progress
-- **Details:** [[Obould]] was captured by [[Vizier Jade]] and held prisoner in [[Broy]]. Jade is using him as leverage against [[Lady Jacinthe]], demanding [[Penumbra]] in exchange for his safety. The [[League of New Stark]] has been paying jade penumbra to extend Obould's stay of execution. Jade demanded fifteen pieces of [[Penumbra]] from the party directly.
+- **Details:** [[Obould]] was captured by [[Vizier Jade]] and held prisoner in [[Broy]]. Jade is using him as leverage against [[Lady Jacinthe]], demanding [[Penumbra]] in exchange for his safety. [[The League of New Stark]] has been paying jade penumbra to extend Obould's stay of execution. Jade demanded fifteen pieces of [[Penumbra]] from the party directly.
 
 ## Kill the Tome Keeper
 - **Given by:** [[Rakshasa]]
