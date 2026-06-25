@@ -2,7 +2,7 @@
 type: session
 session: "014"
 chunks: 5
-summary: "Party lands on Continental Stark, defeats Fuchsia Fungus, fights an Aeon, recruits Brim, visits Yalet Aurum, negotiates accord with the Order, meets House Kiernodel, and Vizier Jade reappears."
+summary: "Party lands on Continental Stark, defeats Fuchsia Fungus, fights an Aeon, recruits Brim, visits Yalet Aurum, negotiates accord with the Order, meets House Kiirnodel, and Vizier Jade reappears."
 ---
 
 ## Events
@@ -81,7 +81,7 @@ Yalet posed a riddle: "I can only produce mountains. My brother only produces sm
 
 The party returned to Brimbalin and took a tram to [[The Academy]], [[The Order of Seasons]]' epicenter. They were greeted by [[Stefan Quist]], a human receptionist, and led to [[Keys]] and [[Lydriel Gondara]] — the same tiefling and half-elf who stole [[Penumbra]] from [[Castle Kaedon]].
 
-At the Academy, the party learned extensive details about the [[Demi-Spell]]: it works by going to the far future until everything begins again, recycling all souls and elements. Some places and people will always come back; others won't. The spell is written as volumes upon volumes — an encyclopedia of things that should exist with hexagrams and mathematical structures linking it all. [[Aramil Keirnodel]] is the primary force behind the Demi-Spell's power. Penumbra pieces are used as energy sources to accelerate the spell.
+At the Academy, the party learned extensive details about the [[Demi-Spell]]: it works by going to the far future until everything begins again, recycling all souls and elements. Some places and people will always come back; others won't. The spell is written as volumes upon volumes — an encyclopedia of things that should exist with hexagrams and mathematical structures linking it all. [[Aramil Kiirnodel]] is the primary force behind the Demi-Spell's power. Penumbra pieces are used as energy sources to accelerate the spell.
 
 The Demi-Spell is more powerful than the gods — "the one thing mortals have over them." The gods are almighty but not omnipotent.
 
@@ -93,9 +93,9 @@ The party negotiated an accord: they will stop collecting new Penumbra, and if t
 
 ## Chunk 0004
 
-The party visited [[House Kiernodel]] in Brimbalin at the suggestion of [[Keys]] and [[Lydriel Gondara]]. The estate is beautiful with pink, purple, and blue flowers growing on everything.
+The party visited [[House Kiirnodel]] in Brimbalin at the suggestion of [[Keys]] and [[Lydriel Gondara]]. The estate is beautiful with pink, purple, and blue flowers growing on everything.
 
-[[Ceril]] immediately recognized two faces from his pre-Cataclysm escape flashback: [[Veronia Karadel]], a drow of former House Karadel, and [[Risolvir Kirnodell]], leader of House Kiernodel. They had let Ceril flee years ago.
+[[Ceril]] immediately recognized two faces from his pre-Cataclysm escape flashback: [[Veronia Karadel]], a drow of former House Karadel, and [[Risolvir Kiirnodel]], leader of House Kiirnodel. They had let Ceril flee years ago.
 
 Veronia is "chiefly in command of enacting the demi-spell." She recognized Ceril's future self, saying "your soul survives many worlds unchanged" and predicting he would become a god in the reset world. She is the mother of [[Keys]].
 

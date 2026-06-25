@@ -19,7 +19,7 @@
 - [[Ebi]] — Healer from Southport who briefly served aboard The Opal before returning home with Trent
 - [[Ulrich Fjöler]] — Domyx's friend from Clan Akathia; freed from Prison of Frost, now crew aboard The Opal; father of Lorelei's child
 - [[Yalet Mora]] — Stone-bodied crew member who suggested recruiting a wind creature for The Opal
-- [[Aramil Keirnodel]] — Primary force behind the Demi-Spell's power, former leader of Brimbalin, and painter of The Jewel of Alfheimer
+- [[Aramil Kiirnodel]] — Primary force behind the Demi-Spell's power, former leader of Brimbalin, and painter of The Jewel of Alfheimer
 - [[Mobley]] — The cook aboard The Opal; prepared sedated carrot tea that allowed Theo Harvey's escape
 
 ## NPCs
@@ -60,8 +60,8 @@
 - [[David Harvey]] — Harengon working with The League to reclaim harengon territory
 - [[Theo Harvey]] — Traitor harengon who revealed warren locations to the Broyish Empire
 - [[Jack Harvey]] — Famous Kaedon-era entrepreneur, creator of The Carrot Cake, great uncle of David Harvey
-- [[Veronia Karadel]] — Drow, Keys' mother, chiefly in command of enacting the Demi-Spell from House Kiernodel
-- [[Risolvir Kirnodell]] — Leader of House Kiernodel, warned the party about the Broyish Empire
+- [[Veronia Karadel]] — Drow, Keys' mother, chiefly in command of enacting the Demi-Spell from House Kiirnodel
+- [[Risolvir Kiirnodel]] — Leader of House Kiirnodel, warned the party about the Broyish Empire
 - [[Solar Flare]] — Tall woman with shining light seen by Vokunar 60 years ago
 - [[Deep World Wizard]] — Mage in [[Darvinblast]] allied with an [[Etten]] champion
 - [[Queen Caeradwyn]] — Former elven queen whose death preceded elven uprisings and the Cataclysm
@@ -207,7 +207,7 @@
 - [[Steelfend Clan]] — Dwarf clan; Gammix and Tammix joined the party
 - [[Far Helm Clan]] — Dwarf clan with hidden treasure cavern
 - [[Clan Akathia]] — Domyx's titan clan, hiding records of a previous sky-toucher; ruled by [[Domyx IV]]
-- [[House Kiernodel]] — Elven aristocratic house encountered in Ceril's escape flashback
+- [[House Kiirnodel]] — Elven aristocratic house encountered in Ceril's escape flashback
 - [[The League of New Stark]] — Maritime organization led by Lady Jacinthe
 - [[The Order of Seasons]] — Organization mostly of elves, seeks Genesis Mundi
 - [[Broyish Empire]] — Xenophobic eastern empire ruled by Emperor Shen
@@ -230,7 +230,7 @@
 - [[Vivarian Zodex]] — Kerben's animal-protecting magical breastplate
 - [[Beryzoz's Teeth]] — Red Caesar's necrotic-resistance ring that can speak with the dead
 - [[Touching the Sky]] — Titan rite with cosmic implications for Domyx and the broken sky
-- [[Teleport Keys]] — Teleport circle encodements granted by House Kiernodel for returning to Brimbalin
+- [[Teleport Keys]] — Teleport circle encodements granted by House Kiirnodel for returning to Brimbalin
 - [[Subpoena Deuces Mercator]] — Reusable scroll that summons the Goblin Traders' ship anywhere at sea
 - [[Wyvern Poison]] — Injury poison crafted from wyvern glands aboard the Goblin Traders' ship
 - [[Lolth's Sting]] — Contact poison from the Goblin Traders that weakens a target's ability to fight
@@ -238,7 +238,7 @@
 - [[Kaedonite Black Ale]] — Uncommon drinkable black ale found in the Castle Kaedon Arena granary
 - [[Tome of Satariel]] — Book kept by the Tome Keeper demon; its destruction would free the Rakshasa from his charge
 - [[Preparation Melf]] — Throwable sticky acid flask crafted from Black Dragon scales
-- [[The Jewel of Alfheimer]] — Rare landscape painting by Aramil Keirnodel depicting pre-Cataclysm Brimbalin
+- [[The Jewel of Alfheimer]] — Rare landscape painting by Aramil Kiirnodel depicting pre-Cataclysm Brimbalin
 - [[Mangonel]] — Siege catapult at Castle Kaedon, originally a celebration device with fireworks
 - [[Starfall]] — Ancient weapon of celestial origin; conjectured to have caused the Cataclysm
 - [[Potion of Soothing Gaze]] — Healing potion that restores 10 HP to drinker and 10 HP to two creatures looked at

@@ -19,4 +19,4 @@ A tiefling who works on actually writing the [[Demi-Spell]] at [[The Academy]]. 
 
 He was previously encountered by [[Ceril]] at [[Castle Kaedon]], where he and [[Lydriel Gondara]] absconded with a piece of [[Penumbra]]. He recognized Ceril when they met at the Academy.
 
-His mother is [[Veronia Karadel]], a drow of former House Karadel who is chiefly in command of enacting the Demi-Spell from [[House Kiernodel]]. Keys and [[Otto]] once hopped on a dragon to try to find her.
+His mother is [[Veronia Karadel]], a drow of former House Karadel who is chiefly in command of enacting the Demi-Spell from [[House Kiirnodel]]. Keys and [[Otto]] once hopped on a dragon to try to find her.

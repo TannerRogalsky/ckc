@@ -26,7 +26,7 @@ related:
   - "[[Yalet Aurum]]"
   - "[[The Academy]]"
   - "[[Vizier Jade]]"
-  - "[[House Kiernodel]]"
+  - "[[House Kiirnodel]]"
   - "[[Yalet Mora]]"
   - "[[The White Drake]]"
   - "[[Lady Jacinthe]]"
@@ -79,7 +79,7 @@ Can cast: Shocking Grasp, Dispel Magic, Lightning Bolt, Fireball, Misty Step, Re
 - Visited [[Yalet Aurum]]'s monument in the jungle outside Brimbalin. Yalet is a Galeb Duurr with a solid gold body encased in a 40-50 foot stone face. Yalet posed a riddle about his brother [[Yalet Mora]]; Red solved it as "bolder" (bold/rocks pun) and received chunks of gold from Yalet's laughter.
 - Yalet confirmed that [[The Order of Seasons]] is interested in collecting [[Penumbra]] and warned the party to "act faster than an elf."
 - At [[The Academy]], engaged in a heated philosophical debate with [[Keys]] and [[Lydriel Gondara]] about the [[Demi-Spell]]. Red argued that the Order's approach takes away choice from the world's people: "I'm merely trying to patch up the sky, and then folks can do with that what they will." He countered Lydriel's claim that fixing the sky also deprives people of choice: "You're taking away that choice from so many people. Choice is life." The party negotiated an accord: they would stop collecting new Penumbra, and if their plan failed, they would give all collected Penumbra to the Order.
-- Visited [[House Kiernodel]] with the party. Met [[Risolvir Kirnodell]] and [[Veronia Karadel]].
+- Visited [[House Kiirnodel]] with the party. Met [[Risolvir Kiirnodel]] and [[Veronia Karadel]].
 - On the first evening sailing from [[Continental Stark]], [[Vizier Jade]] appeared on [[The Opal]]'s deck. She confirmed she has been watching Red and will continue to ensure he survives. Red declined her offer of a restriction scroll, saying his trust in her was bond enough. She cast Teleport Circle and departed, saying she won't appear again until the party arrives in the capital.
 
 ## Session 015
@@ -122,7 +122,7 @@ Red Caesar was given lodging (room 17) and permission to stay as long as they li
 
 Red attempted to steal a portrait of [[Lady Jacinthe]] to aid [[Ceril]]'s scrying. After being refused by a guard, Red created a loud distraction in the lounge, shattering porthole windows and causing a commotion across the ship. While guards rushed toward the noise, [[Ceril]] stole the portrait. Red was apprehended by [[Damien Ouranous]] and tasked with cleaning up the mess. He paid for the broken windows using old Cadenite coins.
 
-After Ceril's successful scrying revealed Jacinthe's secret meeting with [[Vizier Jade]], Red shared the information with the full party. He and Ceril left a message for Damien hidden in the stolen painting, then used a teleport circle to travel to [[Brimbalin]]. There they arrived at [[House Kiernodel]]'s teleport circle, which was enclosed in an Otiluke blast shield. [[Risolvir Kirnodell]] and [[Veronia Karadel]] recognized them. Red reported that [[Boral Erendel]] had gone "off the rails" with wild ideas at [[The Garden]], prompting Risolvir to agree to send someone to check on him. Red then traded [[The Jewel of Alfheimer]] at the [[Elvish Marketplace]] for the [[Boots of the Alvigard]]. He also purchased [[Cloaks of Billowing]] for the entire party.
+After Ceril's successful scrying revealed Jacinthe's secret meeting with [[Vizier Jade]], Red shared the information with the full party. He and Ceril left a message for Damien hidden in the stolen painting, then used a teleport circle to travel to [[Brimbalin]]. There they arrived at [[House Kiirnodel]]'s teleport circle, which was enclosed in an Otiluke blast shield. [[Risolvir Kiirnodel]] and [[Veronia Karadel]] recognized them. Red reported that [[Boral Erendel]] had gone "off the rails" with wild ideas at [[The Garden]], prompting Risolvir to agree to send someone to check on him. Red then traded [[The Jewel of Alfheimer]] at the [[Elvish Marketplace]] for the [[Boots of the Alvigard]]. He also purchased [[Cloaks of Billowing]] for the entire party.
 
 Red and Ceril returned to [[The White Drake]] and debriefed the rest of the party about [[Obould]]'s situation: [[Vizier Jade]] was using him as leverage to pressure Jacinthe into finding [[Penumbra]] for the [[Broyish Empire]], with a one-month deadline.
 

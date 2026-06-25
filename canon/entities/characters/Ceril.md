@@ -6,7 +6,7 @@ session_introduced: "001"
 sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028"]
 related:
   - "[[Vanzia Vinfei]]"
-  - "[[House Kiernodel]]"
+  - "[[House Kiirnodel]]"
   - "[[Aeris]]"
   - "[[Nyquil]]"
   - "[[The Croakborne Carnival]]"
@@ -30,7 +30,7 @@ related:
   - "[[Lydriel Gondara]]"
   - "[[Rakshasa]]"
   - "[[Veronia Karadel]]"
-  - "[[Risolvir Kirnodell]]"
+  - "[[Risolvir Kiirnodel]]"
   - "[[Tome Keeper]]"
   - "[[Tome of Satariel]]"
   - "[[Tome Keeper's Pyramid]]"
@@ -46,7 +46,7 @@ A druid with a shield given by [[Aeris]] that serves as a conduit to the goddess
 
 ## Identity and Backstory
 
-In a flashback to the fall of [[Queen Caeradwyn]], [[Ceril]] fled west from [[Brimbalin]] with [[Vanzia Vinfei]] and other refugees. He alone could see thick east-to-west lines of light in the sky — phenomena that increased before [[The Cataclysm]] and may be connected to the broken sky. During the escape he rejected an overture from [[House Kiernodel]], memorizing the aristocrat who warned that others faster than him were coming.
+In a flashback to the fall of [[Queen Caeradwyn]], [[Ceril]] fled west from [[Brimbalin]] with [[Vanzia Vinfei]] and other refugees. He alone could see thick east-to-west lines of light in the sky — phenomena that increased before [[The Cataclysm]] and may be connected to the broken sky. During the escape he rejected an overture from [[House Kiirnodel]], memorizing the aristocrat who warned that others faster than him were coming.
 
 Served on [[The Croakborne Carnival]] alongside a half-elf woman who later stole the [[Penumbra]]. Recognized the woman as working for [[The Order of Seasons]].
 
@@ -79,7 +79,7 @@ Can cast: Plant Growth, Guiding Bolt, Luminous Arrow, Moonbeam (repositionable a
 - At [[The Academy]], recognized [[Keys]] and [[Lydriel Gondara]] as the same individuals who stole [[Penumbra]] from [[Castle Kaedon]].
 - Negotiated an accord with the Order: the party will stop collecting new Penumbra, and if their plan to fix the sky fails, they will give all collected Penumbra to the Order. In exchange, the Order granted access to teleport circles.
 - Revealed that his father is the [[Rakshasa]], a divine being he visited in a cave for years. Keys and Lydriel were unaware of the Rakshasa's existence.
-- Visited [[House Kiernodel]] and recognized [[Veronia Karadel]] and [[Risolvir Kirnodell]] from his pre-Cataclysm escape flashback. Veronia recognized Ceril's future self, saying his soul survives many worlds unchanged and predicting he would become a god in the reset world.
+- Visited [[House Kiirnodel]] and recognized [[Veronia Karadel]] and [[Risolvir Kiirnodel]] from his pre-Cataclysm escape flashback. Veronia recognized Ceril's future self, saying his soul survives many worlds unchanged and predicting he would become a god in the reset world.
 
 ## Session 015
 
@@ -119,7 +119,7 @@ Red created a loud distraction in the lounge, shattering porthole windows. While
 
 Before scrying, Ceril checked Damien's cape and confirmed it was safe conjuration magic. He then used the portrait, mercury, and brandy for a second scrying attempt. This time, Ceril successfully observed Jacinthe's private room. He discovered that Jacinthe's grief was a ruse — the wine bottles were unopened and lined up neatly. After verifying the coast was clear, Jacinthe wept loudly for anyone listening outside. [[Vizier Jade]] then appeared in the room via illusion magic and delivered a one-month ultimatum: Jacinthe must help the [[Broyish Empire]] find [[Penumbra]] or [[Obould]]'s safety could not be guaranteed.
 
-After the scrying, Ceril shared all the information with [[Red Caesar]] and the full party. He wrote a message to Damien about the truth of the situation and hid it inside the stolen painting. He then traveled with Red through a teleport circle to [[Brimbalin]], arriving at [[House Kiernodel]]'s courtyard. At the [[Elvish Marketplace]], Ceril acquired the [[Branch of the Itinerant]], a spellcasting wand that also blooms flowers along a drawn path.
+After the scrying, Ceril shared all the information with [[Red Caesar]] and the full party. He wrote a message to Damien about the truth of the situation and hid it inside the stolen painting. He then traveled with Red through a teleport circle to [[Brimbalin]], arriving at [[House Kiirnodel]]'s courtyard. At the [[Elvish Marketplace]], Ceril acquired the [[Branch of the Itinerant]], a spellcasting wand that also blooms flowers along a drawn path.
 
 The party reconvened aboard [[The Opal]] and learned of a new quest from [[David Harvey]]: retrieve the traitor [[Theo Harvey]] from imperial-occupied territory.
 
