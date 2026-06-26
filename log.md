@@ -176,3 +176,4 @@
 ## [2026-06-26] lint | Kerben — Added aliases Curbin, Kervin, Kurban from transcript misspelling search
 ## [2026-06-26] lint | Kerben — Expanded entity with new aliases, surname Graphene, first mate role, poison expertise, Faraday/40 Carats backstory, Assassin archetype, missing sessions 011-017-021-023
 ## [2026-06-26] lint | Broken links — Fixed [[Cataclysm]] → [[The Cataclysm]] in Ceril.md, [[Order of Seasons]] → [[The Order of Seasons]] in Red Caesar.md, [[40 Carats]] → [[The Carrot Cake]] in Kerben.md, created Faraday entity
+## [2026-06-26] lint | Jack Harvey, The Carrot Cake — Added bunker/gate details, Speak with Dead discovery context to both entities

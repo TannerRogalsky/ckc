@@ -21,9 +21,9 @@ related:
 
 A massive amusement park from old [[Kaedon]] that spanned multiple mountaintops through the use of great magic. It could transport visitors from one place in the world to another, allowing them to see everything from elevated peaks. The main travel destination was a tall peak to the north of [[Castle Kaedon]] but south of the elven lands.
 
-It was set up by a figure named Jack Harvey as part of his business expansion during Kaedon's prosperous era. Visiting the Carrot Cake was a luxury — families spent significant wealth on the experience. The park never fully came to pass for some visitors, as [[The Cataclysm]] interrupted travel plans.
+It was set up by [[Jack Harvey]] as part of his business expansion during Kaedon's prosperous era. Visiting the Carrot Cake was a luxury — families spent significant wealth on the experience. Before [[The Cataclysm]], Jack had been converting the amusement park into a bunker, securing things from the old world behind a giant gate.
 
-Discovery of tickets for the event on a dead noble corpse in session 018 provided the party with its first information. The location is plotted roughly in the dead center of the campaign map.
+The party first learned of the Carrot Cake in session 018 when a dead noble corpse at [[Castle Kaedon]] was found carrying tickets for the park. [[Red Caesar]] used Speak with Dead on the corpse, which revealed that the amusement park spanned multiple mountaintops through great magic, could transport visitors across the world, and that the main destination was a tall peak north of Castle Kaedon but south of the elven lands. The noblewoman had been intending to attend, but [[The Cataclysm]] prevented her journey. The location is plotted roughly in the dead center of the campaign map.
 
 In session 022, [[David Harvey]] revealed that [[Jack Harvey]] was his relative. Later, [[Theo Harvey]] claimed that Jack Harvey's final project — [[The Carrot Cake]] — is "alive and well," implying that the amusement park or its magical legacy still persists somewhere in the world.
 

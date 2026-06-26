@@ -16,7 +16,9 @@ A famous entrepreneur from old [[Kaedon]] who created [[The Carrot Cake]], a mas
 
 ## Plot Events
 
-He was first mentioned in session 018 when a dead noble corpse at [[Castle Kaedon]] was found carrying tickets for The Carrot Cake.
+He was first mentioned in session 018 when a dead noble corpse at [[Castle Kaedon]] was found carrying tickets for The Carrot Cake. [[Red Caesar]] used Speak with Dead on the corpse, which revealed that the amusement park spanned multiple mountaintops through great magic, could transport visitors across the world, and that the main destination was a tall peak north of Castle Kaedon but south of the elven lands. The noblewoman had been intending to attend, but [[The Cataclysm]] prevented it.
+
+Jack Harvey was converting the amusement park into a bunker before the Cataclysm, securing things from the old world — including the broken sky — behind a giant gate.
 
 In session 022, [[David Harvey]] revealed that Jack Harvey was his great uncle. David said Jack was famous for all the projects he was going to take on, though David himself never followed in his footsteps. [[Theo Harvey]] — a traitor Harengon — also apparently wanted to live his life like Jack Harvey did, creating his own "empire of glitz and glamour."
 
