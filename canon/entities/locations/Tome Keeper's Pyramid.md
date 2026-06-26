@@ -15,4 +15,4 @@ A pyramid-shaped temple constructed in the eastern waters of the ocean, approxim
 
 ## Plot Events
 
-In session 023, [[Ceril]]'s Commune with Nature revealed the pyramid's existence and location. [[Vokunar]]'s Legend Lore confirmed that the temple's interior mirrors its state in hell and likely contains traps and treacheries set by the Tome Keeper. The party chose not to attack the pyramid immediately, opting instead to press on toward [[Broy]] to rescue [[Obould]] first, with the intention of returning later.
+In session 023, [[Ceril]]'s Commune with Nature revealed the pyramid's existence and location. [[Vokenar]]'s Legend Lore confirmed that the temple's interior mirrors its state in hell and likely contains traps and treacheries set by the Tome Keeper. The party chose not to attack the pyramid immediately, opting instead to press on toward [[Broy]] to rescue [[Obould]] first, with the intention of returning later.

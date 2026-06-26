@@ -12,4 +12,4 @@ A large toad-like monster, mostly orange in color, with bull horns atop its head
 
 The Hezru has an aura of stench surrounding it that poisons creatures who start their turn within range, imposing disadvantage on attack rolls. It has thick leathery hide with high armor class and can make large leaping jumps to reposition across the battlefield. It does not react to pain and has magic resistance like other fiends.
 
-One was encountered in a long stained-glass hallway within [[Castle Kaedon]], appearing through a door from the north alongside two [[Bearded Devil]]s, all overseen by an invisible [[Nalfeshne]]. The party defeated it through combined attacks — [[Kerben]] shredded it with dual blades, [[Zulu]] clawed at it, and [[Vokunar]] delivered the final blow with his Akasha blade.
+One was encountered in a long stained-glass hallway within [[Castle Kaedon]], appearing through a door from the north alongside two [[Bearded Devil]]s, all overseen by an invisible [[Nalfeshne]]. The party defeated it through combined attacks — [[Kerben]] shredded it with dual blades, [[Zulu]] clawed at it, and [[Vokenar]] delivered the final blow with his Akasha blade.

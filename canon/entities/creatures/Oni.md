@@ -14,6 +14,6 @@ They serve as both combat enforcers and surveillance sentries. Some oni are invi
 
 ## Plot Events
 
-In session 023, the party first encountered oni surrounding a human and tiefling on slick stone near the coast of [[Broy]]. [[Vokunar]] intervened to protect the two civilians. The party defeated the oni in combat; the oni regenerated but were overwhelmed and ultimately disintegrated into soot and smoke.
+In session 023, the party first encountered oni surrounding a human and tiefling on slick stone near the coast of [[Broy]]. [[Vokenar]] intervened to protect the two civilians. The party defeated the oni in combat; the oni regenerated but were overwhelmed and ultimately disintegrated into soot and smoke.
 
 Later, the party learned through [[Naomi]] that they had automated warrants issued by the oni for immediate arrest. The party paid Naomi to clear these warrants with 10 pounds of mithril.

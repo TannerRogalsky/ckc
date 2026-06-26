@@ -9,7 +9,7 @@ summary: "Party destroys the Nalfeshne, feeds Penumbra to Lyngbakr who rises and
 
 ### Chunk 0000
 
-The party enters a flooded guest room in [[Castle Kaedon]]. Through a collapsed ceiling, [[Vokunar]] discovers [[Sunspite]]'s severed head — the one he chopped off in their earlier fight — crushed under rubble and overgrown with roses. [[Vokunar]] also finds [[Lady Acelia's Chalice]], an expertly carved oak chalice set with jade insets. [[Red Caesar]] identifies [[Lady Acelia]] as the younger sister of [[Alamar]] and youngest daughter of the Rodgard family, the last child born before their father [[King Maniasis]] succumbed to madness. After the crown was abdicated, Acelia reportedly traveled north to pursue peace efforts with the dwarves, and likely perished in [[The Cataclysm]].
+The party enters a flooded guest room in [[Castle Kaedon]]. Through a collapsed ceiling, [[Vokenar]] discovers [[Sunspite]]'s severed head — the one he chopped off in their earlier fight — crushed under rubble and overgrown with roses. [[Vokenar]] also finds [[Lady Acelia's Chalice]], an expertly carved oak chalice set with jade insets. [[Red Caesar]] identifies [[Lady Acelia]] as the younger sister of [[Alamar]] and youngest daughter of the Rodgard family, the last child born before their father [[King Maniasis]] succumbed to madness. After the crown was abdicated, Acelia reportedly traveled north to pursue peace efforts with the dwarves, and likely perished in [[The Cataclysm]].
 
 [[Red Caesar]] uncovers bars of mithril hidden beneath floorboards — someone's attempt to hide trade goods for a potential escape to elf territory — along with gilded puzzle toys that may have belonged to [[Alamar]] himself. The party also finds a [[Potion of Eels]] and a [[Potion of Clairvoyance]], both inventions of [[Lenth the Rugged]].
 
@@ -27,7 +27,7 @@ The party descends through the ceiling hole on ropes into a proper throne room. 
 
 The Nalfeshne appears as a boar-headed demon with extra tusks and horns growing outward in every direction like plant overgrowth, beady red eyes, a fur-covered muscular chest, and a wreath of smoky blue energy. It speaks Heavenly and taunts the party, saying it will "return this beautiful palace to Hell, where it belongs."
 
-The party capitalizes on the surprise ambush, descending around the Nalfeshne before it can prepare. [[Domyx]] holds the demon's attention while [[Kerben]], [[Zulu]], [[Ceril]], [[Vokunar]], and [[Red Caesar]] pressure it from multiple angles. The Nalfeshne's fear and psychic assault fail against the party's protections. [[Ceril]]'s summoned bestial spirit crab delivers the killing blow, charging up the stairs, clamping its pincers around the Nalfeshne's neck, and causing the demon to dissipate in a puff of blue smoke.
+The party capitalizes on the surprise ambush, descending around the Nalfeshne before it can prepare. [[Domyx]] holds the demon's attention while [[Kerben]], [[Zulu]], [[Ceril]], [[Vokenar]], and [[Red Caesar]] pressure it from multiple angles. The Nalfeshne's fear and psychic assault fail against the party's protections. [[Ceril]]'s summoned bestial spirit crab delivers the killing blow, charging up the stairs, clamping its pincers around the Nalfeshne's neck, and causing the demon to dissipate in a puff of blue smoke.
 
 After the fight, the party loots the throne room. The Nalfeshne's remains include a black periapt fashioned in Hell and set with sardonyx gems — a rare art object of otherworldly design. The throne itself holds a ruby and a sapphire set into the armrests. The party recovers the large [[Penumbra]] chunk, which has a blocky, fractal-like structure — multiple triangular fragments fused together.
 
@@ -47,7 +47,7 @@ The party returns to [[Lyngbakr Lagoon]] aboard the [[Gheister]]. [[Raxxy]] repo
 
 The party divides treasure from the castle, including mithril bars, gems (citrine, sapphire, amethyst, rubellite), art objects, equestrian manuals, fireworks, Darkwood Bark, and [[Lady Acelia's Chalice]]. A mangonel is mounted on [[The Opal]].
 
-[[Vokunar]] scries on Obould, finding him far inland in the mountains of the [[Broyish Empire]], in manacles, being led up stone stairs through angular archways by armed humans in white and gold. Leading them is a woman with black hair in a flowing dress. [[Red Caesar]] identifies her as [[Vizier Jade]] and the location as Broy. Jade casts See Invisibility to search for the scrying sensor, then dispels the spell entirely. Obould actively resisted being seen.
+[[Vokenar]] scries on Obould, finding him far inland in the mountains of the [[Broyish Empire]], in manacles, being led up stone stairs through angular archways by armed humans in white and gold. Leading them is a woman with black hair in a flowing dress. [[Red Caesar]] identifies her as [[Vizier Jade]] and the location as Broy. Jade casts See Invisibility to search for the scrying sensor, then dispels the spell entirely. Obould actively resisted being seen.
 
 [[Red Caesar]] explains that Obould swore an oath to die in [[Lady Jacinthe]]'s place should she come to harm. He insists the party must rescue their captain.
 
@@ -76,5 +76,5 @@ The party explored [[Castle Kaedon]]'s flooded halls, discovering [[Sunspite]]'s
 - The "second sea" of [[Akasha]] beneath the ocean opens a new resource — Lyngbakr can collect Akasha for the party, supporting the theory that Penumbra is crystallized Akasha.
 - [[Aeris]]'s terse communication style (glowing/fading only) suggests she is strained or distant, possibly connected to the sky's damage.
 - [[Obould]]'s capture by [[Vizier Jade]] in the [[Broyish Empire]] creates an urgent rescue quest and confirms Jade is actively working against the party's interests.
-- The conjecture that [[Starfall]] caused [[The Cataclysm]] ties together multiple witness accounts (Ceril, Vokunar, Castle Kaedon dead) and points the party toward the east and the Empire.
+- The conjecture that [[Starfall]] caused [[The Cataclysm]] ties together multiple witness accounts (Ceril, Vokenar, Castle Kaedon dead) and points the party toward the east and the Empire.
 - The party's discussion of routes through [[The White Drake]], [[The Pit]], and the [[Broyish Empire]] sets up the next major travel arc.

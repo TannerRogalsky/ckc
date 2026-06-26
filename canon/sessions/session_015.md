@@ -19,7 +19,7 @@ summary: "Kerben trades with goblins, the party captures The Hideous Truth, lear
 - At [[The Garden]], [[Theotropa]] offers the party a drained [[Penumbra]] chunk if they destroy the [[Storm Phoenix]].
 - [[Domyx]] and [[Ceril]] meet the [[Rakshasa]], who asks the party to kill the [[Tome Keeper]] and deal with the [[Tome of Satariel]].
 - [[Red Caesar]] and [[Ceril]] discover [[Boral Erendel]]'s plan to use the [[Demi-Spell]] to reincarnate all spirits into high elf bodies.
-- [[Vokunar]] summons [[Crone]], who reveals [[Aeris]] can heal the sky if given enough power and warns that the elves will not abandon the Demi-Spell.
+- [[Vokenar]] summons [[Crone]], who reveals [[Aeris]] can heal the sky if given enough power and warns that the elves will not abandon the Demi-Spell.
 - The party destroys the [[Storm Phoenix]], returning lightning to the heavens.
 - [[Theotropa]] gives the party the drained [[Penumbra]] and warns that a [[Broyish Empire]] scout searched for it while they were gone.
 - [[Kerben]] traces the general direction of [[Southport]] from druid supply routes.
@@ -40,9 +40,9 @@ The second vessel appears adrift. Below decks, the party finds the [[Warg Lord]]
 
 The party sails to [[The Garden]], now busier and more organized as a druid supply hub for nearby settlements. [[Domyx]] and [[Ceril]] meet the [[Rakshasa]] in the inner sanctum. The Rakshasa recognizes Domyx's Akathian heritage and reacts emotionally when Ceril says he came on behalf of the Rakshasa's son. He explains that he is trapped by a duty to hunt escaped demons and asks the party to find and kill the [[Tome Keeper]], who keeps the [[Tome of Satariel]] and can track him if he leaves hiding.
 
-[[Kerben]] investigates the Garden's supply routes while [[Vokunar]] finds a drained [[Penumbra]] chunk in [[Theotropa]]'s possession. Theotropa agrees to give it to the party if they destroy the [[Storm Phoenix]], an elemental being driven mad by [[The Cataclysm]]. Meanwhile, [[Red Caesar]] and [[Ceril]] visit [[Boral Erendel]], who reveals a plan to use the [[Demi-Spell]] to reincarnate all spirits into high elf bodies. Red and Ceril are horrified by the plan and its implications.
+[[Kerben]] investigates the Garden's supply routes while [[Vokenar]] finds a drained [[Penumbra]] chunk in [[Theotropa]]'s possession. Theotropa agrees to give it to the party if they destroy the [[Storm Phoenix]], an elemental being driven mad by [[The Cataclysm]]. Meanwhile, [[Red Caesar]] and [[Ceril]] visit [[Boral Erendel]], who reveals a plan to use the [[Demi-Spell]] to reincarnate all spirits into high elf bodies. Red and Ceril are horrified by the plan and its implications.
 
-That night, [[Vokunar]] summons [[Crone]] under the full moon. Crone appears exhausted and blood-soaked. She confirms there is still time to stop the [[Demi-Spell]], but warns that death is the greater danger. She reveals that [[Aeris]] can heal the sky herself if given enough power; the party does not need every [[Penumbra]] piece, only enough to restore Aeris's strength. Crone also warns that the elves will not abandon the Demi-Spell even if the sky is repaired.
+That night, [[Vokenar]] summons [[Crone]] under the full moon. Crone appears exhausted and blood-soaked. She confirms there is still time to stop the [[Demi-Spell]], but warns that death is the greater danger. She reveals that [[Aeris]] can heal the sky herself if given enough power; the party does not need every [[Penumbra]] piece, only enough to restore Aeris's strength. Crone also warns that the elves will not abandon the Demi-Spell even if the sky is repaired.
 
 The party hunts the [[Storm Phoenix]] south of the Garden. [[Ceril]] locates it through Commune with Nature, and the party destroys it aboard [[The Opal]]. Its amber core is thrown into the sea, becoming a lightning bolt that returns lightning to the heavens. When the party returns, [[Theotropa]] confirms storms have returned to the region and gives them the drained [[Penumbra]]. She also warns that a [[Broyish Empire]] scout searched for the Penumbra while the party was gone.
 

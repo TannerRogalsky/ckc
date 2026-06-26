@@ -24,7 +24,7 @@ A [[Harengon]] traitor who betrayed his people by revealing the location of thei
 
 In session 022, [[David Harvey]] explained that Theo Harvey told imperial forces where the Harengon's old den was located, allowing imperial humans to move in on the island above the warrens. Theo was motivated by power within the Empire, money, and pleasure. He apparently modeled his ambitions after his relative [[Jack Harvey]], the creator of [[The Carrot Cake]], initially seeing himself as a traveling minstrel before going down the "dark path of piracy."
 
-The party traveled to the island north of the elven lands where Theo was stationed with imperial scouts and marshals. The imperial forces ambushed the party from invisibility. After a battle, [[Red Caesar]] trapped Theo and the party captured him alive. The remaining imperial forces attempted to flee by longboat but were stopped by [[Ceril]] and [[Vokunar]], killing most of them.
+The party traveled to the island north of the elven lands where Theo was stationed with imperial scouts and marshals. The imperial forces ambushed the party from invisibility. After a battle, [[Red Caesar]] trapped Theo and the party captured him alive. The remaining imperial forces attempted to flee by longboat but were stopped by [[Ceril]] and [[Vokenar]], killing most of them.
 
 While captive, Theo revealed that the [[Broyish Empire]] has a significant military presence in the region. He claimed that [[David Harvey]]'s plan to move the Harengon into the underground warrens was doomed since the waters keep rising. He also revealed that [[Jack Harvey]]'s final project — [[The Carrot Cake]] — is "alive and well," implying the amusement park or its legacy still exists somewhere.
 
@@ -38,7 +38,7 @@ During the voyage to [[Broy]], Theo approached [[Domyx]] during his guard duty a
 
 Theo revealed significant information about [[The Carrot Cake]]: it was powered by [[Penumbra]] before the sky broke, and it is a massive maze of illusions and arcane traps. [[Vizier Jade]] had sent her companion [[The Tyrant]] to find the Carrot Cake, and the Tyrant never returned. Theo noted that if one wound up inside the Carrot Cake, one would not come back either. He implied the Empire wanted this information and that executing him was merely a display of force.
 
-After the party returned to [[The Opal]] following their audience at the imperial palace, [[Vokunar]] checked on Theo during his night watch. Theo was gone from his cage in the brig — vanished without explanation. The party did not know when or how he escaped.
+After the party returned to [[The Opal]] following their audience at the imperial palace, [[Vokenar]] checked on Theo during his night watch. Theo was gone from his cage in the brig — vanished without explanation. The party did not know when or how he escaped.
 
 ## Session 024
 

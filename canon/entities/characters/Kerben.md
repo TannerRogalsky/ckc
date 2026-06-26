@@ -102,7 +102,7 @@ In a later encounter in the same hallway, Kerben shredded the [[Hezru]] with dua
 
 ## Session 022
 
-Kerben sailed aboard [[The Opal]] to [[The Pit]] with [[Domyx]] and [[Vokunar]], piloting the ship and keeping distance from the Gheister (which Kerben had previously stolen). At the marketplace, Kerben waited while the others shopped for weapons and armor. The party purchased ship upgrades including a bulbous bow for better terrain navigation and hardened sails for improved speed.
+Kerben sailed aboard [[The Opal]] to [[The Pit]] with [[Domyx]] and [[Vokenar]], piloting the ship and keeping distance from the Gheister (which Kerben had previously stolen). At the marketplace, Kerben waited while the others shopped for weapons and armor. The party purchased ship upgrades including a bulbous bow for better terrain navigation and hardened sails for improved speed.
 
 The party received a quest from [[David Harvey]] to capture [[Theo Harvey]], a traitor Harengon working for the [[Broyish Empire]]. The party sailed to the [[Harengon Warrens]] island and was ambushed by invisible imperial scouts and marshals alongside Theo. Kerben helped fight through the ambush on the island surface. The party skipped [[Cutlass Cray]] and continued east toward the [[Broyish Empire]] with Theo as prisoner.
 
@@ -124,7 +124,7 @@ After the hydra was defeated, the party trekked into the Arctic Plains near [[Th
 
 After the fight, Kerben searched the area and determined the dragon did not keep a traditional horde. He used the dragon's scales and darkwood bark to craft [[Tatzelwurm Gizzard Juice]], a one-use white dragon poison. The dragon's blood stained a nearby river red, providing a visible landmark for the party's path forward into Titanfolk territory.
 
-When a [[Remorhaz]] ambushed the party, Kerben fought from within [[Vokunar]]'s Wall of Radiance alongside [[Domyx]]. After Domyx was swallowed, Kerben fired into the Remorhaz's side, punching a hole that let light reach Domyx inside. After [[Vokunar]]'s radiant magic destroyed the beast, Kerben used his survival knowledge to cut into the creature's underbelly and extract Domyx's unconscious body. He harvested the Remorhaz's heat gland while it was still warm, providing warmth for the rest of the mountain climb. When [[Domyx]] split from the group to enter [[Akathia Manor]], Kerben stayed hidden at a distance with the rest of the party, remaining stealthy among the xenophobic titan folk.
+When a [[Remorhaz]] ambushed the party, Kerben fought from within [[Vokenar]]'s Wall of Radiance alongside [[Domyx]]. After Domyx was swallowed, Kerben fired into the Remorhaz's side, punching a hole that let light reach Domyx inside. After [[Vokenar]]'s radiant magic destroyed the beast, Kerben used his survival knowledge to cut into the creature's underbelly and extract Domyx's unconscious body. He harvested the Remorhaz's heat gland while it was still warm, providing warmth for the rest of the mountain climb. When [[Domyx]] split from the group to enter [[Akathia Manor]], Kerben stayed hidden at a distance with the rest of the party, remaining stealthy among the xenophobic titan folk.
 
 ## Session 027
 

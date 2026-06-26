@@ -5,7 +5,7 @@
 - [[Domyx]] — Barbarian, Domyx Akathian from Clan Akathia who favors kicking doors open
 - [[Kerben]] — Ranger/Rogue (Arcane Trickster), archer with poison resistance and a dinosaur companion
 - [[Ceril]] — Druid with wild shape and an owl familiar
-- [[Vokunar]] — Cleric, young being falling through the sky, trained by goddesses
+- [[Vokenar]] — Cleric, young being falling through the sky, trained by goddesses
 
 ## Crew & Allies
 - [[Obould]] — Captain of The Opal, bound by oath to protect Lady Jacinthe
@@ -47,7 +47,7 @@
 - [[Beryzoz Helmscar]] — Gnomish armor forger in The Pit
 - [[Alamar]] — Person placed in magical coma by Vlerro, bound to Castle Kaedon
 - [[Vlerro]] — Placed Alamar in a magical coma (Sequestered)
-- [[Gossa]] — Aasimar mentor to Vokunar from Academia Lux, now working in the Elvish Marketplace in Brimbalin
+- [[Gossa]] — Aasimar mentor to Vokenar from Academia Lux, now working in the Elvish Marketplace in Brimbalin
 - [[Osiris Dims]] — Aasimar born in Brimbalin 45 years ago, revealed details about the Demi-Spell
 - [[Marshal Zem]] — Tiefling marshal of the Knights of the Four Seasons
 - [[Lysanderol Nokirna]] — Elf mithril smith in the Elvish Marketplace
@@ -62,7 +62,7 @@
 - [[Jack Harvey]] — Famous Kaedon-era entrepreneur, creator of The Carrot Cake, great uncle of David Harvey
 - [[Veronia Karadel]] — Drow, Keys' mother, chiefly in command of enacting the Demi-Spell from House Kiirnodel
 - [[Risolvir Kiirnodel]] — Leader of House Kiirnodel, warned the party about the Broyish Empire
-- [[Solar Flare]] — Tall woman with shining light seen by Vokunar 60 years ago
+- [[Solar Flare]] — Tall woman with shining light seen by Vokenar 60 years ago
 - [[Deep World Wizard]] — Mage in [[Darvinblast]] allied with an [[Etten]] champion
 - [[Queen Caeradwyn]] — Former elven queen whose death preceded elven uprisings and the Cataclysm
 - [[Vanzia Vinfei]] — High elf paladin revolutionary who escaped Brimbalin with Ceril; now operating in the Broyish Capital alongside Naomi
@@ -112,7 +112,7 @@
 - [[Fire Giant]] — Flame-engulfed giant encountered in Darvinblast, allied with dwarvish anti-sky deities
 - [[Grotusqu]] — Non-magical giant squid that Lady Jacinthe asked the party to hunt
 - [[Fuchsia Fungus]] — Purple fungal mound creature in the bogs of Continental Stark that assimilates victims
-- [[Aeon]] — Githzerai creature from beyond Stark, green-skinned with psionic powers. Escaped after offering a star gem to Vokunar
+- [[Aeon]] — Githzerai creature from beyond Stark, green-skinned with psionic powers. Escaped after offering a star gem to Vokenar
 - [[Warg Lord]] — Massive fey beast with a bear-wolf body and goblin face, captain of the hobgoblin pirate ship The Hideous Truth
 - [[Tome Keeper]] — Demon who keeps the Tome of Satariel; can track the Rakshasa and summon other escaped demons
 - [[Storm Phoenix]] — Elemental being of pure power, once a gem of amber, driven mad by the Cataclysm. Destroyed by the party in session 015
@@ -144,7 +144,7 @@
 
 ## Locations
 - [[Continental Stark]] — Massive elfish continent, last remnant of the Old World, home to Brimbalin
-- [[Arcadia]] — Realm above Stark, origin of Vokunar and Lyngbakr
+- [[Arcadia]] — Realm above Stark, origin of Vokenar and Lyngbakr
 - [[The Opal]] — The party's ship
 - [[Gheister]] — Second ship in Obould's fleet, used as the party's transport to Lyngbakr Lagoon and Castle Kaedon
 - [[The White Drake]] — Main ship of The League of New Stark
@@ -158,8 +158,8 @@
 - [[Brimbalin]] — Magic city on Continental Stark, seat of The Order of Seasons, connected to 11 towns by rail
 - [[Elvish Marketplace]] — Marketplace in Brimbalin where elves sell magical goods
 - [[The Academy]] — Epicenter of The Order of Seasons' activity in Brimbalin
-- [[Academia Lux]] — School in Arcadia where Vokunar was taught
-- [[Stark]] — Destination of Vokunar's fall
+- [[Academia Lux]] — School in Arcadia where Vokenar was taught
+- [[Stark]] — Destination of Vokenar's fall
 - [[The Pit]] — Dwarvish settlement, seat of Figma Brickfinger's Union
 - [[The Palace of the Pit]] — Seat of power in The Pit
 - [[The Deepworlders Delve]] — Home of the Duergar in The Pit
@@ -247,7 +247,7 @@
 - [[Potion of Eels]] — Potion containing swirling black eels that greatly enhances agility for a limited time
 - [[Potion of Clairvoyance]] — Potion granting clairvoyant sight or hearing from a distant location for a limited time
 - [[Gith Shard Glaive]] — Halberd with extended-range psychic cleave, crafted by Sigrid Forgewelt from a Gith Star Gem
-- [[Sunset's Solace]] — Spell-storing shield for Vokunar
+- [[Sunset's Solace]] — Spell-storing shield for Vokenar
 - [[Boots of the Alvigard]] — Magical boots that quicken Red Caesar
 - [[Branch of the Itinerant]] — Spellcasting wand that blooms flowers along a drawn path, acquired by Ceril
 - [[Cloaks of Billowing]] — Magic cloaks allowing dramatic billowing as a bonus action, purchased for the party
@@ -262,12 +262,12 @@
 - [[Obould's Wedding Band]] — Inscribed wedding ring belonging to Obould, possibly intended for a future betrothal
 - [[The Ascot]] — Magic scarf granting animal communication and animal swap-place, acquired by Kerben
 - [[Wand of Blighting Bolts]] — Blight-based wand acquired by Red Caesar in exchange for his Wand of Lightning Bolts
-- [[Moon Blade]] — Versatile warhammer forged from Crone's remains, traded to Vokunar by the Church of the Thirty Lights
+- [[Moon Blade]] — Versatile warhammer forged from Crone's remains, traded to Vokenar by the Church of the Thirty Lights
 - [[Jack Harvey's Portrait]] — Painting of Jack Harvey recovered from the haunted living tent
 - [[Ranger Scroll]] — Ranger spell scroll found among a dead adventurer's belongings
 
 ## Deities
 - [[Aeris]] — Sister goddess of Chaos, Potential, and Fate (alias: The Sky); wounded sixty years ago by Starfall, now being restored by Penumbra
-- [[Sigil]] — Sister goddess of Life, Energy, and Motion (alias: The Sun); trains Vokunar alongside Crone
+- [[Sigil]] — Sister goddess of Life, Energy, and Motion (alias: The Sun); trains Vokenar alongside Crone
 - [[Crone]] — Sister goddess of Time, Death, and Passage of Things (alias: The Moon); shattered by Starfall in session 026
 - [[Rakshasa]] — Divine being, Ceril's father, encountered at The Garden

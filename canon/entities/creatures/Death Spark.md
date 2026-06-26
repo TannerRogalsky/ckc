@@ -12,4 +12,4 @@ A small lightning-based entity encountered alongside a larger lightning elementa
 
 Like the larger lightning elemental, it appeared to be animated by the electrical system powering the Hole Shebang island.
 
-Additional death sparks appeared after the party flipped the island's breaker switch, sputtering from the dead electrical arcs. They zapped [[Zulu]] and [[Vokunar]] during combat. More death sparks appeared alongside additional enemies in the southern stage area of the island.
+Additional death sparks appeared after the party flipped the island's breaker switch, sputtering from the dead electrical arcs. They zapped [[Zulu]] and [[Vokenar]] during combat. More death sparks appeared alongside additional enemies in the southern stage area of the island.

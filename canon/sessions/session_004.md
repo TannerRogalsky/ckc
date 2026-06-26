@@ -11,7 +11,7 @@ summary: "Party returns to Cutlass Cray, recruits Otto, encounters The Marid at 
 ## Events
 
 - **[[Cutlass Cray]] return:** The party returns to the floating city.
-- **[[The Boardwalks]]:** [[Domyx]] and [[Vokunar]] find [[Otto]] fixing a boat and recruit him to join the crew on the condition they help him find his dwarf friends.
+- **[[The Boardwalks]]:** [[Domyx]] and [[Vokenar]] find [[Otto]] fixing a boat and recruit him to join the crew on the condition they help him find his dwarf friends.
 - **[[The Marid]]:** The Port Authority notes that [[The Brine and Bodak]] has plenty of people looking.
 - **[[Broyish Empire]]:** More information about the xenophobic eastern empire. [[Lady Jacinthe]] is concerned about them.
 - **[[The Order of Seasons]]:** [[Obould]] describes them as "mostly elves, mostly jerks."

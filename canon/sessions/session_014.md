@@ -9,17 +9,17 @@ summary: "Party lands on Continental Stark, defeats Fuchsia Fungus, fights an Ae
 
 - [[Obould]] leaves the party at the coast of [[Continental Stark]] to watch [[The Opal]].
 - The party treks into the dense jungle of [[Continental Stark]] heading toward [[Brimbalin]].
-- [[Vokunar]] casts Locate Object to find overgrown train rails; the party follows them north.
+- [[Vokenar]] casts Locate Object to find overgrown train rails; the party follows them north.
 - [[Domyx]] uses his lodestone greaves to detect buried rails magnetically.
 - [[Ceril]] sends [[Nyquil]] on extended scouting above the canopy.
 - The party is struck by [[Akasha]] rain — a silvery-white liquid that burns them with radiant force.
 - [[Nyquil]] is killed by the Akasha rains; [[Ceril]] consumes the owl's body whole.
 - [[Red Caesar]] casts Leomund's Tiny Hut (steampunk-themed) to shelter the party during the next Akasha storm.
-- [[Vokunar]] collects a sample of Akasha liquid for study.
+- [[Vokenar]] collects a sample of Akasha liquid for study.
 - A giant tyrannosaurus appears; [[Ceril]] casts Dominate Beast and orders it to run north and attack anyone who looks like him.
 - The party encounters fleeing elven scouts and migrants heading away from a bog.
 - The elves warn of a creature devouring migrants in the bog ahead. One elf scout gives the party a hunk of mithril as payment.
-- The party enters the bog; [[Vokunar]] casts Water Walk to traverse the quicksand safely.
+- The party enters the bog; [[Vokenar]] casts Water Walk to traverse the quicksand safely.
 - [[Domyx]] pulls an unconscious migrant from the mud.
 - The [[Fuchsia Fungus]] rises from the bog — a purple mushroom/fungus mound with animal skulls, assimilating its victims. Combat begins.
 
@@ -27,13 +27,13 @@ summary: "Party lands on Continental Stark, defeats Fuchsia Fungus, fights an Ae
 
 The party arrives at the coast of [[Continental Stark]], the massive elfish continent and last remnant of the Old World. [[Obould]] stays behind with [[The Opal]], warning that the jungle interior is treacherous and that the party should try to cross in one day. The elves' scouts had mentioned train rails as the fastest way to reach the inland city of [[Brimbalin]].
 
-Inside the jungle, perpetual fog limits visibility and the terrain is unfamiliar and unforgiving. [[Vokunar]] locates buried train rails and the party follows them northward, with [[Domyx]]'s lodestone greaves providing a magnetic sense for rails hidden underground. [[Ceril]] sends [[Nyquil]] scouting above the canopy for a longer view.
+Inside the jungle, perpetual fog limits visibility and the terrain is unfamiliar and unforgiving. [[Vokenar]] locates buried train rails and the party follows them northward, with [[Domyx]]'s lodestone greaves providing a magnetic sense for rails hidden underground. [[Ceril]] sends [[Nyquil]] scouting above the canopy for a longer view.
 
-The jungle proves deadlier than expected. Periodic storms of [[Akasha]] — a silvery-white liquid from the sky — rain down and deal radiant damage, leaving radiation-like burns. The party takes shelter in a cave during the first storm and [[Red Caesar]] prepares Leomund's Tiny Hut for the next. [[Nyquil]] is killed by the rains; [[Ceril]] consumes the familiar's body, a recurring practice. [[Vokunar]] collects a sample of Akasha for study, and the DM connects the substance to the liquid in Vokunar's sword and the oceans of [[Arcadia]].
+The jungle proves deadlier than expected. Periodic storms of [[Akasha]] — a silvery-white liquid from the sky — rain down and deal radiant damage, leaving radiation-like burns. The party takes shelter in a cave during the first storm and [[Red Caesar]] prepares Leomund's Tiny Hut for the next. [[Nyquil]] is killed by the rains; [[Ceril]] consumes the familiar's body, a recurring practice. [[Vokenar]] collects a sample of Akasha for study, and the DM connects the substance to the liquid in Vokenar's sword and the oceans of [[Arcadia]].
 
 After the storms, a giant tyrannosaurus charges through the jungle. [[Ceril]] dominates it with Dominate Beast and sends it north on a rampage against anyone who looks like him. The party continues and encounters fleeing elven scouts and migrant civilians. The elves speak modern Elvish (which only [[Ceril]] understands) and warn of a creature in the bogs ahead that is devouring their migrant group. One scout gives the party mithril as an upfront payment for help.
 
-Despite [[Red Caesar]]'s reluctance to get involved, [[Vokunar]] insists on helping the migrants. The party enters the bog, using Water Walk to cross the quicksand. [[Domyx]] rescues an unconscious migrant stuck in the mud. The [[Fuchsia Fungus]] rises from the muck — a horrifying purple fungal mound with dozens of animal skulls, grafting victims into its body. The creature had already consumed one migrant and was targeting the party. Combat begins with [[Domyx]] charging in with his hammer and [[Vokunar]] summoning a Guardian of Faith.
+Despite [[Red Caesar]]'s reluctance to get involved, [[Vokenar]] insists on helping the migrants. The party enters the bog, using Water Walk to cross the quicksand. [[Domyx]] rescues an unconscious migrant stuck in the mud. The [[Fuchsia Fungus]] rises from the muck — a horrifying purple fungal mound with dozens of animal skulls, grafting victims into its body. The creature had already consumed one migrant and was targeting the party. Combat begins with [[Domyx]] charging in with his hammer and [[Vokenar]] summoning a Guardian of Faith.
 
 ## Chunk 0001
 
@@ -43,15 +43,15 @@ The party defeats the [[Fuchsia Fungus]]. [[Domyx]] slices it in half with a fin
 
 The party continues along the rails through increasingly wet jungle terrain with standing water and pools containing residual [[Akasha]] at the bottom. [[Domyx]]'s magnet sense helps navigate broken and submerged rail sections.
 
-The party encounters translucent moon-shaped mushrooms with an intensely inviting fragrance. [[Ceril]] identifies them as hallucinogenic poison mushrooms (Moon Mushrooms) and harvests some for [[Kerben]]'s poison research. [[Vokunar]]'s Guarded Mind protects him from their effects; [[Domyx]]'s upbringing keeps him cautious; [[Red Caesar]] would have eaten them.
+The party encounters translucent moon-shaped mushrooms with an intensely inviting fragrance. [[Ceril]] identifies them as hallucinogenic poison mushrooms (Moon Mushrooms) and harvests some for [[Kerben]]'s poison research. [[Vokenar]]'s Guarded Mind protects him from their effects; [[Domyx]]'s upbringing keeps him cautious; [[Red Caesar]] would have eaten them.
 
-An [[Aeon]] — a green-skinned Githzerai from beyond Stark and Arcadia — descends from a cliff and attacks with psychic charm effects and psionic magic. [[Vokunar]] uses Calm Emotions to protect the party from the charm effects. [[Domyx]] pins the Aeon down while [[Red Caesar]] fights it with lightning, counter-magic, and vampiric magic. The Aeon eventually slips away from the immediate melee.
+An [[Aeon]] — a green-skinned Githzerai from beyond Stark and Arcadia — descends from a cliff and attacks with psychic charm effects and psionic magic. [[Vokenar]] uses Calm Emotions to protect the party from the charm effects. [[Domyx]] pins the Aeon down while [[Red Caesar]] fights it with lightning, counter-magic, and vampiric magic. The Aeon eventually slips away from the immediate melee.
 
 ## Chunk 0002
 
-The party finishes the [[Aeon]] encounter. [[Domyx]] keeps the Aeon under pressure with his hammer, [[Ceril]] breaks through the creature's Shield with Primal Savagery, and [[Vokunar]] keeps the party stable against the Aeon's psychic attacks.
+The party finishes the [[Aeon]] encounter. [[Domyx]] keeps the Aeon under pressure with his hammer, [[Ceril]] breaks through the creature's Shield with Primal Savagery, and [[Vokenar]] keeps the party stable against the Aeon's psychic attacks.
 
-The Aeon offered a star gem and golden astral coins to [[Vokunar]], saying "whether you let me leave or not, you've earned this." Vokunar accepted the offer and told the Aeon to leave. [[Red Caesar]] cast Mage Hand to retrieve the gem from the water. The Aeon attempted Plane Shift; Red Counterspelled it, but the Aeon Counterspelled the Counterspell and escaped. The Aeon insulted Red as "the filth" and "high dishonor, human" before departing.
+The Aeon offered a star gem and golden astral coins to [[Vokenar]], saying "whether you let me leave or not, you've earned this." Vokenar accepted the offer and told the Aeon to leave. [[Red Caesar]] cast Mage Hand to retrieve the gem from the water. The Aeon attempted Plane Shift; Red Counterspelled it, but the Aeon Counterspelled the Counterspell and escaped. The Aeon insulted Red as "the filth" and "high dishonor, human" before departing.
 
 The party short-rested, then continued along the rail line. The old rusted rail ended at a removed junction, replaced by a well-maintained shiny rail line kept clear of debris.
 
@@ -63,9 +63,9 @@ The party boarded a magical self-conducting train to [[Brimbalin]], traveling at
 
 In Brimbalin, the party explored the city and the [[Elvish Marketplace]]. The city is mostly elves and tieflings; humans are rare. [[Red Caesar]] stood out and was targeted by young elves who cast Sleep on him — a mockery since only humans are susceptible. Red failed the save, then Misty Stepped behind the caster and slapped him.
 
-[[Vokunar]] met [[Osiris Dims]], an aasimar born in Brimbalin 45 years ago to an aasimar mother who fell from [[Arcadia]]. Osiris revealed that the Magic City and [[The Order of Seasons]] are "one and the same," and that the [[Demi-Spell]] may be less than a year away. He warned that those who oppose the Order never turn out right, mentioning someone who tried to stop it decades ago — possibly [[Morel Chainsunder]].
+[[Vokenar]] met [[Osiris Dims]], an aasimar born in Brimbalin 45 years ago to an aasimar mother who fell from [[Arcadia]]. Osiris revealed that the Magic City and [[The Order of Seasons]] are "one and the same," and that the [[Demi-Spell]] may be less than a year away. He warned that those who oppose the Order never turn out right, mentioning someone who tried to stop it decades ago — possibly [[Morel Chainsunder]].
 
-[[Vokunar]] and [[Ceril]] reconnected with [[Gossa]], a former teacher from [[Academia Lux]] in Arcadia, now working in the marketplace. She recognized Vokunar immediately, warned him to learn about the Order, and noted that risks exist with the Demi-Spell.
+[[Vokenar]] and [[Ceril]] reconnected with [[Gossa]], a former teacher from [[Academia Lux]] in Arcadia, now working in the marketplace. She recognized Vokenar immediately, warned him to learn about the Order, and noted that risks exist with the Demi-Spell.
 
 [[Domyx]] visited [[Lysanderol Nokirna]], an elf mithril smith, and traded mithril, two uncommon items, and a rare item for the [[Iklwa Isondo]] — a +1 mithril trident with magnetic auto-return and pull effects linked to his lodestone greaves.
 
@@ -101,7 +101,7 @@ Veronia is "chiefly in command of enacting the demi-spell." She recognized Ceril
 
 Risolvir warned the party that their greatest enemy is the [[Broyish Empire]], which is also pursuing the [[Genesis Mundi]] and collecting [[Penumbra]] pieces — likely for a weapon. He said the Empire is more violent than any elf and kills people who don't even stand in their way.
 
-[[Vokunar]] questioned Veronia about the [[Genesis Mundi]] and whether the Demi-Spell would be fair to all peoples. Veronia clarified that the Genesis Mundi is a fixed point between worlds that occurs regardless — the Demi-Spell merely expedites and modifies it with guidelines.
+[[Vokenar]] questioned Veronia about the [[Genesis Mundi]] and whether the Demi-Spell would be fair to all peoples. Veronia clarified that the Genesis Mundi is a fixed point between worlds that occurs regardless — the Demi-Spell merely expedites and modifies it with guidelines.
 
 Veronia asked the party to check on [[Boral Erendel]] at [[The Garden]], worrying where his mind has taken him with his side project.
 

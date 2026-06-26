@@ -51,7 +51,7 @@
 - **Details:** [[Ceril]] and [[Domyx]] visited the [[Temple of Sigil]] on [[Otyugh Isle]] and found 12 petrified priests and 19 petrified Kuo-Toa. [[Ceril]] de-petrified [[Father Warwick]] using Greater Restoration; Warwick then freed several more priests. The freed priests departed for [[Southport]] to help fight the [[Mana Sickness]].
 
 ## Plant Antumbra in the League's Penumbra stash
-- **Given by:** [[Red Caesar]], [[Vokunar]] (party initiative)
+- **Given by:** [[Red Caesar]], [[Vokenar]] (party initiative)
 - **Resolved:** Session 025
 - **Details:** [[Red Caesar]], [[Keys]], and [[Lydriel Gondara]] synthesized [[Antumbra]] — a poisoned form of [[Penumbra]] designed to sabotage the [[Broyish Empire]]'s [[Starfall]] device. [[Kerben]] infiltrated [[The White Drake]] and planted the Antumbra among the League's stockpiled Penumbra, ensuring contaminated material would reach the Empire.
 

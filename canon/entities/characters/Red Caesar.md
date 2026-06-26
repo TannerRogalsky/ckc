@@ -112,7 +112,7 @@ In [[Castle Kaedon]], Red found a chunk of mithril among old metal bars. He inve
 
 In the stained-glass hallway, Red cast Vampiric Touch on a [[Chain Devil]], then Protection from Evil and Good on himself to ward against the [[Hezru]]'s attacks. The Hezru's thick hide and leaping ability made it a difficult target.
 
-In a later encounter in the same hallway, Red held the doorway against a [[Hezru]] and two [[Bearded Devil]]s. After the battle, the invisible [[Nalfeshne]] struck from the hallway with a Lightning Bolt and knocked Red down. He healed himself using Vampiric Touch on [[Zulu]], and [[Vokunar]] restored him further with Aura of Vitality.
+In a later encounter in the same hallway, Red held the doorway against a [[Hezru]] and two [[Bearded Devil]]s. After the battle, the invisible [[Nalfeshne]] struck from the hallway with a Lightning Bolt and knocked Red down. He healed himself using Vampiric Touch on [[Zulu]], and [[Vokenar]] restored him further with Aura of Vitality.
 
 ## Session 022
 
@@ -126,7 +126,7 @@ After Ceril's successful scrying revealed Jacinthe's secret meeting with [[Vizie
 
 Red and Ceril returned to [[The White Drake]] and debriefed the rest of the party about [[Obould]]'s situation: [[Vizier Jade]] was using him as leverage to pressure Jacinthe into finding [[Penumbra]] for the [[Broyish Empire]], with a one-month deadline.
 
-The party received a quest from [[David Harvey]] to capture [[Theo Harvey]], a traitor Harengon working for the [[Broyish Empire]]. The party sailed to the [[Harengon Warrens]] island and found it oddly empty. Red detected a Harengon nearby, and the party was ambushed by invisible imperial scouts and marshals alongside Theo. Red trapped Theo alive, preventing him from escaping. After the battle, the remaining imperial forces attempted to flee by longboat but were killed by [[Ceril]] and [[Vokunar]].
+The party received a quest from [[David Harvey]] to capture [[Theo Harvey]], a traitor Harengon working for the [[Broyish Empire]]. The party sailed to the [[Harengon Warrens]] island and found it oddly empty. Red detected a Harengon nearby, and the party was ambushed by invisible imperial scouts and marshals alongside Theo. Red trapped Theo alive, preventing him from escaping. After the battle, the remaining imperial forces attempted to flee by longboat but were killed by [[Ceril]] and [[Vokenar]].
 
 The party discovered the entrance to the Harengon warrens — a hole beneath a baobab tree concealed by illusion and invisible dirt. Theo revealed that [[Jack Harvey]]'s final project, [[The Carrot Cake]], is "alive and well." The party skipped [[Cutlass Cray]] and continued east toward the [[Broyish Empire]] with Theo as prisoner, weighing his value as a bargaining chip against the risk of him escaping.
 

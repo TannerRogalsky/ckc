@@ -24,4 +24,4 @@ After [[Morel Chainsunder]]'s curse broke, [[The Pit]] faced unrest as deep worl
 
 [[The Opal]] returned to The Pit for ship upgrades. The city was under active industrial development: new wings were being added to [[The Palace of the Pit]], roads were being widened, and minecart tracks were being laid. Deep worlders were integrating into society with minor but manageable conflicts. Some deep worlders had set up shops in the market.
 
-Scouts reported [[Broyish Empire]] airships in the region, though their presence near the Pit itself was unconfirmed. The party purchased a bulbous bow and hardened sails for [[The Opal]], and [[Domyx]] and [[Vokunar]] traded gems with [[Sigrid Forgewelt]] for new magical weapons.
+Scouts reported [[Broyish Empire]] airships in the region, though their presence near the Pit itself was unconfirmed. The party purchased a bulbous bow and hardened sails for [[The Opal]], and [[Domyx]] and [[Vokenar]] traded gems with [[Sigrid Forgewelt]] for new magical weapons.

@@ -168,3 +168,5 @@
 ## [2026-06-25] lint | House Kiirnodel, Aramil Kiirnodel — Renamed "Kiernodel"/"Keirnodel" to "Kiirnodel", updated all wiki-links and plain text across canon
 ## [2026-06-25] lint | Risolvir Kiirnodel, Aramil Kiirnodel — Recorded uncle/nephew relationship between Aramil and Risolvir
 ## [2026-06-26] lint | session_011.md — Corrected Vokunar training flashback from "Forty years" to "Sixty years" to match canon
+## [2026-06-26] lint | Vokunar — Added aliases "Bokunar" (DM misspelling) and "Vokunov" (player misspelling)
+## [2026-06-26] lint | Vokenar — Renamed entity from Vokunar to Vokenar (canonical spelling per transcripts); updated all canon wiki links and prose references

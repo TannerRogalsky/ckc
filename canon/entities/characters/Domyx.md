@@ -17,7 +17,7 @@ related:
   - "[[Aeris]]"
   - "[[The Opal]]"
   - "[[Otto]]"
-  - "[[Vokunar]]"
+  - "[[Vokenar]]"
   - "[[Kerben]]"
   - "[[Ceril]]"
   - "[[Morel Chainsunder]]"
@@ -62,7 +62,7 @@ In a flashback, [[Ulrich Fjöler]] intercepted him during his descent from the t
 
 During the church confrontation with [[Morel Chainsunder]], Domyx gave a powerful speech about self-determination and freedom while barely alive. He showed his sky-blue hands to the congregation as proof of the surface world and removed cowls from congregants to show them as individuals.
 
-He recruited [[Otto]] to join the crew alongside [[Vokunar]]. After a wyvern fight, he checked in with the crew aboard [[The Opal]] and played a card game called Titans Tarot as a morale-building exercise and initiation ritual. He eased clashing personalities among the crew, including the antisocial Mobley and the boisterous [[Yalet Mora]]. [[Relic Elnavi]] serves as the ship's janitor, using its blink ability to teleport trash and misplaced items.
+He recruited [[Otto]] to join the crew alongside [[Vokenar]]. After a wyvern fight, he checked in with the crew aboard [[The Opal]] and played a card game called Titans Tarot as a morale-building exercise and initiation ritual. He eased clashing personalities among the crew, including the antisocial Mobley and the boisterous [[Yalet Mora]]. [[Relic Elnavi]] serves as the ship's janitor, using its blink ability to teleport trash and misplaced items.
 
 ## Abilities and Equipment
 
@@ -78,7 +78,7 @@ Wields a halberd and later a trident. Has divine smite (Holy Light) and Divine F
 - During the [[Wyvern]] encounter, grappled a flying wyvern using his trident, catching a wing in the tines and pulling it to the ground. Was stung by the wyvern's scorpion tail but survived.
 - Uses his high mobility to position himself inside [[Ceril]]'s Moonbeam to hold enemies in place.
 - On [[Continental Stark]], used his lodestone greaves to detect buried train rails through magnetic pull. Defeated the [[Fuchsia Fungus]] with a Holy Light hammer strike, then carried unconscious migrants to safety and gave them to the elven scouts.
-- Fought through the [[Aeon]]'s psychic charm and kept the creature pinned down long enough for the party to turn the battle. The Aeon offered a star gem and gold before Plane Shifting away; [[Vokunar]] chose not to attack and accepted the offer.
+- Fought through the [[Aeon]]'s psychic charm and kept the creature pinned down long enough for the party to turn the battle. The Aeon offered a star gem and gold before Plane Shifting away; [[Vokenar]] chose not to attack and accepted the offer.
 - Recruited [[Brim the Bullywog]] to join the party. Met [[Marshal Zem]] at the train junction.
 - In the [[Elvish Marketplace]], traded mithril, two uncommon items, and a rare item to [[Lysanderol Nokirna]] for the [[Iklwa Isondo]], a +1 mithril trident with magnetic auto-return and pull effects.
 - Visited [[Yalet Aurum]]'s monument in the jungle outside [[Brimbalin]] with [[Red Caesar]] and the party. Helped solve Yalet's riddle about his brother [[Yalet Mora]].
@@ -103,13 +103,13 @@ While sleeping aboard [[The Opal]], Domyx experienced a rare and vivid dream. [[
 
 ## Session 018
 
-During the Castle Kaedon exploration, Domyx was ambushed along the island's southern perimeter by specters rising from a graveyard field and a water elemental formed from cistern seepage. Vokunar's Turn Undead devastated the specters first. Domyx engaged the water elemental directly, hampering its movement and holding it away from the rest of the party. He was eventually grappled and pulled inside the elemental's vortex form, where he continued attacking from within despite the crushing pressure. The elemental was disintegrated by Vokunar, freeing Domyx. He was partially drained by the specters but recovered after the party used healing scrolls.
+During the Castle Kaedon exploration, Domyx was ambushed along the island's southern perimeter by specters rising from a graveyard field and a water elemental formed from cistern seepage. Vokenar's Turn Undead devastated the specters first. Domyx engaged the water elemental directly, hampering its movement and holding it away from the rest of the party. He was eventually grappled and pulled inside the elemental's vortex form, where he continued attacking from within despite the crushing pressure. The elemental was disintegrated by Vokenar, freeing Domyx. He was partially drained by the specters but recovered after the party used healing scrolls.
 
-During the battle with the [[Xarag]], Domyx used brutal strikes to finish off the adult dragon, delivering the final blow as Vokunar lost his wings and Domyx shrank back down from his enlarged form. After the fight, while recovering and wiping dust off a wall, Domyx discovered [[The Jewel of Alfheimer]] — a rare framed landscape painting by [[Aramil Kiirnodel]] depicting what [[Brimbalin]] looked like before [[The Cataclysm]] as a lush jungled continent with no visible water.
+During the battle with the [[Xarag]], Domyx used brutal strikes to finish off the adult dragon, delivering the final blow as Vokenar lost his wings and Domyx shrank back down from his enlarged form. After the fight, while recovering and wiping dust off a wall, Domyx discovered [[The Jewel of Alfheimer]] — a rare framed landscape painting by [[Aramil Kiirnodel]] depicting what [[Brimbalin]] looked like before [[The Cataclysm]] as a lush jungled continent with no visible water.
 
 ## Session 019
 
-[[Kerben]] used the [[Mangonel]] to launch Domyx across an 80-foot gap to the southern island platform of [[Castle Kaedon]]. There, Domyx confronted a [[Zorn]], a subterranean elemental creature that had been eating gold coins. Under pressure from [[Vokunar]]'s Akasha-infused weapon and Domyx's intimidation, the Zorn vomited up roughly 50 pounds of gold coins before burrowing away.
+[[Kerben]] used the [[Mangonel]] to launch Domyx across an 80-foot gap to the southern island platform of [[Castle Kaedon]]. There, Domyx confronted a [[Zorn]], a subterranean elemental creature that had been eating gold coins. Under pressure from [[Vokenar]]'s Akasha-infused weapon and Domyx's intimidation, the Zorn vomited up roughly 50 pounds of gold coins before burrowing away.
 
 Domyx helped clear the acid-damaged room and entrance foyer, fighting black puddings, [[Severed Hands]], a [[Flabbergast]], a [[Carrion Crawler]], and giant scorpions. After the party returned to the castle from [[The White Drake]], magic circles summoned [[Bearded Devil]]s in a pentagonal inner chamber.
 
@@ -119,15 +119,15 @@ While exploring [[Castle Kaedon]], Domyx triggered a ceiling collapse in a room 
 
 In the stained-glass hallway, Domyx was targeted by a [[Chain Devil]]'s unnerving gaze — beams of red light from the devil's eye-pits overwhelmed him with supernatural fear. He used Recklessness to counteract the disadvantage and focused his attacks on a [[Bearded Devil]] instead, eventually killing it. On the Nalfeshne's second gaze attack, Domyx resisted and became immune to the effect.
 
-In a later encounter in the same hallway against a [[Hezru]] and two more bearded devils, Domyx shoved one bearded devil through the stained glass window, sending it plummeting into the ocean below. He reeled in the second devil with his trident into the range of [[Vokunar]]'s Guardian of Faith. After the visible enemies were defeated, the invisible [[Nalfeshne]] struck from the hallway with a Lightning Bolt. The party discussed strategy afterward, deciding to clear the left wing of the castle's pentagonal layout as a war of attrition against the Nalfeshne's resources.
+In a later encounter in the same hallway against a [[Hezru]] and two more bearded devils, Domyx shoved one bearded devil through the stained glass window, sending it plummeting into the ocean below. He reeled in the second devil with his trident into the range of [[Vokenar]]'s Guardian of Faith. After the visible enemies were defeated, the invisible [[Nalfeshne]] struck from the hallway with a Lightning Bolt. The party discussed strategy afterward, deciding to clear the left wing of the castle's pentagonal layout as a war of attrition against the Nalfeshne's resources.
 
 ## Session 022
 
-The party split into two groups. Domyx sailed with [[Kerben]] and [[Vokunar]] aboard [[The Opal]] to [[The Pit]] for ship upgrades. There, [[Brim the Bullywog]] hopped off to explore Dwarfland independently.
+The party split into two groups. Domyx sailed with [[Kerben]] and [[Vokenar]] aboard [[The Opal]] to [[The Pit]] for ship upgrades. There, [[Brim the Bullywog]] hopped off to explore Dwarfland independently.
 
 Domyx visited [[Sigrid Forgewelt]] at the marketplace. He traded a Gith Star Gem (from the [[Aeon]] encounter), a ruby, and gold to commission the [[Gith Shard Glaive]], a halberd with extended-range psychic cleave attacks. He also traded equestrian manuals for enchanted javelins, useful now that dwarves employed livestock for transport.
 
-The party received a quest from [[David Harvey]] to capture [[Theo Harvey]], a traitor Harengon working for the [[Broyish Empire]]. The party sailed to the [[Harengon Warrens]] island and was ambushed by invisible imperial scouts and marshals alongside Theo. Domyx fought through the ambush on the island surface. After the battle, [[Vokunar]] located the warren entrance beneath a baobab tree. The party skipped [[Cutlass Cray]] and continued east toward the [[Broyish Empire]] with Theo as prisoner.
+The party received a quest from [[David Harvey]] to capture [[Theo Harvey]], a traitor Harengon working for the [[Broyish Empire]]. The party sailed to the [[Harengon Warrens]] island and was ambushed by invisible imperial scouts and marshals alongside Theo. Domyx fought through the ambush on the island surface. After the battle, [[Vokenar]] located the warren entrance beneath a baobab tree. The party skipped [[Cutlass Cray]] and continued east toward the [[Broyish Empire]] with Theo as prisoner.
 
 ## Session 023
 
@@ -135,7 +135,7 @@ During the voyage to [[Broy]], [[Theo Harvey]] approached Domyx during his guard
 
 As the party approached the coast of [[Broy]], a fierce storm struck. Two titans appeared — [[Baron Akathian the Second]], a cloud titan, and an unnamed female frost titan. Baron Akathian was a relation to Domyx's bloodline and called him "great nephew abomination." The titans were acting under orders from a higher power, not of their own volition. Domyx grew to match their size and fought Baron Akathian aboard [[The Opal]]. He steadied the ship with his massive form, preventing it from capsizing, and helped defeat Baron Akathian.
 
-After [[Vokunar]] healed both titans, they departed peacefully heading north toward titan homeland territory. Baron Akathian gave Domyx a scroll case containing a map of [[Thalasia]] — the continent where Domyx's people live — showing a treacherous path through hills into the titan homeland. The party then docked near the coast of [[Broy]] and disembarked.
+After [[Vokenar]] healed both titans, they departed peacefully heading north toward titan homeland territory. Baron Akathian gave Domyx a scroll case containing a map of [[Thalasia]] — the continent where Domyx's people live — showing a treacherous path through hills into the titan homeland. The party then docked near the coast of [[Broy]] and disembarked.
 
 In the [[Broyish Capital]], Domyx helped defeat the oni near the coast. He negotiated with [[Naomi]] to clear the party's warrants, paying 10 pounds of mithril. He asked about titan folk in the region and learned they live to the north and have assimilated into the industrial society.
 
@@ -147,13 +147,13 @@ After the party returned to [[The Opal]], Domyx was the first to discover that [
 
 Before leaving the [[Broyish Capital]], Domyx explored the city alone and encountered [[Seneschal Faran]] near the Dawn Palace. Faran explained that the Empire welcomes those who "fall through the cracks" in other societies — humans originally, then other races like titan folk who could not compete with elves and dwarves. Seneschal Faran recognized Domyx as being of House Akathian, noting that many titan folk have left their mountains and found opportunity in the capital. This revealed to Domyx that his sheltered upbringing in the titan homeland had hidden from him the broader diaspora of his own people.
 
-As [[The Opal]] sailed north toward [[Thalasia]], Domyx felt nostalgic recalling his earlier journey across the same frozen northern straits — walking on ice, leaping between floating chunks, and swimming through freezing water that had forged his physical strength. When a [[Rimefire Hydra]] burst from the ice, Domyx held the frontline with his [[Gith Shard Glaive]], cleaving between multiple heads while raged. The hydra focused its heads on him, but [[Vokunar]] and [[Ceril]] kept him alive through coordinated healing and Moonbeam.
+As [[The Opal]] sailed north toward [[Thalasia]], Domyx felt nostalgic recalling his earlier journey across the same frozen northern straits — walking on ice, leaping between floating chunks, and swimming through freezing water that had forged his physical strength. When a [[Rimefire Hydra]] burst from the ice, Domyx held the frontline with his [[Gith Shard Glaive]], cleaving between multiple heads while raged. The hydra focused its heads on him, but [[Vokenar]] and [[Ceril]] kept him alive through coordinated healing and Moonbeam.
 
 After the hydra battle, the party trekked into the Arctic Plains. Domyx and [[Kerben]] worked together as survivalists, with Domyx drawing on memories of his earlier descent from the titan mountains to help endure the bitter cold. When Kerben ambushed the [[Tatzelwurm]], Domyx rushed in, went into rage mode, and delivered powerful hammer strikes to the dragon's head. The dragon was knocked prone by Domyx's attack. Domyx's relentless assault, combined with the party's magic and Kerben's poisons, quickly defeated the creature.
 
 As the party followed the blood-stained river into Titanfolk territory, a [[Remorhaz]] — a huge, heat-exuding creature — surged toward them from a woodland. Domyx raged and used his [[Iklwa Isondo]] to hook himself onto the creature's head, then struck it with his hammer. The Remorhaz eventually bit Domyx and grappled him in its jaws.
 
-The Remorhaz swallowed Domyx whole. Trapped inside the creature, he attempted to use Enlarge and fight his way out. [[Kerben]] fired into the Remorhaz's side, punching a hole that let light reach Domyx. [[Vokunar]] then destroyed the creature with radiant magic, freeing Domyx. [[Kerben]] cut into the corpse to extract Domyx's body, and [[Ceril]] healed him back to consciousness. After the fight, Kerben harvested the Remorhaz's heat gland for warmth during the rest of their mountain climb.
+The Remorhaz swallowed Domyx whole. Trapped inside the creature, he attempted to use Enlarge and fight his way out. [[Kerben]] fired into the Remorhaz's side, punching a hole that let light reach Domyx. [[Vokenar]] then destroyed the creature with radiant magic, freeing Domyx. [[Kerben]] cut into the corpse to extract Domyx's body, and [[Ceril]] healed him back to consciousness. After the fight, Kerben harvested the Remorhaz's heat gland for warmth during the rest of their mountain climb.
 
 The party climbed from snow into grassy hills with orchards and flowers — the magic of the titan realm taking hold. They reached the last place [[Ulrich Fjöler]] had been seen before his capture. Domyx recognized the terrain from his earlier descent and could lead the party the rest of the way. At this altitude, the sky appeared as a flat plate separating [[Stark]] from [[Arcadia]]. A golden palace — [[Akathia Manor]] — drew heavy titan traffic.
 

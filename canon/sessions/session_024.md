@@ -2,7 +2,7 @@
 type: session
 session: "024"
 chunks: 5
-summary: "Kerben frees Theo Harvey for Carrot Cake map; Ceril and Vokunar receive vision of Aeris trapped at Starfall; party sails north, battles a frost hydra, defeats a white dragon, defeats a Remorhaz, Domyx confronts his family at Akathia Manor, and the party rescues Ulrich Fjöler from the Prison of Frost."
+summary: "Kerben frees Theo Harvey for Carrot Cake map; Ceril and Vokenar receive vision of Aeris trapped at Starfall; party sails north, battles a frost hydra, defeats a white dragon, defeats a Remorhaz, Domyx confronts his family at Akathia Manor, and the party rescues Ulrich Fjöler from the Prison of Frost."
 ---
 
 # Session 024
@@ -23,13 +23,13 @@ When the rest of the party returned, [[Domyx]] was the first to discover the emp
 
 ### Vision of Aeris at Starfall
 
-While resting aboard [[The Opal]], [[Ceril]] and [[Vokunar]] were drawn into a shared vision of a black expanse with a jet-black sky and smooth silver powder underfoot. At the center stood the [[Starfall]] device — a massive ring of 50-60 feet combining all four elements (earth, water, air, fire) — with [[Aeris]]'s mortal body trapped inside, appearing as a collection of stars pulled from the sky above.
+While resting aboard [[The Opal]], [[Ceril]] and [[Vokenar]] were drawn into a shared vision of a black expanse with a jet-black sky and smooth silver powder underfoot. At the center stood the [[Starfall]] device — a massive ring of 50-60 feet combining all four elements (earth, water, air, fire) — with [[Aeris]]'s mortal body trapped inside, appearing as a collection of stars pulled from the sky above.
 
-Aeris revealed she had been imprisoned for sixty to eighty years by a man who reached up and touched her — understood to be [[Emperor Shen]] / [[Emperor Shen]]. He captured her and broke her into pieces so no one else could have her power. Her soul flows into the world through the sky, but her physical body ages and weakens in captivity like a mortal. She has been learning mortal magic for fifty years and could barely muster enough power to bring Ceril and Vokunar to her.
+Aeris revealed she had been imprisoned for sixty to eighty years by a man who reached up and touched her — understood to be [[Emperor Shen]] / [[Emperor Shen]]. He captured her and broke her into pieces so no one else could have her power. Her soul flows into the world through the sky, but her physical body ages and weakens in captivity like a mortal. She has been learning mortal magic for fifty years and could barely muster enough power to bring Ceril and Vokenar to her.
 
 Aeris explained that the Starfall generates a fusion of all elements — everything required to rebuild the world in a single stream. When used, it fires a beam of light into the sky, using Aeris's physical form to destroy part of her godhood. [[Penumbra]] pieces serve as additional fuel. She confirmed that repairing the sky will restore her divinity and potentially save her mortal body. She warned the party not to underestimate her captor.
 
-Ceril cast Plant Growth on the ring's earth elements, causing an orchard of apples, pears, and citrus to grow for Aeris to eat. Vokunar cast Continual Flame to leave her a source of light in her darkness.
+Ceril cast Plant Growth on the ring's earth elements, causing an orchard of apples, pears, and citrus to grow for Aeris to eat. Vokenar cast Continual Flame to leave her a source of light in her darkness.
 
 ### Aftermath and Planning
 
@@ -59,23 +59,23 @@ On the seventh day, an aurora borealis shimmered across the heavens, reflecting 
 
 ### Battle with the Rimefire Hydra
 
-[[Vokunar]] cast Water Walk so the party could disembark without bringing the ship too close to shore, sparing the hull further ice damage.
+[[Vokenar]] cast Water Walk so the party could disembark without bringing the ship too close to shore, sparing the hull further ice damage.
 
 The disturbance awakened a [[Rimefire Hydra]] — a massive eight-headed frost creature that burst through the ice on the port side of the ship. Its body was covered in ice permafrost over dragon-like scales, making it extremely armored. Each head was bristly and lizard-like.
 
 The party engaged in a fierce ship-side battle. [[Kerben]] opened with a devastating shot using Hunter's Mark, blasting a head clean off — it shattered into ice on the way down. [[Domyx]] raged and attacked with his [[Gith Shard Glaive]], cleaving between multiple heads. The hydra focused its many attacks on Domyx, forcing the party to keep him alive under sustained pressure.
 
-[[Vokunar]] and [[Ceril]] used healing and radiant magic to keep Domyx alive while wearing the hydra down. [[Brim the Bullywog]] manned the new cannons, firing grape shot that blasted two heads off the creature.
+[[Vokenar]] and [[Ceril]] used healing and radiant magic to keep Domyx alive while wearing the hydra down. [[Brim the Bullywog]] manned the new cannons, firing grape shot that blasted two heads off the creature.
 
 [[Kerben]] applied black dragon acid poison to his shots, which prevented the hydra's heads from regrowing — a critical advantage against the creature's natural regeneration. He removed two more heads with follow-up attacks.
 
-The hydra's body rammed against [[The Opal]], causing hull damage. The battle was wild, with the aurora's light refracting through the creature as acid dripped and moonbeam burned. [[Vokunar]] finished the hydra with a holy fireball that burst the creature open from the inside while the acid prevented any regeneration.
+The hydra's body rammed against [[The Opal]], causing hull damage. The battle was wild, with the aurora's light refracting through the creature as acid dripped and moonbeam burned. [[Vokenar]] finished the hydra with a holy fireball that burst the creature open from the inside while the acid prevented any regeneration.
 
 ### Chunk 0002
 
 ### Trek Into the Arctic Plains
 
-After the [[Rimefire Hydra]] battle, the party chose not to rest long, preserving [[Vokunar]]'s Celestial Defender and [[Kerben]]'s Hunter's Mark. [[Ceril]] used his starry wisp chalice form to deliver powerful healing before the group trekked into the Arctic Plains near [[Thalasia]], where the temperature dropped from cold to overwhelmingly bitter.
+After the [[Rimefire Hydra]] battle, the party chose not to rest long, preserving [[Vokenar]]'s Celestial Defender and [[Kerben]]'s Hunter's Mark. [[Ceril]] used his starry wisp chalice form to deliver powerful healing before the group trekked into the Arctic Plains near [[Thalasia]], where the temperature dropped from cold to overwhelmingly bitter.
 
 [[Kerben]] and [[Domyx]] took the lead as survivalists. Kerben used Locate Animals or Plants to track warm-blooded creatures and stealthed ahead, while Domyx drew on memories of his earlier descent from the titan mountains. [[Ceril]] wild-shaped into a ram to better resist the cold. The trek taxed the party as their bodies acclimated to the extreme environment.
 
@@ -91,9 +91,9 @@ After the fight, Kerben determined the dragon kept no traditional horde. He used
 
 The party followed the blood-stained river into Titanfolk territory. [[Ceril]]'s familiar bird scouted ahead and reported a clear path. Suddenly, a large patch of woodland shifted as trees snapped — a [[Remorhaz]] surged toward the party from the riverbed. This rare northern creature was huge (20-30 feet across), fast, violent, and voracious, exuding intense heat from its body. It resembled a massive insect with fish-like fins along its back.
 
-[[Ceril]] cast Moonbeam on the creature as it approached. He then wild-shaped into his dragon form, discovering it now granted flight and hover. [[Domyx]] raged and used his [[Iklwa Isondo]] to hook himself onto the Remorhaz's head, then struck it with his hammer. [[Vokunar]] cast Wall of Radiance around himself and Kerben, creating a protective ring of light. Kerben fired shots at the creature from within the radiance. The Remorhaz bit Domyx and grappled him in its jaws, eventually swallowing him whole.
+[[Ceril]] cast Moonbeam on the creature as it approached. He then wild-shaped into his dragon form, discovering it now granted flight and hover. [[Domyx]] raged and used his [[Iklwa Isondo]] to hook himself onto the Remorhaz's head, then struck it with his hammer. [[Vokenar]] cast Wall of Radiance around himself and Kerben, creating a protective ring of light. Kerben fired shots at the creature from within the radiance. The Remorhaz bit Domyx and grappled him in its jaws, eventually swallowing him whole.
 
-Domyx was trapped inside the Remorhaz and attempted to Enlarge and fight his way out. [[Kerben]] fired into the Remorhaz's side, punching a hole that let light reach Domyx inside. [[Vokunar]] then destroyed the creature with a radiant blast, freeing Domyx from inside. [[Kerben]] used his survival knowledge to cut into the corpse and extract Domyx's unconscious body. [[Ceril]] healed Domyx back to consciousness. After the fight, Kerben harvested the Remorhaz's heat gland for warmth during the rest of the mountain climb.
+Domyx was trapped inside the Remorhaz and attempted to Enlarge and fight his way out. [[Kerben]] fired into the Remorhaz's side, punching a hole that let light reach Domyx inside. [[Vokenar]] then destroyed the creature with a radiant blast, freeing Domyx from inside. [[Kerben]] used his survival knowledge to cut into the corpse and extract Domyx's unconscious body. [[Ceril]] healed Domyx back to consciousness. After the fight, Kerben harvested the Remorhaz's heat gland for warmth during the rest of the mountain climb.
 
 ### Chunk 0003
 
@@ -101,7 +101,7 @@ Domyx was trapped inside the Remorhaz and attempted to Enlarge and fight his way
 
 The party climbed from snow into grassy hills with orchards and flowers — the magic of the titan realm taking hold. They reached the last place [[Ulrich Fjöler]] had been seen before his capture. [[Domyx]] recognized the terrain from his earlier descent and could lead the party the rest of the way. At this altitude, the sky appeared as a flat plate separating [[Stark]] from [[Arcadia]]. A golden palace — [[Akathia Manor]] — drew heavy titan traffic.
 
-[[Domyx]] entered the manor alone while the rest of the party stayed hidden, as elves, dwarves, and aasimar would be endangered among the xenophobic titan folk. [[Vokunar]] cast Locate Object searching for [[Penumbra]] but detected none — the sky appeared intact from this distance.
+[[Domyx]] entered the manor alone while the rest of the party stayed hidden, as elves, dwarves, and aasimar would be endangered among the xenophobic titan folk. [[Vokenar]] cast Locate Object searching for [[Penumbra]] but detected none — the sky appeared intact from this distance.
 
 Inside the manor, Domyx found [[Charlotte]], Ulrich's sister, who warned him against being there. Domyx revealed the truth about [[Emperor Shen]] breaking the sky with [[Starfall]]. [[Lorelei]] emerged from hiding, having overheard everything. She confirmed she was pregnant and that Ulrich was imprisoned in the [[Prison of Frost]], not far away. She begged to flee with Ulrich's child.
 

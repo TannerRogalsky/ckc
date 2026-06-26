@@ -42,7 +42,7 @@ aliases:
   - Serral
 ---
 
-A druid with a shield given by [[Aeris]] that serves as a conduit to the goddess. A pre-[[Cataclysm]] survivor who fled [[Brimbalin]] alongside [[Vanzia Vinfei]] decades ago, and whose father is the [[Rakshasa]]. Communicates with [[Aeris]] through his shield and was drawn into a shared vision with [[Vokunar]] to witness her imprisoned mortal body at the heart of [[Starfall]]. A balanced utility caster whose toolkit spans scouting, divination, environmental manipulation, summoning, and healing.
+A druid with a shield given by [[Aeris]] that serves as a conduit to the goddess. A pre-[[Cataclysm]] survivor who fled [[Brimbalin]] alongside [[Vanzia Vinfei]] decades ago, and whose father is the [[Rakshasa]]. Communicates with [[Aeris]] through his shield and was drawn into a shared vision with [[Vokenar]] to witness her imprisoned mortal body at the heart of [[Starfall]]. A balanced utility caster whose toolkit spans scouting, divination, environmental manipulation, summoning, and healing.
 
 ## Identity and Backstory
 
@@ -59,7 +59,7 @@ Can cast: Plant Growth, Guiding Bolt, Luminous Arrow, Moonbeam (repositionable a
 ## Plot Events
 
 - Found a map to the [[Far Helm Clan]] keep among enemy effects.
-- Found crates of Deepworlder minted coins with [[Vokunar]] in [[Darvinblast]].
+- Found crates of Deepworlder minted coins with [[Vokenar]] in [[Darvinblast]].
 - Cast Moonbeam during the Darvinblast atrium battle, creating a crescent moon image of [[Crone]] on the ceiling.
 - During the confrontation with [[Morel Chainsunder]], his divination led the party to the hidden shrine/office where the real Morel's skeleton and the binding spell document were found.
 - Contacted [[Aeris]] (Eris) through his shield, enabling five yes/no questions about the curse and the path forward. Noted that the Mirage Arcana illusion over the northern mountains was linked to the curse and had now cleared.
@@ -93,7 +93,7 @@ The party sailed to [[The Garden]]. Ceril accompanied [[Domyx]] to meet the [[Ra
 
 During the Castle Kaedon exploration, Ceril spotted specters rising from a graveyard field hidden in fog along the island's southern perimeter, alerting the party before the ambush could fully spring. He used his starry form and Moonbeam against the specters and other enemies. When [[Red Caesar]] walked into a brown mold infestation in the granary building, Ceril used Shape Water combined with create water to freeze the mold and destroy it completely. He later wild-shaped into a scorpion and squeezed under the granary door to scout the interior, discovering [[Sturges]] hanging from the ceiling.
 
-During the battle with the [[Xarag]], Ceril's starry shield was overwhelmed by the dragon's acid breath, knocking him unconscious. He was restored to consciousness by [[Vokunar]]'s Aura of Vitality as [[Domyx]] delivered the killing blow to the dragon.
+During the battle with the [[Xarag]], Ceril's starry shield was overwhelmed by the dragon's acid breath, knocking him unconscious. He was restored to consciousness by [[Vokenar]]'s Aura of Vitality as [[Domyx]] delivered the killing blow to the dragon.
 
 ## Session 019
 
@@ -123,7 +123,7 @@ After the scrying, Ceril shared all the information with [[Red Caesar]] and the 
 
 The party reconvened aboard [[The Opal]] and learned of a new quest from [[David Harvey]]: retrieve the traitor [[Theo Harvey]] from imperial-occupied territory.
 
-The party sailed to the [[Harengon Warrens]] island and was ambushed by invisible imperial scouts and marshals alongside Theo. After the battle, Ceril and [[Vokunar]] stopped the fleeing imperial forces, killing most of the remaining soldiers. Ceril helped secure Theo as a prisoner.
+The party sailed to the [[Harengon Warrens]] island and was ambushed by invisible imperial scouts and marshals alongside Theo. After the battle, Ceril and [[Vokenar]] stopped the fleeing imperial forces, killing most of the remaining soldiers. Ceril helped secure Theo as a prisoner.
 
 ## Session 023
 
@@ -133,13 +133,13 @@ Ceril fought alongside the party against [[Baron Akathian the Second]] and the f
 
 Upon disembarking, the party encountered a human and tiefling surrounded by [[Oni]] demons on slick stone. Ceril cast Moonbeam on the nearest oni and helped engage them in combat.
 
-After the oni were defeated, the party learned the human couple was from [[Southport]] seeking a cure for [[Mana Sickness]]. Ceril used his knowledge of nature to identify the herbs they had purchased — wrong herbs for the wrong illness. He identified [[Deep Roses]] as the correct cure and learned the Mana Sickness is contagious and spreading through Southport. He misty-stepped inside [[Vokunar]]'s wall of fire to reach the couple safely. Later, Ceril was reunited with [[Vanzia Vinfei]] in the [[Broyish Capital]] — an old ally from their escape from [[Brimbalin]] decades ago. Vanzia was now operating alongside [[Naomi]] in the imperial city.
+After the oni were defeated, the party learned the human couple was from [[Southport]] seeking a cure for [[Mana Sickness]]. Ceril used his knowledge of nature to identify the herbs they had purchased — wrong herbs for the wrong illness. He identified [[Deep Roses]] as the correct cure and learned the Mana Sickness is contagious and spreading through Southport. He misty-stepped inside [[Vokenar]]'s wall of fire to reach the couple safely. Later, Ceril was reunited with [[Vanzia Vinfei]] in the [[Broyish Capital]] — an old ally from their escape from [[Brimbalin]] decades ago. Vanzia was now operating alongside [[Naomi]] in the imperial city.
 
 The party entered the imperial palace and was granted audience with [[Vizier Jade]]. Ceril observed Jade's cruelty to [[Obould]] — she forced him to dance in a resilient sphere as entertainment. Ceril attempted to help [[Red Caesar]]'s negotiation by suggesting the party let Obould die, but also urged against giving Jade the secrets to penumbra alchemy, calling it too dangerous. Ceril correctly suspected that Jade might already have killed Obould and was bluffing about his survival.
 
 ## Session 024
 
-While resting aboard [[The Opal]], Ceril and [[Vokunar]] were drawn into a shared vision of a black expanse with a jet-black sky and smooth silver powder underfoot. At the center of this space stood the [[Starfall]] device — a massive ring combining all four elements (earth, water, air, fire) — with a figure trapped inside. The figure was [[Aeris]] herself, her mortal body imprisoned and used as a battery for the weapon. She revealed that sixty to eighty years ago, a man (later understood to be [[Emperor Shen]]) reached up and captured her, breaking her into pieces so no one else could have her power. Her soul flows into the world through the sky, but her physical body ages and weakens in captivity.
+While resting aboard [[The Opal]], Ceril and [[Vokenar]] were drawn into a shared vision of a black expanse with a jet-black sky and smooth silver powder underfoot. At the center of this space stood the [[Starfall]] device — a massive ring combining all four elements (earth, water, air, fire) — with a figure trapped inside. The figure was [[Aeris]] herself, her mortal body imprisoned and used as a battery for the weapon. She revealed that sixty to eighty years ago, a man (later understood to be [[Emperor Shen]]) reached up and captured her, breaking her into pieces so no one else could have her power. Her soul flows into the world through the sky, but her physical body ages and weakens in captivity.
 
 Ceril cast Plant Growth on the ring's earth elements, causing an orchard of apples, pears, and citrus to grow for Aeris to eat. He also cast Druidcraft to confirm that spells work in this space and that a light rain would arrive despite the cloudless black sky. The plants he grew — citrons, apples, and pears — could potentially serve as a way to locate Aeris's prison in the future.
 
@@ -151,7 +151,7 @@ During the trek into the Arctic Plains, Ceril wild-shaped into a ram to better r
 
 As the party followed the blood-stained river into Titanfolk territory, a [[Remorhaz]] surged toward them. Ceril cast Moonbeam directly on the creature as it approached. He then switched to constellation mode for better attack accuracy. The Remorhaz moved out of the Moonbeam, forcing Ceril to redirect it. He healed [[Kerben]] again during the fight.
 
-After [[Domyx]] was swallowed by the Remorhaz, Ceril helped coordinate the rescue. When [[Vokunar]] destroyed the creature with radiant magic, Ceril healed Domyx back to consciousness with Healing Word and then used his chalice form to restore him further. When Domyx split from the party to enter [[Akathia Manor]], Ceril stayed hidden nearby. He sent his magma owl familiar to scout the area, which reported a large cavern with heavy security at its entrance and food trays being delivered inside — a suspicious location that likely corresponded to the [[Prison of Frost]] where [[Ulrich Fjöler]] was being held. [[Vokunar]] detected no [[Penumbra]] in the area, and the sky appeared intact from this distance — the titan homeland was far from the cataclysm's effects.
+After [[Domyx]] was swallowed by the Remorhaz, Ceril helped coordinate the rescue. When [[Vokenar]] destroyed the creature with radiant magic, Ceril healed Domyx back to consciousness with Healing Word and then used his chalice form to restore him further. When Domyx split from the party to enter [[Akathia Manor]], Ceril stayed hidden nearby. He sent his magma owl familiar to scout the area, which reported a large cavern with heavy security at its entrance and food trays being delivered inside — a suspicious location that likely corresponded to the [[Prison of Frost]] where [[Ulrich Fjöler]] was being held. [[Vokenar]] detected no [[Penumbra]] in the area, and the sky appeared intact from this distance — the titan homeland was far from the cataclysm's effects.
 
 ## Session 025
 
@@ -167,4 +167,4 @@ Ceril sailed with the party to [[The Carrot Cake]]. He supported the party durin
 
 ## Session 028
 
-In the [[Hole Shebang]], Ceril was grappled by a second [[Roger Ribbons]]'s ribbons but was freed by [[Domyx]]'s attacks. He wild-shaped into a chalice and cast Mass Cure Wounds, healing the entire party for a massive total — grass and flowers sprang through the debris as pollen spread restorative energy. He helped [[Vokunar]] cheat at pool against a [[Magen]] by tilting the table with Plant Growth.
+In the [[Hole Shebang]], Ceril was grappled by a second [[Roger Ribbons]]'s ribbons but was freed by [[Domyx]]'s attacks. He wild-shaped into a chalice and cast Mass Cure Wounds, healing the entire party for a massive total — grass and flowers sprang through the debris as pollen spread restorative energy. He helped [[Vokenar]] cheat at pool against a [[Magen]] by tilting the table with Plant Growth.

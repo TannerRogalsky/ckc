@@ -9,13 +9,13 @@ summary: "Party sails to Broy, battles titans and oni, enters the imperial capit
 
 ### Chunk 0000
 
-The party sailed east toward [[Broy]] aboard [[The Opal]] with [[Theo Harvey]] as prisoner. During the voyage, [[Ceril]]'s Commune with Nature located [[Tome Keeper's Pyramid]] — a temple in the eastern waters housing the [[Tome of Satariel]]. [[Vokunar]]'s Legend Lore revealed that the Tome is made of 666 pages, each from a different wizard's soul, and that it returns to hell if destroyed.
+The party sailed east toward [[Broy]] aboard [[The Opal]] with [[Theo Harvey]] as prisoner. During the voyage, [[Ceril]]'s Commune with Nature located [[Tome Keeper's Pyramid]] — a temple in the eastern waters housing the [[Tome of Satariel]]. [[Vokenar]]'s Legend Lore revealed that the Tome is made of 666 pages, each from a different wizard's soul, and that it returns to hell if destroyed.
 
 That night, [[Theo Harvey]] approached [[Domyx]] during guard duty and revealed details about [[The Carrot Cake]]: it was powered by [[Penumbra]] and is a maze of illusions. [[Vizier Jade]] had sent her companion [[The Tyrant]] to find it, and the Tyrant never returned.
 
 As the party neared the coast of [[Broy]], a fierce storm struck. Two titans appeared — [[Baron Akathian the Second]], a cloud titan, and an unnamed female frost titan. Baron Akathian was a relation to [[Domyx]]'s bloodline and called him "great nephew abomination." The titans attacked the party aboard [[The Opal]], acting under orders from a higher power. [[Domyx]] grew to match their size, fought Baron Akathian, and helped keep the ship from capsizing. After the party defeated and healed both titans, they departed peacefully heading north toward [[Thalasia]], the continent where Domyx's people live. Baron Akathian gave Domyx a map showing a path into the titan homeland.
 
-The party docked near the coast of [[Broy]]. [[Kerben]] stayed behind to guard [[The Opal]]. The remaining party members disembarked and encountered a human and tiefling woman surrounded by [[Oni]] demons. [[Vokunar]] intervened to protect the civilians, and combat began.
+The party docked near the coast of [[Broy]]. [[Kerben]] stayed behind to guard [[The Opal]]. The remaining party members disembarked and encountered a human and tiefling woman surrounded by [[Oni]] demons. [[Vokenar]] intervened to protect the civilians, and combat began.
 
 ### Chunk 0001
 
@@ -23,7 +23,7 @@ The party defeated the oni near the coast. The oni regenerated but were overwhel
 
 The human and tiefling the party had saved were from [[Southport]]. The human, Trent, and his wife Abby had come to [[Broy]] seeking a cure for [[Mana Sickness]], which was afflicting their children and spreading through Southport. They had purchased the wrong herbs — remedies for a different magical illness. [[Ceril]] identified the herbs and learned the correct cure requires [[Deep Roses]], herbs that grow exclusively underwater in the [[Mana Sea]]. The Mana Sickness is contagious, and victims eventually fall into an impenetrable slumber as their souls diffuse into the weave. The couple offered to guide the party into the city in exchange for eventual help reaching civilization.
 
-The party was led through winding stairs into an industrial steel town with whirring gears, copper electrical cables, and automated wheeled devices. [[Oni]] sentries were perched on pillars overlooking the town, some invisible. [[Vokunar]] used scouting magic to find a safe route and discovered [[Naomi]]'s dive bar and her operation as an underground fixer who absolves criminal records through magically stamped documents.
+The party was led through winding stairs into an industrial steel town with whirring gears, copper electrical cables, and automated wheeled devices. [[Oni]] sentries were perched on pillars overlooking the town, some invisible. [[Vokenar]] used scouting magic to find a safe route and discovered [[Naomi]]'s dive bar and her operation as an underground fixer who absolves criminal records through magically stamped documents.
 
 The party entered Naomi's tavern, where they were recognized as outsiders. [[Vanzia Vinfei]] — an old ally who had escaped [[Brimbalin]] with [[Ceril]] decades earlier — was present. She and Ceril were reunited after many years. Vanzia was now operating alongside Naomi in the [[Broyish Capital]].
 
@@ -35,7 +35,7 @@ The party learned that magic is restricted in parts of the capital — permanent
 
 The party explored the bustling market, finding diverse non-human residents despite the empire's xenophobic reputation. [[Red Caesar]] met [[Chan Hu]], an ancient-world survivor who recognized him as a member of [[Heaven's Bulb]] and claimed to have known [[Master Lee]] under the name "The Emerald Leaf." The party considered outfitting [[The Opal]] with cannons from a market arms dealer.
 
-[[Vokunar]] proposed helping the Southport couple with their plague after the current mission, even if that meant personally accompanying them later.
+[[Vokenar]] proposed helping the Southport couple with their plague after the current mission, even if that meant personally accompanying them later.
 
 The party long-rested in the capital.
 
@@ -53,7 +53,7 @@ Jade revealed a shocking truth: [[Emperor Shen]] is [[Domyx]]'s grandfather. Thi
 
 Jade mentioned that [[The League of New Stark]] had been giving her penumbra, extending Obould's stay of execution to three months. She allowed the party to depart on their own terms, conserving energy and keeping them alive as a resource.
 
-The party returned to [[The Opal]]. During his night watch, [[Vokunar]] checked on [[Theo Harvey]] in the brig — Theo was gone from his cage, vanished without explanation.
+The party returned to [[The Opal]]. During his night watch, [[Vokenar]] checked on [[Theo Harvey]] in the brig — Theo was gone from his cage, vanished without explanation.
 
 ### Summary
 

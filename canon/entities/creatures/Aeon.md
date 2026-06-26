@@ -12,4 +12,4 @@ The Aeon communicates telepathically and speaks of "souls to drain" and "stars t
 
 It was observed watching the party from a cliff before descending to attack. [[Ceril]] identified it as truly alien, canceling energy from a plane that is neither Arcadia nor Stark.
 
-After being defeated, the Aeon offered a star gem and golden spheres (coins from the astral plane) to [[Vokunar]], saying "whether you let me leave or not, you've earned this." [[Red Caesar]] attempted to Counterspell the Aeon's Plane Shift, but the Aeon Counterspelled the Counterspell and escaped. The Aeon insulted Red as "the filth" and "high dishonor, human" before departing to his plane.
+After being defeated, the Aeon offered a star gem and golden spheres (coins from the astral plane) to [[Vokenar]], saying "whether you let me leave or not, you've earned this." [[Red Caesar]] attempted to Counterspell the Aeon's Plane Shift, but the Aeon Counterspelled the Counterspell and escaped. The Aeon insulted Red as "the filth" and "high dishonor, human" before departing to his plane.

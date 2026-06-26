@@ -13,4 +13,4 @@ A massive eight-headed hydra encountered in the frozen northern straits near [[T
 
 The creature was awakened from decades-long hibernation by [[The Opal]] cutting through the ice near the titan homeland. It emerged from the frozen sea on the port side of the ship and immediately attacked. When a head is severed, it shatters into ice. The hydra can regenerate lost heads by sprouting new ones like reversed icicles — unless it has taken acid or fire damage, which prevents regeneration. It can also ram its body against ships, dealing structural damage.
 
-The party defeated it in a ship-side battle using [[Ceril]]'s Moonbeam, [[Kerben]]'s acid poison to prevent head regrowth, [[Domyx]]'s frontline strikes, [[Vokunar]]'s healing and a finishing holy fireball, and [[Brim the Bullywog]]'s cannon fire. The battle also damaged [[The Opal]]'s hull.
+The party defeated it in a ship-side battle using [[Ceril]]'s Moonbeam, [[Kerben]]'s acid poison to prevent head regrowth, [[Domyx]]'s frontline strikes, [[Vokenar]]'s healing and a finishing holy fireball, and [[Brim the Bullywog]]'s cannon fire. The battle also damaged [[The Opal]]'s hull.

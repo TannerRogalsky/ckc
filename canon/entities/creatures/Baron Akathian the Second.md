@@ -19,7 +19,7 @@ A cloud titan who identifies himself as "Baron Akathian the Second." He is a rel
 
 In session 023, Baron Akathian the Second appeared alongside a female frost titan during a storm as the party approached the coast of [[Broy]]. He was acting under orders from a higher power — not of his own volition — and was sent to kill the party. Despite his immense size and power, he was already injured from a prior encounter. The party defeated him in combat aboard [[The Opal]].
 
-After being healed by [[Vokunar]], Baron Akathian departed peacefully with his companion, heading north toward titan homeland territory. Before leaving, he gave [[Domyx]] a scroll case containing a map showing a portion of [[Thalasia]] and a treacherous path through hills into the continent where Domyx's people live.
+After being healed by [[Vokenar]], Baron Akathian departed peacefully with his companion, heading north toward titan homeland territory. Before leaving, he gave [[Domyx]] a scroll case containing a map showing a portion of [[Thalasia]] and a treacherous path through hills into the continent where Domyx's people live.
 
 ## Nature
 

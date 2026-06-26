@@ -13,7 +13,7 @@ summary: "Party flips the Hole Shebang breaker switch, lights one lamp, clears t
 
 The party entered through service elevator doors and was immediately ambushed. A static charge built in the air as enemies sprang to life: [[Roger Ribbons]] - a winged aberration of string and twine with a red skull and crucifix-like head spikes - poured from behind the piano; swarms of jerky little toys emerged from barrels; a lightning elemental materialized on the electrical wires; and a smaller [[Death Spark]] entity zipped alongside it.
 
-The battle was fierce. Roger Ribbons grappled and reeled [[Kerben]] across the battlefield, forcing [[Zulu]] to break him free. [[Red Caesar]] and [[Vokunar]] used fire magic to devastate Roger Ribbons and the toy swarms, while [[Ceril]]'s Moonbeam hindered the toys' ability to repair themselves. The lightning elemental and death spark paralyzed multiple party members, but [[Kerben]] used a restoration scroll to free Red Caesar at a critical moment. The party destroyed Roger Ribbons and the remaining enemies.
+The battle was fierce. Roger Ribbons grappled and reeled [[Kerben]] across the battlefield, forcing [[Zulu]] to break him free. [[Red Caesar]] and [[Vokenar]] used fire magic to devastate Roger Ribbons and the toy swarms, while [[Ceril]]'s Moonbeam hindered the toys' ability to repair themselves. The lightning elemental and death spark paralyzed multiple party members, but [[Kerben]] used a restoration scroll to free Red Caesar at a critical moment. The party destroyed Roger Ribbons and the remaining enemies.
 
 After the fight, [[Domyx]] swam to a nearby landmass and found the "Sky High Striker" carnival game, a tall tower with a seesaw mallet bearing the "40 Carats" carrot logo. Domyx struck the mallet to the nine-out-of-ten mark. A scroll materialized, containing five spells: Expeditious Retreat, Melf's Minute Meteors, Fireball, Phantasmal Killer, and Synaptic Static.
 
@@ -29,7 +29,7 @@ The battle was intense. Mary Andrews used its lute to produce loud music that in
 
 The party moved deeper into the island and was ambushed by [[Phase Cat]]s and [[Smoke Elemental]]s. Phase cats - ethereal felines native to the area - hunted as a pack, phasing through walls and randomly teleporting their targets. Smoke elementals formed from smoldering debris attacked with poison tendrils and toxic bursts. [[Ceril]] wild-shaped into a chalice and cast Mass Cure Wounds, healing the entire party massively as grass and flowers sprang through the debris. [[Red Caesar]] cast Gust of Wind against a smoke elemental, pushing it toward the ocean. [[Domyx]] used his [[Gith Shard Glaive]] to cleave through phase cats and smoke elementals. The party won and pressed onward.
 
-The party entered an interior room containing a billiard table and a [[Magen]]. The magen challenged them to a game of eight-ball pool, offering to match bets up to five gold units. [[Vokunar]] accepted and played with [[Ceril]]'s subtle cheating assistance - tilting the table via Plant Growth - but still lost. The magen admitted it had planned to throw the first round as a hustle.
+The party entered an interior room containing a billiard table and a [[Magen]]. The magen challenged them to a game of eight-ball pool, offering to match bets up to five gold units. [[Vokenar]] accepted and played with [[Ceril]]'s subtle cheating assistance - tilting the table via Plant Growth - but still lost. The magen admitted it had planned to throw the first round as a hustle.
 
 [[Kerben]] played the "Smack a Bodak" whack-a-mole carnival game with [[Red Caesar]]'s Guidance spell, hitting all 60 bodaks and earning gold chips.
 
@@ -39,9 +39,9 @@ The party continued to the southern stage area where barrels once again spawned 
 
 The combat with Mary Andrews, Hooksy, and toy swarms concluded. [[Domyx]] repeatedly fell and revived through his Zealot resilience, unnerving Mary Andrews and drawing its attention. Mary Andrews kept using its lute against the party while Red Caesar's conjured hand and [[Kerben]]'s long-range shots helped break down the construct. Domyx eventually destroyed Mary Andrews, popping its head free.
 
-Toy swarms descended on Domyx as the fight continued. [[Zulu]], [[Ceril]], [[Kerben]], [[Vokunar]], and Red Caesar finished off the remaining toys, with Vokunar using fire magic to clear a clustered group. Domyx finally stayed down after pushing his resilience too far, and Ceril restored him once the battlefield was safe.
+Toy swarms descended on Domyx as the fight continued. [[Zulu]], [[Ceril]], [[Kerben]], [[Vokenar]], and Red Caesar finished off the remaining toys, with Vokenar using fire magic to clear a clustered group. Domyx finally stayed down after pushing his resilience too far, and Ceril restored him once the battlefield was safe.
 
-After the battlefield was safe, [[Vokunar]] healed Domyx, and Domyx drank a potion.
+After the battlefield was safe, [[Vokenar]] healed Domyx, and Domyx drank a potion.
 
 Advancing further, the party triggered a dart trap — animated darts popped balloons, poisoning Domyx (he resisted) and striking [[Zulu]]. The dart game awarded the party coins.
 

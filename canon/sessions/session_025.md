@@ -10,8 +10,8 @@ summary: "Party synthesizes and plants Antumbra, de-petrifies priests at Temple 
 ### Chunk 0000
 
 - [[Red Caesar]] traveled to [[The Academy]] in [[Brimbalin]] with [[Keys]] and [[Lydriel Gondara]] to synthesize [[Antumbra]].
-- [[Vokunar]] discovered a hidden [[Penumbra]] stash aboard [[The White Drake]] and proposed planting the Antumbra among it.
-- [[Vokunar]] departed [[The Opal]] to resume training with [[Sigil]] and [[Crone]].
+- [[Vokenar]] discovered a hidden [[Penumbra]] stash aboard [[The White Drake]] and proposed planting the Antumbra among it.
+- [[Vokenar]] departed [[The Opal]] to resume training with [[Sigil]] and [[Crone]].
 - [[Kerben]] acted as captain of [[The Opal]] during Red Caesar's absence.
 - The party recruited [[Trent]] and [[Ebi]] as temporary crew aboard [[The Opal]].
 - [[Ceril]] and [[Domyx]] visited the [[Temple of Sigil]] on [[Otyugh Isle]], discovering 12 petrified priests and 19 petrified Kuo-Toa.
@@ -42,7 +42,7 @@ summary: "Party synthesizes and plants Antumbra, de-petrifies priests at Temple 
 
 [[Red Caesar]] traveled to [[The Academy]] in [[Brimbalin]] where, with [[Keys]] and [[Lydriel Gondara]], he successfully synthesized [[Antumbra]] — a poisoned form of [[Penumbra]] designed to sabotage the [[Broyish Empire]]'s [[Starfall]] device. Using the "Caesarean method" of compressing [[Akasha]] through magical pressure, they produced a palm-sized sphere of jet-black material that would cause catastrophic damage when fed into Starfall.
 
-After [[Vokunar]] discovered a hidden [[Penumbra]] stash aboard [[The White Drake]], he proposed planting the Antumbra among the League's supply so it would eventually be traded to [[Broy]]. Vokunar then consulted [[Sigil]], learned that [[Obould]] was in less danger than he appeared, and departed [[The Opal]] to resume training with [[Sigil]] and [[Crone]]. [[Ceril]] consulted [[Aeris]], who confirmed the deployment would not harm the piece of herself trapped within the device.
+After [[Vokenar]] discovered a hidden [[Penumbra]] stash aboard [[The White Drake]], he proposed planting the Antumbra among the League's supply so it would eventually be traded to [[Broy]]. Vokenar then consulted [[Sigil]], learned that [[Obould]] was in less danger than he appeared, and departed [[The Opal]] to resume training with [[Sigil]] and [[Crone]]. [[Ceril]] consulted [[Aeris]], who confirmed the deployment would not harm the piece of herself trapped within the device.
 
 [[Kerben]] took on the role of acting captain of [[The Opal]]. He recruited [[Trent]] and [[Ebi]] — a couple fleeing the [[Mana Sickness]] in [[Southport]] — aboard the ship. Trent proved capable as master gunner before disembarking near Southport with Ebi and [[Rochella Golf]].
 
@@ -62,7 +62,7 @@ A flashback to [[Heaven's Bulb]] showed a younger [[Red Caesar]] speaking with [
 
 - The Antumbra plot directly targets the [[Broyish Empire]]'s [[Starfall]] device, the same machine [[Emperor Shen]] used to break the sky.
 - The de-petrified priests at the Temple of Sigil provide potential allies in Southport's fight against Mana Sickness.
-- [[Vokunar]]'s training with [[Sigil]] and [[Crone]] parallels his earlier training sessions, with the goddesses pushing him toward greater purpose and conviction.
+- [[Vokenar]]'s training with [[Sigil]] and [[Crone]] parallels his earlier training sessions, with the goddesses pushing him toward greater purpose and conviction.
 - The party's sabotage of [[The League of New Stark]]'s Penumbra supply cuts off a key resource for the Empire, potentially altering the balance of power.
 - The [[Deep Roses]] collected underwater provide the cure for [[Mana Sickness]], directly aiding [[Southport]] and connecting to Trent and Ebi's quest.
 - The [[Half Chart of the Witness]] is a partial map of [[Stark]] created before the flood; its missing half is unknown.

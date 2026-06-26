@@ -24,7 +24,7 @@ summary: "Party clears arena oozes, defeats mezzoloths, explores granary with al
 
 - The party finishes off the remaining oozes in the arena, including the last psychic goop. The battle ends with the arena cleared.
 - After the fight, [[Domyx]] searches the stalls and finds Kaedonite coinage bearing the profile of [[King Maniasis]] — [[Alamar]]'s father, who was poisoned by elf blood and went mad.
-- [[Vokunar]] discovers a wardrobe stable containing a ringmaster's motley vestment in bright pink, green, and blue — an ancient preserved art piece from the Kaedonite era.
+- [[Vokenar]] discovers a wardrobe stable containing a ringmaster's motley vestment in bright pink, green, and blue — an ancient preserved art piece from the Kaedonite era.
 - The party skips a short rest and heads west across elevated plateaus toward the cataract (giant waterfall).
 - The western grounds feature cliff edges overlooking the ocean, old fields overgrown with seaweed, additional stables, and enclosed buildings.
 - Wind and fog from the cataract sweep across the island, carrying with them a swarm of [[Severed Hands]] — crawling severed hands that scuttle like spiders.
@@ -33,13 +33,13 @@ summary: "Party clears arena oozes, defeats mezzoloths, explores granary with al
 
 ### Chunk 0002
 
-- [[Vokunar]] is knocked down by a mezzoloth but is healed by [[Kerben]]. [[Domyx]] finishes the last mezzoloth, ending the battle.
+- [[Vokenar]] is knocked down by a mezzoloth but is healed by [[Kerben]]. [[Domyx]] finishes the last mezzoloth, ending the battle.
 - The party explores the stables and finds silvered hackamores and bridles for fancy show horses — intact treasure still hanging in the preserved structures.
 - The party enters a small building and discovers a granary filled with barrels of 60 to 100 year old fermented malt liquor. Opening the doors releases a wave of toxic alcohol fumes.
 - The granary is infested with giant scorpions, a swarm of parasitic sturge bats, and carrion crawlers.
 - [[Red Caesar]] ignites the alcohol vapor, clearing the fumes and damaging clustered enemies.
 - [[Domyx]] is swarmed and grappled by multiple giant scorpions while suffering from alcohol poisoning.
-- [[Vokunar]] follows with radiant magic to thin the remaining forces.
+- [[Vokenar]] follows with radiant magic to thin the remaining forces.
 - [[Kerben]] picks off the last carrion crawler and a scorpion with precise shots.
 - [[Ceril]] finishes the final scorpion.
 - During a short rest, [[Red Caesar]] investigates the granary and finds drinkable [[Kaedonite Black Ale]].
@@ -55,7 +55,7 @@ Inside, the party discovers the [[Castle Kaedon Arena]], a strangely preserved i
 
 The ancient human remains scattered across the arena — spectators in the bleachers, athletes on the court — have rotted into hostile ooze creatures. The party fights through [[Psychic Goop]]s, ochre jellies, and a black pudding, all formed from the biomass of the castle's former inhabitants. After clearing the arena, the party finds [[Kaedon]] coinage bearing [[King Maniasis]] and a ringmaster's motley vestment.
 
-The party pushes westward into the castle's outer grounds, encountering [[Mezzoloth]]s and [[Severed Hands]] near the stables. [[Vokunar]] is knocked down during the fight but is healed by [[Kerben]]. [[Domyx]] finishes the last mezzoloth. The stables yield silvered horse tack as treasure.
+The party pushes westward into the castle's outer grounds, encountering [[Mezzoloth]]s and [[Severed Hands]] near the stables. [[Vokenar]] is knocked down during the fight but is healed by [[Kerben]]. [[Domyx]] finishes the last mezzoloth. The stables yield silvered horse tack as treasure.
 
 The party then enters a granary building — its grain having fermented into 60 to 100 year old malt liquor. Opening the doors releases toxic alcohol fumes that poison the party. The granary is infested with giant scorpions, sturge bats, and carrion crawlers. [[Red Caesar]] ignites the vapor, clearing the fumes and turning the room's hazard against its inhabitants. [[Domyx]] is swarmed and grappled by multiple scorpions while intoxicated. The party clears the granary, and during a short rest, [[Red Caesar]] finds drinkable [[Kaedonite Black Ale]].
 

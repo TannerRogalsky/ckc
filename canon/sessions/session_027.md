@@ -15,7 +15,7 @@ The party arrived in [[Cutlass Cray]] after surviving a massive swell caused by 
 
 **Red Caesar** traded his Wand of Lightning Bolts, a sapphire, jade, and a mithril to The Wonder Hulk for the [[Wand of Blighting Bolts]], granting him access to necrotic damage for the first time. He also purchased a potion of invulnerability and a potion of feather fall.
 
-**Vokunar** traded lapis lazuli to The Wonder Hulk for the [[Moon Blade]], a versatile warhammer fashioned by [[The Church of the Thirty Lights]] from a fragment of [[Crone]].
+**Vokenar** traded lapis lazuli to The Wonder Hulk for the [[Moon Blade]], a versatile warhammer fashioned by [[The Church of the Thirty Lights]] from a fragment of [[Crone]].
 
 **Domyx** stocked up on protective and mobility potions before the expedition.
 
@@ -57,7 +57,7 @@ The party emerged from barrels in a small cavern called [[City Hole]], lit by el
 
 ### Summary
 
-The party spent a full shopping spree in [[Cutlass Cray]], significantly upgrading their capabilities before embarking on the three-day sail to [[The Carrot Cake]]. [[Kerben]]'s acquisition of [[The Ascot]] gives him powerful animal-swap utility. [[Red Caesar]] gained necrotic damage for the first time. [[Vokunar]] received a weapon directly tied to [[Crone]]'s remains. [[Ceril]]'s encounter with [[Gilder Savar]] revealed a personal connection to his pre-Cataclysm past. The party finally arrived at [[The Carrot Cake]] — the culmination of Kerben's long trail of breadcrumbs — and were welcomed by a [[Magen]] of [[Jack Harvey]]. After defeating undead in the entrance corridor, they explored the midway, learning the park's layout and discovering new threats including a [[Cloaker]], [[Flame Skull]]s, and [[Hooksy the Clown Automaton]]. They then defeated a [[Haunted Living Tent]] that trapped them in an extra-dimensional space, and discovered the central hub with four portal holes leading to different park zones. [[Red Caesar]] impulsively entered the [[Hole Shebang]] first, and the party followed, emerging in a cavern of barrel portals.
+The party spent a full shopping spree in [[Cutlass Cray]], significantly upgrading their capabilities before embarking on the three-day sail to [[The Carrot Cake]]. [[Kerben]]'s acquisition of [[The Ascot]] gives him powerful animal-swap utility. [[Red Caesar]] gained necrotic damage for the first time. [[Vokenar]] received a weapon directly tied to [[Crone]]'s remains. [[Ceril]]'s encounter with [[Gilder Savar]] revealed a personal connection to his pre-Cataclysm past. The party finally arrived at [[The Carrot Cake]] — the culmination of Kerben's long trail of breadcrumbs — and were welcomed by a [[Magen]] of [[Jack Harvey]]. After defeating undead in the entrance corridor, they explored the midway, learning the park's layout and discovering new threats including a [[Cloaker]], [[Flame Skull]]s, and [[Hooksy the Clown Automaton]]. They then defeated a [[Haunted Living Tent]] that trapped them in an extra-dimensional space, and discovered the central hub with four portal holes leading to different park zones. [[Red Caesar]] impulsively entered the [[Hole Shebang]] first, and the party followed, emerging in a cavern of barrel portals.
 
 ### Connections
 
@@ -65,7 +65,7 @@ The party spent a full shopping spree in [[Cutlass Cray]], significantly upgradi
 - [[Theo Harvey]] revealed [[The Carrot Cake]]'s location and accessibility window in session 024.
 - [[The Carrot Cake]] demi-plane opened in session 026 after the moon was shattered.
 - [[Gilder Savar]] ties back to [[Ceril]] and [[Vanzia Vinfei]]'s escape from [[Brimbalin]] in the pre-Cataclysm era.
-- The [[Moon Blade]] connects [[Vokunar]] directly to [[Crone]]'s shattered remains.
+- The [[Moon Blade]] connects [[Vokenar]] directly to [[Crone]]'s shattered remains.
 - [[The Hideous Truth]] was hidden in session 015 and confirmed still present.
 - The [[Magen]] directory reveals [[The Carrot Cake]]'s internal geography: [[Magic Hat]], [[Hole Shebang]], [[King of the Hole]], [[Hole on Wheels]], and teleport-circle-connected zones.
 - [[Jack Harvey's Portrait]] ties back to [[Kerben]]'s past employment at [[Jack Harvey]]'s museum.

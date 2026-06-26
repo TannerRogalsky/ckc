@@ -10,7 +10,7 @@ related:
   - "[[Kerben]]"
   - "[[Domyx]]"
   - "[[Red Caesar]]"
-  - "[[Vokunar]]"
+  - "[[Vokenar]]"
 ---
 
 A being of pure elemental power, once a gem of amber. [[The Cataclysm]] drove it mad, and it roamed the area south of [[The Garden]] as a large bird moving as lightning between clouds. [[Theotropa]] tasked the party with destroying it; when a phoenix is killed, it reverts to its egg form and is reborn.

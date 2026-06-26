@@ -28,8 +28,8 @@ Shen's stated goal is that "our rage will kill the gods." He believes the gods p
 
 What Shen envisions after the gods' deaths is unclear. He has not described any plan for governance, reconstruction, or the world that follows. His worldview is purely negative — defined by what he wants destroyed rather than what he wants built. [[Domyx]] surmised that Shen wants to be "the only one allowed to" touch the sky, implying a desire for exclusive power over the heavens, but this was Domyx's interpretation, not Shen's own words.
 
-In session 024, [[Ceril]] and [[Vokunar]] were drawn into a shared vision of [[Aeris]]'s mortal body, which had been imprisoned for sixty to eighty years by Shen. He captured her and broke her into pieces so no one else could have her power. Her body is trapped at the center of the [[Starfall]] device, aging and weakening in captivity.
+In session 024, [[Ceril]] and [[Vokenar]] were drawn into a shared vision of [[Aeris]]'s mortal body, which had been imprisoned for sixty to eighty years by Shen. He captured her and broke her into pieces so no one else could have her power. Her body is trapped at the center of the [[Starfall]] device, aging and weakening in captivity.
 
-In session 026, [[Vokunar]] scryed on Shen and witnessed him loading a large [[Penumbra]] chunk into [[Starfall]] and firing a beam of energy across the heavens. The beam struck the moon, shattering it. Shen is confirmed as the operator of Starfall who has attacked two of the three sister goddesses — first [[Aeris]] sixty years ago and now [[Crone]].
+In session 026, [[Vokenar]] scryed on Shen and witnessed him loading a large [[Penumbra]] chunk into [[Starfall]] and firing a beam of energy across the heavens. The beam struck the moon, shattering it. Shen is confirmed as the operator of Starfall who has attacked two of the three sister goddesses — first [[Aeris]] sixty years ago and now [[Crone]].
 
 Shen may have attempted to reach [[Arcadia]] by [[Touching the Sky]], going beyond the rite's usual purpose of simply touching the sky.
