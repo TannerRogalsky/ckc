@@ -170,3 +170,5 @@
 ## [2026-06-26] lint | session_011.md — Corrected Vokunar training flashback from "Forty years" to "Sixty years" to match canon
 ## [2026-06-26] lint | Vokunar — Added aliases "Bokunar" (DM misspelling) and "Vokunov" (player misspelling)
 ## [2026-06-26] lint | Vokenar — Renamed entity from Vokunar to Vokenar (canonical spelling per transcripts); updated all canon wiki links and prose references
+## [2026-06-26] lint | Vokenar — Expanded aliases to 17 variants found across chunks: Vokanar, Vokinar, Bokanar, Volkanar, Volkinar, Vilkenar, Volkanor, Volkaner, Voknar, Volkenar, Booknar, Bokinar, Bokanara, Vokun
+## [2026-06-26] lint | Vokenar — Rewrote entity file: fixed sessions_appeared (added 011, 012; removed 016), removed duplicate Figma Brickfinger, merged session sections into Plot Events, added missing narrative content from chunks, added 13 new related entities
