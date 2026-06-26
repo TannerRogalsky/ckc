@@ -177,3 +177,5 @@
 ## [2026-06-26] lint | Kerben — Expanded entity with new aliases, surname Graphene, first mate role, poison expertise, Faraday/40 Carats backstory, Assassin archetype, missing sessions 011-017-021-023
 ## [2026-06-26] lint | Broken links — Fixed [[Cataclysm]] → [[The Cataclysm]] in Ceril.md, [[Order of Seasons]] → [[The Order of Seasons]] in Red Caesar.md, [[40 Carats]] → [[The Carrot Cake]] in Kerben.md, created Faraday entity
 ## [2026-06-26] lint | Jack Harvey, The Carrot Cake — Added bunker/gate details, Speak with Dead discovery context to both entities
+## [2026-06-26] lint | Kerben — removed crab spirit summoning (belongs to Ceril)
+## [2026-06-26] lint | Kerben — restored crab spirit summoning (shared with Ceril per session_020/chunk_0001)

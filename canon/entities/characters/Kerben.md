@@ -74,7 +74,7 @@ His personal history with [[Jack Harvey]] is deep and longstanding. He also knew
 
 Uses Hunter's Mark, Ensnaring Strike, dual-wields scimitars, and carries a musket (later the [[Hilltop Hunter]]). Has an arcane keyring with charges for Zone of Truth and Arcane Lock. Knows knots and can make restraints. Can activate Stone Cutting and Tremor Sense. Uses Stone Cunning to map underground terrain. Ranger/rogue multiclass build optimized for spiking down individual targets with Hunter's Mark and sneak attack. Expert poison user — applies wyvern poison, [[Lolth's Sting]], and custom-crafted poisons to his weapons.
 
-Travels with [[Zulu]], a dinosaur companion that can be given grasshopper legs via a jump scroll. [[Tango]] flies overhead as a scout. Can summon a crab spirit (bestial spirit). Uses Speak with Animals to communicate with creatures.
+Travels with [[Zulu]], a dinosaur companion that can be given grasshopper legs via a jump scroll. [[Tango]] flies overhead as a scout. Can summon a crab spirit (bestial spirit), shared with [[Ceril]] who summons the same crab. Uses Speak with Animals to communicate with creatures.
 
 ## Plot Events
 
