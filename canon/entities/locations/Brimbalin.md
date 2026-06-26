@@ -25,7 +25,7 @@ In session 013, the party sailed along the coast and saw the light pollution of 
 
 Before [[Queen Caeradwyn]]'s fall, the surrounding elven lands were defined by aristocratic rule, magical terrain-shaping, and widespread slavery.
 
-In session 014, the party arrived at the city via a magical self-conducting train along cleared rail lines. The city is protected by the [[Knights of the Four Seasons]] who inspect all arrivals at the train junction, casting Augury and an augmented Sanctuary spell on visitors. The city contains an [[Elvish Marketplace]], [[The Academy]] (the Order's epicenter), [[House Kiirnodel]]'s court, and connects via rail to 11 towns across the continent including Kirboku. The city is mostly elves and tieflings; humans are rare. [[Marshal Zem]] leads the militia. The current leader of [[House Kiirnodel]] is Rizolvir Kyrno Del, son of Eremil Kyrno Del, aligned chiefly with the Order.
+In session 014, the party arrived at the city via a magical self-conducting train along cleared rail lines. The city is protected by the [[Knights of the Four Seasons]] who inspect all arrivals at the train junction, casting Augury and an augmented Sanctuary spell on visitors. The city contains an [[Elvish Marketplace]], [[The Academy]] (the Order's epicenter), [[House Kiirnodel]]'s court, and connects via rail to 11 towns across the continent including Kirboku. The city is mostly elves and tieflings; humans are rare. [[Marshal Zem]] leads the militia.
 
 Outside the city, in the jungle, lies the monument of [[Yalet Aurum]] — a 40-50 foot stone face built by a Galeb Duurr around his golden body. The city has less forgiving alleyway districts where gangs roam. A tram connects the city to [[The Academy]] through jungle terrain.
 

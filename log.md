@@ -166,3 +166,4 @@
 ## [2026-06-21] lint | Red Caesar — Comprehensive re-evaluation of character across all session summaries; rewrote introduction to synthesize academic curiosity, social outsider status, and philosophical drive.
 ## [2026-06-25] lint | Risolvir Kiirnodel — Renamed entity from "Kirnodell" to "Kiirnodel", added "Kirnodell" as alias, updated all wiki-links across canon
 ## [2026-06-25] lint | House Kiirnodel, Aramil Kiirnodel — Renamed "Kiernodel"/"Keirnodel" to "Kiirnodel", updated all wiki-links and plain text across canon
+## [2026-06-25] lint | Risolvir Kiirnodel, Aramil Kiirnodel — Recorded uncle/nephew relationship between Aramil and Risolvir
