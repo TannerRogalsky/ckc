@@ -173,3 +173,6 @@
 ## [2026-06-26] lint | Vokenar — Expanded aliases to 17 variants found across chunks: Vokanar, Vokinar, Bokanar, Volkanar, Volkinar, Vilkenar, Volkanor, Volkaner, Voknar, Volkenar, Booknar, Bokinar, Bokanara, Vokun
 ## [2026-06-26] lint | Vokenar — Rewrote entity file: fixed sessions_appeared (added 011, 012; removed 016), removed duplicate Figma Brickfinger, merged session sections into Plot Events, added missing narrative content from chunks, added 13 new related entities
 ## [2026-06-26] lint | Domyx aliases — Added Domix, Domex, Domics, Dominic as transcript misspelling aliases
+## [2026-06-26] lint | Kerben — Added aliases Curbin, Kervin, Kurban from transcript misspelling search
+## [2026-06-26] lint | Kerben — Expanded entity with new aliases, surname Graphene, first mate role, poison expertise, Faraday/40 Carats backstory, Assassin archetype, missing sessions 011-017-021-023
+## [2026-06-26] lint | Broken links — Fixed [[Cataclysm]] → [[The Cataclysm]] in Ceril.md, [[Order of Seasons]] → [[The Order of Seasons]] in Red Caesar.md, [[40 Carats]] → [[The Carrot Cake]] in Kerben.md, created Faraday entity

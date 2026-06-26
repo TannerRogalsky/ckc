@@ -1,15 +1,23 @@
 ---
 type: character
 subtypes: [party-member]
-class: Ranger/Rogue (Arcane Trickster)
+class: Ranger/Rogue (Assassin/Arcane Trickster)
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028"]
+sessions_appeared: ["001", "011", "012", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028"]
 aliases:
   - Kerbin
+  - Curbin
+  - Kervin
+  - Kurban
+  - Curban
+  - Curben
+  - Karbin
+  - Kirvan
 related:
   - "[[The Opal]]"
   - "[[Raxxy]]"
   - "[[Zulu]]"
+  - "[[Tango]]"
   - "[[Sigrid Forgewelt]]"
   - "[[Beryzoz Helmscar]]"
   - "[[Hilltop Hunter]]"
@@ -21,7 +29,6 @@ related:
   - "[[Morel Chainsunder]]"
   - "[[Gammix]]"
   - "[[Tammix]]"
-  - "[[Tango]]"
   - "[[Continental Stark]]"
   - "[[Moon Mushrooms]]"
   - "[[Gunk Grodley]]"
@@ -38,19 +45,36 @@ related:
   - "[[Jack Harvey]]"
   - "[[The Ascot]]"
   - "[[Gilder Savar]]"
+  - "[[The Hideous Truth]]"
+  - "[[Castle Kaedon]]"
+  - "[[David Harvey]]"
+  - "[[Brim the Bullywog]]"
+  - "[[Theotropa]]"
+  - "[[Trent]]"
+  - "[[Ebi]]"
+  - "[[Southport]]"
+  - "[[Thalasia]]"
+  - "[[The Academy]]"
+  - "[[The Garden]]"
+  - "[[Cutlass Cray]]"
+  - "[[The Pit]]"
 ---
 
 A ranger/rogue multiclass and the party's primary scout and marksman. Travels aboard [[The Opal]] as navigator and, during [[Obould]]'s captivity, as acting captain. Expert tracker and survivalist who navigated the party through frozen straits, ambushed a [[Tatzelwurm]], and infiltrated [[The White Drake]] to plant [[Antumbra]] among the League's [[Penumbra]] stash. Freed [[Theo Harvey]] in exchange for the location of [[The Carrot Cake]], a project tied to his personal history with [[Jack Harvey]].
 
 ## Identity and Backstory
 
-Offers the enemy the same ultimatum given to previous dwarves: join the party or face consequences. Has a preternatural dwarf sense for gems and precious minerals — found a rare ruby embedded in a newly-mined wall section.
+Kerben Graphene is a dwarf and serves as first mate aboard [[The Opal]], working alongside [[Raxxy]] as navigator. He has a sailor background, knowing knots and able to fashion restraints. Offers the enemy the same ultimatum given to previous dwarves: join the party or face consequences. Has a preternatural dwarf sense for gems and precious minerals — found a rare ruby embedded in a newly-mined wall section and can distinguish valuable gemstones from worthless crystals.
+
+Has a childhood connection to the Deep World, where he used to roll around in "deep world sauce" as a kid. This exposure gave him a strong resistance to poison and an enduring fascination with toxin craft. He actively collects, develops, and applies poisons — from wyvern gland extracts to white dragon poison — and has advantage against poison effects.
+
+His personal history with [[Jack Harvey]] is deep and longstanding. He also knew [[Faraday]], an old boss of his, whose crypt he investigated and found tickets to [[The Carrot Cake]] inside. The breadcrumbs leading to the Carrot Cake were tied to the [[The Carrot Cake]] (known as the 40 Carats), an old-world circus and organization that Jack Harvey created and was converting into a bunker before [[The Cataclysm]].
 
 ## Abilities and Equipment
 
-Uses Hunter's Mark, Ensnaring Strike, dual-wields scimitars, and carries a musket (later the [[Hilltop Hunter]]). Has an arcane keyring with charges for Zone of Truth and Arcane Lock. Knows knots and can make restraints. Can activate Stone Cutting and Tremor Sense. Uses Stone Cunning to map underground terrain. Ranger/rogue multiclass build optimized for spiking down individual targets with Hunter's Mark and sneak attack.
+Uses Hunter's Mark, Ensnaring Strike, dual-wields scimitars, and carries a musket (later the [[Hilltop Hunter]]). Has an arcane keyring with charges for Zone of Truth and Arcane Lock. Knows knots and can make restraints. Can activate Stone Cutting and Tremor Sense. Uses Stone Cunning to map underground terrain. Ranger/rogue multiclass build optimized for spiking down individual targets with Hunter's Mark and sneak attack. Expert poison user — applies wyvern poison, [[Lolth's Sting]], and custom-crafted poisons to his weapons.
 
-Travels with [[Zulu]], a dinosaur companion that can be given grasshopper legs via a jump scroll. [[Tango]] flies overhead as a scout.
+Travels with [[Zulu]], a dinosaur companion that can be given grasshopper legs via a jump scroll. [[Tango]] flies overhead as a scout. Can summon a crab spirit (bestial spirit). Uses Speak with Animals to communicate with creatures.
 
 ## Plot Events
 
@@ -61,10 +85,19 @@ Travels with [[Zulu]], a dinosaur companion that can be given grasshopper legs v
 - Received Deep World ivory figures as treasure. Found texts on the deep worlders during looting.
 - In gnoll territory, his new musket proved devastating at range against [[Gnoll]] packs and [[Wyvern]] guardians.
 - On [[Continental Stark]], expressed interest in developing [[Moon Mushrooms]] and wyvern gland extracts into battle poisons.
+- Knows how to doctor up natural salt baths for healing, providing the party with temporary HP during short rests.
 
-## Leveling
+## Session 011
 
-**Level 8:** Advanced to Rogue 3, choosing Arcane Trickster subclass. Gains access to wizard spells (three prepared from spellbook) and bonus action stealth. Considering Assassin rogue archetype for initiative advantage and first-round sneak attack bonuses.
+Kerben helped the party navigate the deep worlder compound in [[Darvinblast]]. He used his knowledge of dwarven language to shout morale to the trapped dwarves, intimidating the cult grunts. He detained captured spies and used his arcane keyring to cast Zone of Truth on prisoners, spending charges to extract information. He fought bat riders and deep world grunts alongside the party.
+
+## Session 012
+
+In [[Darvinblast]], Kerben used Stone Cunning to map underground passages and identify safe routes. He tracked movement through walls with Tremor Sense. During the confrontation with the [[Fire Giant]], Kerben shot the giant with his musket, impressing the giant who recognized gunpowder from the east. He directed [[Kilosaurus]] to charge and gore the Fire Giant, knocking it off a 60-foot bridge. After the battle, Kerben found a rare ruby embedded in a newly-mined wall section, demonstrating his preternatural dwarf sense for gems.
+
+## Session 014
+
+Kerben's growing interest in poison development was noted by the party. He had collected wyvern glands from previous fights with the express purpose of turning them into poisons.
 
 ## Session 015
 
@@ -81,6 +114,14 @@ The party sailed to [[The Garden]]. Kerben investigated the Garden's supply rout
 The party then sailed south of the Garden to hunt the [[Storm Phoenix]]. Kerben delivered the killing shot, revealing a single chunk of amber at its core. Kerben wanted to keep the amber before reluctantly letting the party wrest it from him and throw it overboard.
 
 On the journey back to [[Lyngbakr Lagoon]], Kerben used his intelligence and navigation tools to trace the druid supply routes from [[Theotropa]]'s information. He identified the general direction of [[Southport]] on the map — confirming it requires extra travel west of their current route but is reachable.
+
+## Session 016
+
+Kerben occupied himself hunting in the forests of [[Lyngbakr Lagoon]] while the party was away.
+
+## Session 017
+
+Kerben explored a new island with turrets and archways, sending [[Tango]] ahead as a scout. He used Speak with Animals to gather information about the area. He fought through encounters including an ochre jelly and fiendish beetle-like creatures that could stand on their hind legs.
 
 ## Session 018
 
@@ -99,6 +140,9 @@ The party explored an acid-damaged room and the castle's entrance foyer, where K
 In [[Castle Kaedon]], Kerben used Stone Cunning to sense that two passages were inert with no movement. He found a stash of Kaedonite coins on a table, some bearing bite marks — likely the meal of the [[Zorn]] the party had encountered earlier. Kerben coordinated [[Zulu]] and a summoned crab spirit as a defensive wall against enemies. [[Zulu]] was knocked down by a [[Nalfeshne]]'s Fireball, and Kerben used magic to restore him.
 
 In a later encounter in the same hallway, Kerben shredded the [[Hezru]] with dual blades while affected by its stench aura. After the visible enemies fell, the invisible [[Nalfeshne]] struck with a Lightning Bolt, knocking down [[Red Caesar]] and [[Zulu]]. Kerben healed Zulu after the attack.
+## Session 021
+
+In [[Castle Kaedon]], Kerben helped the party explore and combat wraiths and specters. He recognized the name "Acelia" from his past — Acelia was the younger sister of Lord Alomar, the youngest daughter of the Rodgard family, and Maniasis' last child before he succumbed to madness. Kerben discovered that a natural salt bath in the castle could be doctored up for healing, providing temporary HP to the party during short rests.
 
 ## Session 022
 
@@ -108,7 +152,7 @@ The party received a quest from [[David Harvey]] to capture [[Theo Harvey]], a t
 
 ## Session 023
 
-As the party approached [[Broy]], [[Kerben]] was tasked with finding a secure anchorage for [[The Opal]] along the hostile coastline. He identified a hidden docking spot among the cliffside slick stones. With the captain missing and territory hostile, Kerben chose to stay behind and guard the ship rather than venture inland with the party.
+As the party approached [[Broy]], Kerben was tasked with finding a secure anchorage for [[The Opal]] along the hostile coastline. He identified a hidden docking spot among cliffside slick stones. With the captain missing and territory hostile, Kerben chose to stay behind and guard the ship rather than venture inland with the party.
 
 ## Session 024
 
@@ -136,7 +180,7 @@ In the [[Hole Shebang]], Kerben fought through encounters with [[Roger Ribbons]]
 
 ## Session 025
 
-After the party sailed south from [[Thalasia]], [[Kerben]] used his invisibility and lockpicking skills to sneak aboard [[The White Drake]] while docked in [[Broy]]. Using [[Zulu]] as a distraction, he lockpicked into the ship's hold and pitched the [[Antumbra]] sphere among the League's stockpiled [[Penumbra]] stones. This act of sabotage was intended to poison the League's Penumbra supply when it was eventually handed off to the [[Broyish Empire]] and fed into [[Starfall]].
+After the party sailed south from [[Thalasia]], Kerben used his invisibility and lockpicking skills to sneak aboard [[The White Drake]] while docked in [[Broy]]. Using [[Zulu]] as a distraction, he lockpicked into the ship's hold and pitched the [[Antumbra]] sphere among the League's stockpiled [[Penumbra]] stones. This act of sabotage was intended to poison the League's Penumbra supply when it was eventually handed off to the [[Broyish Empire]] and fed into [[Starfall]].
 
 Kerben took on the role of acting captain of [[The Opal]] while [[Red Caesar]] was away working on the [[Antumbra]] synthesis at [[The Academy]] in [[Brimbalin]]. He recruited [[Trent]] and [[Ebi]] aboard during their passage through [[Southport]] waters. He also gained the Roving ranger feature, enhancing his combat capabilities.
 

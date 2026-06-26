@@ -77,6 +77,7 @@
 - [[King Maniasis]] — King of Kaedon, father of Alamar; went mad from elf-blood poisoning
 - [[Charlotte]] — Sister of [[Ulrich Fjöler]]; works at [[Akathia Manor]] preparing food and maintenance
 - [[Domyx IV]] — Current ruler of [[Clan Akathia]], father of [[Domyx]] and [[Lorelei]]; disowned Domyx after he refused to forget clan secrets
+- [[Faraday]] — Kerben's old boss from before the Cataclysm; deceased, his crypt contained tickets to The Carrot Cake
 
 
 ## Creatures & Companions
