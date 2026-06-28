@@ -175,7 +175,7 @@
 
 ### Chunk 0002
 
-- In a flashback, [[Domyx]] learns from [[Ulrich Fjöler]] that [[Clan Akathia]] erased a prior sky-touched blood relative who may still live somewhere in [[Stark]].
+- In a flashback, [[Domyx]] learns from [[Ulrich Fjoller]] that [[Clan Akathia]] erased a prior sky-touched blood relative who may still live somewhere in [[Stark]].
 - The party enters gnoll territory, prevents an ambush, and eliminates the local [[Gnoll]] leaders and stragglers.
 - The party discovers a large pure [[Penumbra]] chunk resting atop gnomish gold bars.
 
@@ -322,7 +322,7 @@
 ### Chunk 0000
 
 - At [[Lyngbakr Lagoon]], the settlement continues growing with wooden structures, a watchtower, and a cistern. [[Ceril]] and [[Kerben]] improve the food supply using druidic magic.
-- [[Domyx]] receives a dream visitation from his sister [[Lorelei]], who reveals [[Ulrich Fjöler]] is imprisoned and sentenced to execution. Lorelei is pregnant with Ulrich's child and begs Domyx to rescue him. Domyx pledges to return.
+- [[Domyx]] receives a dream visitation from his sister [[Lorelei]], who reveals [[Ulrich Fjoller]] is imprisoned and sentenced to execution. Lorelei is pregnant with Ulrich's child and begs Domyx to rescue him. Domyx pledges to return.
 - [[Damien Ouranous]] arrives as an envoy of [[The League of New Stark]] aboard a League ship. He reveals the League shot down a [[Broyish Empire]] airship on the party's behalf and will continue protecting their operations.
 - The party visits [[Lady Jacinthe]] aboard [[The White Drake]] via Teleport Circle. She warns that the Empire may be collecting [[Penumbra]]-like stones to power a massive magical weapon. She offers two side quests: a corrupted siren in the southwestern seas and an old-world construct at a southern castle.
 - [[Imotep]] uses *Transport via Plants* to return the party to [[Lyngbakr Lagoon]].
@@ -626,7 +626,7 @@
 ### Chunk 0003
 
 - [[Domyx]] was swallowed by the [[Remorhaz]] and trapped inside. [[Kerben]] fired into the Remorhaz's side, punching a rescue hole. [[Vokenar]] destroyed the creature with a radiant blast. [[Kerben]] cut into the corpse to extract Domyx's unconscious body; [[Ceril]] healed him back to consciousness. Kerben harvested the Remorhaz's heat gland for warmth.
-- The party climbed from snow into grassy hills, orchards, and farmland — the magic of the titan realm taking hold. They reached the last place [[Ulrich Fjöler]] had been seen before his capture. At this altitude, the sky appeared as a flat plate separating [[Stark]] from [[Arcadia]]. A golden palace — [[Akathia Manor]] — drew heavy titan traffic.
+- The party climbed from snow into grassy hills, orchards, and farmland — the magic of the titan realm taking hold. They reached the last place [[Ulrich Fjoller]] had been seen before his capture. At this altitude, the sky appeared as a flat plate separating [[Stark]] from [[Arcadia]]. A golden palace — [[Akathia Manor]] — drew heavy titan traffic.
 - [[Domyx]] entered [[Akathia Manor]] alone while the rest of the party stayed hidden, as outsiders would be endangered among the xenophobic titan folk. [[Vokenar]] detected no [[Penumbra]] nearby; the sky appeared intact from this distance.
 - Inside the manor, [[Domyx]] found [[Charlotte]] (Ulrich's sister), who warned him against being there. Domyx revealed the truth about [[Emperor Shen]] breaking the sky with [[Starfall]]. [[Lorelei]] emerged from hiding, having overheard everything. She confirmed she was pregnant and that Ulrich was imprisoned in the [[Prison of Frost]]. She begged to flee with Ulrich's child.
 - [[Ceril]]'s magma owl familiar scouted the area and reported a large cavern with heavy security and food trays being delivered inside — likely the Prison of Frost.
@@ -635,10 +635,10 @@
 
 ### Chunk 0004
 
-- The party reached the [[Prison of Frost]], where [[Ulrich Fjöler]] was trapped behind a plane of pure magical energy — an abomination to titan folk who traditionally shun magic.
+- The party reached the [[Prison of Frost]], where [[Ulrich Fjoller]] was trapped behind a plane of pure magical energy — an abomination to titan folk who traditionally shun magic.
 - [[Ceril]] dispelled the barrier with ease, freeing Ulrich. Ulrich greeted [[Domyx]] and [[Lorelei]] with relief.
 - The party escaped the peaks of the Titans swiftly and returned to [[The Opal]].
-- [[Ulrich Fjöler]] and [[Lorelei]] joined [[The Opal]] as new crew members. The ship now carried two couples, one of whom — Lorelei — was pregnant.
+- [[Ulrich Fjoller]] and [[Lorelei]] joined [[The Opal]] as new crew members. The ship now carried two couples, one of whom — Lorelei — was pregnant.
 
 ## Session 025
 
@@ -690,7 +690,7 @@
 - The party slays the prologue [[Xarag]], revealed to be named **Xarag**. The dragon dies in the algal bloom.
 - [[Kerben]] salvages the dragon corpse, using scales and acid gizzard to craft two permanent potions of acid resistance.
 - [[Domyx]] discovers a cliff-face hollow containing the dragon's hoard. The party recovers 200 pounds of gold, five units of mithril, bags of gems, the [[Orkland Pin of Courage]], and [[Obould's Wedding Band]].
-- Returning to [[The Opal]], the party finds three [[Broyish Empire]] [[Gun Balloon]]s attacking the ship. [[Yalet Mora]] mans the helm, [[Ulrich Fjöler]] the cannons, and [[Brim the Bullywog]] the arbalest.
+- Returning to [[The Opal]], the party finds three [[Broyish Empire]] [[Gun Balloon]]s attacking the ship. [[Yalet Mora]] mans the helm, [[Ulrich Fjoller]] the cannons, and [[Brim the Bullywog]] the arbalest.
 - Imperial warriors board the ship. The party defeats the boarders in a major deck battle and captures one gun balloon as a usable aerial vessel after repairs.
 - [[Vokenar]] charms one balloon pilot into flying north; [[Red Caesar]] brings another balloon down using Otiluke's Resilient Sphere.
 - [[Yalet Mora]] reminds [[Red Caesar]] of their plan to kill [[Yalet Aurum]].

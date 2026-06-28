@@ -32,7 +32,7 @@ summary: "Vokenar trains with Crone and Sigil; Emperor Shen fires Starfall at th
 - [[Kerben]] salvages the dragon corpse, using scales and acid gizzard to craft two permanent potions of acid resistance.
 - [[Domyx]] dives into the glowing water around [[Xarag's Island]] and discovers a cliff-face hollow containing the dragon's hoard.
 - The party recovers their lost treasure: 200 pounds of gold, five units of mithril (possibly from a crashed elven ship), bags of gems, the [[Orkland Pin of Courage]], and [[Obould's Wedding Band]].
-- Returning to [[The Opal]], the party finds three [[Broyish Empire]] [[Gun Balloon]]s attacking the ship. [[Yalet Mora]] mans the helm, [[Ulrich Fjöler]] the cannons, and [[Brim the Bullywog]] the arbalest.
+- Returning to [[The Opal]], the party finds three [[Broyish Empire]] [[Gun Balloon]]s attacking the ship. [[Yalet Mora]] mans the helm, [[Ulrich Fjoller]] the cannons, and [[Brim the Bullywog]] the arbalest.
 - Imperial warriors leap from the balloons onto the deck. A major battle ensues. [[Domyx]] grapples and throws enemies overboard; [[Vokenar]] destroys one balloon with fire and charms another pilot into flying north; [[Red Caesar]] brings a balloon down using Otiluke's Resilient Sphere; [[Kerben]] binds an enemy with shipboard ropes.
 - The party defeats the boarders and captures one gun balloon as a usable aerial vessel after repairs.
 - [[Yalet Mora]] reminds [[Red Caesar]] of their plan to kill [[Yalet Aurum]].

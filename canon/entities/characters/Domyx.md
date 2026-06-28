@@ -12,7 +12,7 @@ aliases:
   - Dominic
 related:
   - "[[Clan Akathia]]"
-  - "[[Ulrich Fjöler]]"
+  - "[[Ulrich Fjoller]]"
   - "[[Lorelei]]"
   - "[[Clan Lapis]]"
   - "[[Emperor Shen]]"
@@ -56,13 +56,13 @@ related:
   - "[[Cutlass Cray]]"
 ---
 
-A titan barbarian and former member of [[Clan Akathia]] who touched the sky, earning sky-blue palms that mark him as a blood relative of [[Emperor Shen]]. Renounced his family name after confronting his grandfather's role in breaking the sky and being disowned by his father [[Domyx IV]]. Named as [[The Opal]]'s successor by [[Obould]], but carries the burden of being Shen's grandson — the descendant of the party's greatest enemy. Traveled to the titan homeland, rescued [[Ulrich Fjöler]] from the [[Prison of Frost]], and brought [[Lorelei]] aboard with him.
+A titan barbarian and former member of [[Clan Akathia]] who touched the sky, earning sky-blue palms that mark him as a blood relative of [[Emperor Shen]]. Renounced his family name after confronting his grandfather's role in breaking the sky and being disowned by his father [[Domyx IV]]. Named as [[The Opal]]'s successor by [[Obould]], but carries the burden of being Shen's grandson — the descendant of the party's greatest enemy. Traveled to the titan homeland, rescued [[Ulrich Fjoller]] from the [[Prison of Frost]], and brought [[Lorelei]] aboard with him.
 
 ## Identity and Backstory
 
 Domyx is a titan warrior known for bold intimidation tactics. Among his people, touching the sky is an ambition contest — those who want to be the best climber simply go up as far as they can. He touched the sky, which imbued his hands with a sky-blue glow he carries as proof of the surface world.
 
-In a flashback, [[Ulrich Fjöler]] intercepted him during his descent from the titan mountains and warned that [[Clan Akathia]] had erased a previous sky-toucher from its records. [[Sigil]] later confirmed that [[Emperor Shen]] — the previous sky-toucher — is the party's greatest enemy, perhaps their only great enemy. The ancestor was banished from home and may have aimed for [[Arcadia]].
+In a flashback, [[Ulrich Fjoller]] intercepted him during his descent from the titan mountains and warned that [[Clan Akathia]] had erased a previous sky-toucher from its records. [[Sigil]] later confirmed that [[Emperor Shen]] — the previous sky-toucher — is the party's greatest enemy, perhaps their only great enemy. The ancestor was banished from home and may have aimed for [[Arcadia]].
 
 During the church confrontation with [[Morel Chainsunder]], Domyx gave a powerful speech about self-determination and freedom while barely alive. He showed his sky-blue hands to the congregation as proof of the surface world and removed cowls from congregants to show them as individuals.
 
@@ -103,7 +103,7 @@ The party then sailed south of the Garden to hunt the [[Storm Phoenix]]. Domyx u
 
 ## Session 016
 
-While sleeping aboard [[The Opal]], Domyx experienced a rare and vivid dream. [[Lorelei]], his sister, appeared in the dream and revealed that [[Ulrich Fjöler]] had been imprisoned for months and was sentenced to execution. Lorelei was pregnant with Ulrich's child and pleaded with Domyx to return to the titan consulate, rescue Ulrich, and stay his execution. Domyx promised he would come.
+While sleeping aboard [[The Opal]], Domyx experienced a rare and vivid dream. [[Lorelei]], his sister, appeared in the dream and revealed that [[Ulrich Fjoller]] had been imprisoned for months and was sentenced to execution. Lorelei was pregnant with Ulrich's child and pleaded with Domyx to return to the titan consulate, rescue Ulrich, and stay his execution. Domyx promised he would come.
 
 ## Session 018
 
@@ -159,7 +159,7 @@ As the party followed the blood-stained river into Titanfolk territory, a [[Remo
 
 The Remorhaz swallowed Domyx whole. Trapped inside the creature, he attempted to use Enlarge and fight his way out. [[Kerben]] fired into the Remorhaz's side, punching a hole that let light reach Domyx. [[Vokenar]] then destroyed the creature with radiant magic, freeing Domyx. [[Kerben]] cut into the corpse to extract Domyx's body, and [[Ceril]] healed him back to consciousness. After the fight, Kerben harvested the Remorhaz's heat gland for warmth during the rest of their mountain climb.
 
-The party climbed from snow into grassy hills with orchards and flowers — the magic of the titan realm taking hold. They reached the last place [[Ulrich Fjöler]] had been seen before his capture. Domyx recognized the terrain from his earlier descent and could lead the party the rest of the way. At this altitude, the sky appeared as a flat plate separating [[Stark]] from [[Arcadia]]. A golden palace — [[Akathia Manor]] — drew heavy titan traffic.
+The party climbed from snow into grassy hills with orchards and flowers — the magic of the titan realm taking hold. They reached the last place [[Ulrich Fjoller]] had been seen before his capture. Domyx recognized the terrain from his earlier descent and could lead the party the rest of the way. At this altitude, the sky appeared as a flat plate separating [[Stark]] from [[Arcadia]]. A golden palace — [[Akathia Manor]] — drew heavy titan traffic.
 
 Domyx entered the manor alone while the rest of the party stayed hidden, as outsiders would be endangered among the xenophobic titan folk. He found [[Charlotte]], Ulrich's sister, who warned him against being there. Domyx revealed the truth about [[Emperor Shen]] breaking the sky with [[Starfall]]. [[Lorelei]] emerged from hiding, having overheard everything. She confirmed she was pregnant and that Ulrich was imprisoned in the [[Prison of Frost]]. She begged to flee with Ulrich's child.
 
@@ -167,7 +167,7 @@ Domyx confronted his father [[Domyx IV]] at the manor's exterior. Domyx IV initi
 
 Domyx returned to the party and introduced [[Lorelei]], who apologized for dragging them into the mess. Domyx told the party to call him just "Domyx" from now on — no more noble title. With Lorelei's information, the party knew Ulrich was held in the Prison of Frost.
 
-The party proceeded to the [[Prison of Frost]], where [[Ulrich Fjöler]] was trapped behind a plane of pure magical energy — an abomination to titan folk who traditionally shun magic. [[Ceril]] dispelled the barrier with ease. Ulrich greeted Domyx, who presented himself without his Akathian title as a mark of his renounced identity, and [[Lorelei]] with relief. He asked if the world below was safe for them. The party escaped the peaks of the Titans and returned swiftly to [[The Opal]], bringing Ulrich and Lorelei aboard as new crew members.
+The party proceeded to the [[Prison of Frost]], where [[Ulrich Fjoller]] was trapped behind a plane of pure magical energy — an abomination to titan folk who traditionally shun magic. [[Ceril]] dispelled the barrier with ease. Ulrich greeted Domyx, who presented himself without his Akathian title as a mark of his renounced identity, and [[Lorelei]] with relief. He asked if the world below was safe for them. The party escaped the peaks of the Titans and returned swiftly to [[The Opal]], bringing Ulrich and Lorelei aboard as new crew members.
 
 ## Session 025
 

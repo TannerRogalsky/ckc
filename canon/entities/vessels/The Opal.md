@@ -21,7 +21,7 @@ The ship on which the party travels. Captained by [[Obould]], a gaudy orc. Navig
 | Navigator / Crow's Nest | [[Raxxy]] | Jack-of-all-trades; works the rigging and handles astrology with Kerben. |
 | Carpenter | [[Otto]] | Boat repairman recruited in [[Cutlass Cray]]. |
 | Master Gunner | [[Trent]] | Cannon specialist. Departed with [[Ebi]] to help cure the [[Mana Sickness]] in [[Southport]]. |
-| Master Gunner | [[Ulrich Fjöler]] | Took over gunner duties after Trent departed. Freed from the [[Prison of Frost]] in session 024. |
+| Master Gunner | [[Ulrich Fjoller]] | Took over gunner duties after Trent departed. Freed from the [[Prison of Frost]] in session 024. |
 | Cook | [[Mobley]] | Antisocial older crew member. |
 | Healer | [[Ebi]] | Tended the sickbay. Departed with [[Trent]] to help cure the [[Mana Sickness]] in [[Southport]]. |
 | Crew | [[Yalet Mora]] | Stone-bodied Galeb Duurr; can roll in boulder form. |

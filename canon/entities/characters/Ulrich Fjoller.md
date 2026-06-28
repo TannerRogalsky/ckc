@@ -5,6 +5,7 @@ session_introduced: "013"
 sessions_appeared: ["013", "016", "024", "025", "026"]
 aliases:
   - Ulric
+  - Ulrich Fjöler
 related:
   - "[[Domyx]]"
   - "[[Clan Akathia]]"

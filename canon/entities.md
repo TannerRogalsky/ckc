@@ -17,7 +17,7 @@
 - [[Rochella Golf]] — Passenger or temporary crew member aboard The Opal seeking Southport
 - [[Trent]] — Sailor from Southport who briefly served as The Opal's master gunner before returning home with Ebi
 - [[Ebi]] — Healer from Southport who briefly served aboard The Opal before returning home with Trent
-- [[Ulrich Fjöler]] — Domyx's friend from Clan Akathia; freed from Prison of Frost, now crew aboard The Opal; father of Lorelei's child
+- [[Ulrich Fjoller]] — Domyx's friend from Clan Akathia; freed from Prison of Frost, now crew aboard The Opal; father of Lorelei's child
 - [[Yalet Mora]] — Stone-bodied crew member who suggested recruiting a wind creature for The Opal
 - [[Aramil Kiirnodel]] — Primary force behind the Demi-Spell's power, former leader of Brimbalin, and painter of The Jewel of Alfheimer
 - [[Mobley]] — The cook aboard The Opal; prepared sedated carrot tea that allowed Theo Harvey's escape
@@ -75,7 +75,7 @@
 - [[Redrick Wenn]] — Dwarf whose visa was stolen by the party in [[The Pit]]
 - [[Lady Acelia]] — Younger sister of Alamar, youngest child of the Rodgard family; likely perished in the Cataclysm
 - [[King Maniasis]] — King of Kaedon, father of Alamar; went mad from elf-blood poisoning
-- [[Charlotte]] — Sister of [[Ulrich Fjöler]]; works at [[Akathia Manor]] preparing food and maintenance
+- [[Charlotte]] — Sister of [[Ulrich Fjoller]]; works at [[Akathia Manor]] preparing food and maintenance
 - [[Domyx IV]] — Current ruler of [[Clan Akathia]], father of [[Domyx]] and [[Lorelei]]; disowned Domyx after he refused to forget clan secrets
 - [[Faraday]] — Kerben's old boss from before the Cataclysm; deceased, his crypt contained tickets to The Carrot Cake
 
@@ -193,7 +193,7 @@
 - [[Mana Sea]] — Treacherous body of water near Southport; source of Mana Sickness and home to Deep Roses
 - [[Thalasia]] — Continent where Domyx's titan people live, separated by treacherous mountains
 - [[Akathia Manor]] — Golden palace atop the highest mountains in Stark; ruling seat of [[Clan Akathia]]
-- [[Prison of Frost]] — Prison facility in the titan homeland where [[Ulrich Fjöler]] is held awaiting execution
+- [[Prison of Frost]] — Prison facility in the titan homeland where [[Ulrich Fjoller]] is held awaiting execution
 - [[Tome Keeper's Pyramid]] — Temple in the eastern waters built by the Tome Keeper to house the Tome of Satariel
 - [[Magic Hat]] — Hotel and bunker within The Carrot Cake, accessible via teleport circle from the midway
 - [[Hole Shebang]] — Festival island of games and entertainments within The Carrot Cake, accessible via teleport circle

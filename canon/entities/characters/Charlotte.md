@@ -6,14 +6,14 @@ sessions_appeared: ["024"]
 aliases:
   - Charlotta
 related:
-  - "[[Ulrich Fjöler]]"
+  - "[[Ulrich Fjoller]]"
   - "[[Domyx]]"
   - "[[Lorelei]]"
   - "[[Domyx IV]]"
   - "[[Akathia Manor]]"
 ---
 
-Sister of [[Ulrich Fjöler]] and sister-in-law to [[Lorelei]]. She works at [[Akathia Manor]] preparing food and performing general maintenance duties. She was present when [[Domyx]] confronted his family about the truth of [[Emperor Shen]]'s crimes.
+Sister of [[Ulrich Fjoller]] and sister-in-law to [[Lorelei]]. She works at [[Akathia Manor]] preparing food and performing general maintenance duties. She was present when [[Domyx]] confronted his family about the truth of [[Emperor Shen]]'s crimes.
 
 ## Plot Events
 

@@ -35,10 +35,10 @@
 - **Resolved:** Sessions 017–021
 - **Details:** The party entered the risen [[Castle Kaedon]] and cleared it of fiends, undead, and curses. They discovered [[Queen Caeradwyn]]'s legacy, encountered [[Mary Andrews]], and learned the castle's connection to [[The Cataclysm]] and [[Starfall]].
 
-## Rescue Ulrich Fjöler from the Prison of Frost
+## Rescue Ulrich Fjoller from the Prison of Frost
 - **Given by:** [[Lorelei]]
 - **Resolved:** Session 024
-- **Details:** [[Lorelei]] contacted [[Domyx]] and pleaded for help rescuing [[Ulrich Fjöler]], who was imprisoned and sentenced to execution by his titan clan. The party infiltrated the [[Prison of Frost]], freed Ulrich, and brought both him and Lorelei aboard [[The Opal]] as crew. Lorelei was pregnant with Ulrich's child.
+- **Details:** [[Lorelei]] contacted [[Domyx]] and pleaded for help rescuing [[Ulrich Fjoller]], who was imprisoned and sentenced to execution by his titan clan. The party infiltrated the [[Prison of Frost]], freed Ulrich, and brought both him and Lorelei aboard [[The Opal]] as crew. Lorelei was pregnant with Ulrich's child.
 
 ## Retrieve Theo Harvey
 - **Given by:** [[David Harvey]]

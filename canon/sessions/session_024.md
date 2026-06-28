@@ -2,7 +2,7 @@
 type: session
 session: "024"
 chunks: 5
-summary: "Kerben frees Theo Harvey for Carrot Cake map; Ceril and Vokenar receive vision of Aeris trapped at Starfall; party sails north, battles a frost hydra, defeats a white dragon, defeats a Remorhaz, Domyx confronts his family at Akathia Manor, and the party rescues Ulrich Fjöler from the Prison of Frost."
+summary: "Kerben frees Theo Harvey for Carrot Cake map; Ceril and Vokenar receive vision of Aeris trapped at Starfall; party sails north, battles a frost hydra, defeats a white dragon, defeats a Remorhaz, Domyx confronts his family at Akathia Manor, and the party rescues Ulrich Fjoller from the Prison of Frost."
 ---
 
 # Session 024
@@ -99,7 +99,7 @@ Domyx was trapped inside the Remorhaz and attempted to Enlarge and fight his way
 
 ### Ascent to Akathia Manor
 
-The party climbed from snow into grassy hills with orchards and flowers — the magic of the titan realm taking hold. They reached the last place [[Ulrich Fjöler]] had been seen before his capture. [[Domyx]] recognized the terrain from his earlier descent and could lead the party the rest of the way. At this altitude, the sky appeared as a flat plate separating [[Stark]] from [[Arcadia]]. A golden palace — [[Akathia Manor]] — drew heavy titan traffic.
+The party climbed from snow into grassy hills with orchards and flowers — the magic of the titan realm taking hold. They reached the last place [[Ulrich Fjoller]] had been seen before his capture. [[Domyx]] recognized the terrain from his earlier descent and could lead the party the rest of the way. At this altitude, the sky appeared as a flat plate separating [[Stark]] from [[Arcadia]]. A golden palace — [[Akathia Manor]] — drew heavy titan traffic.
 
 [[Domyx]] entered the manor alone while the rest of the party stayed hidden, as elves, dwarves, and aasimar would be endangered among the xenophobic titan folk. [[Vokenar]] cast Locate Object searching for [[Penumbra]] but detected none — the sky appeared intact from this distance.
 
@@ -113,9 +113,9 @@ Domyx returned to the party and introduced [[Lorelei]], who apologized for dragg
 
 ### Chunk 0004
 
-### Rescue of Ulrich Fjöler
+### Rescue of Ulrich Fjoller
 
-The party proceeded to the [[Prison of Frost]], located in the peaks of the Titans. [[Ulrich Fjöler]] was found trapped behind a plane of pure magical energy — a barrier "made of pure sorcery" that Ulrich described as an abomination to titan folk, who traditionally shun magic. [[Domyx]] presented himself without his Akathian title, marking his renounced family identity. [[Ceril]] dispelled the barrier with ease, freeing Ulrich.
+The party proceeded to the [[Prison of Frost]], located in the peaks of the Titans. [[Ulrich Fjoller]] was found trapped behind a plane of pure magical energy — a barrier "made of pure sorcery" that Ulrich described as an abomination to titan folk, who traditionally shun magic. [[Domyx]] presented himself without his Akathian title, marking his renounced family identity. [[Ceril]] dispelled the barrier with ease, freeing Ulrich.
 
 Ulrich greeted Domyx and [[Lorelei]] with relief and asked if the world below was safe for them and the unborn child. The party escaped the peaks swiftly — the prison was not heavily locked down, the difficulty having been reaching it. A prison keeper was nearby but the party avoided confrontation.
 
@@ -127,8 +127,8 @@ This session revealed the full truth behind Theo Harvey's disappearance: Kerben 
 
 Beyond the hydra, the party trekked into the Arctic Plains and defeated the Tatzelwurm — a unique white dragon whose death calmed the region's extreme weather. Kerben crafted a new poison from the dragon's remains. The party followed the dragon's blood-stained river into Titanfolk territory, where a Remorhaz ambushed them and swallowed Domyx. The party destroyed the Remorhaz with radiant magic and extracted Domyx from the corpse.
 
-The party then climbed into the titan homeland proper, reaching Akathia Manor. Domyx confronted his family, learning that Ulrich Fjöler is imprisoned in the Prison of Frost and that Lorelei is pregnant with Ulrich's child. When Domyx refused to forget the truth about [[Emperor Shen]] breaking the sky, his father Domyx IV disowned him. Domyx permanently renounced his Akathian name and returned to the party with Lorelei.
-The party then rescued Ulrich Fjöler from the Prison of Frost by dispelling the magical barrier holding him captive. Ulrich and Lorelei joined the party aboard [[The Opal]] as new crew members.
+The party then climbed into the titan homeland proper, reaching Akathia Manor. Domyx confronted his family, learning that Ulrich Fjoller is imprisoned in the Prison of Frost and that Lorelei is pregnant with Ulrich's child. When Domyx refused to forget the truth about [[Emperor Shen]] breaking the sky, his father Domyx IV disowned him. Domyx permanently renounced his Akathian name and returned to the party with Lorelei.
+The party then rescued Ulrich Fjoller from the Prison of Frost by dispelling the magical barrier holding him captive. Ulrich and Lorelei joined the party aboard [[The Opal]] as new crew members.
 
 ### Connections
 
@@ -145,8 +145,8 @@ The party then rescued Ulrich Fjöler from the Prison of Frost by dispelling the
 - The blood-stained river serves as a narrative landmark — foreshadowing the party's path into the heart of Thalasia.
 - The Remorhaz encounter tests the party's coordination under extreme pressure; Domyx's survival inside the creature demonstrates his resilience.
 - Domyx's confrontation with [[Domyx IV]] permanently severs his ties to [[Clan Akathia]], completing his transformation from noble exile to independent adventurer.
-- [[Ulrich Fjöler]] is rescued from the [[Prison of Frost]] by [[Ceril]] dispelling the magical barrier, completing the quest set up in chunks 0002 and 0003.
-- [[Ulrich Fjöler]] and [[Lorelei]] join [[The Opal]] as new crew members, expanding the party's support network.
+- [[Ulrich Fjoller]] is rescued from the [[Prison of Frost]] by [[Ceril]] dispelling the magical barrier, completing the quest set up in chunks 0002 and 0003.
+- [[Ulrich Fjoller]] and [[Lorelei]] join [[The Opal]] as new crew members, expanding the party's support network.
 - Lorelei's pregnancy and new crew status raise practical questions about midwifery and nursery arrangements aboard the ship.
 - [[Ceril]]'s familiar spotting a heavily-guarded cavern with food deliveries proved the correct lead for locating the Prison of Frost.
 - The flat sky plate visible from this altitude reinforces the cosmological reality of [[Stark]] and [[Arcadia]] as separate realms.

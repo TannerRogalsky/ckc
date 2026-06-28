@@ -16,4 +16,4 @@ The ruling noble house of [[Clan Akathia]], situated atop the highest mountains 
 
 ## Plot Events
 
-In session 024, the party approached Akathia Manor at the top of the titan mountains. [[Domyx]] entered alone while the rest of the party stayed hidden nearby, as elves, dwarves, and aasimar would be unwelcome and potentially endangered among the xenophobic titan folk. Inside, Domyx found [[Charlotte]] and then [[Lorelei]], learning the truth about [[Ulrich Fjöler]]'s imprisonment. Domyx then confronted his father [[Domyx IV]] at the manor's exterior, renounced his family name, and was disowned.
+In session 024, the party approached Akathia Manor at the top of the titan mountains. [[Domyx]] entered alone while the rest of the party stayed hidden nearby, as elves, dwarves, and aasimar would be unwelcome and potentially endangered among the xenophobic titan folk. Inside, Domyx found [[Charlotte]] and then [[Lorelei]], learning the truth about [[Ulrich Fjoller]]'s imprisonment. Domyx then confronted his father [[Domyx IV]] at the manor's exterior, renounced his family name, and was disowned.
