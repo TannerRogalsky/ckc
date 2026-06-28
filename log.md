@@ -180,3 +180,4 @@
 ## [2026-06-26] lint | Kerben — removed crab spirit summoning (belongs to Ceril)
 ## [2026-06-26] lint | Kerben — restored crab spirit summoning (shared with Ceril per session_020/chunk_0001)
 ## [2026-06-28] lint | Renamed "Ulrich Fjöler" → "Ulrich Fjoller"; added misspelling as alias; updated all wiki-links and plain-text references across canon
+## [2026-06-28] update | Wand of Blighting Bolts — Added charge mechanics: 6 charges/day, cost = spell level − 2
