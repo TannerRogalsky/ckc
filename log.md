@@ -189,3 +189,4 @@
 ## [2026-06-28] ingest | session_029/chunk_0003 — No new entities. Updated: Hooksy the Clown Automaton (reproduction lore), Cloaker (session 029, King of the Hole), King of the Hole (third wave, lighthouse), Faraday (deduped paragraphs), session summary, timeline, quests.md
 ## [2026-06-28] lint | session_029 — Corrected issue number, aliases, mechanics, and Kerben cliffhanger.
 ## [2026-06-28] lint | Boston Golf — Created missing entity and linked session 029 mentions.
+## [2026-06-29] update | The Tyrant — Corrected mission scope: sent to find multiple locations, not just the Carrot Cake.
