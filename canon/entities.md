@@ -77,7 +77,8 @@
 - [[King Maniasis]] — King of Kaedon, father of Alamar; went mad from elf-blood poisoning
 - [[Charlotte]] — Sister of [[Ulrich Fjoller]]; works at [[Akathia Manor]] preparing food and maintenance
 - [[Domyx IV]] — Current ruler of [[Clan Akathia]], father of [[Domyx]] and [[Lorelei]]; disowned Domyx after he refused to forget clan secrets
-- [[Faraday]] — Kerben's old boss from before the Cataclysm; deceased, his crypt contained tickets to The Carrot Cake
+- [[Faraday]] — Kerben's old boss from before the Cataclysm; also Jack Harvey's benefactor who set up the wave combat system at King of the Hole
+- [[Boston Golf]] — Old Carrot Cake acting-troupe figure represented by a Magic Hat fortune-teller automaton
 
 
 ## Creatures & Companions
@@ -87,12 +88,16 @@
 - [[Zulu]] — Kerben's dinosaur companion
 - [[Cloaker]] — Bat-like creature wrapped in a massive silk membrane; ambushes from the canopy and summons allies through infrasound
 - [[Flame Skull]] — Tiny neon-colored floating fiend skulls that cast fire spells and blend with magical illusions
+- [[Gorgon Head]] — Floating monstrosity with snake hair, poison rays, and a petrifying gaze; encountered in the Magic Hat area
 - [[Hooksy the Clown Automaton]] — Grotesque clown-faced automaton that is actually a living creature bound within metal plating; multiple variants exist across the park
 - [[Mary Andrews]] — Lute-playing construct automaton in the Hole Shebang that uses music to charm and damage targets
 - [[Phase Cat]] — Ethereal feline native to the Hole Shebang area that phases through walls and teleports its targets
 - [[Smoke Elemental]] — Elemental creature of smoke and fumes in the Hole Shebang, formed from smoldering debris
 - [[Haunted Living Tent]] — Gargantuan living tent at The Carrot Cake that siphons victims into an extra-dimensional tea cozy house
 - [[Magen]] — Construct-like rabbit automata carrying part of Jack Harvey's mind and maintaining The Carrot Cake
+- [[Mummy]] — Undead petitioners with petrifying glare, encountered as wave enemies in King of the Hole
+- [[Shambling Mound]] — Massive plant monster of twisted vines; engulfed targets with tendrils, healed by lightning; wave enemy in King of the Hole
+- [[Lightning Elemental]] — Fast elemental of crackling electricity; arcs healed the Shambling Mound, creating a dangerous synergy; wave enemy in King of the Hole
 - [[Tango]] — Kerben's flying companion creature
 - [[Nyquil]] — Ceril's owl familiar, killed by Akasha rain
 - [[Kilosaurus]] — Triceratops-like companion used to haul Penumbra and later left at Lyngbakr Lagoon
@@ -266,6 +271,7 @@
 - [[Moon Blade]] — Versatile warhammer forged from Crone's remains, traded to Vokenar by the Church of the Thirty Lights
 - [[Jack Harvey's Portrait]] — Painting of Jack Harvey recovered from the haunted living tent
 - [[Ranger Scroll]] — Ranger spell scroll found among a dead adventurer's belongings
+- [[Ramadi's Capers]] — Collectible comic series about a dashing goblin rogue; issue 4 found in Magic Hat hotel
 
 ## Deities
 - [[Aeris]] — Sister goddess of Chaos, Potential, and Fate (alias: The Sky); wounded sixty years ago by Starfall, now being restored by Penumbra

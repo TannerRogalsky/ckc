@@ -21,7 +21,7 @@ aliases:
   - Vokun
   - Vokunov
 session_introduced: "001"
-sessions_appeared: ["001", "011", "012", "013", "014", "015", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028"]
+sessions_appeared: ["001", "011", "012", "013", "014", "015", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029"]
 related:
   - "[[Arcadia]]"
   - "[[Sigil]]"
@@ -225,3 +225,7 @@ Sigil pulled Vokenar aside for private counsel about the elves and Crone's fate,
 In [[Cutlass Cray]], cast Word of Recall at [[The Church of the Thirty Lights]] as a safety measure. Traded lapis lazuli for the [[Moon Blade]], a versatile warhammer fashioned from a fragment of [[Crone]]'s remains.
 
 At [[The Carrot Cake]], spotted a [[Cloaker]] threat in time to alert the party, preventing a surprise round. Fought through the [[Hole Shebang]] against [[Roger Ribbons]], [[Mary Andrews]], [[Phase Cat]]s, and [[Smoke Elemental]]s. Was temporarily blinded by smoke elemental poison but recovered. Used fireball to clear toy swarms and [[Hooksy the Clown Automaton]]. Accepted a [[Magen]]'s challenge to a game of eight-ball pool, playing with [[Ceril]]'s subtle cheating help but still losing to the magen's superior skill.
+
+## Session 029
+
+In the [[Magic Hat]], Vokenar used Lesser Restoration on himself to clear the [[Gorgon Head]]'s petrification effect. In [[King of the Hole]], he cast Spirit Guardians and Scorching Ray (fire doing double damage to [[Mummy]]s) during the first wave. He cast Radiance of Dawn in the second wave, devastating clustered [[Death Spark]]s and [[Hooksy the Clown Automaton]]s. He used a healing word scroll on himself after taking heavy damage. He cast Mass Cure Wounds and Cure Wounds to heal the party between waves, preparing them for the third encounter. He positioned himself at a beacon and coordinated with the party on which beacon combination to activate next. He used Toll the Dead to finish off a hooksy.

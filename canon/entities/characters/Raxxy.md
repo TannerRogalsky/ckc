@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc]
 session_introduced: "001"
-sessions_appeared: ["001", "015", "021", "024"]
+sessions_appeared: ["001", "015", "021", "024", "029"]
 aliases:
   - Roxy
   - Raxi

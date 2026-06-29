@@ -3,7 +3,7 @@ type: character
 subtypes: [party-member]
 class: Druid
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029"]
 related:
   - "[[Vanzia Vinfei]]"
   - "[[House Kiirnodel]]"
@@ -168,3 +168,7 @@ Ceril sailed with the party to [[The Carrot Cake]]. He supported the party durin
 ## Session 028
 
 In the [[Hole Shebang]], Ceril was grappled by a second [[Roger Ribbons]]'s ribbons but was freed by [[Domyx]]'s attacks. He wild-shaped into a chalice and cast Mass Cure Wounds, healing the entire party for a massive total — grass and flowers sprang through the debris as pollen spread restorative energy. He helped [[Vokenar]] cheat at pool against a [[Magen]] by tilting the table with Plant Growth.
+
+## Session 029
+
+In the [[Magic Hat]], Ceril fought vampiric familiars and [[Flame Skull]]s alongside the party. In [[King of the Hole]], he wild-shaped to fly and attacked enemies from the air during the first wave. During the second wave, he used his once-per-long-rest free Misty Step to fly upward and transformed into a dragon in his constellation form, mocking the grounded enemies. He cast Primal Savagery (acid) on the [[Shambling Mound]] before misty-stepping away. He cast Healing Word on [[Vokenar]] and fired Wisp arrows at the shambling mound. He positioned himself at a western beacon for the third wave.

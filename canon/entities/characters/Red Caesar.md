@@ -3,7 +3,7 @@ type: character
 subtypes: [party-member]
 class: Wizard (Abjurer)
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029"]
 related:
   - "[[Antumbra]]"
   - "[[Heaven's Bulb]]"
@@ -167,3 +167,9 @@ Red sailed with the party to [[The Carrot Cake]]. During the first combat inside
 In the [[Hole Shebang]], Red Caesar used Shocking Grasp to test whether he could trigger the electrical arcs predictably, confirming the arcs would focus on a living target. He identified that the party's immovable rods were non-conductive. He cast Guidance to help [[Kerben]] play the "Smack a Bodak" carnival game.
 
 Red fought through multiple encounters, using Steelwind Strike against [[Phase Cat]]s and a [[Smoke Elemental]], dealing massive damage with a critical hit. He used the [[Wand of Blighting Bolts]] to devastate a second [[Roger Ribbons]], withering its ribbons from red to gray. He cast Gust of Wind against a [[Smoke Elemental]], dealing significant damage and pushing it toward the ocean. He wore the salvaged [[Hooksy the Clown Automaton]] mask during the southern stage encounter.
+
+## Session 029
+
+In the [[Magic Hat]], Red Caesar fought vampiric familiars, [[Flame Skull]]s, and a [[Gorgon Head]] alongside the party. He counterspelled a fireball from a flame skull targeting the clustered party and used Mind Sliver and Shocking Grasp against the gorgon.
+
+In [[King of the Hole]], Red used his final Potion of Longstrider to boost his speed to 60 feet, then combined it with [[Vokenar]]'s Water Walk to run across the ocean surface to reach his assigned beacon, creating a V-shaped wake behind him. He used haste on himself during the second wave, boosting his speed to 120 feet, and sprinted up walls and across water to reach the far beacons. He cast Blight on the [[Shambling Mound]] at a high spell level — the plant creature automatically failing its save and taking massive necrotic damage. He cast Fireball centered on [[Domyx]] in the middle of the enemy cluster, destroying a hooksy in the blast. He counterspelled a fireball from a [[Flame Skull]] early in the first wave, protecting the party.

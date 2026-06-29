@@ -17,8 +17,8 @@
 
 ## Light the four lamps and enter Jack Harvey's inner sanctum
 - **Given by:** [[Magen]] (The Carrot Cake)
-- **Status:** In progress (1 of 4 lamps lit)
-- **Details:** A [[Magen]] explained that four lamps must be lit to access [[Jack Harvey]]'s inner sanctum within [[The Carrot Cake]]. Each lamp corresponds to one of the park's zones: [[Magic Hat]], [[Hole Shebang]], [[King of the Hole]], and [[Hole on Wheels]]. The party lit one lamp by flipping the breaker switch in the Hole Shebang. Three remain. The inner sanctum likely contains [[Penumbra]] hidden by Jack Harvey.
+- **Status:** In progress (2 of 4 lamps lit; 3 waves completed in King of the Hole)
+- **Details:** A [[Magen]] explained that four lamps must be lit to access [[Jack Harvey]]'s inner sanctum within [[The Carrot Cake]]. Each lamp corresponds to one of the park's zones: [[Magic Hat]], [[Hole Shebang]], [[King of the Hole]], and [[Hole on Wheels]]. The party lit the Hole Shebang lamp by flipping the breaker switch and the Magic Hat lamp by flipping the hotel's lighter switch. Two remain. The inner sanctum likely contains [[Penumbra]] hidden by Jack Harvey. The party entered [[King of the Hole]] and has completed three waves of its wave-based combat arena. [[Kerben]] appeared from a portal as the party prepared for the next wave.
 
 ## Defeat Yalet Aurum
 - **Given by:** [[Yalet Mora]]
@@ -39,4 +39,3 @@
 - **Given by:** [[Rakshasa]] (implied), [[Ceril]] (own initiative)
 - **Status:** In progress
 - **Details:** The [[Rakshasa]] is Ceril's father, a divine being trapped hunting escaped demons. He cannot see his family until the [[Tome Keeper]] is dead. Ceril's mother is a drow, possibly connected to [[Veronia Karadel]]. The Rakshasa's existence is unknown to [[Keys]] and [[Lydriel Gondara]].
-

@@ -3,7 +3,7 @@ type: character
 subtypes: [party-member]
 class: Ranger/Rogue (Assassin/Arcane Trickster)
 session_introduced: "001"
-sessions_appeared: ["001", "011", "012", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028"]
+sessions_appeared: ["001", "011", "012", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029"]
 aliases:
   - Kerbin
   - Curbin

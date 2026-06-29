@@ -766,3 +766,50 @@
 - The party defeated the final wave of enemies on the southern stage: [[Mary Andrews]], [[Hooksy the Clown Automaton]], and toy swarms. [[Domyx]]'s repeated dying and reviving via his Zealot feature unnerved Mary Andrews and helped draw its focus.
 - A dart trap animated darts that poisoned [[Domyx]] and struck [[Zulu]]. The dart game awarded the party coins.
 - The party confirmed one of four lamps was lit for [[Jack Harvey]]'s inner sanctum and decided to head to the [[Magic Hat]] next.
+
+## Session 029
+
+### Chunk 0000
+
+- The party returned to the rotunda and confirmed the first lamp was lit. [[Kerben]] alerted them to [[Broyish Empire]] scouts (balloon in the sky) before departing with [[Ulrich Fjoller]], [[Raxxy]], and [[Zulu]] to handle the ship.
+- The party entered the [[Magic Hat]] through a top hat portal into a checkerboard-tiled area with astroturf, kiosks, and magical ponds.
+- [[Vokenar]] examined a broken fortune-teller machine containing the automaton [[Boston Golf]], who resembles [[Rochella Golf]].
+- [[Red Caesar]] won all seven rounds of a probability-based card game against a [[Magen]] dealer, earning a scroll of six divine spells for [[Vokenar]].
+- [[Ceril]] detected creatures emerging from a water feature: vampiric familiars (three living humans under vampire protection, one undead).
+- Combat erupted with vampiric familiars, then [[Flame Skull]]s and a [[Gorgon Head]] emerged from a second water feature.
+- [[Domyx]] used his [[Gith Shard Glaive]] to strike distant flame skulls. [[Red Caesar]] countered enemy magic, and [[Vokenar]] devastated the flame skulls with ice.
+- [[Ceril]] used chalice healing to keep [[Vokenar]] alive during the fight.
+- The gorgon head was defeated but burst with petrifying energy, restraining Domyx and Vokenar.
+
+### Chunk 0001
+
+- The gorgon head petrification resolved: [[Domyx]] burst free from the stone. [[Vokenar]] used Lesser Restoration on himself.
+- The party explored the [[Magic Hat]] hotel interior — three levels, ~30 rooms, amenities including chocolate fountain and mini bar. [[Ceril]] found a purple worm hide rug with amethysts and carrot-infused tobacco. [[Vokenar]] found [[Ramadi's Capers]] issue 4.
+- A [[Magen]] maitre d' read the party's minds and delivered personalized food during the long rest.
+- [[Kerben]] sent a message via animal messenger warning that [[Broyish Empire]] scouts may be specifically investigating The Carrot Cake.
+- [[Red Caesar]] flipped the Magic Hat lamp lighter switch, lighting the second of four lamps for [[Jack Harvey]]'s inner sanctum.
+- The party entered [[King of the Hole]] — an island arena with a wave-based combat system set up by [[Faraday]], [[Jack Harvey]]'s benefactor.
+- Five beacon lights must be activated three at a time to trigger enemy waves; four waves required, optional fifth bonus.
+- The first wave spawned [[Phase Cat]]s, a [[Gorgon Head]], a [[Flame Skull]], and mummies. Combat began.
+
+### Chunk 0002
+
+- The party finished the first wave, defeating the remaining [[Mummy]]s and [[Gorgon Head]].
+- The party triggered the second wave of [[King of the Hole]], spawning [[Hooksy the Clown Automaton]]s, [[Death Spark]]s, a [[Shambling Mound]], and a [[Lightning Elemental]].
+- [[Vokenar]] used holy radiance against the clustered death sparks and Hooksy variants.
+- [[Red Caesar]] accelerated himself and used Water Walk to sprint across the ocean to his beacon.
+- [[Ceril]] transformed into a dragon and attacked from above.
+- [[Domyx]] cloud-jaunted to swap places with Vokenar, placing himself in the enemy cluster.
+- [[Red Caesar]] used Blight to wither the [[Shambling Mound]].
+- The [[Lightning Elemental]]'s lightning arcs healed the shambling mound, creating a dangerous synergy between the two enemies.
+- The party defeated the second wave. [[Domyx]] destroyed the lightning elemental with his glaive, taking electrical backlash on its death throes.
+- [[Vokenar]] healed the party between waves.
+- The party triggered the third wave, spawning more Hooksy variants and another shambling mound.
+
+### Chunk 0003
+
+- The third wave of [[King of the Hole]] spawned [[Hooksy the Clown Automaton]]s, a [[Shambling Mound]], a [[Cloaker]], and a [[Phase Cat]]. The party defeated all enemies.
+- A key discovery: when a Hooksy variant died, it burst open and released two smaller forms from within. Acid sterilized inner Hooksy variants and prevented further emergence.
+- The party took a short rest aided by [[Vokenar]]'s Divine Intervention.
+- [[Domyx]] looted a giant carrot-shaped glass lightbulb from a 40-foot lighthouse on the island.
+- As the party prepared to trigger the next wave, [[Kerben]] appeared from a portal with dramatic music. The session ended on this cliffhanger.

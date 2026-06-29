@@ -3,7 +3,7 @@ type: character
 subtypes: [party-member]
 class: Barbarian
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029"]
 aliases:
   - Domyx Akathian
   - Domix
@@ -192,3 +192,9 @@ In the [[Hole Shebang]], Domyx volunteered to run through the electrical arcs to
 Domyx fought through multiple encounters, defeating a second [[Roger Ribbons]] and a [[Mary Andrews]] construct. He used his [[Iklwa Isondo]] to reel Mary Andrews into range and smashed him with his hammer. He resisted the lute music's charm effect using a protective pendant. He also fought [[Phase Cat]]s and [[Smoke Elemental]]s, using his [[Gith Shard Glaive]] to cleave through enemies.
 
 Domyx played the Sky High Striker carnival game, striking the mallet hard enough to earn a scroll containing several spells. He was challenged to a game of pool by a [[Magen]] but declined.
+
+## Session 029
+
+In the [[Magic Hat]], Domyx survived the [[Gorgon Head]]'s petrifying death burst by making the constitution save, bursting free from the stone. In [[King of the Hole]], he navigated the beacon system to trigger waves of enemies, using his [[Gith Shard Glaive]] to cleave through [[Phase Cat]]s, [[Flame Skull]]s, and [[Mummy]]s in the first wave. He killed a phase cat and cleaved into a flame skull early in the fight.
+
+During the second wave, Domyx used his cloud jaunt to swap places with [[Vokenar]], placing himself directly in the enemy cluster. He attacked [[Death Spark]]s recklessly, clearing them with his glaive's cleave and brutal strike abilities. He was hit by the [[Shambling Mound]]'s engulf tendrils but used his rage reroll to resist. He engaged [[Hooksy the Clown Automaton]]s directly, using reckless attacks and divine smite to damage multiple targets. He took a Nimbus Form healing rain cloud mid-fight. When the [[Lightning Elemental]] was finally destroyed by his attacks, it sent back electrical damage on its death throes, but Domyx survived. He chugged a potion Red Caesar had brewed for him as the wave concluded.

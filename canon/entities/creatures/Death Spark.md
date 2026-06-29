@@ -3,6 +3,7 @@ type: creature
 session_introduced: "028"
 sessions_appeared:
   - "028"
+  - "029"
 related:
   - "[[Hole Shebang]]"
 ---

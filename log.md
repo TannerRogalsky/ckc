@@ -181,3 +181,11 @@
 ## [2026-06-26] lint | Kerben — restored crab spirit summoning (shared with Ceril per session_020/chunk_0001)
 ## [2026-06-28] lint | Renamed "Ulrich Fjöler" → "Ulrich Fjoller"; added misspelling as alias; updated all wiki-links and plain-text references across canon
 ## [2026-06-28] update | Wand of Blighting Bolts — Added charge mechanics: 6 charges/day, cost = spell level − 2
+## [2026-06-28] ingest | session_029/chunk_0000 — Created Kirbin, Gorgon Head. Updated: Red Caesar, Domyx, Vokenar, Ceril, Kerben, Magens, Flame Skull, Magic Hat, Raxxy, quests.md, timeline.md
+## [2026-06-28] summary | session_029 — Wrote session summary to canon/sessions/session_029.md
+## [2026-06-28] lint | Kirbin → Kerben — Removed erroneous Kirbin entity; "Kirbin" in transcript is Kerben arriving from the ship; updated session_029 summary, timeline, Magic Hat entity, and entities.md
+## [2026-06-28] ingest | session_029/chunk_0001 — Created 2 new entities: Mummy, Ramadi's Capers. Updated: Magic Hat, King of the Hole, Faraday, Gorgon Head, Flame Skull, Phase Cat, Magen, The Carrot Cake. Updated session summary, timeline, quests (2 of 4 lamps), entities.md
+## [2026-06-28] ingest | session_029/chunk_0002 — Created 2 new entities: Shambling Mound, Lightning Elemental. Updated: Domyx, Red Caesar, Vokenar, Ceril, Hooksy, Death Spark, Gorgon Head, King of the Hole, Magen, quests.md, timeline.md, entities.md
+## [2026-06-28] ingest | session_029/chunk_0003 — No new entities. Updated: Hooksy the Clown Automaton (reproduction lore), Cloaker (session 029, King of the Hole), King of the Hole (third wave, lighthouse), Faraday (deduped paragraphs), session summary, timeline, quests.md
+## [2026-06-28] lint | session_029 — Corrected issue number, aliases, mechanics, and Kerben cliffhanger.
+## [2026-06-28] lint | Boston Golf — Created missing entity and linked session 029 mentions.
