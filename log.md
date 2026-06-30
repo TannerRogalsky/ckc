@@ -190,3 +190,7 @@
 ## [2026-06-28] lint | session_029 — Corrected issue number, aliases, mechanics, and Kerben cliffhanger.
 ## [2026-06-28] lint | Boston Golf — Created missing entity and linked session 029 mentions.
 ## [2026-06-29] update | The Tyrant — Corrected mission scope: sent to find multiple locations, not just the Carrot Cake.
+## [2026-06-30] query | Checked Retrieve Theo Harvey quest resolution
+## [2026-06-30] query | Verified Theo Harvey was not delivered to David
+## [2026-06-30] query | Checked whether Theo escape was reported
+## [2026-06-30] update | Corrected Retrieve Theo Harvey resolution

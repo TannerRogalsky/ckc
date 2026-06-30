@@ -42,8 +42,8 @@
 
 ## Retrieve Theo Harvey
 - **Given by:** [[David Harvey]]
-- **Resolved:** Session 022
-- **Details:** [[David Harvey]] asked the party to find his traitor brother [[Theo Harvey]], who had stolen a [[Penumbra]] and fled. The party tracked Theo to [[Heaven's Bulb]], where he was imprisoned by [[Master Lee]]. The party retrieved him and brought him back as a prisoner aboard [[The Opal]]. (Theo later escaped from his cage in session 023.)
+- **Resolved:** Session 025
+- **Details:** [[David Harvey]] asked the party to retrieve his traitor cousin [[Theo Harvey]], who had revealed the [[Harengon Warrens]] to the [[Broyish Empire]]. The party captured Theo alive at the warrens island in session 022 and held him aboard [[The Opal]], but [[Kerben]] later freed him in exchange for information about [[The Carrot Cake]]. In session 025, Kerben reported Theo's escape to David. David accepted the outcome because Theo was no longer holding the island for the Empire, allowing the [[Harengon]] to reclaim the warrens.
 
 ## De-petrify the Temple of Sigil priests
 - **Given by:** Implicit (party initiative)
