@@ -5,6 +5,7 @@ session_introduced: "011"
 sessions_appeared: ["011", "013", "023", "024", "026"]
 aliases:
   - Domyx's Ancestor
+  - Domyx Acathian III
 related:
   - "[[Broyish Empire]]"
   - "[[Vizier Jade]]"

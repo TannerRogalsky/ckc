@@ -197,3 +197,4 @@
 ## [2026-07-05] update | Aramil Kiirnodel succession after Queen Caeradwyn
 ## [2026-07-05] lint | Brimbalin → Brimbolyn
 ## [2026-07-05] lint | Akathia Manor → Acathian Manor
+## [2026-07-05] update | Emperor Shen alias Domyx Acathian III
