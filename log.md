@@ -194,3 +194,4 @@
 ## [2026-06-30] query | Verified Theo Harvey was not delivered to David
 ## [2026-06-30] query | Checked whether Theo escape was reported
 ## [2026-06-30] update | Corrected Retrieve Theo Harvey resolution
+## [2026-07-05] update | Aramil Kiirnodel succession after Queen Caeradwyn

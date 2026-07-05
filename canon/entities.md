@@ -19,7 +19,7 @@
 - [[Ebi]] — Healer from Southport who briefly served aboard The Opal before returning home with Trent
 - [[Ulrich Fjoller]] — Domyx's friend from Clan Akathia; freed from Prison of Frost, now crew aboard The Opal; father of Lorelei's child
 - [[Yalet Mora]] — Stone-bodied crew member who suggested recruiting a wind creature for The Opal
-- [[Aramil Kiirnodel]] — Primary force behind the Demi-Spell's power, former leader of Brimbalin, and painter of The Jewel of Alfheimer
+- [[Aramil Kiirnodel]] — Took power after Queen Caeradwyn fell; primary force behind the Demi-Spell and painter of The Jewel of Alfheimer
 - [[Mobley]] — The cook aboard The Opal; prepared sedated carrot tea that allowed Theo Harvey's escape
 
 ## NPCs
@@ -64,7 +64,7 @@
 - [[Risolvir Kiirnodel]] — Leader of House Kiirnodel, warned the party about the Broyish Empire
 - [[Solar Flare]] — Tall woman with shining light seen by Vokenar 60 years ago
 - [[Deep World Wizard]] — Mage in [[Darvinblast]] allied with an [[Etten]] champion
-- [[Queen Caeradwyn]] — Former elven queen whose death preceded elven uprisings and the Cataclysm
+- [[Queen Caeradwyn]] — Former elven queen whose fall enabled Aramil Kiirnodel's rise and preceded elven uprisings and the Cataclysm
 - [[Vanzia Vinfei]] — High elf paladin revolutionary who escaped Brimbalin with Ceril; now operating in the Broyish Capital alongside Naomi
 - [[Naomi]] — Underground fixer in the Broyish Capital who absolves criminal records through magically stamped documents
 - [[Chan Hu]] — Ancient-world survivor and merchant in the Broyish market; previously known as "The Emerald Leaf" and knew Master Lee
