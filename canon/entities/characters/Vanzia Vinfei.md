@@ -8,7 +8,7 @@ aliases:
 related:
   - "[[Ceril]]"
   - "[[Queen Caeradwyn]]"
-  - "[[Brimbalin]]"
+  - "[[Brimbolyn]]"
   - "[[Broy]]"
   - "[[Broyish Empire]]"
 ---

@@ -4,6 +4,7 @@ subtypes: [city]
 session_introduced: "012"
 sessions_appeared: ["012", "013", "014", "026"]
 aliases:
+  - Brimbalin
   - Brimboland
   - Brembole
   - Brimblein
@@ -29,4 +30,4 @@ In session 014, the party arrived at the city via a magical self-conducting trai
 
 Outside the city, in the jungle, lies the monument of [[Yalet Aurum]] — a 40-50 foot stone face built by a Galeb Duurr around his golden body. The city has less forgiving alleyway districts where gangs roam. A tram connects the city to [[The Academy]] through jungle terrain.
 
-In session 026, Brimbalin is directly in the path of falling moon debris after [[Emperor Shen]] fires [[Starfall]] at [[Crone]] from [[Broy]]. The shot was deliberately aimed over western elf land, making the moon's destruction an act of war against the elves. The party anticipates many casualties and chaos in the city from direct meteor impacts.
+In session 026, Brimbolyn is directly in the path of falling moon debris after [[Emperor Shen]] fires [[Starfall]] at [[Crone]] from [[Broy]]. The shot was deliberately aimed over western elf land, making the moon's destruction an act of war against the elves. The party anticipates many casualties and chaos in the city from direct meteor impacts.

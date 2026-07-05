@@ -14,4 +14,4 @@ Additionally, when the wielder points the branch and draws a path, flowers bloom
 
 ## Plot Events
 
-In session 022, [[Ceril]] acquired this wand at the [[Elvish Marketplace]] in Brimbalin through [[Mudeep]]'s art-for-items trading system.
+In session 022, [[Ceril]] acquired this wand at the [[Elvish Marketplace]] in Brimbolyn through [[Mudeep]]'s art-for-items trading system.

@@ -22,7 +22,7 @@ related:
   - "[[Akasha]]"
   - "[[Aeon]]"
   - "[[Moon Mushrooms]]"
-  - "[[Brimbalin]]"
+  - "[[Brimbolyn]]"
   - "[[Elvish Marketplace]]"
   - "[[Gossa]]"
   - "[[The Academy]]"
@@ -42,11 +42,11 @@ aliases:
   - Serral
 ---
 
-A druid with a shield given by [[Aeris]] that serves as a conduit to the goddess. A pre-[[The Cataclysm]] survivor who fled [[Brimbalin]] alongside [[Vanzia Vinfei]] decades ago, and whose father is the [[Rakshasa]]. Communicates with [[Aeris]] through his shield and was drawn into a shared vision with [[Vokenar]] to witness her imprisoned mortal body at the heart of [[Starfall]]. A balanced utility caster whose toolkit spans scouting, divination, environmental manipulation, summoning, and healing.
+A druid with a shield given by [[Aeris]] that serves as a conduit to the goddess. A pre-[[The Cataclysm]] survivor who fled [[Brimbolyn]] alongside [[Vanzia Vinfei]] decades ago, and whose father is the [[Rakshasa]]. Communicates with [[Aeris]] through his shield and was drawn into a shared vision with [[Vokenar]] to witness her imprisoned mortal body at the heart of [[Starfall]]. A balanced utility caster whose toolkit spans scouting, divination, environmental manipulation, summoning, and healing.
 
 ## Identity and Backstory
 
-In a flashback to the fall of [[Queen Caeradwyn]], [[Ceril]] fled west from [[Brimbalin]] with [[Vanzia Vinfei]] and other refugees. He alone could see thick east-to-west lines of light in the sky — phenomena that increased before [[The Cataclysm]] and may be connected to the broken sky. During the escape he rejected an overture from [[House Kiirnodel]], memorizing the aristocrat who warned that others faster than him were coming.
+In a flashback to the fall of [[Queen Caeradwyn]], [[Ceril]] fled west from [[Brimbolyn]] with [[Vanzia Vinfei]] and other refugees. He alone could see thick east-to-west lines of light in the sky — phenomena that increased before [[The Cataclysm]] and may be connected to the broken sky. During the escape he rejected an overture from [[House Kiirnodel]], memorizing the aristocrat who warned that others faster than him were coming.
 
 Served on [[The Croakborne Carnival]] alongside a half-elf woman who later stole the [[Penumbra]]. Recognized the woman as working for [[The Order of Seasons]].
 
@@ -73,7 +73,7 @@ Can cast: Plant Growth, Guiding Bolt, Luminous Arrow, Moonbeam (repositionable a
 - Used Moonbeam and astral archer form against the [[Fuchsia Fungus]], then fought the [[Aeon]] when it attacked the party.
 - Identified and harvested [[Moon Mushrooms]] for [[Kerben]]'s poison research.
 - Used Primal Savagery against the [[Aeon]], forcing it to rely on Shield.
-- Traveled to [[Brimbalin]] aboard the magical train with the party and [[Brim the Bullywog]].
+- Traveled to [[Brimbolyn]] aboard the magical train with the party and [[Brim the Bullywog]].
 - Offered a clever alternate answer to [[Yalet Aurum]]'s riddle and received a chunk of gold; [[Red Caesar]] ultimately solved it as "bolder."
 - Visited [[Gossa]] at the [[Elvish Marketplace]] and traded a Mask of Ogun for an amulet that allows him to summon his familiar as a magma elemental. The magma familiar has claws, fire breath, and a death burst that explodes into a fireball if killed.
 - At [[The Academy]], recognized [[Keys]] and [[Lydriel Gondara]] as the same individuals who stole [[Penumbra]] from [[Castle Kaedon]].
@@ -119,7 +119,7 @@ Red created a loud distraction in the lounge, shattering porthole windows. While
 
 Before scrying, Ceril checked Damien's cape and confirmed it was safe conjuration magic. He then used the portrait, mercury, and brandy for a second scrying attempt. This time, Ceril successfully observed Jacinthe's private room. He discovered that Jacinthe's grief was a ruse — the wine bottles were unopened and lined up neatly. After verifying the coast was clear, Jacinthe wept loudly for anyone listening outside. [[Vizier Jade]] then appeared in the room via illusion magic and delivered a one-month ultimatum: Jacinthe must help the [[Broyish Empire]] find [[Penumbra]] or [[Obould]]'s safety could not be guaranteed.
 
-After the scrying, Ceril shared all the information with [[Red Caesar]] and the full party. He wrote a message to Damien about the truth of the situation and hid it inside the stolen painting. He then traveled with Red through a teleport circle to [[Brimbalin]], arriving at [[House Kiirnodel]]'s courtyard. At the [[Elvish Marketplace]], Ceril acquired the [[Branch of the Itinerant]], a spellcasting wand that also blooms flowers along a drawn path.
+After the scrying, Ceril shared all the information with [[Red Caesar]] and the full party. He wrote a message to Damien about the truth of the situation and hid it inside the stolen painting. He then traveled with Red through a teleport circle to [[Brimbolyn]], arriving at [[House Kiirnodel]]'s courtyard. At the [[Elvish Marketplace]], Ceril acquired the [[Branch of the Itinerant]], a spellcasting wand that also blooms flowers along a drawn path.
 
 The party reconvened aboard [[The Opal]] and learned of a new quest from [[David Harvey]]: retrieve the traitor [[Theo Harvey]] from imperial-occupied territory.
 
@@ -133,7 +133,7 @@ Ceril fought alongside the party against [[Baron Akathian the Second]] and the f
 
 Upon disembarking, the party encountered a human and tiefling surrounded by [[Oni]] demons on slick stone. Ceril cast Moonbeam on the nearest oni and helped engage them in combat.
 
-After the oni were defeated, the party learned the human couple was from [[Southport]] seeking a cure for [[Mana Sickness]]. Ceril used his knowledge of nature to identify the herbs they had purchased — wrong herbs for the wrong illness. He identified [[Deep Roses]] as the correct cure and learned the Mana Sickness is contagious and spreading through Southport. He misty-stepped inside [[Vokenar]]'s wall of fire to reach the couple safely. Later, Ceril was reunited with [[Vanzia Vinfei]] in the [[Broyish Capital]] — an old ally from their escape from [[Brimbalin]] decades ago. Vanzia was now operating alongside [[Naomi]] in the imperial city.
+After the oni were defeated, the party learned the human couple was from [[Southport]] seeking a cure for [[Mana Sickness]]. Ceril used his knowledge of nature to identify the herbs they had purchased — wrong herbs for the wrong illness. He identified [[Deep Roses]] as the correct cure and learned the Mana Sickness is contagious and spreading through Southport. He misty-stepped inside [[Vokenar]]'s wall of fire to reach the couple safely. Later, Ceril was reunited with [[Vanzia Vinfei]] in the [[Broyish Capital]] — an old ally from their escape from [[Brimbolyn]] decades ago. Vanzia was now operating alongside [[Naomi]] in the imperial city.
 
 The party entered the imperial palace and was granted audience with [[Vizier Jade]]. Ceril observed Jade's cruelty to [[Obould]] — she forced him to dance in a resilient sphere as entertainment. Ceril attempted to help [[Red Caesar]]'s negotiation by suggesting the party let Obould die, but also urged against giving Jade the secrets to penumbra alchemy, calling it too dangerous. Ceril correctly suspected that Jade might already have killed Obould and was bluffing about his survival.
 
@@ -151,7 +151,7 @@ During the trek into the Arctic Plains, Ceril wild-shaped into a ram to better r
 
 As the party followed the blood-stained river into Titanfolk territory, a [[Remorhaz]] surged toward them. Ceril cast Moonbeam directly on the creature as it approached. He then switched to constellation mode for better attack accuracy. The Remorhaz moved out of the Moonbeam, forcing Ceril to redirect it. He healed [[Kerben]] again during the fight.
 
-After [[Domyx]] was swallowed by the Remorhaz, Ceril helped coordinate the rescue. When [[Vokenar]] destroyed the creature with radiant magic, Ceril healed Domyx back to consciousness with Healing Word and then used his chalice form to restore him further. When Domyx split from the party to enter [[Akathia Manor]], Ceril stayed hidden nearby. He sent his magma owl familiar to scout the area, which reported a large cavern with heavy security at its entrance and food trays being delivered inside — a suspicious location that likely corresponded to the [[Prison of Frost]] where [[Ulrich Fjoller]] was being held. [[Vokenar]] detected no [[Penumbra]] in the area, and the sky appeared intact from this distance — the titan homeland was far from the cataclysm's effects.
+After [[Domyx]] was swallowed by the Remorhaz, Ceril helped coordinate the rescue. When [[Vokenar]] destroyed the creature with radiant magic, Ceril healed Domyx back to consciousness with Healing Word and then used his chalice form to restore him further. When Domyx split from the party to enter [[Acathian Manor]], Ceril stayed hidden nearby. He sent his magma owl familiar to scout the area, which reported a large cavern with heavy security at its entrance and food trays being delivered inside — a suspicious location that likely corresponded to the [[Prison of Frost]] where [[Ulrich Fjoller]] was being held. [[Vokenar]] detected no [[Penumbra]] in the area, and the sky appeared intact from this distance — the titan homeland was far from the cataclysm's effects.
 
 ## Session 025
 
@@ -161,7 +161,7 @@ Ceril visited the [[Temple of Sigil]] on Otyugh Isle with [[Domyx]], where they 
 
 ## Session 027
 
-In [[Cutlass Cray]], Ceril visited [[Gilder Savar]], a lich operating a potion shop. Ceril did not recognize Gilder in his lich form, but Gilder recognized Ceril from their shared past — both had escaped [[Brimbalin]] together alongside [[Vanzia Vinfei]]. Gilder revealed he chose undeath to live long enough to perfect his craft, saying "the best drinks take centuries to distill into perfection." Ceril purchased protective and emergency-use supplies from him.
+In [[Cutlass Cray]], Ceril visited [[Gilder Savar]], a lich operating a potion shop. Ceril did not recognize Gilder in his lich form, but Gilder recognized Ceril from their shared past — both had escaped [[Brimbolyn]] together alongside [[Vanzia Vinfei]]. Gilder revealed he chose undeath to live long enough to perfect his craft, saying "the best drinks take centuries to distill into perfection." Ceril purchased protective and emergency-use supplies from him.
 
 Ceril sailed with the party to [[The Carrot Cake]]. He supported the party during the entrance battle against undead and later collected seeds from the park's magically preserved trees.
 

@@ -49,7 +49,7 @@ related:
   - "[[Gheister]]"
   - "[[Domyx IV]]"
   - "[[Charlotte]]"
-  - "[[Akathia Manor]]"
+  - "[[Acathian Manor]]"
   - "[[Prison of Frost]]"
   - "[[Remorhaz]]"
   - "[[The Wonder Hulk]]"
@@ -85,7 +85,7 @@ Wields a halberd and later a trident. Has divine smite (Holy Light) and Divine F
 - Fought through the [[Aeon]]'s psychic charm and kept the creature pinned down long enough for the party to turn the battle. The Aeon offered a star gem and gold before Plane Shifting away; [[Vokenar]] chose not to attack and accepted the offer.
 - Recruited [[Brim the Bullywog]] to join the party. Met [[Marshal Zem]] at the train junction.
 - In the [[Elvish Marketplace]], traded mithril, two uncommon items, and a rare item to [[Lysanderol Nokirna]] for the [[Iklwa Isondo]], a +1 mithril trident with magnetic auto-return and pull effects.
-- Visited [[Yalet Aurum]]'s monument in the jungle outside [[Brimbalin]] with [[Red Caesar]] and the party. Helped solve Yalet's riddle about his brother [[Yalet Mora]].
+- Visited [[Yalet Aurum]]'s monument in the jungle outside [[Brimbolyn]] with [[Red Caesar]] and the party. Helped solve Yalet's riddle about his brother [[Yalet Mora]].
 
 ## Session 015
 
@@ -109,7 +109,7 @@ While sleeping aboard [[The Opal]], Domyx experienced a rare and vivid dream. [[
 
 During the Castle Kaedon exploration, Domyx was ambushed along the island's southern perimeter by specters rising from a graveyard field and a water elemental formed from cistern seepage. Vokenar's Turn Undead devastated the specters first. Domyx engaged the water elemental directly, hampering its movement and holding it away from the rest of the party. He was eventually grappled and pulled inside the elemental's vortex form, where he continued attacking from within despite the crushing pressure. The elemental was disintegrated by Vokenar, freeing Domyx. He was partially drained by the specters but recovered after the party used healing scrolls.
 
-During the battle with the [[Xarag]], Domyx used brutal strikes to finish off the adult dragon, delivering the final blow as Vokenar lost his wings and Domyx shrank back down from his enlarged form. After the fight, while recovering and wiping dust off a wall, Domyx discovered [[The Jewel of Alfheimer]] — a rare framed landscape painting by [[Aramil Kiirnodel]] depicting what [[Brimbalin]] looked like before [[The Cataclysm]] as a lush jungled continent with no visible water.
+During the battle with the [[Xarag]], Domyx used brutal strikes to finish off the adult dragon, delivering the final blow as Vokenar lost his wings and Domyx shrank back down from his enlarged form. After the fight, while recovering and wiping dust off a wall, Domyx discovered [[The Jewel of Alfheimer]] — a rare framed landscape painting by [[Aramil Kiirnodel]] depicting what [[Brimbolyn]] looked like before [[The Cataclysm]] as a lush jungled continent with no visible water.
 
 ## Session 019
 
@@ -159,7 +159,7 @@ As the party followed the blood-stained river into Titanfolk territory, a [[Remo
 
 The Remorhaz swallowed Domyx whole. Trapped inside the creature, he attempted to use Enlarge and fight his way out. [[Kerben]] fired into the Remorhaz's side, punching a hole that let light reach Domyx. [[Vokenar]] then destroyed the creature with radiant magic, freeing Domyx. [[Kerben]] cut into the corpse to extract Domyx's body, and [[Ceril]] healed him back to consciousness. After the fight, Kerben harvested the Remorhaz's heat gland for warmth during the rest of their mountain climb.
 
-The party climbed from snow into grassy hills with orchards and flowers — the magic of the titan realm taking hold. They reached the last place [[Ulrich Fjoller]] had been seen before his capture. Domyx recognized the terrain from his earlier descent and could lead the party the rest of the way. At this altitude, the sky appeared as a flat plate separating [[Stark]] from [[Arcadia]]. A golden palace — [[Akathia Manor]] — drew heavy titan traffic.
+The party climbed from snow into grassy hills with orchards and flowers — the magic of the titan realm taking hold. They reached the last place [[Ulrich Fjoller]] had been seen before his capture. Domyx recognized the terrain from his earlier descent and could lead the party the rest of the way. At this altitude, the sky appeared as a flat plate separating [[Stark]] from [[Arcadia]]. A golden palace — [[Acathian Manor]] — drew heavy titan traffic.
 
 Domyx entered the manor alone while the rest of the party stayed hidden, as outsiders would be endangered among the xenophobic titan folk. He found [[Charlotte]], Ulrich's sister, who warned him against being there. Domyx revealed the truth about [[Emperor Shen]] breaking the sky with [[Starfall]]. [[Lorelei]] emerged from hiding, having overheard everything. She confirmed she was pregnant and that Ulrich was imprisoned in the [[Prison of Frost]]. She begged to flee with Ulrich's child.
 

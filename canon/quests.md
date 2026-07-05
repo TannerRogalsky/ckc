@@ -23,7 +23,7 @@
 ## Defeat Yalet Aurum
 - **Given by:** [[Yalet Mora]]
 - **Status:** In progress
-- **Details:** [[Yalet Mora]] told [[Red Caesar]] that [[Yalet Aurum]] is his older brother and proposed a plan to train up and eventually defeat him. Yalet Aurum is a Galeb Duurr encased in a stone monument outside [[Brimbalin]]. He told Red to "come back when you are level 17." Yalet Mora reminded Red of this plan in session 026.
+- **Details:** [[Yalet Mora]] told [[Red Caesar]] that [[Yalet Aurum]] is his older brother and proposed a plan to train up and eventually defeat him. Yalet Aurum is a Galeb Duurr encased in a stone monument outside [[Brimbolyn]]. He told Red to "come back when you are level 17." Yalet Mora reminded Red of this plan in session 026.
 
 ## Find the other half of the Witness's chart
 - **Given by:** [[Witness]] (implied)

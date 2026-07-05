@@ -58,7 +58,7 @@ summary: "Party clears sturges, questions a dead Kaedon noble, discovers Carrot 
 - After the battle, [[Kerben]] harvests the dragon's acid-resistant scales and crafts [[Preparation Melf]] — a throwable sticky acid flask.
 - The party decides not to rest and continues investigating the area.
 - Investigation reveals decorative fireworks from [[Broy]] stored in the mangonel — it was originally a celebration device, not a weapon.
-- [[Domyx]], while recovering and wiping dust off a wall, discovers [[The Jewel of Alfheimer]] — a rare framed landscape painting by [[Aramil Kiirnodel]] depicting what [[Brimbalin]] looked like before [[The Cataclysm]] as a lush jungled continent with no visible water.
+- [[Domyx]], while recovering and wiping dust off a wall, discovers [[The Jewel of Alfheimer]] — a rare framed landscape painting by [[Aramil Kiirnodel]] depicting what [[Brimbolyn]] looked like before [[The Cataclysm]] as a lush jungled continent with no visible water.
 - The north door of the room is arcane-locked, but [[Kerben]] has magical keys that can open it.
 
 ### Summary
@@ -75,7 +75,7 @@ After clearing the sturges, the party discovers a preserved corpse of a [[Kaedon
 
 The party explores the castle's cliff edges, where [[Kerben]]'s Stone Sense reveals hollow underground spaces. They are ambushed by water elementals rising from the sea and [[Animated Armor]] constructs. After clearing these threats and resting, the party is attacked by a [[Xarag]] and four wyrmlings that burst from the ocean. The adult dragon declares "father will be pleased" when it finds the castle, hinting at a larger draconic threat.
 
-The dragon battle concludes with [[Domyx]] delivering the killing blow after [[Vokenar]] restores [[Ceril]] to consciousness. [[Kerben]] triggers a hidden mangonel trap during the fight but survives. Afterward, Kerben harvests the dragon's scales to craft [[Preparation Melf]], a throwable acid flask. The party discovers decorative fireworks from [[Broy]] in the mangonel — evidence of the castle's peaceful past. [[Domyx]] finds [[The Jewel of Alfheimer]], a rare painting by [[Aramil Kiirnodel]] showing Brimbalin before the Cataclysm.
+The dragon battle concludes with [[Domyx]] delivering the killing blow after [[Vokenar]] restores [[Ceril]] to consciousness. [[Kerben]] triggers a hidden mangonel trap during the fight but survives. Afterward, Kerben harvests the dragon's scales to craft [[Preparation Melf]], a throwable acid flask. The party discovers decorative fireworks from [[Broy]] in the mangonel — evidence of the castle's peaceful past. [[Domyx]] finds [[The Jewel of Alfheimer]], a rare painting by [[Aramil Kiirnodel]] showing Brimbolyn before the Cataclysm.
 
 ### Connections
 
@@ -87,4 +87,4 @@ The dragon battle concludes with [[Domyx]] delivering the killing blow after [[V
 - [[Animated Armor]] constructs are confirmed as spell-sustained guardians of the castle.
 - The [[Xarag]] encounter marks the party's first full engagement with the prologue dragon's clutch. The dragon's reference to "father" suggests a larger draconic threat.
 - [[Preparation Melf]] is a new consumable item crafted from the dragon's scales.
-- [[The Jewel of Alfheimer]] and [[Aramil Kiirnodel]] connect Castle Kaedon to pre-Cataclysm Brimbalin.
+- [[The Jewel of Alfheimer]] and [[Aramil Kiirnodel]] connect Castle Kaedon to pre-Cataclysm Brimbolyn.

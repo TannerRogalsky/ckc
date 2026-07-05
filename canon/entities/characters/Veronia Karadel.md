@@ -22,4 +22,4 @@ She warned the party that the [[Broyish Empire]] is their greatest enemy, workin
 
 She asked the party to check in on [[Boral Erendel]] at [[The Garden]], worrying where his mind has taken him with his side project.
 
-In session 022, Veronia appeared beside Risolvir at the House Kiirnodel teleport circle when [[Red Caesar]] and [[Ceril]] arrived in Brimbalin. She recognized Ceril as "Cyril Kelnavi, survivor of the old world, one of few we were able to save." She lowered the Otiluke blast shield surrounding the teleport circle, freeing the party.
+In session 022, Veronia appeared beside Risolvir at the House Kiirnodel teleport circle when [[Red Caesar]] and [[Ceril]] arrived in Brimbolyn. She recognized Ceril as "Cyril Kelnavi, survivor of the old world, one of few we were able to save." She lowered the Otiluke blast shield surrounding the teleport circle, freeing the party.

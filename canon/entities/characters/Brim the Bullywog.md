@@ -5,7 +5,7 @@ session_introduced: "014"
 sessions_appeared: ["014", "015", "022", "024", "026"]
 related:
   - "[[The Opal]]"
-  - "[[Brimbalin]]"
+  - "[[Brimbolyn]]"
   - "[[The Pit]]"
 ---
 

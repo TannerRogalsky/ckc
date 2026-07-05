@@ -10,7 +10,7 @@ aliases:
   - Keirnodel
 related:
   - "[[The Jewel of Alfheimer]]"
-  - "[[Brimbalin]]"
+  - "[[Brimbolyn]]"
   - "[[House Kiirnodel]]"
   - "[[The Order of Seasons]]"
   - "[[Demi-Spell]]"
@@ -18,6 +18,6 @@ related:
   - "[[Queen Caeradwyn]]"
 ---
 
-Aramil Kiirnodel took power in [[Brimbalin]] after [[Queen Caeradwyn]] fell, becoming the continent's former leader before [[The Cataclysm]]. He is also the primary force driving the [[Demi-Spell]] project forward within [[The Order of Seasons]], described as "mostly the one behind keeping the Demi-Spell and its power growing." Related to [[House Kiirnodel]]. Uncle of [[Risolvir Kiirnodel]], the current leader of the house.
+Aramil Kiirnodel took power in [[Brimbolyn]] after [[Queen Caeradwyn]] fell, becoming the continent's former leader before [[The Cataclysm]]. He is also the primary force driving the [[Demi-Spell]] project forward within [[The Order of Seasons]], described as "mostly the one behind keeping the Demi-Spell and its power growing." Related to [[House Kiirnodel]]. Uncle of [[Risolvir Kiirnodel]], the current leader of the house.
 
-He was also a painter, best known for his landscape artwork [[The Jewel of Alfheimer]], which depicts Brimbalin as a lush, jungled continent with no visible water. The painting was discovered by [[Domyx]] within [[Castle Kaedon]], suggesting Aramil may have had connections to the castle or that the artwork was looted and stored there before the Cataclysm.
+He was also a painter, best known for his landscape artwork [[The Jewel of Alfheimer]], which depicts Brimbolyn as a lush, jungled continent with no visible water. The painting was discovered by [[Domyx]] within [[Castle Kaedon]], suggesting Aramil may have had connections to the castle or that the artwork was looted and stored there before the Cataclysm.

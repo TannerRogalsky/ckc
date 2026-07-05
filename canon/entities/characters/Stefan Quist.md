@@ -7,4 +7,4 @@ related:
   - "[[The Order of Seasons]]"
 ---
 
-A human who serves as a receptionist at [[The Academy]] in [[Brimbalin]]. He greeted the party upon their arrival and asked them to state their business. He led them inside and introduced them to [[Keys]] and [[Lydriel Gondara]].
+A human who serves as a receptionist at [[The Academy]] in [[Brimbolyn]]. He greeted the party upon their arrival and asked them to state their business. He led them inside and introduced them to [[Keys]] and [[Lydriel Gondara]].

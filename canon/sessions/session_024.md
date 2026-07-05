@@ -2,7 +2,7 @@
 type: session
 session: "024"
 chunks: 5
-summary: "Kerben frees Theo Harvey for Carrot Cake map; Ceril and Vokenar receive vision of Aeris trapped at Starfall; party sails north, battles a frost hydra, defeats a white dragon, defeats a Remorhaz, Domyx confronts his family at Akathia Manor, and the party rescues Ulrich Fjoller from the Prison of Frost."
+summary: "Kerben frees Theo Harvey for Carrot Cake map; Ceril and Vokenar receive vision of Aeris trapped at Starfall; party sails north, battles a frost hydra, defeats a white dragon, defeats a Remorhaz, Domyx confronts his family at Acathian Manor, and the party rescues Ulrich Fjoller from the Prison of Frost."
 ---
 
 # Session 024
@@ -97,9 +97,9 @@ Domyx was trapped inside the Remorhaz and attempted to Enlarge and fight his way
 
 ### Chunk 0003
 
-### Ascent to Akathia Manor
+### Ascent to Acathian Manor
 
-The party climbed from snow into grassy hills with orchards and flowers — the magic of the titan realm taking hold. They reached the last place [[Ulrich Fjoller]] had been seen before his capture. [[Domyx]] recognized the terrain from his earlier descent and could lead the party the rest of the way. At this altitude, the sky appeared as a flat plate separating [[Stark]] from [[Arcadia]]. A golden palace — [[Akathia Manor]] — drew heavy titan traffic.
+The party climbed from snow into grassy hills with orchards and flowers — the magic of the titan realm taking hold. They reached the last place [[Ulrich Fjoller]] had been seen before his capture. [[Domyx]] recognized the terrain from his earlier descent and could lead the party the rest of the way. At this altitude, the sky appeared as a flat plate separating [[Stark]] from [[Arcadia]]. A golden palace — [[Acathian Manor]] — drew heavy titan traffic.
 
 [[Domyx]] entered the manor alone while the rest of the party stayed hidden, as elves, dwarves, and aasimar would be endangered among the xenophobic titan folk. [[Vokenar]] cast Locate Object searching for [[Penumbra]] but detected none — the sky appeared intact from this distance.
 
@@ -127,7 +127,7 @@ This session revealed the full truth behind Theo Harvey's disappearance: Kerben 
 
 Beyond the hydra, the party trekked into the Arctic Plains and defeated the Tatzelwurm — a unique white dragon whose death calmed the region's extreme weather. Kerben crafted a new poison from the dragon's remains. The party followed the dragon's blood-stained river into Titanfolk territory, where a Remorhaz ambushed them and swallowed Domyx. The party destroyed the Remorhaz with radiant magic and extracted Domyx from the corpse.
 
-The party then climbed into the titan homeland proper, reaching Akathia Manor. Domyx confronted his family, learning that Ulrich Fjoller is imprisoned in the Prison of Frost and that Lorelei is pregnant with Ulrich's child. When Domyx refused to forget the truth about [[Emperor Shen]] breaking the sky, his father Domyx IV disowned him. Domyx permanently renounced his Akathian name and returned to the party with Lorelei.
+The party then climbed into the titan homeland proper, reaching Acathian Manor. Domyx confronted his family, learning that Ulrich Fjoller is imprisoned in the Prison of Frost and that Lorelei is pregnant with Ulrich's child. When Domyx refused to forget the truth about [[Emperor Shen]] breaking the sky, his father Domyx IV disowned him. Domyx permanently renounced his Akathian name and returned to the party with Lorelei.
 The party then rescued Ulrich Fjoller from the Prison of Frost by dispelling the magical barrier holding him captive. Ulrich and Lorelei joined the party aboard [[The Opal]] as new crew members.
 
 ### Connections

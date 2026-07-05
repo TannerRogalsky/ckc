@@ -9,7 +9,7 @@ Described as "pieces of the fallen sky." Sources of great energy and power that 
 
 In session 013, the [[Darvinblast]] chunk proved partially dead: decades of deep worlder use had drained its divine sky energy and turned its outer mass into mundane obsidian — volcanic black glass belonging to Stark rather than the sky. [[Vokenar]] used Detect Magic to find that a kernel of pure penumbra remained at the exact center. [[Figma Brickfinger]]'s workers shaved it down to a smaller star-filled core. This raised concerns that any creature using penumbra as a power source is necessarily abusing and killing it.
 
-The party also recovered a pure chunk from [[Gnoll]] territory, then fed the collected pieces to [[Lyngbakr]] at [[Lyngbakr Lagoon]]. [[Sigil]] revealed that [[The Order of Seasons]] has moved its pieces to a protected place beyond the jungles of [[Brimbalin]].
+The party also recovered a pure chunk from [[Gnoll]] territory, then fed the collected pieces to [[Lyngbakr]] at [[Lyngbakr Lagoon]]. [[Sigil]] revealed that [[The Order of Seasons]] has moved its pieces to a protected place beyond the jungles of [[Brimbolyn]].
 
 In session 014, the DM connected [[Akasha]] — the silvery-white liquid raining over [[Continental Stark]] — to the same substance found in [[Vokenar]]'s sword, suggesting a link between Akasha, the oceans of [[Arcadia]], and the fallen sky that the Penumbra represents.
 

@@ -47,12 +47,12 @@
 - [[Beryzoz Helmscar]] — Gnomish armor forger in The Pit
 - [[Alamar]] — Person placed in magical coma by Vlerro, bound to Castle Kaedon
 - [[Vlerro]] — Placed Alamar in a magical coma (Sequestered)
-- [[Gossa]] — Aasimar mentor to Vokenar from Academia Lux, now working in the Elvish Marketplace in Brimbalin
-- [[Osiris Dims]] — Aasimar born in Brimbalin 45 years ago, revealed details about the Demi-Spell
+- [[Gossa]] — Aasimar mentor to Vokenar from Academia Lux, now working in the Elvish Marketplace in Brimbolyn
+- [[Osiris Dims]] — Aasimar born in Brimbolyn 45 years ago, revealed details about the Demi-Spell
 - [[Marshal Zem]] — Tiefling marshal of the Knights of the Four Seasons
 - [[Lysanderol Nokirna]] — Elf mithril smith in the Elvish Marketplace
-- [[Garsinth Theralal]] — Older elf in Brimbalin whose son cast Sleep on Red Caesar
-- [[Yalet Aurum]] — Galeb Duurr with a golden body encased in a stone monument outside Brimbalin
+- [[Garsinth Theralal]] — Older elf in Brimbolyn whose son cast Sleep on Red Caesar
+- [[Yalet Aurum]] — Galeb Duurr with a golden body encased in a stone monument outside Brimbolyn
 - [[Stefan Quist]] — Human receptionist at The Academy
 - [[Keys]] — Tiefling working on the Demi-Spell at The Academy, was at Castle Kaedon
 - [[Lydriel Gondara]] — Half-elf of the Order working with Keys, was at Castle Kaedon
@@ -65,7 +65,7 @@
 - [[Solar Flare]] — Tall woman with shining light seen by Vokenar 60 years ago
 - [[Deep World Wizard]] — Mage in [[Darvinblast]] allied with an [[Etten]] champion
 - [[Queen Caeradwyn]] — Former elven queen whose fall enabled Aramil Kiirnodel's rise and preceded elven uprisings and the Cataclysm
-- [[Vanzia Vinfei]] — High elf paladin revolutionary who escaped Brimbalin with Ceril; now operating in the Broyish Capital alongside Naomi
+- [[Vanzia Vinfei]] — High elf paladin revolutionary who escaped Brimbolyn with Ceril; now operating in the Broyish Capital alongside Naomi
 - [[Naomi]] — Underground fixer in the Broyish Capital who absolves criminal records through magically stamped documents
 - [[Chan Hu]] — Ancient-world survivor and merchant in the Broyish market; previously known as "The Emerald Leaf" and knew Master Lee
 - [[Courteous Cam]] — Dwarf farmer-trader who gave Ceril seeds, a scroll, and the gnoll Penumbra lead
@@ -75,7 +75,7 @@
 - [[Redrick Wenn]] — Dwarf whose visa was stolen by the party in [[The Pit]]
 - [[Lady Acelia]] — Younger sister of Alamar, youngest child of the Rodgard family; likely perished in the Cataclysm
 - [[King Maniasis]] — King of Kaedon, father of Alamar; went mad from elf-blood poisoning
-- [[Charlotte]] — Sister of [[Ulrich Fjoller]]; works at [[Akathia Manor]] preparing food and maintenance
+- [[Charlotte]] — Sister of [[Ulrich Fjoller]]; works at [[Acathian Manor]] preparing food and maintenance
 - [[Domyx IV]] — Current ruler of [[Clan Akathia]], father of [[Domyx]] and [[Lorelei]]; disowned Domyx after he refused to forget clan secrets
 - [[Faraday]] — Kerben's old boss from before the Cataclysm; also Jack Harvey's benefactor who set up the wave combat system at King of the Hole
 - [[Boston Golf]] — Old Carrot Cake acting-troupe figure represented by a Magic Hat fortune-teller automaton
@@ -149,7 +149,7 @@
 - [[Witness]] — Construct that mapped all of Stark before the flood; chased away from the Southern Archipelago Castle by PAXO
 
 ## Locations
-- [[Continental Stark]] — Massive elfish continent, last remnant of the Old World, home to Brimbalin
+- [[Continental Stark]] — Massive elfish continent, last remnant of the Old World, home to Brimbolyn
 - [[Arcadia]] — Realm above Stark, origin of Vokenar and Lyngbakr
 - [[The Opal]] — The party's ship
 - [[Gheister]] — Second ship in Obould's fleet, used as the party's transport to Lyngbakr Lagoon and Castle Kaedon
@@ -161,9 +161,9 @@
 - [[The Darvenlast]] — Self-sufficient area within The Deepworlders Delve
 - [[Deep World]] — The underground realm of the dwarves
 - [[Broy]] — The Empire in the eastern continent (Broyish Empire)
-- [[Brimbalin]] — Magic city on Continental Stark, seat of The Order of Seasons, connected to 11 towns by rail
-- [[Elvish Marketplace]] — Marketplace in Brimbalin where elves sell magical goods
-- [[The Academy]] — Epicenter of The Order of Seasons' activity in Brimbalin
+- [[Brimbolyn]] — Magic city on Continental Stark, seat of The Order of Seasons, connected to 11 towns by rail
+- [[Elvish Marketplace]] — Marketplace in Brimbolyn where elves sell magical goods
+- [[The Academy]] — Epicenter of The Order of Seasons' activity in Brimbolyn
 - [[Academia Lux]] — School in Arcadia where Vokenar was taught
 - [[Stark]] — Destination of Vokenar's fall
 - [[The Pit]] — Dwarvish settlement, seat of Figma Brickfinger's Union
@@ -197,7 +197,7 @@
 - [[Broyish Capital]] — Imperial capital of the Broyish Empire; highly industrialized with oni sentries, magic restrictions, and a bustling market
 - [[Mana Sea]] — Treacherous body of water near Southport; source of Mana Sickness and home to Deep Roses
 - [[Thalasia]] — Continent where Domyx's titan people live, separated by treacherous mountains
-- [[Akathia Manor]] — Golden palace atop the highest mountains in Stark; ruling seat of [[Clan Akathia]]
+- [[Acathian Manor]] — Golden palace atop the highest mountains in Stark; ruling seat of [[Clan Akathia]]
 - [[Prison of Frost]] — Prison facility in the titan homeland where [[Ulrich Fjoller]] is held awaiting execution
 - [[Tome Keeper's Pyramid]] — Temple in the eastern waters built by the Tome Keeper to house the Tome of Satariel
 - [[Magic Hat]] — Hotel and bunker within The Carrot Cake, accessible via teleport circle from the midway
@@ -236,7 +236,7 @@
 - [[Vivarian Zodex]] — Kerben's animal-protecting magical breastplate
 - [[Beryzoz's Teeth]] — Red Caesar's necrotic-resistance ring that can speak with the dead
 - [[Touching the Sky]] — Titan rite with cosmic implications for Domyx and the broken sky
-- [[Teleport Keys]] — Teleport circle encodements granted by House Kiirnodel for returning to Brimbalin
+- [[Teleport Keys]] — Teleport circle encodements granted by House Kiirnodel for returning to Brimbolyn
 - [[Subpoena Deuces Mercator]] — Reusable scroll that summons the Goblin Traders' ship anywhere at sea
 - [[Wyvern Poison]] — Injury poison crafted from wyvern glands aboard the Goblin Traders' ship
 - [[Lolth's Sting]] — Contact poison from the Goblin Traders that weakens a target's ability to fight
@@ -244,7 +244,7 @@
 - [[Kaedonite Black Ale]] — Uncommon drinkable black ale found in the Castle Kaedon Arena granary
 - [[Tome of Satariel]] — Book kept by the Tome Keeper demon; its destruction would free the Rakshasa from his charge
 - [[Preparation Melf]] — Throwable sticky acid flask crafted from Black Dragon scales
-- [[The Jewel of Alfheimer]] — Rare landscape painting by Aramil Kiirnodel depicting pre-Cataclysm Brimbalin
+- [[The Jewel of Alfheimer]] — Rare landscape painting by Aramil Kiirnodel depicting pre-Cataclysm Brimbolyn
 - [[Mangonel]] — Siege catapult at Castle Kaedon, originally a celebration device with fireworks
 - [[Starfall]] — Ancient weapon of celestial origin; conjectured to have caused the Cataclysm
 - [[Potion of Soothing Gaze]] — Healing potion that restores 10 HP to drinker and 10 HP to two creatures looked at

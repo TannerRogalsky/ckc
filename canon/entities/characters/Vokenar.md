@@ -53,7 +53,7 @@ related:
   - "[[Aeon]]"
   - "[[Demi-Spell]]"
   - "[[Academia Lux]]"
-  - "[[Brimbalin]]"
+  - "[[Brimbolyn]]"
   - "[[The Academy]]"
   - "[[Keys]]"
   - "[[Lydriel Gondara]]"
@@ -132,7 +132,7 @@ On [[Continental Stark]], cast Locate Object to find overgrown train rails and u
 
 Cast Calm Emotions against the [[Aeon]], helping neutralize its charm effects on the party. Chose not to attack the [[Aeon]] when it offered a star gem and gold, allowing it to Plane Shift away.
 
-Met [[Osiris Dims]], an aasimar born in [[Brimbalin]] 45 years ago, who revealed that the Magic City and [[The Order of Seasons]] are "one and the same" and that the [[Demi-Spell]] may be less than a year away.
+Met [[Osiris Dims]], an aasimar born in [[Brimbolyn]] 45 years ago, who revealed that the Magic City and [[The Order of Seasons]] are "one and the same" and that the [[Demi-Spell]] may be less than a year away.
 
 Reunited with [[Gossa]] at the [[Elvish Marketplace]] — a former teacher from [[Academia Lux]] in [[Arcadia]]. She recognized him immediately and warned him to learn what he could about the Order.
 
@@ -200,7 +200,7 @@ Vokenar cast Continual Flame to leave Aeris a source of light in her darkness, e
 
 Cast Water Walk so the party could disembark on the ice without bringing the ship too close to shore. Maintained his Celestial Defender to support the group throughout the Arctic trek. Finished the [[Rimefire Hydra]] with a holy fireball that burst the creature open from the inside. Destroyed the [[Remorhaz]] with a radiant blast after it swallowed [[Domyx]], freeing him from inside. Cast Wall of Radiance around himself and [[Kerben]] during the Remorhaz fight.
 
-At [[Akathia Manor]], stayed hidden with the group among the xenophobic titan folk. Cast Locate Object searching for [[Penumbra]] but detected none — the titan homeland was far from the cataclysm's effects and the sky appeared intact from this distance.
+At [[Acathian Manor]], stayed hidden with the group among the xenophobic titan folk. Cast Locate Object searching for [[Penumbra]] but detected none — the titan homeland was far from the cataclysm's effects and the sky appeared intact from this distance.
 
 ### Departure and Return
 

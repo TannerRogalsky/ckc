@@ -5,11 +5,11 @@ session_introduced: "024"
 sessions_appeared: ["024"]
 related:
   - "[[Ulrich Fjoller]]"
-  - "[[Akathia Manor]]"
+  - "[[Acathian Manor]]"
   - "[[Thalasia]]"
 ---
 
-A prison facility in the titan homeland of [[Thalasia]] where [[Ulrich Fjoller]] is being held awaiting execution. It is located not far from [[Akathia Manor]].
+A prison facility in the titan homeland of [[Thalasia]] where [[Ulrich Fjoller]] is being held awaiting execution. It is located not far from [[Acathian Manor]].
 
 ## Plot Events
 

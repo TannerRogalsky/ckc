@@ -18,7 +18,7 @@ related:
   - "[[Starfall]]"
 ---
 
-A synthesized, corrupted form of [[Penumbra]] created by [[Red Caesar]] with the help of [[Keys]] and [[Lydriel Gondara]] at [[The Academy]] in [[Brimbalin]].
+A synthesized, corrupted form of [[Penumbra]] created by [[Red Caesar]] with the help of [[Keys]] and [[Lydriel Gondara]] at [[The Academy]] in [[Brimbolyn]].
 
 ## Creation
 
@@ -32,7 +32,7 @@ The process was named the "Caesarean method" after Red Caesar.
 
 Lydriel and Keys poisoned the synthesized Penumbra using a special method concealed by illusion, ensuring the poison would not infect their own samples. The resulting material — called Antumbra — is structurally unstable at its core. When fed into a device like [[Starfall]], it is expected to cause catastrophic damage rather than function as fuel. It spreads rapidly within its target system, more like a virus or bomb than a traditional poison.
 
-The Antumbra can be replicated at a rate of approximately one sphere every five to ten days once the method is established. Red Caesar retains the knowledge of the synthesis process, and the elves at Brimbalin could industrialize it.
+The Antumbra can be replicated at a rate of approximately one sphere every five to ten days once the method is established. Red Caesar retains the knowledge of the synthesis process, and the elves at Brimbolyn could industrialize it.
 
 ## Deployment
 

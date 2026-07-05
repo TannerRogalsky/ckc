@@ -19,7 +19,7 @@ The party arrived in [[Cutlass Cray]] after surviving a massive swell caused by 
 
 **Domyx** stocked up on protective and mobility potions before the expedition.
 
-**Ceril** visited [[Gilder Savar]], a lich operating a potion shop. Ceril did not recognize him, but Gilder recognized Ceril from their shared escape from [[Brimbalin]] alongside [[Vanzia Vinfei]] decades ago. Gilder chose undeath to "live long enough to perfect his craft." Ceril purchased protective and emergency-use supplies.
+**Ceril** visited [[Gilder Savar]], a lich operating a potion shop. Ceril did not recognize him, but Gilder recognized Ceril from their shared escape from [[Brimbolyn]] alongside [[Vanzia Vinfei]] decades ago. Gilder chose undeath to "live long enough to perfect his craft." Ceril purchased protective and emergency-use supplies.
 
 **The Opal** was fully repaired and upgraded with a new steering mechanism and a new crow's nest.
 
@@ -64,7 +64,7 @@ The party spent a full shopping spree in [[Cutlass Cray]], significantly upgradi
 - [[The Carrot Cake]] was first mentioned in session 018 (corpse with tickets) and session 022 ([[David Harvey]]'s quest, [[Theo Harvey]]'s revelation).
 - [[Theo Harvey]] revealed [[The Carrot Cake]]'s location and accessibility window in session 024.
 - [[The Carrot Cake]] demi-plane opened in session 026 after the moon was shattered.
-- [[Gilder Savar]] ties back to [[Ceril]] and [[Vanzia Vinfei]]'s escape from [[Brimbalin]] in the pre-Cataclysm era.
+- [[Gilder Savar]] ties back to [[Ceril]] and [[Vanzia Vinfei]]'s escape from [[Brimbolyn]] in the pre-Cataclysm era.
 - The [[Moon Blade]] connects [[Vokenar]] directly to [[Crone]]'s shattered remains.
 - [[The Hideous Truth]] was hidden in session 015 and confirmed still present.
 - The [[Magen]] directory reveals [[The Carrot Cake]]'s internal geography: [[Magic Hat]], [[Hole Shebang]], [[King of the Hole]], [[Hole on Wheels]], and teleport-circle-connected zones.

@@ -8,7 +8,7 @@ summary: "Party lands on Continental Stark, defeats Fuchsia Fungus, fights an Ae
 ## Events
 
 - [[Obould]] leaves the party at the coast of [[Continental Stark]] to watch [[The Opal]].
-- The party treks into the dense jungle of [[Continental Stark]] heading toward [[Brimbalin]].
+- The party treks into the dense jungle of [[Continental Stark]] heading toward [[Brimbolyn]].
 - [[Vokenar]] casts Locate Object to find overgrown train rails; the party follows them north.
 - [[Domyx]] uses his lodestone greaves to detect buried rails magnetically.
 - [[Ceril]] sends [[Nyquil]] on extended scouting above the canopy.
@@ -25,7 +25,7 @@ summary: "Party lands on Continental Stark, defeats Fuchsia Fungus, fights an Ae
 
 ## Summary
 
-The party arrives at the coast of [[Continental Stark]], the massive elfish continent and last remnant of the Old World. [[Obould]] stays behind with [[The Opal]], warning that the jungle interior is treacherous and that the party should try to cross in one day. The elves' scouts had mentioned train rails as the fastest way to reach the inland city of [[Brimbalin]].
+The party arrives at the coast of [[Continental Stark]], the massive elfish continent and last remnant of the Old World. [[Obould]] stays behind with [[The Opal]], warning that the jungle interior is treacherous and that the party should try to cross in one day. The elves' scouts had mentioned train rails as the fastest way to reach the inland city of [[Brimbolyn]].
 
 Inside the jungle, perpetual fog limits visibility and the terrain is unfamiliar and unforgiving. [[Vokenar]] locates buried train rails and the party follows them northward, with [[Domyx]]'s lodestone greaves providing a magnetic sense for rails hidden underground. [[Ceril]] sends [[Nyquil]] scouting above the canopy for a longer view.
 
@@ -59,11 +59,11 @@ The party met [[Brim the Bullywog]], a frog-headed tinkerer living in a moss hut
 
 At the train junction, the party met [[Marshal Zem]], a tiefling marshal of the [[Knights of the Four Seasons]]. The knights inspected weapons and equipment, cast Augury on each traveler to determine safety, and applied an augmented Sanctuary spell. Brim vouched for the party and was allowed through.
 
-The party boarded a magical self-conducting train to [[Brimbalin]], traveling at 75 mph through the cleared jungle. A pixie was aboard, briefly landing on Domyx's head.
+The party boarded a magical self-conducting train to [[Brimbolyn]], traveling at 75 mph through the cleared jungle. A pixie was aboard, briefly landing on Domyx's head.
 
-In Brimbalin, the party explored the city and the [[Elvish Marketplace]]. The city is mostly elves and tieflings; humans are rare. [[Red Caesar]] stood out and was targeted by young elves who cast Sleep on him — a mockery since only humans are susceptible. Red failed the save, then Misty Stepped behind the caster and slapped him.
+In Brimbolyn, the party explored the city and the [[Elvish Marketplace]]. The city is mostly elves and tieflings; humans are rare. [[Red Caesar]] stood out and was targeted by young elves who cast Sleep on him — a mockery since only humans are susceptible. Red failed the save, then Misty Stepped behind the caster and slapped him.
 
-[[Vokenar]] met [[Osiris Dims]], an aasimar born in Brimbalin 45 years ago to an aasimar mother who fell from [[Arcadia]]. Osiris revealed that the Magic City and [[The Order of Seasons]] are "one and the same," and that the [[Demi-Spell]] may be less than a year away. He warned that those who oppose the Order never turn out right, mentioning someone who tried to stop it decades ago — possibly [[Morel Chainsunder]].
+[[Vokenar]] met [[Osiris Dims]], an aasimar born in Brimbolyn 45 years ago to an aasimar mother who fell from [[Arcadia]]. Osiris revealed that the Magic City and [[The Order of Seasons]] are "one and the same," and that the [[Demi-Spell]] may be less than a year away. He warned that those who oppose the Order never turn out right, mentioning someone who tried to stop it decades ago — possibly [[Morel Chainsunder]].
 
 [[Vokenar]] and [[Ceril]] reconnected with [[Gossa]], a former teacher from [[Academia Lux]] in Arcadia, now working in the marketplace. She recognized Vokenar immediately, warned him to learn about the Order, and noted that risks exist with the Demi-Spell.
 
@@ -73,13 +73,13 @@ Brim got himself lost in town and told the party to meet him at midnight where a
 
 ## Chunk 0003
 
-[[Red Caesar]] encountered [[Garsinth Theralal]], an older elf in a Brimbalin alley, who apologized for his son's Sleep prank and gave Red directions to [[Yalet Aurum]], a Galeb Duurr with a golden head encased in a stone monument in the jungle outside the city.
+[[Red Caesar]] encountered [[Garsinth Theralal]], an older elf in a Brimbolyn alley, who apologized for his son's Sleep prank and gave Red directions to [[Yalet Aurum]], a Galeb Duurr with a golden head encased in a stone monument in the jungle outside the city.
 
 The party took a train into the jungle and found Yalet Aurum — a 40-50 foot stone face with shrubbery for hair, built around his solid gold body. Yalet spoke with a booming voice and told Red to "come back when you are level 17." He knows of [[Penumbra]], describing it as "one of few stones that I have no power over," and warned the party to "act faster than an elf" regarding the Order.
 
 Yalet posed a riddle: "I can only produce mountains. My brother only produces small rocks. What can my brother make you to make you more courageous that I cannot?" [[Red Caesar]] solved it as "bolder" (bold/rocks pun). Yalet vomited chunks of gold in laughter as reward. His brother is [[Yalet Mora]], the stone-bodied crew member aboard [[The Opal]].
 
-The party returned to Brimbalin and took a tram to [[The Academy]], [[The Order of Seasons]]' epicenter. They were greeted by [[Stefan Quist]], a human receptionist, and led to [[Keys]] and [[Lydriel Gondara]] — the same tiefling and half-elf who stole [[Penumbra]] from [[Castle Kaedon]].
+The party returned to Brimbolyn and took a tram to [[The Academy]], [[The Order of Seasons]]' epicenter. They were greeted by [[Stefan Quist]], a human receptionist, and led to [[Keys]] and [[Lydriel Gondara]] — the same tiefling and half-elf who stole [[Penumbra]] from [[Castle Kaedon]].
 
 At the Academy, the party learned extensive details about the [[Demi-Spell]]: it works by going to the far future until everything begins again, recycling all souls and elements. Some places and people will always come back; others won't. The spell is written as volumes upon volumes — an encyclopedia of things that should exist with hexagrams and mathematical structures linking it all. [[Aramil Kiirnodel]] is the primary force behind the Demi-Spell's power. Penumbra pieces are used as energy sources to accelerate the spell.
 
@@ -93,7 +93,7 @@ The party negotiated an accord: they will stop collecting new Penumbra, and if t
 
 ## Chunk 0004
 
-The party visited [[House Kiirnodel]] in Brimbalin at the suggestion of [[Keys]] and [[Lydriel Gondara]]. The estate is beautiful with pink, purple, and blue flowers growing on everything.
+The party visited [[House Kiirnodel]] in Brimbolyn at the suggestion of [[Keys]] and [[Lydriel Gondara]]. The estate is beautiful with pink, purple, and blue flowers growing on everything.
 
 [[Ceril]] immediately recognized two faces from his pre-Cataclysm escape flashback: [[Veronia Karadel]], a drow of former House Karadel, and [[Risolvir Kiirnodel]], leader of House Kiirnodel. They had let Ceril flee years ago.
 
@@ -105,6 +105,6 @@ Risolvir warned the party that their greatest enemy is the [[Broyish Empire]], w
 
 Veronia asked the party to check on [[Boral Erendel]] at [[The Garden]], worrying where his mind has taken him with his side project.
 
-The house granted the party [[Teleport Keys]] for accessing teleport circles back to Brimbalin.
+The house granted the party [[Teleport Keys]] for accessing teleport circles back to Brimbolyn.
 
 The party set sail from Continental Stark toward Cutlass Cray. On their first evening, [[Vizier Jade]] appeared on [[The Opal]]'s deck. She confirmed she has been watching [[Red Caesar]] and will continue to ensure he survives. Red declined her offer of a restriction scroll, saying his trust was bond enough. She departed via Teleport Circle, saying she won't appear again until the party arrives in the capital.

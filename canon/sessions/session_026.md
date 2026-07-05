@@ -16,8 +16,8 @@ summary: "Vokenar trains with Crone and Sigil; Emperor Shen fires Starfall at th
 - Crone is rapidly aging, weakening, and bleeding silvery blood. Sigil says someone has attacked her sister in a way she cannot heal from.
 - Vokenar scrys down to [[Broy]] and witnesses [[Emperor Shen]] (Domyx Acathian III) loading a large [[Penumbra]] chunk into [[Starfall]] and firing a beam of energy across the heavens.
 - On [[The Opal]], [[Kerben]] is at the helm and sees a pencil-thin white streak cut across the sky from the east, widening into red, green, blue, and yellow colors representing the four elements.
-- The streak strikes the moon, shattering it in a completely silent blast. An apple-core crescent of the moon remains. The shot was aimed over [[Brimbalin]] in western elf land — a deliberate act of war against the elves.
-- [[Ceril]] recognizes this as the same attack that put a hole in the sky. The consequences include falling moon debris over [[Brimbalin]], tsunamis, disrupted tides, and possible time disruption since the moon helps control time.
+- The streak strikes the moon, shattering it in a completely silent blast. An apple-core crescent of the moon remains. The shot was aimed over [[Brimbolyn]] in western elf land — a deliberate act of war against the elves.
+- [[Ceril]] recognizes this as the same attack that put a hole in the sky. The consequences include falling moon debris over [[Brimbolyn]], tsunamis, disrupted tides, and possible time disruption since the moon helps control time.
 - The crew assembles in the commons. Vokenar returns and relays Crone's dying message: focus on restoring [[Aeris]], not the moon. If Aeris is fully restored, she could create a new moon. Crone warns not to waver from the mission for even a moment.
 - [[Ceril]] posits that after attacking [[Aeris]] and [[Crone]], the Empire's next divine target may be [[Sigil]].
 - [[The Carrot Cake]] demi-plane opens now — the first day of the fifth moon has arrived. The party debates whether to head there immediately or finish local quests first.
@@ -54,14 +54,14 @@ summary: "Vokenar trains with Crone and Sigil; Emperor Shen fires Starfall at th
 
 ### Summary
 
-This session delivers one of the campaign's most devastating blows. While Vokenar trains between worlds, Emperor Shen fires Starfall a second time — this time targeting Crone, the moon goddess. The moon is shattered, with debris falling over Brimbalin in a calculated attack against the elves. The party witnesses the event from sea and must contend with cascading consequences: tsunamis, disrupted tides, and the catastrophic wounding of one of the three sister goddesses. Crone's command to Vokenar — focus on Aeris, not the moon — reframes the party's mission even as the world unravels further.
+This session delivers one of the campaign's most devastating blows. While Vokenar trains between worlds, Emperor Shen fires Starfall a second time — this time targeting Crone, the moon goddess. The moon is shattered, with debris falling over Brimbolyn in a calculated attack against the elves. The party witnesses the event from sea and must contend with cascading consequences: tsunamis, disrupted tides, and the catastrophic wounding of one of the three sister goddesses. Crone's command to Vokenar — focus on Aeris, not the moon — reframes the party's mission even as the world unravels further.
 
 The session continues with the long-delayed reckoning on Xarag's Island. The party slays the prologue dragon Xarag and recovers their lost treasure — gold, mithril, gems, and Obould's deeply personal items. Their victory is immediately challenged when three imperial gun balloons attack The Opal. The party defends the ship in a chaotic deck battle, defeats the boarders, and captures a gun balloon. With aerial travel now within reach, the party turns toward their next League quest — hunting trolls — while Vokenar seeks divine guidance about the fate of the elves and the shattered moon.
 
 ### Connections
 
 - The Starfall attack on Crone mirrors the original attack on Aeris sixty years ago, confirming Emperor Shen's pattern of targeting the sister goddesses.
-- [[Brimbalin]] being in the path of the moon debris connects back to the party's alliance with [[The Order of Seasons]] and their time in elf country.
+- [[Brimbolyn]] being in the path of the moon debris connects back to the party's alliance with [[The Order of Seasons]] and their time in elf country.
 - Vokenar's training arc deepens the relationship between the goddesses and raises the stakes of Crone's injury — the party may lose one of their divine allies.
 - [[The Carrot Cake]] opening connects to [[Theo Harvey]]'s escape and the map he provided, creating urgency around that location.
 - The [[Xarag]] fight resolves the prologue quest that has lingered since session 001.

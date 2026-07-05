@@ -159,7 +159,7 @@
 ### Chunk 0000
 
 - Freed deep-world dwarves emerge into [[The Pit]], creating political strain for [[Figma Brickfinger]] and [[Figma Brickfinger's Union]].
-- In a flashback, [[Ceril]] flees west from [[Brimbalin]] after [[Queen Caeradwyn]]'s death and sees strange sky-lines before [[The Cataclysm]].
+- In a flashback, [[Ceril]] flees west from [[Brimbolyn]] after [[Queen Caeradwyn]]'s death and sees strange sky-lines before [[The Cataclysm]].
 - [[Obould]] orders [[The Opal]] reinforced so it can carry [[Kilosaurus]] and heavy [[Penumbra]].
 - [[Figma Brickfinger]] and her dwarves shave dead obsidian from the drained [[Darvinblast]] [[Penumbra]], revealing a smaller star-filled core.
 - [[Kilosaurus]] hauls the purified [[Penumbra]] core back to [[The Opal]].
@@ -232,8 +232,8 @@
 - The party short-rested and continued along the rail line, finding a well-maintained shiny rail replacing the old rusted line.
 - The party met [[Brim the Bullywog]], a frog-headed tinkerer beside the rails, and recruited him as their tinkerer and lookout.
 - At the train junction, [[Marshal Zem]] of the [[Knights of the Four Seasons]] inspected the party, cast Augury on each traveler, and applied an augmented Sanctuary spell. Brim vouched for the group.
-- The party boarded a magical self-conducting train to [[Brimbalin]], traveling at 75 mph through cleared jungle terrain.
-- In Brimbalin, the party explored the city and the [[Elvish Marketplace]]. The city is mostly elves and tieflings; humans are rare.
+- The party boarded a magical self-conducting train to [[Brimbolyn]], traveling at 75 mph through cleared jungle terrain.
+- In Brimbolyn, the party explored the city and the [[Elvish Marketplace]]. The city is mostly elves and tieflings; humans are rare.
 - [[Red Caesar]] was targeted by young elves who cast Sleep on him — a mockery since only humans are susceptible. Red failed the save, then Misty Stepped behind the caster and slapped him.
 - [[Vokenar]] met [[Osiris Dims]], an aasimar who revealed the Magic City and [[The Order of Seasons]] are "one and the same" and that the [[Demi-Spell]] may be less than a year away.
 - [[Vokenar]] and [[Ceril]] reconnected with [[Gossa]], a former teacher from [[Academia Lux]] in [[Arcadia]], now working in the marketplace.
@@ -243,7 +243,7 @@
 ### Chunk 0003
 
 - [[Red Caesar]] met [[Garsinth Theralal]], an older elf who apologized for his son's Sleep prank and gave Red directions to [[Yalet Aurum]].
-- The party visited [[Yalet Aurum]] — a Galeb Duurr with a solid gold body encased in a 40-50 foot stone monument outside Brimbalin. Yalet confirmed [[The Order of Seasons]] is interested in [[Penumbra]] and warned the party to "act faster than an elf."
+- The party visited [[Yalet Aurum]] — a Galeb Duurr with a solid gold body encased in a 40-50 foot stone monument outside Brimbolyn. Yalet confirmed [[The Order of Seasons]] is interested in [[Penumbra]] and warned the party to "act faster than an elf."
 - Yalet posed a riddle about his brother [[Yalet Mora]]; [[Red Caesar]] solved it as "bolder" and received chunks of gold.
 - The party took a tram to [[The Academy]] and met [[Keys]] and [[Lydriel Gondara]] — the same tiefling and half-elf who stole [[Penumbra]] from [[Castle Kaedon]].
 - The party learned the [[Demi-Spell]] works by going to the far future until everything begins again, recycling all souls and elements. Penumbra pieces are used as energy to accelerate the spell. The Demi-Spell is more powerful than the gods.
@@ -254,12 +254,12 @@
 
 ### Chunk 0004
 
-- The party visited [[House Kiirnodel]] in Brimbalin. [[Ceril]] recognized [[Veronia Karadel]] and [[Risolvir Kiirnodel]] from his pre-Cataclysm escape flashback.
+- The party visited [[House Kiirnodel]] in Brimbolyn. [[Ceril]] recognized [[Veronia Karadel]] and [[Risolvir Kiirnodel]] from his pre-Cataclysm escape flashback.
 - [[Veronia Karadel]], a drow and mother of [[Keys]], is chiefly in command of enacting the Demi-Spell. She recognized Ceril's future self and predicted he would become a god in the reset world.
 - [[Risolvir Kiirnodel]] warned the party that the [[Broyish Empire]] is their greatest enemy, also pursuing the [[Genesis Mundi]] and collecting [[Penumbra]] pieces for a weapon.
 - [[Vokenar]] learned that the [[Genesis Mundi]] is a fixed point between worlds that occurs regardless — the Demi-Spell merely expedites and modifies it with guidelines.
 - Veronia asked the party to check on [[Boral Erendel]] at [[The Garden]] and convince him to return.
-- House Kiirnodel granted the party [[Teleport Keys]] for accessing teleport circles back to Brimbalin.
+- House Kiirnodel granted the party [[Teleport Keys]] for accessing teleport circles back to Brimbolyn.
 - The party set sail from Continental Stark toward Cutlass Cray. [[Vizier Jade]] appeared on [[The Opal]]'s deck, confirming she has been watching [[Red Caesar]] and will ensure he survives. Red declined her restriction scroll. She departed via Teleport Circle.
 
 ## Session 015
@@ -400,7 +400,7 @@
 - The [[Xarag]]'s serial acid breath overwhelms [[Ceril]]'s starry shield, knocking him unconscious. [[Vokenar]] heals Ceril with Aura of Vitality as [[Domyx]] delivers the killing blow to the adult dragon.
 - [[Kerben]] harvests the dragon's acid-resistant scales and crafts [[Preparation Melf]], a throwable sticky acid flask.
 - Investigation reveals the [[Mangonel]] was originally a celebration device containing decorative fireworks from [[Broy]].
-- [[Domyx]] discovers [[The Jewel of Alfheimer]], a rare painting by [[Aramil Kiirnodel]] depicting pre-Cataclysm [[Brimbalin]] as a lush jungled continent.
+- [[Domyx]] discovers [[The Jewel of Alfheimer]], a rare painting by [[Aramil Kiirnodel]] depicting pre-Cataclysm [[Brimbolyn]] as a lush jungled continent.
 
 ## Session 019
 
@@ -519,7 +519,7 @@
 - [[Ceril]]'s second scrying succeeds. He discovers Jacinthe's grief is a ruse — wine bottles are unopened, lined up neatly.
 - [[Vizier Jade]] appears in Jacinthe's room via illusion magic and delivers a one-month ultimatum: provide the [[Broyish Empire]] with [[Penumbra]] or information leading to it, or [[Obould]]'s safety cannot be guaranteed. Every piece of useful intelligence may extend the deadline.
 - Jacinthe whispers after Jade departs: "One month. Can we even get there in one month?" — confirming she wants Obould to survive.
-- [[Red Caesar]] and [[Ceril]] leave a message for Damien hidden in the stolen painting, then use a teleport circle to travel to [[Brimbalin]].
+- [[Red Caesar]] and [[Ceril]] leave a message for Damien hidden in the stolen painting, then use a teleport circle to travel to [[Brimbolyn]].
 - At [[House Kiirnodel]], [[Risolvir Kiirnodel]] and [[Veronia Karadel]] recognize the party. Red reports that [[Boral Erendel]] has gone off the rails at [[The Garden]], adding nearly a hundred pages of his own design to the [[Demi-Spell]].
 - At the [[Elvish Marketplace]], Red trades [[The Jewel of Alfheimer]] for the [[Boots of the Alvigard]]. Ceril acquires the [[Branch of the Itinerant]]. Red purchases [[Cloaks of Billowing]] for the entire party.
 - The party returns to [[The White Drake]] and debriefs [[Domyx]], [[Kerben]], and [[Vokenar]] about the Jade ultimatum. Approximately 21 days remain.
@@ -563,10 +563,10 @@
 - [[Oni]] sentries guard the approach, some invisible. [[Vokenar]] uses scouting magic to find a safe route and discover [[Naomi]]'s dive bar.
 - Naomi operates as an underground fixer, absolving criminal records through magically stamped documents in coordination with an armored elf government associate.
 - The party pays Naomi 10 pounds of mithril to clear their automated oni warrants.
-- [[Vanzia Vinfei]] — who escaped [[Brimbalin]] with [[Ceril]] decades earlier — is reunited with Ceril. She now operates alongside Naomi in the [[Broyish Capital]].
+- [[Vanzia Vinfei]] — who escaped [[Brimbolyn]] with [[Ceril]] decades earlier — is reunited with Ceril. She now operates alongside Naomi in the [[Broyish Capital]].
 - Vanzia confirms [[Obould]] is held by [[Vizier Jade]] as prisoner of war and leverage against [[The League of New Stark]]. She offers to lead the party to Obould but warns Jade must be confronted first.
 - The party learns the capital has magic restrictions: permanent dead magic zones in hotels and fields suppressing spells below 7th level. Spell scrolls are contraband.
-- [[Red Caesar]] receives citizenship papers and a teleport circle scriptum back to [[Brimbalin]]. He meets [[Chan Hu]], an ancient-world survivor who recognizes him as a member of [[Heaven's Bulb]].
+- [[Red Caesar]] receives citizenship papers and a teleport circle scriptum back to [[Brimbolyn]]. He meets [[Chan Hu]], an ancient-world survivor who recognizes him as a member of [[Heaven's Bulb]].
 - The party explores the bustling market, finding diverse non-human residents despite the empire's xenophobic reputation. They consider outfitting [[The Opal]] with cannons.
 - The party long-rests in the [[Broyish Capital]].
 
@@ -626,8 +626,8 @@
 ### Chunk 0003
 
 - [[Domyx]] was swallowed by the [[Remorhaz]] and trapped inside. [[Kerben]] fired into the Remorhaz's side, punching a rescue hole. [[Vokenar]] destroyed the creature with a radiant blast. [[Kerben]] cut into the corpse to extract Domyx's unconscious body; [[Ceril]] healed him back to consciousness. Kerben harvested the Remorhaz's heat gland for warmth.
-- The party climbed from snow into grassy hills, orchards, and farmland — the magic of the titan realm taking hold. They reached the last place [[Ulrich Fjoller]] had been seen before his capture. At this altitude, the sky appeared as a flat plate separating [[Stark]] from [[Arcadia]]. A golden palace — [[Akathia Manor]] — drew heavy titan traffic.
-- [[Domyx]] entered [[Akathia Manor]] alone while the rest of the party stayed hidden, as outsiders would be endangered among the xenophobic titan folk. [[Vokenar]] detected no [[Penumbra]] nearby; the sky appeared intact from this distance.
+- The party climbed from snow into grassy hills, orchards, and farmland — the magic of the titan realm taking hold. They reached the last place [[Ulrich Fjoller]] had been seen before his capture. At this altitude, the sky appeared as a flat plate separating [[Stark]] from [[Arcadia]]. A golden palace — [[Acathian Manor]] — drew heavy titan traffic.
+- [[Domyx]] entered [[Acathian Manor]] alone while the rest of the party stayed hidden, as outsiders would be endangered among the xenophobic titan folk. [[Vokenar]] detected no [[Penumbra]] nearby; the sky appeared intact from this distance.
 - Inside the manor, [[Domyx]] found [[Charlotte]] (Ulrich's sister), who warned him against being there. Domyx revealed the truth about [[Emperor Shen]] breaking the sky with [[Starfall]]. [[Lorelei]] emerged from hiding, having overheard everything. She confirmed she was pregnant and that Ulrich was imprisoned in the [[Prison of Frost]]. She begged to flee with Ulrich's child.
 - [[Ceril]]'s magma owl familiar scouted the area and reported a large cavern with heavy security and food trays being delivered inside — likely the Prison of Frost.
 - [[Domyx]] confronted his father [[Domyx IV]] at the manor's exterior. Domyx IV offered to cover up Domyx's return and send him back to Stark. When Domyx refused to forget the truth about their grandfather and discarded his Akathian medallion, Domyx IV disowned him: "You are an Akathian no more. You are my son no more." Domyx permanently renounced his family name.
@@ -644,7 +644,7 @@
 
 ### Chunk 0000
 
-- [[Red Caesar]] traveled to [[The Academy]] in [[Brimbalin]] with [[Keys]] and [[Lydriel Gondara]] to synthesize [[Antumbra]].
+- [[Red Caesar]] traveled to [[The Academy]] in [[Brimbolyn]] with [[Keys]] and [[Lydriel Gondara]] to synthesize [[Antumbra]].
 - Using the "Caesarean method," Red Caesar compressed [[Akasha]] through magical pressure using Otiluke's Resilient Sphere and inverted enlarge/reduce spells. After multiple iterations compressing an entire lake roughly a thousand-fold, the process produced a palm-sized sphere of jet-black synthesized [[Penumbra]].
 - [[Lydriel Gondara]] and [[Keys]] poisoned the Antumbra using a method concealed by illusion, ensuring the poison would not infect their own samples.
 - [[Kerben]] took on the role of acting captain of [[The Opal]] during Red Caesar's absence.
@@ -679,7 +679,7 @@
 - [[Vokenar]] resumes training with [[Crone]] and [[Sigil]] between worlds, fighting demons and sparring with Crone.
 - Vokenar strikes Crone with his Akasha blade, drawing pearlescent blood — but the wound comes from elsewhere. Crone is rapidly aging and weakening.
 - Vokenar scrys down to [[Broy]] and witnesses [[Emperor Shen]] (Domyx Acathian III) loading [[Penumbra]] into [[Starfall]] and firing a beam at the moon.
-- The moon is shattered by the Starfall beam. An apple-core crescent remains. The shot was aimed over [[Brimbalin]] — a deliberate attack on the elves.
+- The moon is shattered by the Starfall beam. An apple-core crescent remains. The shot was aimed over [[Brimbolyn]] — a deliberate attack on the elves.
 - [[Kerben]] witnesses the streak from the helm of [[The Opal]]. [[Ceril]] recognizes the attack as the same weapon that caused [[The Cataclysm]].
 - Crone's dying command to Vokenar: focus on restoring [[Aeris]], not the moon. If Aeris is restored she could create a new moon.
 - [[The Carrot Cake]] demi-plane opens on the first day of the fifth moon.
@@ -714,7 +714,7 @@
 - [[Red Caesar]] trades for the [[Wand of Blighting Bolts]], gaining access to necrotic damage for the first time.
 - [[Vokenar]] trades lapis lazuli for the [[Moon Blade]], a warhammer forged from a fragment of [[Crone]]'s remains by [[The Church of the Thirty Lights]].
 - [[Domyx]] stocks up on protective and mobility potions before the expedition.
-- [[Ceril]] visits [[Gilder Savar]], a lich who recognizes Ceril from their shared escape from [[Brimbalin]] decades ago. Ceril purchases protective and emergency-use supplies.
+- [[Ceril]] visits [[Gilder Savar]], a lich who recognizes Ceril from their shared escape from [[Brimbolyn]] decades ago. Ceril purchases protective and emergency-use supplies.
 - [[The Opal]] is fully repaired and upgraded with a new steering mechanism and crow's nest.
 - The party confirms [[The Hideous Truth]] remains hidden in its grotto, now more overgrown.
 - After a three-day sail, the party arrives at [[The Carrot Cake]]. The entrance is a man-made lagoon with illusions recently dissipated, leading to a giant carrot entrance marked with the "40 Carats" logo.

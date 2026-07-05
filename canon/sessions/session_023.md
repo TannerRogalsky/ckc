@@ -25,11 +25,11 @@ The human and tiefling the party had saved were from [[Southport]]. The human, T
 
 The party was led through winding stairs into an industrial steel town with whirring gears, copper electrical cables, and automated wheeled devices. [[Oni]] sentries were perched on pillars overlooking the town, some invisible. [[Vokenar]] used scouting magic to find a safe route and discovered [[Naomi]]'s dive bar and her operation as an underground fixer who absolves criminal records through magically stamped documents.
 
-The party entered Naomi's tavern, where they were recognized as outsiders. [[Vanzia Vinfei]] — an old ally who had escaped [[Brimbalin]] with [[Ceril]] decades earlier — was present. She and Ceril were reunited after many years. Vanzia was now operating alongside Naomi in the [[Broyish Capital]].
+The party entered Naomi's tavern, where they were recognized as outsiders. [[Vanzia Vinfei]] — an old ally who had escaped [[Brimbolyn]] with [[Ceril]] decades earlier — was present. She and Ceril were reunited after many years. Vanzia was now operating alongside Naomi in the [[Broyish Capital]].
 
 Naomi revealed the party had automated warrants issued by the [[Oni]] for their killings near the coast. She offered to clear the warrants for 10 pounds of mithril, which the party paid. An elf associate — an armored woman who appeared to hold official government position — stamped the documents to void them.
 
-Vanzia confirmed that [[Obould]] is in the custody of [[Vizier Jade]] as prisoner of war and leverage against [[The League of New Stark]]. She offered to lead the party to Obould but warned Jade must be confronted first. She offered citizenship papers to [[Red Caesar]] and a teleport circle scriptum back to [[Brimbalin]].
+Vanzia confirmed that [[Obould]] is in the custody of [[Vizier Jade]] as prisoner of war and leverage against [[The League of New Stark]]. She offered to lead the party to Obould but warned Jade must be confronted first. She offered citizenship papers to [[Red Caesar]] and a teleport circle scriptum back to [[Brimbolyn]].
 
 The party learned that magic is restricted in parts of the capital — permanent dead magic zones in hotels and Globe of Invulnerability-like fields suppressing spells below 7th level. Spell scrolls are contraband. [[Oni]] sentries rotate positions at set intervals, some invisibly.
 
@@ -66,7 +66,7 @@ The party arrived at the [[Broyish Empire]], survived a titan attack, and entere
 - [[Baron Akathian the Second]] is a relation to [[Clan Akathia]], connecting Domyx's bloodline to titan folk.
 - [[The Tyrant]]'s fate reveals that [[The Carrot Cake]] has dangerous defenses capable of capturing even imperial creatures.
 - [[The League of New Stark]]'s penumbra payments have extended [[Obould]]'s stay of execution to roughly three months.
-- [[Vanzia Vinfei]]'s presence in the [[Broyish Capital]] connects Ceril's past escape from [[Brimbalin]] to the present mission.
+- [[Vanzia Vinfei]]'s presence in the [[Broyish Capital]] connects Ceril's past escape from [[Brimbolyn]] to the present mission.
 - [[Mana Sickness]] and [[Deep Roses]] introduce a new quest thread tied to [[Southport]] and the [[Mana Sea]].
 - [[Chan Hu]] connects to [[Heaven's Bulb]] lore and [[Master Lee]]'s past.
 - The [[Broyish Capital]]'s magic restrictions and oni surveillance present ongoing operational challenges.

@@ -9,7 +9,7 @@ summary: "Party synthesizes and plants Antumbra, de-petrifies priests at Temple 
 
 ### Chunk 0000
 
-- [[Red Caesar]] traveled to [[The Academy]] in [[Brimbalin]] with [[Keys]] and [[Lydriel Gondara]] to synthesize [[Antumbra]].
+- [[Red Caesar]] traveled to [[The Academy]] in [[Brimbolyn]] with [[Keys]] and [[Lydriel Gondara]] to synthesize [[Antumbra]].
 - [[Vokenar]] discovered a hidden [[Penumbra]] stash aboard [[The White Drake]] and proposed planting the Antumbra among it.
 - [[Vokenar]] departed [[The Opal]] to resume training with [[Sigil]] and [[Crone]].
 - [[Kerben]] acted as captain of [[The Opal]] during Red Caesar's absence.
@@ -40,7 +40,7 @@ summary: "Party synthesizes and plants Antumbra, de-petrifies priests at Temple 
 
 ## Summary
 
-[[Red Caesar]] traveled to [[The Academy]] in [[Brimbalin]] where, with [[Keys]] and [[Lydriel Gondara]], he successfully synthesized [[Antumbra]] — a poisoned form of [[Penumbra]] designed to sabotage the [[Broyish Empire]]'s [[Starfall]] device. Using the "Caesarean method" of compressing [[Akasha]] through magical pressure, they produced a palm-sized sphere of jet-black material that would cause catastrophic damage when fed into Starfall.
+[[Red Caesar]] traveled to [[The Academy]] in [[Brimbolyn]] where, with [[Keys]] and [[Lydriel Gondara]], he successfully synthesized [[Antumbra]] — a poisoned form of [[Penumbra]] designed to sabotage the [[Broyish Empire]]'s [[Starfall]] device. Using the "Caesarean method" of compressing [[Akasha]] through magical pressure, they produced a palm-sized sphere of jet-black material that would cause catastrophic damage when fed into Starfall.
 
 After [[Vokenar]] discovered a hidden [[Penumbra]] stash aboard [[The White Drake]], he proposed planting the Antumbra among the League's supply so it would eventually be traded to [[Broy]]. Vokenar then consulted [[Sigil]], learned that [[Obould]] was in less danger than he appeared, and departed [[The Opal]] to resume training with [[Sigil]] and [[Crone]]. [[Ceril]] consulted [[Aeris]], who confirmed the deployment would not harm the piece of herself trapped within the device.
 

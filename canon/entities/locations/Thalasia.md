@@ -7,7 +7,7 @@ related:
   - "[[Clan Akathia]]"
   - "[[Domyx]]"
   - "[[Baron Akathian the Second]]"
-  - "[[Akathia Manor]]"
+  - "[[Acathian Manor]]"
   - "[[Prison of Frost]]"
 ---
 
@@ -19,4 +19,4 @@ In session 023, [[Baron Akathian the Second]] gave [[Domyx]] a scroll case conta
 
 In session 024, the party reached the Arctic Plains near Thalasia after sailing through the frozen northern straits. The extreme cold of the region was amplified by the presence of the [[Tatzelwurm]], a unique white dragon whose lair dominated the area. The dragon's connection to the terrain caused blizzards and avalanches; its death calmed the weather. After defeating the Tatzelwurm, the party followed a river stained red by the dragon's blood — a path leading deeper into Titanfolk territory. A [[Remorhaz]] ambushed the party along this route.
 
-The party defeated the Remorhaz and climbed from the snow into grassy hills, orchards, and farmland — the magic of the titan realm taking hold. They reached the last place [[Ulrich Fjoller]] had been seen before his capture. At this altitude, the sky appeared as a flat plate separating [[Stark]] from [[Arcadia]]. A golden palace — [[Akathia Manor]] — sat atop the highest mountains with heavy titan traffic. [[Domyx]] entered the manor, confronted his family, and was disowned by his father [[Domyx IV]]. [[Lorelei]] revealed that Ulrich was held in the [[Prison of Frost]].
+The party defeated the Remorhaz and climbed from the snow into grassy hills, orchards, and farmland — the magic of the titan realm taking hold. They reached the last place [[Ulrich Fjoller]] had been seen before his capture. At this altitude, the sky appeared as a flat plate separating [[Stark]] from [[Arcadia]]. A golden palace — [[Acathian Manor]] — sat atop the highest mountains with heavy titan traffic. [[Domyx]] entered the manor, confronted his family, and was disowned by his father [[Domyx IV]]. [[Lorelei]] revealed that Ulrich was held in the [[Prison of Frost]].

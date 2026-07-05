@@ -6,11 +6,11 @@ aliases:
   - Yalat Orym
 related:
   - "[[Yalet Mora]]"
-  - "[[Brimbalin]]"
+  - "[[Brimbolyn]]"
   - "[[Penumbra]]"
 ---
 
-A Galeb Duurr (stone giant) with a head and body made of solid gold. He has encased himself inside a massive stone monument — a 40-50 foot tall face with shrubbery growing on it like hair — located in the jungle just outside [[Brimbalin]].
+A Galeb Duurr (stone giant) with a head and body made of solid gold. He has encased himself inside a massive stone monument — a 40-50 foot tall face with shrubbery growing on it like hair — located in the jungle just outside [[Brimbolyn]].
 
 He speaks with a booming voice through holes in the monument and can cast 8th-level earth magic. He told [[Red Caesar]] to "come back when you are level 17."
 

@@ -21,7 +21,7 @@ related:
   - "[[Continental Stark]]"
   - "[[Akasha]]"
   - "[[Aeon]]"
-  - "[[Brimbalin]]"
+  - "[[Brimbolyn]]"
   - "[[Garsinth Theralal]]"
   - "[[Yalet Aurum]]"
   - "[[The Academy]]"
@@ -74,9 +74,9 @@ Can cast: Shocking Grasp, Dispel Magic, Lightning Bolt, Fireball, Misty Step, Re
 - On [[Continental Stark]], was struck by [[Akasha]] rain. Cast Leomund's Tiny Hut, styled as a steampunk translucent blue dome, to shelter the party during later Akasha storms.
 - Used Thunder Wave against the [[Fuchsia Fungus]], creating sine waves in the bog that pushed migrants away from the creature. Fought the [[Aeon]] with lightning, counter-magic, and vampiric magic before the creature escaped.
 - Retrieved the [[Aeon]]'s offered star gem from the water with Mage Hand. The Aeon insulted Red as "the filth" before leaving.
-- Wound up in a wrong alley in [[Brimbalin]] where young elves approached him and cast Sleep — a mockery since only humans are susceptible to the spell in the city. Red failed his save, then Misty Stepped behind the caster and slapped him on the back of the head.
+- Wound up in a wrong alley in [[Brimbolyn]] where young elves approached him and cast Sleep — a mockery since only humans are susceptible to the spell in the city. Red failed his save, then Misty Stepped behind the caster and slapped him on the back of the head.
 - Met [[Garsinth Theralal]], an older elf who apologized for his son's prank and gave Red directions to [[Yalet Aurum]].
-- Visited [[Yalet Aurum]]'s monument in the jungle outside Brimbalin. Yalet is a Galeb Duurr with a solid gold body encased in a 40-50 foot stone face. Yalet posed a riddle about his brother [[Yalet Mora]]; Red solved it as "bolder" (bold/rocks pun) and received chunks of gold from Yalet's laughter.
+- Visited [[Yalet Aurum]]'s monument in the jungle outside Brimbolyn. Yalet is a Galeb Duurr with a solid gold body encased in a 40-50 foot stone face. Yalet posed a riddle about his brother [[Yalet Mora]]; Red solved it as "bolder" (bold/rocks pun) and received chunks of gold from Yalet's laughter.
 - Yalet confirmed that [[The Order of Seasons]] is interested in collecting [[Penumbra]] and warned the party to "act faster than an elf."
 - At [[The Academy]], engaged in a heated philosophical debate with [[Keys]] and [[Lydriel Gondara]] about the [[Demi-Spell]]. Red argued that the Order's approach takes away choice from the world's people: "I'm merely trying to patch up the sky, and then folks can do with that what they will." He countered Lydriel's claim that fixing the sky also deprives people of choice: "You're taking away that choice from so many people. Choice is life." The party negotiated an accord: they would stop collecting new Penumbra, and if their plan failed, they would give all collected Penumbra to the Order.
 - Visited [[House Kiirnodel]] with the party. Met [[Risolvir Kiirnodel]] and [[Veronia Karadel]].
@@ -122,7 +122,7 @@ Red Caesar was given lodging (room 17) and permission to stay as long as they li
 
 Red attempted to steal a portrait of [[Lady Jacinthe]] to aid [[Ceril]]'s scrying. After being refused by a guard, Red created a loud distraction in the lounge, shattering porthole windows and causing a commotion across the ship. While guards rushed toward the noise, [[Ceril]] stole the portrait. Red was apprehended by [[Damien Ouranous]] and tasked with cleaning up the mess. He paid for the broken windows using old Cadenite coins.
 
-After Ceril's successful scrying revealed Jacinthe's secret meeting with [[Vizier Jade]], Red shared the information with the full party. He and Ceril left a message for Damien hidden in the stolen painting, then used a teleport circle to travel to [[Brimbalin]]. There they arrived at [[House Kiirnodel]]'s teleport circle, which was enclosed in an Otiluke blast shield. [[Risolvir Kiirnodel]] and [[Veronia Karadel]] recognized them. Red reported that [[Boral Erendel]] had gone "off the rails" with wild ideas at [[The Garden]], prompting Risolvir to agree to send someone to check on him. Red then traded [[The Jewel of Alfheimer]] at the [[Elvish Marketplace]] for the [[Boots of the Alvigard]]. He also purchased [[Cloaks of Billowing]] for the entire party.
+After Ceril's successful scrying revealed Jacinthe's secret meeting with [[Vizier Jade]], Red shared the information with the full party. He and Ceril left a message for Damien hidden in the stolen painting, then used a teleport circle to travel to [[Brimbolyn]]. There they arrived at [[House Kiirnodel]]'s teleport circle, which was enclosed in an Otiluke blast shield. [[Risolvir Kiirnodel]] and [[Veronia Karadel]] recognized them. Red reported that [[Boral Erendel]] had gone "off the rails" with wild ideas at [[The Garden]], prompting Risolvir to agree to send someone to check on him. Red then traded [[The Jewel of Alfheimer]] at the [[Elvish Marketplace]] for the [[Boots of the Alvigard]]. He also purchased [[Cloaks of Billowing]] for the entire party.
 
 Red and Ceril returned to [[The White Drake]] and debriefed the rest of the party about [[Obould]]'s situation: [[Vizier Jade]] was using him as leverage to pressure Jacinthe into finding [[Penumbra]] for the [[Broyish Empire]], with a one-month deadline.
 
@@ -136,7 +136,7 @@ During the voyage to [[Broy]], Red helped track the titans during the storm, dis
 
 Upon disembarking near [[Broy]], Red helped engage the [[Oni]] demons threatening the human and tiefling civilians.
 
-In the [[Broyish Capital]], Red helped defeat the oni near the coast, then acquired citizenship papers from [[Vanzia Vinfei]] and received a teleport circle scriptum back to [[Brimbalin]]. He explored the capital's market, meeting [[Chan Hu]] — an ancient-world survivor who recognized him as a member of [[Heaven's Bulb]].
+In the [[Broyish Capital]], Red helped defeat the oni near the coast, then acquired citizenship papers from [[Vanzia Vinfei]] and received a teleport circle scriptum back to [[Brimbolyn]]. He explored the capital's market, meeting [[Chan Hu]] — an ancient-world survivor who recognized him as a member of [[Heaven's Bulb]].
 
 The party entered the imperial palace and was granted audience with [[Vizier Jade]]. Red attempted to negotiate [[Obould]]'s freedom by offering to teach the Empire how to synthesize penumbra from water. Jade read his thoughts directly and caught the deception, noting he had no solid plan in place. Red then pivoted to offering to procure penumbra over time. Jade demanded fifteen pieces — the same deal made with [[The League of New Stark]]. When Obould was brought before them, Red offered to part with one piece of penumbra to secure his captain's freedom, but Jade raised the price back to fifteen. Red departed the palace recognizing that Jade was conserving energy and keeping them alive as a resource.
 
@@ -148,7 +148,7 @@ The party reviewed available quests and committed to a route north. [[Red Caesar
 
 ## Session 025
 
-Red Caesar traveled to [[The Academy]] in [[Brimbalin]] with [[Keys]] and [[Lydriel Gondara]] to synthesize [[Antumbra]] — a poisoned form of [[Penumbra]] designed to sabotage the [[Broyish Empire]]'s [[Starfall]] device. He theorized that [[Akasha]] — the silvery-white liquid raining over Continental Stark — is a less concentrated form of Penumbra and that extreme pressure could transmute it back. Using Otiluke's Resilient Sphere filled with Akasha and an inversion of enlarge/reduce spells, he compressed the sphere to hand-size, generating enormous internal pressure. After multiple iterations compressing an entire lake of collected Akasha roughly a thousand-fold, the process produced a perfect palm-sized sphere of jet-black synthesized Penumbra.
+Red Caesar traveled to [[The Academy]] in [[Brimbolyn]] with [[Keys]] and [[Lydriel Gondara]] to synthesize [[Antumbra]] — a poisoned form of [[Penumbra]] designed to sabotage the [[Broyish Empire]]'s [[Starfall]] device. He theorized that [[Akasha]] — the silvery-white liquid raining over Continental Stark — is a less concentrated form of Penumbra and that extreme pressure could transmute it back. Using Otiluke's Resilient Sphere filled with Akasha and an inversion of enlarge/reduce spells, he compressed the sphere to hand-size, generating enormous internal pressure. After multiple iterations compressing an entire lake of collected Akasha roughly a thousand-fold, the process produced a perfect palm-sized sphere of jet-black synthesized Penumbra.
 
 The synthesis method — dubbed the "Caesarean method" — could produce approximately one sphere every five to ten days once established. [[Lydriel Gondara]] and [[Keys]] poisoned the Antumbra using a method concealed by illusion to prevent self-infection. [[Aeris]] confirmed through divination that deploying the Antumbra carries no risk of harming the piece of herself trapped within Starfall. The Antumbra was then planted into the hidden Penumbra stash aboard [[The White Drake]] by [[Kerben]].
 
