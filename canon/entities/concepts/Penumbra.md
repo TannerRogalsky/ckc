@@ -2,7 +2,12 @@
 type: concept
 subtypes: [lore]
 session_introduced: "001"
-sessions_appeared: ["013", "014", "016", "017", "021"]
+sessions_appeared: ["013", "014", "016", "017", "021", "030"]
+related:
+  - "[[Akasha]]"
+  - "[[Obvolvo Caelum]]"
+  - "[[The Carrot Cake]]"
+  - "[[Red Caesar]]"
 ---
 
 Described as "pieces of the fallen sky." Sources of great energy and power that function as magical batteries. A stone found on a beach had no magical function — it was like a magical battery but fading. [[Sunspite]] used the Penumbra as a magical battery and wanted [[Castle Kaedon]] sunk. A half-elf and tiefling made off with the Penumbra; [[Ceril]] recognized the half-elf as working for [[The Order of Seasons]]. The Duergar of [[The Deepworlders Delve]] are obsessed with Penumbra. Sought by both the party and the [[Broyish Empire]], though for different reasons. One chunk was found in Bokanara's pocket, powering a golem in an earlier dungeon. Located within the [[Darvinblast]] is the party's objective, though they must find [[Morel Chainsunder]] first. The party's plan is to give Penumbra to [[Lyngbakr]] the turtle, as [[Sigil]] confirmed.
@@ -18,3 +23,5 @@ At [[The Academy]], the party learned that [[The Order of Seasons]] uses Penumbr
 In session 016, [[Lady Jacinthe]] warned that the [[Broyish Empire]] may also be collecting Penumbra-like obsidian stones to power a massive magical weapon.
 
 In session 021, the party recovered a large Penumbra chunk from the [[Nalfeshne]]'s throne room in [[Castle Kaedon]]. This piece had a blocky, fractal-like structure — multiple triangular fragments fused together where they touched. Near [[Lyngbakr]], the stone weighed nearly nothing. The party transported it aboard the [[Gheister]] and fed it to [[Lyngbakr]] by pushing it overboard above the turtle's head.
+
+In session 030, all four lamps in [[The Carrot Cake]] were lit, opening access to [[Jack Harvey]]'s inner sanctum where Penumbra is expected to be stored. [[Vizier Jade]] and [[Emperor Shen]] exploited the party's rest to search for it while they were trapped away from the opened door. In the same session, [[Red Caesar]] completed [[Obvolvo Caelum]], a spell that can condense Penumbra at any size and may greatly improve the party's ability to move or reshape it.

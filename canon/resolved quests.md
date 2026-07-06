@@ -5,11 +5,6 @@
 - **Resolved:** Session 002
 - **Details:** The party explored [[Otyugh Isle]] and defeated [[Blibdoolpoolp]], the Kuo-Toa god. [[Relic Elnavi]] joined the party afterward.
 
-## Hunt the Grotusqu
-- **Given by:** [[Lady Jacinthe]]
-- **Resolved:** Session 001–010 (exact session unknown)
-- **Details:** Jacinthe asked the party to hunt a [[Grotusqu]] (non-magical giant squid) in session 001. The quest was completed sometime within the first 10 sessions.
-
 ## Find Otto's dwarf friends
 - **Given by:** [[Otto]]
 - **Resolved:** Session 009

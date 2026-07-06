@@ -2,7 +2,7 @@
 type: concept
 subtypes: [lore, cosmology]
 session_introduced: "014"
-sessions_appeared: ["014", "021", "025"]
+sessions_appeared: ["014", "021", "025", "030"]
 related:
   - "[[Arcadia]]"
   - "[[Penumbra]]"
@@ -10,6 +10,7 @@ related:
   - "[[Castle Kaedon]]"
   - "[[Red Caesar]]"
   - "[[Antumbra]]"
+  - "[[Obvolvo Caelum]]"
 ---
 
 A silvery-white liquid substance that falls from the sky as periodic rainstorms over [[Continental Stark]]. The DM connects it to the "oceans above" — the liquid said to come from [[Arcadia]] that fell through the [[Hole in the Sky]].
@@ -25,3 +26,5 @@ In [[Castle Kaedon]], Akasha manifests as a silvery-white mist that fills rooms 
 A theory emerged that [[Penumbra]] might be the crystallized or most solid form of liquid Akasha — a substance that soaks magic and power from everything to form the sky layer.
 
 This theory was confirmed in session 025 when [[Red Caesar]] successfully synthesized a small chunk of [[Penumbra]] from Akasha at [[The Academy]] in [[Brimbolyn]]. He theorized that Akasha is a less concentrated form of Penumbra and that extreme pressure could transmute it back. Using Otiluke's Resilient Sphere filled with Akasha and an inversion of enlarge/reduce spells, he compressed the sphere to hand-size, generating enormous internal pressure. After compressing an entire lake of collected Akasha roughly a thousand-fold, the process produced a perfect palm-sized sphere of jet-black synthesized Penumbra. The method — dubbed the "Caesarean method" — could produce approximately one sphere every five to ten days once established.
+
+In session 030, [[Red Caesar]] completed [[Obvolvo Caelum]] after his younger self identified Mending as the missing piece in his Penumbra work. The spell should make Akasha-to-Penumbra synthesis smoother by resolving the physical transition between liquid and solid states at a very small scale.

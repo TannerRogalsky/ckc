@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "015", "016", "019", "021", "022", "023", "026"]
+sessions_appeared: ["001", "013", "015", "016", "019", "021", "022", "023", "026", "030"]
 related:
   - "[[The Opal]]"
   - "[[Domyx]]"
@@ -35,3 +35,7 @@ Later in session 022, [[Ceril]]'s successful scrying on [[Lady Jacinthe]] reveal
 ## Session 023
 
 In the imperial palace, [[Vizier Jade]] brought Obould before the party encased in a resilient sphere. He was alive but manacled, hunched over, and emaciated — clearly in poor spirits and enduring indignity. Jade cast a spell forcing him to dance in place as entertainment, humiliating him further. Obould had enough control to turn his face away from the party, refusing to let them see him in this state. When Jade ended the spell and prepared to return him, Obould managed to speak briefly: he warned the party not to give Jade any penumbra, explaining its purpose, before his mouth sealed over with flesh and he was hauled away. Jade revealed that [[The League of New Stark]] had been giving her penumbra, extending Obould's stay of execution to three months.
+
+## Session 030
+
+During [[Red Caesar]]'s forced dream, [[Emperor Shen]] told [[Vizier Jade]] that they had a more useful bargaining chip in the real world: Obould. Shen threatened that Obould would not live to see another dawn. The threat renewed the urgency of Obould's rescue even as the party was trapped on [[Hole on Wheels]].

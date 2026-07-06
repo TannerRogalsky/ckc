@@ -1,7 +1,7 @@
 ---
 type: creature
 session_introduced: "027"
-sessions_appeared: ["027", "028", "029"]
+sessions_appeared: ["027", "028", "029", "030"]
 related:
   - "[[The Carrot Cake]]"
   - "[[Jack Harvey]]"
@@ -17,3 +17,5 @@ The magen confirmed that [[Penumbra]] is the power source still running the midw
 In the [[Hole Shebang]], a magen was found in an interior room with a billiard table. It challenged the party to a game of eight-ball pool, offering to match bets up to five gold units. [[Vokenar]] accepted and played with [[Ceril]]'s subtle cheating assistance (tilting the table via Plant Growth), but still lost to the magen's superior skill. The magen admitted it had planned to throw the first round as a hustle for a second game.
 
 In the [[Magic Hat]], a magen maitre d' greeted the party at the hotel door, cast Knock to grant entry, and read their minds to deliver personalized food during the long rest. Another magen at [[King of the Hole]] served as an announcer with a carrot-microphone, delivering researched introductions for each party member and explaining the wave-based combat arena rules.
+
+In session 030, the King of the Hole announcer declared the party winners of every required and optional challenge. As a bonus prize, it detached and enchanted one of its own rabbit tails, presenting the result to [[Domyx]] as the [[Hopping Mad Sash]]. A magen also answered questions about [[Hole on Wheels]], [[Jack Harvey]], and [[Faraday]], clarifying that Jack had left the park in Faraday's care.

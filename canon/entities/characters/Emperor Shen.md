@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc, antagonist]
 session_introduced: "011"
-sessions_appeared: ["011", "013", "023", "024", "026"]
+sessions_appeared: ["011", "013", "023", "024", "026", "030"]
 aliases:
   - Domyx's Ancestor
   - Domyx Acathian III
@@ -34,3 +34,9 @@ In session 024, [[Ceril]] and [[Vokenar]] were drawn into a shared vision of [[A
 In session 026, [[Vokenar]] scryed on Shen and witnessed him loading a large [[Penumbra]] chunk into [[Starfall]] and firing a beam of energy across the heavens. The beam struck the moon, shattering it. Shen is confirmed as the operator of Starfall who has attacked two of the three sister goddesses — first [[Aeris]] sixty years ago and now [[Crone]].
 
 Shen may have attempted to reach [[Arcadia]] by [[Touching the Sky]], going beyond the rite's usual purpose of simply touching the sky.
+
+## Session 030
+
+Shen intruded into [[Red Caesar]]'s dream alongside [[Vizier Jade]] while the party was trapped on [[Hole on Wheels]]. He revealed in Red Caesar's hearing that the party's actions had granted access to [[Penumbra]] and that the Empire was searching while the party was incapacitated. Jade noted that Shen was being careless by speaking so openly.
+
+When Red Caesar placed himself between Shen and [[Master Lee]], Shen drew a katana and threatened Red Caesar inside the dream. He then abandoned the immediate confrontation, saying their real leverage was [[Obould]], who would not live to see another dawn.

@@ -2,7 +2,7 @@
 type: location
 subtypes: [landmark]
 session_introduced: "018"
-sessions_appeared: ["018", "022", "023", "024", "027", "028", "029"]
+sessions_appeared: ["018", "022", "023", "024", "027", "028", "029", "030"]
 aliases:
   - Carrot Cake
   - 40 Carats
@@ -20,6 +20,7 @@ related:
   - "[[Faraday]]"
   - "[[Magic Hat]]"
   - "[[King of the Hole]]"
+  - "[[Hole on Wheels]]"
 ---
 
 A massive amusement park from old [[Kaedon]] that spanned multiple mountaintops through the use of great magic. It could transport visitors from one place in the world to another, allowing them to see everything from elevated peaks. The main travel destination was a tall peak to the north of [[Castle Kaedon]] but south of the elven lands.
@@ -55,3 +56,9 @@ The party explored the midway, a boulevard lined with trees from across Stark an
 The party explored the [[Magic Hat]] hotel in depth, discovering three levels with approximately 30 rooms connected by a spiral staircase. Amenities included a chocolate fountain, soft serve ice cream, shrimp cocktail, and mini bar. A [[Magen]] maitre d' read the party's minds to deliver personalized food during their stay. [[Ceril]] found a purple worm hide rug with amethysts and carrot-infused tobacco. [[Vokenar]] found [[Ramadi's Capers]] issue 4, a collectible comic about a goblin rogue. The party flipped the Magic Hat lamp lighter switch, lighting the second of four lamps needed to access [[Jack Harvey]]'s inner sanctum.
 
 The party entered [[King of the Hole]], an island surrounded by ocean with a grassy hill. A [[Magen]] announcer with a carrot-microphone welcomed them, having researched each party member. The announcer explained the area's wave-based combat system: five beacon lights must be activated three at a time to trigger waves of enemies, with four required waves and an optional fifth bonus. The enemies are presented not by [[Jack Harvey]] but by his benefactor [[Faraday]], who wanted the park to remain entertaining even after the apocalypse. The first wave spawned phase cats, a gorgon head, a flame skull, and mummies.
+
+## Session 030
+
+The party completed the remaining [[King of the Hole]] waves and defeated the optional bonus challenge, lighting the third lamp and earning the [[Hopping Mad Sash]]. After [[Tango]] warned that [[The Opal]] was under [[Broyish Empire]] attack, the party pushed into [[Hole on Wheels]] to reach the fourth lamp.
+
+On Hole on Wheels, the party defeated the [[Vampiric Nightbringer]] controlling the train and flipped the final lamp switch. All four lamps are now lit, opening [[Jack Harvey]]'s inner sanctum. However, the portal paintings back to the midway were deliberately dispelled after the party left, trapping them on the train overnight while the newly opened inner sanctum was exposed. [[Vizier Jade]] and [[Emperor Shen]] used Red Caesar's dream to search for the Penumbra while the party rested.

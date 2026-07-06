@@ -1,9 +1,8 @@
 ---
 type: character
 subtypes: [party-member]
-class: Barbarian
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030"]
 aliases:
   - Domyx Akathian
   - Domix
@@ -54,6 +53,7 @@ related:
   - "[[Remorhaz]]"
   - "[[The Wonder Hulk]]"
   - "[[Cutlass Cray]]"
+  - "[[Hopping Mad Sash]]"
 ---
 
 A titan barbarian and former member of [[Clan Akathia]] who touched the sky, earning sky-blue palms that mark him as a blood relative of [[Emperor Shen]]. Renounced his family name after confronting his grandfather's role in breaking the sky and being disowned by his father [[Domyx IV]]. Named as [[The Opal]]'s successor by [[Obould]], but carries the burden of being Shen's grandson — the descendant of the party's greatest enemy. Traveled to the titan homeland, rescued [[Ulrich Fjoller]] from the [[Prison of Frost]], and brought [[Lorelei]] aboard with him.
@@ -198,3 +198,9 @@ Domyx played the Sky High Striker carnival game, striking the mallet hard enough
 In the [[Magic Hat]], Domyx survived the [[Gorgon Head]]'s petrifying death burst by making the constitution save, bursting free from the stone. In [[King of the Hole]], he navigated the beacon system to trigger waves of enemies, using his [[Gith Shard Glaive]] to cleave through [[Phase Cat]]s, [[Flame Skull]]s, and [[Mummy]]s in the first wave. He killed a phase cat and cleaved into a flame skull early in the fight.
 
 During the second wave, Domyx used his cloud jaunt to swap places with [[Vokenar]], placing himself directly in the enemy cluster. He attacked [[Death Spark]]s recklessly, clearing them with his glaive's cleave and brutal strike abilities. He was hit by the [[Shambling Mound]]'s engulf tendrils but used his rage reroll to resist. He engaged [[Hooksy the Clown Automaton]]s directly, using reckless attacks and divine smite to damage multiple targets. He took a Nimbus Form healing rain cloud mid-fight. When the [[Lightning Elemental]] was finally destroyed by his attacks, it sent back electrical damage on its death throes, but Domyx survived. He chugged a potion Red Caesar had brewed for him as the wave concluded.
+
+## Session 030
+
+Domyx survived the last [[King of the Hole]] waves despite being surrounded by [[Hooksy the Clown Automaton]] variants and nearly overwhelmed. His endurance and refusal to stay down became the defining image of the arena finale. After the optional bonus challenge, the [[Magen]] announcer awarded him the [[Hopping Mad Sash]], a magical bunny-tail sash tied to his habit of turning near-defeat into momentum.
+
+On [[Hole on Wheels]], Domyx held the front of the party through the train's narrow cars, forcing enemies back and helping clear vampire-controlled defenders. In the final cabin, he fought the [[Vampiric Nightbringer]] directly and hurled it from the moving train. The vampire dragged him under the cars, but Domyx caught onto the caboose and climbed back aboard. After the session's long rest, he reached level 12 and focused his growth on durability.

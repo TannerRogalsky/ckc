@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc]
 session_introduced: "018"
-sessions_appeared: ["018", "022", "024", "027"]
+sessions_appeared: ["018", "022", "024", "027", "030"]
 related:
   - "[[The Carrot Cake]]"
   - "[[David Harvey]]"
@@ -31,3 +31,7 @@ During his secret meeting with [[Kerben]] aboard [[The Opal]], [[Theo Harvey]] r
 ## Session 027
 
 Inside the extra-dimensional space of the [[Haunted Living Tent]] at [[The Carrot Cake]], [[Red Caesar]] and [[Kerben]] recovered a portrait of Jack Harvey. Red recognized it by sight; Kerben identified its value because it was painted to look like his old boss. The painting was salvaged as the tent disintegrated.
+
+## Session 030
+
+A [[Magen]] in [[The Carrot Cake]] explained that Jack Harvey eventually had to resign from direct control of the park and left it in the care of [[Faraday]]. The same conversation suggested Jack Harvey is almost certainly dead by the present day, making the Carrot Cake his surviving legacy. The party lit all four lamps, opening the path to Jack Harvey's inner sanctum, but the portal system was dispelled before they could return to the midway.

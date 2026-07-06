@@ -2,13 +2,14 @@
 type: location
 subtypes: [landmark]
 session_introduced: "027"
-sessions_appeared: ["027", "029"]
+sessions_appeared: ["027", "029", "030"]
 related:
   - "[[The Carrot Cake]]"
   - "[[City Hole]]"
   - "[[Magen]]"
   - "[[Faraday]]"
   - "[[Jack Harvey]]"
+  - "[[Hopping Mad Sash]]"
 ---
 
 One of four portal destinations in [[The Carrot Cake]], described by a [[Magen]] as an island resort and coliseum area. Its portal in the midway courtyard is marked by a sign showing carrots flanking a hill.
@@ -20,3 +21,7 @@ Five beacon lights (carrot-shaped) are positioned around the island. To start ea
 The first wave spawned [[Phase Cat]]s, a [[Gorgon Head]], a [[Flame Skull]], and [[Mummy]]s. The second wave introduced [[Hooksy the Clown Automaton]] variants, [[Death Spark]]s, a [[Shambling Mound]], and a [[Lightning Elemental]]. The shambling mound and lightning elemental proved dangerous together — the elemental's lightning healed the mound rather than damaging it. The third wave featured more Hooksy variants, another shambling mound, a [[Cloaker]], and a phase cat. A notable discovery during this wave was that Hooksy variants can burst open on death to release two smaller forms from within, though acid can sterilize the inner forms and prevent further emergence.
 
 The area includes a 40-foot lighthouse with a giant carrot-shaped glass bulb. The bulb was looted by the party as a potentially valuable item. As the party prepared to trigger the fourth wave, [[Kerben]] appeared from one of the portals with dramatic music — signaling the next encounter.
+
+In session 030, the fourth required wave spawned additional [[Gorgon Head]]s, [[Phase Cat]]s, and [[Hooksy the Clown Automaton]] variants split across the island. The party survived repeated petrification threats and completed the required arena sequence.
+
+The optional fifth challenge turned the arena into a king-of-the-hill defense on the central pinnacle, with illusory ocean rising around the party. [[Smoke Elemental]]s, [[Shambling Mound]]s, and [[Death Spark]]s attacked the hilltop, but the party defeated every enemy. The [[Magen]] announcer declared them winners of every challenge, lit the area's lamp, and awarded [[Domyx]] the [[Hopping Mad Sash]] as the bonus prize.

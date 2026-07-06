@@ -95,6 +95,7 @@
 - [[Smoke Elemental]] — Elemental creature of smoke and fumes in the Hole Shebang, formed from smoldering debris
 - [[Haunted Living Tent]] — Gargantuan living tent at The Carrot Cake that siphons victims into an extra-dimensional tea cozy house
 - [[Magen]] — Construct-like rabbit automata carrying part of Jack Harvey's mind and maintaining The Carrot Cake
+- [[Vampiric Nightbringer]] — Vampire lord that controlled Hole on Wheels before the party destroyed it with sunlight and force
 - [[Mummy]] — Undead petitioners with petrifying glare, encountered as wave enemies in King of the Hole
 - [[Shambling Mound]] — Massive plant monster of twisted vines; engulfed targets with tendrils, healed by lightning; wave enemy in King of the Hole
 - [[Lightning Elemental]] — Fast elemental of crackling electricity; arcs healed the Shambling Mound, creating a dangerous synergy; wave enemy in King of the Hole
@@ -181,7 +182,7 @@
 - [[The Church of the Thirty Lights]] — Church in Cutlass Cray
 - [[Castle Kaedon]] — Castle on the back of Lyngbakr
 - [[Westerness]] — Sunken human city that surrounded Castle Kaedon, visible beneath the waves
-- [[The Carrot Cake]] — Massive magical amusement park from old Kaedon, later claimed by Theo Harvey to be "alive and well"
+- [[The Carrot Cake]] — Massive magical amusement park from old Kaedon where all four lamps now open Jack Harvey's inner sanctum
 - [[Taylin]] — Old Kaedon settlement near Castle Kaedon, likely destroyed during the Cataclysm
 - [[Castle Kaedon Arena]] — Interior courtyard within Castle Kaedon with bleachers, arena floor, and stables
 - [[Esperanto]] — Pre-Cataclysm place south of Kaedon, linked by developing trade routes
@@ -204,7 +205,7 @@
 - [[Hole Shebang]] — Festival island of games and entertainments within The Carrot Cake, accessible via teleport circle
 - [[City Hole]] — Central hub cavern with barrel portals connecting to the park's zones
 - [[King of the Hole]] — Island resort and coliseum zone within The Carrot Cake
-- [[Hole on Wheels]] — Flying train zone offering scenic views of Esperanto
+- [[Hole on Wheels]] — Scenic train zone over drowned Esperanto, containing the fourth lamp and disabled portal paintings
 
 ## Organizations
 - [[Clan Lapis]] — Titan folk clan known for mining and gem exploration; Lorelei married into this clan
@@ -253,11 +254,13 @@
 - [[Potion of Eels]] — Potion containing swirling black eels that greatly enhances agility for a limited time
 - [[Potion of Clairvoyance]] — Potion granting clairvoyant sight or hearing from a distant location for a limited time
 - [[Gith Shard Glaive]] — Halberd with extended-range psychic cleave, crafted by Sigrid Forgewelt from a Gith Star Gem
+- [[Hopping Mad Sash]] — Magical bunny-tail sash awarded to Domyx after the King of the Hole bonus challenge
 - [[Sunset's Solace]] — Spell-storing shield for Vokenar
 - [[Boots of the Alvigard]] — Magical boots that quicken Red Caesar
 - [[Branch of the Itinerant]] — Spellcasting wand that blooms flowers along a drawn path, acquired by Ceril
 - [[Cloaks of Billowing]] — Magic cloaks allowing dramatic billowing as a bonus action, purchased for the party
 - [[Deep Roses]] — Rare herbs growing underwater in the Mana Sea; correct cure for Mana Sickness
+- [[Obvolvo Caelum]] — Red Caesar's Penumbra-condensing spell built from Akasha synthesis and Mending
 - [[Mana Sickness]] — Contagious plague spreading through Southport from the Mana Sea; victims fall into impenetrable slumber
 - [[Shark's Edge]] — Kerben's +2 falchion made from a megalodon tooth; reveals water temperature by sight
 - [[Tatzelwurm Gizzard Juice]] — One-use white dragon poison crafted by Kerben from Tatzelwurm scales and darkwood bark

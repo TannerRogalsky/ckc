@@ -7,8 +7,8 @@
 
 ## Rescue Obould from the Broyish Empire
 - **Given by:** [[Obould]] (implied), [[Lady Jacinthe]]
-- **Status:** In progress
-- **Details:** [[Obould]] was captured by [[Vizier Jade]] and held prisoner in [[Broy]]. Jade is using him as leverage against [[Lady Jacinthe]], demanding [[Penumbra]] in exchange for his safety. [[The League of New Stark]] has been paying jade penumbra to extend Obould's stay of execution. Jade demanded fifteen pieces of [[Penumbra]] from the party directly.
+- **Status:** In progress — urgent
+- **Details:** [[Obould]] was captured by [[Vizier Jade]] and held prisoner in [[Broy]]. Jade is using him as leverage against [[Lady Jacinthe]], demanding [[Penumbra]] in exchange for his safety. [[The League of New Stark]] has been paying [[Vizier Jade]] with [[Penumbra]] to extend Obould's stay of execution. Jade demanded fifteen pieces of [[Penumbra]] from the party directly. In session 030, [[Emperor Shen]] threatened inside [[Red Caesar]]'s dream that Obould would not live to see another dawn.
 
 ## Kill the Tome Keeper
 - **Given by:** [[Rakshasa]]
@@ -17,8 +17,8 @@
 
 ## Light the four lamps and enter Jack Harvey's inner sanctum
 - **Given by:** [[Magen]] (The Carrot Cake)
-- **Status:** In progress (2 of 4 lamps lit; 3 waves completed in King of the Hole)
-- **Details:** A [[Magen]] explained that four lamps must be lit to access [[Jack Harvey]]'s inner sanctum within [[The Carrot Cake]]. Each lamp corresponds to one of the park's zones: [[Magic Hat]], [[Hole Shebang]], [[King of the Hole]], and [[Hole on Wheels]]. The party lit the Hole Shebang lamp by flipping the breaker switch and the Magic Hat lamp by flipping the hotel's lighter switch. Two remain. The inner sanctum likely contains [[Penumbra]] hidden by Jack Harvey. The party entered [[King of the Hole]] and has completed three waves of its wave-based combat arena. [[Kerben]] appeared from a portal as the party prepared for the next wave.
+- **Status:** In progress (4 of 4 lamps lit; inner sanctum opened while party is trapped)
+- **Details:** A [[Magen]] explained that four lamps must be lit to access [[Jack Harvey]]'s inner sanctum within [[The Carrot Cake]]. Each lamp corresponds to one of the park's zones: [[Magic Hat]], [[Hole Shebang]], [[King of the Hole]], and [[Hole on Wheels]]. The party lit the Hole Shebang lamp by flipping the breaker switch, the Magic Hat lamp by flipping the hotel's lighter switch, the King of the Hole lamp after defeating the required and bonus arena waves, and the Hole on Wheels lamp after defeating the [[Vampiric Nightbringer]] aboard the train. The inner sanctum likely contains [[Penumbra]] hidden by Jack Harvey. After the fourth lamp was lit, an intruder dispelled the Hole on Wheels portal paintings, trapping the party on the train while the inner sanctum opened elsewhere and the [[Broyish Empire]] searched for the Penumbra.
 
 ## Defeat Yalet Aurum
 - **Given by:** [[Yalet Mora]]
@@ -39,3 +39,8 @@
 - **Given by:** [[Rakshasa]] (implied), [[Ceril]] (own initiative)
 - **Status:** In progress
 - **Details:** The [[Rakshasa]] is Ceril's father, a divine being trapped hunting escaped demons. He cannot see his family until the [[Tome Keeper]] is dead. Ceril's mother is a drow, possibly connected to [[Veronia Karadel]]. The Rakshasa's existence is unknown to [[Keys]] and [[Lydriel Gondara]].
+
+## Hunt the Grotusqu
+- **Given by:** [[Lady Jacinthe]]
+- **Status:** Abandoned / unresolved
+- **Details:** [[Lady Jacinthe]] asked the party to hunt a [[Grotusqu]] in session 001. The party never meaningfully revisited the hunt, so it remains unresolved rather than completed.

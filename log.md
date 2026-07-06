@@ -198,3 +198,6 @@
 ## [2026-07-05] lint | Brimbalin → Brimbolyn
 ## [2026-07-05] lint | Akathia Manor → Acathian Manor
 ## [2026-07-05] update | Emperor Shen alias Domyx Acathian III
+## [2026-07-05] ingest | session_030 — Created summary, entities, quest, and timeline updates
+## [2026-07-05] lint | Grotusqu quest moved to active unresolved
+## [2026-07-05] lint | Volvo Caelum → Obvolvo Caelum

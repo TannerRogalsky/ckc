@@ -1,7 +1,6 @@
 ---
 type: character
 subtypes: [party-member]
-class: Cleric
 aliases:
   - Bokanar
   - Bokanara
@@ -21,7 +20,7 @@ aliases:
   - Vokun
   - Vokunov
 session_introduced: "001"
-sessions_appeared: ["001", "011", "012", "013", "014", "015", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029"]
+sessions_appeared: ["001", "011", "012", "013", "014", "015", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030"]
 related:
   - "[[Arcadia]]"
   - "[[Sigil]]"
@@ -229,3 +228,9 @@ At [[The Carrot Cake]], spotted a [[Cloaker]] threat in time to alert the party,
 ## Session 029
 
 In the [[Magic Hat]], Vokenar used Lesser Restoration on himself to clear the [[Gorgon Head]]'s petrification effect. In [[King of the Hole]], he cast Spirit Guardians and Scorching Ray (fire doing double damage to [[Mummy]]s) during the first wave. He cast Radiance of Dawn in the second wave, devastating clustered [[Death Spark]]s and [[Hooksy the Clown Automaton]]s. He used a healing word scroll on himself after taking heavy damage. He cast Mass Cure Wounds and Cure Wounds to heal the party between waves, preparing them for the third encounter. He positioned himself at a beacon and coordinated with the party on which beacon combination to activate next. He used Toll the Dead to finish off a hooksy.
+
+## Session 030
+
+Vokenar helped carry the party through the final [[King of the Hole]] waves, repeatedly reversing petrification threats from [[Gorgon Head]]s and keeping the group standing between arena rounds. During the optional bonus challenge, he burned divine light outward while trapped inside a [[Shambling Mound]], turning the monster's own engulfing attack against it.
+
+On [[Hole on Wheels]], Vokenar cast a blade barrier down the train, tearing open the roof and forcing vampire-controlled enemies to scatter. He later helped break the [[Vampiric Nightbringer]]'s domination of [[Red Caesar]], then pressed the vampire under the sunlight Ceril brought through the roof. After the session's long rest, Vokenar reached level 12 and deepened his divine spellcasting and protective flares.

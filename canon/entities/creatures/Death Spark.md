@@ -4,8 +4,10 @@ session_introduced: "028"
 sessions_appeared:
   - "028"
   - "029"
+  - "030"
 related:
   - "[[Hole Shebang]]"
+  - "[[King of the Hole]]"
 ---
 # Death Spark
 
@@ -14,3 +16,5 @@ A small lightning-based entity encountered alongside a larger lightning elementa
 Like the larger lightning elemental, it appeared to be animated by the electrical system powering the Hole Shebang island.
 
 Additional death sparks appeared after the party flipped the island's breaker switch, sputtering from the dead electrical arcs. They zapped [[Zulu]] and [[Vokenar]] during combat. More death sparks appeared alongside additional enemies in the southern stage area of the island.
+
+Death sparks also appeared in the optional [[King of the Hole]] bonus challenge, supporting [[Shambling Mound]]s and adding electrical pressure to the hilltop defense.

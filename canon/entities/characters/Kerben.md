@@ -1,9 +1,8 @@
 ---
 type: character
 subtypes: [party-member]
-class: Ranger/Rogue (Assassin/Arcane Trickster)
 session_introduced: "001"
-sessions_appeared: ["001", "011", "012", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029"]
+sessions_appeared: ["001", "011", "012", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030"]
 aliases:
   - Kerbin
   - Curbin
@@ -187,3 +186,7 @@ Kerben took on the role of acting captain of [[The Opal]] while [[Red Caesar]] w
 ## Session 026
 
 Kerben was first aboard [[The Opal]] to see the elemental streak from [[Starfall]] strike the moon. He inferred the likely consequences for tides, falling debris, and [[Brimbolyn]], then helped steer the crew's response. At [[Xarag's Island]], Kerben helped kill [[Xarag]] and salvaged dragon material that let [[Red Caesar]] preserve two potions of acid resistance. During the [[Gun Balloon]] attack, Kerben helped repel imperial boarders and later gathered binding materials for the charmed beach troll's raft.
+
+## Session 030
+
+Kerben remained away from the party to defend [[The Opal]] while they finished [[The Carrot Cake]]. He sent [[Tango]] with a hurried message instructing the party to speak with the creature. Through Tango, Kerben reported that multiple boats had attacked The Opal, that he had helped repel the first wave, and that a larger [[Broyish Empire]] force was approaching under cover of the moonless dark. Kerben stayed with the ship overnight to hold the attackers off while the party pushed for the final lamp.

@@ -813,3 +813,41 @@
 - The party took a short rest aided by [[Vokenar]]'s Divine Intervention.
 - [[Domyx]] looted a giant carrot-shaped glass lightbulb from a 40-foot lighthouse on the island.
 - As the party prepared to trigger the next wave, [[Kerben]] appeared from a portal with dramatic music. The session ended on this cliffhanger.
+
+## Session 030
+
+### Chunk 0000
+
+- The party triggered the fourth required [[King of the Hole]] wave, splitting between [[Gorgon Head]]s, [[Phase Cat]]s, and [[Hooksy the Clown Automaton]] variants.
+- [[Ceril]] dispelled a petrification effect on himself and descended from the lighthouse to support [[Domyx]].
+- [[Vokenar]] reversed another petrification threat while [[Red Caesar]] helped hold the northern side of the island.
+- The party defeated the fourth wave, completing the required King of the Hole sequence.
+- The [[Magen]] announcer offered the optional bonus challenge: defend the hilltop pinnacle while the arena's illusion raised the ocean around it.
+
+### Chunk 0001
+
+- The party accepted and won the optional [[King of the Hole]] bonus challenge against [[Smoke Elemental]]s, [[Shambling Mound]]s, and [[Death Spark]]s.
+- The King of the Hole lamp lit, and the magen announcer awarded [[Domyx]] the [[Hopping Mad Sash]].
+- [[Tango]] delivered [[Kerben]]'s urgent message from [[The Opal]]; through Ceril, Tango reported that the ship was under [[Broyish Empire]] attack and Kerben was holding off a larger force.
+- A magen explained that [[Jack Harvey]] had resigned from direct control of [[The Carrot Cake]] and left it in [[Faraday]]'s care.
+- The party entered [[Hole on Wheels]], a seven-car scenic train looping over the ocean where [[Esperanto]] once stood.
+- Ceril's owl familiar scouted the train, reporting vampire-controlled enemies and the final lamp switch near the front.
+
+### Chunk 0002
+
+- The party advanced through [[Hole on Wheels]], finding preserved carrot tea, a Mass Healing Word scroll, an old [[Stark]] travelogue, and a framed rendering of the Carrot Cake midway.
+- [[Vokenar]] used divine blades to tear open the train roof and scatter enemies through the cars.
+- The party reached the front car and confronted the [[Vampiric Nightbringer]], a vampire lord controlling the train.
+- [[Red Caesar]] opened the front window to sunlight, and Ceril later tore open the roof with lightning to expose the vampire further.
+- [[Domyx]] hurled the nightbringer from the train and survived being dragged under the moving cars.
+
+### Chunk 0003
+
+- The party defeated the [[Vampiric Nightbringer]], which disintegrated into blackening feathers.
+- Red Caesar accelerated the train around its ocean loop and flipped the final lamp switch, lighting the fourth lamp and opening [[Jack Harvey]]'s inner sanctum.
+- The party discovered the portal paintings had been dispelled by an intruder, trapping them on [[Hole on Wheels]] overnight while the inner sanctum opened elsewhere.
+- The party took a long rest on the train.
+- [[Vizier Jade]] and [[Emperor Shen]] intruded into Red Caesar's [[Heaven's Bulb]] memory, searching his mind for the newly accessible [[Penumbra]].
+- Shen threatened [[Obould]], saying the captive captain would not live to see another dawn.
+- Red Caesar cast True Seeing on his younger self, who identified Mending as the missing piece in Red Caesar's Penumbra work.
+- Red Caesar learned [[Obvolvo Caelum]], a spell that can condense [[Penumbra]] and smooth [[Akasha]]-to-Penumbra synthesis.

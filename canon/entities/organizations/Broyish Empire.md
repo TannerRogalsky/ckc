@@ -2,7 +2,7 @@
 type: organization
 subtypes: [empire]
 session_introduced: "004"
-sessions_appeared: ["013", "014", "016", "022", "023"]
+sessions_appeared: ["013", "014", "016", "022", "023", "030"]
 aliases:
   - Dawn Empire
 related:
@@ -29,3 +29,9 @@ In session 022, the party encountered imperial military forces on the [[Harengon
 ## Session 023
 
 The party arrived at the coast of [[Broy]] and disembarked. They encountered [[Oni]] demons serving as imperial guards, suggesting the Empire employs fiendish creatures for enforcement. [[Theo Harvey]] revealed that [[Vizier Jade]] had sent her companion [[The Tyrant]] to search for [[The Carrot Cake]], indicating the Empire's interest in ancient magical structures and their potential power sources.
+
+## Session 030
+
+The Empire attacked [[The Opal]] with multiple boats while the party remained inside [[The Carrot Cake]]. [[Kerben]] repelled the first wave but stayed with the ship because a larger force was approaching under cover of the moonless dark created by [[Emperor Shen]]'s attack on the moon.
+
+The Empire also made a direct move inside the Carrot Cake after the party lit all four lamps. Someone dispelled the [[Hole on Wheels]] portal paintings, trapping the party on the train while [[Jack Harvey]]'s inner sanctum opened elsewhere. During the same rest, [[Vizier Jade]] and Emperor Shen intruded into [[Red Caesar]]'s dream, confirming they were searching for the newly accessible [[Penumbra]] while the party was incapacitated.

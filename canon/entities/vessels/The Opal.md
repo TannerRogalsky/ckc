@@ -2,7 +2,7 @@
 type: vessel
 subtypes: [ship]
 session_introduced: "001"
-sessions_appeared: ["013", "015", "016", "024", "025", "026", "027"]
+sessions_appeared: ["013", "015", "016", "024", "025", "026", "027", "030"]
 related:
   - "[[Obould]]"
   - "[[Kerben]]"
@@ -38,3 +38,5 @@ In session 022, the party purchased ship upgrades including a bulbous bow for be
 In session 024, the Empire installed a full complement of cannons on port and starboard sides. The reinforced bow proved useful breaking through ice near [[Thalasia]]. During a hydra encounter, the ship sustained hull damage from the creature ramming the port side.
 
 In session 027, [[The Opal]] was fully repaired in [[Cutlass Cray]]. It was also upgraded with a new steering mechanism and a new crow's nest.
+
+In session 030, while the party explored [[The Carrot Cake]], The Opal came under attack from multiple [[Broyish Empire]] boats. [[Kerben]] arrived in time to help repel the first wave, then sent [[Tango]] to warn the party that a larger force was approaching. The shattered moon made the night especially dark, giving the Empire cover to maneuver around the elves and [[The Order of Seasons]].
