@@ -205,3 +205,4 @@
 ## [2026-07-19] query | Reviewed chunk references and aliases for Fharan
 ## [2026-07-19] update | Fharan — Expanded palace role, abilities, and imperial ideology
 ## [2026-07-19] query | Investigated Nornhof source wording and transcript variants
+## [2026-07-19] lint | Relic Elnavi → Rella Kel'Navvi

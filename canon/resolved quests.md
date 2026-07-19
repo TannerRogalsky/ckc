@@ -3,7 +3,7 @@
 ## Defeat Blibdoolpoolp
 - **Given by:** Implicit (party initiative)
 - **Resolved:** Session 002
-- **Details:** The party explored [[Otyugh Isle]] and defeated [[Blibdoolpoolp]], the Kuo-Toa god. [[Relic Elnavi]] joined the party afterward.
+- **Details:** The party explored [[Otyugh Isle]] and defeated [[Blibdoolpoolp]], the Kuo-Toa god. [[Rella Kel'Navvi]] joined the party afterward.
 
 ## Find Otto's dwarf friends
 - **Given by:** [[Otto]]

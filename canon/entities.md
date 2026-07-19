@@ -104,7 +104,7 @@
 - [[Kilosaurus]] — Triceratops-like companion used to haul Penumbra and later left at Lyngbakr Lagoon
 - [[Penelope]] — Giant bat ridden by a dwarf bat rider knight
 - [[Bat Rider]] — Elite dwarf knights riding giant bats
-- [[Relic Elnavi]] — Blink dog companion from Otyugh Isle, now stationed at Lyngbakr Lagoon
+- [[Rella Kel'Navvi]] — Blink dog companion from Otyugh Isle, now stationed at Lyngbakr Lagoon
 - [[The Marid]] — Huge pale dignitary, Port Authority at Cutlass Cray
 - [[Tuna]] — Sphinx, half cat half falcon, associated with Alamar
 - [[Lyngbakr]] — Giant turtle from [[Arcadia]] that fell through the Hole in the Sky
@@ -190,7 +190,7 @@
 - [[Xarag's Island]] — Southern island where the prologue Black Dragon Xarag held treasure once carried by The Opal; dragon slain and treasure recovered
 - [[Harengon Warrens]] — Island with extensive underground tunnels used by the Harengon, now partially occupied by the Empire
 - [[Otyugh Isle]] — Island with Kuo-Toa and Temple of Sigil
-- [[Lyngbakr Lagoon]] — Developing base near Castle Kaedon where Alamar, Relic Elnavi, and Kilosaurus remain
+- [[Lyngbakr Lagoon]] — Developing base near Castle Kaedon where Alamar, Rella Kel'Navvi, and Kilosaurus remain
 - [[Rasharan's Rock]] — Location that no longer exists
 - [[Hole in the Sky]] — Hole the party aims to find and plug
 - [[Southport]] — Port city west of The Garden, now a plague town afflicted by Mana Sickness; sought by Rochella Golf

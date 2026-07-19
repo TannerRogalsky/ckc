@@ -26,7 +26,7 @@ The ship on which the party travels. Captained by [[Obould]], a gaudy orc. Navig
 | Healer | [[Ebi]] | Tended the sickbay. Departed with [[Trent]] to help cure the [[Mana Sickness]] in [[Southport]]. |
 | Crew | [[Yalet Mora]] | Stone-bodied Galeb Duurr; can roll in boulder form. |
 | Crew | [[Lorelei]] | [[Domyx]]'s sister; joined after being freed from the titan homeland in session 024. |
-| Janitor | [[Relic Elnavi]] | Uses blink ability to teleport trash and misplaced items. |
+| Janitor | [[Rella Kel'Navvi]] | Uses blink ability to teleport trash and misplaced items. |
 | Named Heir | [[Domyx]] | Named successor to the ship by Obould in session 015. |
 
 Additionally, three unnamed dwarf deckhands were recruited by Obould in session 013, and [[Rochella Golf]] traveled as a temporary passenger/crew member toward [[Southport]].

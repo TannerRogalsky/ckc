@@ -25,7 +25,7 @@ related:
   - "[[Ceril]]"
   - "[[Morel Chainsunder]]"
   - "[[Yalet Mora]]"
-  - "[[Relic Elnavi]]"
+  - "[[Rella Kel'Navvi]]"
   - "[[Continental Stark]]"
   - "[[Fuchsia Fungus]]"
   - "[[Aeon]]"
@@ -66,7 +66,7 @@ In a flashback, [[Ulrich Fjoller]] intercepted him during his descent from the t
 
 During the church confrontation with [[Morel Chainsunder]], Domyx gave a powerful speech about self-determination and freedom while barely alive. He showed his sky-blue hands to the congregation as proof of the surface world and removed cowls from congregants to show them as individuals.
 
-He recruited [[Otto]] to join the crew alongside [[Vokenar]]. After a wyvern fight, he checked in with the crew aboard [[The Opal]] and played a card game called Titans Tarot as a morale-building exercise and initiation ritual. He eased clashing personalities among the crew, including the antisocial Mobley and the boisterous [[Yalet Mora]]. [[Relic Elnavi]] serves as the ship's janitor, using its blink ability to teleport trash and misplaced items.
+He recruited [[Otto]] to join the crew alongside [[Vokenar]]. After a wyvern fight, he checked in with the crew aboard [[The Opal]] and played a card game called Titans Tarot as a morale-building exercise and initiation ritual. He eased clashing personalities among the crew, including the antisocial Mobley and the boisterous [[Yalet Mora]]. [[Rella Kel'Navvi]] serves as the ship's janitor, using its blink ability to teleport trash and misplaced items.
 
 ## Abilities and Equipment
 

@@ -19,7 +19,7 @@
 
 ### Chunk sessions_001-0010
 
-- The party defeats [[Blibdoolpoolp]], the Kuo-Toa god, and [[Relic Elnavi]] joins the party.
+- The party defeats [[Blibdoolpoolp]], the Kuo-Toa god, and [[Rella Kel'Navvi]] joins the party.
 - The party encounters [[Lyngbakr]], a giant [[Saratan]] from [[Arcadia]] that fell through the [[Hole in the Sky]] with [[Castle Kaedon]] on its back.
 - [[Sunspite]] is identified as an enemy who wants [[Castle Kaedon]] sunk and has used [[Penumbra]] as a magical battery.
 - [[Sigil]] tells the party that the mission is not hopeless: the [[Penumbra]] must be given to [[Lyngbakr]].
@@ -185,12 +185,12 @@
 - The party recovers the pure [[Penumbra]] chunk and gnomish gold from gnoll territory.
 - [[Domyx]] checks in with [[The Opal]]'s crew through his Titans Tarot initiation ritual.
 - [[Yalet Mora]] suggests recruiting a wind-aligned creature to help [[The Opal]] cross dead winds.
-- [[Relic Elnavi]] spots a fire at [[Lyngbakr Lagoon]], drawing the party back to [[Alamar]] and [[Tuna]].
+- [[Rella Kel'Navvi]] spots a fire at [[Lyngbakr Lagoon]], drawing the party back to [[Alamar]] and [[Tuna]].
 - [[Alamar]] has built shelters, water storage, and a feeding chute for [[Lyngbakr]] at [[Lyngbakr Lagoon]].
 - [[Alamar]] reports that [[Broyish Empire]] airships searched for [[Castle Kaedon]] without finding it.
 - [[Alamar]] reveals that he and [[Lyngbakr]] appear bound to the castle by a shared leash and that a powerful presence may occupy the old throne room.
 - The party feeds all collected [[Penumbra]] to [[Lyngbakr]], beginning a digestion period expected to last weeks to a month before more of [[Castle Kaedon]] can rise.
-- [[Lyngbakr Lagoon]] is established as a defended base with [[Kilosaurus]], [[Relic Elnavi]], and three deckhands.
+- [[Lyngbakr Lagoon]] is established as a defended base with [[Kilosaurus]], [[Rella Kel'Navvi]], and three deckhands.
 
 ### Chunk 0004
 
@@ -198,7 +198,7 @@
 - [[Sigil]] says allies will appear along the party's route and that [[The Order of Seasons]] moved [[Penumbra]] beyond the jungles to a protected place.
 - [[Sigil]] identifies [[Emperor Shen]] as the party's greatest enemy, perhaps their only great enemy.
 - [[Domyx]] explains [[Touching the Sky]] as a titan ambition contest that may have brought his ancestor into direct contact with [[Aeris]].
-- [[Relic Elnavi]] offers [[Ceril]] hope about the elven lands, then blinks away while [[Ceril]] stays at [[Lyngbakr Lagoon]].
+- [[Rella Kel'Navvi]] offers [[Ceril]] hope about the elven lands, then blinks away while [[Ceril]] stays at [[Lyngbakr Lagoon]].
 - The party charts a four-day wind-favored route north toward the elves, then curving south past [[The Garden]], and sets sail.
 
 ## Session 014
