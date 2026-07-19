@@ -201,3 +201,7 @@
 ## [2026-07-05] ingest | session_030 — Created summary, entities, quest, and timeline updates
 ## [2026-07-05] lint | Grotusqu quest moved to active unresolved
 ## [2026-07-05] lint | Volvo Caelum → Obvolvo Caelum
+## [2026-07-19] lint | Seneschal Faran → Fharan
+## [2026-07-19] query | Reviewed chunk references and aliases for Fharan
+## [2026-07-19] update | Fharan — Expanded palace role, abilities, and imperial ideology
+## [2026-07-19] query | Investigated Nornhof source wording and transcript variants

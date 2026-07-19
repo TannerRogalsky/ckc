@@ -35,7 +35,7 @@ Ceril cast Plant Growth on the ring's earth elements, causing an orchard of appl
 
 The party regrouped and discovered the [[Gheister]] was missing alongside Theo. [[Red Caesar]] was skeptical about Theo's Carrot Cake map, questioning whether Theo had simply bluffed about Penumbra being there. The party had 31 days before the Carrot Cake's demi-plane opened, giving them time to pursue other quests.
 
-[[Domyx]] explored the [[Broyish Capital]] alone and encountered [[Seneschal Faran]] near the Dawn Palace. Faran explained that the Empire welcomes those who "fall through the cracks" in other societies, and that many titan folk have left their mountains and found opportunity in the capital — revealing to Domyx a broader diaspora of his people that his sheltered upbringing had hidden from him.
+[[Domyx]] explored the [[Broyish Capital]] alone and encountered [[Fharan]] near the Dawn Palace. Fharan explained that the Empire welcomes those who "fall through the cracks" in other societies, and that many titan folk have left their mountains and found opportunity in the capital — revealing to Domyx a broader diaspora of his people that his sheltered upbringing had hidden from him.
 
 The party planned their next moves: head north to [[Thalasia]] to visit Domyx's people (an eight-day journey), then swing through southern waters for resources before the Carrot Cake became accessible. They discussed the possibility of confronting [[The League of New Stark]] about their secret Penumbra dealings with the Empire.
 

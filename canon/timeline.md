@@ -572,7 +572,7 @@
 
 ### Chunk 0002
 
-- The party enters the imperial palace and is intercepted by [[Seneschal Faran]], who verifies their identities before granting audience with the imperial high court.
+- The party enters the imperial palace and is intercepted by [[Fharan]], who verifies their identities before granting audience with the imperial high court.
 - The party meets [[Vizier Jade]] in her chamber. Jade reads the party's thoughts directly and catches [[Red Caesar]]'s attempted deception about penumbra synthesis.
 - Jade demands fifteen pieces of [[Penumbra]] for [[Obould]]'s freedom — the same deal made with [[The League of New Stark]].
 - Jade brings Obould before the party encased in a resilient sphere. He is alive but humiliated; Jade forces him to dance as entertainment before he warns the party not to give her penumbra.
@@ -598,7 +598,7 @@
 - Aeris confirmed that repairing the sky will restore her divinity and potentially save her mortal body. She warned the party not to underestimate her captor.
 - Ceril cast Plant Growth to grow food for Aeris; Vokenar cast Continual Flame to leave her a source of light.
 - The party discovered the [[Gheister]] was missing alongside Theo.
-- [[Domyx]] explored the [[Broyish Capital]] and encountered [[Seneschal Faran]], who explained the Empire's diversity policy and revealed a broader titan folk diaspora.
+- [[Domyx]] explored the [[Broyish Capital]] and encountered [[Fharan]], who explained the Empire's diversity policy and revealed a broader titan folk diaspora.
 - [[Red Caesar]] expressed skepticism about Theo's Carrot Cake map, questioning whether Theo had bluffed about Penumbra being there.
 - The party planned to head north to [[Thalasia]] to visit Domyx's people (eight-day journey), then swing through southern waters for resources before the Carrot Cake became accessible in 31 days.
 

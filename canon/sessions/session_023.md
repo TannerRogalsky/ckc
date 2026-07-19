@@ -41,7 +41,7 @@ The party long-rested in the capital.
 
 ### Chunk 0002
 
-The party entered the imperial palace in the [[Broyish Capital]] and was intercepted by [[Seneschal Faran]], a masked human who verified their identities before granting them audience with the imperial high court.
+The party entered the imperial palace in the [[Broyish Capital]] and was intercepted by [[Fharan]], a masked human who verified their identities before granting them audience with the imperial high court.
 
 The party entered [[Vizier Jade]]'s chamber and saw [[Emperor Shen]] slumped in a large throne, his face obscured by metal and a headdress. Jade demonstrated powerful mind-reading magic, reading the party's thoughts directly. She demanded fifteen pieces of [[Penumbra]] in exchange for [[Obould]]'s freedom — the same deal she had made with [[The League of New Stark]].
 

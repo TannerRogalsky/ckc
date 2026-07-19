@@ -28,7 +28,7 @@
 - [[Vizier Jade]] — Vizier from Broy serving Emperor Shen; mind-reader, holds Obould as leverage
 - [[Morel Chainsunder]] — Cult leader controlling the dwarves of Darvinblast
 - [[Emperor Shen]] — Emperor of Broy, Domyx's grandfather and the erased sky-touching ancestor of Clan Akathia; operator of Starfall, captor of Aeris; named by Sigil as the party's greatest enemy
-- [[Seneschal Faran]] — Masked human seneschal of the Broyish Empire who serves as gatekeeper to the imperial high court
+- [[Fharan]] — Masked human seneschal of the Broyish Empire, also known as Fharan the Imperial, who serves as gatekeeper to the imperial high court
 - [[Master Lee]] — Figure associated with Heaven's Bulb (also called Master Li)
 - [[Keeper Rufus]] — Figure at Heaven's Bulb alongside Master Lee
 - [[Lady Jacinthe]] — Leader of The League of New Stark, former princess
