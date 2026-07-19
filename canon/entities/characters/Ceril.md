@@ -37,7 +37,10 @@ related:
   - "[[Gilder Savar]]"
   - "[[Cutlass Cray]]"
 aliases:
+  - Ceril Kel'Navvi
+  - Ceril Kelnavi
   - Cyril
+  - Cyril Kelnavi
   - Serral
 ---
 

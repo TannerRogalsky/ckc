@@ -206,3 +206,5 @@
 ## [2026-07-19] update | Fharan — Expanded palace role, abilities, and imperial ideology
 ## [2026-07-19] query | Investigated Nornhof source wording and transcript variants
 ## [2026-07-19] lint | Relic Elnavi → Rella Kel'Navvi
+## [2026-07-19] update | Rella Kel'Navvi — Noted shared surname with Ceril
+## [2026-07-19] update | Rella Kel'Navvi — Clarified Ceril named the blink dog
