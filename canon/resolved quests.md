@@ -69,3 +69,18 @@
 - **Given by:** [[Lady Jacinthe]]
 - **Resolved:** Session 026
 - **Details:** A League quest to hunt beach trolls on a nearby island. The party found two trolls camouflaged in seaweed. [[Red Caesar]] used lightning damage to bypass their fire/acid regeneration and killed them permanently. He charmed one surviving troll, who speaks Runic and now works as bartender at [[The Brine and Bodak]] in [[Cutlass Cray]].
+
+## Light the four lamps and enter Jack Harvey's inner sanctum
+- **Given by:** [[Magen]] ([[The Carrot Cake]])
+- **Resolved:** Session 031
+- **Details:** The party lit all four lamps in [[The Carrot Cake]] and returned to the opened inner sanctum door despite the [[Broyish Empire]]'s intervention. They defeated [[Fharan]]'s force, opened [[Jack Harvey]]'s underwater vault, and recovered the hidden [[Penumbra]] hoard.
+
+## Rescue Obould from the Broyish Empire
+- **Given by:** [[Obould]] (implied), [[Lady Jacinthe]]
+- **Resolved:** Session 031
+- **Details:** [[Obould]] was brought to [[Lyngbakr Lagoon]] by [[Emperor Shen]] and [[Vizier Jade]] as leverage for the [[Penumbra]]. [[Kerben]] shot open his restraints, and [[Domyx]] swapped places with him, freeing Obould and allowing Kerben to lead him back toward [[The Opal]].
+
+## Repair the Hole in the Sky
+- **Given by:** [[Sigil]], [[Crone]], [[Aeris]]
+- **Resolved:** Session 031
+- **Details:** [[Red Caesar]] used [[Obvolvo Caelum]] to condense [[Jack Harvey]]'s hidden [[Penumbra]] hoard and delivered it to [[Lyngbakr]] with [[Ceril]]. Lyngbakr consumed the Penumbra, rose into the heavens with Ceril and [[Alamar]], and sealed the [[Hole in the Sky]] along with smaller wounds across Stark.

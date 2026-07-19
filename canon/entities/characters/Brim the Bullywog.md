@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc, ally]
 session_introduced: "014"
-sessions_appeared: ["014", "015", "022", "024", "026"]
+sessions_appeared: ["014", "015", "022", "024", "026", "031"]
 related:
   - "[[The Opal]]"
   - "[[Brimbolyn]]"
@@ -24,3 +24,7 @@ When [[The Opal]] arrived at [[The Pit]], Brim hopped off the boat to stretch hi
 ## Session 024
 
 During the voyage north toward [[Thalasia]], Brim manned [[The Opal]]'s new cannons when a [[Rimefire Hydra]] burst from the ice. He fired grape shot that blasted two heads off the creature. Despite his enthusiasm, the DM noted he was not the most adept gunner and the party would benefit from recruiting a dedicated master gunner.
+
+## Session 031
+
+Brim helped crew [[The Opal]]'s cannons during the [[Broyish Empire]] naval attack. He advised [[Kerben]] to use the ship's ghost-ship feather token once retreat became necessary and volunteered to join a boarding effort against a crippled imperial vessel with the ship's air elemental.

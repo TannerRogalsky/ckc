@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc]
 session_introduced: "001"
-sessions_appeared: ["001", "015", "021", "024", "029"]
+sessions_appeared: ["001", "015", "021", "024", "029", "031"]
 aliases:
   - Roxy
   - Raxi
@@ -20,3 +20,7 @@ In session 021, Raxxy was stationed at [[Lyngbakr Lagoon]] alongside [[Alamar]] 
 ## Session 024
 
 Raxxy was on watch duty when [[Theo Harvey]] escaped. She was found delirious in the mess hall, having been sedated by carrot tea that [[Mobley]] had prepared from a recipe [[Kerben]] had provided. Although Raxxy was known to drink occasionally, she never drank during guard duty — making the sedated tea the cause of her lapse.
+
+## Session 031
+
+After [[The Opal]] escaped the [[Broyish Empire]] fleet and reached [[Lyngbakr Lagoon]], Raxxy reported that the crew had survived without losses and that the ship had made it to the lagoon while still damaged but intact.

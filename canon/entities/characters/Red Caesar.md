@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031"]
 related:
   - "[[Antumbra]]"
   - "[[Heaven's Bulb]]"
@@ -40,6 +40,7 @@ related:
   - "[[The Wonder Hulk]]"
   - "[[Cutlass Cray]]"
   - "[[Obvolvo Caelum]]"
+  - "[[Axis Mundi]]"
 ---
 
 An abjurer wizard of steampunk sensibilities and a survivor of [[The Cataclysm]], Red Caesar is the intellectual engine and moral compass of [[The Opal]]. A former student of [[Heaven's Bulb]] under [[Master Lee]], Red is defined by a reckless, academic hunger—the kind that leads him to treat the world as a laboratory, whether by testing the properties of unknown fungi or inventing a "hamster ball" strategy of protective wards to bait monsters. In a world dominated by the longevity and arrogance of elves, Red stands as a resilient human outsider; he has taken the stigma of being "the filth" and forged it into a fierce, philosophical defense of autonomy. He holds a profound conviction that "choice is life," leading him to wage an arcane war against any force that seeks to impose a predetermined destiny, from the eugenics of [[Boral Erendel]] to the imperial machinery of the [[Broyish Empire]]. Whether he is acting as the party's secret-gatherer in the halls of [[The White Drake]], synthesizing [[Antumbra]] via his own "Caesarean method" to sabotage [[Starfall]], or plotting with [[Yalet Mora]] to steal a golden head, Red is a man who believes the future should be discovered through curiosity and courage, not dictated by power.
@@ -179,3 +180,9 @@ In [[King of the Hole]], Red used his final Potion of Longstrider to boost his s
 Red Caesar helped complete the [[King of the Hole]] arena and pushed the party into [[Hole on Wheels]] before the [[Broyish Empire]] could overrun [[The Opal]]. On the train, he protected [[Domyx]] from domination, used a scroll to blow out the front window and expose the vampire lord to sunlight, and helped defeat the [[Vampiric Nightbringer]]. He then studied the train controls, accelerated the train around its ocean loop, and flipped the final lamp switch, opening [[Jack Harvey]]'s inner sanctum elsewhere in [[The Carrot Cake]].
 
 After the portal paintings were dispelled and the party was trapped on the train, Red Caesar was forced into a magical version of a [[Heaven's Bulb]] memory. [[Vizier Jade]] and [[Emperor Shen]] intruded into the dream, searching his memories while the party slept. Shen revealed that the Empire was hunting the newly accessible [[Penumbra]] and threatened [[Obould]] before leaving. Red Caesar then cast True Seeing on his younger self, who identified Mending as the missing mundane principle in Red Caesar's Penumbra work. This completed [[Obvolvo Caelum]], a spell that can condense Penumbra and make [[Akasha]]-to-Penumbra synthesis far more flexible.
+
+## Session 031
+
+Red Caesar returned the party to [[The Carrot Cake]] midway through the disabled portal network, arriving while [[Fharan]]'s imperial force fought vampire spawn near [[Jack Harvey]]'s inner sanctum door. He determined that the door would only open for party members who had completed the lamp challenges and that it held back a dangerous flood of seawater. After the battle, Red Caesar dispelled Fharan's lethal contingency so the party could question him alive.
+
+Inside Jack Harvey's underwater vault, Red Caesar used [[Obvolvo Caelum]] to condense the enormous [[Penumbra]] deposits into a small dense orb. He later charmed [[The Tyrant]], turning a deadly fight into a revelation: [[Starfall]] is hidden at [[Axis Mundi]], beneath the world at its center. After returning to [[The Opal]] and then [[Lyngbakr Lagoon]], Red carried the condensed Penumbra to [[Lyngbakr]] with [[Ceril]]. When he released the orb, Lyngbakr consumed the sky-material and sealed the [[Hole in the Sky]]. Red remained on Stark and saw a whole blue sky for the first time in his life.

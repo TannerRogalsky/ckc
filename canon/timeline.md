@@ -487,8 +487,8 @@
 - [[Lyngbakr]] ascends toward the [[Hole in the Sky]], emitting a silver-and-black mist that repairs the wound's edges. The hole stops growing and shrinks by about a third — visible from miles away.
 - [[Lyngbakr]] reveals it can dive beneath the ocean to a "second sea" of [[Akasha]] and agrees to collect Akasha for the party.
 - The party returns to [[Lyngbakr Lagoon]]. [[Raxxy]] reports that [[Obould]] has disappeared — he lied about heading to the castle and instead took a longboat east.
-- [[Vokenar]] scries on Obould and finds him far inland in the mountains of the [[Broyish Empire]], in manacles, being led by [[Vizier Jade]] and armed humans in white and gold. Jade casts See Invisibility to find the scrying sensor, then dispels the spell.
-- [[Red Caesar]] identifies Jade and the location as Broy. He explains Obould swore an oath to die in [[Lady Jacinthe]]'s place should she come to harm.
+- [[Vokenar]] scries on Obould and finds him far inland in the mountains of the [[Broyish Empire]], in manacles, being led by [[Vizier Jade]] and armed humans in white and gold. Vizier Jade casts See Invisibility to find the scrying sensor, then dispels the spell.
+- [[Red Caesar]] identifies [[Vizier Jade]] and the location as Broy. He explains Obould swore an oath to die in [[Lady Jacinthe]]'s place should she come to harm.
 - The conjecture is formed that [[Starfall]] — an ancient weapon of celestial origin — caused [[The Cataclysm]] 60 years ago by punching a hole in the heavens from the east.
 - The party discusses possible routes through [[The White Drake]], [[The Pit]], and eventually the [[Broyish Empire]].
 
@@ -518,11 +518,11 @@
 - [[Red Caesar]] creates a loud distraction in the lounge, shattering porthole windows. [[Ceril]] steals a portrait of Jacinthe christening [[The White Drake]]. [[Damien Ouranous]] helps conceal the painting with his cape.
 - [[Ceril]]'s second scrying succeeds. He discovers Jacinthe's grief is a ruse — wine bottles are unopened, lined up neatly.
 - [[Vizier Jade]] appears in Jacinthe's room via illusion magic and delivers a one-month ultimatum: provide the [[Broyish Empire]] with [[Penumbra]] or information leading to it, or [[Obould]]'s safety cannot be guaranteed. Every piece of useful intelligence may extend the deadline.
-- Jacinthe whispers after Jade departs: "One month. Can we even get there in one month?" — confirming she wants Obould to survive.
+- Jacinthe whispers after [[Vizier Jade]] departs: "One month. Can we even get there in one month?" — confirming she wants Obould to survive.
 - [[Red Caesar]] and [[Ceril]] leave a message for Damien hidden in the stolen painting, then use a teleport circle to travel to [[Brimbolyn]].
 - At [[House Kiirnodel]], [[Risolvir Kiirnodel]] and [[Veronia Karadel]] recognize the party. Red reports that [[Boral Erendel]] has gone off the rails at [[The Garden]], adding nearly a hundred pages of his own design to the [[Demi-Spell]].
 - At the [[Elvish Marketplace]], Red trades [[The Jewel of Alfheimer]] for the [[Boots of the Alvigard]]. Ceril acquires the [[Branch of the Itinerant]]. Red purchases [[Cloaks of Billowing]] for the entire party.
-- The party returns to [[The White Drake]] and debriefs [[Domyx]], [[Kerben]], and [[Vokenar]] about the Jade ultimatum. Approximately 21 days remain.
+- The party returns to [[The White Drake]] and debriefs [[Domyx]], [[Kerben]], and [[Vokenar]] about [[Vizier Jade]]'s ultimatum. Approximately 21 days remain.
 - [[Vokenar]] uses lore divination on [[Genesis Mundi]], confirming it is a natural world-reset event that carries over important souls and structures. The [[Demi-Spell]] merely expedites and modifies it.
 - [[Vokenar]] uses lore divination on [[Starfall]], confirming it was created in hell, brought to [[Broy]], and uses [[Penumbra]] as fuel. It can pierce the membrane between worlds — "god's skin."
 - [[David Harvey]], a [[Harengon]], gives the party a quest: retrieve the traitor [[Theo Harvey]] from imperial-occupied territory. A large gold bounty awaits his safe return. David's great uncle was [[Jack Harvey]], creator of [[The Carrot Cake]].
@@ -564,7 +564,7 @@
 - Naomi operates as an underground fixer, absolving criminal records through magically stamped documents in coordination with an armored elf government associate.
 - The party pays Naomi 10 pounds of mithril to clear their automated oni warrants.
 - [[Vanzia Vinfei]] — who escaped [[Brimbolyn]] with [[Ceril]] decades earlier — is reunited with Ceril. She now operates alongside Naomi in the [[Broyish Capital]].
-- Vanzia confirms [[Obould]] is held by [[Vizier Jade]] as prisoner of war and leverage against [[The League of New Stark]]. She offers to lead the party to Obould but warns Jade must be confronted first.
+- Vanzia confirms [[Obould]] is held by [[Vizier Jade]] as prisoner of war and leverage against [[The League of New Stark]]. She offers to lead the party to Obould but warns Vizier Jade must be confronted first.
 - The party learns the capital has magic restrictions: permanent dead magic zones in hotels and fields suppressing spells below 7th level. Spell scrolls are contraband.
 - [[Red Caesar]] receives citizenship papers and a teleport circle scriptum back to [[Brimbolyn]]. He meets [[Chan Hu]], an ancient-world survivor who recognizes him as a member of [[Heaven's Bulb]].
 - The party explores the bustling market, finding diverse non-human residents despite the empire's xenophobic reputation. They consider outfitting [[The Opal]] with cannons.
@@ -573,12 +573,12 @@
 ### Chunk 0002
 
 - The party enters the imperial palace and is intercepted by [[Fharan]], who verifies their identities before granting audience with the imperial high court.
-- The party meets [[Vizier Jade]] in her chamber. Jade reads the party's thoughts directly and catches [[Red Caesar]]'s attempted deception about penumbra synthesis.
-- Jade demands fifteen pieces of [[Penumbra]] for [[Obould]]'s freedom — the same deal made with [[The League of New Stark]].
-- Jade brings Obould before the party encased in a resilient sphere. He is alive but humiliated; Jade forces him to dance as entertainment before he warns the party not to give her penumbra.
-- Jade reveals [[Emperor Shen]] is [[Domyx]]'s grandfather, confirmed by matching sky-colored palms. Shen is [[Emperor Shen]], the sky-toucher [[Sigil]] named as the party's greatest enemy.
+- The party meets [[Vizier Jade]] in her chamber. Vizier Jade reads the party's thoughts directly and catches [[Red Caesar]]'s attempted deception about penumbra synthesis.
+- [[Vizier Jade]] demands fifteen pieces of [[Penumbra]] for [[Obould]]'s freedom — the same deal made with [[The League of New Stark]].
+- [[Vizier Jade]] brings Obould before the party encased in a resilient sphere. He is alive but humiliated; Vizier Jade forces him to dance as entertainment before he warns the party not to give her penumbra.
+- [[Vizier Jade]] reveals [[Emperor Shen]] is [[Domyx]]'s grandfather, confirmed by matching sky-colored palms. Emperor Shen is the sky-toucher [[Sigil]] named as the party's greatest enemy.
 - Emperor Shen reveals he was the first of his bloodline to touch the sky and tried to destroy it using [[Starfall]]. His goal is to kill the gods. He falls unconscious after speaking.
-- Jade reveals [[The League of New Stark]] has been giving her penumbra, extending Obould's stay of execution to three months.
+- [[Vizier Jade]] reveals [[The League of New Stark]] has been giving her penumbra, extending Obould's stay of execution to three months.
 - The party returns to [[The Opal]]. [[Theo Harvey]] has vanished from his cage in the brig.
 
 ## Session 024
@@ -593,7 +593,7 @@
 - [[Domyx]] was the first to discover the empty brig, finding pry marks and tooth marks on the wooden posts. [[Raxxy]] was found delirious from the sedated carrot tea.
 - Domyx discovered the map and note Theo had left behind.
 - [[Ceril]] and [[Vokenar]] were drawn into a shared vision of [[Aeris]]'s mortal body, trapped at the center of the [[Starfall]] device.
-- Aeris revealed she had been imprisoned for sixty to eighty years by a man who reached up and touched her (understood to be [[Emperor Shen]] / [[Emperor Shen]]). He broke her into pieces so no one else could have her power.
+- Aeris revealed she had been imprisoned for sixty to eighty years by a man who reached up and touched her, understood to be [[Emperor Shen]]. He broke her into pieces so no one else could have her power.
 - Aeris explained that the Starfall generates a fusion of all elements — everything required to rebuild the world in a single stream. [[Penumbra]] pieces serve as additional fuel.
 - Aeris confirmed that repairing the sky will restore her divinity and potentially save her mortal body. She warned the party not to underestimate her captor.
 - Ceril cast Plant Growth to grow food for Aeris; Vokenar cast Continual Flame to leave her a source of light.
@@ -678,7 +678,7 @@
 
 - [[Vokenar]] resumes training with [[Crone]] and [[Sigil]] between worlds, fighting demons and sparring with Crone.
 - Vokenar strikes Crone with his Akasha blade, drawing pearlescent blood — but the wound comes from elsewhere. Crone is rapidly aging and weakening.
-- Vokenar scrys down to [[Broy]] and witnesses [[Emperor Shen]] (Domyx Acathian III) loading [[Penumbra]] into [[Starfall]] and firing a beam at the moon.
+- [[Vokenar]] scrys down to [[Broy]] and witnesses [[Emperor Shen]] loading [[Penumbra]] into [[Starfall]] and firing a beam at the moon.
 - The moon is shattered by the Starfall beam. An apple-core crescent remains. The shot was aimed over [[Brimbolyn]] — a deliberate attack on the elves.
 - [[Kerben]] witnesses the streak from the helm of [[The Opal]]. [[Ceril]] recognizes the attack as the same weapon that caused [[The Cataclysm]].
 - Crone's dying command to Vokenar: focus on restoring [[Aeris]], not the moon. If Aeris is restored she could create a new moon.
@@ -848,6 +848,66 @@
 - The party discovered the portal paintings had been dispelled by an intruder, trapping them on [[Hole on Wheels]] overnight while the inner sanctum opened elsewhere.
 - The party took a long rest on the train.
 - [[Vizier Jade]] and [[Emperor Shen]] intruded into Red Caesar's [[Heaven's Bulb]] memory, searching his mind for the newly accessible [[Penumbra]].
-- Shen threatened [[Obould]], saying the captive captain would not live to see another dawn.
+- [[Emperor Shen]] threatened [[Obould]], saying the captive captain would not live to see another dawn.
 - Red Caesar cast True Seeing on his younger self, who identified Mending as the missing piece in Red Caesar's Penumbra work.
 - Red Caesar learned [[Obvolvo Caelum]], a spell that can condense [[Penumbra]] and smooth [[Akasha]]-to-Penumbra synthesis.
+
+## Session 031
+
+### Chunk 0000
+
+- [[Kerben]] commands [[The Opal]] during a [[Broyish Empire]] naval attack, crippling an escort ship while the crew struggles to keep the damaged vessel afloat.
+- Kerben spots dozens of additional imperial sails coming from the east and chooses escape over a doomed full engagement.
+- Kerben releases the ship's air elemental against the damaged enemy ships and uses a ghost-ship feather token to turn [[The Opal]] invisible.
+- [[The Opal]] slips west toward [[Lyngbakr Lagoon]], confusing the imperial scouts long enough to preserve the ship and crew.
+- Kerben returns to [[The Carrot Cake]] entrance and sees imperial soldiers force [[Theo Harvey]] to guide them inside.
+- [[Tango]] identifies the imperial flagship offshore as the [[Imperial Xihe]].
+- The imperial party kills the helpful [[Magen]] near the midway entrance and reaches [[Jack Harvey]]'s sealed inner sanctum door.
+- [[Red Caesar]], [[Ceril]], [[Domyx]], and [[Vokenar]] return to the midway through the disabled portal network as vampire spawn attack the imperial force.
+
+### Chunk 0001
+
+- The party battles [[Fharan]], imperial scions, imperial warlords, and vampire spawn at the inner sanctum door.
+- [[Kerben]] frees [[Theo Harvey]] with Knock and gives him a balloon feather token; Theo escapes and says he will hide in the dwarven lands.
+- [[Red Caesar]] determines the inner sanctum door recognizes only the party members who completed the four lamp challenges.
+- Red Caesar realizes the sealed vault is holding back the post-Cataclysm ocean and would release a dangerous surge of water when opened.
+- The party defeats the imperial force and captures Fharan alive after Red Caesar dispels a lethal contingency meant to prevent interrogation.
+- Fharan reveals [[Obould]] is alive and being brought by [[Vizier Jade]] and [[Emperor Shen]], who will arrive before noon.
+- Fharan warns that [[Starfall]]'s next target is the sun and implies [[Vizier Jade]]'s mind-reading is innate, item-based, or beyond ordinary spellcasting.
+- Fharan dies after questioning, and the party disposes of his body through the Hole on Wheels portal.
+
+### Chunk 0002
+
+- [[Vokenar]] and [[Ceril]] help Domyx safely open [[Jack Harvey]]'s inner sanctum by preparing for the pressure-sealed water hazard.
+- Jack Harvey's magical voice welcomes the party to the vault, and a flood of seawater pours into the midway.
+- The party enters an underwater vault where [[Red Caesar]] uses [[Obvolvo Caelum]] to condense massive wall-grown [[Penumbra]] crystals into a small dense orb.
+- Kerben and Domyx find [[Jade's Compass]], a tarnished valuable compass bearing [[Vizier Jade]]'s name.
+- The party encounters [[The Tyrant]], revealed as [[Vizier Jade]]'s enormous undead beholder-like servant trapped in the vault.
+
+### Chunk 0003
+
+- The party wears down The Tyrant, and Red Caesar charms it rather than finishing it in combat.
+- The Tyrant reveals that [[Starfall]] lies beneath the world at its center, in [[Axis Mundi]].
+- The Tyrant says Starfall was born with the world, formed from Stark's four elements, and that he was created by its energy.
+- A force tied to [[Vizier Jade]] destroys The Tyrant before it can reveal more, reducing it to a bony singularity.
+- The party collects [[Jack Harvey]]'s Penumbra hoard, more than all previous Penumbra finds combined.
+- [[Vokenar]] returns the party to [[The Opal]] by Word of Recall; the ship is invisible, damaged, and crewed by survivors.
+- [[The Opal]] reaches [[Lyngbakr Lagoon]], where [[Alamar]]'s settlement has grown into a mixed refuge for people displaced by the moon's destruction.
+- [[Tango]] warns that the [[Imperial Xihe]] has arrived and that imperial troops are landing along the coast.
+- Red Caesar and Ceril take the condensed Penumbra to find [[Lyngbakr]] while Kerben, Domyx, Vokenar, and Alamar move to delay the invasion.
+
+### Chunk 0004
+
+- [[Emperor Shen]] and [[Vizier Jade]] come ashore with [[Obould]] bound, gagged, and caged, demanding the Penumbra and threatening [[Lyngbakr Lagoon]].
+- Kerben shoots [[Emperor Shen]], breaking part of his mask and revealing a face much like Domyx's, then shoots open Obould's restraints.
+- [[Domyx]] swaps places with Obould, freeing the captain but becoming trapped in the cage himself.
+- Obould orders Kerben to lead him back to [[The Opal]] immediately.
+- [[Emperor Shen]] carries the caged Domyx away in golden light, declaring that his grandson will be returned to the Empire.
+- Vokenar stays behind to delay [[Vizier Jade]], resists banishment to [[Arcadia]], and challenges her reasons for killing the gods.
+- [[Vizier Jade]] admits she once fought for the world but now wants an end to the cycle of divine wars and suffering.
+- [[Vizier Jade]] kills Vokenar with a word of death and departs with his body.
+- Red Caesar and Ceril find [[Lyngbakr]] hidden deep beneath the largest waterfall.
+- Red Caesar releases the condensed Penumbra, and Lyngbakr consumes enough sky-material to finish repairing the heavens.
+- Lyngbakr rises into the sky with [[Ceril]] and [[Alamar]], sealing the [[Hole in the Sky]] behind them and closing smaller wounds across Stark.
+- Red Caesar remains on Stark and sees a whole blue sky for the first time; [[The Opal]] later retrieves him.
+- The session ends with Obould and Kerben safe aboard [[The Opal]], Domyx captured by [[Emperor Shen]], Vokenar's body held by [[Vizier Jade]], and Ceril gone into the heavens with Lyngbakr and Alamar.

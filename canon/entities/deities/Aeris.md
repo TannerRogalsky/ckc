@@ -2,7 +2,7 @@
 type: deity
 subtypes: [goddess]
 session_introduced: "001"
-sessions_appeared: ["013", "021", "024", "025"]
+sessions_appeared: ["013", "021", "024", "025", "031"]
 aliases:
   - The Sky
   - Eris
@@ -19,3 +19,5 @@ In session 024, [[Ceril]] and [[Vokenar]] were drawn into a shared vision of Aer
 Aeris confirmed that repairing the sky will restore her divinity and potentially save her mortal body. She warned the party not to underestimate her captor. [[Vokenar]] cast Continual Flame to leave her a source of light, and [[Ceril]] cast Plant Growth to grow food for her.
 
 In session 025, [[Ceril]] contacted Aeris through divine summoning after the party debated planting [[Antumbra]] among [[The League of New Stark]]'s hidden [[Penumbra]] supply. She appeared in her star-filled form and confirmed that sending Antumbra toward [[Starfall]] would not risk the piece of herself trapped inside the device. She also confirmed [[Obould]] was alive and that the Antumbra plan should proceed.
+
+In session 031, [[Lyngbakr]] consumed [[Jack Harvey]]'s condensed [[Penumbra]] hoard and repaired the [[Hole in the Sky]], restoring the visible sky above Stark. Aeris's mortal body remains imprisoned within [[Starfall]], which was revealed to be hidden at [[Axis Mundi]], so the sky's repair does not yet resolve her captivity.

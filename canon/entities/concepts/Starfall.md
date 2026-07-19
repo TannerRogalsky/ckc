@@ -2,7 +2,7 @@
 type: concept
 subtypes: [lore]
 session_introduced: "019"
-sessions_appeared: ["019", "021", "022", "023", "024", "026"]
+sessions_appeared: ["019", "021", "022", "023", "024", "026", "031"]
 aliases:
   - Star screen
   - Skyfall
@@ -17,6 +17,7 @@ related:
   - "[[Aeris]]"
   - "[[Ceril]]"
   - "[[Vokenar]]"
+  - "[[Axis Mundi]]"
 ---
 
 An ancient weapon of celestial origin, now in the possession of the [[Broyish Empire]].
@@ -37,4 +38,8 @@ Aeris explained that the Starfall was originally used to connect Stark with [[Ar
 
 ## Session 026
 
-[[Vokenar]] scrys down to [[Broy]] and witnesses [[Emperor Shen]] (Domyx Acathian III) loading a large [[Penumbra]] chunk into Starfall and firing a beam of energy across the heavens. The beam strikes the moon, shattering it. On [[The Opal]], [[Kerben]] sees a pencil-thin white streak cut across the sky from the east, widening into red, green, blue, and yellow colors representing the four elements. The blast is completely silent. An apple-core crescent of the moon remains. The shot was aimed over [[Brimbolyn]] in western elf land — a deliberate act of war against the elves. The consequences include falling moon debris, tsunamis, disrupted tides, and possible time disruption since the moon helps control time.
+[[Vokenar]] scrys down to [[Broy]] and witnesses [[Emperor Shen]] loading a large [[Penumbra]] chunk into Starfall and firing a beam of energy across the heavens. The beam strikes the moon, shattering it. On [[The Opal]], [[Kerben]] sees a pencil-thin white streak cut across the sky from the east, widening into red, green, blue, and yellow colors representing the four elements. The blast is completely silent. An apple-core crescent of the moon remains. The shot was aimed over [[Brimbolyn]] in western elf land — a deliberate act of war against the elves. The consequences include falling moon debris, tsunamis, disrupted tides, and possible time disruption since the moon helps control time.
+
+## Session 031
+
+[[The Tyrant]] revealed that Starfall is located beneath the world at its center, in [[Axis Mundi]]. It described the device as born with the world and composed of Stark's four elements, matching the party's earlier vision of the ring combining earth, water, air, and fire. [[Fharan]] later confirmed that the [[Broyish Empire]] intends Starfall's next shot to target [[Sigil]], the sun. Even after [[Lyngbakr]] repaired the [[Hole in the Sky]], Starfall remains active and [[Aeris]] remains imprisoned within it.

@@ -2,23 +2,18 @@
 
 ## Find and disable Starfall / rescue Aeris
 - **Given by:** [[Sigil]], [[Crone]], [[Aeris]]
-- **Status:** In progress — Starfall location unknown
-- **Details:** [[Aeris]] is imprisoned inside [[Starfall]], her mortal body aging and weakening. [[Crone]] confirmed that restoring Aeris's power will allow her to heal the sky. [[Aeris]] believes Starfall may be located deep underground, perhaps at the center of the world. [[Vokenar]] has scryed on [[Emperor Shen]] loading Penumbra into Starfall and firing it, but could not pinpoint its location. Feeding [[Penumbra]] to [[Lyngbakr]] has been raising [[Castle Kaedon]] and shrinking the [[Hole in the Sky]], but the sky remains broken. The party's [[Antumbra]] planted in the League's supply chain may sabotage Starfall when fed as fuel.
-
-## Rescue Obould from the Broyish Empire
-- **Given by:** [[Obould]] (implied), [[Lady Jacinthe]]
-- **Status:** In progress — urgent
-- **Details:** [[Obould]] was captured by [[Vizier Jade]] and held prisoner in [[Broy]]. Jade is using him as leverage against [[Lady Jacinthe]], demanding [[Penumbra]] in exchange for his safety. [[The League of New Stark]] has been paying [[Vizier Jade]] with [[Penumbra]] to extend Obould's stay of execution. Jade demanded fifteen pieces of [[Penumbra]] from the party directly. In session 030, [[Emperor Shen]] threatened inside [[Red Caesar]]'s dream that Obould would not live to see another dawn.
+- **Status:** In progress — Starfall located at [[Axis Mundi]]
+- **Details:** [[Aeris]] is imprisoned inside [[Starfall]], her mortal body aging and weakening. [[Crone]] confirmed that restoring Aeris's power would allow her to heal the sky; in session 031, [[Lyngbakr]] consumed [[Jack Harvey]]'s hidden [[Penumbra]] hoard and repaired the [[Hole in the Sky]], but Starfall and Aeris remain unresolved. [[The Tyrant]] revealed that Starfall lies beneath the world at its center, in [[Axis Mundi]]. [[Fharan]] warned that [[Starfall]]'s next target is [[Sigil]], the sun. The party's [[Antumbra]] planted in the League's supply chain may still sabotage Starfall when fed as fuel.
 
 ## Kill the Tome Keeper
 - **Given by:** [[Rakshasa]]
 - **Status:** In progress
 - **Details:** The [[Rakshasa]] (Ceril's father) is trapped at [[The Garden]] by his duty to hunt escaped demons. The [[Tome Keeper]], an [[Arcanoloth]] who holds the [[Tome of Satariel]], can track the Rakshasa's location and could summon other demons to find him. Killing the Tome Keeper would free the Rakshasa to visit his child. [[Tome Keeper's Pyramid]] was located in the eastern waters during session 023.
 
-## Light the four lamps and enter Jack Harvey's inner sanctum
-- **Given by:** [[Magen]] (The Carrot Cake)
-- **Status:** In progress (4 of 4 lamps lit; inner sanctum opened while party is trapped)
-- **Details:** A [[Magen]] explained that four lamps must be lit to access [[Jack Harvey]]'s inner sanctum within [[The Carrot Cake]]. Each lamp corresponds to one of the park's zones: [[Magic Hat]], [[Hole Shebang]], [[King of the Hole]], and [[Hole on Wheels]]. The party lit the Hole Shebang lamp by flipping the breaker switch, the Magic Hat lamp by flipping the hotel's lighter switch, the King of the Hole lamp after defeating the required and bonus arena waves, and the Hole on Wheels lamp after defeating the [[Vampiric Nightbringer]] aboard the train. The inner sanctum likely contains [[Penumbra]] hidden by Jack Harvey. After the fourth lamp was lit, an intruder dispelled the Hole on Wheels portal paintings, trapping the party on the train while the inner sanctum opened elsewhere and the [[Broyish Empire]] searched for the Penumbra.
+## Recover Domyx and Vokenar
+- **Given by:** Implicit (party survival)
+- **Status:** In progress — Domyx captured, Vokenar killed and taken
+- **Details:** In session 031, [[Domyx]] used cloud jaunt to exchange places with [[Obould]], freeing the captain but trapping himself in the imperial cage. [[Emperor Shen]] took Domyx away in golden light, saying his grandson would be returned to the Empire and disciplined. [[Vokenar]] stayed behind to delay [[Vizier Jade]], who killed him with a word of death and departed with his body.
 
 ## Defeat Yalet Aurum
 - **Given by:** [[Yalet Mora]]

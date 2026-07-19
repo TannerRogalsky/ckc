@@ -2,7 +2,7 @@
 type: location
 subtypes: [landmark]
 session_introduced: "018"
-sessions_appeared: ["018", "022", "023", "024", "027", "028", "029", "030"]
+sessions_appeared: ["018", "022", "023", "024", "027", "028", "029", "030", "031"]
 aliases:
   - Carrot Cake
   - 40 Carats
@@ -21,6 +21,7 @@ related:
   - "[[Magic Hat]]"
   - "[[King of the Hole]]"
   - "[[Hole on Wheels]]"
+  - "[[Jade's Compass]]"
 ---
 
 A massive amusement park from old [[Kaedon]] that spanned multiple mountaintops through the use of great magic. It could transport visitors from one place in the world to another, allowing them to see everything from elevated peaks. The main travel destination was a tall peak to the north of [[Castle Kaedon]] but south of the elven lands.
@@ -62,3 +63,9 @@ The party entered [[King of the Hole]], an island surrounded by ocean with a gra
 The party completed the remaining [[King of the Hole]] waves and defeated the optional bonus challenge, lighting the third lamp and earning the [[Hopping Mad Sash]]. After [[Tango]] warned that [[The Opal]] was under [[Broyish Empire]] attack, the party pushed into [[Hole on Wheels]] to reach the fourth lamp.
 
 On Hole on Wheels, the party defeated the [[Vampiric Nightbringer]] controlling the train and flipped the final lamp switch. All four lamps are now lit, opening [[Jack Harvey]]'s inner sanctum. However, the portal paintings back to the midway were deliberately dispelled after the party left, trapping them on the train overnight while the newly opened inner sanctum was exposed. [[Vizier Jade]] and [[Emperor Shen]] used Red Caesar's dream to search for the Penumbra while the party rested.
+
+## Session 031
+
+[[Kerben]] returned to The Carrot Cake and found [[Fharan]]'s imperial force using [[Theo Harvey]] to locate [[Jack Harvey]]'s inner sanctum. The party returned to the midway, defeated the imperials, and opened the sealed door after realizing it would only respond to those who had completed the lamp challenges.
+
+The inner sanctum proved to be an underwater vault. It released a flood into the midway when opened, then led through an airlock into chambers where [[Penumbra]] had crystallized across the walls. The vault also held [[Jade's Compass]] and [[The Tyrant]], confirming that [[Vizier Jade]]'s servant had reached the vault but never escaped with its treasure. [[Red Caesar]] condensed the vault's Penumbra with [[Obvolvo Caelum]], completing the park's central purpose as Jack Harvey's safeguard for future sky-repair.

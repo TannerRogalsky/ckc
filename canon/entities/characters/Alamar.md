@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc]
 session_introduced: "007"
-sessions_appeared: ["007", "013", "015", "016", "018"]
+sessions_appeared: ["007", "013", "015", "016", "018", "031"]
 related:
   - "[[Lyngbakr Lagoon]]"
   - "[[Lyngbakr]]"
@@ -22,3 +22,5 @@ After earlier feedings of [[Penumbra]], [[Alamar]] found he could range farther 
 In session 015, the party returned to [[Lyngbakr Lagoon]] to find the settlement expanded with huts, residents, and an oil-burning alarm path system. [[Lyngbakr]] had finished digesting the previous [[Penumbra]] feedings roughly three weeks prior. The party fed the drained Penumbra from [[Theotropa]] through the chute. Alamar had built a canvas dome covered with foliage that can shroud the island from aerial reconnaissance by the [[Broyish Empire]]. He revealed that a druid garden existed in his time as well, led by a kindly woman named [[Theotropa]] — the same individual who leads the Garden today, confirming she is a long-lived being who persisted through [[The Cataclysm]]. After feeding Lyngbakr, the island rose further, exposing twice as much of [[Castle Kaedon]] to explore. Alamar sensed that forces of hell and undead had taken residence in the castle, saying it is cursed by every kind of curse — physical, metaphysical, divine, and profane. He attributed this to [[Queen Caeradwyn]]'s curse and ambition, noting that after her death, female elves periodically claimed to be her reincarnation, spreading madness through [[Brimbolyn]] and beyond. Alamar chose to stay behind at the lagoon, saying he is "damned if I do and damned if I don't," and wished the party luck as they headed toward the risen castle.
 
 In session 018, a dead noble woman questioned via [[Beryzoz's Teeth]] revealed that Alamar abdicated the old crown and his actions led to the creation of the senate, transforming [[Kaedon]] from a monarchy into a republic of syndicates — including groups like the Dancing Blades and the church. She described him as a great person who revolutionized the way of life in western Stark and wished she could have met him.
+
+In session 031, Alamar's settlement at [[Lyngbakr Lagoon]] had become a larger mixed refuge after the moon's destruction drove people from human, dwarven, and elven communities toward safety. Alamar explained that secrecy had become impossible and that the settlement had armed itself with harpoons against [[Broyish Empire]] balloons. When the Empire landed troops near the lagoon, Alamar tried to return to the settlement to protect its people. After [[Lyngbakr]] consumed enough [[Penumbra]] to repair the sky, Alamar joined [[Ceril]] on the turtle's ascent into the heavens, leaving Stark as the [[Hole in the Sky]] sealed beneath them.

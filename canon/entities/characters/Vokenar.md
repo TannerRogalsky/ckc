@@ -20,7 +20,7 @@ aliases:
   - Vokun
   - Vokunov
 session_introduced: "001"
-sessions_appeared: ["001", "011", "012", "013", "014", "015", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030"]
+sessions_appeared: ["001", "011", "012", "013", "014", "015", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031"]
 related:
   - "[[Arcadia]]"
   - "[[Sigil]]"
@@ -181,9 +181,9 @@ Fought alongside the party against [[Baron Akathian the Second]] and the frost t
 
 Used Divine Intervention to scout the [[Broyish Capital]], discovering [[Naomi]]'s tavern and mapping safe routes through the city avoiding [[Oni]] sentry positions. Protected a human and tiefling woman surrounded by Oni demons on the coast. Proposed that the party help the Southport couple with their plague.
 
-Scryed on [[Obould]], finding him far inland in the mountains of the [[Broyish Empire]], in manacles and being led by [[Vizier Jade]]. Jade cast See Invisibility to find the scrying sensor, then dispelled the spell entirely.
+Scryed on [[Obould]], finding him far inland in the mountains of the [[Broyish Empire]], in manacles and being led by [[Vizier Jade]]. Vizier Jade cast See Invisibility to find the scrying sensor, then dispelled the spell entirely.
 
-Observed [[Emperor Shen]] slumped in his throne, barely moving, with metal covering his face. The emperor revealed he was [[Domyx]]'s grandfather and that his goal was to kill the gods. Shen fell unconscious after speaking. On the way out, the emperor spoke to Domyx in Giant's Runic.
+Observed [[Emperor Shen]] slumped in his throne, barely moving, with metal covering his face. The emperor revealed he was [[Domyx]]'s grandfather and that his goal was to kill the gods. Emperor Shen fell unconscious after speaking. On the way out, the emperor spoke to Domyx in Giant's Runic.
 
 During night watch, discovered [[Theo Harvey]] had escaped from his cage aboard [[The Opal]].
 
@@ -211,13 +211,19 @@ Resumed training with [[Crone]] and [[Sigil]] in the space between worlds, fight
 
 [[Aeris]] was seen floating between the stars, appearing stronger but unconscious as she rests and heals. Sigil confirmed the [[Penumbra]] the party finds is restoring her, but warned against complacency.
 
-During sparring, Vokenar struck Crone with his old Akasha blade, drawing white pearlescent blood. Crone was shocked and in agony — but the wound was not from Vokenar's blade. Crone was rapidly aging, weakening, and bleeding silvery blood from an attack she cannot heal from. Vokenar scryed down to [[Broy]] and witnessed [[Emperor Shen]] (Domyx Acathian III) loading a large [[Penumbra]] chunk into [[Starfall]] and firing a beam at the moon, shattering it.
+During sparring, Vokenar struck Crone with his old Akasha blade, drawing white pearlescent blood. Crone was shocked and in agony — but the wound was not from Vokenar's blade. Crone was rapidly aging, weakening, and bleeding silvery blood from an attack she cannot heal from. Vokenar scryed down to [[Broy]] and witnessed [[Emperor Shen]] loading a large [[Penumbra]] chunk into [[Starfall]] and firing a beam at the moon, shattering it.
 
 Crone's dying command: focus on restoring [[Aeris]], not the moon, and not to waver from the mission for even a moment.
 
 Returned to the world to find the crew assembled and the moon shattered. Relayed Crone's message to the party. Summoned a Spiritual Weapon in the form of Crone's bastard sword to fight the [[Xarag]] on [[Xarag's Island]].
 
 Sigil pulled Vokenar aside for private counsel about the elves and Crone's fate, removing him from a troll encounter.
+
+## Session 031
+
+Vokenar returned to [[The Carrot Cake]] with the party and helped defeat [[Fharan]]'s imperial force near [[Jack Harvey]]'s inner sanctum. He used stone-shaping magic to help shield Domyx from the vault's pressure-sealed water surge, then fought [[The Tyrant]] in the underwater vault. After the party recovered the [[Penumbra]], Vokenar used Word of Recall to bring the group back to [[The Opal]] and then healed injured crew members.
+
+At [[Lyngbakr Lagoon]], Vokenar stayed behind with [[Kerben]] and [[Domyx]] to delay [[Emperor Shen]] and [[Vizier Jade]] while [[Red Caesar]] and [[Ceril]] delivered the Penumbra to [[Lyngbakr]]. He resisted Vizier Jade's attempt to banish him back to [[Arcadia]] and challenged her reasons for killing the gods. Vizier Jade admitted her exhaustion with divine wars and suffering, then killed Vokenar with a word of death and departed with his body.
 
 ### The Carrot Cake
 

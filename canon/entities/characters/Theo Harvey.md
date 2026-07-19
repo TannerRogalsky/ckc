@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc, antagonist]
 session_introduced: "022"
-sessions_appeared: ["022", "023", "024"]
+sessions_appeared: ["022", "023", "024", "031"]
 related:
   - "[[David Harvey]]"
   - "[[Harengon]]"
@@ -49,3 +49,7 @@ Theo revealed that [[Jack Harvey]] had collected [[Penumbra]] shards when the sk
 Kerben arranged the escape by giving [[Mobley]] a carrot tea recipe laced with sedative properties, which dulled the crew during their evening in the mess hall. Kerben staged the brig to look like a violent escape, then let Theo board the [[Gheister]] under cover of fog and darkness. Theo left behind a map marked with the Carrot Cake's location and a note thanking the party for not turning him over to the League.
 
 When the rest of the party returned, they discovered Theo gone and the [[Gheister]] missing. [[Domyx]] was the first to investigate the empty brig, finding pry marks and tooth marks on the wooden posts. [[Raxxy]] was found delirious from the sedated carrot tea, having been on watch. [[Domyx]] discovered the map and note Theo had left, marking the Carrot Cake's location on the rear side of the central mountain of [[Thalasia]].
+
+## Session 031
+
+The [[Broyish Empire]] recaptured Theo and forced him, manacled, to guide an imperial force into [[The Carrot Cake]]. Theo tried to mislead his captors by suggesting the party had already looted the vault, but [[Fharan]] kept pressing him toward the inner sanctum door. During the battle at the door, [[Kerben]] freed Theo with Knock and handed him a balloon feather token. Theo escaped upward, telling Kerben that the [[Penumbra]] was behind the door and that he would hide in the dwarven lands.

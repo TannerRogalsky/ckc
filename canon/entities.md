@@ -1,37 +1,37 @@
 # Canon Entities
 
 ## Party Members
-- [[Red Caesar]] — Wizard (Abjurer), member of Heaven's Bulb, travels aboard The Opal
-- [[Domyx]] — Barbarian, Domyx Akathian from Clan Akathia who favors kicking doors open
-- [[Kerben]] — Ranger/Rogue (Arcane Trickster), archer with poison resistance and a dinosaur companion
-- [[Ceril]] — Druid with wild shape and an owl familiar
-- [[Vokenar]] — Cleric, young being falling through the sky, trained by goddesses
+- [[Red Caesar]] — Wizard (Abjurer), member of Heaven's Bulb; condensed Jack Harvey's Penumbra and saw the repaired sky
+- [[Domyx]] — Barbarian from Clan Akathia, captured by Emperor Shen after freeing Obould
+- [[Kerben]] — Ranger/Rogue (Arcane Trickster), acting captain who saved The Opal and rescued Obould
+- [[Ceril]] — Druid with wild shape and an owl familiar; ascended with Lyngbakr as the sky sealed
+- [[Vokenar]] — Cleric from Arcadia, trained by goddesses; killed by Vizier Jade and taken
 
 ## Crew & Allies
-- [[Obould]] — Captain of The Opal, bound by oath to protect Lady Jacinthe
-- [[Raxxy]] — Navigator and lookout aboard The Opal
+- [[Obould]] — Captain of The Opal, rescued from the Broyish Empire at Lyngbakr Lagoon
+- [[Raxxy]] — Navigator and lookout aboard The Opal; reported the crew survived the imperial naval attack
 - [[Otto]] — Boat repairman recruited to the crew
-- [[Brim the Bullywog]] — Frog-headed tinkerer recruited to the party on Continental Stark
+- [[Brim the Bullywog]] — Frog-headed tinkerer aboard The Opal who helped during the imperial naval attack
 - [[Gammix]] — Dwarf fighter from the Steelfend Clan, recruited ally
 - [[Tammix]] — Dwarf fighter and brother of Gammix, recruited ally
 - [[Rochella Golf]] — Passenger or temporary crew member aboard The Opal seeking Southport
 - [[Trent]] — Sailor from Southport who briefly served as The Opal's master gunner before returning home with Ebi
 - [[Ebi]] — Healer from Southport who briefly served aboard The Opal before returning home with Trent
-- [[Ulrich Fjoller]] — Domyx's friend from Clan Akathia; freed from Prison of Frost, now crew aboard The Opal; father of Lorelei's child
-- [[Yalet Mora]] — Stone-bodied crew member who suggested recruiting a wind creature for The Opal
+- [[Ulrich Fjoller]] — Domyx's friend from Clan Akathia; freed from Prison of Frost, now gunner aboard The Opal
+- [[Yalet Mora]] — Stone-bodied crew member who helped keep The Opal afloat during the imperial naval attack
 - [[Aramil Kiirnodel]] — Took power after Queen Caeradwyn fell; primary force behind the Demi-Spell and painter of The Jewel of Alfheimer
-- [[Mobley]] — The cook aboard The Opal; prepared sedated carrot tea that allowed Theo Harvey's escape
+- [[Mobley]] — The cook aboard The Opal; kept the crew fed through the imperial attack aftermath
 
 ## NPCs
 - [[Lorelei]] — Domyx's sister, titan folk married into Clan Lapis, pregnant with Ulrich's child
 - [[Gunk Grodley]] — Dapper goblin trader who captains the Goblin Traders' ship
-- [[Vizier Jade]] — Vizier from Broy serving Emperor Shen; mind-reader, holds Obould as leverage
+- [[Vizier Jade]] — Vizier from Broy serving Emperor Shen; mind-reader who killed Vokenar and took his body
 - [[Morel Chainsunder]] — Cult leader controlling the dwarves of Darvinblast
-- [[Emperor Shen]] — Emperor of Broy, Domyx's grandfather and the erased sky-touching ancestor of Clan Akathia; operator of Starfall, captor of Aeris; named by Sigil as the party's greatest enemy
-- [[Fharan]] — Masked human seneschal of the Broyish Empire, also known as Fharan the Imperial, who serves as gatekeeper to the imperial high court
+- [[Emperor Shen]] — Emperor of Broy, Domyx's grandfather, operator of Starfall, and captor of Domyx
+- [[Fharan]] — Masked human seneschal of the Broyish Empire who died after revealing Starfall's next target
 - [[Master Lee]] — Figure associated with Heaven's Bulb (also called Master Li)
 - [[Keeper Rufus]] — Figure at Heaven's Bulb alongside Master Lee
-- [[Lady Jacinthe]] — Leader of The League of New Stark, former princess
+- [[Lady Jacinthe]] — Leader of The League of New Stark, former princess; Obould's rescue ended Vizier Jade's hostage pressure
 - [[Imotep]] — Yuan-ti associated with The League of New Stark
 - [[Damien Ouranous]] — Aasimar envoy associated with The League of New Stark
 - [[Mudeep]] — Figure at The Garden who trades art pieces for attunable magic items
@@ -45,7 +45,7 @@
 - [[Figma Brickfinger]] — Leader of [[Figma Brickfinger's Union]] at [[The Pit]]
 - [[Sigrid Forgewelt]] — Dwarven weapon forger in The Pit
 - [[Beryzoz Helmscar]] — Gnomish armor forger in The Pit
-- [[Alamar]] — Person placed in magical coma by Vlerro, bound to Castle Kaedon
+- [[Alamar]] — Former Kaedonite reformer bound to Castle Kaedon; ascended with Lyngbakr when the sky sealed
 - [[Vlerro]] — Placed Alamar in a magical coma (Sequestered)
 - [[Gossa]] — Aasimar mentor to Vokenar from Academia Lux, now working in the Elvish Marketplace in Brimbolyn
 - [[Osiris Dims]] — Aasimar born in Brimbolyn 45 years ago, revealed details about the Demi-Spell
@@ -58,8 +58,8 @@
 - [[Lydriel Gondara]] — Half-elf of the Order working with Keys, was at Castle Kaedon
 - [[Clockwork]] — Member of the Dancing Blades thieves guild, imprisoned in Castle Kaedon
 - [[David Harvey]] — Harengon working with The League to reclaim harengon territory
-- [[Theo Harvey]] — Traitor harengon who revealed warren locations to the Broyish Empire
-- [[Jack Harvey]] — Famous Kaedon-era entrepreneur, creator of The Carrot Cake, great uncle of David Harvey
+- [[Theo Harvey]] — Traitor harengon recaptured by the Empire and freed again by Kerben at The Carrot Cake
+- [[Jack Harvey]] — Famous Kaedon-era entrepreneur whose Carrot Cake vault preserved the Penumbra that repaired the sky
 - [[Veronia Karadel]] — Drow, Keys' mother, chiefly in command of enacting the Demi-Spell from House Kiirnodel
 - [[Risolvir Kiirnodel]] — Leader of House Kiirnodel, warned the party about the Broyish Empire
 - [[Solar Flare]] — Tall woman with shining light seen by Vokenar 60 years ago
@@ -107,7 +107,7 @@
 - [[Rella Kel'Navvi]] — Blink dog companion from Otyugh Isle, now stationed at Lyngbakr Lagoon
 - [[The Marid]] — Huge pale dignitary, Port Authority at Cutlass Cray
 - [[Tuna]] — Sphinx, half cat half falcon, associated with Alamar
-- [[Lyngbakr]] — Giant turtle from [[Arcadia]] that fell through the Hole in the Sky
+- [[Lyngbakr]] — Giant turtle from [[Arcadia]] that repaired the sky and departed with Ceril and Alamar
 - [[Saratan]] — Species of gigantic turtle/whale things (includes Lyngbakr)
 - [[Wyrm]] — Famous Saratan noted in records
 - [[Blibdoolpoolp]] — God of the Kuo-Toa, defeated by the party
@@ -141,7 +141,7 @@
 - [[Harengon]] — Rabbit-like species with fuzzy orange fur and rapid reproduction
 - [[Baron Akathian the Second]] — Cloud titan related to Domyx's bloodline; attacked the party then departed peacefully
 - [[Oni]] — Fiendish horned demons serving as imperial guards for the Broyish Empire
-- [[The Tyrant]] — Bulky one-eyed creature and companion of Vizier Jade; sent to find The Carrot Cake and never returned
+- [[The Tyrant]] — Vizier Jade's undead beholder-like servant found in Jack Harvey's vault; revealed Starfall's location before being destroyed
 - [[Rimefire Hydra]] — Massive eight-headed frost hydra encountered in the northern straits near Thalasia
 - [[Tatzelwurm]] — Unique white dragon variant near Thalasia that commands terrain weather; defeated by party ambush (alias: Pretzel Worm)
 - [[Remorhaz]] — Huge, heat-exuding voracious creature of the northern territories that ambushes prey (alias: Remoraz)
@@ -151,13 +151,8 @@
 
 ## Locations
 - [[Continental Stark]] — Massive elfish continent, last remnant of the Old World, home to Brimbolyn
-- [[Arcadia]] — Realm above Stark, origin of Vokenar and Lyngbakr
-- [[The Opal]] — The party's ship
-- [[Gheister]] — Second ship in Obould's fleet, used as the party's transport to Lyngbakr Lagoon and Castle Kaedon
-- [[The White Drake]] — Main ship of The League of New Stark
-- [[The Hideous Truth]] — Captured hobgoblin pirate galley, originally named Eschaton, hidden in a jungled grotto
-- [[The Croakborne Carnival]] — Ship of The Order of Seasons
-- [[Gun Balloon]] — Imperial hot air balloon combat platform captured by the party from the Broyish Empire
+- [[Arcadia]] — Realm above Stark, origin of Vokenar and Lyngbakr, now sealed off by the repaired sky
+- [[Axis Mundi]] — Landmark beneath the world at Stark's center where Starfall is hidden
 - [[Darvinblast]] — Underground dwarven city
 - [[The Darvenlast]] — Self-sufficient area within The Deepworlders Delve
 - [[Deep World]] — The underground realm of the dwarves
@@ -166,7 +161,7 @@
 - [[Elvish Marketplace]] — Marketplace in Brimbolyn where elves sell magical goods
 - [[The Academy]] — Epicenter of The Order of Seasons' activity in Brimbolyn
 - [[Academia Lux]] — School in Arcadia where Vokenar was taught
-- [[Stark]] — Destination of Vokenar's fall
+- [[Stark]] — World below Arcadia; its sky was repaired while Starfall remains hidden beneath it
 - [[The Pit]] — Dwarvish settlement, seat of Figma Brickfinger's Union
 - [[The Palace of the Pit]] — Seat of power in The Pit
 - [[The Deepworlders Delve]] — Home of the Duergar in The Pit
@@ -182,7 +177,7 @@
 - [[The Church of the Thirty Lights]] — Church in Cutlass Cray
 - [[Castle Kaedon]] — Castle on the back of Lyngbakr
 - [[Westerness]] — Sunken human city that surrounded Castle Kaedon, visible beneath the waves
-- [[The Carrot Cake]] — Massive magical amusement park from old Kaedon where all four lamps now open Jack Harvey's inner sanctum
+- [[The Carrot Cake]] — Massive magical amusement park from old Kaedon whose vault held Jack Harvey's Penumbra hoard
 - [[Taylin]] — Old Kaedon settlement near Castle Kaedon, likely destroyed during the Cataclysm
 - [[Castle Kaedon Arena]] — Interior courtyard within Castle Kaedon with bleachers, arena floor, and stables
 - [[Esperanto]] — Pre-Cataclysm place south of Kaedon, linked by developing trade routes
@@ -190,7 +185,7 @@
 - [[Xarag's Island]] — Southern island where the prologue Black Dragon Xarag held treasure once carried by The Opal; dragon slain and treasure recovered
 - [[Harengon Warrens]] — Island with extensive underground tunnels used by the Harengon, now partially occupied by the Empire
 - [[Otyugh Isle]] — Island with Kuo-Toa and Temple of Sigil
-- [[Lyngbakr Lagoon]] — Developing base near Castle Kaedon where Alamar, Rella Kel'Navvi, and Kilosaurus remain
+- [[Lyngbakr Lagoon]] — Refuge settlement near Castle Kaedon attacked by the Empire as Lyngbakr repaired the sky
 - [[Rasharan's Rock]] — Location that no longer exists
 - [[Hole in the Sky]] — Hole the party aims to find and plug
 - [[Southport]] — Port city west of The Garden, now a plague town afflicted by Mana Sickness; sought by Rochella Golf
@@ -205,7 +200,16 @@
 - [[Hole Shebang]] — Festival island of games and entertainments within The Carrot Cake, accessible via teleport circle
 - [[City Hole]] — Central hub cavern with barrel portals connecting to the park's zones
 - [[King of the Hole]] — Island resort and coliseum zone within The Carrot Cake
-- [[Hole on Wheels]] — Scenic train zone over drowned Esperanto, containing the fourth lamp and disabled portal paintings
+- [[Hole on Wheels]] — Scenic train zone over drowned Esperanto, containing the fourth lamp and a disabled return portal
+
+## Vessels
+- [[The Opal]] — The party's ship, saved from the Broyish Empire by invisibility and later reunited with Obould
+- [[Gheister]] — Second ship in Obould's fleet, used as the party's transport to Lyngbakr Lagoon and Castle Kaedon
+- [[The White Drake]] — Main ship of The League of New Stark
+- [[The Hideous Truth]] — Captured hobgoblin pirate galley, originally named Eschaton, hidden in a jungled grotto
+- [[The Croakborne Carnival]] — Ship of The Order of Seasons
+- [[Gun Balloon]] — Imperial hot air balloon combat platform captured by the party from the Broyish Empire
+- [[Imperial Xihe]] — Broyish Empire flagship that pursued The Opal and assaulted Lyngbakr Lagoon
 
 ## Organizations
 - [[Clan Lapis]] — Titan folk clan known for mining and gem exploration; Lorelei married into this clan
@@ -213,11 +217,11 @@
 - [[Figma Brickfinger's Union]] — Dwarven union (The Pitman's Union) at The Pit
 - [[Steelfend Clan]] — Dwarf clan; Gammix and Tammix joined the party
 - [[Far Helm Clan]] — Dwarf clan with hidden treasure cavern
-- [[Clan Akathia]] — Domyx's titan clan, hiding records of a previous sky-toucher; ruled by [[Domyx IV]]
+- [[Clan Akathia]] — Domyx's titan clan, hiding records of Emperor Shen, who has now captured Domyx
 - [[House Kiirnodel]] — Elven aristocratic house encountered in Ceril's escape flashback
-- [[The League of New Stark]] — Maritime organization led by Lady Jacinthe
+- [[The League of New Stark]] — Maritime organization led by Lady Jacinthe, formerly coerced through Obould's captivity
 - [[The Order of Seasons]] — Organization mostly of elves, seeks Genesis Mundi
-- [[Broyish Empire]] — Xenophobic eastern empire ruled by Emperor Shen
+- [[Broyish Empire]] — Xenophobic eastern empire ruled by Emperor Shen; openly assaulted The Opal and Lyngbakr Lagoon
 - [[Knights of the Four Seasons]] — Elven marshal service on Continental Stark, led by Marshal Zem
 - [[Goblin Traders]] — Goblin crew operating a red-sailed trading ship on the high seas, selling poisons and magical wares
 - [[Dancing Blades]] — Thieves guild from old Kaedon, members including Clockwork who was imprisoned in Castle Kaedon
@@ -225,7 +229,7 @@
 ## Items & Concepts
 - [[Akasha]] — Silvery-white liquid raining from the sky over Continental Stark, connected to Arcadia's oceans
 - [[Moon Mushrooms]] — Hallucinogenic translucent mushrooms in the Continental Stark jungle, harvestable as poison
-- [[Penumbra]] — Pieces of the fallen sky, sources of great power
+- [[Penumbra]] — Pieces of the fallen sky; Jack Harvey's hoard let Lyngbakr repair the sky
 - [[The Cataclysm]] — World-ending event that reset the world
 - [[League Banner]] — Banner from The League of New Stark
 - [[Para and Bellum]] — Two copper blades given to Red Caesar
@@ -247,7 +251,7 @@
 - [[Preparation Melf]] — Throwable sticky acid flask crafted from Black Dragon scales
 - [[The Jewel of Alfheimer]] — Rare landscape painting by Aramil Kiirnodel depicting pre-Cataclysm Brimbolyn
 - [[Mangonel]] — Siege catapult at Castle Kaedon, originally a celebration device with fireworks
-- [[Starfall]] — Ancient weapon of celestial origin; conjectured to have caused the Cataclysm
+- [[Starfall]] — Ancient weapon hidden at Axis Mundi; still imprisons Aeris and now threatens the sun
 - [[Potion of Soothing Gaze]] — Healing potion that restores 10 HP to drinker and 10 HP to two creatures looked at
 - [[Lady Acelia's Chalice]] — Expertly carved oak chalice with jade insets, once belonging to Lady Acelia
 - [[Deception by Lenth]] — Magical perfume based on Lenth the Rugged's musk that improves deception for a limited time
@@ -260,7 +264,7 @@
 - [[Branch of the Itinerant]] — Spellcasting wand that blooms flowers along a drawn path, acquired by Ceril
 - [[Cloaks of Billowing]] — Magic cloaks allowing dramatic billowing as a bonus action, purchased for the party
 - [[Deep Roses]] — Rare herbs growing underwater in the Mana Sea; correct cure for Mana Sickness
-- [[Obvolvo Caelum]] — Red Caesar's Penumbra-condensing spell built from Akasha synthesis and Mending
+- [[Obvolvo Caelum]] — Red Caesar's Penumbra-condensing spell used to move Jack Harvey's vault hoard
 - [[Mana Sickness]] — Contagious plague spreading through Southport from the Mana Sea; victims fall into impenetrable slumber
 - [[Shark's Edge]] — Kerben's +2 falchion made from a megalodon tooth; reveals water temperature by sight
 - [[Tatzelwurm Gizzard Juice]] — One-use white dragon poison crafted by Kerben from Tatzelwurm scales and darkwood bark
@@ -275,9 +279,10 @@
 - [[Jack Harvey's Portrait]] — Painting of Jack Harvey recovered from the haunted living tent
 - [[Ranger Scroll]] — Ranger spell scroll found among a dead adventurer's belongings
 - [[Ramadi's Capers]] — Collectible comic series about a dashing goblin rogue; issue 4 found in Magic Hat hotel
+- [[Jade's Compass]] — Water-damaged treasure compass found in Jack Harvey's vault, tied to Vizier Jade and The Tyrant
 
 ## Deities
-- [[Aeris]] — Sister goddess of Chaos, Potential, and Fate (alias: The Sky); wounded sixty years ago by Starfall, now being restored by Penumbra
-- [[Sigil]] — Sister goddess of Life, Energy, and Motion (alias: The Sun); trains Vokenar alongside Crone
-- [[Crone]] — Sister goddess of Time, Death, and Passage of Things (alias: The Moon); shattered by Starfall in session 026
+- [[Aeris]] — Sister goddess of Chaos, Potential, and Fate (alias: The Sky); sky repaired but mortal body remains trapped in Starfall
+- [[Sigil]] — Sister goddess of Life, Energy, and Motion (alias: The Sun); Starfall's next intended target
+- [[Crone]] — Sister goddess of Time, Death, and Passage of Things; shattered by Starfall, her sky-repair command fulfilled
 - [[Rakshasa]] — Divine being, Ceril's father, encountered at The Garden

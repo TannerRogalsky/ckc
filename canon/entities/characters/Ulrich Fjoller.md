@@ -2,7 +2,7 @@
 type: character
 subtypes: [crew]
 session_introduced: "013"
-sessions_appeared: ["013", "016", "024", "025", "026"]
+sessions_appeared: ["013", "016", "024", "025", "026", "031"]
 aliases:
   - Ulric
   - Ulrich Fjöler
@@ -25,3 +25,5 @@ In session 016, [[Lorelei]] revealed in a dream to [[Domyx]] that Ulrich had bee
 In session 024, [[Charlotte]] revealed that Ulrich had told her before being taken away that what he discovered about the clan would bring it crumbling down — that [[Emperor Shen]] was "some kind of a monster" but Ulrich never had time to research what specifically. Ulrich is being held in the [[Prison of Frost]], not far from [[Acathian Manor]]. [[Lorelei]] confirmed this location and indicated that [[Domyx]] would know how to reach it.
 
 In session 024, the party reached the [[Prison of Frost]], a facility sealed behind a plane of pure magical energy — an abomination to titan folk who traditionally shun magic. [[Domyx]] presented himself without his Akathian title as a mark of his renounced identity. [[Ceril]] dispelled the barrier with ease, freeing Ulrich. He greeted Domyx and [[Lorelei]] with relief and asked if the world below was safe for them. With the barrier broken, Ulrich and Lorelei joined the party and returned to [[The Opal]] as new crew members.
+
+In session 031, Ulrich manned one of [[The Opal]]'s cannons during the [[Broyish Empire]] naval attack and advised [[Kerben]] on ship tactics while the crew fought to escape the incoming fleet.

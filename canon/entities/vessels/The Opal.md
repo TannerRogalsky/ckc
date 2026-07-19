@@ -2,7 +2,7 @@
 type: vessel
 subtypes: [ship]
 session_introduced: "001"
-sessions_appeared: ["013", "015", "016", "024", "025", "026", "027", "030"]
+sessions_appeared: ["013", "015", "016", "024", "025", "026", "027", "030", "031"]
 related:
   - "[[Obould]]"
   - "[[Kerben]]"
@@ -40,3 +40,5 @@ In session 024, the Empire installed a full complement of cannons on port and st
 In session 027, [[The Opal]] was fully repaired in [[Cutlass Cray]]. It was also upgraded with a new steering mechanism and a new crow's nest.
 
 In session 030, while the party explored [[The Carrot Cake]], The Opal came under attack from multiple [[Broyish Empire]] boats. [[Kerben]] arrived in time to help repel the first wave, then sent [[Tango]] to warn the party that a larger force was approaching. The shattered moon made the night especially dark, giving the Empire cover to maneuver around the elves and [[The Order of Seasons]].
+
+In session 031, Kerben commanded The Opal through the next phase of the imperial attack. The crew used the upgraded cannons and arbalest to cripple an imperial escort, then Kerben released the bound air elemental and activated a ghost-ship feather token to make the ship invisible. The Opal escaped west toward [[Lyngbakr Lagoon]] with no crew lost, though it remained damaged and required repairs. Later, [[Vokenar]] returned the party to the ship by Word of Recall, and the invisible Opal retrieved [[Red Caesar]] after [[Lyngbakr]] repaired the sky.

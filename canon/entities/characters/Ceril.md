@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031"]
 related:
   - "[[Vanzia Vinfei]]"
   - "[[House Kiirnodel]]"
@@ -36,6 +36,7 @@ related:
   - "[[Broy]]"
   - "[[Gilder Savar]]"
   - "[[Cutlass Cray]]"
+  - "[[Lyngbakr]]"
 aliases:
   - Ceril Kel'Navvi
   - Ceril Kelnavi
@@ -180,3 +181,9 @@ In the [[Magic Hat]], Ceril fought vampiric familiars and [[Flame Skull]]s along
 Ceril helped complete [[King of the Hole]] by dispelling a [[Gorgon Head]] petrification effect from himself, diving from the lighthouse with a feather fall potion, and using healing to keep [[Domyx]] fighting through the Hooksy swarm. After the arena victory, he cast Speak with Animals to interpret [[Tango]]'s warning from [[Kerben]] about the [[Broyish Empire]] attack on [[The Opal]].
 
 On [[Hole on Wheels]], Ceril sent his owl familiar to scout the train and identify the enemies and final lamp switch near the front. He summoned a powerful bestial spirit crab that helped clear the train cars. Against the [[Vampiric Nightbringer]], Ceril used a Call Lightning scroll to tear open the train roof, letting sunlight pour onto the vampire and prevent its recovery. After the session's long rest, he reached level 12 and honed his agility.
+
+## Session 031
+
+Ceril returned to [[The Carrot Cake]] with the party, helped defeat [[Fharan]]'s imperial force, and used nature magic to keep Fharan alive long enough for interrogation. When the party opened [[Jack Harvey]]'s inner sanctum, Ceril provided Water Breathing and helped manage the vault's flood hazard. In the underwater vault, he summoned his crab spirit against [[The Tyrant]].
+
+After the party brought the condensed [[Penumbra]] to [[Lyngbakr Lagoon]], Ceril accompanied [[Red Caesar]] beneath the waterfall to find [[Lyngbakr]]. He called out to the turtle and helped deliver the Penumbra. When Lyngbakr rose into the heavens to repair the [[Hole in the Sky]], Ceril went with him, leaving Stark alongside [[Alamar]] as the sky sealed beneath them.

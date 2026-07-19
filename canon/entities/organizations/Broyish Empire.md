@@ -2,7 +2,7 @@
 type: organization
 subtypes: [empire]
 session_introduced: "004"
-sessions_appeared: ["013", "014", "016", "022", "023", "030"]
+sessions_appeared: ["013", "014", "016", "022", "023", "030", "031"]
 aliases:
   - Dawn Empire
 related:
@@ -14,6 +14,8 @@ related:
   - "[[The Tyrant]]"
   - "[[Oni]]"
   - "[[Penumbra]]"
+  - "[[Imperial Xihe]]"
+  - "[[Axis Mundi]]"
 ---
 
 A xenophobic empire ruled by [[Emperor Shen]]. [[Lady Jacinthe]] of [[The League of New Stark]] is concerned about them hurting people under the League's protection. [[Boral Erendel]] hinted that "looking east" would reveal answers about imperial structure, pointing toward this empire.
@@ -35,3 +37,9 @@ The party arrived at the coast of [[Broy]] and disembarked. They encountered [[O
 The Empire attacked [[The Opal]] with multiple boats while the party remained inside [[The Carrot Cake]]. [[Kerben]] repelled the first wave but stayed with the ship because a larger force was approaching under cover of the moonless dark created by [[Emperor Shen]]'s attack on the moon.
 
 The Empire also made a direct move inside the Carrot Cake after the party lit all four lamps. Someone dispelled the [[Hole on Wheels]] portal paintings, trapping the party on the train while [[Jack Harvey]]'s inner sanctum opened elsewhere. During the same rest, [[Vizier Jade]] and Emperor Shen intruded into [[Red Caesar]]'s dream, confirming they were searching for the newly accessible [[Penumbra]] while the party was incapacitated.
+
+## Session 031
+
+The Empire escalated from scouting to open naval assault. Its ships attacked [[The Opal]], pursued the party to [[The Carrot Cake]], recaptured [[Theo Harvey]], and forced him to guide an imperial force led by [[Fharan]] into the park. Fharan's group failed to open [[Jack Harvey]]'s inner sanctum and was defeated by the party.
+
+The imperial flagship [[Imperial Xihe]] then reached [[Lyngbakr Lagoon]] with [[Emperor Shen]] and [[Vizier Jade]]. The Empire landed troops around the refuge and used [[Obould]] as hostage to demand the Penumbra. During the confrontation, the party revealed that they knew [[Starfall]] was hidden at [[Axis Mundi]]. Emperor Shen captured [[Domyx]], and Vizier Jade killed [[Vokenar]] and took his body.

@@ -1,7 +1,7 @@
 ---
 type: creature
 session_introduced: "027"
-sessions_appeared: ["027", "028", "029", "030"]
+sessions_appeared: ["027", "028", "029", "030", "031"]
 related:
   - "[[The Carrot Cake]]"
   - "[[Jack Harvey]]"
@@ -19,3 +19,5 @@ In the [[Hole Shebang]], a magen was found in an interior room with a billiard t
 In the [[Magic Hat]], a magen maitre d' greeted the party at the hotel door, cast Knock to grant entry, and read their minds to deliver personalized food during the long rest. Another magen at [[King of the Hole]] served as an announcer with a carrot-microphone, delivering researched introductions for each party member and explaining the wave-based combat arena rules.
 
 In session 030, the King of the Hole announcer declared the party winners of every required and optional challenge. As a bonus prize, it detached and enchanted one of its own rabbit tails, presenting the result to [[Domyx]] as the [[Hopping Mad Sash]]. A magen also answered questions about [[Hole on Wheels]], [[Jack Harvey]], and [[Faraday]], clarifying that Jack had left the park in Faraday's care.
+
+In session 031, [[Kerben]] found that the helpful magen near the midway entrance had been killed by the [[Broyish Empire]] landing party as it forced its way toward [[Jack Harvey]]'s inner sanctum.

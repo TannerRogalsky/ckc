@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc]
 session_introduced: "018"
-sessions_appeared: ["018", "022", "024", "027", "030"]
+sessions_appeared: ["018", "022", "024", "027", "030", "031"]
 related:
   - "[[The Carrot Cake]]"
   - "[[David Harvey]]"
@@ -35,3 +35,7 @@ Inside the extra-dimensional space of the [[Haunted Living Tent]] at [[The Carro
 ## Session 030
 
 A [[Magen]] in [[The Carrot Cake]] explained that Jack Harvey eventually had to resign from direct control of the park and left it in the care of [[Faraday]]. The same conversation suggested Jack Harvey is almost certainly dead by the present day, making the Carrot Cake his surviving legacy. The party lit all four lamps, opening the path to Jack Harvey's inner sanctum, but the portal system was dispelled before they could return to the midway.
+
+## Session 031
+
+Jack Harvey's inner sanctum proved to be an underwater vault that protected his hidden [[Penumbra]] hoard. His preserved magic welcomed the party to the vault when [[Domyx]] opened the pressure-sealed door. The vault's Penumbra was large enough for [[Lyngbakr]] to repair the [[Hole in the Sky]], confirming Jack Harvey's hoard as a successful long-term safeguard for future generations.
