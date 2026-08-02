@@ -10,7 +10,7 @@ summary: "Party encounters Lyngbakr the giant turtle, discovers Castle Kaedon, l
 
 ## Events
 
-- **[[Lyngbakr]]:** The party encounters the giant turtle from [[Arcadia]] that fell through the [[Hole in the Sky]]. It has a city built on its back, including [[Castle Kaedon]]. Named for the fields of heather on its back.
+- **[[Lyngbakr]]:** The party encounters the giant turtle from [[Arkadia]] that fell through the [[Hole in the Sky]]. It has a city built on its back, including [[Castle Kaedon]]. Named for the fields of heather on its back.
 - **[[Castle Kaedon]]:** A castle on Lyngbakr's back where [[Alamar]] is bound. Surrounded by Westerness.
 - **[[Saratan]]:** The species Lyngbakr belongs to — gigantic turtle/whale things that people are surprised aren't islands due to their magical aura.
 - **[[Bookbinders Cray]]:** [[Pleasance MacLenth]] provides information about Lyngbakr and Saratan. Offers the party a bespoke spell.
@@ -28,4 +28,4 @@ The encounter with [[Lyngbakr]] is a major milestone. The party learns about [[S
 
 - Confirms the party's quest objective: find Penumbra and give it to [[Lyngbakr]]
 - [[Sunspite]]'s defeat removes a threat to Castle Kaedon
-- Connects the [[Hole in the Sky]] to [[Arcadia]] and Lyngbakr's fall
+- Connects the [[Hole in the Sky]] to [[Arkadia]] and Lyngbakr's fall

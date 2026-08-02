@@ -22,7 +22,7 @@ aliases:
 session_introduced: "001"
 sessions_appeared: ["001", "011", "012", "013", "014", "015", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031"]
 related:
-  - "[[Arcadia]]"
+  - "[[Arkadia]]"
   - "[[Sigil]]"
   - "[[Crone]]"
   - "[[Aeris]]"
@@ -83,17 +83,17 @@ related:
   - "[[Rakshasa]]"
 ---
 
-A cleric from [[Arcadia]], trained by the goddesses [[Sigil]] and [[Crone]] in the space between worlds. Originally from a citadel in Arcadia 60 years ago, he fell toward [[Stark]] and has spent the intervening decades in divine training. Serves as the party's healer and moral anchor, communicating with the divine through his mantle and scrying. Witnessed [[Emperor Shen]] fire [[Starfall]] at the moon through scrying, and carries Crone's dying command to focus on restoring [[Aeris]].
+A cleric from [[Arkadia]], trained by the goddesses [[Sigil]] and [[Crone]] in the space between worlds. Originally from a citadel in Arkadia 60 years ago, he fell toward [[Stark]] and has spent the intervening decades in divine training. Serves as the party's healer and moral anchor, communicating with the divine through his mantle and scrying. Witnessed [[Emperor Shen]] fire [[Starfall]] at the moon through scrying, and carries Crone's dying command to focus on restoring [[Aeris]].
 
 ## Identity and Backstory
 
-60 years ago, a young Vokenar stared out over the water of a citadel in [[Arcadia]], where he saw [[Solar Flare]], a very tall woman with shining light. [[Gossa]], an aasimar mentor, suggested there are other paths than to become a Guardian and said "May Sigil's light guide you."
+60 years ago, a young Vokenar stared out over the water of a citadel in [[Arkadia]], where he saw [[Solar Flare]], a very tall woman with shining light. [[Gossa]], an aasimar mentor, suggested there are other paths than to become a Guardian and said "May Sigil's light guide you."
 
 Trained in a place outside of time and space by [[Crone]] and [[Sigil]], who prepare him as a weapon for an inevitable war. Has no memory of prior training sessions — each awakening feels brand new, though his body retains the muscle memory of decades of combat. The elemental constructs he fights grow stronger each time he improves. The goddesses estimate he has a few more decades, possibly years, before his descent ends. A third voice — [[Aeris]] — also spoke during training: "We don't know what's happened to your world or the one below it."
 
 Vokenar offered the goddesses a phrase in a different language to shorten future training discussions, showing early initiative and adaptability. He volunteered himself: "I would be dead now either way, so whatever purpose I can be for you, the world, my world, the world below, I'm happy to do it."
 
-Has a sword he practices with in dreams. It "doesn't work" the way he expects in this world — it attacks on its own in [[Arcadia]] but not here. The sword does have a +1 magic bonus and is effective against elementals.
+Has a sword he practices with in dreams. It "doesn't work" the way he expects in this world — it attacks on its own in [[Arkadia]] but not here. The sword does have a +1 magic bonus and is effective against elementals.
 
 Recruited [[Otto]] to join the crew alongside [[Domyx]].
 
@@ -133,7 +133,7 @@ Cast Calm Emotions against the [[Aeon]], helping neutralize its charm effects on
 
 Met [[Osiris Dims]], an aasimar born in [[Brimbolyn]] 45 years ago, who revealed that the Magic City and [[The Order of Seasons]] are "one and the same" and that the [[Demi-Spell]] may be less than a year away.
 
-Reunited with [[Gossa]] at the [[Elvish Marketplace]] — a former teacher from [[Academia Lux]] in [[Arcadia]]. She recognized him immediately and warned him to learn what he could about the Order.
+Reunited with [[Gossa]] at the [[Elvish Marketplace]] — a former teacher from [[Academia Lux]] in [[Arkadia]]. She recognized him immediately and warned him to learn what he could about the Order.
 
 At [[The Academy]], spoke with [[Keys]] and [[Lydriel Gondara]] about the [[Demi-Spell]]. Questioned whether the spell would simply replay the same cycle of events and whether the gods themselves might have caused [[The Cataclysm]].
 
@@ -223,7 +223,7 @@ Sigil pulled Vokenar aside for private counsel about the elves and Crone's fate,
 
 Vokenar returned to [[The Carrot Cake]] with the party and helped defeat [[Fharan]]'s imperial force near [[Jack Harvey]]'s inner sanctum. He used stone-shaping magic to help shield Domyx from the vault's pressure-sealed water surge, then fought [[The Tyrant]] in the underwater vault. After the party recovered the [[Penumbra]], Vokenar used Word of Recall to bring the group back to [[The Opal]] and then healed injured crew members.
 
-At [[Lyngbakr Lagoon]], Vokenar stayed behind with [[Kerben]] and [[Domyx]] to delay [[Emperor Shen]] and [[Vizier Jade]] while [[Red Caesar]] and [[Ceril]] delivered the Penumbra to [[Lyngbakr]]. He resisted Vizier Jade's attempt to banish him back to [[Arcadia]] and challenged her reasons for killing the gods. Vizier Jade admitted her exhaustion with divine wars and suffering, then killed Vokenar with a word of death and departed with his body.
+At [[Lyngbakr Lagoon]], Vokenar stayed behind with [[Kerben]] and [[Domyx]] to delay [[Emperor Shen]] and [[Vizier Jade]] while [[Red Caesar]] and [[Ceril]] delivered the Penumbra to [[Lyngbakr]]. He resisted Vizier Jade's attempt to banish him back to [[Arkadia]] and challenged her reasons for killing the gods. Vizier Jade admitted her exhaustion with divine wars and suffering, then killed Vokenar with a word of death and departed with his body.
 
 ### The Carrot Cake
 

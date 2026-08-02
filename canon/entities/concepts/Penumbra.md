@@ -17,7 +17,7 @@ In session 013, the [[Darvinblast]] chunk proved partially dead: decades of deep
 
 The party also recovered a pure chunk from [[Gnoll]] territory, then fed the collected pieces to [[Lyngbakr]] at [[Lyngbakr Lagoon]]. [[Sigil]] revealed that [[The Order of Seasons]] has moved its pieces to a protected place beyond the jungles of [[Brimbolyn]].
 
-In session 014, the DM connected [[Akasha]] — the silvery-white liquid raining over [[Continental Stark]] — to the same substance found in [[Vokenar]]'s sword, suggesting a link between Akasha, the oceans of [[Arcadia]], and the fallen sky that the Penumbra represents.
+In session 014, the DM connected [[Akasha]] — the silvery-white liquid raining over [[Continental Stark]] — to the same substance found in [[Vokenar]]'s sword, suggesting a link between Akasha, the oceans of [[Arkadia]], and the fallen sky that the Penumbra represents.
 
 At [[The Academy]], the party learned that [[The Order of Seasons]] uses Penumbra pieces as energy sources to accelerate the [[Demi-Spell]], draining their power to save the lives of casters who would otherwise exhaust themselves. The party negotiated an accord: they will stop collecting new Penumbra, and if their plan to fix the sky fails, they will give all collected Penumbra to the Order.
 

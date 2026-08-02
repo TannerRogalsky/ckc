@@ -99,7 +99,7 @@ Domyx was trapped inside the Remorhaz and attempted to Enlarge and fight his way
 
 ### Ascent to Acathian Manor
 
-The party climbed from snow into grassy hills with orchards and flowers — the magic of the titan realm taking hold. They reached the last place [[Ulrich Fjoller]] had been seen before his capture. [[Domyx]] recognized the terrain from his earlier descent and could lead the party the rest of the way. At this altitude, the sky appeared as a flat plate separating [[Stark]] from [[Arcadia]]. A golden palace — [[Acathian Manor]] — drew heavy titan traffic.
+The party climbed from snow into grassy hills with orchards and flowers — the magic of the titan realm taking hold. They reached the last place [[Ulrich Fjoller]] had been seen before his capture. [[Domyx]] recognized the terrain from his earlier descent and could lead the party the rest of the way. At this altitude, the sky appeared as a flat plate separating [[Stark]] from [[Arkadia]]. A golden palace — [[Acathian Manor]] — drew heavy titan traffic.
 
 [[Domyx]] entered the manor alone while the rest of the party stayed hidden, as elves, dwarves, and aasimar would be endangered among the xenophobic titan folk. [[Vokenar]] cast Locate Object searching for [[Penumbra]] but detected none — the sky appeared intact from this distance.
 
@@ -149,4 +149,4 @@ The party then rescued Ulrich Fjoller from the Prison of Frost by dispelling the
 - [[Ulrich Fjoller]] and [[Lorelei]] join [[The Opal]] as new crew members, expanding the party's support network.
 - Lorelei's pregnancy and new crew status raise practical questions about midwifery and nursery arrangements aboard the ship.
 - [[Ceril]]'s familiar spotting a heavily-guarded cavern with food deliveries proved the correct lead for locating the Prison of Frost.
-- The flat sky plate visible from this altitude reinforces the cosmological reality of [[Stark]] and [[Arcadia]] as separate realms.
+- The flat sky plate visible from this altitude reinforces the cosmological reality of [[Stark]] and [[Arkadia]] as separate realms.

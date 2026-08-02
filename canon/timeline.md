@@ -4,7 +4,7 @@
 
 ### Chunk sessions_001-0010
 
-- [[Vokenar]] remembers life in [[Arcadia]] 60 years earlier, where [[Gossa]] encouraged him to imagine a path beyond becoming a Guardian.
+- [[Vokenar]] remembers life in [[Arkadia]] 60 years earlier, where [[Gossa]] encouraged him to imagine a path beyond becoming a Guardian.
 - The party is established aboard [[The Opal]], captained by [[Obould]], and [[Red Caesar]] awakens from an unknown state.
 - The [[Penumbra]] is introduced as a fading magical sky-fragment, tying the party's quest to the [[Hole in the Sky]].
 
@@ -20,7 +20,7 @@
 ### Chunk sessions_001-0010
 
 - The party defeats [[Blibdoolpoolp]], the Kuo-Toa god, and [[Rella Kel'Navvi]] joins the party.
-- The party encounters [[Lyngbakr]], a giant [[Saratan]] from [[Arcadia]] that fell through the [[Hole in the Sky]] with [[Castle Kaedon]] on its back.
+- The party encounters [[Lyngbakr]], a giant [[Saratan]] from [[Arkadia]] that fell through the [[Hole in the Sky]] with [[Castle Kaedon]] on its back.
 - [[Sunspite]] is identified as an enemy who wants [[Castle Kaedon]] sunk and has used [[Penumbra]] as a magical battery.
 - [[Sigil]] tells the party that the mission is not hopeless: the [[Penumbra]] must be given to [[Lyngbakr]].
 
@@ -236,7 +236,7 @@
 - In Brimbolyn, the party explored the city and the [[Elvish Marketplace]]. The city is mostly elves and tieflings; humans are rare.
 - [[Red Caesar]] was targeted by young elves who cast Sleep on him — a mockery since only humans are susceptible. Red failed the save, then Misty Stepped behind the caster and slapped him.
 - [[Vokenar]] met [[Osiris Dims]], an aasimar who revealed the Magic City and [[The Order of Seasons]] are "one and the same" and that the [[Demi-Spell]] may be less than a year away.
-- [[Vokenar]] and [[Ceril]] reconnected with [[Gossa]], a former teacher from [[Academia Lux]] in [[Arcadia]], now working in the marketplace.
+- [[Vokenar]] and [[Ceril]] reconnected with [[Gossa]], a former teacher from [[Academia Lux]] in [[Arkadia]], now working in the marketplace.
 - [[Domyx]] traded mithril, two uncommon items, and a rare item to [[Lysanderol Nokirna]] for the [[Iklwa Isondo]], a +1 mithril trident with magnetic auto-return.
 - Brim got lost in town and told the party to meet him at midnight where a bell sounds.
 
@@ -626,7 +626,7 @@
 ### Chunk 0003
 
 - [[Domyx]] was swallowed by the [[Remorhaz]] and trapped inside. [[Kerben]] fired into the Remorhaz's side, punching a rescue hole. [[Vokenar]] destroyed the creature with a radiant blast. [[Kerben]] cut into the corpse to extract Domyx's unconscious body; [[Ceril]] healed him back to consciousness. Kerben harvested the Remorhaz's heat gland for warmth.
-- The party climbed from snow into grassy hills, orchards, and farmland — the magic of the titan realm taking hold. They reached the last place [[Ulrich Fjoller]] had been seen before his capture. At this altitude, the sky appeared as a flat plate separating [[Stark]] from [[Arcadia]]. A golden palace — [[Acathian Manor]] — drew heavy titan traffic.
+- The party climbed from snow into grassy hills, orchards, and farmland — the magic of the titan realm taking hold. They reached the last place [[Ulrich Fjoller]] had been seen before his capture. At this altitude, the sky appeared as a flat plate separating [[Stark]] from [[Arkadia]]. A golden palace — [[Acathian Manor]] — drew heavy titan traffic.
 - [[Domyx]] entered [[Acathian Manor]] alone while the rest of the party stayed hidden, as outsiders would be endangered among the xenophobic titan folk. [[Vokenar]] detected no [[Penumbra]] nearby; the sky appeared intact from this distance.
 - Inside the manor, [[Domyx]] found [[Charlotte]] (Ulrich's sister), who warned him against being there. Domyx revealed the truth about [[Emperor Shen]] breaking the sky with [[Starfall]]. [[Lorelei]] emerged from hiding, having overheard everything. She confirmed she was pregnant and that Ulrich was imprisoned in the [[Prison of Frost]]. She begged to flee with Ulrich's child.
 - [[Ceril]]'s magma owl familiar scouted the area and reported a large cavern with heavy security and food trays being delivered inside — likely the Prison of Frost.
@@ -903,7 +903,7 @@
 - [[Domyx]] swaps places with Obould, freeing the captain but becoming trapped in the cage himself.
 - Obould orders Kerben to lead him back to [[The Opal]] immediately.
 - [[Emperor Shen]] carries the caged Domyx away in golden light, declaring that his grandson will be returned to the Empire.
-- Vokenar stays behind to delay [[Vizier Jade]], resists banishment to [[Arcadia]], and challenges her reasons for killing the gods.
+- Vokenar stays behind to delay [[Vizier Jade]], resists banishment to [[Arkadia]], and challenges her reasons for killing the gods.
 - [[Vizier Jade]] admits she once fought for the world but now wants an end to the cycle of divine wars and suffering.
 - [[Vizier Jade]] kills Vokenar with a word of death and departs with his body.
 - Red Caesar and Ceril find [[Lyngbakr]] hidden deep beneath the largest waterfall.

@@ -49,7 +49,7 @@ On the shore, [[Emperor Shen]] and [[Vizier Jade]] arrived with [[Obould]] bound
 
 [[Domyx]] used cloud jaunt to exchange places with Obould, freeing the captain and trapping himself in the cage. Obould ordered Kerben to get him back to [[The Opal]], warning that larger dangers were at hand. Emperor Shen carried the caged Domyx away in a column of golden light, declaring that his grandson would be returned to the Empire and disciplined.
 
-[[Vokenar]] stayed behind to delay Vizier Jade. He resisted her first attempt to banish him back to [[Arcadia]], then challenged her reasons for trying to kill the gods. Vizier Jade admitted that she had once fought for the world but had grown tired of watching wars and divine conflicts destroy lives. She killed Vokenar with a word of death and departed with his body.
+[[Vokenar]] stayed behind to delay Vizier Jade. He resisted her first attempt to banish him back to [[Arkadia]], then challenged her reasons for trying to kill the gods. Vizier Jade admitted that she had once fought for the world but had grown tired of watching wars and divine conflicts destroy lives. She killed Vokenar with a word of death and departed with his body.
 
 Meanwhile, Red Caesar and Ceril found [[Lyngbakr]] hidden deep beneath the largest waterfall. Red Caesar released the condensed Penumbra, filling the water with star-like motes that Lyngbakr consumed. Lyngbakr declared he now held enough of the sky to finish the repairs. Ceril and Alamar went with Lyngbakr as the giant turtle rose into the heavens, shedding black sky-matter that sealed the holes across the world. The sky closed beneath them, leaving Red Caesar on Stark looking up at a whole blue sky for the first time in his life. [[The Opal]] recovered Red Caesar afterward. Obould and Kerben were safe aboard, but Domyx had been captured and Vokenar's corpse was in [[Vizier Jade]]'s possession.
 
@@ -72,7 +72,7 @@ Items and discoveries:
 - [[Axis Mundi]] is the location beneath the world where Starfall is hidden.
 - [[Starfall]]'s next target is [[Sigil]], the sun.
 
-Session 031 completes the Carrot Cake arc and resolves the immediate sky-repair goal. [[Jack Harvey]]'s hidden vault contained exactly the kind of concentrated Penumbra the party needed, and Red Caesar's newly completed [[Obvolvo Caelum]] made transporting it possible. By delivering that Penumbra to [[Lyngbakr]], the party finally repaired the sky itself and ended the open wound between Stark and [[Arcadia]].
+Session 031 completes the Carrot Cake arc and resolves the immediate sky-repair goal. [[Jack Harvey]]'s hidden vault contained exactly the kind of concentrated Penumbra the party needed, and Red Caesar's newly completed [[Obvolvo Caelum]] made transporting it possible. By delivering that Penumbra to [[Lyngbakr]], the party finally repaired the sky itself and ended the open wound between Stark and [[Arkadia]].
 
 The victory sharply changes the campaign's strategic problem. The sky is repaired, but [[Starfall]] still exists, [[Aeris]] remains imprisoned inside it, and the [[Broyish Empire]] still intends to fire the weapon again — this time at [[Sigil]], the sun. The party now has the first concrete location for the weapon: [[Axis Mundi]], beneath the world at Stark's center.
 
@@ -88,5 +88,5 @@ The session also ends with the party split and wounded at a campaign-defining cl
 - [[Obould]]'s rescue resolves the hostage leverage [[Vizier Jade]] had held over [[Lady Jacinthe]] and [[The League of New Stark]] since session 021.
 - [[Lyngbakr]] repairing the sky fulfills [[Crone]]'s command to focus on restoring [[Aeris]] rather than the moon.
 - [[Alamar]] leaving Stark with Lyngbakr changes the future of [[Lyngbakr Lagoon]], which had grown around his leadership and protection.
-- [[Vokenar]] resisting banishment shows his commitment to Stark despite his origin in [[Arcadia]], but [[Vizier Jade]]'s killing blow leaves his fate dependent on recovering his body or divine intervention.
+- [[Vokenar]] resisting banishment shows his commitment to Stark despite his origin in [[Arkadia]], but [[Vizier Jade]]'s killing blow leaves his fate dependent on recovering his body or divine intervention.
 - [[Domyx]]'s capture by [[Emperor Shen]] brings the [[Clan Akathia]] bloodline conflict directly back into the Empire's hands.

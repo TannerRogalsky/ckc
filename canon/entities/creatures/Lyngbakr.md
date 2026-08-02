@@ -4,7 +4,7 @@ subtypes: [companion]
 session_introduced: "003"
 sessions_appeared: ["013", "015", "021", "031"]
 related:
-  - "[[Arcadia]]"
+  - "[[Arkadia]]"
   - "[[Hole in the Sky]]"
   - "[[Castle Kaedon]]"
   - "[[Saratan]]"
@@ -12,7 +12,7 @@ related:
   - "[[Alamar]]"
 ---
 
-A giant turtle from [[Arcadia]] that fell through the [[Hole in the Sky]]. Has a city built onto its back, including [[Castle Kaedon]]. Named for the fields of heather on its back. A noted creature in [[Bookbinders Cray]]'s records. Part of the [[Saratan]] species — gigantic turtle/whale things with a magical aura that makes people perceive them as islands.
+A giant turtle from [[Arkadia]] that fell through the [[Hole in the Sky]]. Has a city built onto its back, including [[Castle Kaedon]]. Named for the fields of heather on its back. A noted creature in [[Bookbinders Cray]]'s records. Part of the [[Saratan]] species — gigantic turtle/whale things with a magical aura that makes people perceive them as islands.
 
 In session 013, the party fed [[Lyngbakr]] the purified [[Darvinblast]] core and the gnoll-territory [[Penumbra]] chunks through [[Lyngbakr Lagoon]]. [[Alamar]] expects it will take weeks or a month for [[Lyngbakr]] to digest them, after which the turtle can rise farther and expose more of [[Castle Kaedon]]. [[Lyngbakr]] can also submerge to keep the castle hidden when the party is not exploring.
 
@@ -22,6 +22,6 @@ In session 021, after the party fed Lyngbakr a large [[Penumbra]] chunk recovere
 
 Lyngbakr communicated telepathically with [[Ceril]], asking what must be done next since the [[Hole in the Sky]] remained. It then rose as high as it could toward the hole, emitting a silver-and-black mist that wove upward like smoke. The mist repaired the edges of the wound in the sky. After the effort, the hole had stopped growing and was about a third smaller — enough for people miles away to notice. Lyngbakr was weakened again by the process but confirmed the sky was being fixed.
 
-Lyngbakr revealed it can dive far enough beneath the ocean to reach a "second sea" of [[Akasha]] below the continental shelf — waters that feel familiar, like the oceans of [[Arcadia]] it once knew. It agreed to collect Akasha for the party, theorizing that [[Penumbra]] might be crystallized Akasha. The party asked Lyngbakr to remain near the lagoon to protect the new settlement while they pursued other quests.
+Lyngbakr revealed it can dive far enough beneath the ocean to reach a "second sea" of [[Akasha]] below the continental shelf — waters that feel familiar, like the oceans of [[Arkadia]] it once knew. It agreed to collect Akasha for the party, theorizing that [[Penumbra]] might be crystallized Akasha. The party asked Lyngbakr to remain near the lagoon to protect the new settlement while they pursued other quests.
 
 In session 031, [[Ceril]] and [[Red Caesar]] found Lyngbakr hidden deep beneath the largest waterfall near [[Lyngbakr Lagoon]], where it had retreated after someone tried to kill it. Red Caesar released [[Jack Harvey]]'s condensed [[Penumbra]] hoard, filling the water with star-like motes that Lyngbakr consumed. Lyngbakr declared it had enough sky-material to finish repairing the heavens. It rose into the sky with Ceril and [[Alamar]], shedding black sky-matter that sealed the [[Hole in the Sky]] and smaller wounds across Stark before passing into the heavens.

@@ -34,7 +34,7 @@ In session 024, [[Ceril]] and [[Vokenar]] were drawn into a shared vision of [[A
 
 In session 026, [[Vokenar]] scryed on Emperor Shen and witnessed him loading a large [[Penumbra]] chunk into [[Starfall]] and firing a beam of energy across the heavens. The beam struck the moon, shattering it. Emperor Shen is confirmed as the operator of Starfall who has attacked two of the three sister goddesses — first [[Aeris]] sixty years ago and now [[Crone]].
 
-Emperor Shen may have attempted to reach [[Arcadia]] by [[Touching the Sky]], going beyond the rite's usual purpose of simply touching the sky.
+Emperor Shen may have attempted to reach [[Arkadia]] by [[Touching the Sky]], going beyond the rite's usual purpose of simply touching the sky.
 
 ## Session 030
 

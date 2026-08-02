@@ -5,7 +5,7 @@
 - [[Domyx]] — Barbarian from Clan Akathia, captured by Emperor Shen after freeing Obould
 - [[Kerben]] — Ranger/Rogue (Arcane Trickster), acting captain who saved The Opal and rescued Obould
 - [[Ceril]] — Druid with wild shape and an owl familiar; ascended with Lyngbakr as the sky sealed
-- [[Vokenar]] — Cleric from Arcadia, trained by goddesses; killed by Vizier Jade and taken
+- [[Vokenar]] — Cleric from Arkadia, trained by goddesses; killed by Vizier Jade and taken
 
 ## Crew & Allies
 - [[Obould]] — Captain of The Opal, rescued from the Broyish Empire at Lyngbakr Lagoon
@@ -107,7 +107,7 @@
 - [[Rella Kel'Navvi]] — Blink dog companion from Otyugh Isle, now stationed at Lyngbakr Lagoon
 - [[The Marid]] — Huge pale dignitary, Port Authority at Cutlass Cray
 - [[Tuna]] — Sphinx, half cat half falcon, associated with Alamar
-- [[Lyngbakr]] — Giant turtle from [[Arcadia]] that repaired the sky and departed with Ceril and Alamar
+- [[Lyngbakr]] — Giant turtle from [[Arkadia]] that repaired the sky and departed with Ceril and Alamar
 - [[Saratan]] — Species of gigantic turtle/whale things (includes Lyngbakr)
 - [[Wyrm]] — Famous Saratan noted in records
 - [[Blibdoolpoolp]] — God of the Kuo-Toa, defeated by the party
@@ -151,7 +151,7 @@
 
 ## Locations
 - [[Continental Stark]] — Massive elfish continent, last remnant of the Old World, home to Brimbolyn
-- [[Arcadia]] — Realm above Stark, origin of Vokenar and Lyngbakr, now sealed off by the repaired sky
+- [[Arkadia]] — Realm above Stark, origin of Vokenar and Lyngbakr, now sealed off by the repaired sky
 - [[Axis Mundi]] — Landmark beneath the world at Stark's center where Starfall is hidden
 - [[Darvinblast]] — Underground dwarven city
 - [[The Darvenlast]] — Self-sufficient area within The Deepworlders Delve
@@ -160,8 +160,8 @@
 - [[Brimbolyn]] — Magic city on Continental Stark, seat of The Order of Seasons, connected to 11 towns by rail
 - [[Elvish Marketplace]] — Marketplace in Brimbolyn where elves sell magical goods
 - [[The Academy]] — Epicenter of The Order of Seasons' activity in Brimbolyn
-- [[Academia Lux]] — School in Arcadia where Vokenar was taught
-- [[Stark]] — World below Arcadia; its sky was repaired while Starfall remains hidden beneath it
+- [[Academia Lux]] — School in Arkadia where Vokenar was taught
+- [[Stark]] — World below Arkadia; its sky was repaired while Starfall remains hidden beneath it
 - [[The Pit]] — Dwarvish settlement, seat of Figma Brickfinger's Union
 - [[The Palace of the Pit]] — Seat of power in The Pit
 - [[The Deepworlders Delve]] — Home of the Duergar in The Pit
@@ -227,7 +227,7 @@
 - [[Dancing Blades]] — Thieves guild from old Kaedon, members including Clockwork who was imprisoned in Castle Kaedon
 
 ## Items & Concepts
-- [[Akasha]] — Silvery-white liquid raining from the sky over Continental Stark, connected to Arcadia's oceans
+- [[Akasha]] — Silvery-white liquid raining from the sky over Continental Stark, connected to Arkadia's oceans
 - [[Moon Mushrooms]] — Hallucinogenic translucent mushrooms in the Continental Stark jungle, harvestable as poison
 - [[Penumbra]] — Pieces of the fallen sky; Jack Harvey's hoard let Lyngbakr repair the sky
 - [[The Cataclysm]] — World-ending event that reset the world

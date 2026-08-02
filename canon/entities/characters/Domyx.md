@@ -62,7 +62,7 @@ A titan barbarian and former member of [[Clan Akathia]] who touched the sky, ear
 
 Domyx is a titan warrior known for bold intimidation tactics. Among his people, touching the sky is an ambition contest — those who want to be the best climber simply go up as far as they can. He touched the sky, which imbued his hands with a sky-blue glow he carries as proof of the surface world.
 
-In a flashback, [[Ulrich Fjoller]] intercepted him during his descent from the titan mountains and warned that [[Clan Akathia]] had erased a previous sky-toucher from its records. [[Sigil]] later confirmed that [[Emperor Shen]] — the previous sky-toucher — is the party's greatest enemy, perhaps their only great enemy. The ancestor was banished from home and may have aimed for [[Arcadia]].
+In a flashback, [[Ulrich Fjoller]] intercepted him during his descent from the titan mountains and warned that [[Clan Akathia]] had erased a previous sky-toucher from its records. [[Sigil]] later confirmed that [[Emperor Shen]] — the previous sky-toucher — is the party's greatest enemy, perhaps their only great enemy. The ancestor was banished from home and may have aimed for [[Arkadia]].
 
 During the church confrontation with [[Morel Chainsunder]], Domyx gave a powerful speech about self-determination and freedom while barely alive. He showed his sky-blue hands to the congregation as proof of the surface world and removed cowls from congregants to show them as individuals.
 
@@ -159,7 +159,7 @@ As the party followed the blood-stained river into Titanfolk territory, a [[Remo
 
 The Remorhaz swallowed Domyx whole. Trapped inside the creature, he attempted to use Enlarge and fight his way out. [[Kerben]] fired into the Remorhaz's side, punching a hole that let light reach Domyx. [[Vokenar]] then destroyed the creature with radiant magic, freeing Domyx. [[Kerben]] cut into the corpse to extract Domyx's body, and [[Ceril]] healed him back to consciousness. After the fight, Kerben harvested the Remorhaz's heat gland for warmth during the rest of their mountain climb.
 
-The party climbed from snow into grassy hills with orchards and flowers — the magic of the titan realm taking hold. They reached the last place [[Ulrich Fjoller]] had been seen before his capture. Domyx recognized the terrain from his earlier descent and could lead the party the rest of the way. At this altitude, the sky appeared as a flat plate separating [[Stark]] from [[Arcadia]]. A golden palace — [[Acathian Manor]] — drew heavy titan traffic.
+The party climbed from snow into grassy hills with orchards and flowers — the magic of the titan realm taking hold. They reached the last place [[Ulrich Fjoller]] had been seen before his capture. Domyx recognized the terrain from his earlier descent and could lead the party the rest of the way. At this altitude, the sky appeared as a flat plate separating [[Stark]] from [[Arkadia]]. A golden palace — [[Acathian Manor]] — drew heavy titan traffic.
 
 Domyx entered the manor alone while the rest of the party stayed hidden, as outsiders would be endangered among the xenophobic titan folk. He found [[Charlotte]], Ulrich's sister, who warned him against being there. Domyx revealed the truth about [[Emperor Shen]] breaking the sky with [[Starfall]]. [[Lorelei]] emerged from hiding, having overheard everything. She confirmed she was pregnant and that Ulrich was imprisoned in the [[Prison of Frost]]. She begged to flee with Ulrich's child.
 

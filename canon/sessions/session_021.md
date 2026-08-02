@@ -15,7 +15,7 @@ The party enters a flooded guest room in [[Castle Kaedon]]. Through a collapsed 
 
 The party enters a presentation hall filled with silvery [[Akasha]] mist. The mist coagulates into specters and a wraith, ambushing the party. The party discovers that magic cast inside the mist causes it to drain the caster's life force, while [[Red Caesar]] clears the room's mist at personal cost. The party defeats the undead.
 
-After the fight, the Akasha quest resolves: Akasha is the pure substance of abjuration — the cancellation of magic and elements. It destroyed the old world's magic when Arcadia's oceans fell through the [[Hole in the Sky]], forming a layer at the ocean bottom. A theory emerges that [[Penumbra]] may be the crystallized form of liquid Akasha, and a new quest is added: create Penumbra from distilled Akasha.
+After the fight, the Akasha quest resolves: Akasha is the pure substance of abjuration — the cancellation of magic and elements. It destroyed the old world's magic when Arkadia's oceans fell through the [[Hole in the Sky]], forming a layer at the ocean bottom. A theory emerges that [[Penumbra]] may be the crystallized form of liquid Akasha, and a new quest is added: create Penumbra from distilled Akasha.
 
 The party explores additional rooms, finding a bedroom containing [[Deception by Lenth]], a magical perfume once owned by [[Lenth the Rugged]]. [[Domyx]] takes it. Multiple arcane-locked doors are discovered, protected by the Guards and Wards spell, likely cast by the [[Nalfeshne]] to sequester itself. [[Kerben]] identifies that the spa bath has curative properties if treated with salt. Investigation reveals that after nobles fled during [[The Cataclysm]], common folk used the castle as refuge against rising waters for days or weeks.
 
