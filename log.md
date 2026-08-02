@@ -214,3 +214,4 @@
 ## [2026-07-19] lint | session_031 — Validated links, frontmatter, entity index, quests, and session structure
 ## [2026-08-02] lint | Arcadia → Arkadia — Renamed location entity and corrected canon links and prose.
 ## [2026-08-02] lint | Arcadia → Arkadia — Renamed location entity and corrected canon links and prose.
+## [2026-08-02] lint | Stefan Quist → Stephanne Quist — Renamed character entity and corrected canon links and prose.

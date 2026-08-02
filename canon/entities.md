@@ -53,7 +53,7 @@
 - [[Lysanderol Nokirna]] — Elf mithril smith in the Elvish Marketplace
 - [[Garsinth Theralal]] — Older elf in Brimbolyn whose son cast Sleep on Red Caesar
 - [[Yalet Aurum]] — Galeb Duurr with a golden body encased in a stone monument outside Brimbolyn
-- [[Stefan Quist]] — Human receptionist at The Academy
+- [[Stephanne Quist]] — Human receptionist at The Academy
 - [[Keys]] — Tiefling working on the Demi-Spell at The Academy, was at Castle Kaedon
 - [[Lydriel Gondara]] — Half-elf of the Order working with Keys, was at Castle Kaedon
 - [[Clockwork]] — Member of the Dancing Blades thieves guild, imprisoned in Castle Kaedon

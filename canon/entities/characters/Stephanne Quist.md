@@ -2,6 +2,9 @@
 type: character
 subtypes: [npc]
 session_introduced: "014"
+sessions_appeared: ["014"]
+aliases:
+  - Stefan Quist
 related:
   - "[[The Academy]]"
   - "[[The Order of Seasons]]"

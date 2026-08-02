@@ -79,7 +79,7 @@ The party took a train into the jungle and found Yalet Aurum — a 40-50 foot st
 
 Yalet posed a riddle: "I can only produce mountains. My brother only produces small rocks. What can my brother make you to make you more courageous that I cannot?" [[Red Caesar]] solved it as "bolder" (bold/rocks pun). Yalet vomited chunks of gold in laughter as reward. His brother is [[Yalet Mora]], the stone-bodied crew member aboard [[The Opal]].
 
-The party returned to Brimbolyn and took a tram to [[The Academy]], [[The Order of Seasons]]' epicenter. They were greeted by [[Stefan Quist]], a human receptionist, and led to [[Keys]] and [[Lydriel Gondara]] — the same tiefling and half-elf who stole [[Penumbra]] from [[Castle Kaedon]].
+The party returned to Brimbolyn and took a tram to [[The Academy]], [[The Order of Seasons]]' epicenter. They were greeted by [[Stephanne Quist]], a human receptionist, and led to [[Keys]] and [[Lydriel Gondara]] — the same tiefling and half-elf who stole [[Penumbra]] from [[Castle Kaedon]].
 
 At the Academy, the party learned extensive details about the [[Demi-Spell]]: it works by going to the far future until everything begins again, recycling all souls and elements. Some places and people will always come back; others won't. The spell is written as volumes upon volumes — an encyclopedia of things that should exist with hexagrams and mathematical structures linking it all. [[Aramil Kiirnodel]] is the primary force behind the Demi-Spell's power. Penumbra pieces are used as energy sources to accelerate the spell.
 
