@@ -225,3 +225,4 @@
 ## [2026-08-02] update | Arkadia dead — Added Igden and Tyson Cromwell; expanded Master Vlerro's reunion record.
 ## [2026-08-02] update | Quartz v5 workflow plugin installation
 ## [2026-08-02] update | Quartz v5 disabled broken default theme plugin
+## [2026-08-02] update | Pinned Quartz v5 build revision

@@ -48,8 +48,10 @@ jobs:
             echo "base_url=${GITHUB_REPOSITORY_OWNER}.github.io/${repo_name}" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Clone Quartz 5
-        run: git clone --depth 1 --branch v5 https://github.com/jackyzha0/quartz.git "$RUNNER_TEMP/quartz"
+      - name: Clone pinned Quartz 5
+        run: |
+          git clone https://github.com/jackyzha0/quartz.git "$RUNNER_TEMP/quartz"
+          git -C "$RUNNER_TEMP/quartz" checkout --detach 74b3fc9efd0caafea3dbcd846ddf1f06855b6d2a
 
       - name: Install Quartz dependencies
         working-directory: ${{ runner.temp }}/quartz
