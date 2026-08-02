@@ -33,7 +33,7 @@
 ## Rescue Ceril's mother / deal with the Rakshasa
 - **Given by:** [[Rakshasa]] (implied), [[Ceril]] (own initiative)
 - **Status:** In progress
-- **Details:** The [[Rakshasa]] is Ceril's father, a divine being trapped hunting escaped demons. He cannot see his family until the [[Tome Keeper]] is dead. Ceril's mother is a drow, possibly connected to [[Veronia Karadel]]. The Rakshasa's existence is unknown to [[Keys]] and [[Lydriel Gondara]].
+- **Details:** The [[Rakshasa]] is Ceril's father, a divine being trapped hunting escaped demons. He cannot see his family until the [[Tome Keeper]] is dead. Ceril's mother is a drow, possibly connected to [[Veronia Karadel]]. The Rakshasa's existence is unknown to [[Keys]] and [[Illidrielle Gandara]].
 
 ## Hunt the Grotusqu
 - **Given by:** [[Lady Jacinthe]]

@@ -48,7 +48,7 @@
 ## Plant Antumbra in the League's Penumbra stash
 - **Given by:** [[Red Caesar]], [[Vokenar]] (party initiative)
 - **Resolved:** Session 025
-- **Details:** [[Red Caesar]], [[Keys]], and [[Lydriel Gondara]] synthesized [[Antumbra]] — a poisoned form of [[Penumbra]] designed to sabotage the [[Broyish Empire]]'s [[Starfall]] device. [[Kerben]] infiltrated [[The White Drake]] and planted the Antumbra among the League's stockpiled Penumbra, ensuring contaminated material would reach the Empire.
+- **Details:** [[Red Caesar]], [[Keys]], and [[Illidrielle Gandara]] synthesized [[Antumbra]] — a poisoned form of [[Penumbra]] designed to sabotage the [[Broyish Empire]]'s [[Starfall]] device. [[Kerben]] infiltrated [[The White Drake]] and planted the Antumbra among the League's stockpiled Penumbra, ensuring contaminated material would reach the Empire.
 
 ## Hunt the Bane Siren
 - **Given by:** [[Lady Jacinthe]]

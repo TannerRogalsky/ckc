@@ -12,19 +12,19 @@ related:
   - "[[Akasha]]"
   - "[[Red Caesar]]"
   - "[[Keys]]"
-  - "[[Lydriel Gondara]]"
+  - "[[Illidrielle Gandara]]"
   - "[[The White Drake]]"
   - "[[Broyish Empire]]"
   - "[[Starfall]]"
 ---
 
-A synthesized, corrupted form of [[Penumbra]] created by [[Red Caesar]] with the help of [[Keys]] and [[Lydriel Gondara]] at [[The Academy]] in [[Brimbolyn]].
+A synthesized, corrupted form of [[Penumbra]] created by [[Red Caesar]] with the help of [[Keys]] and [[Illidrielle Gandara]] at [[The Academy]] in [[Brimbolyn]].
 
 ## Creation
 
 Red Caesar theorized that [[Akasha]] — the silvery-white liquid raining over Continental Stark — is a less concentrated form of [[Penumbra]], and that applying extreme pressure could transmute it back. He proposed using a seed crystal of existing Penumbra to trigger a chain reaction in pressurized Akasha.
 
-Keys provided laboratory facilities, specialized containment glass, and stored Akasha samples. [[Lydriel Gondara]] contributed poison expertise. The synthesis process used Otiluke's Resilient Sphere filled with Akasha, combined with an inversion of enlarge/reduce spells to compress the sphere to hand-size, generating enormous internal pressure. After multiple iterations compressing an entire lake of collected Akasha roughly a thousand-fold, the process produced a perfect palm-sized sphere of jet-black material with points of light emerging within it — synthesized Penumbra.
+Keys provided laboratory facilities, specialized containment glass, and stored Akasha samples. [[Illidrielle Gandara]] contributed poison expertise. The synthesis process used Otiluke's Resilient Sphere filled with Akasha, combined with an inversion of enlarge/reduce spells to compress the sphere to hand-size, generating enormous internal pressure. After multiple iterations compressing an entire lake of collected Akasha roughly a thousand-fold, the process produced a perfect palm-sized sphere of jet-black material with points of light emerging within it — synthesized Penumbra.
 
 The process was named the "Caesarean method" after Red Caesar.
 

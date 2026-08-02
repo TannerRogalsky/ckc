@@ -245,7 +245,7 @@
 - [[Red Caesar]] met [[Garsinth Theralal]], an older elf who apologized for his son's Sleep prank and gave Red directions to [[Yalet Aurum]].
 - The party visited [[Yalet Aurum]] — a Galeb Duurr with a solid gold body encased in a 40-50 foot stone monument outside Brimbolyn. Yalet confirmed [[The Order of Seasons]] is interested in [[Penumbra]] and warned the party to "act faster than an elf."
 - Yalet posed a riddle about his brother [[Yalet Mora]]; [[Red Caesar]] solved it as "bolder" and received chunks of gold.
-- The party took a tram to [[The Academy]] and met [[Keys]] and [[Lydriel Gondara]] — the same tiefling and half-elf who stole [[Penumbra]] from [[Castle Kaedon]].
+- The party took a tram to [[The Academy]] and met [[Keys]] and [[Illidrielle Gandara]] — the same tiefling and half-elf who stole [[Penumbra]] from [[Castle Kaedon]].
 - The party learned the [[Demi-Spell]] works by going to the far future until everything begins again, recycling all souls and elements. Penumbra pieces are used as energy to accelerate the spell. The Demi-Spell is more powerful than the gods.
 - [[Aramil Kiirnodel]] is the primary force behind the Demi-Spell's power. The spell is written as volumes upon volumes with hexagrams and mathematical structures.
 - [[Ceril]] revealed his father is the [[Rakshasa]], a divine being he visited in a cave for years.
@@ -644,9 +644,9 @@
 
 ### Chunk 0000
 
-- [[Red Caesar]] traveled to [[The Academy]] in [[Brimbolyn]] with [[Keys]] and [[Lydriel Gondara]] to synthesize [[Antumbra]].
+- [[Red Caesar]] traveled to [[The Academy]] in [[Brimbolyn]] with [[Keys]] and [[Illidrielle Gandara]] to synthesize [[Antumbra]].
 - Using the "Caesarean method," Red Caesar compressed [[Akasha]] through magical pressure using Otiluke's Resilient Sphere and inverted enlarge/reduce spells. After multiple iterations compressing an entire lake roughly a thousand-fold, the process produced a palm-sized sphere of jet-black synthesized [[Penumbra]].
-- [[Lydriel Gondara]] and [[Keys]] poisoned the Antumbra using a method concealed by illusion, ensuring the poison would not infect their own samples.
+- [[Illidrielle Gandara]] and [[Keys]] poisoned the Antumbra using a method concealed by illusion, ensuring the poison would not infect their own samples.
 - [[Kerben]] took on the role of acting captain of [[The Opal]] during Red Caesar's absence.
 - The party recruited [[Trent]] and [[Ebi]] aboard — a couple fleeing the [[Mana Sickness]] in [[Southport]]. Trent was assigned as master gunner.
 - [[Vokenar]] discovered a hidden [[Penumbra]] stash aboard [[The White Drake]] in the ship's hold and proposed planting the Antumbra among it.

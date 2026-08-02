@@ -19,4 +19,4 @@ The Rakshasa revealed he clawed his way back up out of hell and is charged with 
 
 He gave the party a quest: find and kill the [[Tome Keeper]], a demon who keeps the [[Tome of Satariel]]. The Tome Keeper can see the Rakshasa wherever he travels and could summon the other demons to find him. Killing the Tome Keeper would give the Rakshasa an opportunity to visit his child. He dismissed the [[Demi-Spell]] as futile, saying it will never work, and expressed indifference about when the [[Genesis Mundi]] arises — perhaps it is his moment of atonement.
 
-[[Keys]] and [[Lydriel Gondara]] were unaware of his existence.
+[[Keys]] and [[Illidrielle Gandara]] were unaware of his existence.

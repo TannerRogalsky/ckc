@@ -9,7 +9,7 @@ summary: "Vokenar trains with Crone and Sigil; Emperor Shen fires Starfall at th
 
 ### Chunk 0000
 
-- Recap of events since session 025: [[Red Caesar]] synthesized [[Antumbra]] at [[The Academy]] with [[Keys]] and [[Lydriel Gondara]]; [[Kerben]] planted it aboard [[The White Drake]] among the League's [[Penumbra]] stash.
+- Recap of events since session 025: [[Red Caesar]] synthesized [[Antumbra]] at [[The Academy]] with [[Keys]] and [[Illidrielle Gandara]]; [[Kerben]] planted it aboard [[The White Drake]] among the League's [[Penumbra]] stash.
 - [[Vokenar]] resumes training with [[Crone]] and [[Sigil]] in the space between worlds. He fights demons alongside Crone and spars with her, learning to never let his guard down. Crone and Sigil argue about his fate — Crone rebukes Sigil for giving him too many breaks, but Sigil defends Vokenar's ethics as essential to his mission.
 - [[Aeris]] is seen floating between the stars, appearing stronger but unconscious as she rests and heals. Sigil confirms the [[Penumbra]] the party finds is restoring her, but warns against complacency.
 - During sparring, Vokenar strikes Crone with his old Akasha blade, drawing white pearlescent blood. Crone is shocked and in agony — but the wound is not from Vokenar's blade. Something has happened on [[Stark]].

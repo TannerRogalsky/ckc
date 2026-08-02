@@ -55,7 +55,7 @@ related:
   - "[[Brimbolyn]]"
   - "[[The Academy]]"
   - "[[Keys]]"
-  - "[[Lydriel Gondara]]"
+  - "[[Illidrielle Gandara]]"
   - "[[Veronia Karadel]]"
   - "[[Boral Erendel]]"
   - "[[The League of New Stark]]"
@@ -135,7 +135,7 @@ Met [[Osiris Dims]], an aasimar born in [[Brimbolyn]] 45 years ago, who revealed
 
 Reunited with [[Gossa]] at the [[Elvish Marketplace]] — a former teacher from [[Academia Lux]] in [[Arkadia]]. She recognized him immediately and warned him to learn what he could about the Order.
 
-At [[The Academy]], spoke with [[Keys]] and [[Lydriel Gondara]] about the [[Demi-Spell]]. Questioned whether the spell would simply replay the same cycle of events and whether the gods themselves might have caused [[The Cataclysm]].
+At [[The Academy]], spoke with [[Keys]] and [[Illidrielle Gandara]] about the [[Demi-Spell]]. Questioned whether the spell would simply replay the same cycle of events and whether the gods themselves might have caused [[The Cataclysm]].
 
 Negotiated an accord with the Order: the party will stop collecting new [[Penumbra]], and if their plan to fix the sky fails, they will give all collected Penumbra to the Order. The Order granted the party access to teleport circles.
 

@@ -26,7 +26,7 @@ related:
   - "[[Gossa]]"
   - "[[The Academy]]"
   - "[[Keys]]"
-  - "[[Lydriel Gondara]]"
+  - "[[Illidrielle Gandara]]"
   - "[[Rakshasa]]"
   - "[[Veronia Karadel]]"
   - "[[Risolvir Kiirnodel]]"
@@ -79,7 +79,7 @@ Can cast: Plant Growth, Guiding Bolt, Luminous Arrow, Moonbeam (repositionable a
 - Traveled to [[Brimbolyn]] aboard the magical train with the party and [[Brim the Bullywog]].
 - Offered a clever alternate answer to [[Yalet Aurum]]'s riddle and received a chunk of gold; [[Red Caesar]] ultimately solved it as "bolder."
 - Visited [[Gossa]] at the [[Elvish Marketplace]] and traded a Mask of Ogun for an amulet that allows him to summon his familiar as a magma elemental. The magma familiar has claws, fire breath, and a death burst that explodes into a fireball if killed.
-- At [[The Academy]], recognized [[Keys]] and [[Lydriel Gondara]] as the same individuals who stole [[Penumbra]] from [[Castle Kaedon]].
+- At [[The Academy]], recognized [[Keys]] and [[Illidrielle Gandara]] as the same individuals who stole [[Penumbra]] from [[Castle Kaedon]].
 - Negotiated an accord with the Order: the party will stop collecting new Penumbra, and if their plan to fix the sky fails, they will give all collected Penumbra to the Order. In exchange, the Order granted access to teleport circles.
 - Revealed that his father is the [[Rakshasa]], a divine being he visited in a cave for years. Keys and Lydriel were unaware of the Rakshasa's existence.
 - Visited [[House Kiirnodel]] and recognized [[Veronia Karadel]] and [[Risolvir Kiirnodel]] from his pre-Cataclysm escape flashback. Veronia recognized Ceril's future self, saying his soul survives many worlds unchanged and predicting he would become a god in the reset world.

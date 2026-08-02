@@ -55,7 +55,7 @@
 - [[Yalet Aurum]] — Galeb Duurr with a golden body encased in a stone monument outside Brimbolyn
 - [[Stephanne Quist]] — Human receptionist at The Academy
 - [[Keys]] — Tiefling working on the Demi-Spell at The Academy, was at Castle Kaedon
-- [[Lydriel Gondara]] — Half-elf of the Order working with Keys, was at Castle Kaedon
+- [[Illidrielle Gandara]] — Half-elf of the Order working with Keys, was at Castle Kaedon
 - [[Clockwork]] — Member of the Dancing Blades thieves guild, imprisoned in Castle Kaedon
 - [[David Harvey]] — Harengon working with The League to reclaim harengon territory
 - [[Theo Harvey]] — Traitor harengon recaptured by the Empire and freed again by Kerben at The Carrot Cake
@@ -268,7 +268,7 @@
 - [[Mana Sickness]] — Contagious plague spreading through Southport from the Mana Sea; victims fall into impenetrable slumber
 - [[Shark's Edge]] — Kerben's +2 falchion made from a megalodon tooth; reveals water temperature by sight
 - [[Tatzelwurm Gizzard Juice]] — One-use white dragon poison crafted by Kerben from Tatzelwurm scales and darkwood bark
-- [[Antumbra]] — Poisoned, synthesized Penumbra created by Red Caesar, Keys, and Lydriel Gondara; designed to sabotage Starfall
+- [[Antumbra]] — Poisoned, synthesized Penumbra created by Red Caesar, Keys, and Illidrielle Gandara; designed to sabotage Starfall
 - [[Half Chart of the Witness]] — One half of a pre-flood map of Stark created by the construct Witness; found in the Southern Archipelago Castle
 - [[Potion of Fluid Adamantite]] — Rare potion granting resistance to all damage for one minute; found in the Southern Archipelago Castle
 - [[Orkland Pin of Courage]] — Award given to Obould for saving orc tribes in southern battles decades ago
