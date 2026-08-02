@@ -84,3 +84,8 @@
 - **Given by:** [[Sigil]], [[Crone]], [[Aeris]]
 - **Resolved:** Session 031
 - **Details:** [[Red Caesar]] used [[Obvolvo Caelum]] to condense [[Jack Harvey]]'s hidden [[Penumbra]] hoard and delivered it to [[Lyngbakr]] with [[Ceril]]. Lyngbakr consumed the Penumbra, rose into the heavens with Ceril and [[Alamar]], and sealed the [[Hole in the Sky]] along with smaller wounds across Stark.
+
+## Recover Domyx and Vokenar
+- **Given by:** Implicit (party survival)
+- **Resolved:** Session 032
+- **Details:** [[Vizier Jade]] secretly freed [[Domyx]] during the uprising in the [[Broyish Capital]]. The party recovered [[Vokenar]]'s body from the [[Dawn Palace]], and [[Ceril]] reincarnated him as a high elf at the [[Temple of Sigil]].

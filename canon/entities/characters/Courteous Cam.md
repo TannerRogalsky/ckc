@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc]
 session_introduced: "013"
-sessions_appeared: ["013"]
+sessions_appeared: ["013", "032"]
 related:
   - "[[Ceril]]"
   - "[[The Pit]]"

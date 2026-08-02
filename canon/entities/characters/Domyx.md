@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032"]
 aliases:
   - Domyx Akathian
   - Domix
@@ -210,3 +210,7 @@ On [[Hole on Wheels]], Domyx held the front of the party through the train's nar
 Domyx helped force open [[Jack Harvey]]'s pressure-sealed vault after [[Vokenar]] and [[Ceril]] prepared protections against the water surge. Inside the underwater vault, he helped find [[Jade's Compass]] and fought [[The Tyrant]], with [[Red Caesar]] ultimately charming the creature and extracting the location of [[Starfall]].
 
 At [[Lyngbakr Lagoon]], [[Emperor Shen]] and [[Vizier Jade]] arrived with [[Obould]] caged as leverage. After [[Kerben]] shot Obould's restraints, Domyx used cloud jaunt to trade places with the captain, freeing Obould but imprisoning himself. Emperor Shen took the caged Domyx away in golden light, declaring that his grandson would be returned to the Empire and disciplined.
+
+## Session 032
+
+Shen held Domyx in the [[Dawn Palace]] and tried to persuade him to become imperial heir. Domyx remained defiant, then recognized that Jade's frustration with Shen could give him time to survive. Jade ultimately faked his death and freed him during the palace uprising. Ceril restored Domyx from the ordeal, after which he rejoined the party and helped secure Vokenar's body.

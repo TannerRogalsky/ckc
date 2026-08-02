@@ -2,7 +2,7 @@
 type: creature
 subtypes: [companion]
 session_introduced: "003"
-sessions_appeared: ["013", "015", "021", "031"]
+sessions_appeared: ["013", "015", "021", "031", "032"]
 related:
   - "[[Arkadia]]"
   - "[[Hole in the Sky]]"

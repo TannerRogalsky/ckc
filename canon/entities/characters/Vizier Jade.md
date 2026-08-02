@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc, antagonist]
 session_introduced: "011"
-sessions_appeared: ["011", "013", "014", "021", "022", "023", "030", "031"]
+sessions_appeared: ["011", "013", "014", "021", "022", "023", "030", "031", "032"]
 related:
   - "[[Broyish Empire]]"
   - "[[Red Caesar]]"

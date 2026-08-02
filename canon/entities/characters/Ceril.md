@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032"]
 related:
   - "[[Vanzia Vinfei]]"
   - "[[House Kiirnodel]]"
@@ -187,3 +187,7 @@ On [[Hole on Wheels]], Ceril sent his owl familiar to scout the train and identi
 Ceril returned to [[The Carrot Cake]] with the party, helped defeat [[Fharan]]'s imperial force, and used nature magic to keep Fharan alive long enough for interrogation. When the party opened [[Jack Harvey]]'s inner sanctum, Ceril provided Water Breathing and helped manage the vault's flood hazard. In the underwater vault, he summoned his crab spirit against [[The Tyrant]].
 
 After the party brought the condensed [[Penumbra]] to [[Lyngbakr Lagoon]], Ceril accompanied [[Red Caesar]] beneath the waterfall to find [[Lyngbakr]]. He called out to the turtle and helped deliver the Penumbra. When Lyngbakr rose into the heavens to repair the [[Hole in the Sky]], Ceril went with him, leaving Stark alongside [[Alamar]] as the sky sealed beneath them.
+
+## Session 032
+
+Ceril crossed into [[Arkadia]] with [[Alamar]] and consulted [[Aeris]], [[Sigil]], and [[Crone]]. Learning that Vokenar could be restored, he returned to Stark through a closing sky passage, helped expose the Broyish capital's false sky, and recovered Vokenar's body. At the [[Temple of Sigil]], he reincarnated Vokenar as a high elf, discovering that [[Boral Erendel]]'s Demi-Spell changes have constrained reincarnation to elven forms.

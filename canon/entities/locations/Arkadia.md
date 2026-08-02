@@ -2,7 +2,7 @@
 type: location
 subtypes: [plane]
 session_introduced: "001"
-sessions_appeared: ["001", "031"]
+sessions_appeared: ["001", "031", "032"]
 aliases:
   - Arcadia
 related:

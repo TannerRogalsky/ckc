@@ -2,7 +2,7 @@
 type: location
 subtypes: [building]
 session_introduced: "025"
-sessions_appeared: ["025"]
+sessions_appeared: ["025", "032"]
 related:
   - "[[Sigil]]"
   - "[[Southport]]"

@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc]
 session_introduced: "014"
-sessions_appeared: ["014", "025", "026"]
+sessions_appeared: ["014", "025", "026", "032"]
 aliases:
   - Lydriel Gondara
   - Lydriel

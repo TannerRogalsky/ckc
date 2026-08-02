@@ -2,7 +2,7 @@
 type: concept
 subtypes: [lore]
 session_introduced: "019"
-sessions_appeared: ["019", "021", "022", "023", "024", "026", "031"]
+sessions_appeared: ["019", "021", "022", "023", "024", "026", "031", "032"]
 aliases:
   - Star screen
   - Skyfall

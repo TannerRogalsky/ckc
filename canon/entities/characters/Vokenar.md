@@ -20,7 +20,7 @@ aliases:
   - Vokun
   - Vokunov
 session_introduced: "001"
-sessions_appeared: ["001", "011", "012", "013", "014", "015", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031"]
+sessions_appeared: ["001", "011", "012", "013", "014", "015", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032"]
 related:
   - "[[Arkadia]]"
   - "[[Sigil]]"
@@ -240,3 +240,7 @@ In the [[Magic Hat]], Vokenar used Lesser Restoration on himself to clear the [[
 Vokenar helped carry the party through the final [[King of the Hole]] waves, repeatedly reversing petrification threats from [[Gorgon Head]]s and keeping the group standing between arena rounds. During the optional bonus challenge, he burned divine light outward while trapped inside a [[Shambling Mound]], turning the monster's own engulfing attack against it.
 
 On [[Hole on Wheels]], Vokenar cast a blade barrier down the train, tearing open the roof and forcing vampire-controlled enemies to scatter. He later helped break the [[Vampiric Nightbringer]]'s domination of [[Red Caesar]], then pressed the vampire under the sunlight Ceril brought through the roof. After the session's long rest, Vokenar reached level 12 and deepened his divine spellcasting and protective flares.
+
+## Session 032
+
+Ceril recovered Vokenar's body from the [[Dawn Palace]] and reincarnated him at the [[Temple of Sigil]]. He returned as a high elf rather than an aasimar. The ritual revealed that [[Boral Erendel]]'s changes to the [[Demi-Spell]] have constrained reincarnation to elven forms, making Vokenar's new body evidence of an ongoing cosmological threat.

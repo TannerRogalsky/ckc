@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "011", "012", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031"]
+sessions_appeared: ["001", "011", "012", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032"]
 aliases:
   - Kerbin
   - Curbin
@@ -198,3 +198,7 @@ Kerben remained away from the party to defend [[The Opal]] while they finished [
 Kerben commanded [[The Opal]] through the [[Broyish Empire]]'s naval assault. He used the ship's upgraded weapons to cripple a dangerous escort, released the ship's air elemental against the enemy, and activated a ghost-ship feather token to turn The Opal invisible before the larger fleet arrived. The maneuver let the ship and crew escape west toward [[Lyngbakr Lagoon]].
 
 After returning to [[The Carrot Cake]], Kerben followed an imperial force that had forced [[Theo Harvey]] to guide them inside. He used Knock and a balloon feather token to free Theo again, receiving confirmation that the [[Penumbra]] was behind [[Jack Harvey]]'s sealed door. In the vault, Kerben helped find [[Jade's Compass]] and fought [[The Tyrant]]. At [[Lyngbakr Lagoon]], Kerben shot [[Emperor Shen]], revealing the emperor's resemblance to [[Domyx]], then shot open [[Obould]]'s restraints so Domyx could trade places with him. Kerben escaped with Obould and led him back toward [[The Opal]].
+
+## Session 032
+
+Kerben discovered that his ranger egg can temporarily store [[The Opal]] and its crew in an extradimensional space. He used the capability to support the covert approach to the [[Broyish Capital]], then joined [[Red Caesar]] and Ceril in exposing the city's false sky and recovering Domyx.

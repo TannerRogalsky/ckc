@@ -2,7 +2,7 @@
 type: location
 subtypes: [settlement]
 session_introduced: "009"
-sessions_appeared: ["013", "022"]
+sessions_appeared: ["013", "022", "032"]
 ---
 
 A dwarvish settlement in the northeastern dwarven continent. Seat of power for [[Figma Brickfinger's Union]]. The party was en route to the Pit when [[Vizier Jade]] visited [[Red Caesar]]. It represents civilization on this continent, as a panicked dwarf fled toward it after escaping the [[Darvinblast]].

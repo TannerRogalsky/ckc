@@ -2,10 +2,10 @@
 
 ## Party Members
 - [[Red Caesar]] — Wizard (Abjurer), member of Heaven's Bulb; condensed Jack Harvey's Penumbra and saw the repaired sky
-- [[Domyx]] — Barbarian from Clan Akathia, captured by Emperor Shen after freeing Obould
+- [[Domyx]] — Barbarian from Clan Akathia, rescued from Emperor Shen's palace after freeing Obould
 - [[Kerben]] — Ranger/Rogue (Arcane Trickster), acting captain who saved The Opal and rescued Obould
 - [[Ceril]] — Druid with wild shape and an owl familiar; ascended with Lyngbakr as the sky sealed
-- [[Vokenar]] — Cleric from Arkadia, trained by goddesses; killed by Vizier Jade and taken
+- [[Vokenar]] — Cleric from Arkadia, trained by goddesses; reincarnated as a high elf after Vizier Jade killed him
 
 ## Crew & Allies
 - [[Obould]] — Captain of The Opal, rescued from the Broyish Empire at Lyngbakr Lagoon
@@ -46,7 +46,9 @@
 - [[Sigrid Forgewelt]] — Dwarven weapon forger in The Pit
 - [[Beryzoz Helmscar]] — Gnomish armor forger in The Pit
 - [[Alamar]] — Former Kaedonite reformer bound to Castle Kaedon; ascended with Lyngbakr when the sky sealed
-- [[Vlerro]] — Placed Alamar in a magical coma (Sequestered)
+- [[Vlerro]] — Sequestered Alamar, then reunited with him in Arkadia
+- [[Igden]] — Parliamentarian of old Kaedon's senate, encountered in Arkadia
+- [[Tyson Cromwell]] — Old Kaedonite archbishop and Alamar's father figure, encountered in Arkadia
 - [[Gossa]] — Aasimar mentor to Vokenar from Academia Lux, now working in the Elvish Marketplace in Brimbolyn
 - [[Osiris Dims]] — Aasimar born in Brimbolyn 45 years ago, revealed details about the Demi-Spell
 - [[Marshal Zem]] — Tiefling marshal of the Knights of the Four Seasons
@@ -67,6 +69,8 @@
 - [[Queen Caeradwyn]] — Former elven queen whose fall enabled Aramil Kiirnodel's rise and preceded elven uprisings and the Cataclysm
 - [[Vanzia Vinfei]] — High elf paladin revolutionary who escaped Brimbolyn with Ceril; now operating in the Broyish Capital alongside Naomi Ue
 - [[Naomi Ue]] — Underground fixer in the Broyish Capital who absolves criminal records through magically stamped documents
+- [[Janeera]] — Seer associated with Southport who foretold the party's arrival
+- [[Mayor Yoris]] — Young mayor of Southport who welcomed the party after Janeera's prophecy
 - [[Chan Hu]] — Ancient-world survivor and merchant in the Broyish market; previously known as "The Emerald Leaf" and knew Master Lee
 - [[Courteous Cam]] — Dwarf farmer-trader who gave Ceril seeds, a scroll, and the gnoll Penumbra lead
 - [[Father Warwick]] — High-ranking priest of Sigil, petrified for ~70 years at Temple of Sigil; de-petrified by Ceril in session 025
@@ -191,6 +195,7 @@
 - [[Southport]] — Port city west of The Garden, now a plague town afflicted by Mana Sickness; sought by Rochella Golf
 - [[Temple of Sigil]] — Temple on Otyugh Isle where 12 priests and 19 Kuo-Toa were petrified by a cockatrice ~70 years ago
 - [[Broyish Capital]] — Imperial capital of the Broyish Empire; highly industrialized with oni sentries, magic restrictions, and a bustling market
+- [[Dawn Palace]] — Imperial palace in the Broyish Capital where Emperor Shen imprisoned Domyx
 - [[Mana Sea]] — Treacherous body of water near Southport; source of Mana Sickness and home to Deep Roses
 - [[Thalasia]] — Continent where Domyx's titan people live, separated by treacherous mountains
 - [[Acathian Manor]] — Golden palace atop the highest mountains in Stark; ruling seat of [[Clan Akathia]]

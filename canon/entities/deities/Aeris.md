@@ -2,7 +2,7 @@
 type: deity
 subtypes: [goddess]
 session_introduced: "001"
-sessions_appeared: ["013", "021", "024", "025", "031"]
+sessions_appeared: ["013", "021", "024", "025", "031", "032"]
 aliases:
   - The Sky
   - Eris

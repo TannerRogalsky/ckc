@@ -218,3 +218,8 @@
 ## [2026-08-02] query | Lydriel Gondara — Audited transcript variants and Order of Seasons associations.
 ## [2026-08-02] lint | Lydriel Gondara → Illidrielle Gandara — Renamed character, added aliases, and completed Antumbra record.
 ## [2026-08-02] lint | Naomi → Naomi Ue — Renamed character entity and corrected canon links and prose.
+## [2026-08-02] ingest | session_032 — Created summary, entities, quest, and timeline updates.
+## [2026-08-02] lint | session_032 — Validated links, frontmatter, entity index, quests, and session structure.
+## [2026-08-02] lint | Janira → Janeera — Renamed character, retained transcript spelling as alias, and corrected canon links.
+## [2026-08-02] update | Mayor Yoris — Added Southport mayor and linked Janeera's arrival prophecy.
+## [2026-08-02] update | Arkadia dead — Added Igden and Tyson Cromwell; expanded Master Vlerro's reunion record.

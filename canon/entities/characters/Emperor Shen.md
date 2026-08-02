@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc, antagonist]
 session_introduced: "011"
-sessions_appeared: ["011", "013", "023", "024", "026", "030", "031"]
+sessions_appeared: ["011", "013", "023", "024", "026", "030", "031", "032"]
 aliases:
   - Domyx's Ancestor
   - Domyx Acathian III

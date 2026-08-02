@@ -911,3 +911,25 @@
 - Lyngbakr rises into the sky with [[Ceril]] and [[Alamar]], sealing the [[Hole in the Sky]] behind them and closing smaller wounds across Stark.
 - Red Caesar remains on Stark and sees a whole blue sky for the first time; [[The Opal]] later retrieves him.
 - The session ends with Obould and Kerben safe aboard [[The Opal]], Domyx captured by [[Emperor Shen]], Vokenar's body held by [[Vizier Jade]], and Ceril gone into the heavens with Lyngbakr and Alamar.
+
+## Session 032
+
+### Chunk 0000
+
+- [[Emperor Shen]] imprisons [[Domyx]] in the [[Dawn Palace]] and attempts to make him accept imperial succession.
+- [[Ceril]] and [[Alamar]] enter [[Arkadia]] with [[Lyngbakr]]. Alamar reunites with [[Vlerro]], [[Igden]], and [[Tyson Cromwell]] before Ceril meets [[Aeris]], [[Sigil]], and the injured [[Crone]], who confirm Vokenar can be restored if his body is recovered.
+- [[Illidrielle Gandara]] confirms that [[Keys]] has completed the [[Demi-Spell]] but not cast it; [[Boral Erendel]]'s alterations would force reincarnation into high elf bodies.
+- Ceril returns to Stark through a closing passage in the repaired sky.
+
+### Chunk 0001
+
+- [[Kerben]] discovers that his ranger egg can conceal [[The Opal]] and crew in extradimensional space.
+- [[Vizier Jade]] fakes Domyx's death and frees him from Shen's custody.
+- [[Red Caesar]], Ceril, and Kerben expose the [[Broyish Capital]]'s false sky and spark an uprising with [[Naomi Ue]]'s help; Shen and Jade flee to [[Starfall]].
+- The party recovers Domyx and Vokenar's body from the Dawn Palace.
+
+### Chunk 0002
+
+- [[Ceril]] reincarnates [[Vokenar]] as a high elf at the [[Temple of Sigil]].
+- [[Courteous Cam]] and [[Otto]] agree to reopen the Funnel's collapsed route into the abyss beneath [[Stark]], offering a delayed approach to [[Axis Mundi]].
+- The party sails to [[Southport]] to confront [[Mana Sickness]] while the excavation proceeds; [[Mayor Yoris]] welcomes them on [[Janeera]]'s prophecy.

@@ -2,7 +2,7 @@
 type: location
 subtypes: [settlement]
 session_introduced: "015"
-sessions_appeared: ["015", "023", "025"]
+sessions_appeared: ["015", "023", "025", "032"]
 related:
   - "[[Rochella Golf]]"
   - "[[Mana Sickness]]"

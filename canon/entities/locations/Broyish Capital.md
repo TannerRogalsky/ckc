@@ -2,7 +2,7 @@
 type: location
 subtypes: [city]
 session_introduced: "023"
-sessions_appeared: ["023"]
+sessions_appeared: ["023", "032"]
 related:
   - "[[Broy]]"
   - "[[Broyish Empire]]"

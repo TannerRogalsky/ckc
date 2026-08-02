@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032"]
 related:
   - "[[Antumbra]]"
   - "[[Heaven's Bulb]]"
@@ -186,3 +186,7 @@ After the portal paintings were dispelled and the party was trapped on the train
 Red Caesar returned the party to [[The Carrot Cake]] midway through the disabled portal network, arriving while [[Fharan]]'s imperial force fought vampire spawn near [[Jack Harvey]]'s inner sanctum door. He determined that the door would only open for party members who had completed the lamp challenges and that it held back a dangerous flood of seawater. After the battle, Red Caesar dispelled Fharan's lethal contingency so the party could question him alive.
 
 Inside Jack Harvey's underwater vault, Red Caesar used [[Obvolvo Caelum]] to condense the enormous [[Penumbra]] deposits into a small dense orb. He later charmed [[The Tyrant]], turning a deadly fight into a revelation: [[Starfall]] is hidden at [[Axis Mundi]], beneath the world at its center. After returning to [[The Opal]] and then [[Lyngbakr Lagoon]], Red carried the condensed Penumbra to [[Lyngbakr]] with [[Ceril]]. When he released the orb, Lyngbakr consumed the sky-material and sealed the [[Hole in the Sky]]. Red remained on Stark and saw a whole blue sky for the first time in his life.
+
+## Session 032
+
+Red Caesar arranged a Broyish capital uprising through [[Naomi Ue]], then used a balloon approach and dispelling magic to expose the Empire's false sky. The disruption forced [[Emperor Shen]] and [[Vizier Jade]] to leave the [[Dawn Palace]], allowing the party to recover Domyx and Vokenar's body. Red then helped set the next strategy: support the Funnel route toward [[Axis Mundi]] while travelling to [[Southport]] to address [[Mana Sickness]].

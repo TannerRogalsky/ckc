@@ -2,7 +2,7 @@
 type: location
 subtypes: [landmark]
 session_introduced: "031"
-sessions_appeared: ["031"]
+sessions_appeared: ["031", "032"]
 aliases:
   - Axis Mundic
   - Axis Mundy

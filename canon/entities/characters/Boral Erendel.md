@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc, antagonist]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "022"]
+sessions_appeared: ["001", "013", "014", "015", "022", "032"]
 aliases:
   - Boril Arangel
 related:
