@@ -141,7 +141,7 @@ As the party approached the coast of [[Broy]], a fierce storm struck. Two titans
 
 After [[Vokenar]] healed both titans, they departed peacefully heading north toward titan homeland territory. Baron Akathian gave Domyx a scroll case containing a map of [[Thalasia]] — the continent where Domyx's people live — showing a treacherous path through hills into the titan homeland. The party then docked near the coast of [[Broy]] and disembarked.
 
-In the [[Broyish Capital]], Domyx helped defeat the oni near the coast. He negotiated with [[Naomi]] to clear the party's warrants, paying 10 pounds of mithril. He asked about titan folk in the region and learned they live to the north and have assimilated into the industrial society.
+In the [[Broyish Capital]], Domyx helped defeat the oni near the coast. He negotiated with [[Naomi Ue]] to clear the party's warrants, paying 10 pounds of mithril. He asked about titan folk in the region and learned they live to the north and have assimilated into the industrial society.
 
 The party entered the imperial palace and was granted audience with [[Vizier Jade]]. Jade revealed [[Emperor Shen]] was Domyx's grandfather — confirmed by the matching sky-colored palms shared between Domyx and the emperor, evidence of having touched the sky. Shen spoke in Giant's Runic and revealed he was the first of his bloodline to touch the sky and planned to be the last. He tried to destroy the sky using [[Starfall]] and was not entirely successful. His goal is that "our rage will kill the gods." Shen fell unconscious after speaking, and Jade dismissed the party.
 

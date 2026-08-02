@@ -217,3 +217,4 @@
 ## [2026-08-02] lint | Stefan Quist → Stephanne Quist — Renamed character entity and corrected canon links and prose.
 ## [2026-08-02] query | Lydriel Gondara — Audited transcript variants and Order of Seasons associations.
 ## [2026-08-02] lint | Lydriel Gondara → Illidrielle Gandara — Renamed character, added aliases, and completed Antumbra record.
+## [2026-08-02] lint | Naomi → Naomi Ue — Renamed character entity and corrected canon links and prose.

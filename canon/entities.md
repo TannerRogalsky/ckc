@@ -65,8 +65,8 @@
 - [[Solar Flare]] — Tall woman with shining light seen by Vokenar 60 years ago
 - [[Deep World Wizard]] — Mage in [[Darvinblast]] allied with an [[Etten]] champion
 - [[Queen Caeradwyn]] — Former elven queen whose fall enabled Aramil Kiirnodel's rise and preceded elven uprisings and the Cataclysm
-- [[Vanzia Vinfei]] — High elf paladin revolutionary who escaped Brimbolyn with Ceril; now operating in the Broyish Capital alongside Naomi
-- [[Naomi]] — Underground fixer in the Broyish Capital who absolves criminal records through magically stamped documents
+- [[Vanzia Vinfei]] — High elf paladin revolutionary who escaped Brimbolyn with Ceril; now operating in the Broyish Capital alongside Naomi Ue
+- [[Naomi Ue]] — Underground fixer in the Broyish Capital who absolves criminal records through magically stamped documents
 - [[Chan Hu]] — Ancient-world survivor and merchant in the Broyish market; previously known as "The Emerald Leaf" and knew Master Lee
 - [[Courteous Cam]] — Dwarf farmer-trader who gave Ceril seeds, a scroll, and the gnoll Penumbra lead
 - [[Father Warwick]] — High-ranking priest of Sigil, petrified for ~70 years at Temple of Sigil; de-petrified by Ceril in session 025

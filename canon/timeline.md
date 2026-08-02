@@ -560,10 +560,10 @@
 - The party defeats the oni near the coast. The oni regenerate but disintegrate into black ash when killed.
 - The saved civilians are Trent and Abby from [[Southport]]. They seek a cure for [[Mana Sickness]], a contagious plague spreading through Southport from the [[Mana Sea]]. The correct cure requires [[Deep Roses]] — herbs growing exclusively underwater in the Mana Sea.
 - Trent and Abby guide the party through winding stairs into an industrial steel town with whirring gears, copper electrical cables, and automated magic-powered devices.
-- [[Oni]] sentries guard the approach, some invisible. [[Vokenar]] uses scouting magic to find a safe route and discover [[Naomi]]'s dive bar.
-- Naomi operates as an underground fixer, absolving criminal records through magically stamped documents in coordination with an armored elf government associate.
-- The party pays Naomi 10 pounds of mithril to clear their automated oni warrants.
-- [[Vanzia Vinfei]] — who escaped [[Brimbolyn]] with [[Ceril]] decades earlier — is reunited with Ceril. She now operates alongside Naomi in the [[Broyish Capital]].
+- [[Oni]] sentries guard the approach, some invisible. [[Vokenar]] uses scouting magic to find a safe route and discover [[Naomi Ue]]'s dive bar.
+- Naomi Ue operates as an underground fixer, absolving criminal records through magically stamped documents in coordination with an armored elf government associate.
+- The party pays Naomi Ue 10 pounds of mithril to clear their automated oni warrants.
+- [[Vanzia Vinfei]] — who escaped [[Brimbolyn]] with [[Ceril]] decades earlier — is reunited with Ceril. She now operates alongside Naomi Ue in the [[Broyish Capital]].
 - Vanzia confirms [[Obould]] is held by [[Vizier Jade]] as prisoner of war and leverage against [[The League of New Stark]]. She offers to lead the party to Obould but warns Vizier Jade must be confronted first.
 - The party learns the capital has magic restrictions: permanent dead magic zones in hotels and fields suppressing spells below 7th level. Spell scrolls are contraband.
 - [[Red Caesar]] receives citizenship papers and a teleport circle scriptum back to [[Brimbolyn]]. He meets [[Chan Hu]], an ancient-world survivor who recognizes him as a member of [[Heaven's Bulb]].

@@ -2,7 +2,7 @@
 type: session
 session: "023"
 chunks: 3
-summary: "Party sails to Broy, battles titans and oni, enters the imperial capital, meets Vanzia and Naomi, and learns Shen is Domyx's grandfather."
+summary: "Party sails to Broy, battles titans and oni, enters the imperial capital, meets Vanzia and Naomi Ue, and learns Shen is Domyx's grandfather."
 ---
 
 ## Chunks
@@ -23,11 +23,11 @@ The party defeated the oni near the coast. The oni regenerated but were overwhel
 
 The human and tiefling the party had saved were from [[Southport]]. The human, Trent, and his wife Abby had come to [[Broy]] seeking a cure for [[Mana Sickness]], which was afflicting their children and spreading through Southport. They had purchased the wrong herbs — remedies for a different magical illness. [[Ceril]] identified the herbs and learned the correct cure requires [[Deep Roses]], herbs that grow exclusively underwater in the [[Mana Sea]]. The Mana Sickness is contagious, and victims eventually fall into an impenetrable slumber as their souls diffuse into the weave. The couple offered to guide the party into the city in exchange for eventual help reaching civilization.
 
-The party was led through winding stairs into an industrial steel town with whirring gears, copper electrical cables, and automated wheeled devices. [[Oni]] sentries were perched on pillars overlooking the town, some invisible. [[Vokenar]] used scouting magic to find a safe route and discovered [[Naomi]]'s dive bar and her operation as an underground fixer who absolves criminal records through magically stamped documents.
+The party was led through winding stairs into an industrial steel town with whirring gears, copper electrical cables, and automated wheeled devices. [[Oni]] sentries were perched on pillars overlooking the town, some invisible. [[Vokenar]] used scouting magic to find a safe route and discovered [[Naomi Ue]]'s dive bar and her operation as an underground fixer who absolves criminal records through magically stamped documents.
 
-The party entered Naomi's tavern, where they were recognized as outsiders. [[Vanzia Vinfei]] — an old ally who had escaped [[Brimbolyn]] with [[Ceril]] decades earlier — was present. She and Ceril were reunited after many years. Vanzia was now operating alongside Naomi in the [[Broyish Capital]].
+The party entered Naomi Ue's tavern, where they were recognized as outsiders. [[Vanzia Vinfei]] — an old ally who had escaped [[Brimbolyn]] with [[Ceril]] decades earlier — was present. She and Ceril were reunited after many years. Vanzia was now operating alongside Naomi Ue in the [[Broyish Capital]].
 
-Naomi revealed the party had automated warrants issued by the [[Oni]] for their killings near the coast. She offered to clear the warrants for 10 pounds of mithril, which the party paid. An elf associate — an armored woman who appeared to hold official government position — stamped the documents to void them.
+Naomi Ue revealed the party had automated warrants issued by the [[Oni]] for their killings near the coast. She offered to clear the warrants for 10 pounds of mithril, which the party paid. An elf associate — an armored woman who appeared to hold official government position — stamped the documents to void them.
 
 Vanzia confirmed that [[Obould]] is in the custody of [[Vizier Jade]] as prisoner of war and leverage against [[The League of New Stark]]. She offered to lead the party to Obould but warned Jade must be confronted first. She offered citizenship papers to [[Red Caesar]] and a teleport circle scriptum back to [[Brimbolyn]].
 
@@ -57,7 +57,7 @@ The party returned to [[The Opal]]. During his night watch, [[Vokenar]] checked 
 
 ### Summary
 
-The party arrived at the [[Broyish Empire]], survived a titan attack, and entered the imperial capital. They cleared their warrants through [[Naomi]] and reunited [[Ceril]] with [[Vanzia Vinfei]]. The party had audience with [[Vizier Jade]] and [[Emperor Shen]], learning that Shen is [[Domyx]]'s grandfather and [[Emperor Shen]]. Jade demanded fifteen pieces of [[Penumbra]] for [[Obould]]'s freedom. [[Theo Harvey]] vanished from his cage during the night.
+The party arrived at the [[Broyish Empire]], survived a titan attack, and entered the imperial capital. They cleared their warrants through [[Naomi Ue]] and reunited [[Ceril]] with [[Vanzia Vinfei]]. The party had audience with [[Vizier Jade]] and [[Emperor Shen]], learning that Shen is [[Domyx]]'s grandfather and [[Emperor Shen]]. Jade demanded fifteen pieces of [[Penumbra]] for [[Obould]]'s freedom. [[Theo Harvey]] vanished from his cage during the night.
 
 ### Connections
 

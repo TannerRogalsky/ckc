@@ -72,7 +72,7 @@ related:
   - "[[The Church of the Thirty Lights]]"
   - "[[Cutlass Cray]]"
   - "[[Vizier Jade]]"
-  - "[[Naomi]]"
+  - "[[Naomi Ue]]"
   - "[[David Harvey]]"
   - "[[Theotropa]]"
   - "[[The White Drake]]"
@@ -179,7 +179,7 @@ Cast Legend Lore on the [[Tome of Satariel]], revealing the Tome is made of 666 
 
 Fought alongside the party against [[Baron Akathian the Second]] and the frost titan during a storm. Healed the party and both titans after the battle.
 
-Used Divine Intervention to scout the [[Broyish Capital]], discovering [[Naomi]]'s tavern and mapping safe routes through the city avoiding [[Oni]] sentry positions. Protected a human and tiefling woman surrounded by Oni demons on the coast. Proposed that the party help the Southport couple with their plague.
+Used Divine Intervention to scout the [[Broyish Capital]], discovering [[Naomi Ue]]'s tavern and mapping safe routes through the city avoiding [[Oni]] sentry positions. Protected a human and tiefling woman surrounded by Oni demons on the coast. Proposed that the party help the Southport couple with their plague.
 
 Scryed on [[Obould]], finding him far inland in the mountains of the [[Broyish Empire]], in manacles and being led by [[Vizier Jade]]. Vizier Jade cast See Invisibility to find the scrying sensor, then dispelled the spell entirely.
 
