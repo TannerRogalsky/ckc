@@ -223,3 +223,5 @@
 ## [2026-08-02] lint | Janira → Janeera — Renamed character, retained transcript spelling as alias, and corrected canon links.
 ## [2026-08-02] update | Mayor Yoris — Added Southport mayor and linked Janeera's arrival prophecy.
 ## [2026-08-02] update | Arkadia dead — Added Igden and Tyson Cromwell; expanded Master Vlerro's reunion record.
+## [2026-08-02] update | Quartz v5 workflow plugin installation
+## [2026-08-02] update | Quartz v5 disabled broken default theme plugin

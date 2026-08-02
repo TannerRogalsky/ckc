@@ -22,6 +22,15 @@ config.configuration.baseUrl = baseUrl
 config.configuration.enableSPA = true
 config.configuration.enablePopovers = true
 
+// Quartz v5.0.0's Obsidian template enables a "default" external theme package
+// that is not published/loadable. Quartz's built-in theme configuration remains
+// active when this optional plugin is disabled.
+for (const plugin of config.plugins ?? []) {
+  if (plugin.source === "@quartz-themes/core") {
+    plugin.enabled = false
+  }
+}
+
 await writeFile(configPath, YAML.stringify(config), "utf8")
 
 const indexPath = path.join(process.cwd(), "content", "index.md")
