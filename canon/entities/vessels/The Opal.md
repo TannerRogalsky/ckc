@@ -2,7 +2,7 @@
 type: vessel
 subtypes: [ship]
 session_introduced: "001"
-sessions_appeared: ["013", "015", "016", "024", "025", "026", "027", "030", "031", "032"]
+sessions_appeared: ["013", "015", "016", "024", "025", "026", "027", "030", "031", "032", "033"]
 related:
   - "[[Obould]]"
   - "[[Kerben]]"
@@ -20,10 +20,10 @@ The ship on which the party travels. Captained by [[Obould]], a gaudy orc. Navig
 | Acting Captain | [[Kerben]] | Took command after Obould's departure. Navigator and primary scout. |
 | Navigator / Crow's Nest | [[Raxxy]] | Jack-of-all-trades; works the rigging and handles astrology with Kerben. |
 | Carpenter | [[Otto]] | Boat repairman recruited in [[Cutlass Cray]]. |
-| Master Gunner | [[Trent]] | Cannon specialist. Departed with [[Ebi]] to help cure the [[Mana Sickness]] in [[Southport]]. |
-| Master Gunner | [[Ulrich Fjoller]] | Took over gunner duties after Trent departed. Freed from the [[Prison of Frost]] in session 024. |
+| Former Master Gunner | [[Trent Indorra]] | Cannon specialist who returned to [[Southport]] with [[Ebbie Indorra]]. |
+| Master Gunner | [[Ulrich Fjoller]] | Took over gunner duties after Trent Indorra departed. Freed from the [[Prison of Frost]] in session 024. |
 | Cook | [[Mobley]] | Antisocial older crew member. |
-| Healer | [[Ebi]] | Tended the sickbay. Departed with [[Trent]] to help cure the [[Mana Sickness]] in [[Southport]]. |
+| Former Healer | [[Ebbie Indorra]] | Tended the sickbay before returning to [[Southport]] with [[Trent Indorra]]. |
 | Crew | [[Yalet Mora]] | Stone-bodied Galeb Duurr; can roll in boulder form. |
 | Crew | [[Lorelei]] | [[Domyx]]'s sister; joined after being freed from the titan homeland in session 024. |
 | Janitor | [[Rella Kel'Navvi]] | Uses blink ability to teleport trash and misplaced items. |
@@ -42,3 +42,5 @@ In session 027, [[The Opal]] was fully repaired in [[Cutlass Cray]]. It was also
 In session 030, while the party explored [[The Carrot Cake]], The Opal came under attack from multiple [[Broyish Empire]] boats. [[Kerben]] arrived in time to help repel the first wave, then sent [[Tango]] to warn the party that a larger force was approaching. The shattered moon made the night especially dark, giving the Empire cover to maneuver around the elves and [[The Order of Seasons]].
 
 In session 031, Kerben commanded The Opal through the next phase of the imperial attack. The crew used the upgraded cannons and arbalest to cripple an imperial escort, then Kerben released the bound air elemental and activated a ghost-ship feather token to make the ship invisible. The Opal escaped west toward [[Lyngbakr Lagoon]] with no crew lost, though it remained damaged and required repairs. Later, [[Vokenar]] returned the party to the ship by Word of Recall, and the invisible Opal retrieved [[Red Caesar]] after [[Lyngbakr]] repaired the sky.
+
+In session 033, [[Southport]] installed a voice-pipe communication system and tripled the dormitory capacity in gratitude for the party ending [[Mana Sickness]]. Eleven Southport deckhands joined the crew, bringing The Opal to twenty assorted deckhands in addition to its named officers and specialists.

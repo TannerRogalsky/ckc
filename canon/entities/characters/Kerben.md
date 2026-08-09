@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "011", "012", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032"]
+sessions_appeared: ["001", "011", "012", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033"]
 aliases:
   - Kerbin
   - Curbin
@@ -49,8 +49,9 @@ related:
   - "[[David Harvey]]"
   - "[[Brim the Bullywog]]"
   - "[[Theotropa]]"
-  - "[[Trent]]"
-  - "[[Ebi]]"
+  - "[[Trent Indorra]]"
+  - "[[Ebbie Indorra]]"
+  - "[[Victor, the Amphibious Beast]]"
   - "[[Southport]]"
   - "[[Thalasia]]"
   - "[[The Academy]]"
@@ -183,7 +184,7 @@ In the [[Hole Shebang]], Kerben fought through encounters with [[Roger Ribbons]]
 
 After the party sailed south from [[Thalasia]], Kerben used his invisibility and lockpicking skills to sneak aboard [[The White Drake]] while docked in [[Broy]]. Using [[Zulu]] as a distraction, he lockpicked into the ship's hold and pitched the [[Antumbra]] sphere among the League's stockpiled [[Penumbra]] stones. This act of sabotage was intended to poison the League's Penumbra supply when it was eventually handed off to the [[Broyish Empire]] and fed into [[Starfall]].
 
-Kerben took on the role of acting captain of [[The Opal]] while [[Red Caesar]] was away working on the [[Antumbra]] synthesis at [[The Academy]] in [[Brimbolyn]]. He recruited [[Trent]] and [[Ebi]] aboard during their passage through [[Southport]] waters. He also gained the Roving ranger feature, enhancing his combat capabilities.
+Kerben took on the role of acting captain of [[The Opal]] while [[Red Caesar]] was away working on the [[Antumbra]] synthesis at [[The Academy]] in [[Brimbolyn]]. He recruited [[Trent Indorra]] and [[Ebbie Indorra]] aboard during their passage through [[Southport]] waters. He also gained the Roving ranger feature, enhancing his combat capabilities.
 
 ## Session 026
 
@@ -202,3 +203,7 @@ After returning to [[The Carrot Cake]], Kerben followed an imperial force that h
 ## Session 032
 
 Kerben discovered that his ranger egg can temporarily store [[The Opal]] and its crew in an extradimensional space. He used the capability to support the covert approach to the [[Broyish Capital]], then joined [[Red Caesar]] and Ceril in exposing the city's false sky and recovering Domyx.
+
+## Session 033
+
+Kerben brought [[Victor, the Amphibious Beast]] through the [[Mana Sea]], collected rare swamp ingredients, and recovered [[Rahmadi]]'s cloak from a failed expedition. During the [[Aboleth]] battle, [[Domyx]] freed him from a tentacle and Kerben immediately killed the creature with a sustained blade assault. Kerben then prepared to advance to level 13.

@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc, antagonist]
 session_introduced: "011"
-sessions_appeared: ["011", "013", "023", "024", "026", "030", "031", "032"]
+sessions_appeared: ["011", "013", "023", "024", "026", "030", "031", "032", "033"]
 aliases:
   - Domyx's Ancestor
   - Domyx Acathian III
@@ -47,3 +47,7 @@ When Red Caesar placed himself between Emperor Shen and [[Master Lee]], Emperor 
 Emperor Shen came ashore at [[Lyngbakr Lagoon]] with [[Vizier Jade]], using [[Obould]] as hostage to demand the [[Penumbra]]. He threatened to destroy the settlement, then continue destroying each place the party fled to until they surrendered. When [[Kerben]] shot him, the damage broke part of his mask and revealed that Emperor Shen's apparent decrepitude was at least partly a ruse: beneath the mask, his face looked much like [[Domyx]]'s.
 
 After Domyx swapped places with Obould, Emperor Shen seized the caged Domyx and departed in golden light, declaring that his grandson would be returned to the Empire and disciplined. During the confrontation, the party revealed that they had learned [[Starfall]] is hidden in [[Axis Mundi]].
+
+## Session 033
+
+[[Lodestar]]'s divination indicated that Emperor Shen had lost access to some of his former magic and would remain inactive until at least the next moon. The party used this respite to pursue other existential threats.

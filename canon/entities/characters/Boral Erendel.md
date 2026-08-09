@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc, antagonist]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "022", "032"]
+sessions_appeared: ["001", "013", "014", "015", "022", "032", "033"]
 aliases:
   - Boril Arangel
 related:
@@ -22,3 +22,5 @@ In session 015, [[Red Caesar]] and [[Ceril]] visited Boral at his side office at
 Red and Ceril were horrified by his plan. Ceril called him an apostate whose inherent dangers magnify the Demi-Spell's evil "ten times." He proposed capturing or assassinating the [[Rakshasa]] as leverage against Keys to halt the Demi-Spell entirely.
 
 In session 022, [[Red Caesar]] reported to [[Risolvir Kiirnodel]] that Boral had gone "off the rails" at [[The Garden]], adding nearly a hundred pages of his own design to the [[Demi-Spell]] and developing extreme political ideas. Risolvir agreed to send someone to retrieve him.
+
+By session 033, the party understood that Boral Erendel's active laboratory lies beneath [[Brimbolyn]]. They chose to confront him after dealing with the [[Tome Keeper]].

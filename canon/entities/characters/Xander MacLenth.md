@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc]
 session_introduced: "013"
-sessions_appeared: ["013"]
+sessions_appeared: ["013", "033"]
 aliases:
   - Xander McClent
   - McClent

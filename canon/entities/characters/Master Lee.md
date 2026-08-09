@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc]
 session_introduced: "002"
-sessions_appeared: ["002", "025", "030"]
+sessions_appeared: ["002", "025", "030", "033"]
 aliases:
   - Master Li
 related:

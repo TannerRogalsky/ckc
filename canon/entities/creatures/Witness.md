@@ -1,11 +1,13 @@
 ---
 type: creature
 session_introduced: "025"
-sessions_appeared: ["025"]
+sessions_appeared: ["025", "033"]
 related:
   - "[[PAXO]]"
   - "[[Southern Archipelago Castle]]"
-  - "[[Half Chart of the Witness]]"
+  - "[[Chart of the Witness]]"
 ---
 
-A powerful construct that mapped the entirety of [[Stark]] before [[The Cataclysm]]'s flood. Witness created a detailed map showing places now submerged underwater. After the waters began rising, Witness made his residence among humans in the [[Southern Archipelago Castle]]. A wicked new construct — [[PAXO]] — appeared and chased Witness away, then massacred the humans who had sheltered there. Witness's fate remains unknown. The party recovered half of Witness's map from the castle's inner sanctum.
+A powerful construct that mapped all of [[Stark]] before [[The Cataclysm]], walking across ocean floors and mountain peaks without regard for terrain. Witness stayed with humans in the [[Southern Archipelago Castle]] until [[PAXO]] hunted him away and massacred those who had sheltered him.
+
+Witness divided the encoded [[Chart of the Witness]] between trusted keepers, including [[Janeera]]. After completing his map, he left Stark to chart another plane. The party recovered and recombined both halves of his world chart in session 033.

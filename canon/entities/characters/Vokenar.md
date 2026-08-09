@@ -20,7 +20,7 @@ aliases:
   - Vokun
   - Vokunov
 session_introduced: "001"
-sessions_appeared: ["001", "011", "012", "013", "014", "015", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032"]
+sessions_appeared: ["001", "011", "012", "013", "014", "015", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033"]
 related:
   - "[[Arkadia]]"
   - "[[Sigil]]"
@@ -244,3 +244,7 @@ On [[Hole on Wheels]], Vokenar cast a blade barrier down the train, tearing open
 ## Session 032
 
 Ceril recovered Vokenar's body from the [[Dawn Palace]] and reincarnated him at the [[Temple of Sigil]]. He returned as a high elf rather than an aasimar. The ritual revealed that [[Boral Erendel]]'s changes to the [[Demi-Spell]] have constrained reincarnation to elven forms, making Vokenar's new body evidence of an ongoing cosmological threat.
+
+## Session 033
+
+Vokenar used Legend Lore to reveal [[Ninki Nanka]] as [[Windsurf]]'s ancient defender and a likely victim of the Mana Sickness curse. In the [[Mana Sea]], he helped break the [[Aboleth]]'s control over its thralls and sustained the party through the battle. His Arcane Eye located Ninki Nanka, the missing half of the [[Chart of the Witness]], and the dragon's abandoned hoard. Before leaving [[Southport]], he established a holy return point there and prepared to advance to level 13.

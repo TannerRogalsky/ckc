@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033"]
 aliases:
   - Domyx Akathian
   - Domix
@@ -214,3 +214,7 @@ At [[Lyngbakr Lagoon]], [[Emperor Shen]] and [[Vizier Jade]] arrived with [[Obou
 ## Session 032
 
 Shen held Domyx in the [[Dawn Palace]] and tried to persuade him to become imperial heir. Domyx remained defiant, then recognized that Jade's frustration with Shen could give him time to survive. Jade ultimately faked his death and freed him during the palace uprising. Ceril restored Domyx from the ordeal, after which he rejoined the party and helped secure Vokenar's body.
+
+## Session 033
+
+Domyx guarded the party through the [[Mana Sea]] and broke [[Kerben]] free from the [[Aboleth]] while restraining the creature himself. He later tested the poisonous approach to [[Ninki Nanka]]'s cave, proving that magical protection would be required. During [[The Opal]]'s Southport refit, he helped residents carry and install the new ship fittings, then prepared to advance to level 13.

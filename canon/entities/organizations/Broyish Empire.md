@@ -2,7 +2,7 @@
 type: organization
 subtypes: [empire]
 session_introduced: "004"
-sessions_appeared: ["013", "014", "016", "022", "023", "030", "031"]
+sessions_appeared: ["013", "014", "016", "022", "023", "030", "031", "033"]
 aliases:
   - Dawn Empire
 related:
@@ -43,3 +43,7 @@ The Empire also made a direct move inside the Carrot Cake after the party lit al
 The Empire escalated from scouting to open naval assault. Its ships attacked [[The Opal]], pursued the party to [[The Carrot Cake]], recaptured [[Theo Harvey]], and forced him to guide an imperial force led by [[Fharan]] into the park. Fharan's group failed to open [[Jack Harvey]]'s inner sanctum and was defeated by the party.
 
 The imperial flagship [[Imperial Xihe]] then reached [[Lyngbakr Lagoon]] with [[Emperor Shen]] and [[Vizier Jade]]. The Empire landed troops around the refuge and used [[Obould]] as hostage to demand the Penumbra. During the confrontation, the party revealed that they knew [[Starfall]] was hidden at [[Axis Mundi]]. Emperor Shen captured [[Domyx]], and Vizier Jade killed [[Vokenar]] and took his body.
+
+## Session 033
+
+[[Lodestar]] reported that Broyish Empire troops and ships were retreating amid a power vacuum in the east. [[Emperor Shen]] appeared weakened and was not expected to act before the next moon.

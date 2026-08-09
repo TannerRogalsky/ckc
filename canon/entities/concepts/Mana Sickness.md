@@ -2,16 +2,17 @@
 type: concept
 subtypes: [lore]
 session_introduced: "023"
-sessions_appeared: ["023", "025"]
+sessions_appeared: ["023", "025", "033"]
 related:
   - "[[Mana Sea]]"
   - "[[Southport]]"
   - "[[Deep Roses]]"
-  - "[[Trent]]"
-  - "[[Ebi]]"
-  - "[[Father Warwick]]"
+  - "[[Trent Indorra]]"
+  - "[[Ebbie Indorra]]"
+  - "[[Father Warrick]]"
+  - "[[Ninki Nanka]]"
 ---
 
-A contagious sickness originating from the [[Mana Sea]] near [[Southport]]. It affects children who attempt to cast spells before they are ready, and is spreading through Southport's population. Victims' eyes go dark and they eventually fall into an impenetrable slumber as their souls diffuse into the weave. The disease is treatable within a window of several months before it becomes fatal.
+A contagious sickness that spread from [[Ninki Nanka]] through the [[Mana Sea]] near [[Southport]]. Although early cases appeared among children who attempted magic before they were ready, the contagion eventually affected non-spellcasters and elderly people as well. Victims' eyes go dark and they eventually fall into an impenetrable slumber as their souls diffuse into the weave.
 
-The proper cure requires [[Deep Roses]], herbs that grow exclusively underwater in the Mana Sea. A human couple encountered by the party had mistakenly purchased surface herbs intended for a different magical illness, not realizing they needed deep roses.
+[[Deep Roses]] cure individual victims, but did not stop reinfection while the source remained. Fallen [[Penumbra]] had reacted with Ninki Nanka's body and cursed the dragon into continuously radiating the disease. In session 033, [[Ceril]] removed the curse with Greater Restoration, ending new infections; Southport expects recovery to take several months.

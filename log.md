@@ -226,3 +226,7 @@
 ## [2026-08-02] update | Quartz v5 workflow plugin installation
 ## [2026-08-02] update | Quartz v5 disabled broken default theme plugin
 ## [2026-08-02] update | Pinned Quartz v5 build revision
+## [2026-08-09] ingest | session_033 — Created summary, timeline, entities, and quest updates.
+## [2026-08-09] lint | Canonicalized Father Warrick, Trent Indorra, Ebbie Indorra, and Rahmadi.
+## [2026-08-09] lint | session_033 — Validated links, frontmatter, entity index, quests, and session structure.
+## [2026-08-09] lint | log.md — Historical entries exceed 25 words; preserved under append-only policy.

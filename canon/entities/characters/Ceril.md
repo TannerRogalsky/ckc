@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033"]
 related:
   - "[[Vanzia Vinfei]]"
   - "[[House Kiirnodel]]"
@@ -160,7 +160,7 @@ After [[Domyx]] was swallowed by the Remorhaz, Ceril helped coordinate the rescu
 
 As the party sailed south from [[Thalasia]], [[Ceril]] used a divine summoning spell to contact [[Aeris]] (also called Eris). She was in a dark, windowless room with a single candle, and Ceril cast Continual Flame to provide her light. Eris confirmed that deploying the [[Antumbra]] would not harm the piece of herself trapped within [[Starfall]].
 
-Ceril visited the [[Temple of Sigil]] on Otyugh Isle with [[Domyx]], where they encountered 12 petrified priests and 19 petrified Kuo-Toa who had been turned by a cockatrice. Ceril cast Greater Restoration on [[Father Warwick]], the highest-ranking priest, de-petrifying him first. Warwick then used his own abjuration abilities to de-petrify several more priests. The freed priests planned to head to [[Southport]] to help combat the [[Mana Sickness]] plague. Ceril also encountered a cockatrice in the temple and dealt with it during their visit.
+Ceril visited the [[Temple of Sigil]] on Otyugh Isle with [[Domyx]], where they encountered 12 petrified priests and 19 petrified Kuo-Toa who had been turned by a cockatrice. Ceril cast Greater Restoration on [[Father Warrick]], the highest-ranking priest, de-petrifying him first. Father Warrick then used his own abjuration abilities to de-petrify several more priests. The freed priests planned to head to [[Southport]] to help combat the [[Mana Sickness]] plague. Ceril also encountered a cockatrice in the temple and dealt with it during their visit.
 
 ## Session 027
 
@@ -191,3 +191,7 @@ After the party brought the condensed [[Penumbra]] to [[Lyngbakr Lagoon]], Ceril
 ## Session 032
 
 Ceril crossed into [[Arkadia]] with [[Alamar]] and consulted [[Aeris]], [[Sigil]], and [[Crone]]. Learning that Vokenar could be restored, he returned to Stark through a closing sky passage, helped expose the Broyish capital's false sky, and recovered Vokenar's body. At the [[Temple of Sigil]], he reincarnated Vokenar as a high elf, discovering that [[Boral Erendel]]'s Demi-Spell changes have constrained reincarnation to elven forms.
+
+## Session 033
+
+Ceril identified the psychic command binding driders in the [[Mana Sea]], revealed the invisible [[Aboleth]] with Starry Wisp, and helped destroy it. Following [[Lodestar]]'s warning, he preserved Greater Restoration until [[Red Caesar]] delivered him through [[Ninki Nanka]]'s poisonous cave in a protective sphere. Ceril removed the dragon's Penumbra-born curse, ending the source of [[Mana Sickness]], and prepared to advance to level 13.

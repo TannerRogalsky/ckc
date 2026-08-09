@@ -558,8 +558,8 @@
 ### Chunk 0001
 
 - The party defeats the oni near the coast. The oni regenerate but disintegrate into black ash when killed.
-- The saved civilians are Trent and Abby from [[Southport]]. They seek a cure for [[Mana Sickness]], a contagious plague spreading through Southport from the [[Mana Sea]]. The correct cure requires [[Deep Roses]] — herbs growing exclusively underwater in the Mana Sea.
-- Trent and Abby guide the party through winding stairs into an industrial steel town with whirring gears, copper electrical cables, and automated magic-powered devices.
+- The saved civilians are [[Trent Indorra]] and [[Ebbie Indorra]] from [[Southport]]. They seek a cure for [[Mana Sickness]], a contagious plague spreading through Southport from the [[Mana Sea]]. The correct cure requires [[Deep Roses]] — herbs growing exclusively underwater in the Mana Sea.
+- Trent Indorra and Ebbie Indorra guide the party through winding stairs into an industrial steel town with whirring gears, copper electrical cables, and automated magic-powered devices.
 - [[Oni]] sentries guard the approach, some invisible. [[Vokenar]] uses scouting magic to find a safe route and discover [[Naomi Ue]]'s dive bar.
 - Naomi Ue operates as an underground fixer, absolving criminal records through magically stamped documents in coordination with an armored elf government associate.
 - The party pays Naomi Ue 10 pounds of mithril to clear their automated oni warrants.
@@ -648,15 +648,15 @@
 - Using the "Caesarean method," Red Caesar compressed [[Akasha]] through magical pressure using Otiluke's Resilient Sphere and inverted enlarge/reduce spells. After multiple iterations compressing an entire lake roughly a thousand-fold, the process produced a palm-sized sphere of jet-black synthesized [[Penumbra]].
 - [[Illidrielle Gandara]] and [[Keys]] poisoned the Antumbra using a method concealed by illusion, ensuring the poison would not infect their own samples.
 - [[Kerben]] took on the role of acting captain of [[The Opal]] during Red Caesar's absence.
-- The party recruited [[Trent]] and [[Ebi]] aboard — a couple fleeing the [[Mana Sickness]] in [[Southport]]. Trent was assigned as master gunner.
+- The party recruited [[Trent Indorra]] and [[Ebbie Indorra]] aboard — a couple fleeing the [[Mana Sickness]] in [[Southport]]. Trent Indorra was assigned as master gunner.
 - [[Vokenar]] discovered a hidden [[Penumbra]] stash aboard [[The White Drake]] in the ship's hold and proposed planting the Antumbra among it.
 - [[Vokenar]] consulted [[Sigil]], learned [[Obould]] was in less danger than he appeared, and departed [[The Opal]] to resume training with [[Sigil]] and [[Crone]].
 - [[Ceril]] contacted [[Aeris]] through a divine summoning. Aeris confirmed that sending the Antumbra toward [[Starfall]] would not risk the piece of herself trapped within the device.
 - [[Kerben]] sneaked aboard [[The White Drake]] while docked in [[Broy]], using invisibility and lockpicking. With [[Zulu]] as a distraction, he pitched the Antumbra among the League's stockpiled Penumbra stones.
 - [[Ceril]] and [[Domyx]] visited the [[Temple of Sigil]] on [[Otyugh Isle]], discovering 12 petrified priests and 19 petrified Kuo-Toa who had been turned by a cockatrice approximately 70 years earlier.
-- [[Ceril]] cast Greater Restoration on [[Father Warwick]], the highest-ranking priest, de-petrifying him first. Warwick then used his own abjuration abilities to de-petrify several more priests.
+- [[Ceril]] cast Greater Restoration on [[Father Warrick]], the highest-ranking priest, de-petrifying him first. Father Warrick then used his own abjuration abilities to de-petrify several more priests.
 - The freed priests planned to return to [[Southport]] to help combat the [[Mana Sickness]] plague.
-- [[Rochella Golf]], Trent, and Ebi disembarked near Southport to pursue their respective goals.
+- [[Rochella Golf]], Trent Indorra, and Ebbie Indorra disembarked near Southport to pursue their respective goals.
 
 ### Chunk 0001
 
@@ -665,7 +665,7 @@
 - A drowned sailor victim with a lapis lazuli locket is recovered from the siren's garden.
 - Six days later, the party reaches the [[Southern Archipelago Castle]], former residence of [[Witness]].
 - [[Red Caesar]] uses Speak with Dead on a corpse, learning that [[PAXO]] — a wicked construct — chased Witness away and massacred the castle's human inhabitants. The corpse reveals [[Heaven's Bulb]] tried to help but was too weak.
-- The party clears the castle's black pollen, finding 50 pounds of mithril and the [[Half Chart of the Witness]] in the inner sanctum.
+- The party clears the castle's black pollen, finding 50 pounds of mithril and one half of the [[Chart of the Witness]] in the inner sanctum.
 - [[Kerben]] finds a [[Potion of Fluid Adamantite]].
 - The party is ambushed by [[PAXO]], a warforged construct with heat beam attacks and a reflective faceplate. They defeat it in close-quarters combat.
 - [[Zulu]] leads the party to a hidden treasury hoard of 100 pounds of [[Esperanto|Esperantan]] coins on exit.
@@ -784,7 +784,7 @@
 ### Chunk 0001
 
 - The gorgon head petrification resolved: [[Domyx]] burst free from the stone. [[Vokenar]] used Lesser Restoration on himself.
-- The party explored the [[Magic Hat]] hotel interior — three levels, ~30 rooms, amenities including chocolate fountain and mini bar. [[Ceril]] found a purple worm hide rug with amethysts and carrot-infused tobacco. [[Vokenar]] found [[Ramadi's Capers]] issue 4.
+- The party explored the [[Magic Hat]] hotel interior — three levels, ~30 rooms, amenities including chocolate fountain and mini bar. [[Ceril]] found a purple worm hide rug with amethysts and carrot-infused tobacco. [[Vokenar]] found [[Rahmadi's Capers]] issue 4.
 - A [[Magen]] maitre d' read the party's minds and delivered personalized food during the long rest.
 - [[Kerben]] sent a message via animal messenger warning that [[Broyish Empire]] scouts may be specifically investigating The Carrot Cake.
 - [[Red Caesar]] flipped the Magic Hat lamp lighter switch, lighting the second of four lamps for [[Jack Harvey]]'s inner sanctum.
@@ -933,3 +933,37 @@
 - [[Ceril]] reincarnates [[Vokenar]] as a high elf at the [[Temple of Sigil]].
 - [[Courteous Cam]] and [[Otto]] agree to reopen the Funnel's collapsed route into the abyss beneath [[Stark]], offering a delayed approach to [[Axis Mundi]].
 - The party sails to [[Southport]] to confront [[Mana Sickness]] while the excavation proceeds; [[Mayor Yoris]] welcomes them on [[Janeera]]'s prophecy.
+
+## Session 033
+
+### Chunk 0000
+
+- [[Mayor Yoris]] reveals that [[Deep Roses]] cure individual victims but do not stop new [[Mana Sickness]] infections.
+- [[Janeera]] identifies [[Ninki Nanka]], an ancient green dragon cursed by fallen [[Penumbra]], as the contagion's source.
+- [[Lodestar]] reunites with [[Red Caesar]] and warns the party to preserve Greater Restoration for someone they will encounter.
+- The party enters the [[Mana Sea]] with [[Victor, the Amphibious Beast]], recovers [[Rahmadi]]'s cloak, and survives magical sickness, poisonous fungi, and a bird swarm.
+- Driders and a drow cultist ambush the party among ancient webs.
+
+### Chunk 0001
+
+- The party defeats the drow cultist and drives away the surviving drider.
+- [[Ceril]] discovers a layered magical or psychic command linking the drow attackers to an unseen master.
+- The party encounters moss golems sustained by the Mana Sea's poisonous atmosphere.
+
+### Chunk 0002
+
+- The party destroys the moss golems and breaks several [[Kuo-Toa]] free from magical compulsion.
+- An invisible [[Aboleth]] emerges as the force controlling both the Kuo-Toa and the displaced drow.
+- Ceril exposes the Aboleth with Starry Wisp while it seizes party members and feeds upon their memories.
+
+### Chunk 0003
+
+- [[Domyx]] restrains the Aboleth and frees [[Kerben]], who kills the creature; its surviving Kuo-Toa thralls escape.
+- [[Vokenar]] locates Ninki Nanka, a failed Southport expedition, the missing half of the [[Chart of the Witness]], and the dragon's hoard.
+- [[Red Caesar]] sends Ceril through the poisonous cave inside a protective sphere.
+- Ceril removes Ninki Nanka's Penumbra-born curse with Greater Restoration, ending the source of Mana Sickness.
+- Ninki Nanka departs to protect the dragon's people, leaving the party to recover the chart fragment, diamonds, and the [[Tomb of Lenth the Rugged]].
+- Red Caesar decodes and recombines the Chart of the Witness; it suggests [[Axis Mundi]] lies beyond a planar boundary rather than through an ordinary underground route.
+- Lodestar reports that [[Emperor Shen]] is weakened and the [[Broyish Empire]] is retreating until at least the next moon.
+- [[Southport]] installs voice pipes and expanded dormitories aboard [[The Opal]], and eleven local deckhands join the crew.
+- The party chooses to pursue the [[Tome Keeper]] before confronting [[Boral Erendel]].

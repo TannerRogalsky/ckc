@@ -43,7 +43,7 @@
 ## De-petrify the Temple of Sigil priests
 - **Given by:** Implicit (party initiative)
 - **Resolved:** Session 025
-- **Details:** [[Ceril]] and [[Domyx]] visited the [[Temple of Sigil]] on [[Otyugh Isle]] and found 12 petrified priests and 19 petrified Kuo-Toa. [[Ceril]] de-petrified [[Father Warwick]] using Greater Restoration; Warwick then freed several more priests. The freed priests departed for [[Southport]] to help fight the [[Mana Sickness]].
+- **Details:** [[Ceril]] and [[Domyx]] visited the [[Temple of Sigil]] on [[Otyugh Isle]] and found 12 petrified priests and 19 petrified Kuo-Toa. [[Ceril]] de-petrified [[Father Warrick]] using Greater Restoration; Father Warrick then freed several more priests. The freed priests departed for [[Southport]] to help fight the [[Mana Sickness]].
 
 ## Plant Antumbra in the League's Penumbra stash
 - **Given by:** [[Red Caesar]], [[Vokenar]] (party initiative)
@@ -58,7 +58,7 @@
 ## Investigate the Southern Archipelago Castle and defeat PAXO
 - **Given by:** [[Lady Jacinthe]]
 - **Resolved:** Session 025
-- **Details:** The second quest from Jacinthe. The party reached the [[Southern Archipelago Castle]], former residence of [[Witness]]. They found evidence of a massacre, recovered the [[Half Chart of the Witness]], and defeated [[PAXO]], a warforged construct with heat beam attacks.
+- **Details:** The second quest from Jacinthe. The party reached the [[Southern Archipelago Castle]], former residence of [[Witness]]. They found evidence of a massacre, recovered one half of the [[Chart of the Witness]], and defeated [[PAXO]], a warforged construct with heat beam attacks.
 
 ## Slay the Xarag and recover lost treasure
 - **Given by:** Implicit (party initiative)
@@ -89,3 +89,13 @@
 - **Given by:** Implicit (party survival)
 - **Resolved:** Session 032
 - **Details:** [[Vizier Jade]] secretly freed [[Domyx]] during the uprising in the [[Broyish Capital]]. The party recovered [[Vokenar]]'s body from the [[Dawn Palace]], and [[Ceril]] reincarnated him as a high elf at the [[Temple of Sigil]].
+
+## Find the other half of the Witness's chart
+- **Given by:** [[Witness]] (implied)
+- **Resolved:** Session 033
+- **Details:** [[Vokenar]] found the missing half beside a failed expedition in [[Ninki Nanka]]'s cave. [[Red Caesar]] joined and decoded both halves, completing the [[Chart of the Witness]] and revealing all of old and present [[Stark]].
+
+## Cure Mana Sickness
+- **Given by:** [[Southport]] (implicit)
+- **Resolved:** Session 033
+- **Details:** [[Ceril]] reached [[Ninki Nanka]] through the dragon's poisonous cave and removed a Penumbra-born curse with Greater Restoration. This ended new [[Mana Sickness]] infections, while [[Deep Roses]] continue treating existing victims.

@@ -1,11 +1,11 @@
 # Canon Entities
 
 ## Party Members
-- [[Red Caesar]] — Wizard (Abjurer), member of Heaven's Bulb; condensed Jack Harvey's Penumbra and saw the repaired sky
-- [[Domyx]] — Barbarian from Clan Akathia, rescued from Emperor Shen's palace after freeing Obould
-- [[Kerben]] — Ranger/Rogue (Arcane Trickster), acting captain who saved The Opal and rescued Obould
-- [[Ceril]] — Druid with wild shape and an owl familiar; ascended with Lyngbakr as the sky sealed
-- [[Vokenar]] — Cleric from Arkadia, trained by goddesses; reincarnated as a high elf after Vizier Jade killed him
+- [[Red Caesar]] — Heaven's Bulb abjurer who protected Ceril's approach to Ninki Nanka and completed Witness's chart
+- [[Domyx]] — Clan Akathia barbarian who escaped Emperor Shen and helped kill the Mana Sea Aboleth
+- [[Kerben]] — Ranger/rogue, acting captain, and companion of Victor, the Amphibious Beast
+- [[Ceril]] — Druid who returned from Arkadia, restored Vokenar, and ended Mana Sickness at its source
+- [[Vokenar]] — Cleric from Arkadia, reincarnated as a high elf and guiding the party through divine magic
 
 ## Crew & Allies
 - [[Obould]] — Captain of The Opal, rescued from the Broyish Empire at Lyngbakr Lagoon
@@ -14,9 +14,9 @@
 - [[Brim the Bullywog]] — Frog-headed tinkerer aboard The Opal who helped during the imperial naval attack
 - [[Gammix]] — Dwarf fighter from the Steelfend Clan, recruited ally
 - [[Tammix]] — Dwarf fighter and brother of Gammix, recruited ally
-- [[Rochella Golf]] — Passenger or temporary crew member aboard The Opal seeking Southport
-- [[Trent]] — Sailor from Southport who briefly served as The Opal's master gunner before returning home with Ebi
-- [[Ebi]] — Healer from Southport who briefly served aboard The Opal before returning home with Trent
+- [[Rochella Golf]] — Former Opal passenger reunited with her family in Southport and recovered the Boston Golf heirloom
+- [[Trent Indorra]] — Southport sailor and mage who briefly served as The Opal's master gunner
+- [[Ebbie Indorra]] — Southport healer, Trent Indorra's wife, and sister of Lodestar
 - [[Ulrich Fjoller]] — Domyx's friend from Clan Akathia; freed from Prison of Frost, now gunner aboard The Opal
 - [[Yalet Mora]] — Stone-bodied crew member who helped keep The Opal afloat during the imperial naval attack
 - [[Aramil Kiirnodel]] — Took power after Queen Caeradwyn fell; primary force behind the Demi-Spell and painter of The Jewel of Alfheimer
@@ -27,7 +27,7 @@
 - [[Gunk Grodley]] — Dapper goblin trader who captains the Goblin Traders' ship
 - [[Vizier Jade]] — Vizier from Broy serving Emperor Shen; mind-reader who killed Vokenar and took his body
 - [[Morel Chainsunder]] — Cult leader controlling the dwarves of Darvinblast
-- [[Emperor Shen]] — Emperor of Broy, Domyx's grandfather, operator of Starfall, and captor of Domyx
+- [[Emperor Shen]] — Emperor of Broy, Domyx's grandfather, and weakened operator of Starfall
 - [[Fharan]] — Masked human seneschal of the Broyish Empire who died after revealing Starfall's next target
 - [[Master Lee]] — Figure associated with Heaven's Bulb (also called Master Li)
 - [[Keeper Rufus]] — Figure at Heaven's Bulb alongside Master Lee
@@ -36,7 +36,7 @@
 - [[Damien Ouranous]] — Aasimar envoy associated with The League of New Stark
 - [[Mudeep]] — Figure at The Garden who trades art pieces for attunable magic items
 - [[Theotropa]] — Leader of The Garden, a druid sanctuary
-- [[Boral Erendel]] — Order member stationed at The Garden, working on a side project
+- [[Boral Erendel]] — Rogue Demi-Spell architect creating high elf bodies beneath Brimbolyn
 - [[The Wonder Hulk]] — Proprietor of The W. H. Boutique in Cutlass Cray
 - [[Gilder Savar]] — Lich operating a potion shop in Cutlass Cray; former traveling companion of Ceril and Vanzia Vinfei
 - [[Pleasance MacLenth]] — Librarian at Bookbinders Cray
@@ -69,11 +69,14 @@
 - [[Queen Caeradwyn]] — Former elven queen whose fall enabled Aramil Kiirnodel's rise and preceded elven uprisings and the Cataclysm
 - [[Vanzia Vinfei]] — High elf paladin revolutionary who escaped Brimbolyn with Ceril; now operating in the Broyish Capital alongside Naomi Ue
 - [[Naomi Ue]] — Underground fixer in the Broyish Capital who absolves criminal records through magically stamped documents
-- [[Janeera]] — Seer associated with Southport who foretold the party's arrival
-- [[Mayor Yoris]] — Young mayor of Southport who welcomed the party after Janeera's prophecy
+- [[Janeera]] — Deceased Southport seer who preserved Witness's chart fragment and guided the party to Ninki Nanka
+- [[Mayor Yoris]] — Young mayor of Southport who commissioned the successful expedition to end Mana Sickness
+- [[Ninki Nanka]] — Ancient green dragon freed from the Penumbra-born curse that caused Mana Sickness
+- [[Lodestar]] — Heaven's Bulb diviner, Ebbie Indorra's sister, and Red Caesar's former colleague
+- [[Rahmadi]] — Legendary goblin rogue who led southern desert refugees to safety during the Cataclysm
 - [[Chan Hu]] — Ancient-world survivor and merchant in the Broyish market; previously known as "The Emerald Leaf" and knew Master Lee
 - [[Courteous Cam]] — Dwarf farmer-trader who gave Ceril seeds, a scroll, and the gnoll Penumbra lead
-- [[Father Warwick]] — High-ranking priest of Sigil, petrified for ~70 years at Temple of Sigil; de-petrified by Ceril in session 025
+- [[Father Warrick]] — High-ranking priest of Sigil restored by Ceril and later aiding Southport
 - [[Xander MacLenth]] — Pirate ghost released from the abandoned Far Helm Clan home
 - [[Lenth the Rugged]] — Legendary pirate, father of Xander MacLenth, had wives on every continent
 - [[Redrick Wenn]] — Dwarf whose visa was stolen by the party in [[The Pit]]
@@ -152,6 +155,8 @@
 - [[Bane Siren]] — Siren dwelling in an underwater garden among Deep Roses; twisted by the Cataclysm, defeated by the party
 - [[PAXO]] — Warforged construct with a reflective faceplate and heat beam attacks; massacred humans in the Southern Archipelago Castle before being defeated by the party
 - [[Witness]] — Construct that mapped all of Stark before the flood; chased away from the Southern Archipelago Castle by PAXO
+- [[Aboleth]] — Extraplanar memory-feeder that enslaved drow and Kuo-Toa in the Mana Sea before the party killed it
+- [[Victor, the Amphibious Beast]] — Kerben's large crocodilian companion, effective on land and in water
 
 ## Locations
 - [[Continental Stark]] — Massive elfish continent, last remnant of the Old World, home to Brimbolyn
@@ -192,11 +197,12 @@
 - [[Lyngbakr Lagoon]] — Refuge settlement near Castle Kaedon attacked by the Empire as Lyngbakr repaired the sky
 - [[Rasharan's Rock]] — Location that no longer exists
 - [[Hole in the Sky]] — Hole the party aims to find and plug
-- [[Southport]] — Port city west of The Garden, now a plague town afflicted by Mana Sickness; sought by Rochella Golf
+- [[Southport]] — Western port city recovering after the party ended the source of Mana Sickness
 - [[Temple of Sigil]] — Temple on Otyugh Isle where 12 priests and 19 Kuo-Toa were petrified by a cockatrice ~70 years ago
 - [[Broyish Capital]] — Imperial capital of the Broyish Empire; highly industrialized with oni sentries, magic restrictions, and a bustling market
 - [[Dawn Palace]] — Imperial palace in the Broyish Capital where Emperor Shen imprisoned Domyx
-- [[Mana Sea]] — Treacherous body of water near Southport; source of Mana Sickness and home to Deep Roses
+- [[Mana Sea]] — Wild-magic swamp over drowned Windsurf, formerly spreading Mana Sickness from the cursed Ninki Nanka
+- [[Windsurf]] — Pre-Cataclysm elven region now beneath the Mana Sea, formerly protected by Ninki Nanka
 - [[Thalasia]] — Continent where Domyx's titan people live, separated by treacherous mountains
 - [[Acathian Manor]] — Golden palace atop the highest mountains in Stark; ruling seat of [[Clan Akathia]]
 - [[Prison of Frost]] — Prison facility in the titan homeland where [[Ulrich Fjoller]] is held awaiting execution
@@ -208,7 +214,7 @@
 - [[Hole on Wheels]] — Scenic train zone over drowned Esperanto, containing the fourth lamp and a disabled return portal
 
 ## Vessels
-- [[The Opal]] — The party's ship, saved from the Broyish Empire by invisibility and later reunited with Obould
+- [[The Opal]] — The party's expanded ship, now equipped with voice pipes, larger dormitories, and twenty deckhands
 - [[Gheister]] — Second ship in Obould's fleet, used as the party's transport to Lyngbakr Lagoon and Castle Kaedon
 - [[The White Drake]] — Main ship of The League of New Stark
 - [[The Hideous Truth]] — Captured hobgoblin pirate galley, originally named Eschaton, hidden in a jungled grotto
@@ -226,7 +232,7 @@
 - [[House Kiirnodel]] — Elven aristocratic house encountered in Ceril's escape flashback
 - [[The League of New Stark]] — Maritime organization led by Lady Jacinthe, formerly coerced through Obould's captivity
 - [[The Order of Seasons]] — Organization mostly of elves, seeks Genesis Mundi
-- [[Broyish Empire]] — Xenophobic eastern empire ruled by Emperor Shen; openly assaulted The Opal and Lyngbakr Lagoon
+- [[Broyish Empire]] — Xenophobic eastern empire ruled by Emperor Shen, currently retreating during a temporary power vacuum
 - [[Knights of the Four Seasons]] — Elven marshal service on Continental Stark, led by Marshal Zem
 - [[Goblin Traders]] — Goblin crew operating a red-sailed trading ship on the high seas, selling poisons and magical wares
 - [[Dancing Blades]] — Thieves guild from old Kaedon, members including Clockwork who was imprisoned in Castle Kaedon
@@ -274,7 +280,7 @@
 - [[Shark's Edge]] — Kerben's +2 falchion made from a megalodon tooth; reveals water temperature by sight
 - [[Tatzelwurm Gizzard Juice]] — One-use white dragon poison crafted by Kerben from Tatzelwurm scales and darkwood bark
 - [[Antumbra]] — Poisoned, synthesized Penumbra created by Red Caesar, Keys, and Illidrielle Gandara; designed to sabotage Starfall
-- [[Half Chart of the Witness]] — One half of a pre-flood map of Stark created by the construct Witness; found in the Southern Archipelago Castle
+- [[Chart of the Witness]] — Recombined and decoded world chart showing old Stark and the present islands
 - [[Potion of Fluid Adamantite]] — Rare potion granting resistance to all damage for one minute; found in the Southern Archipelago Castle
 - [[Orkland Pin of Courage]] — Award given to Obould for saving orc tribes in southern battles decades ago
 - [[Obould's Wedding Band]] — Inscribed wedding ring belonging to Obould, possibly intended for a future betrothal
@@ -283,8 +289,11 @@
 - [[Moon Blade]] — Versatile warhammer forged from Crone's remains, traded to Vokenar by the Church of the Thirty Lights
 - [[Jack Harvey's Portrait]] — Painting of Jack Harvey recovered from the haunted living tent
 - [[Ranger Scroll]] — Ranger spell scroll found among a dead adventurer's belongings
-- [[Ramadi's Capers]] — Collectible comic series about a dashing goblin rogue; issue 4 found in Magic Hat hotel
+- [[Rahmadi's Capers]] — Collectible comic series about the legendary goblin rogue Rahmadi
 - [[Jade's Compass]] — Water-damaged treasure compass found in Jack Harvey's vault, tied to Vizier Jade and The Tyrant
+- [[Green Slaadi Whiskey]] — Volatile potion from Janeera's collection with unpredictable magical effects
+- [[Crone's Contempt]] — Potion from Janeera's collection that empowers repeated weapon strikes
+- [[Tomb of Lenth the Rugged]] — Gilded tomb and remains recovered from Ninki Nanka's abandoned hoard
 
 ## Deities
 - [[Aeris]] — Sister goddess of Chaos, Potential, and Fate (alias: The Sky); sky repaired but mortal body remains trapped in Starfall

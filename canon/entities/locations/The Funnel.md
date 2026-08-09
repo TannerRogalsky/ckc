@@ -2,7 +2,7 @@
 type: location
 subtypes: [landmark]
 session_introduced: "009"
-sessions_appeared: ["009", "032"]
+sessions_appeared: ["009", "032", "033"]
 related:
   - "[[The Pit]]"
   - "[[Axis Mundi]]"

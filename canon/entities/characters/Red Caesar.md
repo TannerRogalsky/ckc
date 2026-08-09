@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033"]
 related:
   - "[[Antumbra]]"
   - "[[Heaven's Bulb]]"
@@ -190,3 +190,7 @@ Inside Jack Harvey's underwater vault, Red Caesar used [[Obvolvo Caelum]] to con
 ## Session 032
 
 Red Caesar arranged a Broyish capital uprising through [[Naomi Ue]], then used a balloon approach and dispelling magic to expose the Empire's false sky. The disruption forced [[Emperor Shen]] and [[Vizier Jade]] to leave the [[Dawn Palace]], allowing the party to recover Domyx and Vokenar's body. Red then helped set the next strategy: support the Funnel route toward [[Axis Mundi]] while travelling to [[Southport]] to address [[Mana Sickness]].
+
+## Session 033
+
+Red Caesar reunited with [[Lodestar]], a fellow former student of [[Heaven's Bulb]]. In the [[Mana Sea]], his protective sphere contained a drider and later carried [[Ceril]] safely through [[Ninki Nanka]]'s poisonous cave. After recovering the missing half of the [[Chart of the Witness]], Red Caesar decoded and recombined the world map and prepared to advance to level 13.

@@ -2,9 +2,11 @@
 type: character
 subtypes: [crew]
 session_introduced: "013"
-sessions_appeared: ["013", "025"]
+sessions_appeared: ["013", "025", "033"]
 related:
   - "[[The Opal]]"
+  - "[[Southport]]"
+  - "[[Boston Golf]]"
 ---
 
-A passenger or temporary crew member aboard [[The Opal]], traveling toward Southport after years away from her family. She misses stable life and worries that her husband may have moved on.
+A former passenger aboard [[The Opal]] who returned to [[Southport]] after years away and reunited with her family. In session 033, she acquired the [[Boston Golf]] fortune-teller automaton from the party as a recovered family heirloom.

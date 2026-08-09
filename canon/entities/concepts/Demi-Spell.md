@@ -2,7 +2,7 @@
 type: concept
 subtypes: [lore, cosmology]
 session_introduced: "014"
-sessions_appeared: ["014", "015", "022"]
+sessions_appeared: ["014", "015", "022", "033"]
 aliases:
   - Demi Spell
 related:
