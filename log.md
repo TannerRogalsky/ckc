@@ -230,3 +230,5 @@
 ## [2026-08-09] lint | Canonicalized Father Warrick, Trent Indorra, Ebbie Indorra, and Rahmadi.
 ## [2026-08-09] lint | session_033 — Validated links, frontmatter, entity index, quests, and session structure.
 ## [2026-08-09] lint | log.md — Historical entries exceed 25 words; preserved under append-only policy.
+## [2026-08-10] query | Evaluated Antumbra as the cause of Emperor Shen's weakened state.
+## [2026-08-10] update | session_033 — Added unconfirmed Antumbra sabotage theory.

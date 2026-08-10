@@ -62,3 +62,7 @@ Completing the Chart of the Witness closes a long-running exploration thread whi
 - The completed Chart of the Witness links Janeera's pre-Cataclysm history to the fragment found in the [[Southern Archipelago Castle]].
 - The [[Tomb of Lenth the Rugged]] reconnects the legendary pirate to [[Pleasance MacLenth]] and [[Xander MacLenth]].
 - The temporary imperial retreat gives the party time to address the [[Tome Keeper]] and [[Demi-Spell]] threats before confronting [[Starfall]].
+
+### Theory: Antumbra Sabotage
+
+**Unconfirmed theory:** [[Emperor Shen]] may be weakened because he attempted to charge or fire [[Starfall]] with the [[Antumbra]] that [[Kerben]] planted among the [[Penumbra]] aboard [[The White Drake]]. The contaminated fuel was designed to spread through Starfall like a bomb and cause catastrophic damage. Shen and [[Vizier Jade]] fled directly to Starfall to prepare their final attack, but no subsequent shot was witnessed; [[Lodestar]] soon divined that Shen had lost access to former magic and could not act until at least the next moon. This sequence suggests the Antumbra may have detonated during charging, damaging Starfall and either injuring Shen or severing his access to the weapon. No source has yet confirmed that the sabotage occurred.
