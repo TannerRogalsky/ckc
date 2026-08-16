@@ -249,3 +249,5 @@
 ## [2026-08-16] lint | Gilder Savar — Validated merged identity, links, frontmatter, entity index, sessions, aliases, and quests.
 ## [2026-08-16] update | Farraday — Corrected canonical spelling from Faraday and synchronized canon references.
 ## [2026-08-16] lint | Farraday — Validated links, frontmatter, entity index, session structures, aliases, and quests.
+## [2026-08-16] lint | Corrected Boots of the Alvargard canonical spelling and references
+## [2026-08-16] query | Searched workspace for Alvargard references and spelling variants

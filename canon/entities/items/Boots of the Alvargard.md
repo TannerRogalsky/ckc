@@ -3,6 +3,8 @@ type: item
 subtypes: [equipment]
 session_introduced: "022"
 sessions_appeared: ["022"]
+aliases:
+  - Boots of the Alvigard
 related:
   - "[[Red Caesar]]"
   - "[[Elvish Marketplace]]"

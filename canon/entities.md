@@ -274,7 +274,7 @@
 - [[Gith Shard Glaive]] — Halberd with extended-range psychic cleave, crafted by Sigrid Forgewelt from a Gith Star Gem
 - [[Hopping Mad Sash]] — Magical bunny-tail sash awarded to Domyx after the King of the Hole bonus challenge
 - [[Sunset's Solace]] — Spell-storing shield for Vokenar
-- [[Boots of the Alvigard]] — Magical boots that quicken Red Caesar
+- [[Boots of the Alvargard]] — Magical boots that quicken Red Caesar
 - [[Branch of the Itinerant]] — Spellcasting wand that blooms flowers along a drawn path, acquired by Ceril
 - [[Cloaks of Billowing]] — Magic cloaks allowing dramatic billowing as a bonus action, purchased for the party
 - [[Deep Roses]] — Rare herbs growing underwater in the Mana Sea; correct cure for Mana Sickness

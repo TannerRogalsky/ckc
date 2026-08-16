@@ -521,7 +521,7 @@
 - Jacinthe whispers after [[Vizier Jade]] departs: "One month. Can we even get there in one month?" — confirming she wants Obould to survive.
 - [[Red Caesar]] and [[Ceril]] leave a message for Damien hidden in the stolen painting, then use a teleport circle to travel to [[Brimbolyn]].
 - At [[House Kiirnodel]], [[Risolvir Kiirnodel]] and [[Veronia Karadel]] recognize the party. Red reports that [[Boral Erendel]] has gone off the rails at [[The Garden]], adding nearly a hundred pages of his own design to the [[Demi-Spell]].
-- At the [[Elvish Marketplace]], Red trades [[The Jewel of Alfheimer]] for the [[Boots of the Alvigard]]. Ceril acquires the [[Branch of the Itinerant]]. Red purchases [[Cloaks of Billowing]] for the entire party.
+- At the [[Elvish Marketplace]], Red trades [[The Jewel of Alfheimer]] for the [[Boots of the Alvargard]]. Ceril acquires the [[Branch of the Itinerant]]. Red purchases [[Cloaks of Billowing]] for the entire party.
 - The party returns to [[The White Drake]] and debriefs [[Domyx]], [[Kerben]], and [[Vokenar]] about [[Vizier Jade]]'s ultimatum. Approximately 21 days remain.
 - [[Vokenar]] uses lore divination on [[Genesis Mundi]], confirming it is a natural world-reset event that carries over important souls and structures. The [[Demi-Spell]] merely expedites and modifies it.
 - [[Vokenar]] uses lore divination on [[Starfall]], confirming it was created in hell, brought to [[Broy]], and uses [[Penumbra]] as fuel. It can pierce the membrane between worlds — "god's skin."

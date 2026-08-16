@@ -29,7 +29,7 @@ Back in their room, [[Ceril]] uses the brandy bottle as a focus to attempt his f
 
 [[Red Caesar]] and [[Ceril]] left a message for Damien hidden in the painting, then used a teleport circle to travel to [[Brimbolyn]]. They arrived at [[House Kiirnodel]]'s courtyard, where [[Risolvir Kiirnodel]] and [[Veronia Karadel]] recognized them. Red reported that [[Boral Erendel]] had gone off the rails at [[The Garden]].
 
-At the [[Elvish Marketplace]], Red trades [[The Jewel of Alfheimer]] to [[Mudeep]] for the [[Boots of the Alvigard]]. Ceril acquires the [[Branch of the Itinerant]], a flowering spellcasting wand. Red purchases [[Cloaks of Billowing]] for the entire party.
+At the [[Elvish Marketplace]], Red trades [[The Jewel of Alfheimer]] to [[Mudeep]] for the [[Boots of the Alvargard]]. Ceril acquires the [[Branch of the Itinerant]], a flowering spellcasting wand. Red purchases [[Cloaks of Billowing]] for the entire party.
 
 The party reunites near [[The White Drake]] and debriefs [[Domyx]], [[Kerben]], and [[Vokenar]] about the Jade ultimatum. [[Vokenar]] performs two lore divinations: one on [[Genesis Mundi]], confirming it is a natural world-reset event that the [[Demi-Spell]] merely expedites and modifies; and one on [[Starfall]], confirming it was created in hell, brought to [[Broy]], and uses [[Penumbra]] as fuel. The party now has approximately 21 days remaining before Jade's deadline expires.
 
