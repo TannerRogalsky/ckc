@@ -103,13 +103,13 @@ The party climbed from snow into grassy hills with orchards and flowers — the 
 
 [[Domyx]] entered the manor alone while the rest of the party stayed hidden, as elves, dwarves, and aasimar would be endangered among the xenophobic titan folk. [[Vokenar]] cast Locate Object searching for [[Penumbra]] but detected none — the sky appeared intact from this distance.
 
-Inside the manor, Domyx found [[Charlotte]], Ulrich's sister, who warned him against being there. Domyx revealed the truth about [[Emperor Shen]] breaking the sky with [[Starfall]]. [[Lorelei]] emerged from hiding, having overheard everything. She confirmed she was pregnant and that Ulrich was imprisoned in the [[Prison of Frost]], not far away. She begged to flee with Ulrich's child.
+Inside the manor, Domyx found [[Charlotte]], Ulrich's sister, who warned him against being there. Domyx revealed the truth about [[Emperor Shen]] breaking the sky with [[Starfall]]. [[Lorelai Lapis-Acathian]] emerged from hiding, having overheard everything. She confirmed she was pregnant and that Ulrich was imprisoned in the [[Prison of Frost]], not far away. She begged to flee with Ulrich's child.
 
 Meanwhile, [[Ceril]]'s magma owl familiar scouted the area and reported a large cavern with heavy security and food trays being delivered inside — a suspicious location likely corresponding to the Prison of Frost.
 
 Domyx confronted his father [[Domyx IV]] at the manor's exterior. Domyx IV initially showed relief at seeing his son, then anger at the rule-breaking. He offered to cover up Domyx's return and send him back to Stark. When Domyx refused to forget the truth about their grandfather and discarded his Akathian medallion, Domyx IV disowned him: "You are an Akathian no more. You are my son no more." Domyx walked away, permanently renouncing his family name.
 
-Domyx returned to the party and introduced [[Lorelei]], who apologized for dragging them into the situation. Domyx told the party to call him just "Domyx" from now on — no more noble title. With Lorelei's information, the party knew Ulrich was held in the Prison of Frost.
+Domyx returned to the party and introduced [[Lorelai Lapis-Acathian]], who apologized for dragging them into the situation. Domyx told the party to call him just "Domyx" from now on — no more noble title. With Lorelai Lapis-Acathian's information, the party knew Ulrich was held in the Prison of Frost.
 
 ### Chunk 0004
 
@@ -117,9 +117,9 @@ Domyx returned to the party and introduced [[Lorelei]], who apologized for dragg
 
 The party proceeded to the [[Prison of Frost]], located in the peaks of the Titans. [[Ulrich Fjoller]] was found trapped behind a plane of pure magical energy — a barrier "made of pure sorcery" that Ulrich described as an abomination to titan folk, who traditionally shun magic. [[Domyx]] presented himself without his Akathian title, marking his renounced family identity. [[Ceril]] dispelled the barrier with ease, freeing Ulrich.
 
-Ulrich greeted Domyx and [[Lorelei]] with relief and asked if the world below was safe for them and the unborn child. The party escaped the peaks swiftly — the prison was not heavily locked down, the difficulty having been reaching it. A prison keeper was nearby but the party avoided confrontation.
+Ulrich greeted Domyx and [[Lorelai Lapis-Acathian]] with relief and asked if the world below was safe for them and the unborn child. The party escaped the peaks swiftly — the prison was not heavily locked down, the difficulty having been reaching it. A prison keeper was nearby but the party avoided confrontation.
 
-The party returned to [[The Opal]], bringing Ulrich and Lorelei aboard as new crew members. The ship now carried two couples, one of whom — Lorelei — was pregnant. Discussion turned to practical matters: hiring a midwife and possibly setting up a nursery.
+The party returned to [[The Opal]], bringing Ulrich and Lorelai Lapis-Acathian aboard as new crew members. The ship now carried two couples, one of whom was pregnant. Discussion turned to practical matters: hiring a midwife and possibly setting up a nursery.
 
 ### Summary
 
@@ -127,8 +127,8 @@ This session revealed the full truth behind Theo Harvey's disappearance: Kerben 
 
 Beyond the hydra, the party trekked into the Arctic Plains and defeated the Tatzelwurm — a unique white dragon whose death calmed the region's extreme weather. Kerben crafted a new poison from the dragon's remains. The party followed the dragon's blood-stained river into Titanfolk territory, where a Remorhaz ambushed them and swallowed Domyx. The party destroyed the Remorhaz with radiant magic and extracted Domyx from the corpse.
 
-The party then climbed into the titan homeland proper, reaching Acathian Manor. Domyx confronted his family, learning that Ulrich Fjoller is imprisoned in the Prison of Frost and that Lorelei is pregnant with Ulrich's child. When Domyx refused to forget the truth about [[Emperor Shen]] breaking the sky, his father Domyx IV disowned him. Domyx permanently renounced his Akathian name and returned to the party with Lorelei.
-The party then rescued Ulrich Fjoller from the Prison of Frost by dispelling the magical barrier holding him captive. Ulrich and Lorelei joined the party aboard [[The Opal]] as new crew members.
+The party then climbed into the titan homeland proper, reaching Acathian Manor. Domyx confronted his family, learning that Ulrich Fjoller is imprisoned in the Prison of Frost and that Lorelai Lapis-Acathian is pregnant with Ulrich's child. When Domyx refused to forget the truth about [[Emperor Shen]] breaking the sky, his father Domyx IV disowned him. Domyx permanently renounced his Akathian name and returned to the party with Lorelai Lapis-Acathian.
+The party then rescued Ulrich Fjoller from the Prison of Frost by dispelling the magical barrier holding him captive. Ulrich and Lorelai Lapis-Acathian joined the party aboard [[The Opal]] as new crew members.
 
 ### Connections
 
@@ -146,7 +146,7 @@ The party then rescued Ulrich Fjoller from the Prison of Frost by dispelling the
 - The Remorhaz encounter tests the party's coordination under extreme pressure; Domyx's survival inside the creature demonstrates his resilience.
 - Domyx's confrontation with [[Domyx IV]] permanently severs his ties to [[Clan Akathia]], completing his transformation from noble exile to independent adventurer.
 - [[Ulrich Fjoller]] is rescued from the [[Prison of Frost]] by [[Ceril]] dispelling the magical barrier, completing the quest set up in chunks 0002 and 0003.
-- [[Ulrich Fjoller]] and [[Lorelei]] join [[The Opal]] as new crew members, expanding the party's support network.
-- Lorelei's pregnancy and new crew status raise practical questions about midwifery and nursery arrangements aboard the ship.
+- [[Ulrich Fjoller]] and [[Lorelai Lapis-Acathian]] join [[The Opal]] as new crew members, expanding the party's support network.
+- Lorelai Lapis-Acathian's pregnancy and new crew status raise practical questions about midwifery and nursery arrangements aboard the ship.
 - [[Ceril]]'s familiar spotting a heavily-guarded cavern with food deliveries proved the correct lead for locating the Prison of Frost.
 - The flat sky plate visible from this altitude reinforces the cosmological reality of [[Stark]] and [[Arkadia]] as separate realms.

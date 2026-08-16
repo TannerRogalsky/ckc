@@ -236,3 +236,6 @@
 ## [2026-08-16] update | Damien Ouranous — Added sessions 025 and 032 appearances, death, aliases, and synchronized canon references.
 ## [2026-08-16] lint | session_025 — Corrected Summary and Connections heading levels during Damien validation.
 ## [2026-08-16] lint | Damien Ouranous — Validated links, frontmatter, entity index, session structures, canon prose, and quests.
+## [2026-08-16] update | Lorelai Lapis-Acathian — Renamed Lorelei, preserved transcript variants as aliases, and corrected canon references.
+## [2026-08-16] lint | session_016 — Added the missing Connections section during Lorelai Lapis-Acathian validation.
+## [2026-08-16] lint | Lorelai Lapis-Acathian — Validated links, frontmatter, entity index, sessions, aliases, and quests.

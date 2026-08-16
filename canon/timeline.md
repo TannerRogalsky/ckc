@@ -322,7 +322,7 @@
 ### Chunk 0000
 
 - At [[Lyngbakr Lagoon]], the settlement continues growing with wooden structures, a watchtower, and a cistern. [[Ceril]] and [[Kerben]] improve the food supply using druidic magic.
-- [[Domyx]] receives a dream visitation from his sister [[Lorelei]], who reveals [[Ulrich Fjoller]] is imprisoned and sentenced to execution. Lorelei is pregnant with Ulrich's child and begs Domyx to rescue him. Domyx pledges to return.
+- [[Domyx]] receives a dream visitation from his sister [[Lorelai Lapis-Acathian]], who reveals [[Ulrich Fjoller]] is imprisoned and sentenced to execution. Lorelai Lapis-Acathian is pregnant with Ulrich's child and begs Domyx to rescue him. Domyx pledges to return.
 - [[Damien Ouranous]] arrives as an envoy of [[The League of New Stark]] aboard a League ship. He reveals the League shot down a [[Broyish Empire]] airship on the party's behalf and will continue protecting their operations.
 - The party visits [[Lady Jacinthe]] aboard [[The White Drake]] via Teleport Circle. She warns that the Empire may be collecting [[Penumbra]]-like stones to power a massive magical weapon. She offers two side quests: a corrupted siren in the southwestern seas and an old-world construct at a southern castle.
 - [[Imotep]] uses *Transport via Plants* to return the party to [[Lyngbakr Lagoon]].
@@ -628,17 +628,17 @@
 - [[Domyx]] was swallowed by the [[Remorhaz]] and trapped inside. [[Kerben]] fired into the Remorhaz's side, punching a rescue hole. [[Vokenar]] destroyed the creature with a radiant blast. [[Kerben]] cut into the corpse to extract Domyx's unconscious body; [[Ceril]] healed him back to consciousness. Kerben harvested the Remorhaz's heat gland for warmth.
 - The party climbed from snow into grassy hills, orchards, and farmland — the magic of the titan realm taking hold. They reached the last place [[Ulrich Fjoller]] had been seen before his capture. At this altitude, the sky appeared as a flat plate separating [[Stark]] from [[Arkadia]]. A golden palace — [[Acathian Manor]] — drew heavy titan traffic.
 - [[Domyx]] entered [[Acathian Manor]] alone while the rest of the party stayed hidden, as outsiders would be endangered among the xenophobic titan folk. [[Vokenar]] detected no [[Penumbra]] nearby; the sky appeared intact from this distance.
-- Inside the manor, [[Domyx]] found [[Charlotte]] (Ulrich's sister), who warned him against being there. Domyx revealed the truth about [[Emperor Shen]] breaking the sky with [[Starfall]]. [[Lorelei]] emerged from hiding, having overheard everything. She confirmed she was pregnant and that Ulrich was imprisoned in the [[Prison of Frost]]. She begged to flee with Ulrich's child.
+- Inside the manor, [[Domyx]] found [[Charlotte]] (Ulrich's sister), who warned him against being there. Domyx revealed the truth about [[Emperor Shen]] breaking the sky with [[Starfall]]. [[Lorelai Lapis-Acathian]] emerged from hiding, having overheard everything. She confirmed she was pregnant and that Ulrich was imprisoned in the [[Prison of Frost]]. She begged to flee with Ulrich's child.
 - [[Ceril]]'s magma owl familiar scouted the area and reported a large cavern with heavy security and food trays being delivered inside — likely the Prison of Frost.
 - [[Domyx]] confronted his father [[Domyx IV]] at the manor's exterior. Domyx IV offered to cover up Domyx's return and send him back to Stark. When Domyx refused to forget the truth about their grandfather and discarded his Akathian medallion, Domyx IV disowned him: "You are an Akathian no more. You are my son no more." Domyx permanently renounced his family name.
-- [[Lorelei]] introduced herself to the party and apologized for dragging them into the situation. With her information, the party knew Ulrich was held in the Prison of Frost.
+- [[Lorelai Lapis-Acathian]] introduced herself to the party and apologized for dragging them into the situation. With her information, the party knew Ulrich was held in the Prison of Frost.
 
 ### Chunk 0004
 
 - The party reached the [[Prison of Frost]], where [[Ulrich Fjoller]] was trapped behind a plane of pure magical energy — an abomination to titan folk who traditionally shun magic.
-- [[Ceril]] dispelled the barrier with ease, freeing Ulrich. Ulrich greeted [[Domyx]] and [[Lorelei]] with relief.
+- [[Ceril]] dispelled the barrier with ease, freeing Ulrich. Ulrich greeted [[Domyx]] and [[Lorelai Lapis-Acathian]] with relief.
 - The party escaped the peaks of the Titans swiftly and returned to [[The Opal]].
-- [[Ulrich Fjoller]] and [[Lorelei]] joined [[The Opal]] as new crew members. The ship now carried two couples, one of whom — Lorelei — was pregnant.
+- [[Ulrich Fjoller]] and [[Lorelai Lapis-Acathian]] joined [[The Opal]] as new crew members. The ship now carried two couples, one of whom was pregnant.
 
 ## Session 025
 

@@ -12,7 +12,7 @@ aliases:
 related:
   - "[[Clan Akathia]]"
   - "[[Ulrich Fjoller]]"
-  - "[[Lorelei]]"
+  - "[[Lorelai Lapis-Acathian]]"
   - "[[Clan Lapis]]"
   - "[[Emperor Shen]]"
   - "[[Touching the Sky]]"
@@ -56,7 +56,7 @@ related:
   - "[[Hopping Mad Sash]]"
 ---
 
-A titan barbarian and former member of [[Clan Akathia]] who touched the sky, earning sky-blue palms that mark him as a blood relative of [[Emperor Shen]]. Renounced his family name after confronting his grandfather's role in breaking the sky and being disowned by his father [[Domyx IV]]. Named as [[The Opal]]'s successor by [[Obould]], but carries the burden of being Shen's grandson — the descendant of the party's greatest enemy. Traveled to the titan homeland, rescued [[Ulrich Fjoller]] from the [[Prison of Frost]], and brought [[Lorelei]] aboard with him.
+A titan barbarian and former member of [[Clan Akathia]] who touched the sky, earning sky-blue palms that mark him as a blood relative of [[Emperor Shen]]. Renounced his family name after confronting his grandfather's role in breaking the sky and being disowned by his father [[Domyx IV]]. Named as [[The Opal]]'s successor by [[Obould]], but carries the burden of being Shen's grandson — the descendant of the party's greatest enemy. Traveled to the titan homeland, rescued [[Ulrich Fjoller]] from the [[Prison of Frost]], and brought [[Lorelai Lapis-Acathian]] aboard with him.
 
 ## Identity and Backstory
 
@@ -103,7 +103,7 @@ The party then sailed south of the Garden to hunt the [[Storm Phoenix]]. Domyx u
 
 ## Session 016
 
-While sleeping aboard [[The Opal]], Domyx experienced a rare and vivid dream. [[Lorelei]], his sister, appeared in the dream and revealed that [[Ulrich Fjoller]] had been imprisoned for months and was sentenced to execution. Lorelei was pregnant with Ulrich's child and pleaded with Domyx to return to the titan consulate, rescue Ulrich, and stay his execution. Domyx promised he would come.
+While sleeping aboard [[The Opal]], Domyx experienced a rare and vivid dream. [[Lorelai Lapis-Acathian]], his sister, appeared in the dream and revealed that [[Ulrich Fjoller]] had been imprisoned for months and was sentenced to execution. Lorelai Lapis-Acathian was pregnant with Ulrich's child and pleaded with Domyx to return to the titan consulate, rescue Ulrich, and stay his execution. Domyx promised he would come.
 
 ## Session 018
 
@@ -161,13 +161,13 @@ The Remorhaz swallowed Domyx whole. Trapped inside the creature, he attempted to
 
 The party climbed from snow into grassy hills with orchards and flowers — the magic of the titan realm taking hold. They reached the last place [[Ulrich Fjoller]] had been seen before his capture. Domyx recognized the terrain from his earlier descent and could lead the party the rest of the way. At this altitude, the sky appeared as a flat plate separating [[Stark]] from [[Arkadia]]. A golden palace — [[Acathian Manor]] — drew heavy titan traffic.
 
-Domyx entered the manor alone while the rest of the party stayed hidden, as outsiders would be endangered among the xenophobic titan folk. He found [[Charlotte]], Ulrich's sister, who warned him against being there. Domyx revealed the truth about [[Emperor Shen]] breaking the sky with [[Starfall]]. [[Lorelei]] emerged from hiding, having overheard everything. She confirmed she was pregnant and that Ulrich was imprisoned in the [[Prison of Frost]]. She begged to flee with Ulrich's child.
+Domyx entered the manor alone while the rest of the party stayed hidden, as outsiders would be endangered among the xenophobic titan folk. He found [[Charlotte]], Ulrich's sister, who warned him against being there. Domyx revealed the truth about [[Emperor Shen]] breaking the sky with [[Starfall]]. [[Lorelai Lapis-Acathian]] emerged from hiding, having overheard everything. She confirmed she was pregnant and that Ulrich was imprisoned in the [[Prison of Frost]]. She begged to flee with Ulrich's child.
 
 Domyx confronted his father [[Domyx IV]] at the manor's exterior. Domyx IV initially showed relief at seeing his son, then anger at the rule-breaking. He offered to cover up Domyx's return and send him back to Stark. When Domyx refused to forget the truth about their grandfather and discarded his Akathian medallion, Domyx IV disowned him: "You are an Akathian no more. You are my son no more." Domyx walked away, renouncing his family name permanently.
 
-Domyx returned to the party and introduced [[Lorelei]], who apologized for dragging them into the mess. Domyx told the party to call him just "Domyx" from now on — no more noble title. With Lorelei's information, the party knew Ulrich was held in the Prison of Frost.
+Domyx returned to the party and introduced [[Lorelai Lapis-Acathian]], who apologized for dragging them into the mess. Domyx told the party to call him just "Domyx" from now on — no more noble title. With Lorelai Lapis-Acathian's information, the party knew Ulrich was held in the Prison of Frost.
 
-The party proceeded to the [[Prison of Frost]], where [[Ulrich Fjoller]] was trapped behind a plane of pure magical energy — an abomination to titan folk who traditionally shun magic. [[Ceril]] dispelled the barrier with ease. Ulrich greeted Domyx, who presented himself without his Akathian title as a mark of his renounced identity, and [[Lorelei]] with relief. He asked if the world below was safe for them. The party escaped the peaks of the Titans and returned swiftly to [[The Opal]], bringing Ulrich and Lorelei aboard as new crew members.
+The party proceeded to the [[Prison of Frost]], where [[Ulrich Fjoller]] was trapped behind a plane of pure magical energy — an abomination to titan folk who traditionally shun magic. [[Ceril]] dispelled the barrier with ease. Ulrich greeted Domyx, who presented himself without his Akathian title as a mark of his renounced identity, and [[Lorelai Lapis-Acathian]] with relief. He asked if the world below was safe for them. The party escaped the peaks of the Titans and returned swiftly to [[The Opal]], bringing Ulrich and Lorelai Lapis-Acathian aboard as new crew members.
 
 ## Session 025
 

@@ -6,12 +6,12 @@ sessions_appeared: ["024"]
 related:
   - "[[Domyx]]"
   - "[[Emperor Shen]]"
-  - "[[Lorelei]]"
+  - "[[Lorelai Lapis-Acathian]]"
   - "[[Clan Akathia]]"
   - "[[Acathian Manor]]"
 ---
 
-Domyx IV is the current ruler of [[Clan Akathia]] and father of [[Domyx]] and [[Lorelei]]. He rules the clan with strict enforcement of titan isolationist laws and has kept the truth about [[Emperor Shen]] hidden from his children and the broader clan.
+Domyx IV is the current ruler of [[Clan Akathia]] and father of [[Domyx]] and [[Lorelai Lapis-Acathian]]. He rules the clan with strict enforcement of titan isolationist laws and has kept the truth about [[Emperor Shen]] hidden from his children and the broader clan.
 
 ## Plot Events
 

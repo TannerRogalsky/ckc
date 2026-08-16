@@ -2,7 +2,7 @@
 type: session
 session: "016"
 chunks: 1
-summary: "Domyx dreams of Lorelei and Ulrich's plight; League envoy visits; party meets Lady Jacinthe on The White Drake."
+summary: "Domyx dreams of Lorelai Lapis-Acathian and Ulrich's plight; League envoy visits; party meets Lady Jacinthe on The White Drake."
 ---
 
 ## Session 016
@@ -10,7 +10,7 @@ summary: "Domyx dreams of Lorelei and Ulrich's plight; League envoy visits; part
 ### Chunk 0000
 
 - At [[Lyngbakr Lagoon]], [[Ceril]] and [[Kerben]] improve the settlement's food supply using druidic magic and naturalist knowledge.
-- [[Domyx]] experiences a rare vivid dream: his sister [[Lorelei]] contacts him secretly and reveals that [[Ulrich Fjoller]] has been imprisoned for months and sentenced to execution. Lorelei is pregnant with Ulrich's child and begs Domyx to return to the titan consulate and rescue him. Domyx pledges to come.
+- [[Domyx]] experiences a rare vivid dream: his sister [[Lorelai Lapis-Acathian]] contacts him secretly and reveals that [[Ulrich Fjoller]] has been imprisoned for months and sentenced to execution. Lorelai Lapis-Acathian is pregnant with Ulrich's child and begs Domyx to return to the titan consulate and rescue him. Domyx pledges to come.
 - The party returns to the lagoon to find the settlement growing — wooden structures, a watchtower, and a cistern have been built. [[Obould]] has come ashore to inspect the base.
 - [[Vokenar]] spots a League ship approaching — white hull, red sails, and a white-blue League symbol. It is captained by [[Damien Ouranous]], an aasimar envoy of [[Lady Jacinthe]].
 - Damien negotiates with [[Red Caesar]] and Vokenar. He reveals the League shot down a [[Broyish Empire]] airship on the party's behalf and that the League will continue protecting the party's operations in exchange for information about the mysterious island and the [[Penumbra]] stones. He plans to tour the island for a day or two.
@@ -21,6 +21,12 @@ summary: "Domyx dreams of Lorelei and Ulrich's plight; League envoy visits; part
 
 ### Summary
 
-This session established two major new plot threads. Domyx's dream visitation from his sister Lorelei revealed that [[Ulrich Fjoller]] — his loyal friend who warned him about the erased ancestor — is imprisoned and facing execution. Lorelei is pregnant with Ulrich's child, adding urgency and raising the stakes of returning to [[Clan Akathia]]. The dream also introduced [[Clan Lapis]], the mining clan Lorelei married into.
+This session established two major new plot threads. Domyx's dream visitation from his sister Lorelai Lapis-Acathian revealed that [[Ulrich Fjoller]] — his loyal friend who warned him about the erased ancestor — is imprisoned and facing execution. Lorelai Lapis-Acathian is pregnant with Ulrich's child, adding urgency and raising the stakes of returning to [[Clan Akathia]]. The dream also introduced [[Clan Lapis]], the mining clan Lorelai Lapis-Acathian married into.
 
 On the political front, the party's first direct meeting with [[Lady Jacinthe]] aboard [[The White Drake]] confirmed the League's willingness to act as an ally against the [[Broyish Empire]]. Jacinthe's intelligence about the Empire collecting Penumbra stones for a potential weapon raises the urgency of the party's own mission. The two side quests she offered — the corrupted siren and the old-world construct — provide optional detours in the southwestern seas.
+
+### Connections
+
+- [[Lorelai Lapis-Acathian]]'s warning advances the mystery [[Ulrich Fjoller]] raised about [[Emperor Shen]] and [[Clan Akathia]].
+- [[Lady Jacinthe]]'s intelligence connects the Empire's stone collection to the party's search for [[Penumbra]].
+- The corrupted siren and old-world construct become League quests later resolved in session 025.

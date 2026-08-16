@@ -23,7 +23,7 @@
 - [[Mobley]] — The cook aboard The Opal; kept the crew fed through the imperial attack aftermath
 
 ## NPCs
-- [[Lorelei]] — Domyx's sister, titan folk married into Clan Lapis, pregnant with Ulrich's child
+- [[Lorelai Lapis-Acathian]] — Domyx's sister, titan folk married into Clan Lapis, pregnant with Ulrich's child
 - [[Gunk Grodley]] — Dapper goblin trader who captains the Goblin Traders' ship
 - [[Vizier Jade]] — Vizier from Broy serving Emperor Shen; mind-reader who killed Vokenar and took his body
 - [[Morel Chainsunder]] — Cult leader controlling the dwarves of Darvinblast
@@ -83,7 +83,7 @@
 - [[Lady Acelia]] — Younger sister of Alamar, youngest child of the Rodgard family; likely perished in the Cataclysm
 - [[King Maniasis]] — King of Kaedon, father of Alamar; went mad from elf-blood poisoning
 - [[Charlotte]] — Sister of [[Ulrich Fjoller]]; works at [[Acathian Manor]] preparing food and maintenance
-- [[Domyx IV]] — Current ruler of [[Clan Akathia]], father of [[Domyx]] and [[Lorelei]]; disowned Domyx after he refused to forget clan secrets
+- [[Domyx IV]] — Current ruler of [[Clan Akathia]], father of [[Domyx]] and [[Lorelai Lapis-Acathian]]; disowned Domyx after he refused to forget clan secrets
 - [[Faraday]] — Kerben's old boss from before the Cataclysm; also Jack Harvey's benefactor who set up the wave combat system at King of the Hole
 - [[Boston Golf]] — Old Carrot Cake acting-troupe figure represented by a Magic Hat fortune-teller automaton
 
@@ -223,7 +223,7 @@
 - [[Imperial Xihe]] — Broyish Empire flagship that pursued The Opal and assaulted Lyngbakr Lagoon
 
 ## Organizations
-- [[Clan Lapis]] — Titan folk clan known for mining and gem exploration; Lorelei married into this clan
+- [[Clan Lapis]] — Titan folk clan known for mining and gem exploration; Lorelai Lapis-Acathian married into this clan
 - [[Heaven's Bulb]] — Group of cataclysm survivors
 - [[Figma Brickfinger's Union]] — Dwarven union (The Pitman's Union) at The Pit
 - [[Steelfend Clan]] — Dwarf clan; Gammix and Tammix joined the party

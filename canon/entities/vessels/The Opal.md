@@ -25,7 +25,7 @@ The ship on which the party travels. Captained by [[Obould]], a gaudy orc. Navig
 | Cook | [[Mobley]] | Antisocial older crew member. |
 | Former Healer | [[Ebbie Indorra]] | Tended the sickbay before returning to [[Southport]] with [[Trent Indorra]]. |
 | Crew | [[Yalet Mora]] | Stone-bodied Galeb Duurr; can roll in boulder form. |
-| Crew | [[Lorelei]] | [[Domyx]]'s sister; joined after being freed from the titan homeland in session 024. |
+| Crew | [[Lorelai Lapis-Acathian]] | [[Domyx]]'s sister; joined after being freed from the titan homeland in session 024. |
 | Janitor | [[Rella Kel'Navvi]] | Uses blink ability to teleport trash and misplaced items. |
 | Named Heir | [[Domyx]] | Named successor to the ship by Obould in session 015. |
 
