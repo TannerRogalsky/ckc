@@ -232,3 +232,7 @@
 ## [2026-08-09] lint | log.md — Historical entries exceed 25 words; preserved under append-only policy.
 ## [2026-08-10] query | Evaluated Antumbra as the cause of Emperor Shen's weakened state.
 ## [2026-08-10] update | session_033 — Added unconfirmed Antumbra sabotage theory.
+## [2026-08-16] query | Damien Ouranous — Verified latest encounter and later death reference.
+## [2026-08-16] update | Damien Ouranous — Added sessions 025 and 032 appearances, death, aliases, and synchronized canon references.
+## [2026-08-16] lint | session_025 — Corrected Summary and Connections heading levels during Damien validation.
+## [2026-08-16] lint | Damien Ouranous — Validated links, frontmatter, entity index, session structures, canon prose, and quests.

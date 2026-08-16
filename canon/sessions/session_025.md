@@ -18,6 +18,7 @@ summary: "Party synthesizes and plants Antumbra, de-petrifies priests at Temple 
 - [[Ceril]] de-petrified [[Father Warrick]] using Greater Restoration; Father Warrick then de-petrified several more priests.
 - The freed priests planned to return to [[Southport]] to help combat the [[Mana Sickness]] plague.
 - [[Kerben]] sneaked aboard [[The White Drake]] and planted the [[Antumbra]] among the League's stockpiled Penumbra.
+- [[Damien Ouranous]] restrained [[Zulu]] during the diversion, then made Kerben help clean the raided meat stores.
 - [[Rochella Golf]], Trent Indorra, and Ebbie Indorra disembarked near Southport to pursue their respective goals.
 
 ### Chunk 0001
@@ -38,7 +39,7 @@ summary: "Party synthesizes and plants Antumbra, de-petrifies priests at Temple 
 - The party continued toward [[Xarag's Island]], where the [[Xarag]] holds treasure [[The Opal]] once carried.
 - A flashback showed a younger [[Red Caesar]] speaking with [[Master Lee]] inside [[Heaven's Bulb]]. Lee expressed pride in Red's determination to understand how the world works, even if the knowledge is unbearable. A crack appeared in the Bulb's fake sky ceiling, revealing a beam of real sunlight.
 
-## Summary
+### Summary
 
 [[Red Caesar]] traveled to [[The Academy]] in [[Brimbolyn]] where, with [[Keys]] and [[Illidrielle Gandara]], he successfully synthesized [[Antumbra]] — a poisoned form of [[Penumbra]] designed to sabotage the [[Broyish Empire]]'s [[Starfall]] device. Using the "Caesarean method" of compressing [[Akasha]] through magical pressure, they produced a palm-sized sphere of jet-black material that would cause catastrophic damage when fed into Starfall.
 
@@ -46,7 +47,7 @@ After [[Vokenar]] discovered a hidden [[Penumbra]] stash aboard [[The White Drak
 
 [[Kerben]] took on the role of acting captain of [[The Opal]]. He recruited [[Trent Indorra]] and [[Ebbie Indorra]] — a couple fleeing the [[Mana Sickness]] in [[Southport]] — aboard the ship. Trent Indorra proved capable as master gunner before disembarking near Southport with Ebbie Indorra and [[Rochella Golf]].
 
-[[Kerben]] used invisibility, [[Zulu]] as a distraction, and careful lockpicking to sneak aboard [[The White Drake]] and pitch the Antumbra among the League's Penumbra stash, ensuring the League would eventually hand off contaminated material to the Empire.
+[[Kerben]] used invisibility, [[Zulu]] as a distraction, and careful lockpicking to sneak aboard [[The White Drake]] and pitch the Antumbra among the League's Penumbra stash, ensuring the League would eventually hand off contaminated material to the Empire. [[Damien Ouranous]] helped restrain Zulu during the diversion, then made Kerben help clean the raided meat stores.
 
 [[Ceril]] and [[Domyx]] visited the [[Temple of Sigil]] on [[Otyugh Isle]], where they found 12 petrified priests and 19 petrified Kuo-Toa who had been turned by a cockatrice approximately 70 years earlier. [[Ceril]] cast Greater Restoration on [[Father Warrick]], the highest-ranking priest, who then used his own abjuration abilities to free several more priests. The freed priests planned to head to Southport to help combat the Mana Sickness.
 
@@ -58,7 +59,7 @@ The party cleared the castle's black pollen with Gust of Wind, finding 50 pounds
 
 A flashback to [[Heaven's Bulb]] showed a younger [[Red Caesar]] speaking with [[Master Lee]], who expressed pride in Red's determination to understand how the world works, even if the knowledge proves unbearable. A crack appeared in the Bulb's fake sky ceiling, revealing a beam of real sunlight.
 
-## Connections
+### Connections
 
 - The Antumbra plot directly targets the [[Broyish Empire]]'s [[Starfall]] device, the same machine [[Emperor Shen]] used to break the sky.
 - The de-petrified priests at the Temple of Sigil provide potential allies in Southport's fight against Mana Sickness.

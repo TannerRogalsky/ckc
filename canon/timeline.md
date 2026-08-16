@@ -653,6 +653,7 @@
 - [[Vokenar]] consulted [[Sigil]], learned [[Obould]] was in less danger than he appeared, and departed [[The Opal]] to resume training with [[Sigil]] and [[Crone]].
 - [[Ceril]] contacted [[Aeris]] through a divine summoning. Aeris confirmed that sending the Antumbra toward [[Starfall]] would not risk the piece of herself trapped within the device.
 - [[Kerben]] sneaked aboard [[The White Drake]] while docked in [[Broy]], using invisibility and lockpicking. With [[Zulu]] as a distraction, he pitched the Antumbra among the League's stockpiled Penumbra stones.
+- [[Damien Ouranous]] restrained Zulu during the diversion, then required Kerben to help clean the raided meat stores.
 - [[Ceril]] and [[Domyx]] visited the [[Temple of Sigil]] on [[Otyugh Isle]], discovering 12 petrified priests and 19 petrified Kuo-Toa who had been turned by a cockatrice approximately 70 years earlier.
 - [[Ceril]] cast Greater Restoration on [[Father Warrick]], the highest-ranking priest, de-petrifying him first. Father Warrick then used his own abjuration abilities to de-petrify several more priests.
 - The freed priests planned to return to [[Southport]] to help combat the [[Mana Sickness]] plague.
@@ -918,6 +919,7 @@
 
 - [[Emperor Shen]] imprisons [[Domyx]] in the [[Dawn Palace]] and attempts to make him accept imperial succession.
 - [[Ceril]] and [[Alamar]] enter [[Arkadia]] with [[Lyngbakr]]. Alamar reunites with [[Vlerro]], [[Igden]], and [[Tyson Cromwell]] before Ceril meets [[Aeris]], [[Sigil]], and the injured [[Crone]], who confirm Vokenar can be restored if his body is recovered.
+- Ceril sees [[Damien Ouranous]] traveling with Vokenar's spirit and learns that [[Emperor Shen]] killed Damien.
 - [[Illidrielle Gandara]] confirms that [[Keys]] has completed the [[Demi-Spell]] but not cast it; [[Boral Erendel]]'s alterations would force reincarnation into high elf bodies.
 - Ceril returns to Stark through a closing passage in the repaired sky.
 

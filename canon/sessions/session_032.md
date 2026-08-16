@@ -13,6 +13,8 @@ summary: "Domyx escapes Shen, Ceril consults the goddesses, Vokenar is reincarna
 
 In [[Arkadia]], [[Ceril]] and [[Alamar]] crossed the drained ocean floor after Lyngbakr repaired the sky. Alamar reunited with [[Vlerro]], [[Igden]], and [[Tyson Cromwell]]—old Kaedonite dead who had shaped his earlier life. Ceril met [[Aeris]], [[Sigil]], and the injured [[Crone]]; the goddesses confirmed that Vokenar's body could still be restored if recovered quickly. Ceril also met the dead [[Illidrielle Gandara]], who confirmed that [[Keys]] had completed but not cast the [[Demi-Spell]], while [[Boral Erendel]]'s alterations would force incarnating spirits into high elf bodies.
 
+While crossing Arkadia, Ceril saw [[Damien Ouranous]] traveling with Vokenar's spirit. Damien revealed that [[Emperor Shen]] had slain him, though he did not know what followed his death, and the two reflected on [[Vizier Jade]]'s history of being drawn into wars.
+
 Ceril returned through one of the last closing passages to Stark and reunited with [[The Opal]]. The party agreed to pursue the prisoners and [[Starfall]] rather than abandon Domyx or Vokenar.
 
 ### Chunk 0001
@@ -37,6 +39,7 @@ Key events:
 
 - [[Domyx]] survived Shen's captivity when [[Vizier Jade]] secretly faked his death and freed him.
 - [[Ceril]] crossed into [[Arkadia]], consulted the sister goddesses, and learned that [[Vokenar]] could be restored.
+- Ceril encountered [[Damien Ouranous]] among the dead and learned that [[Emperor Shen]] had slain him.
 - The party exposed the [[Broyish Empire]]'s false sky, triggering a public uprising in the capital and forcing Shen and Jade to flee to [[Starfall]].
 - Ceril recovered and reincarnated Vokenar as a high elf at the [[Temple of Sigil]].
 - [[Boral Erendel]]'s alterations to the [[Demi-Spell]] are actively restricting reincarnation to elven forms.

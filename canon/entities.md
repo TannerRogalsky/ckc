@@ -33,7 +33,7 @@
 - [[Keeper Rufus]] — Figure at Heaven's Bulb alongside Master Lee
 - [[Lady Jacinthe]] — Leader of The League of New Stark, former princess; Obould's rescue ended Vizier Jade's hostage pressure
 - [[Imotep]] — Yuan-ti associated with The League of New Stark
-- [[Damien Ouranous]] — Aasimar envoy associated with The League of New Stark
+- [[Damien Ouranous]] — Deceased League envoy slain by Emperor Shen and encountered in Arkadia
 - [[Mudeep]] — Figure at The Garden who trades art pieces for attunable magic items
 - [[Theotropa]] — Leader of The Garden, a druid sanctuary
 - [[Boral Erendel]] — Rogue Demi-Spell architect creating high elf bodies beneath Brimbolyn

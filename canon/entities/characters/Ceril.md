@@ -190,7 +190,7 @@ After the party brought the condensed [[Penumbra]] to [[Lyngbakr Lagoon]], Ceril
 
 ## Session 032
 
-Ceril crossed into [[Arkadia]] with [[Alamar]] and consulted [[Aeris]], [[Sigil]], and [[Crone]]. Learning that Vokenar could be restored, he returned to Stark through a closing sky passage, helped expose the Broyish capital's false sky, and recovered Vokenar's body. At the [[Temple of Sigil]], he reincarnated Vokenar as a high elf, discovering that [[Boral Erendel]]'s Demi-Spell changes have constrained reincarnation to elven forms.
+Ceril crossed into [[Arkadia]] with [[Alamar]] and consulted [[Aeris]], [[Sigil]], and [[Crone]]. Along the way, he saw [[Damien Ouranous]] traveling with Vokenar's spirit and learned that [[Emperor Shen]] had slain Damien. Learning that Vokenar could be restored, Ceril returned to Stark through a closing sky passage, helped expose the Broyish capital's false sky, and recovered Vokenar's body. At the [[Temple of Sigil]], he reincarnated Vokenar as a high elf, discovering that [[Boral Erendel]]'s Demi-Spell changes have constrained reincarnation to elven forms.
 
 ## Session 033
 
