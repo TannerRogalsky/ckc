@@ -20,7 +20,7 @@ aliases:
   - Vokun
   - Vokunov
 session_introduced: "001"
-sessions_appeared: ["001", "011", "012", "013", "014", "015", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033"]
+sessions_appeared: ["001", "011", "012", "013", "014", "015", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033", "034"]
 related:
   - "[[Arkadia]]"
   - "[[Sigil]]"
@@ -62,7 +62,7 @@ related:
   - "[[Sunset's Solace]]"
   - "[[Sigrid Forgewelt]]"
   - "[[Tome of Satariel]]"
-  - "[[Tome Keeper]]"
+  - "[[Farraday]]"
   - "[[Baron Akathian the Second]]"
   - "[[Broy]]"
   - "[[Starfall]]"
@@ -248,3 +248,7 @@ Ceril recovered Vokenar's body from the [[Dawn Palace]] and reincarnated him at 
 ## Session 033
 
 Vokenar used Legend Lore to reveal [[Ninki Nanka]] as [[Windsurf]]'s ancient defender and a likely victim of the Mana Sickness curse. In the [[Mana Sea]], he helped break the [[Aboleth]]'s control over its thralls and sustained the party through the battle. His Arcane Eye located Ninki Nanka, the missing half of the [[Chart of the Witness]], and the dragon's abandoned hoard. Before leaving [[Southport]], he established a holy return point there and prepared to advance to level 13.
+
+## Session 034
+
+Vokenar entrusted [[Jack Harvey's Portrait]] to [[David Harvey]] and established [[The White Drake]] as another return point. He acquired the [[Ioun of the Gilded Savior]], whose magic links him to a chosen companion. In [[Tome Keeper's Pyramid]], he broke the domination that had turned [[Domyx]] against the party and sustained the group through [[Farraday]]'s defenses. After Farraday's defeat, Vokenar established the pyramid as a magical return point and potential base.

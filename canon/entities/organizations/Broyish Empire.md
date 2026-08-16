@@ -2,7 +2,7 @@
 type: organization
 subtypes: [empire]
 session_introduced: "004"
-sessions_appeared: ["013", "014", "016", "022", "023", "030", "031", "033"]
+sessions_appeared: ["013", "014", "016", "022", "023", "030", "031", "033", "034"]
 aliases:
   - Dawn Empire
 related:
@@ -47,3 +47,7 @@ The imperial flagship [[Imperial Xihe]] then reached [[Lyngbakr Lagoon]] with [[
 ## Session 033
 
 [[Lodestar]] reported that Broyish Empire troops and ships were retreating amid a power vacuum in the east. [[Emperor Shen]] appeared weakened and was not expected to act before the next moon.
+
+## Session 034
+
+With Emperor Shen absent, imperial waters were largely empty and the Broyish towns had entered a period of political confusion. The Empire was militarily weakened, and its prior form of government had collapsed without a clear successor, creating the risk of crime and instability before a new revolutionary force could take hold.

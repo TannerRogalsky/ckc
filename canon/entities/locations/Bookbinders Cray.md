@@ -2,7 +2,7 @@
 type: location
 subtypes: [building]
 session_introduced: "001"
-sessions_appeared: ["001", "003", "013"]
+sessions_appeared: ["001", "003", "013", "034"]
 related:
   - "[[Pleasance MacLenth]]"
   - "[[Cutlass Cray]]"

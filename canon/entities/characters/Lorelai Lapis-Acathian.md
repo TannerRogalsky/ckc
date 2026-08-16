@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc]
 session_introduced: "016"
-sessions_appeared: ["016", "021", "024", "026"]
+sessions_appeared: ["016", "021", "024", "026", "034"]
 aliases:
   - Lorelai
   - Lorelei
@@ -31,3 +31,5 @@ In session 024, Lorelai Lapis-Acathian emerged from hiding at [[Acathian Manor]]
 After Domyx was disowned, the party proceeded to the [[Prison of Frost]] to rescue [[Ulrich Fjoller]]. [[Ceril]] dispelled the magical barrier holding Ulrich captive. With both Ulrich and Lorelai Lapis-Acathian free, they joined the party and returned to [[The Opal]] as new crew members — the ship now carrying two couples, one of whom was pregnant.
 
 In session 026, Lorelai Lapis-Acathian joined the crew's discussion of [[Emperor Shen]] aboard The Opal, emphasizing the vast suffering caused by her grandfather.
+
+In session 034, Lorelai Lapis-Acathian and [[Ulrich Fjoller]] left [[The Opal]] as her pregnancy neared its end. They intended to prepare a safe home for their child while staying close to the changing world through [[The White Drake]] and possibly [[Southport]].

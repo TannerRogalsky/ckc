@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc, antagonist]
 session_introduced: "011"
-sessions_appeared: ["011", "013", "023", "024", "026", "030", "031", "032", "033"]
+sessions_appeared: ["011", "013", "023", "024", "026", "030", "031", "032", "033", "034"]
 aliases:
   - Domyx's Ancestor
   - Domyx Acathian III
@@ -51,3 +51,7 @@ After Domyx swapped places with Obould, Emperor Shen seized the caged Domyx and 
 ## Session 033
 
 [[Lodestar]]'s divination indicated that Emperor Shen had lost access to some of his former magic and would remain inactive until at least the next moon. The party used this respite to pursue other existential threats.
+
+## Session 034
+
+Emperor Shen's continuing absence left the [[Broyish Empire]] militarily weakened and politically fractured. The former imperial waters emptied, while Broyish towns faced uncertainty over what government or revolutionary force would replace his rule.

@@ -33,7 +33,7 @@ Vanzia confirmed that [[Obould]] is in the custody of [[Vizier Jade]] as prisone
 
 The party learned that magic is restricted in parts of the capital — permanent dead magic zones in hotels and Globe of Invulnerability-like fields suppressing spells below 7th level. Spell scrolls are contraband. [[Oni]] sentries rotate positions at set intervals, some invisibly.
 
-The party explored the bustling market, finding diverse non-human residents despite the empire's xenophobic reputation. [[Red Caesar]] met [[Chan Hu]], an ancient-world survivor who recognized him as a member of [[Heaven's Bulb]] and claimed to have known [[Master Lee]] under the name "The Emerald Leaf." The party considered outfitting [[The Opal]] with cannons from a market arms dealer.
+The party explored the bustling [[Dawn Market]], finding diverse non-human residents despite the empire's xenophobic reputation. [[Red Caesar]] met [[Qian Hu]], an ancient-world survivor who recognized him as a member of [[Heaven's Bulb]] and claimed to have known [[Master Lee]] before [[The Cataclysm]]. The party considered outfitting [[The Opal]] with cannons from a market arms dealer.
 
 [[Vokenar]] proposed helping the Southport couple with their plague after the current mission, even if that meant personally accompanying them later.
 
@@ -68,5 +68,5 @@ The party arrived at the [[Broyish Empire]], survived a titan attack, and entere
 - [[The League of New Stark]]'s penumbra payments have extended [[Obould]]'s stay of execution to roughly three months.
 - [[Vanzia Vinfei]]'s presence in the [[Broyish Capital]] connects Ceril's past escape from [[Brimbolyn]] to the present mission.
 - [[Mana Sickness]] and [[Deep Roses]] introduce a new quest thread tied to [[Southport]] and the [[Mana Sea]].
-- [[Chan Hu]] connects to [[Heaven's Bulb]] lore and [[Master Lee]]'s past.
+- [[Qian Hu]] connects the [[Dawn Market]] to [[Heaven's Bulb]] lore and [[Master Lee]]'s past.
 - The [[Broyish Capital]]'s magic restrictions and oni surveillance present ongoing operational challenges.

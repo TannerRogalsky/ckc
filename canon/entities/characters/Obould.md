@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "015", "016", "019", "021", "022", "023", "026", "030", "031", "032"]
+sessions_appeared: ["001", "013", "015", "016", "019", "021", "022", "023", "026", "030", "031", "032", "034"]
 related:
   - "[[The Opal]]"
   - "[[Domyx]]"
@@ -43,3 +43,7 @@ During [[Red Caesar]]'s forced dream, [[Emperor Shen]] told [[Vizier Jade]] that
 ## Session 031
 
 [[Emperor Shen]] and [[Vizier Jade]] brought Obould to [[Lyngbakr Lagoon]] bound, gagged, and caged, using him as leverage to demand the [[Penumbra]]. [[Kerben]] shot open Obould's restraints, and [[Domyx]] used cloud jaunt to exchange places with him. Once freed, Obould ordered Kerben to lead him back to [[The Opal]] immediately, warning that greater dangers were unfolding.
+
+## Session 034
+
+At [[The White Drake]], Obould learned that the party had secretly placed [[Antumbra]] in the Penumbra sent to the [[Broyish Empire]]. He permanently resigned as captain of [[The Opal]], naming [[Kerben]] as his successor. Obould then proposed to [[Lady Jacinthe]] with [[Obould's Wedding Band]]. She accepted, and they agreed to lead [[The League of New Stark]] together.

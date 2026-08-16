@@ -2,7 +2,7 @@
 type: creature
 subtypes: [enemy]
 session_introduced: "001"
-sessions_appeared: ["001", "015", "018", "026"]
+sessions_appeared: ["001", "015", "018", "026", "034"]
 related:
   - "[[Castle Kaedon]]"
   - "[[Xarag's Island]]"

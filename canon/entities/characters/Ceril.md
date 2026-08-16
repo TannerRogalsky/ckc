@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033", "034"]
 related:
   - "[[Vanzia Vinfei]]"
   - "[[House Kiirnodel]]"
@@ -30,7 +30,7 @@ related:
   - "[[Rakshasa]]"
   - "[[Veronia Karadel]]"
   - "[[Rizolvir Kiirnodel]]"
-  - "[[Tome Keeper]]"
+  - "[[Farraday]]"
   - "[[Tome of Satariel]]"
   - "[[Tome Keeper's Pyramid]]"
   - "[[Broy]]"
@@ -81,7 +81,7 @@ Can cast: Plant Growth, Guiding Bolt, Luminous Arrow, Moonbeam (repositionable a
 - Visited [[Gossa]] at the [[Elvish Marketplace]] and traded a Mask of Ogun for an amulet that allows him to summon his familiar as a magma elemental. The magma familiar has claws, fire breath, and a death burst that explodes into a fireball if killed.
 - At [[The Academy]], recognized [[Keys]] and [[Illidrielle Gandara]] as the same individuals who stole [[Penumbra]] from [[Castle Kaedon]].
 - Negotiated an accord with the Order: the party will stop collecting new Penumbra, and if their plan to fix the sky fails, they will give all collected Penumbra to the Order. In exchange, the Order granted access to teleport circles.
-- Revealed that his father is the [[Rakshasa]], a divine being he visited in a cave for years. Keys and Lydriel were unaware of the Rakshasa's existence.
+- Revealed that his father is the [[Rakshasa]], a divine being he visited in a cave for years. [[Keys]] and [[Illidrielle Gandara]] were unaware of the Rakshasa's existence.
 - Visited [[House Kiirnodel]] and recognized [[Veronia Karadel]] and [[Rizolvir Kiirnodel]] from his pre-Cataclysm escape flashback. Veronia recognized Ceril's future self, saying his soul survives many worlds unchanged and predicting he would become a god in the reset world.
 
 ## Session 015
@@ -90,7 +90,7 @@ After the party returned from elf country, Ceril was asleep in the bunks when [[
 
 The party boarded the hobgoblins' second ship, [[The Hideous Truth]], and confronted the [[Warg Lord]]. Ceril's Moonbeam stripped away the creature's goblin-like features, revealing its true beast form. He helped keep the party alive until [[Kerben]] delivered the killing shot.
 
-The party sailed to [[The Garden]]. Ceril accompanied [[Domyx]] to meet the [[Rakshasa]] in the inner sanctum. The Rakshasa showed emotion when Ceril mentioned coming on behalf of his son, then hid his true thoughts. The Rakshasa revealed he is trapped and must hunt escaped demons, and gave the party a quest to kill the [[Tome Keeper]] demon. Ceril also joined [[Red Caesar]] in visiting [[Boral Erendel]], who revealed his eugenics plan for the [[Demi-Spell]] — reincarnating all beings as high elves. Ceril called Boral an apostate and proposed capturing or assassinating the Rakshasa as leverage against [[Keys]] to halt the Demi-Spell entirely. The party reached level 9.
+The party sailed to [[The Garden]]. Ceril accompanied [[Domyx]] to meet the [[Rakshasa]] in the inner sanctum. The Rakshasa showed emotion when Ceril mentioned coming on behalf of his son, then hid his true thoughts. The Rakshasa revealed he is trapped and must hunt escaped demons, and gave the party a quest to kill [[Farraday]]. Ceril also joined [[Red Caesar]] in visiting [[Boral Erendel]], who revealed his eugenics plan for the [[Demi-Spell]] — reincarnating all beings as high elves. Ceril called Boral an apostate and proposed capturing or assassinating the Rakshasa as leverage against [[Keys]] to halt the Demi-Spell entirely. The party reached level 9.
 
 ## Session 018
 
@@ -130,7 +130,7 @@ The party sailed to the [[Harengon Warrens]] island and was ambushed by invisibl
 
 ## Session 023
 
-During the voyage to [[Broy]], Ceril cast Commune with Nature to locate the [[Tome Keeper]]. Dragonflies appeared as indicators that the fiend was within three miles. Ceril discovered a pyramid-shaped landmass approximately 10 miles away — [[Tome Keeper's Pyramid]], created by the [[Arcanoloth]] to house the [[Tome of Satariel]]. The eastern waters retain pre-[[The Cataclysm|Cataclysm]] ecology, with ancient trees visible beneath the waves.
+During the voyage to [[Broy]], Ceril cast Commune with Nature to locate [[Farraday]]. Dragonflies appeared as indicators that the fiend was within three miles. Ceril discovered a pyramid-shaped landmass approximately 10 miles away — [[Tome Keeper's Pyramid]], created by the [[Arcanoloth]] to house the [[Tome of Satariel]]. The eastern waters retain pre-[[The Cataclysm|Cataclysm]] ecology, with ancient trees visible beneath the waves.
 
 Ceril fought alongside the party against [[Baron Akathian the Second]] and the frost titan during the storm. He repositioned his Moonbeam on the cloud titan and rode on [[Domyx]]'s shoulder during the enlarged titan battle. After the titans departed, the party docked near the coast of [[Broy]].
 
@@ -195,3 +195,7 @@ Ceril crossed into [[Arkadia]] with [[Alamar]] and consulted [[Aeris]], [[Sigil]
 ## Session 033
 
 Ceril identified the psychic command binding driders in the [[Mana Sea]], revealed the invisible [[Aboleth]] with Starry Wisp, and helped destroy it. Following [[Lodestar]]'s warning, he preserved Greater Restoration until [[Red Caesar]] delivered him through [[Ninki Nanka]]'s poisonous cave in a protective sphere. Ceril removed the dragon's Penumbra-born curse, ending the source of [[Mana Sickness]], and prepared to advance to level 13.
+
+## Session 034
+
+The destruction of [[Farraday]]'s Stark body and the [[Tome of Satariel]] freed Ceril's father, [[Rakshasa]], from Farraday's surveillance. Ceril later rejoined the party near [[House Kiirnodel]] and accompanied them to [[House Erendel]], where several copies of [[Boral Erendel]] and another created figure resembling [[Vokenar]] guarded the laboratory.

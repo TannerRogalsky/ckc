@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc]
 session_introduced: "001"
-sessions_appeared: ["001", "015", "021", "024", "029", "031"]
+sessions_appeared: ["001", "015", "021", "024", "029", "031", "034"]
 aliases:
   - Roxy
   - Raxi
@@ -24,3 +24,7 @@ Raxxy was on watch duty when [[Theo Harvey]] escaped. She was found delirious in
 ## Session 031
 
 After [[The Opal]] escaped the [[Broyish Empire]] fleet and reached [[Lyngbakr Lagoon]], Raxxy reported that the crew had survived without losses and that the ship had made it to the lagoon while still damaged but intact.
+
+## Session 034
+
+When [[Obould]] retired and named [[Kerben]] captain, Raxxy chose to remain aboard [[The Opal]]. Although she had considered leaving after Obould's departure, returning to [[Southport]] convinced her that the ship and its crew were now her home.

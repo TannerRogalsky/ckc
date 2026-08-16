@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc]
 session_introduced: "014"
-sessions_appeared: ["014", "022", "025", "032"]
+sessions_appeared: ["014", "022", "025", "032", "034"]
 aliases:
   - Keyes
 related:

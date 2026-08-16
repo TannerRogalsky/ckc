@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc, ally]
 session_introduced: "022"
-sessions_appeared: ["022"]
+sessions_appeared: ["022", "034"]
 aliases:
   - Deva
 related:
@@ -24,3 +24,5 @@ David's great uncle was [[Jack Harvey]], the famous Kaedon-era entrepreneur who 
 The League and David have assembled a large gold bounty for Theo Harvey's safe return as a prisoner. Killing him would likely forfeit the reward, as the League wants him alive for interrogation about what he revealed to the Empire.
 
 The warrens are extensive, extending well below the level of the old oceans, and are connected to tunnels in an area once called [[Esperanto]]. The Harengon had begun developing these tunnels when they trusted the Empire more closely, before switching allegiance to the League.
+
+In session 034, [[Vokenar]] gave David [[Jack Harvey's Portrait]], believing the family relic should remain with the Harveys. David hung the portrait aboard [[The White Drake]].

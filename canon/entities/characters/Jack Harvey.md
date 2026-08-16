@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc]
 session_introduced: "018"
-sessions_appeared: ["018", "022", "024", "027", "030", "031"]
+sessions_appeared: ["018", "022", "024", "027", "030", "031", "034"]
 related:
   - "[[The Carrot Cake]]"
   - "[[David Harvey]]"

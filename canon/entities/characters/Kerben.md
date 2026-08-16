@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "011", "012", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033"]
+sessions_appeared: ["001", "011", "012", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033", "034"]
 aliases:
   - Kerbin
   - Curbin
@@ -207,3 +207,9 @@ Kerben discovered that his ranger egg can temporarily store [[The Opal]] and its
 ## Session 033
 
 Kerben brought [[Victor, the Amphibious Beast]] through the [[Mana Sea]], collected rare swamp ingredients, and recovered [[Rahmadi]]'s cloak from a failed expedition. During the [[Aboleth]] battle, [[Domyx]] freed him from a tentacle and Kerben immediately killed the creature with a sustained blade assault. Kerben then prepared to advance to level 13.
+
+## Session 034
+
+[[Obould]] permanently transferred command of [[The Opal]] to Kerben. Most of the crew accepted him as captain, [[Raxxy]] chose to stay, and Kerben recruited [[Vorgan of the Stage]] as the ship's performer. He acquired the [[Ioun of the Emerald Hunter]].
+
+At [[Tome Keeper's Pyramid]], Kerben recognized the fiend as [[Farraday]], his former employer. He destroyed the [[Tome of Satariel]] before it could restore itself and later dealt the final blow to Farraday's body, forcing him back to hell and ending his last foothold on Stark.

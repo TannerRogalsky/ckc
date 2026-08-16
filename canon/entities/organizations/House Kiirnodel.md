@@ -2,7 +2,7 @@
 type: organization
 subtypes: [faction]
 session_introduced: "013"
-sessions_appeared: ["013", "014", "022"]
+sessions_appeared: ["013", "014", "022", "034"]
 aliases:
   - House Kier Nodell
   - Kier Nodell
@@ -29,3 +29,5 @@ In session 014, the party visited House Kiirnodel in [[Brimbolyn]]. The estate i
 [[Veronia Karadel]], a drow of former House Karadel and mother of [[Keys]], is "chiefly in command of enacting the demi-spell" from House Kiirnodel. She recognized [[Ceril]] from before [[The Cataclysm]] and predicted his soul survives many worlds unchanged.
 
 The house granted the party [[Teleport Keys]] for accessing teleport circles back to Brimbolyn. They asked the party to check on [[Boral Erendel]] at [[The Garden]] and convince him to return.
+
+In session 034, [[Rizolvir Kiirnodel]] received the party through the house's teleport circle. He agreed to stop urging [[Keys]] to cast the [[Demi-Spell]] while the party confronts Boral Erendel and provided a map to [[House Erendel]].

@@ -2,7 +2,7 @@
 type: concept
 subtypes: [lore]
 session_introduced: "019"
-sessions_appeared: ["019", "021", "022", "023", "024", "026", "031", "032", "033"]
+sessions_appeared: ["019", "021", "022", "023", "024", "026", "031", "032", "033", "034"]
 aliases:
   - Star screen
   - Skyfall
@@ -43,3 +43,7 @@ Aeris explained that the Starfall was originally used to connect Stark with [[Ar
 ## Session 031
 
 [[The Tyrant]] revealed that Starfall is located beneath the world at its center, in [[Axis Mundi]]. It described the device as born with the world and composed of Stark's four elements, matching the party's earlier vision of the ring combining earth, water, air, and fire. [[Fharan]] later confirmed that the [[Broyish Empire]] intends Starfall's next shot to target [[Sigil]], the sun. Even after [[Lyngbakr]] repaired the [[Hole in the Sky]], Starfall remains active and [[Aeris]] remains imprisoned within it.
+
+## Session 034
+
+The party concluded that the [[Antumbra]] would permanently annihilate Starfall if used as fuel, with both artifacts destroying each other. They could not confirm whether the sabotage had already occurred, leaving Starfall's current state unresolved.

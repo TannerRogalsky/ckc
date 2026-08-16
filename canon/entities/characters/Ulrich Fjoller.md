@@ -2,7 +2,7 @@
 type: character
 subtypes: [crew]
 session_introduced: "013"
-sessions_appeared: ["013", "016", "024", "025", "026", "031"]
+sessions_appeared: ["013", "016", "024", "025", "026", "031", "034"]
 aliases:
   - Ulric
   - Ulrich Fjöler
@@ -27,3 +27,5 @@ In session 024, [[Charlotte]] revealed that Ulrich had told her before being tak
 In session 024, the party reached the [[Prison of Frost]], a facility sealed behind a plane of pure magical energy — an abomination to titan folk who traditionally shun magic. [[Domyx]] presented himself without his Akathian title as a mark of his renounced identity. [[Ceril]] dispelled the barrier with ease, freeing Ulrich. He greeted Domyx and [[Lorelai Lapis-Acathian]] with relief and asked if the world below was safe for them. With the barrier broken, Ulrich and Lorelai Lapis-Acathian joined the party and returned to [[The Opal]] as new crew members.
 
 In session 031, Ulrich manned one of [[The Opal]]'s cannons during the [[Broyish Empire]] naval attack and advised [[Kerben]] on ship tactics while the crew fought to escape the incoming fleet.
+
+In session 034, Ulrich and [[Lorelai Lapis-Acathian]] left [[The Opal]] as their child's birth approached. They sought safety without abandoning the wider world, considering a home connected to [[The White Drake]] or [[Southport]].

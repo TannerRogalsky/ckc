@@ -2,7 +2,7 @@
 type: item
 subtypes: [artifact]
 session_introduced: "025"
-sessions_appeared: ["025"]
+sessions_appeared: ["025", "034"]
 aliases:
   - Star Virus
   - Entumbra
@@ -30,7 +30,7 @@ The process was named the "Caesarean method" after Red Caesar.
 
 ## Properties
 
-Lydriel and Keys poisoned the synthesized Penumbra using a special method concealed by illusion, ensuring the poison would not infect their own samples. The resulting material — called Antumbra — is structurally unstable at its core. When fed into a device like [[Starfall]], it is expected to cause catastrophic damage rather than function as fuel. It spreads rapidly within its target system, more like a virus or bomb than a traditional poison.
+[[Illidrielle Gandara]] and Keys poisoned the synthesized Penumbra using a special method concealed by illusion, ensuring the poison would not infect their own samples. The resulting material — called Antumbra — is structurally unstable at its core. When fed into a device like [[Starfall]], it is expected to cause catastrophic damage rather than function as fuel. It spreads rapidly within its target system, more like a virus or bomb than a traditional poison.
 
 The Antumbra can be replicated at a rate of approximately one sphere every five to ten days once the method is established. Red Caesar retains the knowledge of the synthesis process, and the elves at Brimbolyn could industrialize it.
 
@@ -39,3 +39,5 @@ The Antumbra can be replicated at a rate of approximately one sphere every five 
 During session 025, the party planted the Antumbra into the hidden [[Penumbra]] stash aboard [[The White Drake]]. [[Kerben]] sneaked aboard the ship invisible and, using [[Zulu]] as a distraction, lockpicked into the hold and pitched the Antumbra among the League's stockpiled Penumbra stones. The League is expected to eventually hand off the contaminated Penumbra to the [[Broyish Empire]], where it would be fed into [[Starfall]].
 
 [[Aeris]] confirmed through divination that deploying the Antumbra carries no risk of harming the piece of herself trapped within Starfall.
+
+In session 034, [[Red Caesar]] and [[Kerben]] concluded that Starfall consuming the Antumbra would cause both artifacts to annihilate each other permanently. They could not determine whether this had already happened without further divination.

@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033", "034"]
 aliases:
   - Domyx Akathian
   - Domix
@@ -95,7 +95,7 @@ That night, hobgoblin pirates boarded [[The Opal]]. Domyx was jostled awake by g
 
 The party then boarded the hobgoblins' second ship, [[The Hideous Truth]], and confronted the [[Warg Lord]], a massive fey creature with a bear-wolf body and a goblin face. Domyx fought through the creature's fearsome howl and held the front line until [[Kerben]] delivered the killing shot.
 
-The party decided they lacked resources to crew a third ship and hid the vessel in a jungled grotto, renaming it [[The Hideous Truth]]. They sailed to [[The Garden]], where Domyx accompanied [[Ceril]] to meet the [[Rakshasa]] in the inner sanctum. The Rakshasa recognized Domyx as Domyx Akathian, revealing he had once visited Domyx's realm and met his father. The Rakshasa gave the party a quest to find and kill the [[Tome Keeper]] demon, which would allow him to leave his hiding place and visit his family.
+The party decided they lacked resources to crew a third ship and hid the vessel in a jungled grotto, renaming it [[The Hideous Truth]]. They sailed to [[The Garden]], where Domyx accompanied [[Ceril]] to meet the [[Rakshasa]] in the inner sanctum. The Rakshasa recognized Domyx as Domyx Akathian, revealing he had once visited Domyx's realm and met his father. The Rakshasa gave the party a quest to find and kill [[Farraday]], which would allow him to leave his hiding place and visit his family.
 
 The party reached level 9; Domyx gained Brutal Strike, Forceful Blow, and Hamstring Blow abilities.
 
@@ -218,3 +218,7 @@ Shen held Domyx in the [[Dawn Palace]] and tried to persuade him to become imper
 ## Session 033
 
 Domyx guarded the party through the [[Mana Sea]] and broke [[Kerben]] free from the [[Aboleth]] while restraining the creature himself. He later tested the poisonous approach to [[Ninki Nanka]]'s cave, proving that magical protection would be required. During [[The Opal]]'s Southport refit, he helped residents carry and install the new ship fittings, then prepared to advance to level 13.
+
+## Session 034
+
+Domyx supported [[Red Caesar]] through the emotional impact of [[Obould]]'s retirement, then helped the party destroy [[Farraday]]'s foothold in Stark. [[Sigrid Forgewelt]] transformed his former hammer into the [[Cestus of the Clear Sky]], whose magic spreads the appearance of the restored heavens across one side of his body. He refused to attack the apparently helpless [[Yalet Aurum]] and later reached [[House Erendel]] with the party.

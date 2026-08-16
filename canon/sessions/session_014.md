@@ -83,7 +83,7 @@ At the Academy, the party learned extensive details about the [[Demi-Spell]]: it
 
 The Demi-Spell is more powerful than the gods — "the one thing mortals have over them." The gods are almighty but not omnipotent.
 
-A heated philosophical debate ensued. Lydriel argued that fixing the sky deprives people of choice. Red countered that the Order's approach takes away choice from even more people. Ceril revealed his father is the [[Rakshasa]], a divine being he visited in a cave for years — news Keys and Lydriel had never heard.
+A heated philosophical debate ensued. [[Illidrielle Gandara]] argued that fixing the sky deprives people of choice. Red countered that the Order's approach takes away choice from even more people. Ceril revealed his father is the [[Rakshasa]], a divine being he visited in a cave for years — news Keys and Illidrielle Gandara had never heard.
 
 The party negotiated an accord: they will stop collecting new Penumbra, and if their plan to fix the sky fails, they will give all collected Penumbra to the Order. In exchange, the Order granted the party access to teleport circles. Keys and Ceril shook hands.
 

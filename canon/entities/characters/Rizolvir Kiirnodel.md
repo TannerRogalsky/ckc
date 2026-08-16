@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc]
 session_introduced: "014"
-sessions_appeared: ["014", "022"]
+sessions_appeared: ["014", "022", "034"]
 aliases:
   - Risolvir Kiirnodel
   - Rizolvir Kyrno Del
@@ -20,3 +20,5 @@ Leader of [[House Kiirnodel]], nephew of [[Aramil Kiirnodel]]. Aligned chiefly w
 He recognized [[Ceril]] from before [[The Cataclysm]] — they were the two faces from Ceril's escape flashback. He warned the party that their greatest enemy is the [[Broyish Empire]], which is also pursuing the [[Genesis Mundi]] and collecting [[Penumbra]] pieces for what he believes is a weapon. He said the Empire is more violent than any elf and kills people who don't even stand in their way.
 
 In session 022, Rizolvir greeted [[Red Caesar]] and [[Ceril]] when they arrived at [[House Kiirnodel]]'s teleport circle in Brimbolyn. He recognized them and asked their purpose. [[Veronia Karadel]] identified Ceril as "Cyril Kelnavi, survivor of the old world." Rizolvir lowered the Otiluke blast shield surrounding the circle. When Red reported that [[Boral Erendel]] had developed "wild ideas" at [[The Garden]] and was adding pages to the [[Demi-Spell]] on his own, Rizolvir agreed to send someone to retrieve him, though he noted Boral's son was overwhelmed with work.
+
+In session 034, Rizolvir Kiirnodel acknowledged that stopping [[Boral Erendel]] primarily advances the [[Demi-Spell]], which the party also opposes. He agreed to stop urging [[Keys]] to cast the spell and give the party more time to save the existing world. In exchange, the party accepted a map to [[House Erendel]] and agreed to confront Boral Erendel.

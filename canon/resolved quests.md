@@ -99,3 +99,18 @@
 - **Given by:** [[Southport]] (implicit)
 - **Resolved:** Session 033
 - **Details:** [[Ceril]] reached [[Ninki Nanka]] through the dragon's poisonous cave and removed a Penumbra-born curse with Greater Restoration. This ended new [[Mana Sickness]] infections, while [[Deep Roses]] continue treating existing victims.
+
+## Reunite Obould and Lady Jacinthe
+- **Given by:** Implicit (crew loyalty)
+- **Resolved:** Session 034
+- **Details:** After his rescue, [[Obould]] retired as captain of [[The Opal]], proposed to [[Lady Jacinthe]] with [[Obould's Wedding Band]], and agreed to lead [[The League of New Stark]] alongside her.
+
+## Kill Farraday
+- **Given by:** [[Rakshasa]]
+- **Resolved:** Session 034
+- **Details:** The party discovered that [[Farraday]] was the [[Arcanoloth]] holding the [[Tome of Satariel]]. [[Kerben]] destroyed the tome and Farraday's body on Stark, forcing the fiend back to hell and ending his surveillance of the Rakshasa.
+
+## Defeat Yalet Aurum
+- **Given by:** [[Yalet Mora]]
+- **Resolved:** Session 034
+- **Details:** The party refused to attack the apparently helpless [[Yalet Aurum]]. He surrendered a massive golden brain and let Yalet Mora believe he was dying, peacefully ending their feud while secretly remaining healthy.

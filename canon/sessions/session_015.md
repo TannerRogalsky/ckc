@@ -17,7 +17,7 @@ summary: "Kerben trades with goblins, the party captures The Hideous Truth, lear
 - The party defeats the [[Warg Lord]] aboard the captured vessel and renames the ship [[The Hideous Truth]].
 - The party hides [[The Hideous Truth]] in a jungled grotto for later use.
 - At [[The Garden]], [[Theotropa]] offers the party a drained [[Penumbra]] chunk if they destroy the [[Storm Phoenix]].
-- [[Domyx]] and [[Ceril]] meet the [[Rakshasa]], who asks the party to kill the [[Tome Keeper]] and deal with the [[Tome of Satariel]].
+- [[Domyx]] and [[Ceril]] meet the [[Rakshasa]], who asks the party to kill [[Farraday]] and deal with the [[Tome of Satariel]].
 - [[Red Caesar]] and [[Ceril]] discover [[Boral Erendel]]'s plan to use the [[Demi-Spell]] to reincarnate all spirits into high elf bodies.
 - [[Vokenar]] summons [[Crone]], who reveals [[Aeris]] can heal the sky if given enough power and warns that the elves will not abandon the Demi-Spell.
 - The party destroys the [[Storm Phoenix]], returning lightning to the heavens.
@@ -38,7 +38,7 @@ That night, hobgoblin pirates board [[The Opal]]. [[Raxxy]] and [[Obould]] are i
 
 The second vessel appears adrift. Below decks, the party finds the [[Warg Lord]], a massive fey creature with a bear-wolf body and goblin-like face. [[Ceril]]'s Moonbeam strips away the goblin features, revealing its true beast form, and the party destroys it. The captured ship was originally named Eschaton, meaning "end times" in Fae. The party renames it [[The Hideous Truth]] and hides it in a jungled grotto under foliage because they do not yet have enough crew to operate a third ship.
 
-The party sails to [[The Garden]], now busier and more organized as a druid supply hub for nearby settlements. [[Domyx]] and [[Ceril]] meet the [[Rakshasa]] in the inner sanctum. The Rakshasa recognizes Domyx's Akathian heritage and reacts emotionally when Ceril says he came on behalf of the Rakshasa's son. He explains that he is trapped by a duty to hunt escaped demons and asks the party to find and kill the [[Tome Keeper]], who keeps the [[Tome of Satariel]] and can track him if he leaves hiding.
+The party sails to [[The Garden]], now busier and more organized as a druid supply hub for nearby settlements. [[Domyx]] and [[Ceril]] meet the [[Rakshasa]] in the inner sanctum. The Rakshasa recognizes Domyx's Akathian heritage and reacts emotionally when Ceril says he came on behalf of the Rakshasa's son. He explains that he is trapped by a duty to hunt escaped demons and asks the party to find and kill [[Farraday]], who keeps the [[Tome of Satariel]] and can track him if he leaves hiding.
 
 [[Kerben]] investigates the Garden's supply routes while [[Vokenar]] finds a drained [[Penumbra]] chunk in [[Theotropa]]'s possession. Theotropa agrees to give it to the party if they destroy the [[Storm Phoenix]], an elemental being driven mad by [[The Cataclysm]]. Meanwhile, [[Red Caesar]] and [[Ceril]] visit [[Boral Erendel]], who reveals a plan to use the [[Demi-Spell]] to reincarnate all spirits into high elf bodies. Red and Ceril are horrified by the plan and its implications.
 

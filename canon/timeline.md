@@ -286,7 +286,7 @@
 
 - The party decided they lacked resources to crew a third ship. [[Kerben]] and [[Domyx]] scouted a jungled grotto — a moon-shaped cape with canopy over the ocean — and hid the vessel there under foliage, protected from aerial reconnaissance by the [[Broyish Empire]]. They renamed it [[The Hideous Truth]]. The party discussed each member eventually getting their own ship.
 - The party sailed to [[The Garden]], which had grown more populated with boats. [[Theotropa]] was building a fleet with cyan and green banners to supply food and livestock to nearby settlements.
-- [[Domyx]] and [[Ceril]] met the [[Rakshasa]] in the Garden's inner sanctum. He recognized Domyx as Domyx Akathian and showed emotion when Ceril mentioned coming on behalf of his son. The Rakshasa revealed he is trapped and must hunt escaped demons before he can see his family. He tasked the party with finding and killing the [[Tome Keeper]] demon, who keeps the [[Tome of Satariel]] and can track the Rakshasa wherever he travels.
+- [[Domyx]] and [[Ceril]] met the [[Rakshasa]] in the Garden's inner sanctum. He recognized Domyx as Domyx Akathian and showed emotion when Ceril mentioned coming on behalf of his son. The Rakshasa revealed he is trapped and must hunt escaped demons before he can see his family. He tasked the party with finding and killing [[Farraday]], who keeps the [[Tome of Satariel]] and can track the Rakshasa wherever he travels.
 - [[Kerben]] investigated the Garden's supply routes with Theotropa. [[Vokenar]] used Locate Object to find a drained [[Penumbra]] chunk in Theotropa's possession. She agreed to give it if the party destroyed a [[Storm Phoenix]] — an elemental being driven mad by [[The Cataclysm]] — located south of the Garden.
 - [[Red Caesar]] and [[Ceril]] visited [[Boral Erendel]] in his side office. Boral revealed his eugenics plan for the [[Demi-Spell]]: he has created thousands of empty high elf forms and intends to reincarnate all spirits into these "perfect" bodies, eliminating all difference and war. He told Red that humans would be replaced by forms "better" than themselves. Red and Ceril were horrified.
 - [[Vokenar]] summoned [[Crone]] during a full moon. She appeared blood-soaked and exhausted. She confirmed there is time to stop the Demi-Spell but warned the party is more likely to die than run out of time. She revealed [[Aeris]] could heal the sky herself if given enough power — the party doesn't need all the Penumbra, just enough. She advised using the Rakshasa as a bargaining chip and confirmed the elves cannot be trusted to halt the Demi-Spell even if the sky were repaired.
@@ -495,7 +495,7 @@
 ### Chunk 0003
 
 - The party reaches level 10.
-- The [[Tome Keeper]] is identified as an [[Arcanoloth]] who commands a portion of the ocean and holds the [[Tome of Satariel]].
+- [[Farraday]] is identified as an [[Arcanoloth]] who commands a portion of the ocean and holds the [[Tome of Satariel]].
 - [[Mudeep]] is introduced as a contact at [[The Garden]] who trades art pieces for attunable magic items.
 - [[Domyx]] keeps private the fact that [[Obould]] named him heir to [[The Opal]] in his logbook.
 
@@ -542,8 +542,8 @@
 ### Chunk 0000
 
 - The party sails east toward [[Broy]] aboard [[The Opal]] with [[Theo Harvey]] as prisoner. The eastern waters retain pre-[[The Cataclysm]] ecology with ancient underwater trees.
-- [[Ceril]]'s Commune with Nature locates [[Tome Keeper's Pyramid]] — a temple in the eastern waters approximately 10 miles away, housing the [[Tome of Satariel]]. Dragonflies appear as indicators that the [[Tome Keeper]] is within three miles.
-- [[Vokenar]]'s Legend Lore reveals the Tome is made of 666 pages, each from a different wizard's soul, and returns to hell if destroyed. The Tome Keeper can only capture knowledge through death. The temple's interior mirrors its state in hell and contains traps.
+- [[Ceril]]'s Commune with Nature locates [[Tome Keeper's Pyramid]] — a temple in the eastern waters approximately 10 miles away, housing the [[Tome of Satariel]]. Dragonflies appear as indicators that [[Farraday]] is within three miles.
+- [[Vokenar]]'s Legend Lore reveals the Tome is made of 666 pages, each from a different wizard's soul, and returns to hell if destroyed. Farraday can only capture knowledge through death. The temple's interior mirrors its state in hell and contains traps.
 - The party decides to head to [[Broy]] first to rescue [[Obould]], based on the then-known deadline, and return to the pyramid later.
 - That night, [[Theo Harvey]] reveals to [[Domyx]] that [[The Carrot Cake]] was powered by [[Penumbra]] and is a maze of illusions and arcane traps. [[Vizier Jade]] sent [[The Tyrant]] to find it; the Tyrant never returned.
 - A fierce storm strikes as the party approaches the coast of [[Broy]]. Two titans appear: [[Baron Akathian the Second]], a cloud titan, and an unnamed female frost titan.
@@ -566,8 +566,8 @@
 - [[Vanzia Vinfei]] — who escaped [[Brimbolyn]] with [[Ceril]] decades earlier — is reunited with Ceril. She now operates alongside Naomi Ue in the [[Broyish Capital]].
 - Vanzia confirms [[Obould]] is held by [[Vizier Jade]] as prisoner of war and leverage against [[The League of New Stark]]. She offers to lead the party to Obould but warns Vizier Jade must be confronted first.
 - The party learns the capital has magic restrictions: permanent dead magic zones in hotels and fields suppressing spells below 7th level. Spell scrolls are contraband.
-- [[Red Caesar]] receives citizenship papers and a teleport circle scriptum back to [[Brimbolyn]]. He meets [[Chan Hu]], an ancient-world survivor who recognizes him as a member of [[Heaven's Bulb]].
-- The party explores the bustling market, finding diverse non-human residents despite the empire's xenophobic reputation. They consider outfitting [[The Opal]] with cannons.
+- [[Red Caesar]] receives citizenship papers and a teleport circle scriptum back to [[Brimbolyn]]. At the [[Dawn Market]], he meets [[Qian Hu]], an ancient-world survivor who recognizes him as a member of [[Heaven's Bulb]].
+- The party explores the diverse Dawn Market and considers outfitting [[The Opal]] with cannons.
 - The party long-rests in the [[Broyish Capital]].
 
 ### Chunk 0002
@@ -968,4 +968,34 @@
 - Red Caesar decodes and recombines the Chart of the Witness; it suggests [[Axis Mundi]] lies beyond a planar boundary rather than through an ordinary underground route.
 - Lodestar reports that [[Emperor Shen]] is weakened and the [[Broyish Empire]] is retreating until at least the next moon.
 - [[Southport]] installs voice pipes and expanded dormitories aboard [[The Opal]], and eleven local deckhands join the crew.
-- The party chooses to pursue the [[Tome Keeper]] before confronting [[Boral Erendel]].
+- The party chooses to pursue [[Farraday]] before confronting [[Boral Erendel]].
+
+## Session 034
+
+### Chunk 0000
+
+- [[Red Caesar]] tells [[Obould]] and [[Lady Jacinthe]] that the party planted [[Antumbra]] in the Penumbra sent toward [[Starfall]].
+- Obould permanently resigns as captain of [[The Opal]], names [[Kerben]] his successor, and becomes engaged to Lady Jacinthe.
+- [[Raxxy]] stays with Kerben's crew, while [[Lorelai Lapis-Acathian]] and [[Ulrich Fjoller]] leave to prepare for their child's birth.
+- [[Vokenar]] gives [[Jack Harvey's Portrait]] to [[David Harvey]], who hangs it aboard [[The White Drake]].
+- Kerben recruits [[Vorgan of the Stage]] as The Opal's performer in [[Cutlass Cray]].
+- Red Caesar returns the [[Tomb of Lenth the Rugged]] to [[Pleasance MacLenth]].
+- The party enters [[Tome Keeper's Pyramid]], survives shallow [[Akasha]] and magical wards, and recovers two caches of diamonds.
+
+### Chunk 0001
+
+- The party discovers that the fiend occupying the pyramid is [[Farraday]], Kerben's former employer and Jack Harvey's benefactor.
+- Kerben destroys the [[Tome of Satariel]], severing Farraday's material ledger and leaving only three intact spells.
+- The party destroys Farraday's body on Stark, forcing him back to hell and removing his last foothold in the world.
+- Vokenar establishes the pyramid as a magical return point and potential future base.
+- At the [[Dawn Market]], [[Geoffrey the Younger]] crafts three reusable magical bullets for [[Kerben]], while the party revisits [[Qian Hu]]'s old-world relic shop.
+- The [[Broyish Empire]] enters a period of military weakness and political uncertainty after [[Emperor Shen]]'s flight.
+- [[Sigrid Forgewelt]] reforges [[Domyx]]'s hammer into the [[Cestus of the Clear Sky]].
+
+### Chunk 0002
+
+- The party refuses to attack the apparently dying [[Yalet Aurum]], who gives [[Yalet Mora]] a massive golden brain to settle their feud.
+- After Yalet Mora leaves, Yalet Aurum reveals that the fallen moon fragment strengthened him and that he only staged his decline to encourage his brother.
+- [[Rizolvir Kiirnodel]] agrees to stop urging [[Keys]] to cast the [[Demi-Spell]] while the party moves against [[Boral Erendel]].
+- [[Ceril]] rejoins the party before they travel to [[House Erendel]].
+- The party reaches House Erendel and discovers multiple duplicates of Boral Erendel and another created figure resembling [[Vokenar]].

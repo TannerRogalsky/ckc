@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033", "034"]
 related:
   - "[[Antumbra]]"
   - "[[Heaven's Bulb]]"
@@ -79,7 +79,7 @@ Can cast: Shocking Grasp, Dispel Magic, Lightning Bolt, Fireball, Misty Step, Re
 - Met [[Garsinth Theralal]], an older elf who apologized for his son's prank and gave Red directions to [[Yalet Aurum]].
 - Visited [[Yalet Aurum]]'s monument in the jungle outside Brimbolyn. Yalet is a Galeb Duurr with a solid gold body encased in a 40-50 foot stone face. Yalet posed a riddle about his brother [[Yalet Mora]]; Red solved it as "bolder" (bold/rocks pun) and received chunks of gold from Yalet's laughter.
 - Yalet confirmed that [[The Order of Seasons]] is interested in collecting [[Penumbra]] and warned the party to "act faster than an elf."
-- At [[The Academy]], engaged in a heated philosophical debate with [[Keys]] and [[Illidrielle Gandara]] about the [[Demi-Spell]]. Red argued that the Order's approach takes away choice from the world's people: "I'm merely trying to patch up the sky, and then folks can do with that what they will." He countered Lydriel's claim that fixing the sky also deprives people of choice: "You're taking away that choice from so many people. Choice is life." The party negotiated an accord: they would stop collecting new Penumbra, and if their plan failed, they would give all collected Penumbra to the Order.
+- At [[The Academy]], engaged in a heated philosophical debate with [[Keys]] and [[Illidrielle Gandara]] about the [[Demi-Spell]]. Red argued that the Order's approach takes away choice from the world's people: "I'm merely trying to patch up the sky, and then folks can do with that what they will." He countered Illidrielle Gandara's claim that fixing the sky also deprives people of choice: "You're taking away that choice from so many people. Choice is life." The party negotiated an accord: they would stop collecting new Penumbra, and if their plan failed, they would give all collected Penumbra to the Order.
 - Visited [[House Kiirnodel]] with the party. Met [[Rizolvir Kiirnodel]] and [[Veronia Karadel]].
 - On the first evening sailing from [[Continental Stark]], [[Vizier Jade]] appeared on [[The Opal]]'s deck. She confirmed she has been watching Red and will continue to ensure he survives. Red declined her offer of a restriction scroll, saying his trust in her was bond enough. She cast Teleport Circle and departed, saying she won't appear again until the party arrives in the capital.
 
@@ -137,7 +137,7 @@ During the voyage to [[Broy]], Red helped track the titans during the storm, dis
 
 Upon disembarking near [[Broy]], Red helped engage the [[Oni]] demons threatening the human and tiefling civilians.
 
-In the [[Broyish Capital]], Red helped defeat the oni near the coast, then acquired citizenship papers from [[Vanzia Vinfei]] and received a teleport circle scriptum back to [[Brimbolyn]]. He explored the capital's market, meeting [[Chan Hu]] — an ancient-world survivor who recognized him as a member of [[Heaven's Bulb]].
+In the [[Broyish Capital]], Red helped defeat the oni near the coast, then acquired citizenship papers from [[Vanzia Vinfei]] and received a teleport circle scriptum back to [[Brimbolyn]]. He explored the [[Dawn Market]], meeting [[Qian Hu]] — an ancient-world survivor who recognized him as a member of [[Heaven's Bulb]].
 
 The party entered the imperial palace and was granted audience with [[Vizier Jade]]. Red attempted to negotiate [[Obould]]'s freedom by offering to teach the Empire how to synthesize penumbra from water. Jade read his thoughts directly and caught the deception, noting he had no solid plan in place. Red then pivoted to offering to procure penumbra over time. Jade demanded fifteen pieces — the same deal made with [[The League of New Stark]]. When Obould was brought before them, Red offered to part with one piece of penumbra to secure his captain's freedom, but Jade raised the price back to fifteen. Red departed the palace recognizing that Jade was conserving energy and keeping them alive as a resource.
 
@@ -194,3 +194,7 @@ Red Caesar arranged a Broyish capital uprising through [[Naomi Ue]], then used a
 ## Session 033
 
 Red Caesar reunited with [[Lodestar]], a fellow former student of [[Heaven's Bulb]]. In the [[Mana Sea]], his protective sphere contained a drider and later carried [[Ceril]] safely through [[Ninki Nanka]]'s poisonous cave. After recovering the missing half of the [[Chart of the Witness]], Red Caesar decoded and recombined the world map and prepared to advance to level 13.
+
+## Session 034
+
+Red Caesar revealed the [[Antumbra]] sabotage to [[Obould]] and [[Lady Jacinthe]], concluding that it would permanently destroy [[Starfall]] if consumed. In [[Cutlass Cray]], he returned the [[Tomb of Lenth the Rugged]] to [[Pleasance MacLenth]] and acquired the [[Ioun of Crimson Dreams]]. At [[Tome Keeper's Pyramid]], his countermagic repeatedly neutralized [[Farraday]]'s strongest spells, and he recovered three intact spells from the destroyed [[Tome of Satariel]]. He later negotiated with [[Rizolvir Kiirnodel]], winning a temporary reprieve from pressure to cast the [[Demi-Spell]] while the party confronts [[Boral Erendel]].

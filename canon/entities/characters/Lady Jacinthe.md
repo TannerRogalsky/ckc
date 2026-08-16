@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "016", "019", "022", "031"]
+sessions_appeared: ["001", "013", "016", "019", "022", "031", "034"]
 related:
   - "[[The League of New Stark]]"
   - "[[The White Drake]]"
@@ -28,3 +28,5 @@ In session 022, [[Red Caesar]] and [[Ceril]] visited [[The White Drake]] via Tel
 However, [[Ceril]]'s second scrying attempt — using a stolen portrait of Jacinthe christening [[The White Drake]] as focus — revealed her grief was a ruse. The wine bottles she had delivered up were unopened, lined up neatly. She only wept loudly after checking that the coast was clear. In private, [[Vizier Jade]] appeared in Jacinthe's room via illusion magic. Vizier Jade demanded Jacinthe help the Empire find [[Penumbra]], leveraging [[Obould]]'s captivity as pressure. She gave Jacinthe one month to deliver, promising that every piece of information provided might extend Obould's survival. Jacinthe, alone after Vizier Jade departed, spoke aloud: "One month. Can we even get there in one month?" This revealed that Jacinthe genuinely wants Obould to survive and is being coerced into betraying the party's Penumbra quest.
 
 In session 031, [[Obould]] was rescued from [[Vizier Jade]] and [[Emperor Shen]] at [[Lyngbakr Lagoon]], ending the hostage leverage Vizier Jade had held over Jacinthe and [[The League of New Stark]] since session 021.
+
+In session 034, Jacinthe learned that the party had hidden [[Antumbra]] in the Penumbra she surrendered to the [[Broyish Empire]]. After [[Obould]] retired from [[The Opal]], he proposed with [[Obould's Wedding Band]]. Jacinthe accepted, and they agreed to lead the League together rather than choose between their relationship and their responsibilities.

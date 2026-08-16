@@ -254,3 +254,13 @@
 ## [2026-08-16] update | Rizolvir Kiirnodel — Corrected canonical spelling, renamed entity file, preserved prior spelling as alias, and synchronized canon references.
 ## [2026-08-16] lint | session_014 — Standardized chunk headings and added integrated Summary and Connections sections during Rizolvir validation.
 ## [2026-08-16] lint | Rizolvir Kiirnodel — Validated links, frontmatter, entity index, session structures, appearances, aliases, canon prose, and quests.
+## [2026-08-16] ingest | session_034 chunk_0000 — Integrated crew transitions, Cutlass Cray, and pyramid entry.
+## [2026-08-16] ingest | session_034 chunk_0001 — Integrated Farraday battle, Broy transition, and dwarven shopping.
+## [2026-08-16] ingest | session_034 chunk_0002 — Integrated Yalet resolution, Demi-Spell bargain, and House Erendel arrival.
+## [2026-08-16] update | Farraday — Merged the Tome Keeper identity and preserved earliest session provenance.
+## [2026-08-16] lint | Illidrielle Gandara — Removed lingering aliases from touched canon prose.
+## [2026-08-16] lint | Entity index — Corrected four legacy category mismatches found during session_034 validation.
+## [2026-08-16] lint | session_034 — Validated links, frontmatter, entity index, summaries, appearances, aliases, prose, and quests.
+## [2026-08-16] update | Dawn Market — Canonicalized Geoffrey the Younger and Qian Hu as Broy vendors.
+## [2026-08-16] lint | The Emerald Leaf — Reassigned the alias from Qian Hu to Master Lee.
+## [2026-08-16] lint | Dawn Market — Validated vendor aliases, links, frontmatter, appearances, entity index, session structure, and quests.

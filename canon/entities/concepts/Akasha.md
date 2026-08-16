@@ -2,7 +2,7 @@
 type: concept
 subtypes: [lore, cosmology]
 session_introduced: "014"
-sessions_appeared: ["014", "021", "025", "030"]
+sessions_appeared: ["014", "021", "025", "030", "034"]
 related:
   - "[[Arkadia]]"
   - "[[Penumbra]]"
@@ -28,3 +28,5 @@ A theory emerged that [[Penumbra]] might be the crystallized or most solid form 
 This theory was confirmed in session 025 when [[Red Caesar]] successfully synthesized a small chunk of [[Penumbra]] from Akasha at [[The Academy]] in [[Brimbolyn]]. He theorized that Akasha is a less concentrated form of Penumbra and that extreme pressure could transmute it back. Using Otiluke's Resilient Sphere filled with Akasha and an inversion of enlarge/reduce spells, he compressed the sphere to hand-size, generating enormous internal pressure. After compressing an entire lake of collected Akasha roughly a thousand-fold, the process produced a perfect palm-sized sphere of jet-black synthesized Penumbra. The method — dubbed the "Caesarean method" — could produce approximately one sphere every five to ten days once established.
 
 In session 030, [[Red Caesar]] completed [[Obvolvo Caelum]] after his younger self identified Mending as the missing piece in his Penumbra work. The spell should make Akasha-to-Penumbra synthesis smoother by resolving the physical transition between liquid and solid states at a very small scale.
+
+In session 034, Akasha-laced seawater flooded the base of [[Tome Keeper's Pyramid]] at an unusually shallow depth. The party theorized that repairing the sky may have begun drawing Akasha upward from the deep ocean. Red Caesar condensed part of the water into a one-use radiant projectile.

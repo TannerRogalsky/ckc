@@ -55,7 +55,7 @@ The party discusses possible routes, including sending some members to [[The Whi
 
 ### Chunk 0003
 
-The party reaches level 10. The [[Tome Keeper]] is clarified as an [[Arcanoloth]] who holds the [[Tome of Satariel]] and commands a portion of the ocean. The party considers using nature divination during travel to locate him as part of the quest to free the [[Rakshasa]].
+The party reaches level 10. [[Farraday]] is clarified as an [[Arcanoloth]] who holds the [[Tome of Satariel]] and commands a portion of the ocean. The party considers using nature divination during travel to locate him as part of the quest to free the [[Rakshasa]].
 
 [[Mudeep]] is introduced as a figure at [[The Garden]] who specializes in attunable magic items that can be traded for art pieces.
 

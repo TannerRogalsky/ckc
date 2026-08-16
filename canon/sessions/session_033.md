@@ -2,7 +2,7 @@
 type: session
 session: "033"
 chunks: 4
-summary: "Party frees Ninki Nanka, ends Mana Sickness, completes Witness's chart, and expands The Opal before pursuing the Tome Keeper."
+summary: "Party frees Ninki Nanka, ends Mana Sickness, completes Witness's chart, and expands The Opal before pursuing Farraday."
 ---
 
 ## Session 033
@@ -35,7 +35,7 @@ An invisible [[Aboleth]] emerged beneath the water, seized several party members
 
 The party recovered the chart fragment, a potion of flight, diamonds, and the [[Tomb of Lenth the Rugged]]. Back in Southport, Red Caesar decoded and recombined the complete Chart of the Witness. Its topography revealed deep ocean trenches but no direct path to [[Axis Mundi]], supporting the belief that the world's interior lies beyond a planar boundary.
 
-Lodestar reported that [[Emperor Shen]] had weakened, imperial forces were retreating, and the eastern war would remain quiet until at least the next moon. Southport installed voice pipes and expanded dormitories aboard [[The Opal]], while eleven local deckhands joined the crew. The party chose to pursue the [[Tome Keeper]] next, then confront [[Boral Erendel]] in elven territory.
+Lodestar reported that [[Emperor Shen]] had weakened, imperial forces were retreating, and the eastern war would remain quiet until at least the next moon. Southport installed voice pipes and expanded dormitories aboard [[The Opal]], while eleven local deckhands joined the crew. The party chose to pursue [[Farraday]] next, then confront [[Boral Erendel]] in elven territory.
 
 ### Summary
 
@@ -49,11 +49,11 @@ Key events:
 - The party acquired [[Rahmadi]]'s cloak, [[Green Slaadi Whiskey]], [[Crone's Contempt]], a potion of flight, diamonds, and the [[Tomb of Lenth the Rugged]].
 - [[The Opal]] gained voice pipes, expanded dormitories, and eleven new deckhands.
 - [[Lodestar]] reported that [[Emperor Shen]] and the [[Broyish Empire]] are temporarily weakened.
-- The party prepared to advance to level 13 and chose the [[Tome Keeper]] as its next target.
+- The party prepared to advance to level 13 and chose [[Farraday]] as its next target.
 
 The Southport expedition turned a recurring plague into a solvable recovery effort. Deep Roses remain necessary for existing victims, but Ceril's restoration of Ninki Nanka means the city no longer faces endless reinfection. The dragon's history also reframed a presumed monster hunt as the rescue of an old protector corrupted by Penumbra.
 
-Completing the Chart of the Witness closes a long-running exploration thread while refining the route toward Axis Mundi. The chart offers no simple physical entrance, so the dwarves reopening [[The Funnel]] remain the party's strongest lead. Lodestar's news creates a temporary strategic window: with the Empire inactive, the party can pursue the Tome Keeper and Boral Erendel before returning to Starfall.
+Completing the Chart of the Witness closes a long-running exploration thread while refining the route toward Axis Mundi. The chart offers no simple physical entrance, so the dwarves reopening [[The Funnel]] remain the party's strongest lead. Lodestar's news creates a temporary strategic window: with the Empire inactive, the party can pursue Farraday and Boral Erendel before returning to Starfall.
 
 ### Connections
 
@@ -61,7 +61,7 @@ Completing the Chart of the Witness closes a long-running exploration thread whi
 - The Aboleth's domination explains why unrelated drow and Kuo-Toa attacked with the same unnatural coordination.
 - The completed Chart of the Witness links Janeera's pre-Cataclysm history to the fragment found in the [[Southern Archipelago Castle]].
 - The [[Tomb of Lenth the Rugged]] reconnects the legendary pirate to [[Pleasance MacLenth]] and [[Xander MacLenth]].
-- The temporary imperial retreat gives the party time to address the [[Tome Keeper]] and [[Demi-Spell]] threats before confronting [[Starfall]].
+- The temporary imperial retreat gives the party time to address [[Farraday]] and the [[Demi-Spell]] before confronting [[Starfall]].
 
 ### Theory: Antumbra Sabotage
 

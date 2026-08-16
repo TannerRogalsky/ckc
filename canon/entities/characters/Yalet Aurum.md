@@ -2,6 +2,7 @@
 type: character
 subtypes: [npc]
 session_introduced: "014"
+sessions_appeared: ["014", "034"]
 aliases:
   - Yalat Orym
 related:
@@ -19,3 +20,5 @@ He knows of the [[Penumbra]], describing it as "one of few stones that I have no
 His brother is [[Yalet Mora]], the stone-bodied crew member aboard [[The Opal]]. Yalet Aurum claims superiority over his brother, saying his brother "produces only small rocks" while Yalet Aurum "produces only mountains."
 
 Yalet posed a riddle to the party: "I can only produce mountains. My brother only produces small rocks. What can my brother make you to make you more courageous that I cannot?" The answer is "bolder" (bold/rocks pun). The party solved it, and Yalet vomited up chunks of gold in laughter as reward.
+
+In session 034, the party found Yalet Aurum apparently crushed by a fallen fragment of [[Crone]]. He surrendered a massive golden brain to [[Yalet Mora]] and claimed to be dying, allowing his brother to leave with a sense of victory. Once Yalet Mora was gone, Yalet Aurum revealed that the moon fragment had strengthened him and that he had staged the scene to give his insecure brother closure. He intended to reshape the surrounding land after the moon fragment eventually returned to the heavens.

@@ -2,7 +2,7 @@
 type: character
 subtypes: [crew]
 session_introduced: "013"
-sessions_appeared: ["013", "015", "022", "026", "031"]
+sessions_appeared: ["013", "015", "022", "026", "031", "034"]
 related:
   - "[[The Opal]]"
   - "[[Yalet Aurum]]"
@@ -16,3 +16,5 @@ He is the brother of [[Yalet Aurum]], a Galeb Duurr with a body of solid gold en
 In session 015, Yalet called [[Red Caesar]] into the mess to drink and revealed that Yalet Aurum is his older brother. He described Yalet Aurum as an arrogant bully and proposed a plan: they would train up, grow stronger, and eventually confront Yalet Aurum to take his golden head. Red agreed there might be something in it for both of them, and the two toasted to the plan.
 
 In session 031, Yalet helped keep [[The Opal]] afloat during the [[Broyish Empire]] naval attack by manning the bilge pump while [[Kerben]] commanded the retreat.
+
+In session 034, the party brought Yalet Mora to confront [[Yalet Aurum]], only to find his brother apparently dying beneath a fallen moon fragment. The party refused to attack a helpless opponent. Yalet Aurum gave them a massive golden brain, and Yalet Mora left believing he had finally outlasted his older brother.
