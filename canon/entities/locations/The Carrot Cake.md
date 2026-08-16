@@ -17,7 +17,7 @@ related:
   - "[[Penumbra]]"
   - "[[Thalasia]]"
   - "[[Kerben]]"
-  - "[[Faraday]]"
+  - "[[Farraday]]"
   - "[[Magic Hat]]"
   - "[[King of the Hole]]"
   - "[[Hole on Wheels]]"
@@ -56,7 +56,7 @@ The party explored the midway, a boulevard lined with trees from across Stark an
 
 The party explored the [[Magic Hat]] hotel in depth, discovering three levels with approximately 30 rooms connected by a spiral staircase. Amenities included a chocolate fountain, soft serve ice cream, shrimp cocktail, and mini bar. A [[Magen]] maitre d' read the party's minds to deliver personalized food during their stay. [[Ceril]] found a purple worm hide rug with amethysts and carrot-infused tobacco. [[Vokenar]] found [[Rahmadi's Capers]] issue 4, a collectible comic about a goblin rogue. The party flipped the Magic Hat lamp lighter switch, lighting the second of four lamps needed to access [[Jack Harvey]]'s inner sanctum.
 
-The party entered [[King of the Hole]], an island surrounded by ocean with a grassy hill. A [[Magen]] announcer with a carrot-microphone welcomed them, having researched each party member. The announcer explained the area's wave-based combat system: five beacon lights must be activated three at a time to trigger waves of enemies, with four required waves and an optional fifth bonus. The enemies are presented not by [[Jack Harvey]] but by his benefactor [[Faraday]], who wanted the park to remain entertaining even after the apocalypse. The first wave spawned phase cats, a gorgon head, a flame skull, and mummies.
+The party entered [[King of the Hole]], an island surrounded by ocean with a grassy hill. A [[Magen]] announcer with a carrot-microphone welcomed them, having researched each party member. The announcer explained the area's wave-based combat system: five beacon lights must be activated three at a time to trigger waves of enemies, with four required waves and an optional fifth bonus. The enemies are presented not by [[Jack Harvey]] but by his benefactor [[Farraday]], who wanted the park to remain entertaining even after the apocalypse. The first wave spawned phase cats, a gorgon head, a flame skull, and mummies.
 
 ## Session 030
 

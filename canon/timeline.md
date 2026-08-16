@@ -789,7 +789,7 @@
 - A [[Magen]] maitre d' read the party's minds and delivered personalized food during the long rest.
 - [[Kerben]] sent a message via animal messenger warning that [[Broyish Empire]] scouts may be specifically investigating The Carrot Cake.
 - [[Red Caesar]] flipped the Magic Hat lamp lighter switch, lighting the second of four lamps for [[Jack Harvey]]'s inner sanctum.
-- The party entered [[King of the Hole]] — an island arena with a wave-based combat system set up by [[Faraday]], [[Jack Harvey]]'s benefactor.
+- The party entered [[King of the Hole]] — an island arena with a wave-based combat system set up by [[Farraday]], [[Jack Harvey]]'s benefactor.
 - Five beacon lights must be activated three at a time to trigger enemy waves; four waves required, optional fifth bonus.
 - The first wave spawned [[Phase Cat]]s, a [[Gorgon Head]], a [[Flame Skull]], and mummies. Combat began.
 
@@ -830,7 +830,7 @@
 - The party accepted and won the optional [[King of the Hole]] bonus challenge against [[Smoke Elemental]]s, [[Shambling Mound]]s, and [[Death Spark]]s.
 - The King of the Hole lamp lit, and the magen announcer awarded [[Domyx]] the [[Hopping Mad Sash]].
 - [[Tango]] delivered [[Kerben]]'s urgent message from [[The Opal]]; through Ceril, Tango reported that the ship was under [[Broyish Empire]] attack and Kerben was holding off a larger force.
-- A magen explained that [[Jack Harvey]] had resigned from direct control of [[The Carrot Cake]] and left it in [[Faraday]]'s care.
+- A magen explained that [[Jack Harvey]] had resigned from direct control of [[The Carrot Cake]] and left it in [[Farraday]]'s care.
 - The party entered [[Hole on Wheels]], a seven-car scenic train looping over the ocean where [[Esperanto]] once stood.
 - Ceril's owl familiar scouted the train, reporting vampire-controlled enemies and the final lamp switch near the front.
 

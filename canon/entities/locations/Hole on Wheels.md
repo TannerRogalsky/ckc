@@ -9,7 +9,7 @@ related:
   - "[[Esperanto]]"
   - "[[Magen]]"
   - "[[Jack Harvey]]"
-  - "[[Faraday]]"
+  - "[[Farraday]]"
   - "[[Vampiric Nightbringer]]"
 ---
 

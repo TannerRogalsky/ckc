@@ -7,14 +7,14 @@ related:
   - "[[The Carrot Cake]]"
   - "[[City Hole]]"
   - "[[Magen]]"
-  - "[[Faraday]]"
+  - "[[Farraday]]"
   - "[[Jack Harvey]]"
   - "[[Hopping Mad Sash]]"
 ---
 
 One of four portal destinations in [[The Carrot Cake]], described by a [[Magen]] as an island resort and coliseum area. Its portal in the midway courtyard is marked by a sign showing carrots flanking a hill.
 
-King of the Hole is an island surrounded by ocean on all sides, topped by a grassy hill. A [[Magen]] announcer — dressed differently from other magens, holding a carrot that amplifies his voice — greets arriving parties with researched introductions for each member. The announcer explains that the area runs a wave-based combat system set up by [[Faraday]], [[Jack Harvey]]'s benefactor, who wanted the park to remain entertaining even after the apocalypse.
+King of the Hole is an island surrounded by ocean on all sides, topped by a grassy hill. A [[Magen]] announcer — dressed differently from other magens, holding a carrot that amplifies his voice — greets arriving parties with researched introductions for each member. The announcer explains that the area runs a wave-based combat system set up by [[Farraday]], [[Jack Harvey]]'s benefactor, who wanted the park to remain entertaining even after the apocalypse.
 
 Five beacon lights (carrot-shaped) are positioned around the island. To start each wave, three beacons must be pressed simultaneously, forcing the party to spread out. Each unique combination of three beacons can only be used once, yielding ten possible combinations across four required waves, with an optional fifth bonus wave that grants access to Jack's lamplighter. The arena's magic records the fights for viewers in the main square.
 

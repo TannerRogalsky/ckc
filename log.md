@@ -247,3 +247,5 @@
 ## [2026-08-16] lint | Transel — Validated links, frontmatter, entity index, session structures, prose, and quests.
 ## [2026-08-16] update | Gilder Savar — Merged the erroneous Brewer duplicate and restored his single identity as Ceril's former traveling partner.
 ## [2026-08-16] lint | Gilder Savar — Validated merged identity, links, frontmatter, entity index, sessions, aliases, and quests.
+## [2026-08-16] update | Farraday — Corrected canonical spelling from Faraday and synchronized canon references.
+## [2026-08-16] lint | Farraday — Validated links, frontmatter, entity index, session structures, aliases, and quests.

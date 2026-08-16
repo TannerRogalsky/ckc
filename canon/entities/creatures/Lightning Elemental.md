@@ -5,7 +5,7 @@ sessions_appeared: ["029"]
 related:
   - "[[King of the Hole]]"
   - "[[The Carrot Cake]]"
-  - "[[Faraday]]"
+  - "[[Farraday]]"
   - "[[Shambling Mound]]"
 ---
 

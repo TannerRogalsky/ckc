@@ -70,7 +70,7 @@ Kerben Graphene is a dwarf and serves as first mate aboard [[The Opal]], working
 
 Has a childhood connection to the Deep World, where he used to roll around in "deep world sauce" as a kid. This exposure gave him a strong resistance to poison and an enduring fascination with toxin craft. He actively collects, develops, and applies poisons — from wyvern gland extracts to white dragon poison — and has advantage against poison effects.
 
-His personal history with [[Jack Harvey]] is deep and longstanding. He also knew [[Faraday]], an old boss of his, whose crypt he investigated and found tickets to [[The Carrot Cake]] inside. The breadcrumbs leading to the Carrot Cake were tied to the [[The Carrot Cake]] (known as the 40 Carats), an old-world circus and organization that Jack Harvey created and was converting into a bunker before [[The Cataclysm]].
+His personal history with [[Jack Harvey]] is deep and longstanding. He also knew [[Farraday]], an old boss of his, whose crypt he investigated and found tickets to [[The Carrot Cake]] inside. The breadcrumbs leading to the Carrot Cake were tied to the [[The Carrot Cake]] (known as the 40 Carats), an old-world circus and organization that Jack Harvey created and was converting into a bunker before [[The Cataclysm]].
 
 ## Abilities and Equipment
 

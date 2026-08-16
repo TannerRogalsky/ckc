@@ -34,7 +34,7 @@ Inside the extra-dimensional space of the [[Haunted Living Tent]] at [[The Carro
 
 ## Session 030
 
-A [[Magen]] in [[The Carrot Cake]] explained that Jack Harvey eventually had to resign from direct control of the park and left it in the care of [[Faraday]]. The same conversation suggested Jack Harvey is almost certainly dead by the present day, making the Carrot Cake his surviving legacy. The party lit all four lamps, opening the path to Jack Harvey's inner sanctum, but the portal system was dispelled before they could return to the midway.
+A [[Magen]] in [[The Carrot Cake]] explained that Jack Harvey eventually had to resign from direct control of the park and left it in the care of [[Farraday]]. The same conversation suggested Jack Harvey is almost certainly dead by the present day, making the Carrot Cake his surviving legacy. The party lit all four lamps, opening the path to Jack Harvey's inner sanctum, but the portal system was dispelled before they could return to the midway.
 
 ## Session 031
 

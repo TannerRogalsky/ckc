@@ -87,7 +87,7 @@
 - [[King Maniasis]] — King of Kaedon, father of Alamar; went mad from elf-blood poisoning
 - [[Charlotte]] — Sister of [[Ulrich Fjoller]]; works at [[Acathian Manor]] preparing food and maintenance
 - [[Domyx IV]] — Current ruler of [[Clan Akathia]], father of [[Domyx]] and [[Lorelai Lapis-Acathian]]; disowned Domyx after he refused to forget clan secrets
-- [[Faraday]] — Kerben's old boss from before the Cataclysm; also Jack Harvey's benefactor who set up the wave combat system at King of the Hole
+- [[Farraday]] — Kerben's old boss from before the Cataclysm; also Jack Harvey's benefactor who set up the wave combat system at King of the Hole
 - [[Boston Golf]] — Old Carrot Cake acting-troupe figure represented by a Magic Hat fortune-teller automaton
 
 

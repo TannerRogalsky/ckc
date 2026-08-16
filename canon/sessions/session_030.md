@@ -23,7 +23,7 @@ For the bonus victory, the magen announcer granted [[Domyx]] the [[Hopping Mad S
 
 [[Tango]] arrived with a hastily written message from [[Kerben]]: speak with Tango. Ceril cast Speak with Animals and learned that [[The Opal]] had been attacked by multiple boats. Kerben arrived in time to help fight off the first wave, but a larger [[Broyish Empire]] force was approaching. Tango warned that the shattered moon leaves every night dark, making it easier for the Empire to sneak around the elves and [[The Order of Seasons]]. Kerben remained aboard The Opal to hold the attackers back while the party continued toward the last lamp.
 
-The party asked the magen about [[Hole on Wheels]] and [[Jack Harvey]]. The magen described Hole on Wheels as a scenic train once overlooking [[Esperanto]]. It also explained that Jack Harvey eventually resigned and left the park in [[Faraday]]'s care. Faraday was not mortal and did not age conventionally.
+The party asked the magen about [[Hole on Wheels]] and [[Jack Harvey]]. The magen described Hole on Wheels as a scenic train once overlooking [[Esperanto]]. It also explained that Jack Harvey eventually resigned and left the park in [[Farraday]]'s care. Farraday was not mortal and did not age conventionally.
 
 Pressed for time, the party used healing magic and entered Hole on Wheels. The portal emerged inside a moving train whose paintings served as teleport circles back to the other park areas. Ceril's owl familiar scouted the train exterior and reported seven cars moving in a broad loop over the ocean, with vampire-controlled enemies aboard and the final lamp switch near the front.
 
