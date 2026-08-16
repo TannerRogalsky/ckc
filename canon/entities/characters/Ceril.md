@@ -29,7 +29,7 @@ related:
   - "[[Illidrielle Gandara]]"
   - "[[Rakshasa]]"
   - "[[Veronia Karadel]]"
-  - "[[Risolvir Kiirnodel]]"
+  - "[[Rizolvir Kiirnodel]]"
   - "[[Tome Keeper]]"
   - "[[Tome of Satariel]]"
   - "[[Tome Keeper's Pyramid]]"
@@ -82,7 +82,7 @@ Can cast: Plant Growth, Guiding Bolt, Luminous Arrow, Moonbeam (repositionable a
 - At [[The Academy]], recognized [[Keys]] and [[Illidrielle Gandara]] as the same individuals who stole [[Penumbra]] from [[Castle Kaedon]].
 - Negotiated an accord with the Order: the party will stop collecting new Penumbra, and if their plan to fix the sky fails, they will give all collected Penumbra to the Order. In exchange, the Order granted access to teleport circles.
 - Revealed that his father is the [[Rakshasa]], a divine being he visited in a cave for years. Keys and Lydriel were unaware of the Rakshasa's existence.
-- Visited [[House Kiirnodel]] and recognized [[Veronia Karadel]] and [[Risolvir Kiirnodel]] from his pre-Cataclysm escape flashback. Veronia recognized Ceril's future self, saying his soul survives many worlds unchanged and predicting he would become a god in the reset world.
+- Visited [[House Kiirnodel]] and recognized [[Veronia Karadel]] and [[Rizolvir Kiirnodel]] from his pre-Cataclysm escape flashback. Veronia recognized Ceril's future self, saying his soul survives many worlds unchanged and predicting he would become a god in the reset world.
 
 ## Session 015
 

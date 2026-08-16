@@ -7,7 +7,7 @@ aliases:
   - Faronia Karadel
 related:
   - "[[House Kiirnodel]]"
-  - "[[Risolvir Kiirnodel]]"
+  - "[[Rizolvir Kiirnodel]]"
   - "[[Keys]]"
   - "[[The Order of Seasons]]"
   - "[[Demi-Spell]]"
@@ -16,10 +16,10 @@ related:
 
 A drow of former House Karadel, mother of [[Keys]]. She is "chiefly in command of enacting the [[Demi-Spell]]" and operates from [[House Kiirnodel]].
 
-She was encountered by [[Ceril]] before [[The Cataclysm]] alongside [[Risolvir Kiirnodel]] when Ceril was fleeing the elven lands. She recognized Ceril's future self, saying "your soul survives many worlds unchanged" and that he was "never meant to be bound in the new world." She predicted Ceril would become a god in the reset world.
+She was encountered by [[Ceril]] before [[The Cataclysm]] alongside [[Rizolvir Kiirnodel]] when Ceril was fleeing the elven lands. She recognized Ceril's future self, saying "your soul survives many worlds unchanged" and that he was "never meant to be bound in the new world." She predicted Ceril would become a god in the reset world.
 
 She warned the party that the [[Broyish Empire]] is their greatest enemy, working toward the [[Genesis Mundi]] with Penumbra pieces collected for weapons. She said the Empire is "more violent than any elf" and "willing to wield that violence against those who would even show up on their radar."
 
 She asked the party to check in on [[Boral Erendel]] at [[The Garden]], worrying where his mind has taken him with his side project.
 
-In session 022, Veronia appeared beside Risolvir at the House Kiirnodel teleport circle when [[Red Caesar]] and [[Ceril]] arrived in Brimbolyn. She recognized Ceril as "Cyril Kelnavi, survivor of the old world, one of few we were able to save." She lowered the Otiluke blast shield surrounding the teleport circle, freeing the party.
+In session 022, Veronia appeared beside Rizolvir at the House Kiirnodel teleport circle when [[Red Caesar]] and [[Ceril]] arrived in Brimbolyn. She recognized Ceril as "Cyril Kelnavi, survivor of the old world, one of few we were able to save." She lowered the Otiluke blast shield surrounding the teleport circle, freeing the party.

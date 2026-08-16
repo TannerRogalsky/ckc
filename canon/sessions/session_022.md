@@ -27,7 +27,7 @@ Back in their room, [[Ceril]] uses the brandy bottle as a focus to attempt his f
 
 [[Ceril]] successfully scried Jacinthe through the portrait, revealing her grief was a ruse. [[Vizier Jade]] appeared in Jacinthe's room and delivered a one-month ultimatum: help the [[Broyish Empire]] find [[Penumbra]] or [[Obould]]'s safety could not be guaranteed. Jacinthe's whispered reaction — "One month. Can we even get there in one month?" — confirmed she wants Obould to survive.
 
-[[Red Caesar]] and [[Ceril]] left a message for Damien hidden in the painting, then used a teleport circle to travel to [[Brimbolyn]]. They arrived at [[House Kiirnodel]]'s courtyard, where [[Risolvir Kiirnodel]] and [[Veronia Karadel]] recognized them. Red reported that [[Boral Erendel]] had gone off the rails at [[The Garden]].
+[[Red Caesar]] and [[Ceril]] left a message for Damien hidden in the painting, then used a teleport circle to travel to [[Brimbolyn]]. They arrived at [[House Kiirnodel]]'s courtyard, where [[Rizolvir Kiirnodel]] and [[Veronia Karadel]] recognized them. Red reported that [[Boral Erendel]] had gone off the rails at [[The Garden]].
 
 At the [[Elvish Marketplace]], Red trades [[The Jewel of Alfheimer]] to [[Mudeep]] for the [[Boots of the Alvargard]]. Ceril acquires the [[Branch of the Itinerant]], a flowering spellcasting wand. Red purchases [[Cloaks of Billowing]] for the entire party.
 
@@ -74,4 +74,4 @@ The party sailed to the [[Harengon Warrens]] island and was ambushed by [[Theo H
 - [[Theo Harvey]]'s warning that the underground warrens are doomed by rising waters adds urgency to the Harengon's situation and may foreshadow future displacement.
 - The party skipping [[Cutlass Cray]] and heading toward the [[Broyish Empire]] with Theo as prisoner sets up their first direct approach to imperial territory.
 - [[Veronia Karadel]]'s recognition of Ceril as "Ceril Kelnavi, survivor of the old world" deepens the mystery of Ceril's pre-Cataclysm identity and his connection to House Kiirnodel.
-- [[Red Caesar]] reporting on [[Boral Erendel]]'s extreme ideas to [[Risolvir Kiirnodel]] may trigger the Order to intervene at [[The Garden]], potentially disrupting Boral's eugenics plan.
+- [[Red Caesar]] reporting on [[Boral Erendel]]'s extreme ideas to [[Rizolvir Kiirnodel]] may trigger the Order to intervene at [[The Garden]], potentially disrupting Boral's eugenics plan.

@@ -5,7 +5,7 @@ chunks: 5
 summary: "Party lands on Continental Stark, defeats Fuchsia Fungus, fights an Aeon, recruits Brim, visits Yalet Aurum, negotiates accord with the Order, meets House Kiirnodel, and Vizier Jade reappears."
 ---
 
-## Events
+### Chunk 0000
 
 - [[Obould]] leaves the party at the coast of [[Continental Stark]] to watch [[The Opal]].
 - The party treks into the dense jungle of [[Continental Stark]] heading toward [[Brimbolyn]].
@@ -23,8 +23,6 @@ summary: "Party lands on Continental Stark, defeats Fuchsia Fungus, fights an Ae
 - [[Domyx]] pulls an unconscious migrant from the mud.
 - The [[Fuchsia Fungus]] rises from the bog — a purple mushroom/fungus mound with animal skulls, assimilating its victims. Combat begins.
 
-## Summary
-
 The party arrives at the coast of [[Continental Stark]], the massive elfish continent and last remnant of the Old World. [[Obould]] stays behind with [[The Opal]], warning that the jungle interior is treacherous and that the party should try to cross in one day. The elves' scouts had mentioned train rails as the fastest way to reach the inland city of [[Brimbolyn]].
 
 Inside the jungle, perpetual fog limits visibility and the terrain is unfamiliar and unforgiving. [[Vokenar]] locates buried train rails and the party follows them northward, with [[Domyx]]'s lodestone greaves providing a magnetic sense for rails hidden underground. [[Ceril]] sends [[Nyquil]] scouting above the canopy for a longer view.
@@ -35,7 +33,7 @@ After the storms, a giant tyrannosaurus charges through the jungle. [[Ceril]] do
 
 Despite [[Red Caesar]]'s reluctance to get involved, [[Vokenar]] insists on helping the migrants. The party enters the bog, using Water Walk to cross the quicksand. [[Domyx]] rescues an unconscious migrant stuck in the mud. The [[Fuchsia Fungus]] rises from the muck — a horrifying purple fungal mound with dozens of animal skulls, grafting victims into its body. The creature had already consumed one migrant and was targeting the party. Combat begins with [[Domyx]] charging in with his hammer and [[Vokenar]] summoning a Guardian of Faith.
 
-## Chunk 0001
+### Chunk 0001
 
 The party defeats the [[Fuchsia Fungus]]. [[Domyx]] slices it in half with a final Holy Light strike on his hammer; the creature's purple and black parts turn to ash immediately. Undigested remains of animals and possibly elves sink into the bog. [[Domyx]] carries the unconscious migrants to safety and hands them to the elven scouts.
 
@@ -47,7 +45,7 @@ The party encounters translucent moon-shaped mushrooms with an intensely invitin
 
 An [[Aeon]] — a green-skinned Githzerai from beyond Stark and Arkadia — descends from a cliff and attacks with psychic charm effects and psionic magic. [[Vokenar]] uses Calm Emotions to protect the party from the charm effects. [[Domyx]] pins the Aeon down while [[Red Caesar]] fights it with lightning, counter-magic, and vampiric magic. The Aeon eventually slips away from the immediate melee.
 
-## Chunk 0002
+### Chunk 0002
 
 The party finishes the [[Aeon]] encounter. [[Domyx]] keeps the Aeon under pressure with his hammer, [[Ceril]] breaks through the creature's Shield with Primal Savagery, and [[Vokenar]] keeps the party stable against the Aeon's psychic attacks.
 
@@ -71,7 +69,7 @@ In Brimbolyn, the party explored the city and the [[Elvish Marketplace]]. The ci
 
 Brim got himself lost in town and told the party to meet him at midnight where a bell sounds.
 
-## Chunk 0003
+### Chunk 0003
 
 [[Red Caesar]] encountered [[Garsinth Theralal]], an older elf in a Brimbolyn alley, who apologized for his son's Sleep prank and gave Red directions to [[Yalet Aurum]], a Galeb Duurr with a golden head encased in a stone monument in the jungle outside the city.
 
@@ -91,15 +89,15 @@ The party negotiated an accord: they will stop collecting new Penumbra, and if t
 
 [[Ceril]] visited [[Gossa]] and traded a Mask of Ogun for an amulet that allows him to summon his familiar as a magma elemental — with claws, fire breath, and a death burst that explodes into a fireball if killed.
 
-## Chunk 0004
+### Chunk 0004
 
 The party visited [[House Kiirnodel]] in Brimbolyn at the suggestion of [[Keys]] and [[Illidrielle Gandara]]. The estate is beautiful with pink, purple, and blue flowers growing on everything.
 
-[[Ceril]] immediately recognized two faces from his pre-Cataclysm escape flashback: [[Veronia Karadel]], a drow of former House Karadel, and [[Risolvir Kiirnodel]], leader of House Kiirnodel. They had let Ceril flee years ago.
+[[Ceril]] immediately recognized two faces from his pre-Cataclysm escape flashback: [[Veronia Karadel]], a drow of former House Karadel, and [[Rizolvir Kiirnodel]], leader of House Kiirnodel. They had let Ceril flee years ago.
 
 Veronia is "chiefly in command of enacting the demi-spell." She recognized Ceril's future self, saying "your soul survives many worlds unchanged" and predicting he would become a god in the reset world. She is the mother of [[Keys]].
 
-Risolvir warned the party that their greatest enemy is the [[Broyish Empire]], which is also pursuing the [[Genesis Mundi]] and collecting [[Penumbra]] pieces — likely for a weapon. He said the Empire is more violent than any elf and kills people who don't even stand in their way.
+Rizolvir warned the party that their greatest enemy is the [[Broyish Empire]], which is also pursuing the [[Genesis Mundi]] and collecting [[Penumbra]] pieces — likely for a weapon. He said the Empire is more violent than any elf and kills people who don't even stand in their way.
 
 [[Vokenar]] questioned Veronia about the [[Genesis Mundi]] and whether the Demi-Spell would be fair to all peoples. Veronia clarified that the Genesis Mundi is a fixed point between worlds that occurs regardless — the Demi-Spell merely expedites and modifies it with guidelines.
 
@@ -108,3 +106,17 @@ Veronia asked the party to check on [[Boral Erendel]] at [[The Garden]], worryin
 The house granted the party [[Teleport Keys]] for accessing teleport circles back to Brimbolyn.
 
 The party set sail from Continental Stark toward Cutlass Cray. On their first evening, [[Vizier Jade]] appeared on [[The Opal]]'s deck. She confirmed she has been watching [[Red Caesar]] and will continue to ensure he survives. Red declined her offer of a restriction scroll, saying his trust was bond enough. She departed via Teleport Circle, saying she won't appear again until the party arrives in the capital.
+
+### Summary
+
+The party crossed [[Continental Stark]] toward [[Brimbolyn]], survived the jungle's hazards, defeated the [[Fuchsia Fungus]], and recruited [[Brim the Bullywog]]. An encounter with an [[Aeon]] ended when [[Vokenar]] accepted its offered star gem and allowed it to escape.
+
+In Brimbolyn, the party learned that [[The Order of Seasons]] was nearing completion of the [[Demi-Spell]]. They negotiated an accord to stop gathering new [[Penumbra]] and surrender their collection if repairing the sky failed, receiving access to teleport circles in return.
+
+At [[House Kiirnodel]], [[Veronia Karadel]] and [[Rizolvir Kiirnodel]] recognized [[Ceril]] from before [[The Cataclysm]]. Rizolvir warned that the [[Broyish Empire]] was pursuing the [[Genesis Mundi]] and collecting Penumbra, while Veronia asked the party to intervene with [[Boral Erendel]]. After the party departed, [[Vizier Jade]] revealed that she was watching [[Red Caesar]] and expected to meet him in the imperial capital.
+
+### Connections
+
+- The accord with [[The Order of Seasons]] temporarily aligns the party with its Penumbra strategy while preserving their attempt to repair the sky.
+- [[Ceril]]'s recognition by [[Veronia Karadel]] and [[Rizolvir Kiirnodel]] connects his past to [[House Kiirnodel]] and the Demi-Spell project.
+- The warnings about the [[Broyish Empire]] and [[Vizier Jade]]'s interest in [[Red Caesar]] foreshadow the party's later conflict with imperial forces.

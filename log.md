@@ -251,3 +251,6 @@
 ## [2026-08-16] lint | Farraday — Validated links, frontmatter, entity index, session structures, aliases, and quests.
 ## [2026-08-16] lint | Corrected Boots of the Alvargard canonical spelling and references
 ## [2026-08-16] query | Searched workspace for Alvargard references and spelling variants
+## [2026-08-16] update | Rizolvir Kiirnodel — Corrected canonical spelling, renamed entity file, preserved prior spelling as alias, and synchronized canon references.
+## [2026-08-16] lint | session_014 — Standardized chunk headings and added integrated Summary and Connections sections during Rizolvir validation.
+## [2026-08-16] lint | Rizolvir Kiirnodel — Validated links, frontmatter, entity index, session structures, appearances, aliases, canon prose, and quests.

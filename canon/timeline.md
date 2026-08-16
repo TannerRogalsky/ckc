@@ -254,9 +254,9 @@
 
 ### Chunk 0004
 
-- The party visited [[House Kiirnodel]] in Brimbolyn. [[Ceril]] recognized [[Veronia Karadel]] and [[Risolvir Kiirnodel]] from his pre-Cataclysm escape flashback.
+- The party visited [[House Kiirnodel]] in Brimbolyn. [[Ceril]] recognized [[Veronia Karadel]] and [[Rizolvir Kiirnodel]] from his pre-Cataclysm escape flashback.
 - [[Veronia Karadel]], a drow and mother of [[Keys]], is chiefly in command of enacting the Demi-Spell. She recognized Ceril's future self and predicted he would become a god in the reset world.
-- [[Risolvir Kiirnodel]] warned the party that the [[Broyish Empire]] is their greatest enemy, also pursuing the [[Genesis Mundi]] and collecting [[Penumbra]] pieces for a weapon.
+- [[Rizolvir Kiirnodel]] warned the party that the [[Broyish Empire]] is their greatest enemy, also pursuing the [[Genesis Mundi]] and collecting [[Penumbra]] pieces for a weapon.
 - [[Vokenar]] learned that the [[Genesis Mundi]] is a fixed point between worlds that occurs regardless — the Demi-Spell merely expedites and modifies it with guidelines.
 - Veronia asked the party to check on [[Boral Erendel]] at [[The Garden]] and convince him to return.
 - House Kiirnodel granted the party [[Teleport Keys]] for accessing teleport circles back to Brimbolyn.
@@ -520,7 +520,7 @@
 - [[Vizier Jade]] appears in Jacinthe's room via illusion magic and delivers a one-month ultimatum: provide the [[Broyish Empire]] with [[Penumbra]] or information leading to it, or [[Obould]]'s safety cannot be guaranteed. Every piece of useful intelligence may extend the deadline.
 - Jacinthe whispers after [[Vizier Jade]] departs: "One month. Can we even get there in one month?" — confirming she wants Obould to survive.
 - [[Red Caesar]] and [[Ceril]] leave a message for Damien hidden in the stolen painting, then use a teleport circle to travel to [[Brimbolyn]].
-- At [[House Kiirnodel]], [[Risolvir Kiirnodel]] and [[Veronia Karadel]] recognize the party. Red reports that [[Boral Erendel]] has gone off the rails at [[The Garden]], adding nearly a hundred pages of his own design to the [[Demi-Spell]].
+- At [[House Kiirnodel]], [[Rizolvir Kiirnodel]] and [[Veronia Karadel]] recognize the party. Red reports that [[Boral Erendel]] has gone off the rails at [[The Garden]], adding nearly a hundred pages of his own design to the [[Demi-Spell]].
 - At the [[Elvish Marketplace]], Red trades [[The Jewel of Alfheimer]] for the [[Boots of the Alvargard]]. Ceril acquires the [[Branch of the Itinerant]]. Red purchases [[Cloaks of Billowing]] for the entire party.
 - The party returns to [[The White Drake]] and debriefs [[Domyx]], [[Kerben]], and [[Vokenar]] about [[Vizier Jade]]'s ultimatum. Approximately 21 days remain.
 - [[Vokenar]] uses lore divination on [[Genesis Mundi]], confirming it is a natural world-reset event that carries over important souls and structures. The [[Demi-Spell]] merely expedites and modifies it.

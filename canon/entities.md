@@ -66,7 +66,7 @@
 - [[Theo Harvey]] — Traitor harengon recaptured by the Empire and freed again by Kerben at The Carrot Cake
 - [[Jack Harvey]] — Famous Kaedon-era entrepreneur whose Carrot Cake vault preserved the Penumbra that repaired the sky
 - [[Veronia Karadel]] — Drow, Keys' mother, chiefly in command of enacting the Demi-Spell from House Kiirnodel
-- [[Risolvir Kiirnodel]] — Leader of House Kiirnodel, warned the party about the Broyish Empire
+- [[Rizolvir Kiirnodel]] — Leader of House Kiirnodel, warned the party about the Broyish Empire
 - [[Solar Flare]] — Tall woman with shining light seen by Vokenar 60 years ago
 - [[Deep World Wizard]] — Mage in [[Darvinblast]] allied with an [[Etten]] champion
 - [[Queen Caeradwyn]] — Former elven queen whose fall enabled Aramil Kiirnodel's rise and preceded elven uprisings and the Cataclysm

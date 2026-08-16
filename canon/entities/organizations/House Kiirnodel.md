@@ -14,7 +14,7 @@ related:
   - "[[Brimbolyn]]"
   - "[[Aramil Kiirnodel]]"
   - "[[Veronia Karadel]]"
-  - "[[Risolvir Kiirnodel]]"
+  - "[[Rizolvir Kiirnodel]]"
   - "[[The Order of Seasons]]"
   - "[[Broyish Empire]]"
   - "[[Boral Erendel]]"
@@ -24,7 +24,7 @@ An elven aristocratic house active after [[Queen Caeradwyn]]'s death. A high elf
 
 In session 014, the party visited House Kiirnodel in [[Brimbolyn]]. The estate is beautiful with pink, purple, and blue flowers growing on everything.
 
-[[Risolvir Kiirnodel]] is the current leader of the house. He warned the party that their greatest enemy is the [[Broyish Empire]], which is also working toward the [[Genesis Mundi]] and collecting [[Penumbra]] pieces — likely for a weapon. He said the Empire is more violent than any elf and kills people who don't even stand in their way.
+[[Rizolvir Kiirnodel]] is the current leader of the house. He warned the party that their greatest enemy is the [[Broyish Empire]], which is also working toward the [[Genesis Mundi]] and collecting [[Penumbra]] pieces — likely for a weapon. He said the Empire is more violent than any elf and kills people who don't even stand in their way.
 
 [[Veronia Karadel]], a drow of former House Karadel and mother of [[Keys]], is "chiefly in command of enacting the demi-spell" from House Kiirnodel. She recognized [[Ceril]] from before [[The Cataclysm]] and predicted his soul survives many worlds unchanged.
 
