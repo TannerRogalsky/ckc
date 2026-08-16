@@ -699,12 +699,12 @@
 
 ### Chunk 0002
 
-- The party hunts two beach trolls on a small island. The trolls have unusual regeneration — immune to fire and acid but vulnerable to lightning damage.
-- [[Red Caesar]] charms one troll, who reveals he was trapped on the island by a mage. The troll offers an amethyst as payment.
-- The party builds a raft for the charmed troll using palm trees and coconuts. The troll takes his dead brother's femur as an oar and rows away.
+- The party hunts two beach trolls on a small island and kills one despite its unusual regeneration.
+- [[Red Caesar]] charms the surviving troll, [[Transel]], who reveals a mage trapped him on the island and offers an amethyst for passage.
+- The party builds Transel a raft, allowing him to leave the island.
 - The party sails toward [[Cutlass Cray]], riding a massive swell caused by the moon's destruction. [[The Opal]]'s upgrades allow it to survive the wave.
 - [[Cutlass Cray]] is intact — [[The Marid]] uses his water genie magic to deflect the catastrophic waves away from the town.
-- The freed troll arrives separately at [[Cutlass Cray]] and becomes the new bartender at [[The Brine and Bodak]].
+- Transel arrives separately at [[Cutlass Cray]] and becomes the new bartender at [[The Brine & Bodak]], which he later runs.
 
 ## Session 027
 
@@ -715,7 +715,7 @@
 - [[Red Caesar]] trades for the [[Wand of Blighting Bolts]], gaining access to necrotic damage for the first time.
 - [[Vokenar]] trades lapis lazuli for the [[Moon Blade]], a warhammer forged from a fragment of [[Crone]]'s remains by [[The Church of the Thirty Lights]].
 - [[Domyx]] stocks up on protective and mobility potions before the expedition.
-- [[Ceril]] visits [[Gilder Savar]], a lich who recognizes Ceril from their shared escape from [[Brimbolyn]] decades ago. Ceril purchases protective and emergency-use supplies.
+- [[Ceril]] visits [[Gilder Savar]] at [[Savar Brews]]. Now a lich, his former traveling partner recognizes Ceril from their shared escape from [[Brimbolyn]], and Ceril purchases protective and emergency-use supplies.
 - [[The Opal]] is fully repaired and upgraded with a new steering mechanism and crow's nest.
 - The party confirms [[The Hideous Truth]] remains hidden in its grotto, now more overgrown.
 - After a three-day sail, the party arrives at [[The Carrot Cake]]. The entrance is a man-made lagoon with illusions recently dissipated, leading to a giant carrot entrance marked with the "40 Carats" logo.

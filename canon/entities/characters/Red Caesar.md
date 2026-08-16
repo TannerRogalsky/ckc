@@ -155,7 +155,7 @@ The synthesis method — dubbed the "Caesarean method" — could produce approxi
 
 ## Session 026
 
-After the moon was shattered by [[Starfall]], Red Caesar argued that restoring [[Aeris]] would make many other crises easier to resolve. At [[Xarag's Island]], he helped locate [[Xarag]] before the party slew the prologue dragon and recovered [[The Opal]]'s lost treasure. When imperial [[Gun Balloon]]s attacked the ship, Red captured one by expanding Otiluke's Resilient Sphere inside its cramped gondola, forcing the crew out and bringing the vessel down onto the ship.
+After the moon was shattered by [[Starfall]], Red Caesar argued that restoring [[Aeris]] would make many other crises easier to resolve. At [[Xarag's Island]], he helped locate [[Xarag]] before the party slew the prologue dragon and recovered [[The Opal]]'s lost treasure. When imperial [[Gun Balloon]]s attacked the ship, Red captured one by expanding Otiluke's Resilient Sphere inside its cramped gondola, forcing the crew out and bringing the vessel down onto the ship. On a later troll hunt, he charmed [[Transel]] rather than killing him and helped build the troll a raft to [[Cutlass Cray]].
 
 ## Session 027
 

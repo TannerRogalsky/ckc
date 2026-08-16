@@ -177,7 +177,7 @@ Domyx continued to go by just "Domyx" without his Akathian title, fully embracin
 
 ## Session 026
 
-Domyx helped slay [[Xarag]] on [[Xarag's Island]] and discovered the cliff-face hollow where the dragon had hidden [[The Opal]]'s stolen treasure. During the imperial [[Gun Balloon]] attack, he defended the deck by hurling boarders overboard and keeping enemies away from the crew. He later helped a charmed beach troll build a raft, allowing it to leave the League-claimed sandbar instead of killing it.
+Domyx helped slay [[Xarag]] on [[Xarag's Island]] and discovered the cliff-face hollow where the dragon had hidden [[The Opal]]'s stolen treasure. During the imperial [[Gun Balloon]] attack, he defended the deck by hurling boarders overboard and keeping enemies away from the crew. He later communicated with [[Transel]] in Runic and helped the charmed beach troll build a raft, allowing him to leave the League-claimed sandbar instead of being killed.
 
 ## Session 027
 

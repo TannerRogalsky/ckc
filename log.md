@@ -241,3 +241,9 @@
 ## [2026-08-16] lint | Lorelai Lapis-Acathian — Validated links, frontmatter, entity index, sessions, aliases, and quests.
 ## [2026-08-16] update | Ema-Tep — Renamed Imotep, confirmed Yuan-Ti identity, preserved misspellings as aliases, and corrected canon references.
 ## [2026-08-16] lint | Ema-Tep — Validated links, frontmatter, entity index, session structure, aliases, and quests.
+## [2026-08-16] update | Cutlass Cray — Corrected venue operators, separated the Gilder Savars, reclassified The Marid, and added missing entities.
+## [2026-08-16] lint | Cutlass Cray — Validated venue mappings, links, frontmatter, entity index, sessions, aliases, and quests.
+## [2026-08-16] update | Transel — Identified the spared beach troll, corrected session provenance, and linked his journey to The Brine & Bodak.
+## [2026-08-16] lint | Transel — Validated links, frontmatter, entity index, session structures, prose, and quests.
+## [2026-08-16] update | Gilder Savar — Merged the erroneous Brewer duplicate and restored his single identity as Ceril's former traveling partner.
+## [2026-08-16] lint | Gilder Savar — Validated merged identity, links, frontmatter, entity index, sessions, aliases, and quests.

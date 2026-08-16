@@ -41,16 +41,16 @@ summary: "Vokenar trains with Crone and Sigil; Emperor Shen fires Starfall at th
 
 ### Chunk 0002
 
-- The party reaches a small island to hunt trolls for [[The League of New Stark]]. Two beach trolls ambush them, camouflaged in seaweed and seashells.
-- The beach trolls have unusual regeneration: immune to fire and acid (which normally affect trolls), but [[Red Caesar]] discovers that lightning damage prevents their regeneration and kills them permanently.
-- [[Red Caesar]] casts Charm Monster on one troll. The charmed troll speaks Runic (tongue of the giants), which [[Domyx]] understands. The troll reveals he was trapped on the island by a mage sent by "the gods" and begs for a way off.
-- The charmed troll offers a glittering amethyst as payment, which he pulls from inside his own clay-like body.
-- The party works with the troll to build a raft from palm trees and coconuts. [[Domyx]] hacks down trees, [[Kerben]] gathers binding materials, and [[Red Caesar]] uses Bigby's grasping hand to position logs.
-- The troll takes his dead brother's femur as an oar and rows away on the raft before the charm wears off.
+- The party reaches a small island to hunt trolls for [[The League of New Stark]]. Two beach trolls, including [[Transel]], ambush them while camouflaged in seaweed and seashells.
+- The beach trolls have unusual regeneration, but the party overcomes it and kills Transel's companion.
+- [[Red Caesar]] charms Transel, who speaks Runic and can communicate with [[Domyx]]. Transel reveals he was trapped on the island by a mage sent by "the gods" and begs for a way off.
+- Transel offers a glittering amethyst as payment, which he pulls from inside his own clay-like body.
+- The party works with Transel to build a raft from palm trees and coconuts. Domyx hacks down trees, [[Kerben]] gathers binding materials, and Red Caesar uses magic to position logs.
+- Transel takes his dead companion's femur as an oar and rows away before the charm wears off.
 - The party sails toward [[Cutlass Cray]], riding a massive 100 to 200 foot swell caused by the moon's destruction. [[The Opal]]'s upgrades allow it to crest the wave safely; [[Kerben]] and [[Red Caesar]] both handle the helm competently.
 - [[Cutlass Cray]] is intact despite the catastrophic waves. [[The Marid]], the water genie who serves as Port Authority, uses his magic to deflect the swells away from the town.
 - The Marid notes that the party missed the gigantic wave right after the moon was exploded.
-- The charmed troll arrives separately on his raft, waves at the party in town, and takes a job as the new bartender at [[The Brine and Bodak]], replacing [[Octavia Crayborne]] who had been poached away.
+- Transel arrives separately on his raft, waves at the party in town, and takes a job as the new bartender at [[The Brine & Bodak]], replacing former performer [[Octavia Crayborne]], who had been poached away.
 
 ### Summary
 

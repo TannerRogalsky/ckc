@@ -19,7 +19,7 @@ The party arrived in [[Cutlass Cray]] after surviving a massive swell caused by 
 
 **Domyx** stocked up on protective and mobility potions before the expedition.
 
-**Ceril** visited [[Gilder Savar]], a lich operating a potion shop. Ceril did not recognize him, but Gilder recognized Ceril from their shared escape from [[Brimbolyn]] alongside [[Vanzia Vinfei]] decades ago. Gilder chose undeath to "live long enough to perfect his craft." Ceril purchased protective and emergency-use supplies.
+**Ceril** visited [[Gilder Savar]] at [[Savar Brews]]. Ceril did not recognize him in his lich form, but Gilder Savar recognized Ceril from their travels together during the escape from [[Brimbolyn]] alongside [[Vanzia Vinfei]] decades ago. Gilder Savar chose undeath to "live long enough to perfect his craft." Ceril purchased protective and emergency-use supplies.
 
 **The Opal** was fully repaired and upgraded with a new steering mechanism and a new crow's nest.
 
@@ -57,7 +57,7 @@ The party emerged from barrels in a small cavern called [[City Hole]], lit by el
 
 ### Summary
 
-The party spent a full shopping spree in [[Cutlass Cray]], significantly upgrading their capabilities before embarking on the three-day sail to [[The Carrot Cake]]. [[Kerben]]'s acquisition of [[The Ascot]] gives him powerful animal-swap utility. [[Red Caesar]] gained necrotic damage for the first time. [[Vokenar]] received a weapon directly tied to [[Crone]]'s remains. [[Ceril]]'s encounter with [[Gilder Savar]] revealed a personal connection to his pre-Cataclysm past. The party finally arrived at [[The Carrot Cake]] — the culmination of Kerben's long trail of breadcrumbs — and were welcomed by a [[Magen]] of [[Jack Harvey]]. After defeating undead in the entrance corridor, they explored the midway, learning the park's layout and discovering new threats including a [[Cloaker]], [[Flame Skull]]s, and [[Hooksy the Clown Automaton]]. They then defeated a [[Haunted Living Tent]] that trapped them in an extra-dimensional space, and discovered the central hub with four portal holes leading to different park zones. [[Red Caesar]] impulsively entered the [[Hole Shebang]] first, and the party followed, emerging in a cavern of barrel portals.
+The party spent a full shopping spree in [[Cutlass Cray]], significantly upgrading their capabilities before embarking on the three-day sail to [[The Carrot Cake]]. [[Kerben]]'s acquisition of [[The Ascot]] gives him powerful animal-swap utility. [[Red Caesar]] gained necrotic damage for the first time. [[Vokenar]] received a weapon directly tied to [[Crone]]'s remains. [[Ceril]]'s encounter with [[Gilder Savar]] at [[Savar Brews]] revealed a personal connection to his pre-Cataclysm past. The party finally arrived at [[The Carrot Cake]] — the culmination of Kerben's long trail of breadcrumbs — and were welcomed by a [[Magen]] of [[Jack Harvey]]. After defeating undead in the entrance corridor, they explored the midway, learning the park's layout and discovering new threats including a [[Cloaker]], [[Flame Skull]]s, and [[Hooksy the Clown Automaton]]. They then defeated a [[Haunted Living Tent]] that trapped them in an extra-dimensional space, and discovered the central hub with four portal holes leading to different park zones. [[Red Caesar]] impulsively entered the [[Hole Shebang]] first, and the party followed, emerging in a cavern of barrel portals.
 
 ### Connections
 

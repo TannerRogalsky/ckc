@@ -38,10 +38,13 @@
 - [[Theotropa]] — Leader of The Garden, a druid sanctuary
 - [[Boral Erendel]] — Rogue Demi-Spell architect creating high elf bodies beneath Brimbolyn
 - [[The Wonder Hulk]] — Proprietor of The W. H. Boutique in Cutlass Cray
-- [[Gilder Savar]] — Lich operating a potion shop in Cutlass Cray; former traveling companion of Ceril and Vanzia Vinfei
+- [[Gilder Savar]] — Lich proprietor of Savar Brews and former traveling companion of Ceril and Vanzia Vinfei
+- [[Transel]] — Beach troll spared and aided by the party who came to run The Brine & Bodak
+- [[Vorgan of the Stage]] — Proprietor of The Bad Hare Day Theatre in Cutlass Cray
 - [[Pleasance MacLenth]] — Librarian at Bookbinders Cray
 - [[Pastor Borm]] — Gold wyrmling, pastor of The Church of the Thirty Lights
-- [[Octavia Crayborne]] — Singer at [[The Brine and Bodak]]
+- [[Octavia Crayborne]] — Proprietor of The Corsairs' Court and former performer at The Brine & Bodak
+- [[The Marid]] — Water genie who runs The Boardwalks and serves as Cutlass Cray's Port Authority
 - [[Figma Brickfinger]] — Leader of [[Figma Brickfinger's Union]] at [[The Pit]]
 - [[Sigrid Forgewelt]] — Dwarven weapon forger in The Pit
 - [[Beryzoz Helmscar]] — Gnomish armor forger in The Pit
@@ -112,7 +115,6 @@
 - [[Penelope]] — Giant bat ridden by a dwarf bat rider knight
 - [[Bat Rider]] — Elite dwarf knights riding giant bats
 - [[Rella Kel'Navvi]] — Blink dog companion from Otyugh Isle, now stationed at Lyngbakr Lagoon
-- [[The Marid]] — Huge pale dignitary, Port Authority at Cutlass Cray
 - [[Tuna]] — Sphinx, half cat half falcon, associated with Alamar
 - [[Lyngbakr]] — Giant turtle from [[Arkadia]] that repaired the sky and departed with Ceril and Alamar
 - [[Saratan]] — Species of gigantic turtle/whale things (includes Lyngbakr)
@@ -177,13 +179,14 @@
 - [[The Funnel]] — Primary mining operation in The Pit
 - [[The Garden]] — Druid sanctuary
 - [[Cutlass Cray]] — Floating pirate city
-- [[The Boardwalks]] — Area in Cutlass Cray where Otto was found
-- [[The Brine and Bodak]] — Popular establishment in Cutlass Cray
-- [[The Corsairs' Court]] — Location in Cutlass Cray
-- [[The Bad Hare Day Theatre]] — Theatre in Cutlass Cray
+- [[The Boardwalks]] — Cutlass Cray waterfront run by The Marid; where Otto was recruited
+- [[The Brine & Bodak]] — Cutlass Cray establishment run by Transel
+- [[The Corsairs' Court]] — Cutlass Cray venue run by Octavia Crayborne
+- [[The Bad Hare Day Theatre]] — Cutlass Cray theatre run by Vorgan of the Stage
 - [[The W. H. Boutique]] — Boutique in Cutlass Cray, run by The Wonder Hulk
-- [[Bookbinders Cray]] — Library in Cutlass Cray
-- [[The Church of the Thirty Lights]] — Church in Cutlass Cray
+- [[Savar Brews]] — Potion and beverage shop run by Gilder Savar
+- [[Bookbinders Cray]] — Cutlass Cray library run by Pleasance MacLenth
+- [[The Church of the Thirty Lights]] — Cutlass Cray church led by Pastor Borm
 - [[Castle Kaedon]] — Castle on the back of Lyngbakr
 - [[Westerness]] — Sunken human city that surrounded Castle Kaedon, visible beneath the waves
 - [[The Carrot Cake]] — Massive magical amusement park from old Kaedon whose vault held Jack Harvey's Penumbra hoard

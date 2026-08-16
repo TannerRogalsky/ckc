@@ -2,6 +2,10 @@
 type: location
 subtypes: [building]
 session_introduced: "001"
+sessions_appeared: ["001"]
+related:
+  - "[[Octavia Crayborne]]"
+  - "[[Cutlass Cray]]"
 ---
 
-A location in [[Cutlass Cray]], the floating pirate city.
+A venue in [[Cutlass Cray]] run by [[Octavia Crayborne]].

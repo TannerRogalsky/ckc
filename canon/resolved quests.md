@@ -68,7 +68,7 @@
 ## Clear trolls from the island
 - **Given by:** [[Lady Jacinthe]]
 - **Resolved:** Session 026
-- **Details:** A League quest to hunt beach trolls on a nearby island. The party found two trolls camouflaged in seaweed. [[Red Caesar]] used lightning damage to bypass their fire/acid regeneration and killed them permanently. He charmed one surviving troll, who speaks Runic and now works as bartender at [[The Brine and Bodak]] in [[Cutlass Cray]].
+- **Details:** A League quest to hunt beach trolls on a nearby island. The party killed one troll but spared [[Transel]] after [[Red Caesar]] charmed him. They built Transel a raft, and he followed them to [[Cutlass Cray]], became bartender at [[The Brine & Bodak]], and later came to run it.
 
 ## Light the four lamps and enter Jack Harvey's inner sanctum
 - **Given by:** [[Magen]] ([[The Carrot Cake]])

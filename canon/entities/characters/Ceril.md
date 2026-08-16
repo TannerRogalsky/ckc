@@ -164,7 +164,7 @@ Ceril visited the [[Temple of Sigil]] on Otyugh Isle with [[Domyx]], where they 
 
 ## Session 027
 
-In [[Cutlass Cray]], Ceril visited [[Gilder Savar]], a lich operating a potion shop. Ceril did not recognize Gilder in his lich form, but Gilder recognized Ceril from their shared past — both had escaped [[Brimbolyn]] together alongside [[Vanzia Vinfei]]. Gilder revealed he chose undeath to live long enough to perfect his craft, saying "the best drinks take centuries to distill into perfection." Ceril purchased protective and emergency-use supplies from him.
+In [[Cutlass Cray]], Ceril visited [[Gilder Savar]] at [[Savar Brews]]. Ceril did not recognize him in his lich form, but Gilder Savar recognized Ceril from their shared past — both had escaped [[Brimbolyn]] together alongside [[Vanzia Vinfei]]. Gilder Savar revealed he chose undeath to live long enough to perfect his craft, saying "the best drinks take centuries to distill into perfection." Ceril purchased protective and emergency-use supplies from him.
 
 Ceril sailed with the party to [[The Carrot Cake]]. He supported the party during the entrance battle against undead and later collected seeds from the park's magically preserved trees.
 

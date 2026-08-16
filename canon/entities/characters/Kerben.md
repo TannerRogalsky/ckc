@@ -188,7 +188,7 @@ Kerben took on the role of acting captain of [[The Opal]] while [[Red Caesar]] w
 
 ## Session 026
 
-Kerben was first aboard [[The Opal]] to see the elemental streak from [[Starfall]] strike the moon. He inferred the likely consequences for tides, falling debris, and [[Brimbolyn]], then helped steer the crew's response. At [[Xarag's Island]], Kerben helped kill [[Xarag]] and salvaged dragon material that let [[Red Caesar]] preserve two potions of acid resistance. During the [[Gun Balloon]] attack, Kerben helped repel imperial boarders and later gathered binding materials for the charmed beach troll's raft.
+Kerben was first aboard [[The Opal]] to see the elemental streak from [[Starfall]] strike the moon. He inferred the likely consequences for tides, falling debris, and [[Brimbolyn]], then helped steer the crew's response. At [[Xarag's Island]], Kerben helped kill [[Xarag]] and salvaged dragon material that let [[Red Caesar]] preserve two potions of acid resistance. During the [[Gun Balloon]] attack, Kerben helped repel imperial boarders and later gathered binding materials for [[Transel]]'s raft.
 
 ## Session 030
 
