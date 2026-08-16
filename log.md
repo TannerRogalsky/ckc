@@ -239,3 +239,5 @@
 ## [2026-08-16] update | Lorelai Lapis-Acathian — Renamed Lorelei, preserved transcript variants as aliases, and corrected canon references.
 ## [2026-08-16] lint | session_016 — Added the missing Connections section during Lorelai Lapis-Acathian validation.
 ## [2026-08-16] lint | Lorelai Lapis-Acathian — Validated links, frontmatter, entity index, sessions, aliases, and quests.
+## [2026-08-16] update | Ema-Tep — Renamed Imotep, confirmed Yuan-Ti identity, preserved misspellings as aliases, and corrected canon references.
+## [2026-08-16] lint | Ema-Tep — Validated links, frontmatter, entity index, session structure, aliases, and quests.

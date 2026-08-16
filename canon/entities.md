@@ -32,7 +32,7 @@
 - [[Master Lee]] — Figure associated with Heaven's Bulb (also called Master Li)
 - [[Keeper Rufus]] — Figure at Heaven's Bulb alongside Master Lee
 - [[Lady Jacinthe]] — Leader of The League of New Stark, former princess; Obould's rescue ended Vizier Jade's hostage pressure
-- [[Imotep]] — Yuan-ti associated with The League of New Stark
+- [[Ema-Tep]] — Yuan-Ti second-in-command and transportation chief for The League of New Stark
 - [[Damien Ouranous]] — Deceased League envoy slain by Emperor Shen and encountered in Arkadia
 - [[Mudeep]] — Figure at The Garden who trades art pieces for attunable magic items
 - [[Theotropa]] — Leader of The Garden, a druid sanctuary

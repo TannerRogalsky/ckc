@@ -16,7 +16,7 @@ summary: "Domyx dreams of Lorelai Lapis-Acathian and Ulrich's plight; League env
 - Damien negotiates with [[Red Caesar]] and Vokenar. He reveals the League shot down a [[Broyish Empire]] airship on the party's behalf and that the League will continue protecting the party's operations in exchange for information about the mysterious island and the [[Penumbra]] stones. He plans to tour the island for a day or two.
 - Red uses his newly-acquired Teleport Circle spell to transport the party to [[The White Drake]]. They are received by Lady Jacinthe, who briefs them on the Empire's growing aggression and reveals the Empire may be collecting Penumbra-like obsidian stones to power a massive magical weapon.
 - Lady Jacinthe offers the party two optional quests: track down a corrupted siren in the southwestern seas, and investigate an old castle where a powerful construct/golem once appeared.
-- [[Imotep]], a yuan-ti and Lady Jacinthe's second-in-command, uses *Transport via Plants* to return the party to [[Lyngbakr Lagoon]].
+- [[Ema-Tep]], a Yuan-Ti and Lady Jacinthe's second-in-command, uses *Transport via Plants* to return the party to [[Lyngbakr Lagoon]].
 - Domyx receives a quest to rescue [[Ulrich Fjoller]] from the titan consulate before his execution.
 
 ### Summary

@@ -325,7 +325,7 @@
 - [[Domyx]] receives a dream visitation from his sister [[Lorelai Lapis-Acathian]], who reveals [[Ulrich Fjoller]] is imprisoned and sentenced to execution. Lorelai Lapis-Acathian is pregnant with Ulrich's child and begs Domyx to rescue him. Domyx pledges to return.
 - [[Damien Ouranous]] arrives as an envoy of [[The League of New Stark]] aboard a League ship. He reveals the League shot down a [[Broyish Empire]] airship on the party's behalf and will continue protecting their operations.
 - The party visits [[Lady Jacinthe]] aboard [[The White Drake]] via Teleport Circle. She warns that the Empire may be collecting [[Penumbra]]-like stones to power a massive magical weapon. She offers two side quests: a corrupted siren in the southwestern seas and an old-world construct at a southern castle.
-- [[Imotep]] uses *Transport via Plants* to return the party to [[Lyngbakr Lagoon]].
+- [[Ema-Tep]] uses *Transport via Plants* to return the party to [[Lyngbakr Lagoon]].
 
 ## Session 017
 
