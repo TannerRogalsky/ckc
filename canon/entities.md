@@ -162,8 +162,8 @@
 
 ## Locations
 - [[Continental Stark]] — Massive elfish continent, last remnant of the Old World, home to Brimbolyn
-- [[Arkadia]] — Realm above Stark, origin of Vokenar and Lyngbakr, now sealed off by the repaired sky
-- [[Axis Mundi]] — Landmark beneath the world at Stark's center where Starfall is hidden
+- [[Arkadia]] — Upper plane beyond Stark's sky, home to the goddesses and an unnamed infinite tree
+- [[Axis Mundi]] — World-core landmark beyond a lower planar boundary analogous to Arkadia's, containing Starfall
 - [[Darvinblast]] — Underground dwarven city
 - [[The Darvenlast]] — Self-sufficient area within The Deepworlders Delve
 - [[Deep World]] — The underground realm of the dwarves
