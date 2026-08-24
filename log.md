@@ -264,3 +264,7 @@
 ## [2026-08-16] update | Dawn Market — Canonicalized Geoffrey the Younger and Qian Hu as Broy vendors.
 ## [2026-08-16] lint | The Emerald Leaf — Reassigned the alias from Qian Hu to Master Lee.
 ## [2026-08-16] lint | Dawn Market — Validated vendor aliases, links, frontmatter, appearances, entity index, session structure, and quests.
+## [2026-08-24] query | Session 032 — Located Alamar references in chunk_0000 and confirmed none in later chunks.
+## [2026-08-24] query | Alamar — Reviewed his stated reasons for remaining in Arkadia after the sky’s restoration.
+## [2026-08-24] update | Alamar — Added his voluntary retirement in Arkadia and reunion with his old Kaedonite mentors.
+## [2026-08-24] lint | Alamar — Validated frontmatter, links, canonical prose, session history, and entity index completeness.

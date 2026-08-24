@@ -6,6 +6,10 @@ sessions_appeared: ["007", "013", "015", "016", "018", "031", "032"]
 related:
   - "[[Lyngbakr Lagoon]]"
   - "[[Lyngbakr]]"
+  - "[[Ceril]]"
+  - "[[Vlerro]]"
+  - "[[Igden]]"
+  - "[[Tyson Cromwell]]"
   - "[[Broyish Empire]]"
   - "[[Castle Kaedon]]"
   - "[[Queen Caeradwyn]]"
@@ -24,3 +28,5 @@ In session 015, the party returned to [[Lyngbakr Lagoon]] to find the settlement
 In session 018, a dead noble woman questioned via [[Beryzoz's Teeth]] revealed that Alamar abdicated the old crown and his actions led to the creation of the senate, transforming [[Kaedon]] from a monarchy into a republic of syndicates — including groups like the Dancing Blades and the church. She described him as a great person who revolutionized the way of life in western Stark and wished she could have met him.
 
 In session 031, Alamar's settlement at [[Lyngbakr Lagoon]] had become a larger mixed refuge after the moon's destruction drove people from human, dwarven, and elven communities toward safety. Alamar explained that secrecy had become impossible and that the settlement had armed itself with harpoons against [[Broyish Empire]] balloons. When the Empire landed troops near the lagoon, Alamar tried to return to the settlement to protect its people. After [[Lyngbakr]] consumed enough [[Penumbra]] to repair the sky, Alamar joined [[Ceril]] on the turtle's ascent into the heavens, leaving Stark as the [[Hole in the Sky]] sealed beneath them.
+
+In session 032, Alamar crossed the drained ocean floor of [[Arkadia]] with [[Ceril]] after the sky's restoration. He reunited with [[Vlerro]], [[Igden]], and [[Tyson Cromwell]], dead companions and mentors from old [[Kaedon]], and chose to remain with them for the time being so they could catch up. With his mission fulfilled, he treated his former world as part of the past and settled into Arkadia's dreamlike paradise while Ceril continued to the goddesses. No magical inability to return was stated; his decision appeared voluntary.

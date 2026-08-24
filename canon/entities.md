@@ -48,7 +48,7 @@
 - [[Figma Brickfinger]] — Leader of [[Figma Brickfinger's Union]] at [[The Pit]]
 - [[Sigrid Forgewelt]] — Dwarven weapon forger in The Pit
 - [[Beryzoz Helmscar]] — Gnomish armor forger in The Pit
-- [[Alamar]] — Former Kaedonite reformer bound to Castle Kaedon; ascended with Lyngbakr when the sky sealed
+- [[Alamar]] — Former Kaedonite reformer who helped restore the sky, then voluntarily remained in Arkadia with his old mentors
 - [[Vlerro]] — Sequestered Alamar, then reunited with him in Arkadia
 - [[Igden]] — Parliamentarian of old Kaedon's senate, encountered in Arkadia
 - [[Tyson Cromwell]] — Old Kaedonite archbishop and Alamar's father figure, encountered in Arkadia
