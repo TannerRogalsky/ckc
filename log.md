@@ -274,3 +274,9 @@
 ## [2026-08-24] query | Ceril — Verified his return from Arkadia used a closing sky wound away from the infinite tree.
 ## [2026-08-24] update | Cosmology — Expanded Arkadia and Axis Mundi with their planar symmetry, Starfall connection, infinite tree, and separate sky wounds.
 ## [2026-08-24] lint | Cosmology — Validated Arkadia and Axis Mundi frontmatter, histories, links, canonical prose, and entity index completeness.
+## [2026-09-12] ingest | Session 035 — Processed three chunks; updated session summary, timeline, entities, index, and quest records.
+## [2026-09-12] update | Canonical names — Renamed Boril Erendel, Feronia Caeradel, and Keys Caeradel; recorded supplied aliases and Corellon Larethian.
+## [2026-09-12] lint | Family attribution — Corrected earlier Ceril parentage claims and quest labeling to Keys Caeradel’s family reunion.
+## [2026-09-12] lint | Rizolvir Kiirnodel — Corrected Aramil Kiirnodel relationship using sessions 034 and 035.
+## [2026-09-12] lint | Historical sessions — Standardized touched session headings and clarified the initial Castle Kaedon quest resolution date.
+## [2026-09-12] lint | Session 035 — Validated links, frontmatter, index coverage, session structure, appearance histories, narrative additions, and quest chronology.

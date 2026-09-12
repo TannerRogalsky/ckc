@@ -2,7 +2,7 @@
 type: item
 subtypes: [magic-item]
 session_introduced: "034"
-sessions_appeared: ["034"]
+sessions_appeared: ["034", "035"]
 aliases:
   - Ion of the Gilded Savior
 related:

@@ -2,7 +2,7 @@
 type: item
 subtypes: [magic-item]
 session_introduced: "013"
-sessions_appeared: ["013"]
+sessions_appeared: ["013", "035"]
 related:
   - "[[Kerben]]"
   - "[[Sigrid Forgewelt]]"

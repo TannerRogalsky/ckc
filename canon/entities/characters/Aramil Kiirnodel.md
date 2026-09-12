@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc]
 session_introduced: "014"
-sessions_appeared: ["014", "018"]
+sessions_appeared: ["014", "018", "035"]
 aliases:
   - Alsa Keirnodel
   - Alsakirn Odell

@@ -2,7 +2,7 @@
 type: concept
 subtypes: [lore]
 session_introduced: "001"
-sessions_appeared: ["013", "031"]
+sessions_appeared: ["013", "031", "035"]
 ---
 
 A hole in the sky that the party aims to find and plug. [[Lyngbakr]] fell through it from [[Arkadia]]. One of the party's main quests.

@@ -77,31 +77,31 @@ The party took a train into the jungle and found Yalet Aurum — a 40-50 foot st
 
 Yalet posed a riddle: "I can only produce mountains. My brother only produces small rocks. What can my brother make you to make you more courageous that I cannot?" [[Red Caesar]] solved it as "bolder" (bold/rocks pun). Yalet vomited chunks of gold in laughter as reward. His brother is [[Yalet Mora]], the stone-bodied crew member aboard [[The Opal]].
 
-The party returned to Brimbolyn and took a tram to [[The Academy]], [[The Order of Seasons]]' epicenter. They were greeted by [[Stephanne Quist]], a human receptionist, and led to [[Keys]] and [[Illidrielle Gandara]] — the same tiefling and half-elf who stole [[Penumbra]] from [[Castle Kaedon]].
+The party returned to Brimbolyn and took a tram to [[The Academy]], [[The Order of Seasons]]' epicenter. They were greeted by [[Stephanne Quist]], a human receptionist, and led to [[Keys Caeradel]] and [[Illidrielle Gandara]] — the same tiefling and half-elf who stole [[Penumbra]] from [[Castle Kaedon]].
 
 At the Academy, the party learned extensive details about the [[Demi-Spell]]: it works by going to the far future until everything begins again, recycling all souls and elements. Some places and people will always come back; others won't. The spell is written as volumes upon volumes — an encyclopedia of things that should exist with hexagrams and mathematical structures linking it all. [[Aramil Kiirnodel]] is the primary force behind the Demi-Spell's power. Penumbra pieces are used as energy sources to accelerate the spell.
 
 The Demi-Spell is more powerful than the gods — "the one thing mortals have over them." The gods are almighty but not omnipotent.
 
-A heated philosophical debate ensued. [[Illidrielle Gandara]] argued that fixing the sky deprives people of choice. Red countered that the Order's approach takes away choice from even more people. Ceril revealed his father is the [[Rakshasa]], a divine being he visited in a cave for years — news Keys and Illidrielle Gandara had never heard.
+A heated philosophical debate ensued. [[Illidrielle Gandara]] argued that fixing the sky deprives people of choice. Red countered that the Order's approach takes away choice from even more people. [[Keys Caeradel]] revealed that his father is the [[Rakshasa]], whom he had visited in a cave for years, and asked the party to bring him to [[The Academy]].
 
-The party negotiated an accord: they will stop collecting new Penumbra, and if their plan to fix the sky fails, they will give all collected Penumbra to the Order. In exchange, the Order granted the party access to teleport circles. Keys and Ceril shook hands.
+The party negotiated an accord: they will stop collecting new Penumbra, and if their plan to fix the sky fails, they will give all collected Penumbra to the Order. In exchange, the Order granted the party access to teleport circles. Keys Caeradel and Ceril shook hands.
 
 [[Ceril]] visited [[Gossa]] and traded a Mask of Ogun for an amulet that allows him to summon his familiar as a magma elemental — with claws, fire breath, and a death burst that explodes into a fireball if killed.
 
 ### Chunk 0004
 
-The party visited [[House Kiirnodel]] in Brimbolyn at the suggestion of [[Keys]] and [[Illidrielle Gandara]]. The estate is beautiful with pink, purple, and blue flowers growing on everything.
+The party visited [[House Kiirnodel]] in Brimbolyn at the suggestion of [[Keys Caeradel]] and [[Illidrielle Gandara]]. The estate is beautiful with pink, purple, and blue flowers growing on everything.
 
-[[Ceril]] immediately recognized two faces from his pre-Cataclysm escape flashback: [[Veronia Karadel]], a drow of former House Karadel, and [[Rizolvir Kiirnodel]], leader of House Kiirnodel. They had let Ceril flee years ago.
+[[Ceril]] immediately recognized two faces from his pre-Cataclysm escape flashback: [[Feronia Caeradel]], a drow of former House Caeradel, and [[Rizolvir Kiirnodel]], leader of House Kiirnodel. They had let Ceril flee years ago.
 
-Veronia is "chiefly in command of enacting the demi-spell." She recognized Ceril's future self, saying "your soul survives many worlds unchanged" and predicting he would become a god in the reset world. She is the mother of [[Keys]].
+Feronia Caeradel is "chiefly in command of enacting the demi-spell." She recognized Ceril's future self, saying "your soul survives many worlds unchanged" and predicting he would become a god in the reset world. She is the mother of [[Keys Caeradel]].
 
 Rizolvir warned the party that their greatest enemy is the [[Broyish Empire]], which is also pursuing the [[Genesis Mundi]] and collecting [[Penumbra]] pieces — likely for a weapon. He said the Empire is more violent than any elf and kills people who don't even stand in their way.
 
-[[Vokenar]] questioned Veronia about the [[Genesis Mundi]] and whether the Demi-Spell would be fair to all peoples. Veronia clarified that the Genesis Mundi is a fixed point between worlds that occurs regardless — the Demi-Spell merely expedites and modifies it with guidelines.
+[[Vokenar]] questioned Feronia Caeradel about the [[Genesis Mundi]] and whether the Demi-Spell would be fair to all peoples. Feronia Caeradel clarified that the Genesis Mundi is a fixed point between worlds that occurs regardless — the Demi-Spell merely expedites and modifies it with guidelines.
 
-Veronia asked the party to check on [[Boral Erendel]] at [[The Garden]], worrying where his mind has taken him with his side project.
+Feronia Caeradel asked the party to check on [[Boril Erendel]] at [[The Garden]], worrying where his mind has taken him with his side project.
 
 The house granted the party [[Teleport Keys]] for accessing teleport circles back to Brimbolyn.
 
@@ -113,10 +113,10 @@ The party crossed [[Continental Stark]] toward [[Brimbolyn]], survived the jungl
 
 In Brimbolyn, the party learned that [[The Order of Seasons]] was nearing completion of the [[Demi-Spell]]. They negotiated an accord to stop gathering new [[Penumbra]] and surrender their collection if repairing the sky failed, receiving access to teleport circles in return.
 
-At [[House Kiirnodel]], [[Veronia Karadel]] and [[Rizolvir Kiirnodel]] recognized [[Ceril]] from before [[The Cataclysm]]. Rizolvir warned that the [[Broyish Empire]] was pursuing the [[Genesis Mundi]] and collecting Penumbra, while Veronia asked the party to intervene with [[Boral Erendel]]. After the party departed, [[Vizier Jade]] revealed that she was watching [[Red Caesar]] and expected to meet him in the imperial capital.
+At [[House Kiirnodel]], [[Feronia Caeradel]] and [[Rizolvir Kiirnodel]] recognized [[Ceril]] from before [[The Cataclysm]]. Rizolvir warned that the [[Broyish Empire]] was pursuing the [[Genesis Mundi]] and collecting Penumbra, while Feronia Caeradel asked the party to intervene with [[Boril Erendel]]. After the party departed, [[Vizier Jade]] revealed that she was watching [[Red Caesar]] and expected to meet him in the imperial capital.
 
 ### Connections
 
 - The accord with [[The Order of Seasons]] temporarily aligns the party with its Penumbra strategy while preserving their attempt to repair the sky.
-- [[Ceril]]'s recognition by [[Veronia Karadel]] and [[Rizolvir Kiirnodel]] connects his past to [[House Kiirnodel]] and the Demi-Spell project.
+- [[Ceril]]'s recognition by [[Feronia Caeradel]] and [[Rizolvir Kiirnodel]] connects his past to [[House Kiirnodel]] and the Demi-Spell project.
 - The warnings about the [[Broyish Empire]] and [[Vizier Jade]]'s interest in [[Red Caesar]] foreshadow the party's later conflict with imperial forces.

@@ -2,7 +2,7 @@
 type: organization
 subtypes: [guild]
 session_introduced: "009"
-sessions_appeared: ["013"]
+sessions_appeared: ["013", "035"]
 aliases:
   - Figma Brick Fingers Union
   - The Pitman's Union

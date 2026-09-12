@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "011", "012", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033", "034"]
+sessions_appeared: ["001", "011", "012", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033", "034", "035"]
 aliases:
   - Kerbin
   - Curbin
@@ -213,3 +213,7 @@ Kerben brought [[Victor, the Amphibious Beast]] through the [[Mana Sea]], collec
 [[Obould]] permanently transferred command of [[The Opal]] to Kerben. Most of the crew accepted him as captain, [[Raxxy]] chose to stay, and Kerben recruited [[Vorgan of the Stage]] as the ship's performer. He acquired the [[Ioun of the Emerald Hunter]].
 
 At [[Tome Keeper's Pyramid]], Kerben recognized the fiend as [[Farraday]], his former employer. He destroyed the [[Tome of Satariel]] before it could restore itself and later dealt the final blow to Farraday's body, forcing him back to hell and ending his last foothold on Stark.
+
+## Session 035
+
+Kerben opened [[House Erendel]] with his old magical key, then used his stone sense to discover a concealed chamber beneath the mirrored hall. [[Zulu]] accompanied him into the confrontation with [[Boril Erendel]]. The party defeated Boril Erendel, recovered relics and mithril, and destroyed the laboratory. Kerben could not decipher the [[Demi-Spell]] when the party later examined it.

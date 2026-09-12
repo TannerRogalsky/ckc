@@ -20,7 +20,7 @@ aliases:
   - Vokun
   - Vokunov
 session_introduced: "001"
-sessions_appeared: ["001", "011", "012", "013", "014", "015", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033", "034"]
+sessions_appeared: ["001", "011", "012", "013", "014", "015", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033", "034", "035"]
 related:
   - "[[Arkadia]]"
   - "[[Sigil]]"
@@ -54,10 +54,10 @@ related:
   - "[[Academia Lux]]"
   - "[[Brimbolyn]]"
   - "[[The Academy]]"
-  - "[[Keys]]"
+  - "[[Keys Caeradel]]"
   - "[[Illidrielle Gandara]]"
-  - "[[Veronia Karadel]]"
-  - "[[Boral Erendel]]"
+  - "[[Feronia Caeradel]]"
+  - "[[Boril Erendel]]"
   - "[[The League of New Stark]]"
   - "[[Sunset's Solace]]"
   - "[[Sigrid Forgewelt]]"
@@ -135,11 +135,11 @@ Met [[Osiris Dims]], an aasimar born in [[Brimbolyn]] 45 years ago, who revealed
 
 Reunited with [[Gossa]] at the [[Elvish Marketplace]] — a former teacher from [[Academia Lux]] in [[Arkadia]]. She recognized him immediately and warned him to learn what he could about the Order.
 
-At [[The Academy]], spoke with [[Keys]] and [[Illidrielle Gandara]] about the [[Demi-Spell]]. Questioned whether the spell would simply replay the same cycle of events and whether the gods themselves might have caused [[The Cataclysm]].
+At [[The Academy]], spoke with [[Keys Caeradel]] and [[Illidrielle Gandara]] about the [[Demi-Spell]]. Questioned whether the spell would simply replay the same cycle of events and whether the gods themselves might have caused [[The Cataclysm]].
 
 Negotiated an accord with the Order: the party will stop collecting new [[Penumbra]], and if their plan to fix the sky fails, they will give all collected Penumbra to the Order. The Order granted the party access to teleport circles.
 
-At [[House Kiirnodel]], questioned [[Veronia Karadel]] about the [[Genesis Mundi]] and whether the Demi-Spell would be fair to all peoples, including the [[Broyish Empire]]. Learned that the Genesis Mundi is a fixed point between worlds that occurs regardless, and the Demi-Spell merely modifies it with guidelines.
+At [[House Kiirnodel]], questioned [[Feronia Caeradel]] about the [[Genesis Mundi]] and whether the Demi-Spell would be fair to all peoples, including the [[Broyish Empire]]. Learned that the Genesis Mundi is a fixed point between worlds that occurs regardless, and the Demi-Spell merely modifies it with guidelines.
 
 Taught [[Alamar]] Continual Flame and cast several continual flame torches at [[Lyngbakr Lagoon]] for safe lighting.
 
@@ -243,7 +243,7 @@ On [[Hole on Wheels]], Vokenar cast a blade barrier down the train, tearing open
 
 ## Session 032
 
-Ceril recovered Vokenar's body from the [[Dawn Palace]] and reincarnated him at the [[Temple of Sigil]]. He returned as a high elf rather than an aasimar. The ritual revealed that [[Boral Erendel]]'s changes to the [[Demi-Spell]] have constrained reincarnation to elven forms, making Vokenar's new body evidence of an ongoing cosmological threat.
+Ceril recovered Vokenar's body from the [[Dawn Palace]] and reincarnated him at the [[Temple of Sigil]]. He returned as a high elf rather than an aasimar. The ritual revealed that [[Boril Erendel]]'s changes to the [[Demi-Spell]] have constrained reincarnation to elven forms, making Vokenar's new body evidence of an ongoing cosmological threat.
 
 ## Session 033
 
@@ -252,3 +252,9 @@ Vokenar used Legend Lore to reveal [[Ninki Nanka]] as [[Windsurf]]'s ancient def
 ## Session 034
 
 Vokenar entrusted [[Jack Harvey's Portrait]] to [[David Harvey]] and established [[The White Drake]] as another return point. He acquired the [[Ioun of the Gilded Savior]], whose magic links him to a chosen companion. In [[Tome Keeper's Pyramid]], he broke the domination that had turned [[Domyx]] against the party and sustained the group through [[Farraday]]'s defenses. After Farraday's defeat, Vokenar established the pyramid as a magical return point and potential base.
+
+## Session 035
+
+[[Boril Erendel]] revealed that Vokenar retained his aasimar nature despite his reincarnation as a high elf. Vokenar recovered his angelic radiance and abilities, and his appearance came to reflect both heritages. His restored radiance ended Boril Erendel's life. Vokenar thanked him for revealing that his former nature remained and embraced a sense of belonging to both [[Arkadia]] and [[Stark]].
+
+After [[Keys Caeradel]] entrusted the [[Demi-Spell]] to the party, Vokenar discovered that he could read and enact it. He supported [[Red Caesar]] holding the spell and trusted him to destroy it if necessary, while remaining willing to cast it as a last resort. Vokenar's attempt to Plane Shift the party to [[Axis Mundi]] failed, directing them toward [[The Funnel]].

@@ -22,7 +22,7 @@
 
 ## Feed Penumbra to Lyngbakr to raise Castle Kaedon
 - **Given by:** [[Sigil]], [[Aeris]]
-- **Resolved (initial):** Sessions 013–015
+- **Resolved (initial):** Session 015
 - **Details:** [[Sigil]] directed the party to feed [[Penumbra]] to [[Lyngbakr]] to raise [[Castle Kaedon]] from the sea. Multiple feedings gradually exposed more of the castle, enabling exploration. The sky began to heal incrementally.
 
 ## Explore and clear Castle Kaedon
@@ -48,7 +48,7 @@
 ## Plant Antumbra in the League's Penumbra stash
 - **Given by:** [[Red Caesar]], [[Vokenar]] (party initiative)
 - **Resolved:** Session 025
-- **Details:** [[Red Caesar]], [[Keys]], and [[Illidrielle Gandara]] synthesized [[Antumbra]] — a poisoned form of [[Penumbra]] designed to sabotage the [[Broyish Empire]]'s [[Starfall]] device. [[Kerben]] infiltrated [[The White Drake]] and planted the Antumbra among the League's stockpiled Penumbra, ensuring contaminated material would reach the Empire.
+- **Details:** [[Red Caesar]], [[Keys Caeradel]], and [[Illidrielle Gandara]] synthesized [[Antumbra]] — a poisoned form of [[Penumbra]] designed to sabotage the [[Broyish Empire]]'s [[Starfall]] device. [[Kerben]] infiltrated [[The White Drake]] and planted the Antumbra among the League's stockpiled Penumbra, ensuring contaminated material would reach the Empire.
 
 ## Hunt the Bane Siren
 - **Given by:** [[Lady Jacinthe]]
@@ -114,3 +114,13 @@
 - **Given by:** [[Yalet Mora]]
 - **Resolved:** Session 034
 - **Details:** The party refused to attack the apparently helpless [[Yalet Aurum]]. He surrendered a massive golden brain and let Yalet Mora believe he was dying, peacefully ending their feud while secretly remaining healthy.
+
+## Stop the Demi-Spell / confront Boril Erendel
+- **Given by:** [[Crone]], [[Ceril]] (own initiative)
+- **Resolved:** Session 035
+- **Details:** The party killed [[Boril Erendel]] and destroyed his mirror laboratory at [[House Erendel]], fulfilling its bargain with [[Rizolvir Kiirnodel]]. [[Keys Caeradel]] then relinquished the completed [[Demi-Spell]] instead of casting it. [[Red Caesar]] holds the intact spell and can destroy it; [[Vokenar]] can cast it as a last resort. The immediate reset attempt has ended, though the spell remains available.
+
+## Reunite Keys Caeradel with the Rakshasa
+- **Given by:** [[Keys Caeradel]], [[Rakshasa]]
+- **Resolved:** Session 035
+- **Details:** [[Ceril]] helped pursue the reunion on [[Keys Caeradel]]'s behalf. With [[Farraday]]'s surveillance ended, the [[Rakshasa]] visited his son, [[Keys Caeradel]], at [[The Academy]]. [[Feronia Caeradel]] confirmed their family relationship. After briefly imprisoning his father, Keys Caeradel bound the Rakshasa's soul into an amulet at his father's request and departed intending to see his mother and seek old companions.

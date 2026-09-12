@@ -11,7 +11,7 @@ summary: "Domyx escapes Shen, Ceril consults the goddesses, Vokenar is reincarna
 
 [[Emperor Shen]] held [[Domyx]] in the [[Dawn Palace]], repeatedly demanding that his grandson accept succession in the [[Broyish Empire]]. Shen believed [[Lyngbakr]] dead and the sky irreparable, though Domyx noticed the last waterfalls from the damaged sky closing above Broy. [[Vizier Jade]] showed Domyx a scrying vision of the party, then later admitted that she was bound to Shen's cause and wished for a life other than war.
 
-In [[Arkadia]], [[Ceril]] and [[Alamar]] crossed the drained ocean floor after Lyngbakr repaired the sky. Alamar reunited with [[Vlerro]], [[Igden]], and [[Tyson Cromwell]]—old Kaedonite dead who had shaped his earlier life. Ceril met [[Aeris]], [[Sigil]], and the injured [[Crone]]; the goddesses confirmed that Vokenar's body could still be restored if recovered quickly. Ceril also met the dead [[Illidrielle Gandara]], who confirmed that [[Keys]] had completed but not cast the [[Demi-Spell]], while [[Boral Erendel]]'s alterations would force incarnating spirits into high elf bodies.
+In [[Arkadia]], [[Ceril]] and [[Alamar]] crossed the drained ocean floor after Lyngbakr repaired the sky. Alamar reunited with [[Vlerro]], [[Igden]], and [[Tyson Cromwell]]—old Kaedonite dead who had shaped his earlier life. Ceril met [[Aeris]], [[Sigil]], and the injured [[Crone]]; the goddesses confirmed that Vokenar's body could still be restored if recovered quickly. Ceril also met the dead [[Illidrielle Gandara]], who confirmed that [[Keys Caeradel]] had completed but not cast the [[Demi-Spell]], while [[Boril Erendel]]'s alterations would force incarnating spirits into high elf bodies.
 
 While crossing Arkadia, Ceril saw [[Damien Ouranous]] traveling with Vokenar's spirit. Damien revealed that [[Emperor Shen]] had slain him, though he did not know what followed his death, and the two reflected on [[Vizier Jade]]'s history of being drawn into wars.
 
@@ -27,7 +27,7 @@ Ceril healed Domyx, and the party recovered Vokenar's body from the palace. They
 
 ### Chunk 0002
 
-At the [[Temple of Sigil]], Ceril reincarnated [[Vokenar]] as a high elf. The ritual revealed that [[Boral Erendel]]'s corrupted [[Demi-Spell]] work has constrained reincarnation itself: available new bodies are all elves.
+At the [[Temple of Sigil]], Ceril reincarnated [[Vokenar]] as a high elf. The ritual revealed that [[Boril Erendel]]'s corrupted [[Demi-Spell]] work has constrained reincarnation itself: available new bodies are all elves.
 
 The party travelled to [[The Pit]], where a fragment of [[Crone]] had become part of a new housing district. At [[The Funnel]], [[Courteous Cam]] and [[Otto]] described a collapsed route to a vast abyss beneath [[Stark]]. They agreed to reopen the route toward [[Axis Mundi]], though it would take weeks.
 
@@ -42,13 +42,13 @@ Key events:
 - Ceril encountered [[Damien Ouranous]] among the dead and learned that [[Emperor Shen]] had slain him.
 - The party exposed the [[Broyish Empire]]'s false sky, triggering a public uprising in the capital and forcing Shen and Jade to flee to [[Starfall]].
 - Ceril recovered and reincarnated Vokenar as a high elf at the [[Temple of Sigil]].
-- [[Boral Erendel]]'s alterations to the [[Demi-Spell]] are actively restricting reincarnation to elven forms.
+- [[Boril Erendel]]'s alterations to the [[Demi-Spell]] are actively restricting reincarnation to elven forms.
 - [[The Funnel]] offers a potential route into the abyss beneath Stark and toward [[Axis Mundi]], but needs weeks of work.
 - The party chose [[Southport]] as its immediate next destination to address [[Mana Sickness]].
 
 The sky-repair victory has now reshaped the war's political balance. Shen's capital could no longer hide the restored sky from its people, and he has withdrawn with Jade to Starfall rather than hold the palace. Jade's decision to spare Domyx clarifies that she is not wholly aligned with Shen, but her pact still binds her to his campaign.
 
-Ceril's passage through Arkadia established that the goddesses survived the repairs: Aeris is recovering, Crone is badly wounded, and Sigil remains vulnerable to Starfall. It also made the Boral threat immediate rather than theoretical. Vokenar's return comes with a lasting consequence—the cosmic cycle now offers only elven bodies—giving the party a direct reason to confront Boral and Keys before the Demi-Spell is cast.
+Ceril's passage through Arkadia established that the goddesses survived the repairs: Aeris is recovering, Crone is badly wounded, and Sigil remains vulnerable to Starfall. It also made the Boril Erendel threat immediate rather than theoretical. Vokenar's return comes with a lasting consequence—the cosmic cycle now offers only elven bodies—giving the party a direct reason to confront Boril Erendel and Keys Caeradel before the Demi-Spell is cast.
 
 The party has two pressing paths forward. The Funnel expedition may eventually reach Axis Mundi and Starfall, while Southport needs help with the resurgent Mana Sickness. Their choice to address Southport first buys the dwarves time to dig but leaves Shen at Starfall.
 
@@ -58,6 +58,6 @@ The party has two pressing paths forward. The Funnel expedition may eventually r
 - The false-sky uprising pays off [[Red Caesar]]'s earlier connections with [[Naomi Ue]] in the Broyish capital.
 - [[Vizier Jade]]'s choice to spare Domyx complicates her established alliance with [[Emperor Shen]] and her role in Vokenar's death.
 - Ceril's meeting with the goddesses continues the mission given by [[Aeris]], [[Sigil]], and [[Crone]] to protect them from further harm.
-- Vokenar's elven reincarnation confirms the danger of [[Boral Erendel]]'s alterations to the [[Demi-Spell]].
+- Vokenar's elven reincarnation confirms the danger of [[Boril Erendel]]'s alterations to the [[Demi-Spell]].
 - The Funnel route turns the [[Axis Mundi]] revelation from session 031 into a practical, though delayed, plan.
 - The move toward [[Southport]] returns the party to the unresolved [[Mana Sickness]] crisis and the [[Deep Roses]] cure established in sessions 023 and 025.

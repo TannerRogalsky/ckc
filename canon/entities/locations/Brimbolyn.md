@@ -2,7 +2,7 @@
 type: location
 subtypes: [city]
 session_introduced: "012"
-sessions_appeared: ["012", "013", "014", "026", "034"]
+sessions_appeared: ["012", "013", "014", "026", "034", "035"]
 aliases:
   - Brimbalin
   - Brimboland

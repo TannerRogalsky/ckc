@@ -2,7 +2,7 @@
 type: character
 subtypes: [antagonist]
 session_introduced: "013"
-sessions_appeared: ["013", "015"]
+sessions_appeared: ["013", "015", "035"]
 aliases:
   - Queen Ceridwen
   - Ceridwen

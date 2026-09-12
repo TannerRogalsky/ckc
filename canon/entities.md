@@ -1,11 +1,11 @@
 # Canon Entities
 
 ## Party Members
-- [[Red Caesar]] — Heaven's Bulb abjurer who protected Ceril's approach to Ninki Nanka and completed Witness's chart
-- [[Domyx]] — Clan Akathia barbarian who escaped Emperor Shen and helped kill the Mana Sea Aboleth
-- [[Kerben]] — Ranger/rogue, permanent captain of The Opal, and destroyer of Farraday's Stark body
-- [[Ceril]] — Druid who returned from Arkadia, restored Vokenar, and ended Mana Sickness at its source
-- [[Vokenar]] — Cleric from Arkadia, reincarnated as a high elf and guiding the party through divine magic
+- [[Red Caesar]] — Abjurer holding the completed Demi-Spell, able to destroy it by draining its sky energy
+- [[Domyx]] — Clan Akathia barbarian who can safely carry the Demi-Spell and wields the Kaboom Ring
+- [[Kerben]] — Captain of The Opal who destroyed Farraday’s Stark body and helped defeat Boril Erendel
+- [[Ceril]] — Druid who restored Vokenar, ended Mana Sickness, and carries the Cornucopia of Constellations
+- [[Vokenar]] — Cleric with restored aasimar and high elf heritage, capable of enacting the Demi-Spell
 
 ## Crew & Allies
 - [[Obould]] — Retired captain of The Opal, now engaged to Lady Jacinthe and co-leading the League
@@ -37,7 +37,7 @@
 - [[Damien Ouranous]] — Deceased League envoy slain by Emperor Shen and encountered in Arkadia
 - [[Mudeep]] — Figure at The Garden who trades art pieces for attunable magic items
 - [[Theotropa]] — Leader of The Garden, a druid sanctuary
-- [[Boral Erendel]] — Rogue Demi-Spell architect operating a guarded replacement-body laboratory at House Erendel
+- [[Boril Erendel]] — Rogue Demi-Spell architect killed at House Erendel after assuming a Larethian form
 - [[The Wonder Hulk]] — Proprietor of The W. H. Boutique in Cutlass Cray
 - [[Gilder Savar]] — Lich proprietor of Savar Brews and former traveling companion of Ceril and Vanzia Vinfei
 - [[Transel]] — Beach troll spared and aided by the party who came to run The Brine & Bodak
@@ -45,7 +45,7 @@
 - [[Pastor Borm]] — Gold wyrmling, pastor of The Church of the Thirty Lights
 - [[Octavia Crayborne]] — Proprietor of The Corsairs' Court and former performer at The Brine & Bodak
 - [[The Marid]] — Water genie who runs The Boardwalks and serves as Cutlass Cray's Port Authority
-- [[Figma Brickfinger]] — Leader of [[Figma Brickfinger's Union]] at [[The Pit]]
+- [[Figma Brickfinger]] — Union leader who completed the Funnel excavation and withdrew workers from the dangers beyond
 - [[Sigrid Forgewelt]] — Dwarven weapon forger in The Pit
 - [[Beryzoz Helmscar]] — Gnomish armor forger in The Pit
 - [[Alamar]] — Former Kaedonite reformer who helped restore the sky, then voluntarily remained in Arkadia with his old mentors
@@ -59,14 +59,14 @@
 - [[Garsinth Theralal]] — Older elf in Brimbolyn whose son cast Sleep on Red Caesar
 - [[Yalet Aurum]] — Golden Galeb Duurr who staged his decline to give Yalet Mora closure
 - [[Stephanne Quist]] — Human receptionist at The Academy
-- [[Keys]] — Tiefling working on the Demi-Spell at The Academy, was at Castle Kaedon
-- [[Illidrielle Gandara]] — Half-elf of the Order working with Keys, was at Castle Kaedon
+- [[Keys Caeradel]] — Tiefling who relinquished the completed Demi-Spell and departed with his father’s soul in an amulet
+- [[Illidrielle Gandara]] — Deceased Order collaborator whose wish that Keys Caeradel move on helped him relinquish the Demi-Spell
 - [[Clockwork]] — Member of the Dancing Blades thieves guild, imprisoned in Castle Kaedon
 - [[David Harvey]] — Harengon working with The League to reclaim harengon territory
 - [[Theo Harvey]] — Traitor harengon recaptured by the Empire and freed again by Kerben at The Carrot Cake
 - [[Jack Harvey]] — Famous Kaedon-era entrepreneur whose Carrot Cake vault preserved the Penumbra that repaired the sky
-- [[Veronia Karadel]] — Drow, Keys' mother, chiefly in command of enacting the Demi-Spell from House Kiirnodel
-- [[Rizolvir Kiirnodel]] — House Kiirnodel leader who delayed Demi-Spell pressure while the party confronts Boral
+- [[Feronia Caeradel]] — Drow leader, mother of Keys Caeradel and former wife of the Rakshasa
+- [[Rizolvir Kiirnodel]] — Son of Aramil Kiirnodel and House Kiirnodel leader who honored the bargain to delay the Demi-Spell
 - [[Solar Flare]] — Tall woman with shining light seen by Vokenar 60 years ago
 - [[Deep World Wizard]] — Mage in [[Darvinblast]] allied with an [[Etten]] champion
 - [[Queen Caeradwyn]] — Former elven queen whose fall enabled Aramil Kiirnodel's rise and preceded elven uprisings and the Cataclysm
@@ -79,7 +79,7 @@
 - [[Rahmadi]] — Legendary goblin rogue who led southern desert refugees to safety during the Cataclysm
 - [[Qian Hu]] — Ancient-world survivor and Dawn Market relic merchant who knew Master Lee before the Cataclysm
 - [[Geoffrey the Younger]] — Dawn Market gunsmith who crafted three reusable magical bullets for Kerben
-- [[Courteous Cam]] — Dwarf farmer-trader who gave Ceril seeds, a scroll, and the gnoll Penumbra lead
+- [[Courteous Cam]] — Dwarf farmer and trader who helped reopen the Funnel and reported the dangers beyond
 - [[Father Warrick]] — High-ranking priest of Sigil restored by Ceril and later aiding Southport
 - [[Xander MacLenth]] — Pirate ghost released from the abandoned Far Helm Clan home
 - [[Lenth the Rugged]] — Legendary pirate, father of Xander MacLenth, had wives on every continent
@@ -90,7 +90,7 @@
 - [[Domyx IV]] — Current ruler of [[Clan Akathia]], father of [[Domyx]] and [[Lorelai Lapis-Acathian]]; disowned Domyx after he refused to forget clan secrets
 - [[Farraday]] — Kerben's former employer, Jack Harvey's fiendish benefactor, and keeper of the destroyed Tome of Satariel
 - [[Sunspite]] — Entity that hates the sun and wanted Castle Kaedon sunk
-- [[Rakshasa]] — Divine being, Ceril's father, freed from Farraday's surveillance
+- [[Rakshasa]] — Divine being and father of Keys Caeradel, now traveling as a soul bound into his son’s amulet
 - [[Boston Golf]] — Old Carrot Cake acting-troupe figure represented by a Magic Hat fortune-teller automaton
 
 
@@ -98,7 +98,7 @@
 - [[Arcanoloth]] — Fiendish outsider species; Farraday was one and commanded part of the ocean
 - [[Death Spark]] — Small lightning-based entity resembling a will-o'-wisp, encountered in the Hole Shebang
 - [[Roger Ribbons]] — Aberration of string and twine with a red skull and crucifix spikes, boss of the Hole Shebang island
-- [[Zulu]] — Kerben's dinosaur companion
+- [[Zulu]] — Kerben’s dinosaur companion, restored after falling in the battle at House Erendel
 - [[Cloaker]] — Bat-like creature wrapped in a massive silk membrane; ambushes from the canopy and summons allies through infrasound
 - [[Flame Skull]] — Tiny neon-colored floating fiend skulls that cast fire spells and blend with magical illusions
 - [[Gorgon Head]] — Floating monstrosity with snake hair, poison rays, and a petrifying gaze; encountered in the Magic Hat area
@@ -163,7 +163,7 @@
 ## Locations
 - [[Continental Stark]] — Massive elfish continent, last remnant of the Old World, home to Brimbolyn
 - [[Arkadia]] — Upper plane beyond Stark's sky, home to the goddesses and an unnamed infinite tree
-- [[Axis Mundi]] — World-core landmark beyond a lower planar boundary analogous to Arkadia's, containing Starfall
+- [[Axis Mundi]] — World core beyond Stark’s lower planar boundary, housing Starfall and inaccessible by attempted magical travel
 - [[Darvinblast]] — Underground dwarven city
 - [[The Darvenlast]] — Self-sufficient area within The Deepworlders Delve
 - [[Deep World]] — The underground realm of the dwarves
@@ -171,14 +171,14 @@
 - [[Dawn Market]] — Diverse Broy market whose vendors include Qian Hu and Geoffrey the Younger
 - [[Brimbolyn]] — Magic city on Continental Stark, seat of The Order of Seasons, connected to 11 towns by rail
 - [[Elvish Marketplace]] — Marketplace in Brimbolyn where elves sell magical goods
-- [[The Academy]] — Epicenter of The Order of Seasons' activity in Brimbolyn
+- [[The Academy]] — Brimbolyn research center where Keys Caeradel completed and relinquished the Demi-Spell
 - [[Academia Lux]] — School in Arkadia where Vokenar was taught
 - [[Stark]] — World below Arkadia; its sky was repaired while Starfall remains hidden beneath it
 - [[The Pit]] — Dwarvish settlement, seat of Figma Brickfinger's Union
 - [[The Palace of the Pit]] — Seat of power in The Pit
 - [[The Deepworlders Delve]] — Home of the Duergar in The Pit
-- [[The Funnel]] — Primary mining operation in The Pit
-- [[The Garden]] — Druid sanctuary
+- [[The Funnel]] — Reopened passage from The Pit toward a dangerous, spacious region beneath Stark
+- [[The Garden]] — Druid sanctuary and supply hub from which the Rakshasa departed to reunite with Keys Caeradel
 - [[Cutlass Cray]] — Floating pirate city
 - [[The Boardwalks]] — Cutlass Cray waterfront run by The Marid; where Otto was recruited
 - [[The Brine & Bodak]] — Cutlass Cray establishment run by Transel
@@ -210,7 +210,7 @@
 - [[Acathian Manor]] — Golden palace atop the highest mountains in Stark; ruling seat of [[Clan Akathia]]
 - [[Prison of Frost]] — Prison facility in the titan homeland where [[Ulrich Fjoller]] is held awaiting execution
 - [[Tome Keeper's Pyramid]] — Trapped eastern temple where the party destroyed Farraday's Stark foothold
-- [[House Erendel]] — Hidden arcane laboratory where Boral Erendel creates replacement bodies
+- [[House Erendel]] — Boril Erendel’s mirror laboratory, destroyed after his defeat
 - [[Magic Hat]] — Hotel and bunker within The Carrot Cake, accessible via teleport circle from the midway
 - [[Hole Shebang]] — Festival island of games and entertainments within The Carrot Cake, accessible via teleport circle
 - [[City Hole]] — Central hub cavern with barrel portals connecting to the park's zones
@@ -235,7 +235,7 @@
 - [[Clan Akathia]] — Domyx's titan clan, hiding records of Emperor Shen, who has now captured Domyx
 - [[House Kiirnodel]] — Elven aristocratic house encountered in Ceril's escape flashback
 - [[The League of New Stark]] — Maritime organization led by Lady Jacinthe, formerly coerced through Obould's captivity
-- [[The Order of Seasons]] — Organization mostly of elves, seeks Genesis Mundi
+- [[The Order of Seasons]] — Elven-led order whose completed Demi-Spell was entrusted to the party instead of cast
 - [[Broyish Empire]] — Xenophobic eastern empire ruled by Emperor Shen, currently retreating during a temporary power vacuum
 - [[Knights of the Four Seasons]] — Elven marshal service on Continental Stark, led by Marshal Zem
 - [[Goblin Traders]] — Goblin crew operating a red-sailed trading ship on the high seas, selling poisons and magical wares
@@ -249,7 +249,7 @@
 - [[League Banner]] — Banner from The League of New Stark
 - [[Para and Bellum]] — Two copper blades given to Red Caesar
 - [[Genesis Mundi]] — Fixed point between worlds that the Demi-Spell expedites and modifies
-- [[Demi-Spell]] — The Order's spell to rewrite the past and undo the Cataclysm, less than a year away
+- [[Demi-Spell]] — Completed world-remaking spell held by Red Caesar; Vokenar can cast it and Red Caesar can destroy it
 - [[Iklwa Isondo]] — Domyx's +1 mithril trident with magnetic auto-return, crafted by Lysanderol Nokirna
 - [[Potion of Proof Against Storms]] — Potion granting thunder and lightning resistance, given to Domyx
 - [[Hilltop Hunter]] — Kerben's upgraded force-damage musket
@@ -284,7 +284,7 @@
 - [[Mana Sickness]] — Contagious plague spreading through Southport from the Mana Sea; victims fall into impenetrable slumber
 - [[Shark's Edge]] — Kerben's +2 falchion made from a megalodon tooth; reveals water temperature by sight
 - [[Tatzelwurm Gizzard Juice]] — One-use white dragon poison crafted by Kerben from Tatzelwurm scales and darkwood bark
-- [[Antumbra]] — Poisoned, synthesized Penumbra created by Red Caesar, Keys, and Illidrielle Gandara; designed to sabotage Starfall
+- [[Antumbra]] — Poisoned, synthesized Penumbra created by Red Caesar, Keys Caeradel, and Illidrielle Gandara; designed to sabotage Starfall
 - [[Chart of the Witness]] — Recombined and decoded world chart showing old Stark and the present islands
 - [[Potion of Fluid Adamantite]] — Rare potion granting resistance to all damage for one minute; found in the Southern Archipelago Castle
 - [[Orkland Pin of Courage]] — Award given to Obould for saving orc tribes in southern battles decades ago
@@ -302,10 +302,14 @@
 - [[Ioun of Crimson Dreams]] — Adaptive defensive Ioun stone acquired by Red Caesar
 - [[Ioun of the Emerald Hunter]] — Agility-enhancing Ioun stone acquired by Kerben
 - [[Ioun of the Gilded Savior]] — Companion-linking restorative Ioun stone acquired by Vokenar
-- [[Cestus of the Clear Sky]] — Domyx's sky-linked fighting gauntlet forged by Sigrid Forgewelt
+- [[Cestus of the Clear Sky]] — Domyx’s sky-infused gauntlet, gathering clouds into forceful blows that can restore vitality
+
+- [[Cornucopia of Constellations]] — Ceril’s elven feast charm providing food, vitality, and adaptable energy protections
+- [[Kaboom Ring]] — Domyx’s returning boomerang with a thunderous impact
 
 ## Deities
 - [[Aeris]] — Sister goddess of Chaos, Potential, and Fate (alias: The Sky); sky repaired but mortal body remains trapped in Starfall
 - [[Sigil]] — Sister goddess of Life, Energy, and Motion (alias: The Sun); Starfall's next intended target
-- [[Crone]] — Sister goddess of Time, Death, and Passage of Things; shattered by Starfall, her sky-repair command fulfilled
+- [[Crone]] — Sister goddess of Time, Death, and Passage; her shattered moon can recover as the other sisters sustain it
 - [[Blibdoolpoolp]] — Kuo-Toa deity defeated by the party on Otyugh Isle
+- [[Corellon Larethian]] — Primordial elven deity alluded to by Boril Erendel’s Larethian form

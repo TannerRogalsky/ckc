@@ -35,7 +35,7 @@ An invisible [[Aboleth]] emerged beneath the water, seized several party members
 
 The party recovered the chart fragment, a potion of flight, diamonds, and the [[Tomb of Lenth the Rugged]]. Back in Southport, Red Caesar decoded and recombined the complete Chart of the Witness. Its topography revealed deep ocean trenches but no direct path to [[Axis Mundi]], supporting the belief that the world's interior lies beyond a planar boundary.
 
-Lodestar reported that [[Emperor Shen]] had weakened, imperial forces were retreating, and the eastern war would remain quiet until at least the next moon. Southport installed voice pipes and expanded dormitories aboard [[The Opal]], while eleven local deckhands joined the crew. The party chose to pursue [[Farraday]] next, then confront [[Boral Erendel]] in elven territory.
+Lodestar reported that [[Emperor Shen]] had weakened, imperial forces were retreating, and the eastern war would remain quiet until at least the next moon. Southport installed voice pipes and expanded dormitories aboard [[The Opal]], while eleven local deckhands joined the crew. The party chose to pursue [[Farraday]] next, then confront [[Boril Erendel]] in elven territory.
 
 ### Summary
 
@@ -53,7 +53,7 @@ Key events:
 
 The Southport expedition turned a recurring plague into a solvable recovery effort. Deep Roses remain necessary for existing victims, but Ceril's restoration of Ninki Nanka means the city no longer faces endless reinfection. The dragon's history also reframed a presumed monster hunt as the rescue of an old protector corrupted by Penumbra.
 
-Completing the Chart of the Witness closes a long-running exploration thread while refining the route toward Axis Mundi. The chart offers no simple physical entrance, so the dwarves reopening [[The Funnel]] remain the party's strongest lead. Lodestar's news creates a temporary strategic window: with the Empire inactive, the party can pursue Farraday and Boral Erendel before returning to Starfall.
+Completing the Chart of the Witness closes a long-running exploration thread while refining the route toward Axis Mundi. The chart offers no simple physical entrance, so the dwarves reopening [[The Funnel]] remain the party's strongest lead. Lodestar's news creates a temporary strategic window: with the Empire inactive, the party can pursue Farraday and Boril Erendel before returning to Starfall.
 
 ### Connections
 

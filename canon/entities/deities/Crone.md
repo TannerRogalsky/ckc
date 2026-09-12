@@ -2,7 +2,7 @@
 type: deity
 subtypes: [goddess]
 session_introduced: "001"
-sessions_appeared: ["013", "015", "025", "026", "031", "032", "034"]
+sessions_appeared: ["013", "015", "025", "026", "031", "032", "034", "035"]
 aliases:
   - The Moon
 ---
@@ -16,3 +16,7 @@ In session 025, Crone appeared during [[Vokenar]]'s consultation with [[Sigil]] 
 In session 026, Vokenar resumes training with Crone and [[Sigil]] in the space between worlds. He fights demons alongside Crone and spars with her, learning to never lower his guard. Crone sometimes sides with the demons to test him. Crone and Sigil argue about Vokenar's fate — Crone rebukes Sigil for not pushing him hard enough, but Sigil defends Vokenar's ethics as essential to his mission. During sparring, Vokenar strikes Crone with his old Akasha blade, drawing white pearlescent blood. Crone is shocked and in agony — but the wound is not from Vokenar's attack. [[Emperor Shen]] has fired [[Starfall]] at the moon from [[Broy]], and Crone is rapidly aging, weakening, and bleeding. Sigil tells Vokenar that someone has attacked her sister in a way she cannot heal from. Crone's dying command to Vokenar is to focus on restoring [[Aeris]], not the moon, and not to waver from the mission for even a moment. She shows a blood-soaked smile before slumping into a pool of her own blood.
 
 In session 031, [[Lyngbakr]] repaired the [[Hole in the Sky]] using [[Jack Harvey]]'s hidden [[Penumbra]] hoard, fulfilling Crone's command to focus on restoring [[Aeris]] rather than the shattered moon.
+
+## Session 035
+
+In the debate over the [[Demi-Spell]], [[Ceril]] recalled the gods' assurance that the shattered moon was healing naturally: while two sister goddesses remained active, the third could recover. He used this to reject [[Keys Caeradel]]'s claim that the loss of the moon made a reset necessary.

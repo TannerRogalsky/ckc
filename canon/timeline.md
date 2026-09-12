@@ -2,7 +2,9 @@
 
 ## Session 001 — 2025-07-08
 
-### Chunk sessions_001-0010
+### Chunk 0000
+
+Source: [[chunks/sessions_001-0010]].
 
 - [[Vokenar]] remembers life in [[Arkadia]] 60 years earlier, where [[Gossa]] encouraged him to imagine a path beyond becoming a Guardian.
 - The party is established aboard [[The Opal]], captained by [[Obould]], and [[Red Caesar]] awakens from an unknown state.
@@ -245,20 +247,20 @@
 - [[Red Caesar]] met [[Garsinth Theralal]], an older elf who apologized for his son's Sleep prank and gave Red directions to [[Yalet Aurum]].
 - The party visited [[Yalet Aurum]] — a Galeb Duurr with a solid gold body encased in a 40-50 foot stone monument outside Brimbolyn. Yalet confirmed [[The Order of Seasons]] is interested in [[Penumbra]] and warned the party to "act faster than an elf."
 - Yalet posed a riddle about his brother [[Yalet Mora]]; [[Red Caesar]] solved it as "bolder" and received chunks of gold.
-- The party took a tram to [[The Academy]] and met [[Keys]] and [[Illidrielle Gandara]] — the same tiefling and half-elf who stole [[Penumbra]] from [[Castle Kaedon]].
+- The party took a tram to [[The Academy]] and met [[Keys Caeradel]] and [[Illidrielle Gandara]] — the same tiefling and half-elf who stole [[Penumbra]] from [[Castle Kaedon]].
 - The party learned the [[Demi-Spell]] works by going to the far future until everything begins again, recycling all souls and elements. Penumbra pieces are used as energy to accelerate the spell. The Demi-Spell is more powerful than the gods.
 - [[Aramil Kiirnodel]] is the primary force behind the Demi-Spell's power. The spell is written as volumes upon volumes with hexagrams and mathematical structures.
-- [[Ceril]] revealed his father is the [[Rakshasa]], a divine being he visited in a cave for years.
+- [[Keys Caeradel]] identified the [[Rakshasa]] as his father and asked the party to bring him to [[The Academy]].
 - The party negotiated an accord: they will stop collecting new Penumbra, and if their plan to fix the sky fails, they will give all collected Penumbra to the Order. The Order granted the party access to teleport circles.
 - [[Ceril]] traded a Mask of Ogun to [[Gossa]] for an amulet that lets him summon his familiar as a magma elemental.
 
 ### Chunk 0004
 
-- The party visited [[House Kiirnodel]] in Brimbolyn. [[Ceril]] recognized [[Veronia Karadel]] and [[Rizolvir Kiirnodel]] from his pre-Cataclysm escape flashback.
-- [[Veronia Karadel]], a drow and mother of [[Keys]], is chiefly in command of enacting the Demi-Spell. She recognized Ceril's future self and predicted he would become a god in the reset world.
+- The party visited [[House Kiirnodel]] in Brimbolyn. [[Ceril]] recognized [[Feronia Caeradel]] and [[Rizolvir Kiirnodel]] from his pre-Cataclysm escape flashback.
+- [[Feronia Caeradel]], a drow and mother of [[Keys Caeradel]], is chiefly in command of enacting the Demi-Spell. She recognized Ceril's future self and predicted he would become a god in the reset world.
 - [[Rizolvir Kiirnodel]] warned the party that the [[Broyish Empire]] is their greatest enemy, also pursuing the [[Genesis Mundi]] and collecting [[Penumbra]] pieces for a weapon.
 - [[Vokenar]] learned that the [[Genesis Mundi]] is a fixed point between worlds that occurs regardless — the Demi-Spell merely expedites and modifies it with guidelines.
-- Veronia asked the party to check on [[Boral Erendel]] at [[The Garden]] and convince him to return.
+- Feronia Caeradel asked the party to check on [[Boril Erendel]] at [[The Garden]] and convince him to return.
 - House Kiirnodel granted the party [[Teleport Keys]] for accessing teleport circles back to Brimbolyn.
 - The party set sail from Continental Stark toward Cutlass Cray. [[Vizier Jade]] appeared on [[The Opal]]'s deck, confirming she has been watching [[Red Caesar]] and will ensure he survives. Red declined her restriction scroll. She departed via Teleport Circle.
 
@@ -288,9 +290,9 @@
 - The party sailed to [[The Garden]], which had grown more populated with boats. [[Theotropa]] was building a fleet with cyan and green banners to supply food and livestock to nearby settlements.
 - [[Domyx]] and [[Ceril]] met the [[Rakshasa]] in the Garden's inner sanctum. He recognized Domyx as Domyx Akathian and showed emotion when Ceril mentioned coming on behalf of his son. The Rakshasa revealed he is trapped and must hunt escaped demons before he can see his family. He tasked the party with finding and killing [[Farraday]], who keeps the [[Tome of Satariel]] and can track the Rakshasa wherever he travels.
 - [[Kerben]] investigated the Garden's supply routes with Theotropa. [[Vokenar]] used Locate Object to find a drained [[Penumbra]] chunk in Theotropa's possession. She agreed to give it if the party destroyed a [[Storm Phoenix]] — an elemental being driven mad by [[The Cataclysm]] — located south of the Garden.
-- [[Red Caesar]] and [[Ceril]] visited [[Boral Erendel]] in his side office. Boral revealed his eugenics plan for the [[Demi-Spell]]: he has created thousands of empty high elf forms and intends to reincarnate all spirits into these "perfect" bodies, eliminating all difference and war. He told Red that humans would be replaced by forms "better" than themselves. Red and Ceril were horrified.
+- [[Red Caesar]] and [[Ceril]] visited [[Boril Erendel]] in his side office. Boril Erendel revealed his eugenics plan for the [[Demi-Spell]]: he has created thousands of empty high elf forms and intends to reincarnate all spirits into these "perfect" bodies, eliminating all difference and war. He told Red that humans would be replaced by forms "better" than themselves. Red and Ceril were horrified.
 - [[Vokenar]] summoned [[Crone]] during a full moon. She appeared blood-soaked and exhausted. She confirmed there is time to stop the Demi-Spell but warned the party is more likely to die than run out of time. She revealed [[Aeris]] could heal the sky herself if given enough power — the party doesn't need all the Penumbra, just enough. She advised using the Rakshasa as a bargaining chip and confirmed the elves cannot be trusted to halt the Demi-Spell even if the sky were repaired.
-- [[Ceril]] proposed capturing or assassinating the Rakshasa as leverage against [[Keys]] to halt the Demi-Spell entirely, given the danger posed by apostates like Boral.
+- [[Ceril]] proposed capturing or assassinating the Rakshasa as leverage against [[Keys Caeradel]] to halt the Demi-Spell entirely, given the danger posed by apostates like Boril Erendel.
 - The party reached level 9 during their long rest at [[The Garden]].
 
 ### Chunk 0003
@@ -520,7 +522,7 @@
 - [[Vizier Jade]] appears in Jacinthe's room via illusion magic and delivers a one-month ultimatum: provide the [[Broyish Empire]] with [[Penumbra]] or information leading to it, or [[Obould]]'s safety cannot be guaranteed. Every piece of useful intelligence may extend the deadline.
 - Jacinthe whispers after [[Vizier Jade]] departs: "One month. Can we even get there in one month?" — confirming she wants Obould to survive.
 - [[Red Caesar]] and [[Ceril]] leave a message for Damien hidden in the stolen painting, then use a teleport circle to travel to [[Brimbolyn]].
-- At [[House Kiirnodel]], [[Rizolvir Kiirnodel]] and [[Veronia Karadel]] recognize the party. Red reports that [[Boral Erendel]] has gone off the rails at [[The Garden]], adding nearly a hundred pages of his own design to the [[Demi-Spell]].
+- At [[House Kiirnodel]], [[Rizolvir Kiirnodel]] and [[Feronia Caeradel]] recognize the party. Red reports that [[Boril Erendel]] has gone off the rails at [[The Garden]], adding nearly a hundred pages of his own design to the [[Demi-Spell]].
 - At the [[Elvish Marketplace]], Red trades [[The Jewel of Alfheimer]] for the [[Boots of the Alvargard]]. Ceril acquires the [[Branch of the Itinerant]]. Red purchases [[Cloaks of Billowing]] for the entire party.
 - The party returns to [[The White Drake]] and debriefs [[Domyx]], [[Kerben]], and [[Vokenar]] about [[Vizier Jade]]'s ultimatum. Approximately 21 days remain.
 - [[Vokenar]] uses lore divination on [[Genesis Mundi]], confirming it is a natural world-reset event that carries over important souls and structures. The [[Demi-Spell]] merely expedites and modifies it.
@@ -644,9 +646,9 @@
 
 ### Chunk 0000
 
-- [[Red Caesar]] traveled to [[The Academy]] in [[Brimbolyn]] with [[Keys]] and [[Illidrielle Gandara]] to synthesize [[Antumbra]].
+- [[Red Caesar]] traveled to [[The Academy]] in [[Brimbolyn]] with [[Keys Caeradel]] and [[Illidrielle Gandara]] to synthesize [[Antumbra]].
 - Using the "Caesarean method," Red Caesar compressed [[Akasha]] through magical pressure using Otiluke's Resilient Sphere and inverted enlarge/reduce spells. After multiple iterations compressing an entire lake roughly a thousand-fold, the process produced a palm-sized sphere of jet-black synthesized [[Penumbra]].
-- [[Illidrielle Gandara]] and [[Keys]] poisoned the Antumbra using a method concealed by illusion, ensuring the poison would not infect their own samples.
+- [[Illidrielle Gandara]] and [[Keys Caeradel]] poisoned the Antumbra using a method concealed by illusion, ensuring the poison would not infect their own samples.
 - [[Kerben]] took on the role of acting captain of [[The Opal]] during Red Caesar's absence.
 - The party recruited [[Trent Indorra]] and [[Ebbie Indorra]] aboard — a couple fleeing the [[Mana Sickness]] in [[Southport]]. Trent Indorra was assigned as master gunner.
 - [[Vokenar]] discovered a hidden [[Penumbra]] stash aboard [[The White Drake]] in the ship's hold and proposed planting the Antumbra among it.
@@ -920,7 +922,7 @@
 - [[Emperor Shen]] imprisons [[Domyx]] in the [[Dawn Palace]] and attempts to make him accept imperial succession.
 - [[Ceril]] and [[Alamar]] enter [[Arkadia]] with [[Lyngbakr]]. Alamar reunites with [[Vlerro]], [[Igden]], and [[Tyson Cromwell]] before Ceril meets [[Aeris]], [[Sigil]], and the injured [[Crone]], who confirm Vokenar can be restored if his body is recovered.
 - Ceril sees [[Damien Ouranous]] traveling with Vokenar's spirit and learns that [[Emperor Shen]] killed Damien.
-- [[Illidrielle Gandara]] confirms that [[Keys]] has completed the [[Demi-Spell]] but not cast it; [[Boral Erendel]]'s alterations would force reincarnation into high elf bodies.
+- [[Illidrielle Gandara]] confirms that [[Keys Caeradel]] has completed the [[Demi-Spell]] but not cast it; [[Boril Erendel]]'s alterations would force reincarnation into high elf bodies.
 - Ceril returns to Stark through a closing passage in the repaired sky.
 
 ### Chunk 0001
@@ -968,7 +970,7 @@
 - Red Caesar decodes and recombines the Chart of the Witness; it suggests [[Axis Mundi]] lies beyond a planar boundary rather than through an ordinary underground route.
 - Lodestar reports that [[Emperor Shen]] is weakened and the [[Broyish Empire]] is retreating until at least the next moon.
 - [[Southport]] installs voice pipes and expanded dormitories aboard [[The Opal]], and eleven local deckhands join the crew.
-- The party chooses to pursue [[Farraday]] before confronting [[Boral Erendel]].
+- The party chooses to pursue [[Farraday]] before confronting [[Boril Erendel]].
 
 ## Session 034
 
@@ -996,6 +998,29 @@
 
 - The party refuses to attack the apparently dying [[Yalet Aurum]], who gives [[Yalet Mora]] a massive golden brain to settle their feud.
 - After Yalet Mora leaves, Yalet Aurum reveals that the fallen moon fragment strengthened him and that he only staged his decline to encourage his brother.
-- [[Rizolvir Kiirnodel]] agrees to stop urging [[Keys]] to cast the [[Demi-Spell]] while the party moves against [[Boral Erendel]].
+- [[Rizolvir Kiirnodel]] agrees to stop urging [[Keys Caeradel]] to cast the [[Demi-Spell]] while the party moves against [[Boril Erendel]].
 - [[Ceril]] rejoins the party before they travel to [[House Erendel]].
-- The party reaches House Erendel and discovers multiple duplicates of Boral Erendel and another created figure resembling [[Vokenar]].
+- The party reaches House Erendel and discovers multiple duplicates of Boril Erendel and another created figure resembling [[Vokenar]].
+
+## Session 035
+
+### Chunk 0000
+
+- The party defeats three clones guarding [[House Erendel]], though one warns [[Boril Erendel]] of their arrival.
+
+### Chunk 0001
+
+- [[Kerben]] opens House Erendel and discovers a hidden chamber beneath halls of mirrors that show visitors as high elf replacements.
+- Boril Erendel reveals that [[Vokenar]] retains his aasimar heritage alongside his high elf form.
+- Boril Erendel assumes a Larethian form invoking [[Corellon Larethian]] and battles the party.
+
+### Chunk 0002
+
+- Vokenar's restored radiance kills Boril Erendel; Vokenar retains both bloodlines, and the mirrors return to ordinary reflections.
+- The party recovers mithril and two ancient relics, destroys the mirrors, and collapses House Erendel.
+- At [[The Academy]], [[Rizolvir Kiirnodel]] confirms his efforts to delay the [[Demi-Spell]], and [[Feronia Caeradel]] confirms her former marriage to the [[Rakshasa]], father of [[Keys Caeradel]].
+- The party persuades Keys Caeradel to relinquish the completed Demi-Spell. He departs carrying his father's soul in an amulet, bound at the Rakshasa's request.
+- [[Red Caesar]] takes custody of the spell and learns he can destroy it; Vokenar can cast it, [[Domyx]] can safely read and carry it, and [[Ceril]] refuses to study it.
+- Attempts to teleport and Plane Shift to [[Axis Mundi]] fail, suggesting lasting wards protecting [[Starfall]].
+- [[Figma Brickfinger]] and [[Courteous Cam]] report that [[The Funnel]] has reopened, but its miners withdrew from dangers beyond the passage.
+- Before the descent, Ceril acquires the [[Cornucopia of Constellations]] and Domyx the [[Kaboom Ring]]. The party prepares to enter the Funnel.

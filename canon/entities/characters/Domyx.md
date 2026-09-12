@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033", "034"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033", "034", "035"]
 aliases:
   - Domyx Akathian
   - Domix
@@ -54,6 +54,8 @@ related:
   - "[[The Wonder Hulk]]"
   - "[[Cutlass Cray]]"
   - "[[Hopping Mad Sash]]"
+  - "[[Demi-Spell]]"
+  - "[[Kaboom Ring]]"
 ---
 
 A titan barbarian and former member of [[Clan Akathia]] who touched the sky, earning sky-blue palms that mark him as a blood relative of [[Emperor Shen]]. Renounced his family name after confronting his grandfather's role in breaking the sky and being disowned by his father [[Domyx IV]]. Named as [[The Opal]]'s successor by [[Obould]], but carries the burden of being Shen's grandson — the descendant of the party's greatest enemy. Traveled to the titan homeland, rescued [[Ulrich Fjoller]] from the [[Prison of Frost]], and brought [[Lorelai Lapis-Acathian]] aboard with him.
@@ -222,3 +224,9 @@ Domyx guarded the party through the [[Mana Sea]] and broke [[Kerben]] free from 
 ## Session 034
 
 Domyx supported [[Red Caesar]] through the emotional impact of [[Obould]]'s retirement, then helped the party destroy [[Farraday]]'s foothold in Stark. [[Sigrid Forgewelt]] transformed his former hammer into the [[Cestus of the Clear Sky]], whose magic spreads the appearance of the restored heavens across one side of his body. He refused to attack the apparently helpless [[Yalet Aurum]] and later reached [[House Erendel]] with the party.
+
+## Session 035
+
+Domyx helped defeat [[Boril Erendel]] and destroy the mirror laboratory at [[House Erendel]]. He warned that using the [[Demi-Spell]] would end the existing world and must never be treated lightly.
+
+Domyx could read the completed spell without harm and felt an innate connection to its purpose, although he lacked the spellcasting ability to enact it. He offered to carry it if needed to keep it safe. Before entering [[The Funnel]], he acquired the [[Kaboom Ring]], a returning weapon that erupts with thunder.

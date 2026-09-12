@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033", "034"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033", "034", "035"]
 related:
   - "[[Vanzia Vinfei]]"
   - "[[House Kiirnodel]]"
@@ -25,10 +25,10 @@ related:
   - "[[Elvish Marketplace]]"
   - "[[Gossa]]"
   - "[[The Academy]]"
-  - "[[Keys]]"
+  - "[[Keys Caeradel]]"
   - "[[Illidrielle Gandara]]"
   - "[[Rakshasa]]"
-  - "[[Veronia Karadel]]"
+  - "[[Feronia Caeradel]]"
   - "[[Rizolvir Kiirnodel]]"
   - "[[Farraday]]"
   - "[[Tome of Satariel]]"
@@ -37,6 +37,7 @@ related:
   - "[[Gilder Savar]]"
   - "[[Cutlass Cray]]"
   - "[[Lyngbakr]]"
+  - "[[Cornucopia of Constellations]]"
 aliases:
   - Ceril Kel'Navvi
   - Ceril Kelnavi
@@ -45,7 +46,7 @@ aliases:
   - Serral
 ---
 
-A druid with a shield given by [[Aeris]] that serves as a conduit to the goddess. A pre-[[The Cataclysm]] survivor who fled [[Brimbolyn]] alongside [[Vanzia Vinfei]] decades ago, and whose father is the [[Rakshasa]]. Communicates with [[Aeris]] through his shield and was drawn into a shared vision with [[Vokenar]] to witness her imprisoned mortal body at the heart of [[Starfall]]. A balanced utility caster whose toolkit spans scouting, divination, environmental manipulation, summoning, and healing.
+A druid with a shield given by [[Aeris]] that serves as a conduit to the goddess. A pre-[[The Cataclysm]] survivor who fled [[Brimbolyn]] alongside [[Vanzia Vinfei]] decades ago. Communicates with [[Aeris]] through his shield and was drawn into a shared vision with [[Vokenar]] to witness her imprisoned mortal body at the heart of [[Starfall]]. A balanced utility caster whose toolkit spans scouting, divination, environmental manipulation, summoning, and healing.
 
 ## Identity and Backstory
 
@@ -79,10 +80,10 @@ Can cast: Plant Growth, Guiding Bolt, Luminous Arrow, Moonbeam (repositionable a
 - Traveled to [[Brimbolyn]] aboard the magical train with the party and [[Brim the Bullywog]].
 - Offered a clever alternate answer to [[Yalet Aurum]]'s riddle and received a chunk of gold; [[Red Caesar]] ultimately solved it as "bolder."
 - Visited [[Gossa]] at the [[Elvish Marketplace]] and traded a Mask of Ogun for an amulet that allows him to summon his familiar as a magma elemental. The magma familiar has claws, fire breath, and a death burst that explodes into a fireball if killed.
-- At [[The Academy]], recognized [[Keys]] and [[Illidrielle Gandara]] as the same individuals who stole [[Penumbra]] from [[Castle Kaedon]].
+- At [[The Academy]], recognized [[Keys Caeradel]] and [[Illidrielle Gandara]] as the same individuals who stole [[Penumbra]] from [[Castle Kaedon]].
 - Negotiated an accord with the Order: the party will stop collecting new Penumbra, and if their plan to fix the sky fails, they will give all collected Penumbra to the Order. In exchange, the Order granted access to teleport circles.
-- Revealed that his father is the [[Rakshasa]], a divine being he visited in a cave for years. [[Keys]] and [[Illidrielle Gandara]] were unaware of the Rakshasa's existence.
-- Visited [[House Kiirnodel]] and recognized [[Veronia Karadel]] and [[Rizolvir Kiirnodel]] from his pre-Cataclysm escape flashback. Veronia recognized Ceril's future self, saying his soul survives many worlds unchanged and predicting he would become a god in the reset world.
+- Learned that [[Keys Caeradel]] is the son of the [[Rakshasa]] and wanted the party to bring his father to [[The Academy]].
+- Visited [[House Kiirnodel]] and recognized [[Feronia Caeradel]] and [[Rizolvir Kiirnodel]] from his pre-Cataclysm escape flashback. Feronia Caeradel recognized Ceril's future self, saying his soul survives many worlds unchanged and predicting he would become a god in the reset world.
 
 ## Session 015
 
@@ -90,7 +91,7 @@ After the party returned from elf country, Ceril was asleep in the bunks when [[
 
 The party boarded the hobgoblins' second ship, [[The Hideous Truth]], and confronted the [[Warg Lord]]. Ceril's Moonbeam stripped away the creature's goblin-like features, revealing its true beast form. He helped keep the party alive until [[Kerben]] delivered the killing shot.
 
-The party sailed to [[The Garden]]. Ceril accompanied [[Domyx]] to meet the [[Rakshasa]] in the inner sanctum. The Rakshasa showed emotion when Ceril mentioned coming on behalf of his son, then hid his true thoughts. The Rakshasa revealed he is trapped and must hunt escaped demons, and gave the party a quest to kill [[Farraday]]. Ceril also joined [[Red Caesar]] in visiting [[Boral Erendel]], who revealed his eugenics plan for the [[Demi-Spell]] — reincarnating all beings as high elves. Ceril called Boral an apostate and proposed capturing or assassinating the Rakshasa as leverage against [[Keys]] to halt the Demi-Spell entirely. The party reached level 9.
+The party sailed to [[The Garden]]. Ceril accompanied [[Domyx]] to meet the [[Rakshasa]] in the inner sanctum. The Rakshasa showed emotion when Ceril mentioned coming on behalf of his son, then hid his true thoughts. The Rakshasa revealed he is trapped and must hunt escaped demons, and gave the party a quest to kill [[Farraday]]. Ceril also joined [[Red Caesar]] in visiting [[Boril Erendel]], who revealed his eugenics plan for the [[Demi-Spell]] — reincarnating all beings as high elves. Ceril called Boril Erendel an apostate and proposed capturing or assassinating the Rakshasa as leverage against [[Keys Caeradel]] to halt the Demi-Spell entirely. The party reached level 9.
 
 ## Session 018
 
@@ -190,7 +191,7 @@ After the party brought the condensed [[Penumbra]] to [[Lyngbakr Lagoon]], Ceril
 
 ## Session 032
 
-Ceril crossed into [[Arkadia]] with [[Alamar]] and consulted [[Aeris]], [[Sigil]], and [[Crone]]. Along the way, he saw [[Damien Ouranous]] traveling with Vokenar's spirit and learned that [[Emperor Shen]] had slain Damien. Learning that Vokenar could be restored, Ceril returned to Stark through a closing sky passage, helped expose the Broyish capital's false sky, and recovered Vokenar's body. At the [[Temple of Sigil]], he reincarnated Vokenar as a high elf, discovering that [[Boral Erendel]]'s Demi-Spell changes have constrained reincarnation to elven forms.
+Ceril crossed into [[Arkadia]] with [[Alamar]] and consulted [[Aeris]], [[Sigil]], and [[Crone]]. Along the way, he saw [[Damien Ouranous]] traveling with Vokenar's spirit and learned that [[Emperor Shen]] had slain Damien. Learning that Vokenar could be restored, Ceril returned to Stark through a closing sky passage, helped expose the Broyish capital's false sky, and recovered Vokenar's body. At the [[Temple of Sigil]], he reincarnated Vokenar as a high elf, discovering that [[Boril Erendel]]'s Demi-Spell changes have constrained reincarnation to elven forms.
 
 ## Session 033
 
@@ -198,4 +199,10 @@ Ceril identified the psychic command binding driders in the [[Mana Sea]], reveal
 
 ## Session 034
 
-The destruction of [[Farraday]]'s Stark body and the [[Tome of Satariel]] freed Ceril's father, [[Rakshasa]], from Farraday's surveillance. Ceril later rejoined the party near [[House Kiirnodel]] and accompanied them to [[House Erendel]], where several copies of [[Boral Erendel]] and another created figure resembling [[Vokenar]] guarded the laboratory.
+The destruction of [[Farraday]]'s Stark body and the [[Tome of Satariel]] freed [[Keys Caeradel]]'s father, [[Rakshasa]], from Farraday's surveillance. Ceril later rejoined the party near [[House Kiirnodel]] and accompanied them to [[House Erendel]], where several copies of [[Boril Erendel]] and another created figure resembling [[Vokenar]] guarded the laboratory.
+
+## Session 035
+
+Ceril opposed [[Boril Erendel]]'s claim to perfection and helped end his replacement-body project. At [[The Academy]], he rejected the [[Demi-Spell]] as unnatural. He reminded [[Keys Caeradel]] that the gods had assured him the shattered moon could heal, and relayed [[Illidrielle Gandara]]'s wish that Keys Caeradel find a new life. He refused to study the spell after the party received it and objected to [[Red Caesar]] holding it, proposing [[Vokenar]] as its custodian instead.
+
+Before the descent through [[The Funnel]], Ceril acquired the [[Cornucopia of Constellations]], an elven commission that supplies and strengthens a protective feast. His growing druidic abilities also include Reverse Gravity.

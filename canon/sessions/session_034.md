@@ -31,7 +31,7 @@ The party brought [[Yalet Mora]] to confront [[Yalet Aurum]] near [[Brimbolyn]],
 
 After Yalet Mora left, Yalet Aurum admitted that the moon fragment had strengthened rather than killed him. He had staged his decline to give his insecure brother closure and intended to reshape the surrounding land once unobserved.
 
-At [[House Kiirnodel]], [[Rizolvir Kiirnodel]] agreed to stop urging [[Keys]] to cast the [[Demi-Spell]] while the party pursued its own solution. In exchange, the party accepted the task of stopping [[Boral Erendel]], whose altered spell would reincarnate the world's spirits into high elf bodies. With [[Ceril]] rejoining them, the party followed Rizolvir's map to [[House Erendel]] and found several duplicates of Boral Erendel, along with another created figure resembling Vokenar.
+At [[House Kiirnodel]], [[Rizolvir Kiirnodel]] agreed to stop urging [[Keys Caeradel]] to cast the [[Demi-Spell]] while the party pursued its own solution. In exchange, the party accepted the task of stopping [[Boril Erendel]], whose altered spell would reincarnate the world's spirits into high elf bodies. With [[Ceril]] rejoining them, the party followed Rizolvir's map to [[House Erendel]] and found several duplicates of Boril Erendel, along with another created figure resembling Vokenar.
 
 ### Summary
 
@@ -47,18 +47,18 @@ Key events:
 - At the [[Dawn Market]], [[Geoffrey the Younger]] crafted three reusable magical bullets for [[Kerben]].
 - The party acquired the [[Ioun of Crimson Dreams]], [[Ioun of the Emerald Hunter]], [[Ioun of the Gilded Savior]], and [[Cestus of the Clear Sky]].
 - [[Yalet Mora]]'s feud with [[Yalet Aurum]] ended without bloodshed, and the party received a massive golden brain.
-- [[Rizolvir Kiirnodel]] agreed to delay pressure to cast the [[Demi-Spell]] while the party confronts [[Boral Erendel]].
-- The party reached [[House Erendel]] and discovered multiple Boral Erendel duplicates.
+- [[Rizolvir Kiirnodel]] agreed to delay pressure to cast the [[Demi-Spell]] while the party confronts [[Boril Erendel]].
+- The party reached [[House Erendel]] and discovered multiple Boril Erendel duplicates.
 
-The session closed several long-running personal arcs while opening the immediate confrontation with Boral Erendel. Obould chose a future with Lady Jacinthe and entrusted The Opal to Kerben, transforming an acting command into permanent leadership. Farraday's defeat removed his last foothold on Stark and fulfilled the condition that had kept Ceril's father bound to his demonic hunt, though Farraday himself still exists in hell.
+The session closed several long-running personal arcs while opening the immediate confrontation with Boril Erendel. Obould chose a future with Lady Jacinthe and entrusted The Opal to Kerben, transforming an acting command into permanent leadership. Farraday's defeat removed his last foothold on Stark and fulfilled the condition that had kept [[Keys Caeradel]]'s father bound to his demonic hunt, though Farraday himself still exists in hell.
 
-The peaceful resolution between Yalet Mora and Yalet Aurum revealed an unexpected act of care beneath their rivalry. The final bargain at House Kiirnodel does not reconcile the party with the Demi-Spell; it buys time. Rizolvir's restraint lasts only while the party acts against Boral Erendel, whose laboratory already shows that his replacement-body project has moved beyond theory.
+The peaceful resolution between Yalet Mora and Yalet Aurum revealed an unexpected act of care beneath their rivalry. The final bargain at House Kiirnodel does not reconcile the party with the Demi-Spell; it buys time. Rizolvir's restraint lasts only while the party acts against Boril Erendel, whose laboratory already shows that his replacement-body project has moved beyond theory.
 
 ### Connections
 
 - [[Obould's Wedding Band]], recovered from [[Xarag]], enabled his renewed proposal to [[Lady Jacinthe]].
 - The [[Antumbra]] remains an unconfirmed but potentially permanent answer to [[Starfall]].
 - Farraday's false crypt connected [[Kerben]]'s pre-Cataclysm past to [[Jack Harvey]]'s plan for preserving the [[Penumbra]].
-- Destroying the [[Tome of Satariel]] releases [[Rakshasa]] from Farraday's surveillance and advances [[Ceril]]'s family quest.
+- Destroying the [[Tome of Satariel]] releases [[Rakshasa]] from Farraday's surveillance and advances [[Keys Caeradel]]'s family reunion.
 - The moon fragment strengthening [[Yalet Aurum]] shows that remnants of [[Crone]] continue to affect creatures and terrain.
-- [[Vokenar]]'s high elf reincarnation and the duplicate at [[House Erendel]] both demonstrate that [[Boral Erendel]]'s [[Demi-Spell]] alterations are already changing bodies.
+- [[Vokenar]]'s high elf reincarnation and the duplicate at [[House Erendel]] both demonstrate that [[Boril Erendel]]'s [[Demi-Spell]] alterations are already changing bodies.

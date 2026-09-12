@@ -2,12 +2,14 @@
 type: character
 subtypes: [npc]
 session_introduced: "009"
-sessions_appeared: ["009", "013", "022"]
+sessions_appeared: ["009", "013", "022", "035"]
 related:
   - "[[Figma Brickfinger's Union]]"
   - "[[The Pit]]"
   - "[[Morel Chainsunder]]"
   - "[[Penumbra]]"
+  - "[[The Funnel]]"
+  - "[[Courteous Cam]]"
 ---
 
 Leader of [[Figma Brickfinger's Union]] (The Pitman's Union) at [[The Pit]].
@@ -17,3 +19,7 @@ After the fall of [[Morel Chainsunder]]'s curse, [[Figma Brickfinger]] posted gu
 ## Session 022
 
 [[Vokenar]] visited Figma at [[The Palace of the Pit]] to check on the integration of deep worlders. Figma reported that things were progressing — lots of movement and chaos, but people were motivated to build their lives again. Deep worlders no longer competed for space underground, though minor conflicts persisted. She noted industrial expansion at the city: new palace wings, widened roads, and minecart tracks. She mentioned that aerial scouts had reported [[Broyish Empire]] airships in the region, though she had never seen them with her own eyes.
+
+## Session 035
+
+Figma Brickfinger met the party at [[The Pit]] and confirmed that the requested excavation through [[The Funnel]] was complete. She had ordered the diggers back from the dangers beyond the breakthrough. [[Courteous Cam]] reported that the passage opened toward a spacious region with unfamiliar air.

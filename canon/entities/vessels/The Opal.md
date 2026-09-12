@@ -2,7 +2,7 @@
 type: vessel
 subtypes: [ship]
 session_introduced: "001"
-sessions_appeared: ["013", "015", "016", "024", "025", "026", "027", "030", "031", "032", "033", "034"]
+sessions_appeared: ["013", "015", "016", "024", "025", "026", "027", "030", "031", "032", "033", "034", "035"]
 related:
   - "[[Obould]]"
   - "[[Kerben]]"

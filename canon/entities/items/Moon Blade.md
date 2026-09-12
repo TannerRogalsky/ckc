@@ -2,7 +2,7 @@
 type: item
 subtypes: [magic-item]
 session_introduced: "027"
-sessions_appeared: ["027"]
+sessions_appeared: ["027", "035"]
 aliases:
   - Crone's Lockhammer
 related:
