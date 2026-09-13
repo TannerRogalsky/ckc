@@ -2,7 +2,7 @@
 type: concept
 subtypes: [lore, cosmology]
 session_introduced: "014"
-sessions_appeared: ["014", "015", "022", "033", "034", "035"]
+sessions_appeared: ["014", "015", "022", "033", "034", "035", "036"]
 aliases:
   - Demi Spell
 related:
@@ -47,3 +47,7 @@ By the party's return to [[The Academy]], [[Keys Caeradel]] had completed the sp
 The text combines several mortal and heavenly languages with arcane notation. [[Vokenar]] can read and enact it. Studying it overwhelms [[Red Caesar]], but his ability to siphon sky energy can permanently extinguish it through sustained contact. [[Domyx]] can read and carry it without harm, yet cannot cast it. [[Ceril]] rejects it as unnatural and refuses to study it; he objects to Red Caesar holding it and proposes Vokenar as custodian.
 
 Red Caesar currently holds the intact spell. It remains an available last resort, and the party can instead destroy it; neither action has occurred.
+
+## Session 036
+
+During [[Red Caesar]]'s contact with [[Domyx I]] in the [[Gray Wastes]], the titan's promises of renewed divine war drew Red Caesar toward revealing the spell. He endured psychic pressure rather than show it. [[Vokenar]] restored him from the trance; the spell remained intact and in Red Caesar's custody.

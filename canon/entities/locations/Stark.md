@@ -2,9 +2,13 @@
 type: location
 subtypes: [continent]
 session_introduced: "001"
-sessions_appeared: ["013", "031", "033", "035"]
+sessions_appeared: ["013", "031", "033", "035", "036"]
 ---
 
-The destination toward which [[Vokenar]] is falling through the sky. Referred to as "the world below" by the goddesses. Vokenar's long descent is expected to end here within a few decades or possibly years. Also referred to as "New Stark" in the context of [[The League of New Stark]].
+The world beneath [[Arkadia]] where [[Vokenar]] arrived after his long fall from the heavens. [[The League of New Stark]] operates among its surviving islands.
 
 In session 031, [[Lyngbakr]] repaired the [[Hole in the Sky]], closing the open wound above Stark and revealing a whole blue sky. [[Starfall]] remains hidden beneath Stark at [[Axis Mundi]].
+
+## Session 036
+
+The party descended through [[The Funnel]], passed the stone remains of the defeated [[Vanir]]'s physical avatars, and crossed a physically traversable boundary into the [[Gray Wastes]]. This lower plane corresponds to [[Arkadia]] above Stark. [[Galcarina]] extends through all three realms.

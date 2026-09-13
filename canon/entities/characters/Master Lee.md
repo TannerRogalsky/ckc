@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc]
 session_introduced: "002"
-sessions_appeared: ["002", "023", "025", "030", "033"]
+sessions_appeared: ["002", "023", "025", "030", "033", "036"]
 aliases:
   - Master Li
   - The Emerald Leaf

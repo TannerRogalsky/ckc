@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033", "034", "035"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033", "034", "035", "036"]
 aliases:
   - Domyx Akathian
   - Domix
@@ -42,7 +42,6 @@ related:
   - "[[Thalasia]]"
   - "[[Theo Harvey]]"
   - "[[Broy]]"
-  - "[[Emperor Shen]]"
   - "[[Vizier Jade]]"
   - "[[The Carrot Cake]]"
   - "[[Gheister]]"
@@ -56,6 +55,9 @@ related:
   - "[[Hopping Mad Sash]]"
   - "[[Demi-Spell]]"
   - "[[Kaboom Ring]]"
+  - "[[Domyx I]]"
+  - "[[Domyx II]]"
+  - "[[Vanir]]"
 ---
 
 A titan barbarian and former member of [[Clan Akathia]] who touched the sky, earning sky-blue palms that mark him as a blood relative of [[Emperor Shen]]. Renounced his family name after confronting his grandfather's role in breaking the sky and being disowned by his father [[Domyx IV]]. Named as [[The Opal]]'s successor by [[Obould]], but carries the burden of being Shen's grandson — the descendant of the party's greatest enemy. Traveled to the titan homeland, rescued [[Ulrich Fjoller]] from the [[Prison of Frost]], and brought [[Lorelai Lapis-Acathian]] aboard with him.
@@ -230,3 +232,13 @@ Domyx supported [[Red Caesar]] through the emotional impact of [[Obould]]'s reti
 Domyx helped defeat [[Boril Erendel]] and destroy the mirror laboratory at [[House Erendel]]. He warned that using the [[Demi-Spell]] would end the existing world and must never be treated lightly.
 
 Domyx could read the completed spell without harm and felt an innate connection to its purpose, although he lacked the spellcasting ability to enact it. He offered to carry it if needed to keep it safe. Before entering [[The Funnel]], he acquired the [[Kaboom Ring]], a returning weapon that erupts with thunder.
+
+## Session 036
+
+The descent beneath [[The Funnel]] brought Domyx face to face with distorted giants and the remains of his people's ancient gods. A fomorian's warping curse weakened his body and mind and left hollows in his skin; its removal was not established during the session.
+
+Among enormous stone heads, Domyx recalled the defeat of the [[Vanir]] by the [[Aesir]] and shared an ancestral song while [[Red Caesar]] contacted [[Domyx I]]. He recognized the encounter as evidence that divine sparks could survive the destruction of their physical avatars.
+
+The party recovered ancestral valuables from a purple worm: [[Domyx II]]'s gold amphora and diamond-set gold coronet, alongside a gold bugle. The coronet resembled one worn by [[Domyx IV]].
+
+Domyx braced [[The Opal]] on a collapsing rock long enough for the party to board. After [[Kerben]] saved the ship's descent into the [[Gray Wastes]], Domyx inspected it and found little damage, while [[Brim the Bullywog]] reported dust in the bilge.

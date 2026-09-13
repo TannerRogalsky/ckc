@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc, ally]
 session_introduced: "014"
-sessions_appeared: ["014", "015", "022", "024", "026", "031"]
+sessions_appeared: ["014", "015", "022", "024", "026", "031", "036"]
 related:
   - "[[The Opal]]"
   - "[[Brimbolyn]]"
@@ -28,3 +28,7 @@ During the voyage north toward [[Thalasia]], Brim manned [[The Opal]]'s new cann
 ## Session 031
 
 Brim helped crew [[The Opal]]'s cannons during the [[Broyish Empire]] naval attack. He advised [[Kerben]] to use the ship's ghost-ship feather token once retreat became necessary and volunteered to join a boarding effort against a crippled imperial vessel with the ship's air elemental.
+
+## Session 036
+
+After [[The Opal]] landed in the [[Gray Wastes]], Brim the Bullywog reported to [[Domyx]] that dust had entered the bilge in place of water and was flowing through the pump.

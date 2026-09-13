@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc]
 session_introduced: "001"
-sessions_appeared: ["001", "015", "021", "024", "029", "031", "034"]
+sessions_appeared: ["001", "015", "021", "024", "029", "031", "034", "036"]
 aliases:
   - Roxy
   - Raxi
@@ -28,3 +28,7 @@ After [[The Opal]] escaped the [[Broyish Empire]] fleet and reached [[Lyngbakr L
 ## Session 034
 
 When [[Obould]] retired and named [[Kerben]] captain, Raxxy chose to remain aboard [[The Opal]]. Although she had considered leaving after Obould's departure, returning to [[Southport]] convinced her that the ship and its crew were now her home.
+
+## Session 036
+
+When [[Kerben]] released [[The Opal]] onto a suspended rock in the [[Gray Wastes]], Raxxy questioned the deployment away from water. Seeing open sky beneath the ship, she roused the crew as the vessel began to slip toward the abyss.

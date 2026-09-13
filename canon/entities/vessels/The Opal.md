@@ -2,13 +2,14 @@
 type: vessel
 subtypes: [ship]
 session_introduced: "001"
-sessions_appeared: ["013", "015", "016", "024", "025", "026", "027", "030", "031", "032", "033", "034", "035"]
+sessions_appeared: ["013", "015", "016", "024", "025", "026", "027", "030", "031", "032", "033", "034", "035", "036"]
 related:
   - "[[Obould]]"
   - "[[Kerben]]"
   - "[[Red Caesar]]"
   - "[[Domyx]]"
   - "[[Vorgan of the Stage]]"
+  - "[[Gray Wastes]]"
 ---
 
 The ship on which the party travels, now captained by [[Kerben]]. Former captain [[Obould]] permanently retired in session 034. Navigator [[Raxxy]] handles the rigging and lookout, while [[Otto]] serves as carpenter. The ship carries rotating deckhands and permanent specialists.
@@ -47,3 +48,11 @@ In session 031, Kerben commanded The Opal through the next phase of the imperial
 In session 033, [[Southport]] installed a voice-pipe communication system and tripled the dormitory capacity in gratitude for the party ending [[Mana Sickness]]. Eleven Southport deckhands joined the crew, bringing The Opal to twenty assorted deckhands in addition to its named officers and specialists.
 
 In session 034, Obould permanently resigned and named Kerben captain. Raxxy and most of the crew stayed under Kerben's command, while Lorelai Lapis-Acathian and Ulrich Fjoller departed. Kerben recruited Vorgan of the Stage as the ship's performer.
+
+## Session 036
+
+[[Kerben]] carried The Opal and its crew into the [[Gray Wastes]] inside his magical egg. He deployed the ship on a suspended rock so the party could board before [[Tango]] carried the stored vessel down to the desert.
+
+The rock began breaking apart. [[Domyx]] braced the ship long enough for the others to board, but it slipped into the sky below and Kerben's attempt to store it again failed. The cause of the storage failure remains unknown.
+
+Kerben summoned a roc to guide the fall. The sails caught wind, the crew activated a wind-providing genie, and the ship glided gently onto fine gray dust that supported sailing. Domyx found the ship largely undamaged; [[Brim the Bullywog]] reported dust flowing through the bilge. The Opal continued east under directions from [[Ceril]] and [[Red Caesar]], who traced [[Starfall]]'s firing scars. [[Vokenar]] sighted [[Galcarina]] ahead.

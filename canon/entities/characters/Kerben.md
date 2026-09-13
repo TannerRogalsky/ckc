@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "011", "012", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033", "034", "035"]
+sessions_appeared: ["001", "011", "012", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033", "034", "035", "036"]
 aliases:
   - Kerbin
   - Curbin
@@ -217,3 +217,11 @@ At [[Tome Keeper's Pyramid]], Kerben recognized the fiend as [[Farraday]], his f
 ## Session 035
 
 Kerben opened [[House Erendel]] with his old magical key, then used his stone sense to discover a concealed chamber beneath the mirrored hall. [[Zulu]] accompanied him into the confrontation with [[Boril Erendel]]. The party defeated Boril Erendel, recovered relics and mithril, and destroyed the laboratory. Kerben could not decipher the [[Demi-Spell]] when the party later examined it.
+
+## Session 036
+
+Kerben found an old expedition camp beneath [[The Funnel]]. Using animal speech together with [[Red Caesar]]'s [[Beryzoz's Teeth]], he questioned a dead dog that had accompanied dwarves seeking the underworld against [[Figma Brickfinger's Union]]'s orders. Its memories placed the expedition before [[The Cataclysm]], warned of stone creatures, and directed the party east.
+
+Kerben later tracked a giant burrowing creature past the fallen [[Vanir]]. Defeating the purple worm exposed a passage into the [[Gray Wastes]]. [[The Ascot]] and [[Tango]] helped him escape its jaws.
+
+After Kerben deployed [[The Opal]] on a suspended rock, the ship slid off and its storage magic failed to retrieve it. He used his bird feather token to summon a roc, which returned him aboard and guided the vessel into a safe glide onto the dust below. He then carried [[Ceril]] and Red Caesar aloft on the roc to chart [[Starfall]]'s firing scars, setting the ship's eastward course. The roc departed after completing its service.

@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc, antagonist]
 session_introduced: "015"
-sessions_appeared: ["015", "021", "023", "028", "029", "030", "033", "034"]
+sessions_appeared: ["015", "021", "023", "028", "029", "030", "033", "034", "036"]
 aliases:
   - Faraday
   - Tome Keeper

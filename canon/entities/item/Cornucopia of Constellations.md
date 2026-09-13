@@ -2,7 +2,7 @@
 type: item
 subtypes: [magic-item]
 session_introduced: "035"
-sessions_appeared: ["035"]
+sessions_appeared: ["035", "036"]
 related:
   - "[[Ceril]]"
 ---

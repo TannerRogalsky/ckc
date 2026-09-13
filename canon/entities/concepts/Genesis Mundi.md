@@ -2,11 +2,13 @@
 type: concept
 subtypes: [lore, cosmology]
 session_introduced: "004"
-sessions_appeared: ["013", "014", "022"]
+sessions_appeared: ["013", "014", "022", "036"]
 related:
   - "[[Demi-Spell]]"
   - "[[The Order of Seasons]]"
   - "[[Broyish Empire]]"
+  - "[[Gray Wastes]]"
+  - "[[Vanir]]"
 ---
 
 The fixed point between the end of one world and the beginning of the next: the creation of worlds after everything begins again. It occurs regardless of mortal action.
@@ -16,3 +18,7 @@ The fixed point between the end of one world and the beginning of the next: the 
 In session 014, [[Feronia Caeradel]] clarified that the [[Demi-Spell]] casts, expedites, and modifies Genesis Mundi by adding guidelines to influence the next world's creation. [[Rizolvir Kiirnodel]] warned that the [[Broyish Empire]] is also pursuing Genesis Mundi.
 
 In session 022, [[Vokenar]] cast Legend Lore to learn more about Genesis Mundi. The revelation confirmed that Genesis Mundi is a natural event that can be spurred on by the Demi-Spell but will happen regardless. Each occurrence wipes clean all of reality — including the magic that allows Legend Lore to work — and restarts the world in a new place. However, certain threads carry over: important souls, structures, and the shape of the land sometimes persist. For example, if [[Kaedon]] is important enough, it might still exist from one world to the next. The Demi-Spell can change the parameters of Genesis Mundi to fit certain rules, potentially making the new world more closely adhere to the one that came before.
+
+## Session 036
+
+The [[Gray Wastes]] are part of the reality recycled when Genesis Mundi remakes the worlds. [[Domyx I]] told [[Red Caesar]] that the war between the [[Vanir]] and [[Aesir]] recurs with the cycle, claiming the titans had prevailed in other worlds and promising their future rule. Those claims about earlier and future outcomes remain unverified. Red Caesar resisted pressure to reveal the [[Demi-Spell]], leaving the means of accelerating renewal out of Domyx I's sight.

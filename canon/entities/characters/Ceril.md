@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033", "034", "035"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033", "034", "035", "036"]
 related:
   - "[[Vanzia Vinfei]]"
   - "[[House Kiirnodel]]"
@@ -206,3 +206,9 @@ The destruction of [[Farraday]]'s Stark body and the [[Tome of Satariel]] freed 
 Ceril opposed [[Boril Erendel]]'s claim to perfection and helped end his replacement-body project. At [[The Academy]], he rejected the [[Demi-Spell]] as unnatural. He reminded [[Keys Caeradel]] that the gods had assured him the shattered moon could heal, and relayed [[Illidrielle Gandara]]'s wish that Keys Caeradel find a new life. He refused to study the spell after the party received it and objected to [[Red Caesar]] holding it, proposing [[Vokenar]] as its custodian instead.
 
 Before the descent through [[The Funnel]], Ceril acquired the [[Cornucopia of Constellations]], an elven commission that supplies and strengthens a protective feast. His growing druidic abilities also include Reverse Gravity.
+
+## Session 036
+
+Ceril used the [[Cornucopia of Constellations]] to provision the descent through [[The Funnel]]. He noticed gravity weakening underground and, after the party defeated a purple worm, saw the light of a second sky through its tunnel. The party crossed into the [[Gray Wastes]].
+
+Recalling the tree he visited in [[Arkadia]], Ceril considered how its roots might connect the planes. With [[Red Caesar]] and [[Kerben]], he scouted the lower sky from a summoned roc, identifying the bright scars that helped guide [[The Opal]] toward [[Starfall]]. [[Vokenar]] subsequently sighted the tree, and [[Sigil]] named it [[Galcarina]].

@@ -20,7 +20,7 @@ aliases:
   - Vokun
   - Vokunov
 session_introduced: "001"
-sessions_appeared: ["001", "011", "012", "013", "014", "015", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033", "034", "035"]
+sessions_appeared: ["001", "011", "012", "013", "014", "015", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033", "034", "035", "036"]
 related:
   - "[[Arkadia]]"
   - "[[Sigil]]"
@@ -258,3 +258,9 @@ Vokenar entrusted [[Jack Harvey's Portrait]] to [[David Harvey]] and established
 [[Boril Erendel]] revealed that Vokenar retained his aasimar nature despite his reincarnation as a high elf. Vokenar recovered his angelic radiance and abilities, and his appearance came to reflect both heritages. His restored radiance ended Boril Erendel's life. Vokenar thanked him for revealing that his former nature remained and embraced a sense of belonging to both [[Arkadia]] and [[Stark]].
 
 After [[Keys Caeradel]] entrusted the [[Demi-Spell]] to the party, Vokenar discovered that he could read and enact it. He supported [[Red Caesar]] holding the spell and trusted him to destroy it if necessary, while remaining willing to cast it as a last resort. Vokenar's attempt to Plane Shift the party to [[Axis Mundi]] failed, directing them toward [[The Funnel]].
+
+## Session 036
+
+Vokenar restored [[Red Caesar]] after his incapacitating contact with [[Domyx I]], ending the encounter while the [[Demi-Spell]] remained concealed. He was the first of the party to pass through the purple worm's tunnel into the [[Gray Wastes]], where his wings saved him when an acid-weakened handhold broke.
+
+As [[The Opal]] sailed east beneath the lower sky, Vokenar sighted a distant tree connecting ground and sky. [[Sigil]] spoke into his mind and identified [[Galcarina]], the tree of all worlds that [[Ceril]] had visited in [[Arkadia]].

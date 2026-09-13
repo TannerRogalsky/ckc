@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc, antagonist]
 session_introduced: "024"
-sessions_appeared: ["024"]
+sessions_appeared: ["024", "036"]
 related:
   - "[[Domyx]]"
   - "[[Emperor Shen]]"

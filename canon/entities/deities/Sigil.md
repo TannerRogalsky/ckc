@@ -2,12 +2,15 @@
 type: deity
 subtypes: [goddess]
 session_introduced: "001"
-sessions_appeared: ["013", "025", "026", "031", "032", "035"]
+sessions_appeared: ["013", "025", "026", "031", "032", "035", "036"]
 aliases:
   - The Sun
+related:
+  - "[[Galcarina]]"
+  - "[[Aesir]]"
 ---
 
-Also known as the Sun. One of three sister goddesses alongside [[Aeris]] and [[Crone]]. Her domain is Life, Energy, and Motion — grounded in the present. She is good at making decisions that keep people safe and healthy. She possesses constant Locate Creature on every creature currently active in Stark, effectively maintaining a living radar of all beings.
+One of three sister goddesses alongside [[Aeris]] and [[Crone]]. Her domain is Life, Energy, and Motion — grounded in the present. She is good at making decisions that keep people safe and healthy. She possesses constant Locate Creature on every creature currently active in Stark, effectively maintaining a living radar of all beings.
 
 Speaks to [[Vokenar]] during his training. More aggressive in approach than Crone, pushing Vokenar harder and faster. Wants Vokenar to slumber less and train more. Told the party that their mission is not hopeless and that they will only have to give [[Penumbra]] to [[Lyngbakr]] the turtle. Gave [[Ceril]] a shield.
 
@@ -18,3 +21,7 @@ When contacted in session 013, [[Sigil]] advised the party to head first to the 
 In session 026, Sigil trains alongside [[Crone]] with [[Vokenar]] between worlds. She argues with Crone about Vokenar's fate, defending his ethics and morality as essential to his mission — had he not carried them down into the world, he would not have taken the mission at all and could have become a cutthroat pirate. When Crone is wounded by [[Starfall]], Sigil tends to her sister and tells Vokenar that Crone has been attacked in a way she cannot be healed from. She returns Vokenar to the world, placing a hand on his shoulder and telling him to be safe.
 
 In session 031, [[Fharan]] revealed that [[Starfall]]'s next target is Sigil's celestial body, the sun. This makes [[Emperor Shen]]'s sequence of attacks a direct campaign against all three sister goddesses: [[Aeris]] imprisoned in Starfall, [[Crone]] shattered as the moon, and Sigil threatened next.
+
+## Session 036
+
+[[Domyx]] recalled Sigil, [[Aeris]], and [[Crone]] as the [[Aesir]] who defeated the [[Vanir]] in the ancient struggle for [[Stark]]. When [[Vokenar]] sighted a tree spanning the [[Gray Wastes]]' ground and sky, Sigil identified it to him as [[Galcarina]], the tree of all worlds.

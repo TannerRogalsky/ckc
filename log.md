@@ -280,3 +280,11 @@
 ## [2026-09-12] lint | Rizolvir Kiirnodel — Corrected Aramil Kiirnodel relationship using sessions 034 and 035.
 ## [2026-09-12] lint | Historical sessions — Standardized touched session headings and clarified the initial Castle Kaedon quest resolution date.
 ## [2026-09-12] lint | Session 035 — Validated links, frontmatter, index coverage, session structure, appearance histories, narrative additions, and quest chronology.
+## [2026-09-13] query | Session 014 — Reviewed Vizier Jade’s survival warning, imperial invitation, and agreement with Red Caesar.
+## [2026-09-13] update | Vizier Jade — Added two session 014 quotations; validated frontmatter, appearance history, links, and index entry.
+## [2026-09-13] query | Red Caesar — Traced anti-Broy operations and verified responsibility for sentry evasion, sabotage, intelligence, and the uprising.
+## [2026-09-13] query | Session 036 — Reviewed three source chunks, canonical identities, earlier tree encounters, and quest continuity.
+## [2026-09-13] ingest | Session 036 — Added summary and timeline; updated entities, index, and active quest progress; reviewed resolved quests.
+## [2026-09-13] update | Session 036 — Applied supplied corrections for Domyx I and Domyx II’s ancestral relics.
+## [2026-09-13] lint | Session 036 — Validated links, index coverage, frontmatter, appearance histories, session structure, narrative additions, quest status, and chronology.
+## [2026-09-13] query | Starfall — Reviewed the active quest and progress through session 036.

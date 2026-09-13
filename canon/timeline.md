@@ -1024,3 +1024,29 @@ Source: [[chunks/sessions_001-0010]].
 - Attempts to teleport and Plane Shift to [[Axis Mundi]] fail, suggesting lasting wards protecting [[Starfall]].
 - [[Figma Brickfinger]] and [[Courteous Cam]] report that [[The Funnel]] has reopened, but its miners withdrew from dangers beyond the passage.
 - Before the descent, Ceril acquires the [[Cornucopia of Constellations]] and Domyx the [[Kaboom Ring]]. The party prepares to enter the Funnel.
+
+## Session 036
+
+### Chunk 0000
+
+- [[Otto]] guides the party partway down [[The Funnel]] before they continue beneath the ocean floor.
+- [[Kerben]] and [[Red Caesar]] question an expedition dog from before [[The Cataclysm]], learning an eastward route and receiving a warning about stone creatures.
+- The party recovers gems and potions, defeats two fomorians, and continues despite [[Domyx]]'s lingering warping curse.
+- The party finds the stone avatars of the fallen [[Vanir]]; Domyx recalls their defeat by the [[Aesir]].
+- Red Caesar's Contact Other Plane brings him before [[Domyx I]] in the [[Gray Wastes]], where the titan promises renewed divine war and Red Caesar feels pressure to reveal the [[Demi-Spell]].
+
+### Chunk 0001
+
+- Red Caesar refuses to reveal the Demi-Spell, and [[Vokenar]] restores him from the incapacitating trance.
+- Kerben tracks a purple worm; defeating it opens a route through the lower planar boundary.
+- The party recovers [[Domyx II]]'s gold amphora and diamond-set coronet, along with a gold bugle.
+- The party enters the Gray Wastes, a lower plane of hanging stone islands and a vast dust desert containing [[Axis Mundi]].
+- Red Caesar proposes following [[Starfall]]'s old firing scars east toward the warded destination beneath [[Broy]].
+- [[Domyx]] braces [[The Opal]] while the party boards on a crumbling rock. The ship falls, its storage magic fails, and Kerben summons a roc to guide it.
+
+### Chunk 0002
+
+- The roc helps The Opal glide safely onto the dust, where its sails and wind source allow it to continue east.
+- Kerben, [[Ceril]], and Red Caesar scout from the roc, using Starfall's firing scars to refine the course.
+- The roc returns its riders and departs freely.
+- Vokenar sights [[Galcarina]], which [[Sigil]] identifies as the tree of all worlds extending from [[Arkadia]] through [[Stark]] into the Gray Wastes.

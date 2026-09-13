@@ -2,7 +2,7 @@
 type: character
 subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033", "034", "035"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033", "034", "035", "036"]
 related:
   - "[[Antumbra]]"
   - "[[Heaven's Bulb]]"
@@ -207,3 +207,9 @@ Red Caesar helped defeat [[Boril Erendel]] and protected the party with Circle o
 Keys Caeradel left the completed [[Demi-Spell]] with the party. Studying it overwhelmed Red Caesar, but he discovered that his ability to siphon sky energy could permanently destroy it. He took custody of the spell, preferring its destruction to its capture by someone who would misuse it. [[Vokenar]] supported his decision; [[Ceril]] objected to Red Caesar holding the spell and preferred Vokenar as its custodian.
 
 Red Caesar's attempt to teleport to [[Axis Mundi]] failed. After Vokenar's planar travel also failed, Red Caesar identified permanent abjurations as a likely explanation for the protected destination.
+
+## Session 036
+
+With [[Domyx]]'s ancestral song supporting him, Red Caesar used the Contact Other Plane page recovered from the [[Tome of Satariel]] to seek directions among the fallen [[Vanir]]. The contact incapacitated him and brought him before [[Domyx I]] in the [[Gray Wastes]]. Domyx I attacked the goddesses' rule and promised renewed titan dominion in a future cycle. Red Caesar resisted pressure to reveal the [[Demi-Spell]], keeping it intact and concealed until [[Vokenar]] restored him.
+
+After physically crossing into the Gray Wastes, Red Caesar recognized the desert from the vision. He proposed finding [[Starfall]] by tracing its old shots through the lower sky. Scouting on [[Kerben]]'s summoned roc with [[Ceril]], he distinguished firing scars from natural features and helped guide [[The Opal]] east toward [[Axis Mundi]].

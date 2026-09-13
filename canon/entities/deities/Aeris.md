@@ -2,13 +2,15 @@
 type: deity
 subtypes: [goddess]
 session_introduced: "001"
-sessions_appeared: ["013", "021", "024", "025", "031", "032", "035"]
+sessions_appeared: ["013", "021", "024", "025", "031", "032", "035", "036"]
 aliases:
   - The Sky
   - Eris
+related:
+  - "[[Aesir]]"
 ---
 
-Also known as the Sky. One of three sister goddesses alongside [[Sigil]] and [[Crone]]. Her domain is Chaos, Potential Futures, and Fate. She has the biggest domain of the three sisters and seems more powerful than the others. She is willing to answer questions one might think she wouldn't be allowed to if the spirit rises. Can sometimes be influenced. Gave [[Ceril]] a shield that provides exceptional protection in combat, significantly boosting his armor class. May know something about the [[Saratan]] species that isn't in the books.
+One of three sister goddesses alongside [[Sigil]] and [[Crone]]. Her domain is Chaos, Potential Futures, and Fate. She has the biggest domain of the three sisters and seems more powerful than the others. She is willing to answer questions one might think she wouldn't be allowed to if the spirit rises. Can sometimes be influenced. Gave [[Ceril]] a shield that provides exceptional protection in combat, significantly boosting his armor class. May know something about the [[Saratan]] species that isn't in the books.
 
 Session 013 clarified that [[Aeris]]'s physical body is the sky itself, just as [[Sigil]] is the sun and [[Crone]] is the moon. The goddesses are not sending down avatars to talk — their physical bodies are those celestial objects. This makes [[Touching the Sky]] literal physical contact with the most powerful entity over Stark.
 
@@ -21,3 +23,7 @@ Aeris confirmed that repairing the sky will restore her divinity and potentially
 In session 025, [[Ceril]] contacted Aeris through divine summoning after the party debated planting [[Antumbra]] among [[The League of New Stark]]'s hidden [[Penumbra]] supply. She appeared in her star-filled form and confirmed that sending Antumbra toward [[Starfall]] would not risk the piece of herself trapped inside the device. She also confirmed [[Obould]] was alive and that the Antumbra plan should proceed.
 
 In session 031, [[Lyngbakr]] consumed [[Jack Harvey]]'s condensed [[Penumbra]] hoard and repaired the [[Hole in the Sky]], restoring the visible sky above Stark. Aeris's mortal body remains imprisoned within [[Starfall]], which was revealed to be hidden at [[Axis Mundi]], so the sky's repair does not yet resolve her captivity.
+
+## Session 036
+
+[[Domyx]] recalled Aeris, [[Sigil]], and [[Crone]] as the [[Aesir]] who defeated the [[Vanir]] before the creation of the present heavens. The party found the fallen titans' stone avatars beneath [[Stark]]. The account distinguished those destroyed physical forms from surviving divine sparks in other planes.
