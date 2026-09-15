@@ -288,3 +288,6 @@
 ## [2026-09-13] update | Session 036 — Applied supplied corrections for Domyx I and Domyx II’s ancestral relics.
 ## [2026-09-13] lint | Session 036 — Validated links, index coverage, frontmatter, appearance histories, session structure, narrative additions, quest status, and chronology.
 ## [2026-09-13] query | Starfall — Reviewed the active quest and progress through session 036.
+## [2026-09-15] query | Grotusqu — Reviewed quest records, entity references, and outdated abandoned-quest guidance.
+## [2026-09-15] update | Grotusqu — Applied user correction to resolved quests, entity, index, and abandoned-quest guidance; supersedes July 5 classification.
+## [2026-09-15] lint | Grotusqu — Validated touched links, entity frontmatter, index coverage, quest chronology, and log additions.

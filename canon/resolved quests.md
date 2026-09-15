@@ -10,6 +10,11 @@
 - **Resolved:** Session 009
 - **Details:** [[Otto]] joined [[The Opal]] on the condition the party help find his dwarf friends. The party reached [[The Pit]] and connected Otto to the dwarven community of [[Figma Brickfinger's Union]].
 
+## Hunt the Grotusqu
+- **Given by:** [[Lady Jacinthe]]
+- **Resolved:** Sessions 001–010 (exact session unknown; placed by latest possible resolution)
+- **Details:** The party completed [[Lady Jacinthe]]'s quest to hunt a [[Grotusqu]].
+
 ## Break the Darvinblast curse
 - **Given by:** Implicit (party initiative)
 - **Resolved:** Session 012

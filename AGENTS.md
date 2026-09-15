@@ -284,7 +284,7 @@ When a quest is resolved during ingestion, move its entry from `canon/quests.md`
 Resolved quests in `canon/resolved quests.md` should be ordered chronologically by resolution session.
 
 ## Abandoned Quests
-Quests that were given but never revisited (e.g. the Grotusqu hunt from session 001) remain in `canon/quests.md` with `**Status:** Abandoned / unresolved` rather than being moved to resolved.
+Quests that were given but never revisited remain in `canon/quests.md` with `**Status:** Abandoned / unresolved` rather than being moved to resolved.
 
 # Review and Lint Checklist
 

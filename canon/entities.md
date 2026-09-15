@@ -129,7 +129,7 @@
 - [[Wyvern]] — Poisonous dragon-like predators encountered in gnoll territory
 - [[Etten]] — Two-headed giant creature encountered in Darvinblast
 - [[Fire Giant]] — Flame-engulfed giant encountered in Darvinblast, allied with dwarvish anti-sky deities
-- [[Grotusqu]] — Non-magical giant squid that Lady Jacinthe asked the party to hunt
+- [[Grotusqu]] — Non-magical giant squid; the party completed Lady Jacinthe’s hunt during sessions 001–010
 - [[Fuchsia Fungus]] — Purple fungal mound creature in the bogs of Continental Stark that assimilates victims
 - [[Aeon]] — Githzerai creature from beyond Stark, green-skinned with psionic powers. Escaped after offering a star gem to Vokenar
 - [[Warg Lord]] — Massive fey beast with a bear-wolf body and goblin face, captain of the hobgoblin pirate ship The Hideous Truth
