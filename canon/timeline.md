@@ -998,6 +998,7 @@ Source: [[chunks/sessions_001-0010]].
 
 - The party refuses to attack the apparently dying [[Yalet Aurum]], who gives [[Yalet Mora]] a massive golden brain to settle their feud.
 - After Yalet Mora leaves, Yalet Aurum reveals that the fallen moon fragment strengthened him and that he only staged his decline to encourage his brother.
+- [[Domyx]] adopts Spurgruhn as his new surname, replacing the Akathian name he renounced.
 - [[Rizolvir Kiirnodel]] agrees to stop urging [[Keys Caeradel]] to cast the [[Demi-Spell]] while the party moves against [[Boril Erendel]].
 - [[Ceril]] rejoins the party before they travel to [[House Erendel]].
 - The party reaches House Erendel and discovers multiple duplicates of Boril Erendel and another created figure resembling [[Vokenar]].

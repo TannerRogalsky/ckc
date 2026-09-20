@@ -5,6 +5,8 @@ session_introduced: "001"
 sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033", "034", "035", "036"]
 aliases:
   - Domyx Akathian
+  - Domyx Spurgruhn
+  - Spurgroon
   - Domix
   - Domex
   - Domics
@@ -60,7 +62,7 @@ related:
   - "[[Vanir]]"
 ---
 
-A titan barbarian and former member of [[Clan Akathia]] who touched the sky, earning sky-blue palms that mark him as a blood relative of [[Emperor Shen]]. Renounced his family name after confronting his grandfather's role in breaking the sky and being disowned by his father [[Domyx IV]]. Named as [[The Opal]]'s successor by [[Obould]], but carries the burden of being Shen's grandson — the descendant of the party's greatest enemy. Traveled to the titan homeland, rescued [[Ulrich Fjoller]] from the [[Prison of Frost]], and brought [[Lorelai Lapis-Acathian]] aboard with him.
+A titan barbarian and former member of [[Clan Akathia]] who touched the sky, earning sky-blue palms that mark him as a blood relative of [[Emperor Shen]]. Renounced his Akathian family name after confronting his grandfather's role in breaking the sky and being disowned by his father [[Domyx IV]], then adopted Spurgruhn as his new surname. Named as [[The Opal]]'s successor by [[Obould]], but carries the burden of being Shen's grandson — the descendant of the party's greatest enemy. Traveled to the titan homeland, rescued [[Ulrich Fjoller]] from the [[Prison of Frost]], and brought [[Lorelai Lapis-Acathian]] aboard with him.
 
 ## Identity and Backstory
 
@@ -225,7 +227,7 @@ Domyx guarded the party through the [[Mana Sea]] and broke [[Kerben]] free from 
 
 ## Session 034
 
-Domyx supported [[Red Caesar]] through the emotional impact of [[Obould]]'s retirement, then helped the party destroy [[Farraday]]'s foothold in Stark. [[Sigrid Forgewelt]] transformed his former hammer into the [[Cestus of the Clear Sky]], whose magic spreads the appearance of the restored heavens across one side of his body. He refused to attack the apparently helpless [[Yalet Aurum]] and later reached [[House Erendel]] with the party.
+Domyx supported [[Red Caesar]] through the emotional impact of [[Obould]]'s retirement, then helped the party destroy [[Farraday]]'s foothold in Stark. [[Sigrid Forgewelt]] transformed his former hammer into the [[Cestus of the Clear Sky]], whose magic spreads the appearance of the restored heavens across one side of his body. He refused to attack the apparently helpless [[Yalet Aurum]], adopted Spurgruhn as his new surname, and later reached [[House Erendel]] with the party.
 
 ## Session 035
 

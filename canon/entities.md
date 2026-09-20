@@ -2,7 +2,7 @@
 
 ## Party Members
 - [[Red Caesar]] — Abjurer who resisted Domyx I’s pressure to reveal the Demi-Spell and charts Starfall’s firing scars
-- [[Domyx]] — Titan adventurer confronting his divine ancestry and recovering Domyx II’s heirlooms beneath Stark
+- [[Domyx]] — Titan adventurer who renounced Akathia, adopted Spurgruhn, and confronts his divine ancestry
 - [[Kerben]] — Captain who opened the route into the Gray Wastes and saved The Opal’s descent with a summoned roc
 - [[Ceril]] — Druid and navigator who visited Gaokerena in Arkadia and traces Starfall’s scars in the lower sky
 - [[Vokenar]] — Cleric who restored Red Caesar from divine contact and received Sigil’s identification of Gaokerena

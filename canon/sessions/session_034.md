@@ -31,6 +31,8 @@ The party brought [[Yalet Mora]] to confront [[Yalet Aurum]] near [[Brimbolyn]],
 
 After Yalet Mora left, Yalet Aurum admitted that the moon fragment had strengthened rather than killed him. He had staged his decline to give his insecure brother closure and intended to reshape the surrounding land once unobserved.
 
+With the feud resolved, [[Domyx]] adopted Spurgruhn as his new surname, replacing the Akathian name he had renounced.
+
 At [[House Kiirnodel]], [[Rizolvir Kiirnodel]] agreed to stop urging [[Keys Caeradel]] to cast the [[Demi-Spell]] while the party pursued its own solution. In exchange, the party accepted the task of stopping [[Boril Erendel]], whose altered spell would reincarnate the world's spirits into high elf bodies. With [[Ceril]] rejoining them, the party followed Rizolvir's map to [[House Erendel]] and found several duplicates of Boril Erendel, along with another created figure resembling Vokenar.
 
 ### Summary
@@ -47,6 +49,7 @@ Key events:
 - At the [[Dawn Market]], [[Geoffrey the Younger]] crafted three reusable magical bullets for [[Kerben]].
 - The party acquired the [[Ioun of Crimson Dreams]], [[Ioun of the Emerald Hunter]], [[Ioun of the Gilded Savior]], and [[Cestus of the Clear Sky]].
 - [[Yalet Mora]]'s feud with [[Yalet Aurum]] ended without bloodshed, and the party received a massive golden brain.
+- [[Domyx]] adopted Spurgruhn as his new surname.
 - [[Rizolvir Kiirnodel]] agreed to delay pressure to cast the [[Demi-Spell]] while the party confronts [[Boril Erendel]].
 - The party reached [[House Erendel]] and discovered multiple Boril Erendel duplicates.
 

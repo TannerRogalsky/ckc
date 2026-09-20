@@ -293,3 +293,6 @@
 ## [2026-09-15] lint | Grotusqu — Validated touched links, entity frontmatter, index coverage, quest chronology, and log additions.
 ## [2026-09-20] update | Gaokerena — Renamed misspelled Galcarina entity and corrected derived canon references, preserving the transcript form as an alias.
 ## [2026-09-20] lint | Gaokerena — Validated canon links, index coverage, frontmatter, alias placement, appearance history, and renamed-file cleanup.
+## [2026-09-20] query | Domyx — Verified the surname adoption in session 034 chunk 0002 and identified the transcript misspelling.
+## [2026-09-20] update | Domyx — Recorded Spurgruhn as his adopted surname and Spurgroon as a transcript alias across session canon.
+## [2026-09-20] lint | Domyx — Validated touched canon surfaces, links, frontmatter, index coverage, session structure, and surname usage.
