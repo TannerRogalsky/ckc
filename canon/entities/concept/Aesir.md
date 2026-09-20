@@ -4,6 +4,8 @@ subtypes: ["lore", "cosmology"]
 session_introduced: "032"
 sessions_appeared: ["032", "036", "037"]
 related:
+  - "[[Dunkelkalt]]"
+  - "[[Entropie]]"
   - "[[Vanir]]"
   - "[[Aeris]]"
   - "[[Sigil]]"
@@ -12,6 +14,8 @@ related:
 ---
 
 The sky goddesses, including [[Aeris]], [[Sigil]], and [[Crone]], in the ancient conflict with the titan gods known as the [[Vanir]].
+
+[[Dunkelkalt]], the Vanir That Eats The Sun And Moon, and [[Entropie]], the Vanir That Eats the Stars, stand as opposites of the Aesir. In session 037, these returning [[Vanir]] strike at the party for serving the three sister goddesses, renewing their ancient divine conflict.
 
 [[Emperor Shen]] first named the Aesir and Vanir in session 032 while describing the divine origins of [[Domyx]]'s people. In session 036, Domyx's childhood lore identified the Aesir as the goddesses who won the struggle for the world between its highest and lowest realms. The defeated Vanir's stone avatars lie buried deep beneath [[Stark]].
 

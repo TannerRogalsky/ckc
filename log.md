@@ -301,3 +301,7 @@
 ## [2026-09-20] update | Session 037 — Recorded provisional Domyx I identification and user-supplied lieutenant names and Vanir titles.
 ## [2026-09-20] update | Farron Acathian II — Merged Baron Akathian record, preserved appearance history, corrected category, and refreshed canon links.
 ## [2026-09-20] lint | Session 037 — Validated canon links, index coverage, frontmatter, preserved histories, session structure, narrative additions, and quest chronology.
+## [2026-09-20] update | Dunkelkalt — Corrected divine title in entity and index using user clarification.
+## [2026-09-20] lint | Dunkelkalt — Validated frontmatter, preserved session history, canon links, and exact entity index coverage.
+## [2026-09-20] update | Aesir — Recorded Dunkelkalt and Entropie as opposites across entity prose, reciprocal relationships, and index descriptions.
+## [2026-09-20] lint | Aesir opposition — Validated touched frontmatter, preserved histories, reciprocal links, and exact entity index coverage.

@@ -26,8 +26,8 @@
 ## NPCs
 - [[Farron Acathian II]] — Emperor Shen's cloud titan lieutenant and Domyx's relative, defeated again at Axis Mundi
 - [[Zohai Lapis]] — Emperor Shen's frost titan lieutenant, spared near Broy and later killed by Kerben at Axis Mundi
-- [[Dunkelkalt]] — The Vanir That Eats; two-headed winged god slain by Kerben at Axis Mundi
-- [[Entropie]] — The Vanir That Eats the Stars; its final Wish brings forth the last Vanir, likely Domyx I
+- [[Dunkelkalt]] — The Vanir That Eats The Sun And Moon; opposite of the Aesir alongside Entropie, slain by Kerben at Axis Mundi
+- [[Entropie]] — The Vanir That Eats the Stars; opposite of the Aesir alongside Dunkelkalt, whose final Wish brings forth the last Vanir
 - [[Domyx I]] — Ancient titan god contacted by Red Caesar; likely identity of the last Vanir manifested at Axis Mundi
 - [[Domyx II]] — Titan ancestor whose gold amphora and diamond-set coronet were recovered beneath the Funnel
 - [[Lorelai Lapis-Acathian]] — Domyx's sister and expectant mother who left The Opal with Ulrich
@@ -251,7 +251,7 @@
 ## Items & Concepts
 - [[Ceril's Star]] — Aeris's blessing enabling Ceril to suspend time for the party's recovery; unused at session 037's end
 - [[Vanir]] — Old gods returning against the party and its divine patrons; the last manifestation is likely Domyx I
-- [[Aesir]] — Sky goddesses who defeated the Vanir in the ancient struggle for Stark
+- [[Aesir]] — Sister goddesses who defeated the Vanir; Dunkelkalt and Entropie stand as their opposites
 - [[Akasha]] — Silvery-white liquid raining from the sky over Continental Stark, connected to Arkadia's oceans
 - [[Moon Mushrooms]] — Hallucinogenic translucent mushrooms in the Continental Stark jungle, harvestable as poison
 - [[Penumbra]] — Pieces of the fallen sky; Jack Harvey's hoard let Lyngbakr repair the sky
