@@ -13,7 +13,7 @@ The party sailed east toward [[Broy]] aboard [[The Opal]] with [[Theo Harvey]] a
 
 That night, [[Theo Harvey]] approached [[Domyx]] during guard duty and revealed details about [[The Carrot Cake]]: it was powered by [[Penumbra]] and is a maze of illusions. [[Vizier Jade]] had sent her companion [[The Tyrant]] to find it, and the Tyrant never returned.
 
-As the party neared the coast of [[Broy]], a fierce storm struck. Two titans appeared — [[Baron Akathian the Second]], a cloud titan, and an unnamed female frost titan. Baron Akathian was a relation to [[Domyx]]'s bloodline and called him "great nephew abomination." The titans attacked the party aboard [[The Opal]], acting under orders from a higher power. [[Domyx]] grew to match their size, fought Baron Akathian, and helped keep the ship from capsizing. After the party defeated and healed both titans, they departed peacefully heading north toward [[Thalasia]], the continent where Domyx's people live. Baron Akathian gave Domyx a map showing a path into the titan homeland.
+As the party neared the coast of [[Broy]], a fierce storm struck. Two titans appeared — [[Farron Acathian II]], a cloud titan, and [[Zohai Lapis]], a female frost titan. Farron Acathian II was a relation to [[Domyx]]'s bloodline and called him "great nephew abomination." The titans attacked the party aboard [[The Opal]], acting under orders from a higher power. [[Domyx]] grew to match their size, fought Farron Acathian II, and helped keep the ship from capsizing. After the party defeated and healed both titans, they departed peacefully heading north toward [[Thalasia]], the continent where Domyx's people live. Farron Acathian II gave Domyx a map showing a path into the titan homeland.
 
 The party docked near the coast of [[Broy]]. [[Kerben]] stayed behind to guard [[The Opal]]. The remaining party members disembarked and encountered a human and tiefling woman surrounded by [[Oni]] demons. [[Vokenar]] intervened to protect the civilians, and combat began.
 
@@ -25,11 +25,11 @@ The human and tiefling the party had saved were [[Trent Indorra]] and [[Ebbie In
 
 The party was led through winding stairs into an industrial steel town with whirring gears, copper electrical cables, and automated wheeled devices. [[Oni]] sentries were perched on pillars overlooking the town, some invisible. [[Vokenar]] used scouting magic to find a safe route and discovered [[Naomi Ue]]'s dive bar and her operation as an underground fixer who absolves criminal records through magically stamped documents.
 
-The party entered Naomi Ue's tavern, where they were recognized as outsiders. [[Vanzia Vinfei]] — an old ally who had escaped [[Brimbolyn]] with [[Ceril]] decades earlier — was present. She and Ceril were reunited after many years. Vanzia was now operating alongside Naomi Ue in the [[Broyish Capital]].
+The party entered Naomi Ue's tavern, where they were recognized as outsiders. [[Vanzia Vinfei]] — an old ally who had escaped [[Brimbolyn]] with [[Ceril]] decades earlier — was present. She and Ceril were reunited after many years. Vanzia Vinfei was now operating alongside Naomi Ue in the [[Broyish Capital]].
 
 Naomi Ue revealed the party had automated warrants issued by the [[Oni]] for their killings near the coast. She offered to clear the warrants for 10 pounds of mithril, which the party paid. An elf associate — an armored woman who appeared to hold official government position — stamped the documents to void them.
 
-Vanzia confirmed that [[Obould]] is in the custody of [[Vizier Jade]] as prisoner of war and leverage against [[The League of New Stark]]. She offered to lead the party to Obould but warned Jade must be confronted first. She offered citizenship papers to [[Red Caesar]] and a teleport circle scriptum back to [[Brimbolyn]].
+Vanzia Vinfei confirmed that [[Obould]] is in the custody of [[Vizier Jade]] as prisoner of war and leverage against [[The League of New Stark]]. She offered to lead the party to Obould but warned Vizier Jade must be confronted first. She offered citizenship papers to [[Red Caesar]] and a teleport circle scriptum back to [[Brimbolyn]].
 
 The party learned that magic is restricted in parts of the capital — permanent dead magic zones in hotels and Globe of Invulnerability-like fields suppressing spells below 7th level. Spell scrolls are contraband. [[Oni]] sentries rotate positions at set intervals, some invisibly.
 
@@ -43,27 +43,27 @@ The party long-rested in the capital.
 
 The party entered the imperial palace in the [[Broyish Capital]] and was intercepted by [[Fharan]], a masked human who verified their identities before granting them audience with the imperial high court.
 
-The party entered [[Vizier Jade]]'s chamber and saw [[Emperor Shen]] slumped in a large throne, his face obscured by metal and a headdress. Jade demonstrated powerful mind-reading magic, reading the party's thoughts directly. She demanded fifteen pieces of [[Penumbra]] in exchange for [[Obould]]'s freedom — the same deal she had made with [[The League of New Stark]].
+The party entered [[Vizier Jade]]'s chamber and saw [[Emperor Shen]] slumped in a large throne, his face obscured by metal and a headdress. Vizier Jade demonstrated powerful mind-reading magic, reading the party's thoughts directly. She demanded fifteen pieces of [[Penumbra]] in exchange for [[Obould]]'s freedom — the same deal she had made with [[The League of New Stark]].
 
-[[Red Caesar]] attempted to negotiate by offering to teach the Empire how to synthesize penumbra from water. Jade read his thoughts and caught the deception, noting he had no solid plan. Red pivoted to offering to procure penumbra over time. Jade remained firm at fifteen pieces.
+[[Red Caesar]] attempted to negotiate by offering to teach the Empire how to synthesize penumbra from water. Vizier Jade read his thoughts and caught the deception, noting he had no solid plan. Red pivoted to offering to procure penumbra over time. Vizier Jade remained firm at fifteen pieces.
 
-Jade brought Obould before the party encased in a resilient sphere. He was alive but manacled, hunched, and emaciated — enduring clear indignity. Jade cast a spell forcing him to dance in place as entertainment before ending the effect. When she prepared to return him, Obould managed to speak briefly, warning the party not to give Jade any penumbra, before his mouth sealed over with flesh and he was hauled away.
+Vizier Jade brought Obould before the party encased in a resilient sphere. He was alive but manacled, hunched, and emaciated — enduring clear indignity. Vizier Jade cast a spell forcing him to dance in place as entertainment before ending the effect. When she prepared to return him, Obould managed to speak briefly, warning the party not to give Vizier Jade any penumbra, before his mouth sealed over with flesh and he was hauled away.
 
-Jade revealed a shocking truth: [[Emperor Shen]] is [[Domyx]]'s grandfather. This was confirmed by the matching sky-colored palms shared between Domyx and the emperor — evidence of having touched the sky. Shen spoke in Giant's Runic and revealed he was the first of his bloodline to touch the sky and planned to be the last. He tried to destroy the sky using [[Starfall]] and was not entirely successful. His goal is that "our rage will kill the gods." Shen fell unconscious after speaking, and Jade dismissed the party.
+Vizier Jade revealed a shocking truth: [[Emperor Shen]] is [[Domyx]]'s grandfather. This was confirmed by the matching sky-colored palms shared between Domyx and the emperor — evidence of having touched the sky. Emperor Shen spoke in Giant's Runic and revealed he was the first of his bloodline to touch the sky and planned to be the last. He tried to destroy the sky using [[Starfall]] and was not entirely successful. His goal is that "our rage will kill the gods." Emperor Shen fell unconscious after speaking, and Vizier Jade dismissed the party.
 
-Jade mentioned that [[The League of New Stark]] had been giving her penumbra, extending Obould's stay of execution to three months. She allowed the party to depart on their own terms, conserving energy and keeping them alive as a resource.
+Vizier Jade mentioned that [[The League of New Stark]] had been giving her penumbra, extending Obould's stay of execution to three months. She allowed the party to depart on their own terms, conserving energy and keeping them alive as a resource.
 
 The party returned to [[The Opal]]. During his night watch, [[Vokenar]] checked on [[Theo Harvey]] in the brig — Theo was gone from his cage, vanished without explanation.
 
 ### Summary
 
-The party arrived at the [[Broyish Empire]], survived a titan attack, and entered the imperial capital. They cleared their warrants through [[Naomi Ue]] and reunited [[Ceril]] with [[Vanzia Vinfei]]. The party had audience with [[Vizier Jade]] and [[Emperor Shen]], learning that Shen is [[Domyx]]'s grandfather and [[Emperor Shen]]. Jade demanded fifteen pieces of [[Penumbra]] for [[Obould]]'s freedom. [[Theo Harvey]] vanished from his cage during the night.
+The party arrived at the [[Broyish Empire]], survived a titan attack, and entered the imperial capital. They cleared their warrants through [[Naomi Ue]] and reunited [[Ceril]] with [[Vanzia Vinfei]]. The party had audience with [[Vizier Jade]] and [[Emperor Shen]], learning that Emperor Shen is [[Domyx]]'s grandfather and the erased ancestor who attacked the sky. Vizier Jade demanded fifteen pieces of [[Penumbra]] for [[Obould]]'s freedom. [[Theo Harvey]] vanished from his cage during the night.
 
 ### Connections
 
 - Session 022 ended with the party sailing east toward the [[Broyish Empire]] with Theo Harvey as prisoner.
 - The [[Tome Keeper's Pyramid]] was previously unknown; [[Ceril]]'s Commune with Nature located it during this session.
-- [[Baron Akathian the Second]] is a relation to [[Clan Akathia]], connecting Domyx's bloodline to titan folk.
+- [[Farron Acathian II]] is a relation to [[Clan Akathia]], connecting Domyx's bloodline to titan folk.
 - [[The Tyrant]]'s fate reveals that [[The Carrot Cake]] has dangerous defenses capable of capturing even imperial creatures.
 - [[The League of New Stark]]'s penumbra payments have extended [[Obould]]'s stay of execution to roughly three months.
 - [[Vanzia Vinfei]]'s presence in the [[Broyish Capital]] connects Ceril's past escape from [[Brimbolyn]] to the present mission.

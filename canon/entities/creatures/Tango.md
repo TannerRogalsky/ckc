@@ -1,8 +1,8 @@
 ---
-type: creature
-subtypes: [companion]
+type: "creature"
+subtypes: ["companion"]
 session_introduced: "011"
-sessions_appeared: ["011", "013", "017", "018", "030", "031", "036"]
+sessions_appeared: ["011", "013", "017", "018", "030", "031", "036", "037"]
 related:
   - "[[Kerben]]"
   - "[[The Opal]]"
@@ -20,3 +20,7 @@ In session 031, Tango scouted above [[The Carrot Cake]] and reported the presenc
 ## Session 036
 
 Tango accompanied [[Kerben]] through [[The Funnel]] and across the boundary into the [[Gray Wastes]]. Swapping places through [[The Ascot]] helped Kerben escape a purple worm's jaws. The plan for Tango to carry the stored [[The Opal]] down to the desert failed when the ship could not be stored again; Tango followed the falling vessel and was safely aboard during its descent.
+
+## Session 037
+
+Tango accompanied [[Kerben]] at [[Axis Mundi]] through the battles with [[Emperor Shen]] and the returning [[Vanir]]. The companion was sheltered behind the ruins when the last Vanir, likely [[Domyx I]], manifested.

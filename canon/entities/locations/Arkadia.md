@@ -1,10 +1,10 @@
 ---
-type: location
-subtypes: [plane]
+type: "location"
+subtypes: ["plane"]
 session_introduced: "001"
-sessions_appeared: ["001", "022", "031", "032", "033", "035", "036"]
+sessions_appeared: ["001", "022", "031", "032", "033", "035", "036", "037"]
 aliases:
-  - Arcadia
+  - "Arcadia"
 related:
   - "[[Vokenar]]"
   - "[[Lyngbakr]]"
@@ -36,4 +36,8 @@ Ceril returned to Stark through one of the last wounds still open in Arkadia's d
 
 ## Session 036
 
-The party's descent into the [[Gray Wastes]] confirmed a separate lower plane beneath [[Stark]]. [[Vokenar]] sighted [[Gaokerena]] there, and [[Sigil]] identified it as the tree of all worlds. It is the same tree [[Ceril]] visited in Arkadia in session 032; its roots extend through Stark into the lower plane. This establishes the tree's reach across the planes without establishing a traversable route along it.
+The party's descent into the [[Gray Wastes]] confirmed a separate lower plane beneath [[Stark]]. [[Vokenar]] sighted [[Gaokerena]] there, and [[Sigil]] identified it as the tree of all worlds. It is the same tree [[Ceril]] visited in Arkadia in session 032; its roots extend through Stark into the lower plane. At that point, the tree's reach across the planes was established, but the party had not yet found a traversable route through it.
+
+## Session 037
+
+[[Ceril]] opened a passage through [[Gaokerena]] from the [[Gray Wastes]] using Transport via Plants, and [[Vokenar]] accompanied him. They met [[Aeris]] and [[Sigil]] near the recovering [[Crone]]. Aeris bestowed [[Ceril's Star]], after which the pair returned through the tree to the party.

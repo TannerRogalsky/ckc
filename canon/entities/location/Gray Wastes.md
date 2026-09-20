@@ -1,8 +1,8 @@
 ---
-type: location
+type: "location"
 subtypes: ["plane"]
 session_introduced: "036"
-sessions_appeared: ["036"]
+sessions_appeared: ["036", "037"]
 aliases:
   - "Gray Waste"
   - "Grey Wastes"
@@ -24,3 +24,9 @@ In session 036, the party entered through a purple worm's tunnel beneath [[The F
 The Gray Wastes occupy a lower position corresponding to [[Arkadia]] above Stark. They are distinct from hell and are part of the reality recycled by [[Genesis Mundi]]. Their possible existence as another version of Stark remains speculation.
 
 [[Kerben]] saved [[The Opal]] from a fall with a summoned roc. The ship glided down and then sailed across the soft dust, using its sails and a wind-providing genie. The party traveled east, tracing [[Starfall]]'s old firing scars toward Axis Mundi, and sighted [[Gaokerena]]. They had not reached the weapon or the tree by the end of the session.
+
+## Session 037
+
+[[The Opal]] crossed the powder desert and reached living land around [[Gaokerena]]. [[Ceril]]'s planting for [[Aeris]] had spread into a forest with varied vegetation and wildlife, demonstrating that a flourishing ecosystem could take root in the lower plane with divine aid.
+
+A path through this forest led to [[Axis Mundi]], where [[Starfall]] was destroyed and the party faced the returning [[Vanir]].

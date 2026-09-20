@@ -282,7 +282,7 @@ Source: [[chunks/sessions_001-0010]].
 - [[Obould]] proposed rafting the surviving hobgoblin out to sea as a calling card from [[The Opal]]. He sent the party aboard the [[Gheister]] to chase the hobgoblins' second ship.
 - The party found the hobgoblins' second vessel adrift and discovered the [[Warg Lord]] below decks — a massive fey creature with a bear-wolf body and goblin face whose howl terrified and battered the party.
 - [[Ceril]]'s Moonbeam stripped the Warg Lord's goblin features to reveal its true beast form. The party overcame the creature, and [[Kerben]] delivered the killing shot.
-- The captured ship was originally named "Eschaton" ("end times" in Fae), later renamed [[The Hideous Truth]]. With the Opal, the Gheister, and The Hideous Truth, [[Obould]] effectively became Commodore. The party recovered gold from crates lost overboard during the Warg Lord's howl.
+- The captured ship was renamed [[The Hideous Truth]]. With the Opal, the Gheister, and The Hideous Truth, [[Obould]] effectively became Commodore. The party recovered gold from crates lost overboard during the Warg Lord's howl.
 
 ### Chunk 0002
 
@@ -548,11 +548,11 @@ Source: [[chunks/sessions_001-0010]].
 - [[Vokenar]]'s Legend Lore reveals the Tome is made of 666 pages, each from a different wizard's soul, and returns to hell if destroyed. Farraday can only capture knowledge through death. The temple's interior mirrors its state in hell and contains traps.
 - The party decides to head to [[Broy]] first to rescue [[Obould]], based on the then-known deadline, and return to the pyramid later.
 - That night, [[Theo Harvey]] reveals to [[Domyx]] that [[The Carrot Cake]] was powered by [[Penumbra]] and is a maze of illusions and arcane traps. [[Vizier Jade]] sent [[The Tyrant]] to find it; the Tyrant never returned.
-- A fierce storm strikes as the party approaches the coast of [[Broy]]. Two titans appear: [[Baron Akathian the Second]], a cloud titan, and an unnamed female frost titan.
-- Baron Akathian is a relation to [[Domyx]]'s bloodline and calls him "great nephew abomination." The titans attack the party aboard [[The Opal]], acting under orders from a higher power.
-- [[Domyx]] uses Enlarge to match the titans' size and fights Baron Akathian. He steadies [[The Opal]] with his massive form, preventing it from capsizing.
-- The party defeats Baron Akathian and heals both titans.
-- The titans depart peacefully heading north toward [[Thalasia]], the continent where Domyx's people live. Baron Akathian gives Domyx a map showing a path through hills into the titan homeland.
+- A fierce storm strikes as the party approaches the coast of [[Broy]]. Two titans appear: [[Farron Acathian II]], a cloud titan, and [[Zohai Lapis]], a female frost titan.
+- Farron Acathian II is a relation to [[Domyx]]'s bloodline and calls him "great nephew abomination." The titans attack the party aboard [[The Opal]], acting under orders from a higher power.
+- [[Domyx]] uses Enlarge to match the titans' size and fights Farron Acathian II. He steadies [[The Opal]] with his massive form, preventing it from capsizing.
+- The party defeats Farron Acathian II and heals both titans.
+- The titans depart peacefully heading north toward [[Thalasia]], the continent where Domyx's people live. Farron Acathian II gives Domyx a map showing a path through hills into the titan homeland.
 - The party docks [[The Opal]] near the coast of [[Broy]]. [[Kerben]] stays behind to guard the ship.
 - The remaining party members disembark and cross a waterway using a wrecked boat as a bridge.
 - They encounter a human and tiefling woman surrounded by [[Oni]] demons on slick stone. The human shouts to his wife "stay back, I will protect you." [[Vokenar]] intervenes to protect the civilians, and combat begins.
@@ -566,7 +566,7 @@ Source: [[chunks/sessions_001-0010]].
 - Naomi Ue operates as an underground fixer, absolving criminal records through magically stamped documents in coordination with an armored elf government associate.
 - The party pays Naomi Ue 10 pounds of mithril to clear their automated oni warrants.
 - [[Vanzia Vinfei]] — who escaped [[Brimbolyn]] with [[Ceril]] decades earlier — is reunited with Ceril. She now operates alongside Naomi Ue in the [[Broyish Capital]].
-- Vanzia confirms [[Obould]] is held by [[Vizier Jade]] as prisoner of war and leverage against [[The League of New Stark]]. She offers to lead the party to Obould but warns Vizier Jade must be confronted first.
+- Vanzia Vinfei confirms [[Obould]] is held by [[Vizier Jade]] as prisoner of war and leverage against [[The League of New Stark]]. She offers to lead the party to Obould but warns Vizier Jade must be confronted first.
 - The party learns the capital has magic restrictions: permanent dead magic zones in hotels and fields suppressing spells below 7th level. Spell scrolls are contraband.
 - [[Red Caesar]] receives citizenship papers and a teleport circle scriptum back to [[Brimbolyn]]. At the [[Dawn Market]], he meets [[Qian Hu]], an ancient-world survivor who recognizes him as a member of [[Heaven's Bulb]].
 - The party explores the diverse Dawn Market and considers outfitting [[The Opal]] with cannons.
@@ -588,8 +588,8 @@ Source: [[chunks/sessions_001-0010]].
 ### Chunk 0000
 
 - [[Kerben]], serving as acting captain of [[The Opal]], secretly freed [[Theo Harvey]] in exchange for the [[Gheister]] and information about [[The Carrot Cake]].
-- Theo revealed that [[Jack Harvey]] collected [[Penumbra]] shards when the sky first broke and hid them within the Carrot Cake as a safeguard. The Carrot Cake exists as a demi-plane accessible only from the first day of the fifth moon through the last day of the ninth moon.
-- Theo provided a map showing the Carrot Cake's location on the rear side of the central mountain of [[Thalasia]].
+- Theo revealed that [[Jack Harvey]] collected [[Penumbra]] shards when the sky first broke and hid them within The Carrot Cake as a safeguard. The Carrot Cake exists as a demi-plane accessible only from the first day of the fifth moon through the last day of the ninth moon.
+- Theo provided a map showing The Carrot Cake's location on the rear side of the central mountain of [[Thalasia]].
 - Kerben arranged the escape by giving [[Mobley]] a sedative-laced carrot tea recipe, dulling the crew during their evening in the mess hall. He staged the brig to look like a violent escape.
 - Theo boarded the [[Gheister]] under cover of fog and darkness, departing without revealing his destination.
 - [[Domyx]] was the first to discover the empty brig, finding pry marks and tooth marks on the wooden posts. [[Raxxy]] was found delirious from the sedated carrot tea.
@@ -601,8 +601,8 @@ Source: [[chunks/sessions_001-0010]].
 - Ceril cast Plant Growth to grow food for Aeris; Vokenar cast Continual Flame to leave her a source of light.
 - The party discovered the [[Gheister]] was missing alongside Theo.
 - [[Domyx]] explored the [[Broyish Capital]] and encountered [[Fharan]], who explained the Empire's diversity policy and revealed a broader titan folk diaspora.
-- [[Red Caesar]] expressed skepticism about Theo's Carrot Cake map, questioning whether Theo had bluffed about Penumbra being there.
-- The party planned to head north to [[Thalasia]] to visit Domyx's people (eight-day journey), then swing through southern waters for resources before the Carrot Cake became accessible in 31 days.
+- [[Red Caesar]] expressed skepticism about Theo's The Carrot Cake map, questioning whether Theo had bluffed about Penumbra being there.
+- The party planned to head north to [[Thalasia]] to visit Domyx's people (eight-day journey), then swing through southern waters for resources before The Carrot Cake became accessible in 31 days.
 
 ### Chunk 0001
 
@@ -720,7 +720,7 @@ Source: [[chunks/sessions_001-0010]].
 - [[Ceril]] visits [[Gilder Savar]] at [[Savar Brews]]. Now a lich, his former traveling partner recognizes Ceril from their shared escape from [[Brimbolyn]], and Ceril purchases protective and emergency-use supplies.
 - [[The Opal]] is fully repaired and upgraded with a new steering mechanism and crow's nest.
 - The party confirms [[The Hideous Truth]] remains hidden in its grotto, now more overgrown.
-- After a three-day sail, the party arrives at [[The Carrot Cake]]. The entrance is a man-made lagoon with illusions recently dissipated, leading to a giant carrot entrance marked with the "40 Carats" logo.
+- After a three-day sail, the party arrives at [[The Carrot Cake]]. The entrance is a man-made lagoon with illusions recently dissipated, leading to a giant carrot entrance marked with the logo of The Carrot Cake.
 - A [[Magen]] in rabbit form — likely a construct of [[Jack Harvey]] — welcomes the party with the words "come one, come all and welcome to the 40 carats, let the dance begin."
 - Undead in tattered orange uniforms — mummies and revenants — rise from the ground and attack the party. The party defeats them; mummies retreat into the mud and revenants are killed.
 
@@ -737,7 +737,7 @@ Source: [[chunks/sessions_001-0010]].
 
 - The party defeats the [[Haunted Living Tent]], a gargantuan creature that siphons victims into an extra-dimensional tea cozy house. Sustained damage from inside and out causes it to deflate and disintegrate.
 - [[Red Caesar]] and [[Kerben]] recover [[Jack Harvey's Portrait]] from inside the tent before the extra-dimensional space collapses.
-- The party enters a large courtyard with a sealed gate bearing the "40 Carats" logo and warding sigils. Four holes in the ground serve as portals to different park zones.
+- The party enters a large courtyard with a sealed gate bearing the logo of The Carrot Cake and warding sigils. Four holes in the ground serve as portals to different park zones.
 - A [[Magen]] explains that four lamps must be lit to access [[Jack Harvey]]'s inner sanctum. It describes the four portal destinations: [[Magic Hat]], [[Hole Shebang]], [[King of the Hole]], and [[Hole on Wheels]].
 - [[Red Caesar]] impulsively jumps into the Hole Shebang portal first. The rest of the party wards the entrance, then follows.
 - [[Domyx]] finds a dead adventurer's belongings, including a [[Ranger Scroll]] for [[Kerben]].
@@ -838,7 +838,7 @@ Source: [[chunks/sessions_001-0010]].
 
 ### Chunk 0002
 
-- The party advanced through [[Hole on Wheels]], finding preserved carrot tea, a Mass Healing Word scroll, an old [[Stark]] travelogue, and a framed rendering of the Carrot Cake midway.
+- The party advanced through [[Hole on Wheels]], finding preserved carrot tea, a Mass Healing Word scroll, an old [[Stark]] travelogue, and a framed rendering of The Carrot Cake midway.
 - [[Vokenar]] used divine blades to tear open the train roof and scatter enemies through the cars.
 - The party reached the front car and confronted the [[Vampiric Nightbringer]], a vampire lord controlling the train.
 - [[Red Caesar]] opened the front window to sunlight, and Ceril later tore open the roof with lightning to expose the vampire further.
@@ -928,8 +928,8 @@ Source: [[chunks/sessions_001-0010]].
 ### Chunk 0001
 
 - [[Kerben]] discovers that his ranger egg can conceal [[The Opal]] and crew in extradimensional space.
-- [[Vizier Jade]] fakes Domyx's death and frees him from Shen's custody.
-- [[Red Caesar]], Ceril, and Kerben expose the [[Broyish Capital]]'s false sky and spark an uprising with [[Naomi Ue]]'s help; Shen and Jade flee to [[Starfall]].
+- [[Vizier Jade]] fakes Domyx's death and frees him from Emperor Shen's custody.
+- [[Red Caesar]], Ceril, and Kerben expose the [[Broyish Capital]]'s false sky and spark an uprising with [[Naomi Ue]]'s help; Emperor Shen and Vizier Jade flee to [[Starfall]].
 - The party recovers Domyx and Vokenar's body from the Dawn Palace.
 
 ### Chunk 0002
@@ -1051,3 +1051,33 @@ Source: [[chunks/sessions_001-0010]].
 - Kerben, [[Ceril]], and Red Caesar scout from the roc, using Starfall's firing scars to refine the course.
 - The roc returns its riders and departs freely.
 - Vokenar sights [[Gaokerena]], which [[Sigil]] identifies as the tree of all worlds extending from [[Arkadia]] through [[Stark]] into the Gray Wastes.
+
+## Session 037
+
+### Chunk 0000
+
+- The party repels imperial boarders on [[The Opal]]; its consecration excludes their fiendish reinforcements. A captive reveals [[Emperor Shen]]'s plan to destroy [[Sigil]] that day before a secrecy condition petrifies him.
+- [[Crone]] tells [[Vokenar]] that Emperor Shen is waiting for [[Domyx]], and directs the party to [[Gaokerena]] for help.
+- The Opal anchors beside Gaokerena. [[Ceril]] learns that his planting for [[Aeris]] restored the tree's lower growth and created a living forest in the [[Gray Wastes]].
+- Ceril and Vokenar pass through the tree to [[Arkadia]], where Aeris grants [[Ceril's Star]], a blessing that can suspend time for the party's recuperation.
+- The party follows tracks through the forest toward [[Starfall]].
+
+### Chunk 0001
+
+- At [[Axis Mundi]], Emperor Shen claims Starfall's power will make Domyx divine and demonstrates his own invulnerability.
+- [[Red Caesar]] proposes a new future for [[Broy]] with [[Vizier Jade]]. She arranges to be restrained so Emperor Shen must load Starfall himself; he petrifies her.
+- The final ammunition proves to be [[Antumbra]]. Emperor Shen loads it, destroying Starfall and losing his invulnerability before he can fire at Sigil.
+- [[Farron Acathian II]] and [[Zohai Lapis]] defend Emperor Shen. The party defeats Farron Acathian II and the titan ghosts Emperor Shen summons.
+
+### Chunk 0002
+
+- [[Kerben]] kills Zohai Lapis, and Domyx defeats Emperor Shen, who calls on the [[Vanir]] before dying.
+- Vokenar frees Vizier Jade from petrification. Bereft of her former magic, she warns that the old gods are returning; her permanent ward still prevents magical escape.
+- [[Entropie]] and [[Dunkelkalt]] manifest and attack the party.
+- Kerben kills Dunkelkalt while the battle with Entropie continues.
+
+### Chunk 0003
+
+- The party defeats Entropie, whose final Wish brings forth the last Vanir, likely [[Domyx I]]. The final manifestation's identity remains provisional.
+- The last Vanir rises in a colossal form resembling Domyx and Emperor Shen as four unexplained obelisks emerge. The returning gods threaten the party for serving the three sister goddesses.
+- Ceril's Star remains unused; the confrontation and Aeris's mortal fate remain unresolved.

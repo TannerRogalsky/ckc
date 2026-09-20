@@ -1,10 +1,10 @@
 ---
-type: item
-subtypes: [magic-item]
+type: "item"
+subtypes: ["magic-item"]
 session_introduced: "034"
-sessions_appeared: ["034"]
+sessions_appeared: ["034", "037"]
 aliases:
-  - Ion of Crimson Dreams
+  - "Ion of Crimson Dreams"
 related:
   - "[[Red Caesar]]"
   - "[[Cutlass Cray]]"

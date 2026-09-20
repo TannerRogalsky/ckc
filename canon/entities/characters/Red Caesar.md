@@ -1,8 +1,8 @@
 ---
-type: character
-subtypes: [party-member]
+type: "character"
+subtypes: ["party-member"]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033", "034", "035", "036"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033", "034", "035", "036", "037"]
 related:
   - "[[Antumbra]]"
   - "[[Heaven's Bulb]]"
@@ -32,7 +32,7 @@ related:
   - "[[Damien Ouranous]]"
   - "[[The League of New Stark]]"
   - "[[Starfall]]"
-  - "[[Baron Akathian the Second]]"
+  - "[[Farron Acathian II]]"
   - "[[Broy]]"
   - "[[Keys Caeradel]]"
   - "[[Illidrielle Gandara]]"
@@ -122,7 +122,7 @@ The party split into two groups. [[Red Caesar]] and [[Ceril]] used Teleportation
 
 Red Caesar was given lodging (room 17) and permission to stay as long as they liked.
 
-Red attempted to steal a portrait of [[Lady Jacinthe]] to aid [[Ceril]]'s scrying. After being refused by a guard, Red created a loud distraction in the lounge, shattering porthole windows and causing a commotion across the ship. While guards rushed toward the noise, [[Ceril]] stole the portrait. Red was apprehended by [[Damien Ouranous]] and tasked with cleaning up the mess. He paid for the broken windows using old Cadenite coins.
+Red attempted to steal a portrait of [[Lady Jacinthe]] to aid [[Ceril]]'s scrying. After being refused by a guard, Red created a loud distraction in the lounge, shattering porthole windows and causing a commotion across the ship. While guards rushed toward the noise, [[Ceril]] stole the portrait. Red was apprehended by [[Damien Ouranous]] and tasked with cleaning up the mess. He paid for the broken windows using old Kaedon coins.
 
 After Ceril's successful scrying revealed Jacinthe's secret meeting with [[Vizier Jade]], Red shared the information with the full party. He and Ceril left a message for Damien hidden in the stolen painting, then used a teleport circle to travel to [[Brimbolyn]]. There they arrived at [[House Kiirnodel]]'s teleport circle, which was enclosed in an Otiluke blast shield. [[Rizolvir Kiirnodel]] and [[Feronia Caeradel]] recognized them. Red reported that [[Boril Erendel]] had gone "off the rails" with wild ideas at [[The Garden]], prompting Rizolvir to agree to send someone to check on him. Red then traded [[The Jewel of Alfheimer]] at the [[Elvish Marketplace]] for the [[Boots of the Alvargard]]. He also purchased [[Cloaks of Billowing]] for the entire party.
 
@@ -134,19 +134,19 @@ The party discovered the entrance to the Harengon warrens — a hole beneath a b
 
 ## Session 023
 
-During the voyage to [[Broy]], Red helped track the titans during the storm, discovering two targets approaching from the starboard side. He also helped [[Domyx]] match the titans' size during the fight with [[Baron Akathian the Second]].
+During the voyage to [[Broy]], Red helped track the titans during the storm, discovering two targets approaching from the starboard side. He also helped [[Domyx]] match the titans' size during the fight with [[Farron Acathian II]].
 
 Upon disembarking near [[Broy]], Red helped engage the [[Oni]] demons threatening the human and tiefling civilians.
 
 In the [[Broyish Capital]], Red helped defeat the oni near the coast, then acquired citizenship papers from [[Vanzia Vinfei]] and received a teleport circle scriptum back to [[Brimbolyn]]. He explored the [[Dawn Market]], meeting [[Qian Hu]] — an ancient-world survivor who recognized him as a member of [[Heaven's Bulb]].
 
-The party entered the imperial palace and was granted audience with [[Vizier Jade]]. Red attempted to negotiate [[Obould]]'s freedom by offering to teach the Empire how to synthesize penumbra from water. Jade read his thoughts directly and caught the deception, noting he had no solid plan in place. Red then pivoted to offering to procure penumbra over time. Jade demanded fifteen pieces — the same deal made with [[The League of New Stark]]. When Obould was brought before them, Red offered to part with one piece of penumbra to secure his captain's freedom, but Jade raised the price back to fifteen. Red departed the palace recognizing that Jade was conserving energy and keeping them alive as a resource.
+The party entered the imperial palace and was granted audience with [[Vizier Jade]]. Red attempted to negotiate [[Obould]]'s freedom by offering to teach the Empire how to synthesize penumbra from water. Vizier Jade read his thoughts directly and caught the deception, noting he had no solid plan in place. Red then pivoted to offering to procure penumbra over time. Vizier Jade demanded fifteen pieces — the same deal made with [[The League of New Stark]]. When Obould was brought before them, Red offered to part with one piece of penumbra to secure his captain's freedom, but Vizier Jade raised the price back to fifteen. Red departed the palace recognizing that Vizier Jade was conserving energy and keeping them alive as a resource.
 
 ## Session 024
 
-After the party returned to [[The Opal]], Red discovered that [[Theo Harvey]] had escaped and the [[Gheister]] was missing. He returned to the ship and found the crew discussing the situation. Red was skeptical about Theo's map to [[The Carrot Cake]], questioning whether Theo had simply bluffed about [[Penumbra]] being there because he knew what the party was looking for. The party had 31 days before the Carrot Cake's demi-plane opened, giving them time to pursue other quests first. Red agreed with the plan to head north to [[Thalasia]] to visit [[Domyx]]'s people, then swing through southern waters for resources.
+After the party returned to [[The Opal]], Red discovered that [[Theo Harvey]] had escaped and the [[Gheister]] was missing. He returned to the ship and found the crew discussing the situation. Red was skeptical about Theo's map to [[The Carrot Cake]], questioning whether Theo had simply bluffed about [[Penumbra]] being there because he knew what the party was looking for. The party had 31 days before The Carrot Cake's demi-plane opened, giving them time to pursue other quests first. Red agreed with the plan to head north to [[Thalasia]] to visit [[Domyx]]'s people, then swing through southern waters for resources.
 
-The party reviewed available quests and committed to a route north. [[Red Caesar]] sequestered himself to work on manufacturing a fake [[Penumbra]] as a bargaining chip against [[Vizier Jade]], feeling more determined than usual — partly motivated by his dislike of Jade and her cruelty to [[Obould]].
+The party reviewed available quests and committed to a route north. [[Red Caesar]] sequestered himself to work on manufacturing a fake [[Penumbra]] as a bargaining chip against [[Vizier Jade]], feeling more determined than usual — partly motivated by his dislike of Vizier Jade and her cruelty to [[Obould]].
 
 ## Session 025
 
@@ -180,7 +180,7 @@ In [[King of the Hole]], Red used his final Potion of Longstrider to boost his s
 
 Red Caesar helped complete the [[King of the Hole]] arena and pushed the party into [[Hole on Wheels]] before the [[Broyish Empire]] could overrun [[The Opal]]. On the train, he protected [[Domyx]] from domination, used a scroll to blow out the front window and expose the vampire lord to sunlight, and helped defeat the [[Vampiric Nightbringer]]. He then studied the train controls, accelerated the train around its ocean loop, and flipped the final lamp switch, opening [[Jack Harvey]]'s inner sanctum elsewhere in [[The Carrot Cake]].
 
-After the portal paintings were dispelled and the party was trapped on the train, Red Caesar was forced into a magical version of a [[Heaven's Bulb]] memory. [[Vizier Jade]] and [[Emperor Shen]] intruded into the dream, searching his memories while the party slept. Shen revealed that the Empire was hunting the newly accessible [[Penumbra]] and threatened [[Obould]] before leaving. Red Caesar then cast True Seeing on his younger self, who identified Mending as the missing mundane principle in Red Caesar's Penumbra work. This completed [[Obvolvo Caelum]], a spell that can condense Penumbra and make [[Akasha]]-to-Penumbra synthesis far more flexible.
+After the portal paintings were dispelled and the party was trapped on the train, Red Caesar was forced into a magical version of a [[Heaven's Bulb]] memory. [[Vizier Jade]] and [[Emperor Shen]] intruded into the dream, searching his memories while the party slept. Emperor Shen revealed that the Empire was hunting the newly accessible [[Penumbra]] and threatened [[Obould]] before leaving. Red Caesar then cast True Seeing on his younger self, who identified Mending as the missing mundane principle in Red Caesar's Penumbra work. This completed [[Obvolvo Caelum]], a spell that can condense Penumbra and make [[Akasha]]-to-Penumbra synthesis far more flexible.
 
 ## Session 031
 
@@ -213,3 +213,9 @@ Red Caesar's attempt to teleport to [[Axis Mundi]] failed. After Vokenar's plana
 With [[Domyx]]'s ancestral song supporting him, Red Caesar used the Contact Other Plane page recovered from the [[Tome of Satariel]] to seek directions among the fallen [[Vanir]]. The contact incapacitated him and brought him before [[Domyx I]] in the [[Gray Wastes]]. Domyx I attacked the goddesses' rule and promised renewed titan dominion in a future cycle. Red Caesar resisted pressure to reveal the [[Demi-Spell]], keeping it intact and concealed until [[Vokenar]] restored him.
 
 After physically crossing into the Gray Wastes, Red Caesar recognized the desert from the vision. He proposed finding [[Starfall]] by tracing its old shots through the lower sky. Scouting on [[Kerben]]'s summoned roc with [[Ceril]], he distinguished firing scars from natural features and helped guide [[The Opal]] east toward [[Axis Mundi]].
+
+## Session 037
+
+At [[Axis Mundi]], Red Caesar privately contacted [[Vizier Jade]] through a telepathic bond and proposed rebuilding [[Broy]] with her beyond [[Emperor Shen]]'s destructive ambitions. At her request he restrained her, forcing Emperor Shen to load [[Starfall]] himself. She accepted petrification to enable the plan and cautioned Red Caesar against following the emperor's path.
+
+The [[Antumbra]] Red Caesar helped create finally destroyed Starfall. He then helped the party defeat Emperor Shen's allies and the returning [[Vanir]], but [[Entropie]]'s last Wish brought forth the last Vanir, likely [[Domyx I]]. [[Kerben]] passed him the [[Potion of Eels]] for later use.

@@ -1,12 +1,13 @@
 ---
-type: character
-subtypes: [npc, antagonist]
+type: "character"
+subtypes: ["npc", "antagonist"]
 session_introduced: "011"
-sessions_appeared: ["011", "013", "023", "024", "026", "030", "031", "032", "033", "034", "035", "036"]
+sessions_appeared: ["011", "013", "023", "024", "026", "030", "031", "032", "033", "034", "035", "036", "037"]
 aliases:
   - "Domyx's Ancestor"
   - "Domyx Acathian III"
   - "Domyx III"
+  - "Shen"
 related:
   - "[[Broyish Empire]]"
   - "[[Vizier Jade]]"
@@ -17,9 +18,12 @@ related:
   - "[[Aeris]]"
   - "[[Hole in the Sky]]"
   - "[[Axis Mundi]]"
+  - "[[Vanir]]"
+  - "[[Entropie]]"
+  - "[[Dunkelkalt]]"
 ---
 
-The emperor of [[Broy]], served by [[Vizier Jade]], who acts as his voice and agent. Also known as [[Domyx]]'s Ancestor — the erased sky-touching member of [[Clan Akathia]] that the clan hid from history.
+The emperor of [[Broy]] and [[Domyx]]'s grandfather, formerly served by [[Vizier Jade]]. He is the erased sky-touching member of [[Clan Akathia]] that the clan hid from history. The party killed him at [[Axis Mundi]] in session 037.
 
 A blood relative of [[Domyx]] from [[Clan Akathia]] who touched the sky before Domyx and was banished from his home after [[Touching the Sky]]. [[Sigil]] identified him as the party's greatest enemy, perhaps their only great enemy.
 
@@ -29,7 +33,7 @@ Emperor Shen spoke in Giant's Runic (understood by Domyx and Vizier Jade) and re
 
 Emperor Shen's stated goal is that "our rage will kill the gods." He believes the gods play with mortals like toys and that all suffering in the world is the gods' doing, not humanity's. His final words before falling unconscious were: "Stark will fall, but we will survive. The gods will die. We will live on." He pained himself to speak and collapsed from exhaustion.
 
-What Emperor Shen envisions after the gods' deaths is unclear. He has not described any plan for governance, reconstruction, or the world that follows. His worldview is purely negative — defined by what he wants destroyed rather than what he wants built. [[Domyx]] surmised that Emperor Shen wants to be "the only one allowed to" touch the sky, implying a desire for exclusive power over the heavens, but this was Domyx's interpretation, not Emperor Shen's own words.
+Before the confrontation at [[Axis Mundi]], Emperor Shen's plans after the gods' deaths remained unclear. In session 037 he explicitly described a divine titan dynasty descending from [[Domyx]], while confirming his desire to prevent others from gaining power through [[Touching the Sky]].
 
 In session 024, [[Ceril]] and [[Vokenar]] were drawn into a shared vision of [[Aeris]]'s mortal body, which had been imprisoned for sixty to eighty years by Emperor Shen. He captured her and broke her into pieces so no one else could have her power. Her body is trapped at the center of the [[Starfall]] device, aging and weakening in captivity.
 
@@ -56,3 +60,13 @@ After Domyx swapped places with Obould, Emperor Shen seized the caged Domyx and 
 ## Session 034
 
 Emperor Shen's continuing absence left the [[Broyish Empire]] militarily weakened and politically fractured. The former imperial waters emptied, while Broyish towns faced uncertainty over what government or revolutionary force would replace his rule.
+
+## Session 037
+
+Emperor Shen sent a boarding force against [[The Opal]] while waiting beside [[Starfall]] at [[Axis Mundi]]. A captive revealed his intention to destroy [[Sigil]] that day. [[Crone]] explained that his pride delayed the shot until [[Domyx]] arrived.
+
+He told Domyx that he intended to grant him divine power and establish a dynasty ruling the titans, regardless of Domyx's consent. He claimed he had gained his Broyish following through invulnerability and by meeting his followers' demands. Starfall's protection initially made him impervious to Domyx's challenge.
+
+[[Vizier Jade]] covertly arranged for him to load the final ammunition himself. He petrified her for apparent failure, then fed the [[Antumbra]] into Starfall. Its explosion destroyed the weapon and ended his invulnerability.
+
+[[Farron Acathian II]] and [[Zohai Lapis]] lent him protection until the party defeated them. Domyx then defeated Emperor Shen, who called on the [[Vanir]] before dying. [[Entropie]] and [[Dunkelkalt]] then manifested. After their defeat, Entropie's final Wish brought forth the last Vanir, a colossal figure resembling Emperor Shen and Domyx but provisionally identified as [[Domyx I]]. Emperor Shen's own resurrection is not established.

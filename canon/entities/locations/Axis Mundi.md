@@ -1,11 +1,11 @@
 ---
-type: location
-subtypes: [landmark]
+type: "location"
+subtypes: ["landmark"]
 session_introduced: "031"
-sessions_appeared: ["031", "032", "033", "035", "036"]
+sessions_appeared: ["031", "032", "033", "035", "036", "037"]
 aliases:
-  - Axis Mundic
-  - Axis Mundy
+  - "Axis Mundic"
+  - "Axis Mundy"
 related:
   - "[[Starfall]]"
   - "[[Stark]]"
@@ -15,6 +15,8 @@ related:
   - "[[Aeris]]"
   - "[[The Tyrant]]"
   - "[[Gray Wastes]]"
+  - "[[Gaokerena]]"
+  - "[[Vizier Jade]]"
 ---
 
 A place beneath [[Stark]] at the center of the world. In session 031, [[The Tyrant]] revealed that [[Starfall]] is hidden there after [[Red Caesar]] charmed it inside [[Jack Harvey]]'s vault. Red Caesar described it as the place where this world meets the next.
@@ -34,3 +36,11 @@ Direct teleportation failed, confirming that reaching Axis Mundi requires crossi
 The party crossed physically from [[Stark]] into the [[Gray Wastes]] through a purple worm's tunnel below [[The Funnel]]. Axis Mundi lies somewhere in this lower plane, far east of their entry point, approximately beneath [[Broy]].
 
 Mordenkainen's Private Sanctum was identified as the protection preventing both teleportation and planar entry at the destination. [[Red Caesar]] proposed tracing [[Starfall]]'s old shots through the lower sky. With [[Ceril]] and [[Kerben]], he found firing scars and used them to guide [[The Opal]] east. [[Vokenar]] sighted [[Gaokerena]] ahead, but the party had not reached Axis Mundi, and its exact relationship to the tree remained unconfirmed.
+
+## Session 037
+
+The party reached Axis Mundi by following a forest path past [[Gaokerena]]. [[Ceril]]'s planting had grown around [[Starfall]], where [[Emperor Shen]] and [[Vizier Jade]] awaited them.
+
+The [[Antumbra]] destroyed Starfall, scattering its stone supports and tearing up the surrounding vegetation. The party defeated Emperor Shen and his titan allies there, then fought the returning [[Entropie]] and [[Dunkelkalt]].
+
+Vizier Jade confirmed that her permanent Mordenkainen's Private Sanctum still prevented planar travel and teleportation out as well as in. Entropie's final Wish brought forth the last [[Vanir]], likely [[Domyx I]], and four unexplained obelisks rose around the battlefield. The final figure's identity remains provisional.

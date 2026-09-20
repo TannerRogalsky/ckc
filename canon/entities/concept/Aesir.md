@@ -1,8 +1,8 @@
 ---
-type: concept
+type: "concept"
 subtypes: ["lore", "cosmology"]
 session_introduced: "032"
-sessions_appeared: ["032", "036"]
+sessions_appeared: ["032", "036", "037"]
 related:
   - "[[Vanir]]"
   - "[[Aeris]]"

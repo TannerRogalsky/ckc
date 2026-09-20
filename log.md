@@ -296,3 +296,8 @@
 ## [2026-09-20] query | Domyx — Verified the surname adoption in session 034 chunk 0002 and identified the transcript misspelling.
 ## [2026-09-20] update | Domyx — Recorded Spurgruhn as his adopted surname and Spurgroon as a transcript alias across session canon.
 ## [2026-09-20] lint | Domyx — Validated touched canon surfaces, links, frontmatter, index coverage, session structure, and surname usage.
+## [2026-09-20] ingest | Session 037 — Processed four chunks; updated summary, timeline, entities, index, and quest records.
+## [2026-09-20] update | Session 037 — Split completed Starfall sabotage from unresolved Aeris rescue; added Vanir confrontation and Broy reconstruction objectives.
+## [2026-09-20] update | Session 037 — Recorded provisional Domyx I identification and user-supplied lieutenant names and Vanir titles.
+## [2026-09-20] update | Farron Acathian II — Merged Baron Akathian record, preserved appearance history, corrected category, and refreshed canon links.
+## [2026-09-20] lint | Session 037 — Validated canon links, index coverage, frontmatter, preserved histories, session structure, narrative additions, and quest chronology.

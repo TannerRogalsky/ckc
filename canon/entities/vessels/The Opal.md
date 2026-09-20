@@ -1,8 +1,8 @@
 ---
-type: vessel
-subtypes: [ship]
+type: "vessel"
+subtypes: ["ship"]
 session_introduced: "001"
-sessions_appeared: ["013", "015", "016", "024", "025", "026", "027", "030", "031", "032", "033", "034", "035", "036"]
+sessions_appeared: ["013", "015", "016", "024", "025", "026", "027", "030", "031", "032", "033", "034", "035", "036", "037"]
 related:
   - "[[Obould]]"
   - "[[Kerben]]"
@@ -56,3 +56,9 @@ In session 034, Obould permanently resigned and named Kerben captain. Raxxy and 
 The rock began breaking apart. [[Domyx]] braced the ship long enough for the others to board, but it slipped into the sky below and Kerben's attempt to store it again failed. The cause of the storage failure remains unknown.
 
 Kerben summoned a roc to guide the fall. The sails caught wind, the crew activated a wind-providing genie, and the ship glided gently onto fine gray dust that supported sailing. Domyx found the ship largely undamaged; [[Brim the Bullywog]] reported dust flowing through the bilge. The Opal continued east under directions from [[Ceril]] and [[Red Caesar]], who traced [[Starfall]]'s firing scars. [[Vokenar]] sighted [[Gaokerena]] ahead.
+
+## Session 037
+
+Imperial soldiers teleported aboard during the voyage across the [[Gray Wastes]], but [[Vokenar]]'s consecration excluded their fiendish reinforcements. After defeating them, the party used the common area's shared-language magic to question a captive. He revealed [[Emperor Shen]]'s imminent attack on [[Sigil]] before a secrecy condition turned him to stone in the captain's chair.
+
+The Opal reached the living ground around [[Gaokerena]] and anchored at the edge of the dust. The party disembarked to reach [[Axis Mundi]].

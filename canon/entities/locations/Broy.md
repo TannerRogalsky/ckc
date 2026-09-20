@@ -1,8 +1,8 @@
 ---
-type: location
-subtypes: [continent]
+type: "location"
+subtypes: ["continent"]
 session_introduced: "004"
-sessions_appeared: ["013", "023", "025", "034", "036"]
+sessions_appeared: ["013", "023", "025", "034", "036", "037"]
 related:
   - "[[Broyish Empire]]"
   - "[[Emperor Shen]]"

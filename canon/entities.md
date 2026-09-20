@@ -1,15 +1,15 @@
 # Canon Entities
 
 ## Party Members
-- [[Red Caesar]] — Abjurer who resisted Domyx I’s pressure to reveal the Demi-Spell and charts Starfall’s firing scars
-- [[Domyx]] — Titan adventurer who renounced Akathia, adopted Spurgruhn, and confronts his divine ancestry
-- [[Kerben]] — Captain who opened the route into the Gray Wastes and saved The Opal’s descent with a summoned roc
-- [[Ceril]] — Druid and navigator who visited Gaokerena in Arkadia and traces Starfall’s scars in the lower sky
-- [[Vokenar]] — Cleric who restored Red Caesar from divine contact and received Sigil’s identification of Gaokerena
+- [[Red Caesar]] — Abjurer whose Antumbra destroys Starfall; offers Vizier Jade a shared future rebuilding Broy
+- [[Domyx]] — Titan who rejects Emperor Shen's imposed destiny and defeats him before facing the returning Vanir
+- [[Kerben]] — Captain who reaches Gaokerena and kills Zohai Lapis and Dunkelkalt at Axis Mundi
+- [[Ceril]] — Druid whose planting restored Gaokerena; holds an unused star blessing from Aeris
+- [[Vokenar]] — Cleric who frees Vizier Jade and channels Sigil's power against the returning Vanir
 
 ## Crew & Allies
 - [[Obould]] — Retired captain of The Opal, now engaged to Lady Jacinthe and co-leading the League
-- [[Raxxy]] — The Opal’s navigator, who roused its crew during the hazardous deployment above the Gray Wastes
+- [[Raxxy]] — The Opal's navigator and lookout, who announces arrival at Gaokerena
 - [[Otto]] — Ship carpenter and Funnel guide who accompanied the party partway into the deep caverns
 - [[Brim the Bullywog]] — The Opal’s tinkerer, tending its dust-filled bilge while the ship sails the Gray Wastes
 - [[Gammix]] — Dwarf fighter from the Steelfend Clan, recruited ally
@@ -17,20 +17,24 @@
 - [[Rochella Golf]] — Former Opal passenger reunited with her family in Southport and recovered the Boston Golf heirloom
 - [[Trent Indorra]] — Southport sailor and mage who briefly served as The Opal's master gunner
 - [[Ebbie Indorra]] — Southport healer, Trent Indorra's wife, and sister of Lodestar
-- [[Ulrich Fjoller]] — Domyx's friend, freed prisoner, and expectant father who left The Opal with Lorelai
+- [[Ulrich Fjoller]] — Domyx's friend, freed prisoner, and expectant father who left The Opal with Lorelai Lapis-Acathian
 - [[Yalet Mora]] — Stone-bodied crew member who helped keep The Opal afloat during the imperial naval attack
 - [[Aramil Kiirnodel]] — Took power after Queen Caeradwyn fell; primary force behind the Demi-Spell and painter of The Jewel of Alfheimer
 - [[Mobley]] — The cook aboard The Opal; kept the crew fed through the imperial attack aftermath
 - [[Vorgan of the Stage]] — Cutlass Cray actor and new performer aboard The Opal
 
 ## NPCs
-- [[Domyx I]] — Ancient Vanir titan who confronted Red Caesar and promised titan rule after another world cycle
+- [[Farron Acathian II]] — Emperor Shen's cloud titan lieutenant and Domyx's relative, defeated again at Axis Mundi
+- [[Zohai Lapis]] — Emperor Shen's frost titan lieutenant, spared near Broy and later killed by Kerben at Axis Mundi
+- [[Dunkelkalt]] — The Vanir That Eats; two-headed winged god slain by Kerben at Axis Mundi
+- [[Entropie]] — The Vanir That Eats the Stars; its final Wish brings forth the last Vanir, likely Domyx I
+- [[Domyx I]] — Ancient titan god contacted by Red Caesar; likely identity of the last Vanir manifested at Axis Mundi
 - [[Domyx II]] — Titan ancestor whose gold amphora and diamond-set coronet were recovered beneath the Funnel
 - [[Lorelai Lapis-Acathian]] — Domyx's sister and expectant mother who left The Opal with Ulrich
 - [[Gunk Grodley]] — Dapper goblin trader who captains the Goblin Traders' ship
-- [[Vizier Jade]] — Vizier from Broy serving Emperor Shen; mind-reader who killed Vokenar and took his body
+- [[Vizier Jade]] — Former imperial vizier who enables Starfall's destruction, survives petrification, and loses her former magic
 - [[Morel Chainsunder]] — Cult leader controlling the dwarves of Darvinblast
-- [[Emperor Shen]] — Emperor of Broy, Domyx's grandfather, and weakened operator of Starfall
+- [[Emperor Shen]] — Emperor defeated and killed at Axis Mundi after Antumbra destroys Starfall; his death summons the old Vanir
 - [[Fharan]] — Masked human seneschal of the Broyish Empire who died after revealing Starfall's next target
 - [[Master Lee]] — Heaven's Bulb mentor known to Red Caesar, Vizier Jade, and Qian Hu
 - [[Keeper Rufus]] — Figure at Heaven's Bulb alongside Master Lee
@@ -66,7 +70,7 @@
 - [[Clockwork]] — Member of the Dancing Blades thieves guild, imprisoned in Castle Kaedon
 - [[David Harvey]] — Harengon working with The League to reclaim harengon territory
 - [[Theo Harvey]] — Traitor harengon recaptured by the Empire and freed again by Kerben at The Carrot Cake
-- [[Jack Harvey]] — Famous Kaedon-era entrepreneur whose Carrot Cake vault preserved the Penumbra that repaired the sky
+- [[Jack Harvey]] — Famous Kaedon-era entrepreneur whose vault in The Carrot Cake preserved the Penumbra that repaired the sky
 - [[Feronia Caeradel]] — Drow leader, mother of Keys Caeradel and former wife of the Rakshasa
 - [[Rizolvir Kiirnodel]] — Son of Aramil Kiirnodel and House Kiirnodel leader who honored the bargain to delay the Demi-Spell
 - [[Solar Flare]] — Tall woman with shining light seen by Vokenar 60 years ago
@@ -93,7 +97,7 @@
 - [[Farraday]] — Kerben's former employer, Jack Harvey's fiendish benefactor, and keeper of the destroyed Tome of Satariel
 - [[Sunspite]] — Entity that hates the sun and wanted Castle Kaedon sunk
 - [[Rakshasa]] — Divine being and father of Keys Caeradel, now traveling as a soul bound into his son’s amulet
-- [[Boston Golf]] — Old Carrot Cake acting-troupe figure represented by a Magic Hat fortune-teller automaton
+- [[Boston Golf]] — Former acting-troupe figure from The Carrot Cake represented by a Magic Hat fortune-teller automaton
 
 
 ## Creatures & Companions
@@ -150,12 +154,11 @@
 - [[Chain Devil]] — Devil composed entirely of chains with an unnerving gaze that inflicts supernatural fear
 - [[Hezru]] — Large orange toad-like monster with bull horns and a nauseating stench aura
 - [[Harengon]] — Rabbit-like species with fuzzy orange fur and rapid reproduction
-- [[Baron Akathian the Second]] — Cloud titan related to Domyx's bloodline; attacked the party then departed peacefully
 - [[Oni]] — Fiendish horned demons serving as imperial guards for the Broyish Empire
 - [[The Tyrant]] — Vizier Jade's undead beholder-like servant found in Jack Harvey's vault; revealed Starfall's location before being destroyed
 - [[Rimefire Hydra]] — Massive eight-headed frost hydra encountered in the northern straits near Thalasia
-- [[Tatzelwurm]] — Unique white dragon variant near Thalasia that commands terrain weather; defeated by party ambush (alias: Pretzel Worm)
-- [[Remorhaz]] — Huge, heat-exuding voracious creature of the northern territories that ambushes prey (alias: Remoraz)
+- [[Tatzelwurm]] — Unique white dragon variant near Thalasia that commands terrain weather; defeated by party ambush
+- [[Remorhaz]] — Huge, heat-exuding voracious creature of the northern territories that ambushes prey
 - [[Bane Siren]] — Siren dwelling in an underwater garden among Deep Roses; twisted by the Cataclysm, defeated by the party
 - [[PAXO]] — Warforged construct with a reflective faceplate and heat beam attacks; massacred humans in the Southern Archipelago Castle before being defeated by the party
 - [[Witness]] — Construct that mapped all of Stark before the flood; chased away from the Southern Archipelago Castle by PAXO
@@ -163,11 +166,11 @@
 - [[Victor, the Amphibious Beast]] — Kerben's large crocodilian companion, effective on land and in water
 
 ## Locations
-- [[Gray Wastes]] — Lower plane beneath Stark, containing Axis Mundi and a dust desert navigable by The Opal
-- [[Gaokerena]] — Tree of all worlds, first visited by Ceril in Arkadia and later named by Sigil in the Gray Wastes
+- [[Gray Wastes]] — Lower plane containing Gaokerena's restored forest and the battle at Axis Mundi
+- [[Gaokerena]] — World tree restored by Ceril's planting; provides a passage between the Gray Wastes and Arkadia
 - [[Continental Stark]] — Massive elfish continent, last remnant of the Old World, home to Brimbolyn
-- [[Arkadia]] — Upper plane of the goddesses, where Ceril first visited Gaokerena, the tree of all worlds
-- [[Axis Mundi]] — Starfall’s warded location in the Gray Wastes, sought eastward beneath Broy
+- [[Arkadia]] — Upper plane reached through Gaokerena, where Aeris grants Ceril's Star
+- [[Axis Mundi]] — Warded site of Starfall's destruction and the return of the Vanir, with a final confrontation still unresolved
 - [[Darvinblast]] — Underground dwarven city
 - [[The Darvenlast]] — Self-sufficient area within The Deepworlders Delve
 - [[Deep World]] — The underground realm of the dwarves
@@ -222,10 +225,10 @@
 - [[Hole on Wheels]] — Scenic train zone over drowned Esperanto, containing the fourth lamp and a disabled return portal
 
 ## Vessels
-- [[The Opal]] — Kerben’s ship, sailing east across the Gray Wastes after surviving a fall from the hanging islands
+- [[The Opal]] — Kerben's ship, anchored beside Gaokerena after repelling imperial boarders in the Gray Wastes
 - [[Gheister]] — Second ship in Obould's fleet, used as the party's transport to Lyngbakr Lagoon and Castle Kaedon
 - [[The White Drake]] — League flagship and new home of Obould, Lady Jacinthe, and Jack Harvey's portrait
-- [[The Hideous Truth]] — Captured hobgoblin pirate galley, originally named Eschaton, hidden in a jungled grotto
+- [[The Hideous Truth]] — Captured and renamed hobgoblin pirate galley hidden in a jungled grotto
 - [[The Croakborne Carnival]] — Ship of The Order of Seasons
 - [[Gun Balloon]] — Imperial hot air balloon combat platform captured by the party from the Broyish Empire
 - [[Imperial Xihe]] — Broyish Empire flagship that pursued The Opal and assaulted Lyngbakr Lagoon
@@ -240,13 +243,14 @@
 - [[House Kiirnodel]] — Elven aristocratic house encountered in Ceril's escape flashback
 - [[The League of New Stark]] — Maritime organization led by Lady Jacinthe, formerly coerced through Obould's captivity
 - [[The Order of Seasons]] — Elven-led order whose completed Demi-Spell was entrusted to the party instead of cast
-- [[Broyish Empire]] — Xenophobic eastern empire ruled by Emperor Shen, currently retreating during a temporary power vacuum
+- [[Broyish Empire]] — Fractured eastern empire whose vizier defects and emperor dies before the return of the Vanir
 - [[Knights of the Four Seasons]] — Elven marshal service on Continental Stark, led by Marshal Zem
 - [[Goblin Traders]] — Goblin crew operating a red-sailed trading ship on the high seas, selling poisons and magical wares
 - [[Dancing Blades]] — Thieves guild from old Kaedon, members including Clockwork who was imprisoned in Castle Kaedon
 
 ## Items & Concepts
-- [[Vanir]] — Ancient titan gods defeated by the Aesir, whose stone avatars lie deep beneath Stark
+- [[Ceril's Star]] — Aeris's blessing enabling Ceril to suspend time for the party's recovery; unused at session 037's end
+- [[Vanir]] — Old gods returning against the party and its divine patrons; the last manifestation is likely Domyx I
 - [[Aesir]] — Sky goddesses who defeated the Vanir in the ancient struggle for Stark
 - [[Akasha]] — Silvery-white liquid raining from the sky over Continental Stark, connected to Arkadia's oceans
 - [[Moon Mushrooms]] — Hallucinogenic translucent mushrooms in the Continental Stark jungle, harvestable as poison
@@ -272,12 +276,12 @@
 - [[Preparation Melf]] — Throwable sticky acid flask crafted from Black Dragon scales
 - [[The Jewel of Alfheimer]] — Rare landscape painting by Aramil Kiirnodel depicting pre-Cataclysm Brimbolyn
 - [[Mangonel]] — Siege catapult at Castle Kaedon, originally a celebration device with fireworks
-- [[Starfall]] — Weapon at the warded Axis Mundi, located by its firing scars while Aeris remains captive
+- [[Starfall]] — Ancient weapon destroyed by Antumbra before Emperor Shen could fire it at Sigil
 - [[Hole in the Sky]] — Former breach between Stark and Arkadia, sealed by Lyngbakr
 - [[Potion of Soothing Gaze]] — Healing potion that restores 10 HP to drinker and 10 HP to two creatures looked at
 - [[Lady Acelia's Chalice]] — Expertly carved oak chalice with jade insets, once belonging to Lady Acelia
 - [[Deception by Lenth]] — Magical perfume based on Lenth the Rugged's musk that improves deception for a limited time
-- [[Potion of Eels]] — Potion containing swirling black eels that greatly enhances agility for a limited time
+- [[Potion of Eels]] — Agility-enhancing potion transferred from Kerben to Red Caesar at Axis Mundi
 - [[Potion of Clairvoyance]] — Potion granting clairvoyant sight or hearing from a distant location for a limited time
 - [[Gith Shard Glaive]] — Halberd with extended-range psychic cleave, crafted by Sigrid Forgewelt from a Gith Star Gem
 - [[Hopping Mad Sash]] — Magical bunny-tail sash awarded to Domyx after the King of the Hole bonus challenge
@@ -290,9 +294,9 @@
 - [[Mana Sickness]] — Contagious plague spreading through Southport from the Mana Sea; victims fall into impenetrable slumber
 - [[Shark's Edge]] — Kerben's +2 falchion made from a megalodon tooth; reveals water temperature by sight
 - [[Tatzelwurm Gizzard Juice]] — One-use white dragon poison crafted by Kerben from Tatzelwurm scales and darkwood bark
-- [[Antumbra]] — Poisoned, synthesized Penumbra created by Red Caesar, Keys Caeradel, and Illidrielle Gandara; designed to sabotage Starfall
+- [[Antumbra]] — Sabotaged Penumbra whose final deployment destroys Starfall and ends Emperor Shen's invulnerability
 - [[Chart of the Witness]] — Recombined and decoded world chart showing old Stark and the present islands
-- [[Potion of Fluid Adamantite]] — Rare potion granting resistance to all damage for one minute; found in the Southern Archipelago Castle
+- [[Potion of Fluid Adamantite]] — Protective potion consumed by Kerben during the battle with Entropie
 - [[Orkland Pin of Courage]] — Award given to Obould for saving orc tribes in southern battles decades ago
 - [[Obould's Wedding Band]] — Recovered wedding ring used by Obould to renew his proposal to Lady Jacinthe
 - [[The Ascot]] — Kerben’s animal-speaking scarf, whose place-swapping power freed him from a purple worm
@@ -314,8 +318,8 @@
 - [[Kaboom Ring]] — Domyx’s returning boomerang with a thunderous impact
 
 ## Deities
-- [[Aeris]] — Goddess of Chaos, Potential, and Fate; victorious Aesir whose mortal body remains imprisoned in Starfall
-- [[Sigil]] — Goddess of Life, Energy, and Motion who identifies Gaokerena to Vokenar; Starfall’s next target
-- [[Crone]] — Goddess of Time, Death, and Passage; victorious Aesir whose shattered moon can recover
+- [[Aeris]] — Goddess who grants Ceril's Star; her mortal release remains unconfirmed after Starfall's destruction
+- [[Sigil]] — Goddess spared Starfall's planned final shot; her power sustains Vokenar against Entropie
+- [[Crone]] — Wounded goddess recovering in Gaokerena's roots, who guides the party toward aid against Emperor Shen
 - [[Blibdoolpoolp]] — Kuo-Toa deity defeated by the party on Otyugh Isle
 - [[Corellon Larethian]] — Primordial elven deity alluded to by Boril Erendel’s Larethian form

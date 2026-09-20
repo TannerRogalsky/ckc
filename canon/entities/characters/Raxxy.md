@@ -1,11 +1,11 @@
 ---
-type: character
-subtypes: [npc]
+type: "character"
+subtypes: ["npc"]
 session_introduced: "001"
-sessions_appeared: ["001", "015", "021", "024", "029", "031", "034", "036"]
+sessions_appeared: ["001", "015", "021", "024", "029", "031", "034", "036", "037"]
 aliases:
-  - Roxy
-  - Raxi
+  - "Roxy"
+  - "Raxi"
 related:
   - "[[The Opal]]"
   - "[[Kerben]]"
@@ -32,3 +32,7 @@ When [[Obould]] retired and named [[Kerben]] captain, Raxxy chose to remain aboa
 ## Session 036
 
 When [[Kerben]] released [[The Opal]] onto a suspended rock in the [[Gray Wastes]], Raxxy questioned the deployment away from water. Seeing open sky beneath the ship, she roused the crew as the vessel began to slip toward the abyss.
+
+## Session 037
+
+Raxxy announced the arrival at [[Gaokerena]] from [[The Opal]]'s crow's nest as the ship reached the living land in the [[Gray Wastes]].

@@ -1,11 +1,11 @@
 ---
-type: concept
-subtypes: [lore]
+type: "concept"
+subtypes: ["lore"]
 session_introduced: "019"
-sessions_appeared: ["019", "021", "022", "023", "024", "026", "031", "032", "033", "034", "035", "036"]
+sessions_appeared: ["019", "021", "022", "023", "024", "026", "031", "032", "033", "034", "035", "036", "037"]
 aliases:
-  - Star screen
-  - Skyfall
+  - "Star screen"
+  - "Skyfall"
 related:
   - "[[The Cataclysm]]"
   - "[[Broyish Empire]]"
@@ -18,13 +18,14 @@ related:
   - "[[Ceril]]"
   - "[[Vokenar]]"
   - "[[Axis Mundi]]"
+  - "[[Antumbra]]"
 ---
 
-An ancient weapon of celestial origin, now in the possession of the [[Broyish Empire]].
+An ancient weapon of celestial origin formerly controlled by the [[Broyish Empire]], destroyed by [[Antumbra]] in session 037.
 
 Sixty years ago, at the time of [[The Cataclysm]], streaks of light were seen shooting across the heavens from the east. Multiple witnesses — including [[Ceril]], [[Vokenar]], and the deceased of [[Castle Kaedon]] — observed these same streaks. The conjecture, formed in session 021, is that [[Starfall]] was the weapon fired from the east that punched a hole in the heavens, causing the oceans of [[Arkadia]] to pour down through the [[Hole in the Sky]] and triggering the Cataclysm.
 
-The weapon is hidden at [[Axis Mundi]] in the [[Gray Wastes]], approximately beneath [[Broy]]. Reaching it remains a major ongoing quest.
+The weapon stood at [[Axis Mundi]] in the [[Gray Wastes]], approximately beneath [[Broy]], until the party reached and destroyed it.
 
 In session 022, [[Vokenar]] used lore divination to learn more about Starfall. The revelation confirmed that Starfall was created in hell to free demons into the world above. It was able to pierce the membrane between worlds — the same protection that gods have, described as "god's skin." Starfall can punch through even that divine barrier, which is likely why it was able to damage [[Aeris]] and break her apart. Centuries ago, it was brought out of hell and into the world above, then stuck in [[Broy]]. It uses [[Penumbra]] as a fuel source and requires a great deal of magical energy. It was originally used to connect Stark with [[Arkadia]]. The divination could not reveal who brought it out or why, as that information was obscured by divination magic.
 
@@ -53,3 +54,11 @@ The party concluded that the [[Antumbra]] would permanently annihilate Starfall 
 After entering the [[Gray Wastes]], the party determined that Starfall lies far east of the entry point at [[Axis Mundi]], approximately beneath [[Broy]]. Protection identified as Mordenkainen's Private Sanctum blocks magical entry at the destination.
 
 [[Red Caesar]] proposed tracing the weapon's old firing paths through the lower sky. [[Ceril]] identified scars that brightened as the sky darkened, and Red Caesar distinguished likely shots from natural features. The curved paths complicate precise triangulation, but their observations allowed [[The Opal]] to adjust its eastward course. The party sighted [[Gaokerena]] without yet reaching Starfall.
+
+## Session 037
+
+The party reached Starfall at [[Axis Mundi]], beyond [[Gaokerena]]'s living forest. [[Ceril]]'s earlier planting had overgrown the ring and its supports. The device made [[Emperor Shen]] invulnerable while he prepared to fire at [[Sigil]].
+
+[[Vizier Jade]] arranged for Emperor Shen to load the final ammunition himself. That piece was the [[Antumbra]], deliberately reserved until this moment. When he pushed it into the ring, its interior became black and star-filled, trapped his hand briefly, and exploded.
+
+Starfall was completely destroyed. Emperor Shen lost its protection, and the intended shot at Sigil never occurred. [[Aeris]]'s mortal release was not established before the confrontation continued against the [[Vanir]].

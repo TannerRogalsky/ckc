@@ -1,12 +1,12 @@
 ---
-type: item
-subtypes: [artifact]
+type: "item"
+subtypes: ["artifact"]
 session_introduced: "025"
-sessions_appeared: ["025", "034"]
+sessions_appeared: ["025", "034", "037"]
 aliases:
-  - Star Virus
-  - Entumbra
-  - Poisoned Penumbra
+  - "Star Virus"
+  - "Entumbra"
+  - "Poisoned Penumbra"
 related:
   - "[[Penumbra]]"
   - "[[Akasha]]"
@@ -16,6 +16,8 @@ related:
   - "[[The White Drake]]"
   - "[[Broyish Empire]]"
   - "[[Starfall]]"
+  - "[[Vizier Jade]]"
+  - "[[Emperor Shen]]"
 ---
 
 A synthesized, corrupted form of [[Penumbra]] created by [[Red Caesar]] with the help of [[Keys Caeradel]] and [[Illidrielle Gandara]] at [[The Academy]] in [[Brimbolyn]].
@@ -41,3 +43,9 @@ During session 025, the party planted the Antumbra into the hidden [[Penumbra]] 
 [[Aeris]] confirmed through divination that deploying the Antumbra carries no risk of harming the piece of herself trapped within Starfall.
 
 In session 034, [[Red Caesar]] and [[Kerben]] concluded that Starfall consuming the Antumbra would cause both artifacts to annihilate each other permanently. They could not determine whether this had already happened without further divination.
+
+## Session 037
+
+The planted Antumbra reached [[Starfall]] and was deliberately reserved as its final ammunition. [[Vizier Jade]] arranged for [[Emperor Shen]] to load it himself, accepting petrification in the process.
+
+When Emperor Shen fed it into Starfall at [[Axis Mundi]], the device erupted in darkness and was completely destroyed. The sabotage prevented its intended shot at [[Sigil]] and ended Emperor Shen's invulnerability. This confirms the destructive effect predicted in session 034.

@@ -1,10 +1,10 @@
 ---
-type: concept
-subtypes: [lore, cosmology]
+type: "concept"
+subtypes: ["lore", "cosmology"]
 session_introduced: "014"
-sessions_appeared: ["014", "015", "022", "033", "034", "035", "036"]
+sessions_appeared: ["014", "015", "022", "033", "034", "035", "036", "037"]
 aliases:
-  - Demi Spell
+  - "Demi Spell"
 related:
   - "[[The Order of Seasons]]"
   - "[[Genesis Mundi]]"

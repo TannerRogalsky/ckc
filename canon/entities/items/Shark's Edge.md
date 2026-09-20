@@ -1,8 +1,8 @@
 ---
-type: item
-subtypes: [magic-item]
+type: "item"
+subtypes: ["magic-item"]
 session_introduced: "024"
-sessions_appeared: ["024"]
+sessions_appeared: ["024", "037"]
 related:
   - "[[Kerben]]"
   - "[[Crone]]"

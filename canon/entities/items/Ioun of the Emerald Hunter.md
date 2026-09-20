@@ -1,10 +1,10 @@
 ---
-type: item
-subtypes: [magic-item]
+type: "item"
+subtypes: ["magic-item"]
 session_introduced: "034"
-sessions_appeared: ["034"]
+sessions_appeared: ["034", "037"]
 aliases:
-  - Ion of the Emerald Hunter
+  - "Ion of the Emerald Hunter"
 related:
   - "[[Kerben]]"
   - "[[Cutlass Cray]]"

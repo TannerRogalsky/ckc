@@ -1,10 +1,10 @@
 ---
-type: organization
-subtypes: [empire]
+type: "organization"
+subtypes: ["empire"]
 session_introduced: "004"
-sessions_appeared: ["013", "014", "016", "022", "023", "030", "031", "033", "034", "035"]
+sessions_appeared: ["013", "014", "016", "022", "023", "030", "031", "033", "034", "035", "037"]
 aliases:
-  - Dawn Empire
+  - "Dawn Empire"
 related:
   - "[[Emperor Shen]]"
   - "[[Vizier Jade]]"
@@ -36,7 +36,7 @@ The party arrived at the coast of [[Broy]] and disembarked. They encountered [[O
 
 The Empire attacked [[The Opal]] with multiple boats while the party remained inside [[The Carrot Cake]]. [[Kerben]] repelled the first wave but stayed with the ship because a larger force was approaching under cover of the moonless dark created by [[Emperor Shen]]'s attack on the moon.
 
-The Empire also made a direct move inside the Carrot Cake after the party lit all four lamps. Someone dispelled the [[Hole on Wheels]] portal paintings, trapping the party on the train while [[Jack Harvey]]'s inner sanctum opened elsewhere. During the same rest, [[Vizier Jade]] and Emperor Shen intruded into [[Red Caesar]]'s dream, confirming they were searching for the newly accessible [[Penumbra]] while the party was incapacitated.
+The Empire also made a direct move inside The Carrot Cake after the party lit all four lamps. Someone dispelled the [[Hole on Wheels]] portal paintings, trapping the party on the train while [[Jack Harvey]]'s inner sanctum opened elsewhere. During the same rest, [[Vizier Jade]] and Emperor Shen intruded into [[Red Caesar]]'s dream, confirming they were searching for the newly accessible [[Penumbra]] while the party was incapacitated.
 
 ## Session 031
 
@@ -51,3 +51,9 @@ The imperial flagship [[Imperial Xihe]] then reached [[Lyngbakr Lagoon]] with [[
 ## Session 034
 
 With Emperor Shen absent, imperial waters were largely empty and the Broyish towns had entered a period of political confusion. The Empire was militarily weakened, and its prior form of government had collapsed without a clear successor, creating the risk of crime and instability before a new revolutionary force could take hold.
+
+## Session 037
+
+[[Emperor Shen]] sent soldiers to intercept [[The Opal]] in the [[Gray Wastes]] while preparing to destroy [[Sigil]]. The boarding attack failed, and its captured leader was petrified by a secrecy condition after revealing the plan.
+
+At [[Axis Mundi]], [[Red Caesar]] proposed rebuilding the empire with [[Vizier Jade]]. She turned against Emperor Shen and enabled the [[Antumbra]] sabotage of [[Starfall]]. Emperor Shen was killed, after which the old [[Vanir]] returned to attack the party as servants of the three sister goddesses. The last manifestation is provisionally identified as [[Domyx I]]. No new imperial government was established during these events.

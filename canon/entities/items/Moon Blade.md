@@ -1,10 +1,10 @@
 ---
-type: item
-subtypes: [magic-item]
+type: "item"
+subtypes: ["magic-item"]
 session_introduced: "027"
-sessions_appeared: ["027", "035"]
+sessions_appeared: ["027", "035", "037"]
 aliases:
-  - Crone's Lockhammer
+  - "Crone's Lockhammer"
 related:
   - "[[Vokenar]]"
   - "[[Crone]]"

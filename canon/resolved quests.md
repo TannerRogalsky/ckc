@@ -129,3 +129,8 @@
 - **Given by:** [[Keys Caeradel]], [[Rakshasa]]
 - **Resolved:** Session 035
 - **Details:** [[Ceril]] helped pursue the reunion on [[Keys Caeradel]]'s behalf. With [[Farraday]]'s surveillance ended, the [[Rakshasa]] visited his son, [[Keys Caeradel]], at [[The Academy]]. [[Feronia Caeradel]] confirmed their family relationship. After briefly imprisoning his father, Keys Caeradel bound the Rakshasa's soul into an amulet at his father's request and departed intending to see his mother and seek old companions.
+
+## Find and disable Starfall
+- **Given by:** [[Sigil]], [[Crone]], [[Aeris]]
+- **Resolved:** Session 037
+- **Details:** The party reached [[Axis Mundi]] by way of [[Gaokerena]]. [[Vizier Jade]] arranged for [[Emperor Shen]] to load the final ammunition himself, which proved to be the [[Antumbra]] planted in session 025. The resulting explosion completely destroyed [[Starfall]], ended Emperor Shen's invulnerability, and prevented the planned shot at [[Sigil]]. Confirming [[Aeris]]'s mortal release remains a separate active objective.

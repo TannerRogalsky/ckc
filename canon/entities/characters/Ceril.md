@@ -1,8 +1,8 @@
 ---
-type: character
-subtypes: [party-member]
+type: "character"
+subtypes: ["party-member"]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033", "034", "035", "036"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033", "034", "035", "036", "037"]
 related:
   - "[[Vanzia Vinfei]]"
   - "[[House Kiirnodel]]"
@@ -38,12 +38,18 @@ related:
   - "[[Cutlass Cray]]"
   - "[[Lyngbakr]]"
   - "[[Cornucopia of Constellations]]"
+  - "[[Gaokerena]]"
+  - "[[Ceril's Star]]"
 aliases:
-  - Ceril Kel'Navvi
-  - Ceril Kelnavi
-  - Cyril
-  - Cyril Kelnavi
-  - Serral
+  - "Ceril Kel'Navvi"
+  - "Ceril Kelnavi"
+  - "Cyril"
+  - "Cyril Kelnavi"
+  - "Serral"
+  - "Seril"
+  - "Saral"
+  - "Seryl"
+  - "Seril Kelnavi"
 ---
 
 A druid with a shield given by [[Aeris]] that serves as a conduit to the goddess. A pre-[[The Cataclysm]] survivor who fled [[Brimbolyn]] alongside [[Vanzia Vinfei]] decades ago. Communicates with [[Aeris]] through his shield and was drawn into a shared vision with [[Vokenar]] to witness her imprisoned mortal body at the heart of [[Starfall]]. A balanced utility caster whose toolkit spans scouting, divination, environmental manipulation, summoning, and healing.
@@ -66,7 +72,7 @@ Can cast: Plant Growth, Guiding Bolt, Luminous Arrow, Moonbeam (repositionable a
 - Found crates of Deepworlder minted coins with [[Vokenar]] in [[Darvinblast]].
 - Cast Moonbeam during the Darvinblast atrium battle, creating a crescent moon image of [[Crone]] on the ceiling.
 - During the confrontation with [[Morel Chainsunder]], his divination led the party to the hidden shrine/office where the real Morel's skeleton and the binding spell document were found.
-- Contacted [[Aeris]] (Eris) through his shield, enabling five yes/no questions about the curse and the path forward. Noted that the Mirage Arcana illusion over the northern mountains was linked to the curse and had now cleared.
+- Contacted [[Aeris]] through his shield, enabling five yes/no questions about the curse and the path forward. Noted that the Mirage Arcana illusion over the northern mountains was linked to the curse and had now cleared.
 - Landed the finishing blow on the [[Fire Giant]].
 - In gnoll territory, cast Moonbeam centered on [[Domyx]] to trap gnolls inside, then repositioned it as a bonus action to keep enemies trapped. The moonbeam cut a path through a Wall of Fire and sealed back up.
 - During the [[Wyvern]] encounter, summoned an aerial heron and wild shaped into star form to fire Luminous Arrows. Cured [[Domyx]] of poison with Protection from Poison.
@@ -133,13 +139,13 @@ The party sailed to the [[Harengon Warrens]] island and was ambushed by invisibl
 
 During the voyage to [[Broy]], Ceril cast Commune with Nature to locate [[Farraday]]. Dragonflies appeared as indicators that the fiend was within three miles. Ceril discovered a pyramid-shaped landmass approximately 10 miles away — [[Tome Keeper's Pyramid]], created by the [[Arcanoloth]] to house the [[Tome of Satariel]]. The eastern waters retain pre-[[The Cataclysm|Cataclysm]] ecology, with ancient trees visible beneath the waves.
 
-Ceril fought alongside the party against [[Baron Akathian the Second]] and the frost titan during the storm. He repositioned his Moonbeam on the cloud titan and rode on [[Domyx]]'s shoulder during the enlarged titan battle. After the titans departed, the party docked near the coast of [[Broy]].
+Ceril fought alongside the party against [[Farron Acathian II]] and [[Zohai Lapis]] during the storm. He repositioned his Moonbeam on the cloud titan and rode on [[Domyx]]'s shoulder during the enlarged titan battle. After the titans departed, the party docked near the coast of [[Broy]].
 
 Upon disembarking, the party encountered a human and tiefling surrounded by [[Oni]] demons on slick stone. Ceril cast Moonbeam on the nearest oni and helped engage them in combat.
 
-After the oni were defeated, the party learned the human couple was from [[Southport]] seeking a cure for [[Mana Sickness]]. Ceril used his knowledge of nature to identify the herbs they had purchased — wrong herbs for the wrong illness. He identified [[Deep Roses]] as the correct cure and learned the Mana Sickness is contagious and spreading through Southport. He misty-stepped inside [[Vokenar]]'s wall of fire to reach the couple safely. Later, Ceril was reunited with [[Vanzia Vinfei]] in the [[Broyish Capital]] — an old ally from their escape from [[Brimbolyn]] decades ago. Vanzia was now operating alongside [[Naomi Ue]] in the imperial city.
+After the oni were defeated, the party learned the human couple was from [[Southport]] seeking a cure for [[Mana Sickness]]. Ceril used his knowledge of nature to identify the herbs they had purchased — wrong herbs for the wrong illness. He identified [[Deep Roses]] as the correct cure and learned the Mana Sickness is contagious and spreading through Southport. He misty-stepped inside [[Vokenar]]'s wall of fire to reach the couple safely. Later, Ceril was reunited with [[Vanzia Vinfei]] in the [[Broyish Capital]] — an old ally from their escape from [[Brimbolyn]] decades ago. Vanzia Vinfei was now operating alongside [[Naomi Ue]] in the imperial city.
 
-The party entered the imperial palace and was granted audience with [[Vizier Jade]]. Ceril observed Jade's cruelty to [[Obould]] — she forced him to dance in a resilient sphere as entertainment. Ceril attempted to help [[Red Caesar]]'s negotiation by suggesting the party let Obould die, but also urged against giving Jade the secrets to penumbra alchemy, calling it too dangerous. Ceril correctly suspected that Jade might already have killed Obould and was bluffing about his survival.
+The party entered the imperial palace and was granted audience with [[Vizier Jade]]. Ceril observed Vizier Jade's cruelty to [[Obould]] — she forced him to dance in a resilient sphere as entertainment. Ceril attempted to help [[Red Caesar]]'s negotiation by suggesting the party let Obould die, but also urged against giving Vizier Jade the secrets to penumbra alchemy, calling it too dangerous. Ceril correctly suspected that Vizier Jade might already have killed Obould and was bluffing about his survival.
 
 ## Session 024
 
@@ -159,7 +165,7 @@ After [[Domyx]] was swallowed by the Remorhaz, Ceril helped coordinate the rescu
 
 ## Session 025
 
-As the party sailed south from [[Thalasia]], [[Ceril]] used a divine summoning spell to contact [[Aeris]] (also called Eris). She was in a dark, windowless room with a single candle, and Ceril cast Continual Flame to provide her light. Eris confirmed that deploying the [[Antumbra]] would not harm the piece of herself trapped within [[Starfall]].
+As the party sailed south from [[Thalasia]], [[Ceril]] used a divine summoning spell to contact [[Aeris]]. She was in a dark, windowless room with a single candle, and Ceril cast Continual Flame to provide her light. Aeris confirmed that deploying the [[Antumbra]] would not harm the piece of herself trapped within [[Starfall]].
 
 Ceril visited the [[Temple of Sigil]] on Otyugh Isle with [[Domyx]], where they encountered 12 petrified priests and 19 petrified Kuo-Toa who had been turned by a cockatrice. Ceril cast Greater Restoration on [[Father Warrick]], the highest-ranking priest, de-petrifying him first. Father Warrick then used his own abjuration abilities to de-petrify several more priests. The freed priests planned to head to [[Southport]] to help combat the [[Mana Sickness]] plague. Ceril also encountered a cockatrice in the temple and dealt with it during their visit.
 
@@ -212,3 +218,11 @@ Before the descent through [[The Funnel]], Ceril acquired the [[Cornucopia of Co
 Ceril used the [[Cornucopia of Constellations]] to provision the descent through [[The Funnel]]. He noticed gravity weakening underground and, after the party defeated a purple worm, saw the light of a second sky through its tunnel. The party crossed into the [[Gray Wastes]].
 
 Recalling the tree he visited in [[Arkadia]], Ceril considered how its roots might connect the planes. With [[Red Caesar]] and [[Kerben]], he scouted the lower sky from a summoned roc, identifying the bright scars that helped guide [[The Opal]] toward [[Starfall]]. [[Vokenar]] subsequently sighted the tree, and [[Sigil]] named it [[Gaokerena]].
+
+## Session 037
+
+Ceril discovered that the plants he grew to feed [[Aeris]] in session 024 had restored [[Gaokerena]]'s lower growth and spread into a living forest in the [[Gray Wastes]]. What began as an act of care had become an ecosystem of diverse plants and wildlife around the world tree.
+
+Responding to [[Sigil]]'s message in the tree, he opened a passage through Gaokerena with Transport via Plants and brought [[Vokenar]] into [[Arkadia]]. Aeris bestowed [[Ceril's Star]], an enduring celestial mark and a means of suspending time to shelter the party for recuperation.
+
+Ceril helped confront [[Emperor Shen]] and the returning [[Vanir]] at [[Axis Mundi]]. The star remained unused when [[Entropie]]'s final Wish brought forth the last Vanir, likely [[Domyx I]].

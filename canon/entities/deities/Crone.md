@@ -1,12 +1,13 @@
 ---
-type: deity
-subtypes: [goddess]
+type: "deity"
+subtypes: ["goddess"]
 session_introduced: "001"
-sessions_appeared: ["013", "015", "025", "026", "031", "032", "034", "035", "036"]
+sessions_appeared: ["013", "015", "025", "026", "031", "032", "034", "035", "036", "037"]
 aliases:
-  - The Moon
+  - "The Moon"
 related:
   - "[[Aesir]]"
+  - "[[Gaokerena]]"
 ---
 
 One of three sister goddesses alongside [[Aeris]] and [[Sigil]]. Her domain is Time, Death, and Passage of Things. The phase of the moon matters when contacting her. Speaks to [[Vokenar]] during his training in the place outside of time. Works alongside Sigil to prepare Vokenar as a weapon. More measured than her sisters, advocating for giving Vokenar time to understand what he has learned. Refined the elemental constructs Vokenar fights during training. Appears as a crescent moon image on ceilings when [[Ceril]] casts Moonbeam. A single person (the Crone) caused [[The Cataclysm]] and achieved what they desired with it.
@@ -26,3 +27,9 @@ In the debate over the [[Demi-Spell]], [[Ceril]] recalled the gods' assurance th
 ## Session 036
 
 [[Domyx]] recalled Crone, [[Aeris]], and [[Sigil]] as the [[Aesir]] who defeated the [[Vanir]] in the ancient struggle for [[Stark]]. Their enemies' stone avatars lay buried along the party's descent toward the [[Gray Wastes]].
+
+## Session 037
+
+[[Vokenar]] contacted Crone while approaching [[Gaokerena]]. She lay among the tree's roots, held in place while restorative light flowed into her, and remained weak from the attack on the moon.
+
+She confirmed that the party should continue toward the tree and that [[Emperor Shen]] was delaying his attack on [[Sigil]] to confront [[Domyx]]. She said the goddesses could not intervene directly, but [[Ceril]] could draw help from the tree he had restored. She also suggested that [[Vizier Jade]]'s will would eventually resist Emperor Shen's control.

@@ -1,8 +1,8 @@
 ---
-type: concept
-subtypes: [lore, cosmology]
+type: "concept"
+subtypes: ["lore", "cosmology"]
 session_introduced: "014"
-sessions_appeared: ["014", "021", "025", "030", "034"]
+sessions_appeared: ["014", "021", "025", "030", "034", "037"]
 related:
   - "[[Arkadia]]"
   - "[[Penumbra]]"

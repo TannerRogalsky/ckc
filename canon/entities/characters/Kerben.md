@@ -1,17 +1,17 @@
 ---
-type: character
-subtypes: [party-member]
+type: "character"
+subtypes: ["party-member"]
 session_introduced: "001"
-sessions_appeared: ["001", "011", "012", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033", "034", "035", "036"]
+sessions_appeared: ["001", "011", "012", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033", "034", "035", "036", "037"]
 aliases:
-  - Kerbin
-  - Curbin
-  - Kervin
-  - Kurban
-  - Curban
-  - Curben
-  - Karbin
-  - Kirvan
+  - "Kerbin"
+  - "Curbin"
+  - "Kervin"
+  - "Kurban"
+  - "Curban"
+  - "Curben"
+  - "Karbin"
+  - "Kirvan"
 related:
   - "[[The Opal]]"
   - "[[Raxxy]]"
@@ -70,7 +70,7 @@ Kerben Graphene is a dwarf and serves as first mate aboard [[The Opal]], working
 
 Has a childhood connection to the Deep World, where he used to roll around in "deep world sauce" as a kid. This exposure gave him a strong resistance to poison and an enduring fascination with toxin craft. He actively collects, develops, and applies poisons — from wyvern gland extracts to white dragon poison — and has advantage against poison effects.
 
-His personal history with [[Jack Harvey]] is deep and longstanding. He also knew [[Farraday]], an old boss of his, whose crypt he investigated and found tickets to [[The Carrot Cake]] inside. The breadcrumbs leading to the Carrot Cake were tied to the [[The Carrot Cake]] (known as the 40 Carats), an old-world circus and organization that Jack Harvey created and was converting into a bunker before [[The Cataclysm]].
+His personal history with [[Jack Harvey]] is deep and longstanding. He also knew [[Farraday]], an old boss of his, whose crypt he investigated and found tickets to [[The Carrot Cake]] inside. These clues led to [[The Carrot Cake]], an old-world amusement park that Jack Harvey created and was converting into a bunker before [[The Cataclysm]].
 
 ## Abilities and Equipment
 
@@ -105,7 +105,7 @@ Kerben's growing interest in poison development was noted by the party. He had c
 
 While the rest of the crew went ashore in [[Continental Stark]], Kerben stayed aboard [[The Opal]] with [[Obould]], fishing and catching up with the crew. He discussed the rising oceans and how [[The Cataclysm]] reshaped the world from his perspective as someone who lived through it.
 
-Encountered [[Gunk Grodley]] and the [[Goblin Traders]] on the high seas. Traded uncommon items and wyvern glands to Gunk's wife for [[Wyvern Poison]]. Traded his clutch of bullet eggs for [[Lolth's Sting]]. With the party's approval, traded a rare gem for the [[Subpoena Deuces Mercator]], a reusable scroll that summons the goblin traders anywhere at sea.
+Encountered [[Gunk Grodley]] and the [[Goblin Traders]] on the high seas. Traded uncommon items and wyvern glands to Gunk Grodley's wife for [[Wyvern Poison]]. Traded his clutch of bullet eggs for [[Lolth's Sting]]. With the party's approval, traded a rare gem for the [[Subpoena Deuces Mercator]], a reusable scroll that summons the goblin traders anywhere at sea.
 
 That night, alarm spells he had set around the ship triggered simultaneously with [[Red Caesar]]'s, indicating a serious breach. Kerben and Red investigated and found the ship under attack by hobgoblin pirates. Kerben fought the boarders and helped keep the wounded crew alive.
 
@@ -144,7 +144,7 @@ In [[Castle Kaedon]], Kerben used Stone Cunning to sense that two passages were 
 In a later encounter in the same hallway, Kerben shredded the [[Hezru]] with dual blades while affected by its stench aura. After the visible enemies fell, the invisible [[Nalfeshne]] struck with a Lightning Bolt, knocking down [[Red Caesar]] and [[Zulu]]. Kerben healed Zulu after the attack.
 ## Session 021
 
-In [[Castle Kaedon]], Kerben helped the party explore and combat wraiths and specters. He recognized the name "Acelia" from his past — Acelia was the younger sister of Lord [[Alamar]], the youngest daughter of the Rodgard family, and Maniasis' last child before he succumbed to madness. Kerben discovered that a natural salt bath in the castle could be doctored up for healing, providing temporary HP to the party during short rests.
+In [[Castle Kaedon]], Kerben helped the party explore and combat wraiths and specters. He recognized the name "Lady Acelia" from his past — Lady Acelia was the younger sister of Lord [[Alamar]], the youngest daughter of the Rodgard family, and King Maniasis' last child before he succumbed to madness. Kerben discovered that a natural salt bath in the castle could be doctored up for healing, providing temporary HP to the party during short rests.
 
 ## Session 022
 
@@ -160,9 +160,9 @@ As the party approached [[Broy]], Kerben was tasked with finding a secure anchor
 
 While serving as acting captain of [[The Opal]], Kerben struggled to fill [[Obould]]'s shoes — managing the crew, handling basic ship duties, and commanding respect from the other crew members. He received [[Shark's Edge]], a +2 falchion made from a megalodon tooth that allows him to perceive the temperature of visible water.
 
-Kerben secretly freed [[Theo Harvey]] from the brig, striking a bargain: Theo would provide the exact location and seasonal access window for [[The Carrot Cake]] in exchange for his freedom and the [[Gheister]]. Kerben learned from Theo that [[Jack Harvey]] — whom Kerben knew personally — had collected [[Penumbra]] shards when the sky first broke, hiding them within the Carrot Cake as a safeguard. Theo revealed he had spent his life emulating Jack, researching everything he could about him. Kerben shared stories of Jack with Theo, and the two shared rum and carrot tea.
+Kerben secretly freed [[Theo Harvey]] from the brig, striking a bargain: Theo would provide the exact location and seasonal access window for [[The Carrot Cake]] in exchange for his freedom and the [[Gheister]]. Kerben learned from Theo that [[Jack Harvey]] — whom Kerben knew personally — had collected [[Penumbra]] shards when the sky first broke, hiding them within The Carrot Cake as a safeguard. Theo revealed he had spent his life emulating Jack, researching everything he could about him. Kerben shared stories of Jack with Theo, and the two shared rum and carrot tea.
 
-Kerben arranged the escape by providing [[Mobley]] with a carrot tea recipe that acted as a sedative, dulling the crew during their evening in the mess hall. He staged the brig to look like a violent escape, then helped Theo board the [[Gheister]] under cover of fog and darkness. Theo left behind a map and note for the party, revealing the Carrot Cake's location and its seasonal opening window (fifth moon through ninth moon).
+Kerben arranged the escape by providing [[Mobley]] with a carrot tea recipe that acted as a sedative, dulling the crew during their evening in the mess hall. He staged the brig to look like a violent escape, then helped Theo board the [[Gheister]] under cover of fog and darkness. Theo left behind a map and note for the party, revealing The Carrot Cake's location and its seasonal opening window (fifth moon through ninth moon).
 
 As [[The Opal]] sailed north toward [[Thalasia]], Kerben used [[Shark's Edge]] to stab the map, officially committing to the route. He then used the falchion's water-temperature perception to detect warm currents and weave the ship through weaker ice patches, expediting the journey through the frozen straits. During the [[Rimefire Hydra]] encounter, Kerben opened with Hunter's Mark and blasted a head clean off. He later applied black dragon acid poison to prevent head regrowth, removing two more heads with follow-up shots.
 
@@ -176,7 +176,7 @@ When a [[Remorhaz]] ambushed the party, Kerben fought from within [[Vokenar]]'s 
 
 In [[Cutlass Cray]], Kerben purchased three of [[The Wonder Hulk]]'s feather tokens — a swan boat, a swift multi-colored bird called Oscar, and a hot air balloon. He acquired [[The Ascot]], a scarf that lets him communicate with animals and swap places with nearby animals. He also purchased Pipes of Smoke Monsters for the entire party and three immovable rods. [[The Opal]] was fully repaired.
 
-Kerben guided the party to [[The Carrot Cake]] — the culmination of breadcrumbs he had followed since the first dungeon. He recognized the "40 Carats" carrot-diamond logo and recalled that [[Jack Harvey]] had been converting the amusement park into a bunker before the Cataclysm. Inside the park, Kerben helped defeat undead in tattered orange uniforms and later won gold and platinum carrot coins at the "Mind the Mimic" carnival game.
+Kerben guided the party to [[The Carrot Cake]] — the culmination of breadcrumbs he had followed since the first dungeon. He recognized the carrot-diamond logo of The Carrot Cake and recalled that [[Jack Harvey]] had been converting the amusement park into a bunker before the Cataclysm. Inside the park, Kerben helped defeat undead in tattered orange uniforms and later won gold and platinum carrot coins at the "Mind the Mimic" carnival game.
 
 In the [[Hole Shebang]], Kerben fought through encounters with [[Roger Ribbons]], [[Mary Andrews]], [[Phase Cat]]s, and [[Smoke Elemental]]s. He used his final dose of [[Tatzelwurm Gizzard Juice]] to win Al-Qadif's Tower of Treasures, then later won the "Smack a Bodak" carnival game with [[Red Caesar]]'s Guidance. In combat, he used precise shots to deal heavy damage to Mary Andrews, disengaged from smoke elementals, and eliminated phase cats from range.
 
@@ -225,3 +225,9 @@ Kerben found an old expedition camp beneath [[The Funnel]]. Using animal speech 
 Kerben later tracked a giant burrowing creature past the fallen [[Vanir]]. Defeating the purple worm exposed a passage into the [[Gray Wastes]]. [[The Ascot]] and [[Tango]] helped him escape its jaws.
 
 After Kerben deployed [[The Opal]] on a suspended rock, the ship slid off and its storage magic failed to retrieve it. He used his bird feather token to summon a roc, which returned him aboard and guided the vessel into a safe glide onto the dust below. He then carried [[Ceril]] and Red Caesar aloft on the roc to chart [[Starfall]]'s firing scars, setting the ship's eastward course. The roc departed after completing its service.
+
+## Session 037
+
+Kerben kept [[The Opal]] on course during the imperial boarding attack and brought it to the living ground around [[Gaokerena]]. While [[Ceril]] and [[Vokenar]] visited the goddesses, he gathered food for the party from the unexpectedly rich forest.
+
+At [[Axis Mundi]], Kerben killed [[Zohai Lapis]], whose presence protected [[Emperor Shen]]. He later killed [[Dunkelkalt]], one of the two returning [[Vanir]]. [[Tango]] accompanied him through the confrontation. Kerben passed the [[Potion of Eels]] to [[Red Caesar]] before the party faced the last Vanir, likely [[Domyx I]].

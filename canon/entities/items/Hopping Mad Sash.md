@@ -1,10 +1,10 @@
 ---
-type: item
-subtypes: [magic-item]
+type: "item"
+subtypes: ["magic-item"]
 session_introduced: "030"
-sessions_appeared: ["030"]
+sessions_appeared: ["030", "037"]
 aliases:
-  - Hopping Mad Tail
+  - "Hopping Mad Tail"
 related:
   - "[[Domyx]]"
   - "[[King of the Hole]]"

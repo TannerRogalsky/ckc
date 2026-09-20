@@ -1,8 +1,8 @@
 ---
-type: location
-subtypes: [continent]
+type: "location"
+subtypes: ["continent"]
 session_introduced: "001"
-sessions_appeared: ["013", "031", "033", "035", "036"]
+sessions_appeared: ["013", "031", "033", "035", "036", "037"]
 ---
 
 The world beneath [[Arkadia]] where [[Vokenar]] arrived after his long fall from the heavens. [[The League of New Stark]] operates among its surviving islands.

@@ -1,8 +1,8 @@
 ---
-type: concept
-subtypes: [lore]
+type: "concept"
+subtypes: ["lore"]
 session_introduced: "001"
-sessions_appeared: ["013", "014", "016", "017", "021", "030", "031", "033", "034", "035"]
+sessions_appeared: ["013", "014", "016", "017", "021", "030", "031", "033", "034", "035", "037"]
 related:
   - "[[Akasha]]"
   - "[[Obvolvo Caelum]]"

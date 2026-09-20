@@ -1,16 +1,16 @@
 ---
-type: character
-subtypes: [party-member]
+type: "character"
+subtypes: ["party-member"]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033", "034", "035", "036"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033", "034", "035", "036", "037"]
 aliases:
-  - Domyx Akathian
-  - Domyx Spurgruhn
-  - Spurgroon
-  - Domix
-  - Domex
-  - Domics
-  - Dominic
+  - "Domyx Akathian"
+  - "Domyx Spurgruhn"
+  - "Spurgroon"
+  - "Domix"
+  - "Domex"
+  - "Domics"
+  - "Dominic"
 related:
   - "[[Clan Akathia]]"
   - "[[Ulrich Fjoller]]"
@@ -40,7 +40,7 @@ related:
   - "[[Figma Brickfinger]]"
   - "[[Gith Shard Glaive]]"
   - "[[Sigrid Forgewelt]]"
-  - "[[Baron Akathian the Second]]"
+  - "[[Farron Acathian II]]"
   - "[[Thalasia]]"
   - "[[Theo Harvey]]"
   - "[[Broy]]"
@@ -62,7 +62,7 @@ related:
   - "[[Vanir]]"
 ---
 
-A titan barbarian and former member of [[Clan Akathia]] who touched the sky, earning sky-blue palms that mark him as a blood relative of [[Emperor Shen]]. Renounced his Akathian family name after confronting his grandfather's role in breaking the sky and being disowned by his father [[Domyx IV]], then adopted Spurgruhn as his new surname. Named as [[The Opal]]'s successor by [[Obould]], but carries the burden of being Shen's grandson — the descendant of the party's greatest enemy. Traveled to the titan homeland, rescued [[Ulrich Fjoller]] from the [[Prison of Frost]], and brought [[Lorelai Lapis-Acathian]] aboard with him.
+A titan barbarian and former member of [[Clan Akathia]] who touched the sky, earning sky-blue palms that mark him as a blood relative of [[Emperor Shen]]. Renounced his Akathian family name after confronting his grandfather's role in breaking the sky and being disowned by his father [[Domyx IV]], then adopted Spurgruhn as his new surname. Named as [[The Opal]]'s successor by [[Obould]], but carries the burden of being Emperor Shen's grandson — the descendant of the party's greatest enemy. Traveled to the titan homeland, rescued [[Ulrich Fjoller]] from the [[Prison of Frost]], and brought [[Lorelai Lapis-Acathian]] aboard with him.
 
 ## Identity and Backstory
 
@@ -143,13 +143,13 @@ The party received a quest from [[David Harvey]] to capture [[Theo Harvey]], a t
 
 During the voyage to [[Broy]], [[Theo Harvey]] approached Domyx during his guard duty and attempted to negotiate accommodations. Theo revealed that he knew the location of [[The Carrot Cake]] — a massive magical amusement park project from old [[Kaedon]] that was powered by [[Penumbra]] before the sky broke. The Carrot Cake is a maze of illusions and arcane traps; [[Vizier Jade]] had previously sent her companion [[The Tyrant]] to find it, and the Tyrant never returned. Theo claimed the Empire wanted this information and that executing him was merely a display of force.
 
-As the party approached the coast of [[Broy]], a fierce storm struck. Two titans appeared — [[Baron Akathian the Second]], a cloud titan, and an unnamed female frost titan. Baron Akathian was a relation to Domyx's bloodline and called him "great nephew abomination." The titans were acting under orders from a higher power, not of their own volition. Domyx grew to match their size and fought Baron Akathian aboard [[The Opal]]. He steadied the ship with his massive form, preventing it from capsizing, and helped defeat Baron Akathian.
+As the party approached the coast of [[Broy]], a fierce storm struck. Two titans appeared — [[Farron Acathian II]], a cloud titan, and [[Zohai Lapis]], a female frost titan. Farron Acathian II was a relation to Domyx's bloodline and called him "great nephew abomination." The titans were acting under orders from a higher power, not of their own volition. Domyx grew to match their size and fought Farron Acathian II aboard [[The Opal]]. He steadied the ship with his massive form, preventing it from capsizing, and helped defeat Farron Acathian II.
 
-After [[Vokenar]] healed both titans, they departed peacefully heading north toward titan homeland territory. Baron Akathian gave Domyx a scroll case containing a map of [[Thalasia]] — the continent where Domyx's people live — showing a treacherous path through hills into the titan homeland. The party then docked near the coast of [[Broy]] and disembarked.
+After [[Vokenar]] healed both titans, they departed peacefully heading north toward titan homeland territory. Farron Acathian II gave Domyx a scroll case containing a map of [[Thalasia]] — the continent where Domyx's people live — showing a treacherous path through hills into the titan homeland. The party then docked near the coast of [[Broy]] and disembarked.
 
 In the [[Broyish Capital]], Domyx helped defeat the oni near the coast. He negotiated with [[Naomi Ue]] to clear the party's warrants, paying 10 pounds of mithril. He asked about titan folk in the region and learned they live to the north and have assimilated into the industrial society.
 
-The party entered the imperial palace and was granted audience with [[Vizier Jade]]. Jade revealed [[Emperor Shen]] was Domyx's grandfather — confirmed by the matching sky-colored palms shared between Domyx and the emperor, evidence of having touched the sky. Shen spoke in Giant's Runic and revealed he was the first of his bloodline to touch the sky and planned to be the last. He tried to destroy the sky using [[Starfall]] and was not entirely successful. His goal is that "our rage will kill the gods." Shen fell unconscious after speaking, and Jade dismissed the party.
+The party entered the imperial palace and was granted audience with [[Vizier Jade]]. Vizier Jade revealed [[Emperor Shen]] was Domyx's grandfather — confirmed by the matching sky-colored palms shared between Domyx and the emperor, evidence of having touched the sky. Emperor Shen spoke in Giant's Runic and revealed he was the first of his bloodline to touch the sky and planned to be the last. He tried to destroy the sky using [[Starfall]] and was not entirely successful. His goal is that "our rage will kill the gods." Emperor Shen fell unconscious after speaking, and Vizier Jade dismissed the party.
 
 ## Session 024
 
@@ -219,7 +219,7 @@ At [[Lyngbakr Lagoon]], [[Emperor Shen]] and [[Vizier Jade]] arrived with [[Obou
 
 ## Session 032
 
-Shen held Domyx in the [[Dawn Palace]] and tried to persuade him to become imperial heir. Domyx remained defiant, then recognized that Jade's frustration with Shen could give him time to survive. Jade ultimately faked his death and freed him during the palace uprising. Ceril restored Domyx from the ordeal, after which he rejoined the party and helped secure Vokenar's body.
+Emperor Shen held Domyx in the [[Dawn Palace]] and tried to persuade him to become imperial heir. Domyx remained defiant, then recognized that Vizier Jade's frustration with Emperor Shen could give him time to survive. Vizier Jade ultimately faked his death and freed him during the palace uprising. Ceril restored Domyx from the ordeal, after which he rejoined the party and helped secure Vokenar's body.
 
 ## Session 033
 
@@ -244,3 +244,11 @@ Among enormous stone heads, Domyx recalled the defeat of the [[Vanir]] by the [[
 The party recovered ancestral valuables from a purple worm: [[Domyx II]]'s gold amphora and diamond-set gold coronet, alongside a gold bugle. The coronet resembled one worn by [[Domyx IV]].
 
 Domyx braced [[The Opal]] on a collapsing rock long enough for the party to board. After [[Kerben]] saved the ship's descent into the [[Gray Wastes]], Domyx inspected it and found little damage, while [[Brim the Bullywog]] reported dust in the bilge.
+
+## Session 037
+
+At [[Axis Mundi]], Domyx rejected [[Emperor Shen]]'s insistence that he inherit divine power and rule a titan dynasty. Starfall initially made his grandfather invulnerable; Domyx tried to restrain him as he loaded the final ammunition, but could not prevent the act.
+
+The [[Antumbra]] destroyed [[Starfall]] and stripped Emperor Shen's protection. Domyx defeated [[Farron Acathian II]], then overcame his grandfather with the party's help. Emperor Shen died looking at him after calling on the [[Vanir]].
+
+[[Dunkelkalt]] repeatedly cast Domyx outside reality during the ensuing battle. Domyx returned and struck the final blow against [[Entropie]], whose dying Wish brought forth the last Vanir. The colossal figure resembles Domyx and his grandfather, but is provisionally identified as [[Domyx I]].

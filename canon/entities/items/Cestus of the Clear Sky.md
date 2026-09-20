@@ -1,8 +1,8 @@
 ---
-type: item
-subtypes: [magic-item]
+type: "item"
+subtypes: ["magic-item"]
 session_introduced: "034"
-sessions_appeared: ["034", "035"]
+sessions_appeared: ["034", "035", "037"]
 related:
   - "[[Domyx]]"
   - "[[Sigrid Forgewelt]]"

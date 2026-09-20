@@ -1,6 +1,16 @@
 # Active Quests
 
-## Find and disable Starfall / rescue Aeris
+## Rescue Aeris
 - **Given by:** [[Sigil]], [[Crone]], [[Aeris]]
-- **Status:** In progress — sailing east through the Gray Wastes; Gaokerena sighted
-- **Details:** [[Aeris]] remains imprisoned inside [[Starfall]], her mortal body aging and weakening. [[Lyngbakr]] repaired the [[Hole in the Sky]], but Starfall still threatens [[Sigil]], as [[Fharan]] warned. The party descended through [[The Funnel]] and physically crossed into the [[Gray Wastes]], where [[Axis Mundi]] lies far east, approximately beneath [[Broy]]. Mordenkainen's Private Sanctum blocks magical entry at the destination. [[The Opal]] can sail across the lower plane's dust, and [[Ceril]] and [[Red Caesar]] are refining its course from Starfall's old firing scars. [[Vokenar]] has sighted [[Gaokerena]], identified by Sigil as the tree of all worlds; the party has not yet reached it or the weapon. The effects of the [[Antumbra]] planted in the League's supply chain remain unconfirmed.
+- **Status:** In progress — Starfall destroyed; Aeris's mortal release unconfirmed
+- **Details:** The [[Antumbra]] destroyed [[Starfall]] at [[Axis Mundi]] in session 037, preventing its intended shot at [[Sigil]]. The weapon can no longer attack the heavens, but the party has not yet established the fate of [[Aeris]]'s imprisoned mortal body. Her earlier assurance that Antumbra would not harm her supports the rescue plan without confirming its completion.
+
+## Defeat the returning Vanir
+- **Given by:** [[Aeris]], [[Sigil]], [[Crone]] (the party's divine mission)
+- **Status:** In progress — Entropie and Dunkelkalt defeated; the last Vanir has manifested
+- **Details:** [[Emperor Shen]]'s dying call brought [[Entropie]] and [[Dunkelkalt]] to [[Axis Mundi]] to strike at the party as servants of the three sister goddesses. Both were defeated, but Entropie's final Wish brought forth the last [[Vanir]], provisionally identified as [[Domyx I]]. Four unexplained obelisks surround the battlefield. [[Vizier Jade]]'s permanent ward prevents magical escape, and [[Ceril's Star]] remains available for the party's recovery.
+
+## Rebuild Broy with Vizier Jade
+- **Given by:** [[Red Caesar]] (proposal to [[Vizier Jade]])
+- **Status:** Proposed — Vizier Jade supports the aim; no new government established
+- **Details:** At [[Axis Mundi]], Red Caesar proposed that he and Vizier Jade build a better [[Broyish Empire]] beyond [[Emperor Shen]]'s destructive ambitions. She welcomed that future and warned against repeating Emperor Shen's mistakes. Any reconstruction remains contingent on surviving the confrontation with the [[Vanir]].

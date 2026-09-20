@@ -1,10 +1,10 @@
 ---
-type: deity
-subtypes: [goddess]
+type: "deity"
+subtypes: ["goddess"]
 session_introduced: "001"
-sessions_appeared: ["013", "025", "026", "031", "032", "035", "036"]
+sessions_appeared: ["013", "025", "026", "031", "032", "035", "036", "037"]
 aliases:
-  - The Sun
+  - "The Sun"
 related:
   - "[[Gaokerena]]"
   - "[[Aesir]]"
@@ -25,3 +25,11 @@ In session 031, [[Fharan]] revealed that [[Starfall]]'s next target is Sigil's c
 ## Session 036
 
 [[Domyx]] recalled Sigil, [[Aeris]], and [[Crone]] as the [[Aesir]] who defeated the [[Vanir]] in the ancient struggle for [[Stark]]. When [[Vokenar]] sighted a tree spanning the [[Gray Wastes]]' ground and sky, Sigil identified it to him as [[Gaokerena]], the tree of all worlds.
+
+## Session 037
+
+An imperial captive revealed that [[Emperor Shen]] intended to destroy Sigil that day. [[Crone]] explained that his pride kept him waiting for [[Domyx]], giving the party time to arrive.
+
+Sigil tended Crone at [[Gaokerena]] and left [[Ceril]] a message inviting him through the tree. She and [[Aeris]] received Ceril and [[Vokenar]] in [[Arkadia]], where Aeris granted [[Ceril's Star]]. Sigil worried about the danger the mortals faced.
+
+The [[Antumbra]] destroyed [[Starfall]] before its shot at Sigil could be fired. During the ensuing battle, [[Entropie]] recognized her power in Vokenar and identified her as the goddess who had defeated it before.

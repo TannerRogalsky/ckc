@@ -1,26 +1,26 @@
 ---
-type: character
-subtypes: [party-member]
+type: "character"
+subtypes: ["party-member"]
 aliases:
-  - Bokanar
-  - Bokanara
-  - Bokinar
-  - Bokunar
-  - Booknar
-  - Vilkenar
-  - Volkanar
-  - Volkaner
-  - Volkanor
-  - Volkenar
-  - Volkinar
-  - Vokanar
-  - Vokinar
-  - Voknar
-  - Vokunar
-  - Vokun
-  - Vokunov
+  - "Bokanar"
+  - "Bokanara"
+  - "Bokinar"
+  - "Bokunar"
+  - "Booknar"
+  - "Vilkenar"
+  - "Volkanar"
+  - "Volkaner"
+  - "Volkanor"
+  - "Volkenar"
+  - "Volkinar"
+  - "Vokanar"
+  - "Vokinar"
+  - "Voknar"
+  - "Vokunar"
+  - "Vokun"
+  - "Vokunov"
 session_introduced: "001"
-sessions_appeared: ["001", "011", "012", "013", "014", "015", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033", "034", "035", "036"]
+sessions_appeared: ["001", "011", "012", "013", "014", "015", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033", "034", "035", "036", "037"]
 related:
   - "[[Arkadia]]"
   - "[[Sigil]]"
@@ -63,7 +63,7 @@ related:
   - "[[Sigrid Forgewelt]]"
   - "[[Tome of Satariel]]"
   - "[[Farraday]]"
-  - "[[Baron Akathian the Second]]"
+  - "[[Farron Acathian II]]"
   - "[[Broy]]"
   - "[[Starfall]]"
   - "[[The Carrot Cake]]"
@@ -115,7 +115,7 @@ Uses a healing-focused combat style, prioritizing others over himself. Strategic
 
 In [[Darvinblast]], cast Water Walk ritual and took max HP drain from the toxic mist alongside [[Red Caesar]]. Used his healing abilities extensively to keep the party alive, including reviving defeated dwarves to demonstrate goodwill. During the church confrontation with [[Morel Chainsunder]], attempted persuasion with the congregation, arguing for unity and freedom. Used Guarded Mind to resist Morel's Holy Word, recognizing that the defeated "Morel"'s face was different from the one seen through the illusion earlier. Cast Burning Hands to finish off the weakened Morel. Healed [[Zulu]] after the creature jumped into a pit during the [[Fire Giant]] encounter.
 
-Consulted [[Aeris]] (Eris) via [[Ceril]]'s shield, asking five yes/no questions about the curse, the Penumbra, and the path forward. Eris confirmed destroying the spell was the right choice and that the Penumbra was nearby in the hills.
+Consulted [[Aeris]] via [[Ceril]]'s shield, asking five yes/no questions about the curse, the Penumbra, and the path forward. Aeris confirmed destroying the spell was the right choice and that the Penumbra was nearby in the hills.
 
 During the Penumbra processing at [[The Pit]], used Detect Magic on the massive drained chunk and discovered that a kernel of real sky remained at the exact center. Advised [[Figma Brickfinger]]'s dwarves to carefully chisel away the dead outer shell to reach the pure inner core.
 
@@ -155,7 +155,7 @@ Summoned [[Crone]] under a full moon. She appeared blood-soaked and exhausted, d
 
 Led the party's response to a specter ambush with Turn Undead, devastating the specter pack. Disintegrated a water elemental that had grappled [[Domyx]], reducing it to silvery gray nothing. Cast an icy Flame Strike from outside the granary, striking both [[Sturges]] and ochre jellies.
 
-Found [[Sunspite]]'s severed head — from their earlier fight — crushed under rubble and overgrown with roses in a collapsed guest room. Also discovered [[Lady Acelia's Chalice]], an expertly carved oak chalice with jade insets, inscribed "Acelia" in child's handwriting, identifying her as [[Alamar]]'s younger sister.
+Found [[Sunspite]]'s severed head — from their earlier fight — crushed under rubble and overgrown with roses in a collapsed guest room. Also discovered [[Lady Acelia's Chalice]], an expertly carved oak chalice with jade insets, inscribed with [[Lady Acelia]]'s childhood name, identifying her as [[Alamar]]'s younger sister.
 
 During the battle with the [[Xarag]], opened with Sacred Spear, striking all five dragons. When [[Ceril]] was knocked unconscious by the dragon's acid breath, healed him with Aura of Vitality as [[Domyx]] delivered the killing blow. Lost his wings as the dragon fell.
 
@@ -177,7 +177,7 @@ Located the hidden entrance to the [[Harengon Warrens]] — a hole beneath a bao
 
 Cast Legend Lore on the [[Tome of Satariel]], revealing the Tome is made of 666 pages, each from a different wizard's soul, and returns to hell if destroyed.
 
-Fought alongside the party against [[Baron Akathian the Second]] and the frost titan during a storm. Healed the party and both titans after the battle.
+Fought alongside the party against [[Farron Acathian II]] and [[Zohai Lapis]] during a storm. Healed the party and both titans after the battle.
 
 Used Divine Intervention to scout the [[Broyish Capital]], discovering [[Naomi Ue]]'s tavern and mapping safe routes through the city avoiding [[Oni]] sentry positions. Protected a human and tiefling woman surrounded by Oni demons on the coast. Proposed that the party help the Southport couple with their plague.
 
@@ -264,3 +264,11 @@ After [[Keys Caeradel]] entrusted the [[Demi-Spell]] to the party, Vokenar disco
 Vokenar restored [[Red Caesar]] after his incapacitating contact with [[Domyx I]], ending the encounter while the [[Demi-Spell]] remained concealed. He was the first of the party to pass through the purple worm's tunnel into the [[Gray Wastes]], where his wings saved him when an acid-weakened handhold broke.
 
 As [[The Opal]] sailed east beneath the lower sky, Vokenar sighted a distant tree connecting ground and sky. [[Sigil]] spoke into his mind and identified [[Gaokerena]], the tree of all worlds that [[Ceril]] had visited in [[Arkadia]].
+
+## Session 037
+
+Vokenar's consecration of [[The Opal]] excluded the fiendish reinforcements accompanying an imperial boarding party, and the common area's shared-language magic allowed the party to question a captive. Learning that [[Emperor Shen]] intended to destroy [[Sigil]] that day, Vokenar contacted [[Crone]]. She confirmed the route to [[Gaokerena]], explained Emperor Shen's delay, and anticipated [[Vizier Jade]]'s resistance.
+
+He accompanied [[Ceril]] through Gaokerena into [[Arkadia]], where [[Aeris]] granted [[Ceril's Star]]. After Emperor Shen's mortal defeat at [[Axis Mundi]], Vokenar restored Vizier Jade from petrification despite their earlier enmity.
+
+Vokenar's divine healing sustained the party against [[Entropie]] and [[Dunkelkalt]]. Entropie recognized Sigil's power in him and named her as the goddess responsible for its ancient defeat. Vokenar remains with the party to face the last [[Vanir]], provisionally identified as [[Domyx I]].
