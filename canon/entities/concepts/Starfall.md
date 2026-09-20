@@ -52,4 +52,4 @@ The party concluded that the [[Antumbra]] would permanently annihilate Starfall 
 
 After entering the [[Gray Wastes]], the party determined that Starfall lies far east of the entry point at [[Axis Mundi]], approximately beneath [[Broy]]. Protection identified as Mordenkainen's Private Sanctum blocks magical entry at the destination.
 
-[[Red Caesar]] proposed tracing the weapon's old firing paths through the lower sky. [[Ceril]] identified scars that brightened as the sky darkened, and Red Caesar distinguished likely shots from natural features. The curved paths complicate precise triangulation, but their observations allowed [[The Opal]] to adjust its eastward course. The party sighted [[Galcarina]] without yet reaching Starfall.
+[[Red Caesar]] proposed tracing the weapon's old firing paths through the lower sky. [[Ceril]] identified scars that brightened as the sky darkened, and Red Caesar distinguished likely shots from natural features. The curved paths complicate precise triangulation, but their observations allowed [[The Opal]] to adjust its eastward course. The party sighted [[Gaokerena]] without yet reaching Starfall.

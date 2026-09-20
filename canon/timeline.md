@@ -1049,4 +1049,4 @@ Source: [[chunks/sessions_001-0010]].
 - The roc helps The Opal glide safely onto the dust, where its sails and wind source allow it to continue east.
 - Kerben, [[Ceril]], and Red Caesar scout from the roc, using Starfall's firing scars to refine the course.
 - The roc returns its riders and departs freely.
-- Vokenar sights [[Galcarina]], which [[Sigil]] identifies as the tree of all worlds extending from [[Arkadia]] through [[Stark]] into the Gray Wastes.
+- Vokenar sights [[Gaokerena]], which [[Sigil]] identifies as the tree of all worlds extending from [[Arkadia]] through [[Stark]] into the Gray Wastes.

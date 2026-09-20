@@ -2,7 +2,7 @@
 type: session
 session: "036"
 chunks: 3
-summary: "The party crosses into the Gray Wastes, resists Domyx I's pressure, saves The Opal's descent, and sights Galcarina."
+summary: "The party crosses into the Gray Wastes, resists Domyx I's pressure, saves The Opal's descent, and sights Gaokerena."
 ---
 
 ## Session 036
@@ -34,7 +34,7 @@ summary: "The party crosses into the Gray Wastes, resists Domyx I's pressure, sa
 - [[Domyx]] finds the ship largely undamaged. [[Brim the Bullywog]] reports dust flowing through its bilge.
 - Kerben carries [[Ceril]] and [[Red Caesar]] aloft on the roc. Ceril identifies bright scars in the lower sky, and Red Caesar distinguishes likely [[Starfall]] shots from natural features. Their observations refine the ship's eastward course.
 - The roc returns the scouts to the ship and departs freely into the [[Gray Wastes]].
-- [[Vokenar]] sights a distant tree connecting ground and sky. [[Sigil]] identifies it as [[Galcarina]], the tree of all worlds, whose roots extend from [[Arkadia]] through [[Stark]] into this lower plane.
+- [[Vokenar]] sights a distant tree connecting ground and sky. [[Sigil]] identifies it as [[Gaokerena]], the tree of all worlds, whose roots extend from [[Arkadia]] through [[Stark]] into this lower plane.
 
 ### Summary
 
@@ -44,7 +44,7 @@ Red Caesar's attempt to ask a surviving god for directions becomes a confrontati
 
 Kerben's tracking succeeds where divination did not: a purple worm's passage leads to a physically traversable boundary beneath Stark. Beyond it, the Gray Wastes reveal a second sky above an immense dust plain. The recovered heirlooms of Domyx II deepen the family's connection to these ancient depths. Axis Mundi is somewhere far east, but the party still needs a route across the lower plane.
 
-Deploying The Opal nearly ends in disaster when its storage magic fails above the abyss. Kerben's summoned roc, the ship's sails, and the crew's wind source turn the fall into a safe descent. The fine dust supports the ship's passage, allowing the voyage to continue. Ceril and Red Caesar resume their shared navigation by reading Starfall's old firing scars overhead. Vokenar's sighting of Galcarina gives them a new landmark, but they have not yet reached the tree, Axis Mundi, or Starfall, and [[Aeris]] remains captive.
+Deploying The Opal nearly ends in disaster when its storage magic fails above the abyss. Kerben's summoned roc, the ship's sails, and the crew's wind source turn the fall into a safe descent. The fine dust supports the ship's passage, allowing the voyage to continue. Ceril and Red Caesar resume their shared navigation by reading Starfall's old firing scars overhead. Vokenar's sighting of Gaokerena gives them a new landmark, but they have not yet reached the tree, Axis Mundi, or Starfall, and [[Aeris]] remains captive.
 
 ### Connections
 
@@ -53,4 +53,4 @@ Deploying The Opal nearly ends in disaster when its storage magic fails above th
 - Contact Other Plane is one of the three pages recovered when [[Farraday]]'s Tome of Satariel was destroyed in session 034.
 - Red Caesar's refusal to reveal the Demi-Spell continues his commitment to safeguard it after [[Keys Caeradel]] relinquished it in session 035.
 - The Gray Wastes confirm the lower planar boundary inferred from the [[Chart of the Witness]], while the physical crossing bypasses the need for magical entry at the warded destination.
-- Galcarina is the previously unnamed tree Ceril visited among the goddesses in session 032. Its reach across the planes is now established; its exact relationship to Axis Mundi remains unknown.
+- Gaokerena is the previously unnamed tree Ceril visited among the goddesses in session 032. Its reach across the planes is now established; its exact relationship to Axis Mundi remains unknown.

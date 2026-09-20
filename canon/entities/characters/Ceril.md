@@ -211,4 +211,4 @@ Before the descent through [[The Funnel]], Ceril acquired the [[Cornucopia of Co
 
 Ceril used the [[Cornucopia of Constellations]] to provision the descent through [[The Funnel]]. He noticed gravity weakening underground and, after the party defeated a purple worm, saw the light of a second sky through its tunnel. The party crossed into the [[Gray Wastes]].
 
-Recalling the tree he visited in [[Arkadia]], Ceril considered how its roots might connect the planes. With [[Red Caesar]] and [[Kerben]], he scouted the lower sky from a summoned roc, identifying the bright scars that helped guide [[The Opal]] toward [[Starfall]]. [[Vokenar]] subsequently sighted the tree, and [[Sigil]] named it [[Galcarina]].
+Recalling the tree he visited in [[Arkadia]], Ceril considered how its roots might connect the planes. With [[Red Caesar]] and [[Kerben]], he scouted the lower sky from a summoned roc, identifying the bright scars that helped guide [[The Opal]] toward [[Starfall]]. [[Vokenar]] subsequently sighted the tree, and [[Sigil]] named it [[Gaokerena]].

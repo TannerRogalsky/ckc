@@ -263,4 +263,4 @@ After [[Keys Caeradel]] entrusted the [[Demi-Spell]] to the party, Vokenar disco
 
 Vokenar restored [[Red Caesar]] after his incapacitating contact with [[Domyx I]], ending the encounter while the [[Demi-Spell]] remained concealed. He was the first of the party to pass through the purple worm's tunnel into the [[Gray Wastes]], where his wings saved him when an acid-weakened handhold broke.
 
-As [[The Opal]] sailed east beneath the lower sky, Vokenar sighted a distant tree connecting ground and sky. [[Sigil]] spoke into his mind and identified [[Galcarina]], the tree of all worlds that [[Ceril]] had visited in [[Arkadia]].
+As [[The Opal]] sailed east beneath the lower sky, Vokenar sighted a distant tree connecting ground and sky. [[Sigil]] spoke into his mind and identified [[Gaokerena]], the tree of all worlds that [[Ceril]] had visited in [[Arkadia]].

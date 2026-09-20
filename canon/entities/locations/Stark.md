@@ -11,4 +11,4 @@ In session 031, [[Lyngbakr]] repaired the [[Hole in the Sky]], closing the open 
 
 ## Session 036
 
-The party descended through [[The Funnel]], passed the stone remains of the defeated [[Vanir]]'s physical avatars, and crossed a physically traversable boundary into the [[Gray Wastes]]. This lower plane corresponds to [[Arkadia]] above Stark. [[Galcarina]] extends through all three realms.
+The party descended through [[The Funnel]], passed the stone remains of the defeated [[Vanir]]'s physical avatars, and crossed a physically traversable boundary into the [[Gray Wastes]]. This lower plane corresponds to [[Arkadia]] above Stark. [[Gaokerena]] extends through all three realms.

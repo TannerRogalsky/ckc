@@ -4,8 +4,8 @@
 - [[Red Caesar]] — Abjurer who resisted Domyx I’s pressure to reveal the Demi-Spell and charts Starfall’s firing scars
 - [[Domyx]] — Titan adventurer confronting his divine ancestry and recovering Domyx II’s heirlooms beneath Stark
 - [[Kerben]] — Captain who opened the route into the Gray Wastes and saved The Opal’s descent with a summoned roc
-- [[Ceril]] — Druid and navigator who visited Galcarina in Arkadia and traces Starfall’s scars in the lower sky
-- [[Vokenar]] — Cleric who restored Red Caesar from divine contact and received Sigil’s identification of Galcarina
+- [[Ceril]] — Druid and navigator who visited Gaokerena in Arkadia and traces Starfall’s scars in the lower sky
+- [[Vokenar]] — Cleric who restored Red Caesar from divine contact and received Sigil’s identification of Gaokerena
 
 ## Crew & Allies
 - [[Obould]] — Retired captain of The Opal, now engaged to Lady Jacinthe and co-leading the League
@@ -164,9 +164,9 @@
 
 ## Locations
 - [[Gray Wastes]] — Lower plane beneath Stark, containing Axis Mundi and a dust desert navigable by The Opal
-- [[Galcarina]] — Tree of all worlds, first visited by Ceril in Arkadia and later named by Sigil in the Gray Wastes
+- [[Gaokerena]] — Tree of all worlds, first visited by Ceril in Arkadia and later named by Sigil in the Gray Wastes
 - [[Continental Stark]] — Massive elfish continent, last remnant of the Old World, home to Brimbolyn
-- [[Arkadia]] — Upper plane of the goddesses, where Ceril first visited Galcarina, the tree of all worlds
+- [[Arkadia]] — Upper plane of the goddesses, where Ceril first visited Gaokerena, the tree of all worlds
 - [[Axis Mundi]] — Starfall’s warded location in the Gray Wastes, sought eastward beneath Broy
 - [[Darvinblast]] — Underground dwarven city
 - [[The Darvenlast]] — Self-sufficient area within The Deepworlders Delve
@@ -177,7 +177,7 @@
 - [[Elvish Marketplace]] — Marketplace in Brimbolyn where elves sell magical goods
 - [[The Academy]] — Brimbolyn research center where Keys Caeradel completed and relinquished the Demi-Spell
 - [[Academia Lux]] — School in Arkadia where Vokenar was taught
-- [[Stark]] — World between Arkadia and the Gray Wastes, crossed by Galcarina’s roots
+- [[Stark]] — World between Arkadia and the Gray Wastes, crossed by Gaokerena’s roots
 - [[The Pit]] — Dwarvish settlement, seat of Figma Brickfinger's Union
 - [[The Palace of the Pit]] — Seat of power in The Pit
 - [[The Deepworlders Delve]] — Home of the Duergar in The Pit
@@ -315,7 +315,7 @@
 
 ## Deities
 - [[Aeris]] — Goddess of Chaos, Potential, and Fate; victorious Aesir whose mortal body remains imprisoned in Starfall
-- [[Sigil]] — Goddess of Life, Energy, and Motion who identifies Galcarina to Vokenar; Starfall’s next target
+- [[Sigil]] — Goddess of Life, Energy, and Motion who identifies Gaokerena to Vokenar; Starfall’s next target
 - [[Crone]] — Goddess of Time, Death, and Passage; victorious Aesir whose shattered moon can recover
 - [[Blibdoolpoolp]] — Kuo-Toa deity defeated by the party on Otyugh Isle
 - [[Corellon Larethian]] — Primordial elven deity alluded to by Boril Erendel’s Larethian form

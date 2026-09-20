@@ -6,7 +6,7 @@ sessions_appeared: ["013", "025", "026", "031", "032", "035", "036"]
 aliases:
   - The Sun
 related:
-  - "[[Galcarina]]"
+  - "[[Gaokerena]]"
   - "[[Aesir]]"
 ---
 
@@ -24,4 +24,4 @@ In session 031, [[Fharan]] revealed that [[Starfall]]'s next target is Sigil's c
 
 ## Session 036
 
-[[Domyx]] recalled Sigil, [[Aeris]], and [[Crone]] as the [[Aesir]] who defeated the [[Vanir]] in the ancient struggle for [[Stark]]. When [[Vokenar]] sighted a tree spanning the [[Gray Wastes]]' ground and sky, Sigil identified it to him as [[Galcarina]], the tree of all worlds.
+[[Domyx]] recalled Sigil, [[Aeris]], and [[Crone]] as the [[Aesir]] who defeated the [[Vanir]] in the ancient struggle for [[Stark]]. When [[Vokenar]] sighted a tree spanning the [[Gray Wastes]]' ground and sky, Sigil identified it to him as [[Gaokerena]], the tree of all worlds.

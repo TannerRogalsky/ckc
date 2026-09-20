@@ -291,3 +291,5 @@
 ## [2026-09-15] query | Grotusqu — Reviewed quest records, entity references, and outdated abandoned-quest guidance.
 ## [2026-09-15] update | Grotusqu — Applied user correction to resolved quests, entity, index, and abandoned-quest guidance; supersedes July 5 classification.
 ## [2026-09-15] lint | Grotusqu — Validated touched links, entity frontmatter, index coverage, quest chronology, and log additions.
+## [2026-09-20] update | Gaokerena — Renamed misspelled Galcarina entity and corrected derived canon references, preserving the transcript form as an alias.
+## [2026-09-20] lint | Gaokerena — Validated canon links, index coverage, frontmatter, alias placement, appearance history, and renamed-file cleanup.
