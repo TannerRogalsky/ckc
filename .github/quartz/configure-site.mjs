@@ -7,6 +7,7 @@ const YAML = require("yaml")
 
 const siteTitle = process.env.QUARTZ_SITE_TITLE ?? "CKC Canon"
 const baseUrl = process.env.QUARTZ_BASE_URL
+const contentDir = process.env.QUARTZ_CONTENT_DIR ?? path.join(process.cwd(), "content")
 
 if (!baseUrl) {
   throw new Error("QUARTZ_BASE_URL is required")
@@ -33,7 +34,7 @@ for (const plugin of config.plugins ?? []) {
 
 await writeFile(configPath, YAML.stringify(config), "utf8")
 
-const indexPath = path.join(process.cwd(), "content", "index.md")
+const indexPath = path.join(contentDir, "index.md")
 await mkdir(path.dirname(indexPath), { recursive: true })
 await writeFile(
   indexPath,

@@ -53,6 +53,11 @@ jobs:
           git clone https://github.com/jackyzha0/quartz.git "$RUNNER_TEMP/quartz"
           git -C "$RUNNER_TEMP/quartz" checkout --detach 74b3fc9efd0caafea3dbcd846ddf1f06855b6d2a
 
+      - name: Create tracked canon worktree
+        run: |
+          git -C "$GITHUB_WORKSPACE" worktree add \
+            --detach "$RUNNER_TEMP/canon-worktree" "$GITHUB_SHA"
+
       - name: Install Quartz dependencies
         working-directory: ${{ runner.temp }}/quartz
         run: npm ci
@@ -70,12 +75,13 @@ jobs:
         working-directory: ${{ runner.temp }}/quartz
         env:
           QUARTZ_BASE_URL: ${{ steps.pages-url.outputs.base_url }}
+          QUARTZ_CONTENT_DIR: ${{ runner.temp }}/canon-worktree/canon
           QUARTZ_SITE_TITLE: CKC Canon
         run: node "$GITHUB_WORKSPACE/.github/quartz/configure-site.mjs"
 
       - name: Build Quartz site
         working-directory: ${{ runner.temp }}/quartz
-        run: npx quartz build
+        run: npx quartz build -d "$RUNNER_TEMP/canon-worktree/canon"
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v5

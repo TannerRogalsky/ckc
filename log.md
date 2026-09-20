@@ -307,3 +307,4 @@
 ## [2026-09-20] lint | Aesir opposition — Validated touched frontmatter, preserved histories, reciprocal links, and exact entity index coverage.
 ## [2026-09-20] restructure | Consolidated singular entity directories into plural categories; updated AGENTS.md.
 ## [2026-09-20] lint | Verified plural entity directories, frontmatter type mapping, and exact entities index coverage.
+## [2026-09-20] update | Quartz CI — Built canon from a tracked Git worktree so Quartz can resolve Git-backed dates.
