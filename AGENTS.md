@@ -9,7 +9,7 @@ If an earlier log line contains a typo, mistaken entity name, or incomplete oper
 # Entity Extraction
 Ingest a source and extract entities from it. Prune entities that are not relevant to the larger context. People and places tend to be relevant. Spells and items tend to be less globally relevant.
 
-For each relevant entity, write a new file to `@canon/entities/<type>/` where `<type>` matches the entity's `type` field. Name the file after the entity. Prefer that the file name is the full name of the entity using spaces as separators. Use Obsidian and Frontmatter formatting. Use links whenever one entity references another.
+For each relevant entity, write a new file to `@canon/entities/<plural-type>/`. Entity directories are always plural: `characters`, `locations`, `organizations`, `creatures`, `items`, `events`, `concepts`, `deities`, and `vessels`. The directory name is the plural form of the entity's singular `type` field. Name the file after the entity. Prefer that the file name is the full name of the entity using spaces as separators. Use Obsidian and Frontmatter formatting. Use links whenever one entity references another.
 
 Every entity file must include frontmatter. Follow the [Frontmatter Standard](#frontmatter-standard) below.
 
