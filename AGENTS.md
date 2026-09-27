@@ -6,6 +6,16 @@ Maintain @log.md as a chronological list of the operations you perform such as i
 
 If an earlier log line contains a typo, mistaken entity name, or incomplete operation description, do not edit it. Append a later lint or update entry recording the correction.
 
+# Campaign Status and Decision Making
+
+The campaign represented in this wiki is complete. There will be no further transcripts.
+
+Treat the existing source corpus as the final transcript record. Prioritize archival completeness, consistency, and retrospective analysis of the whole campaign. Existing sources may still need ingestion or correction; campaign completion does not imply that wiki processing is complete.
+
+Resolve questions from existing sources and established canon where possible. Preserve uncertainty when the record does not settle a question; do not defer decisions in anticipation of future transcripts or invent missing outcomes. Assess entity relevance and plot significance across the completed campaign.
+
+`canon/quests.md` is effectively complete: it records quests left open at the end of the campaign, including their last established in-world statuses. Treat it as an archival record, not a queue awaiting future sessions. Preserve those statuses; campaign completion alone does not mean a quest was completed or abandoned. Change entries only to correct the record using existing sources or explicit user clarification, and move quests to `canon/resolved quests.md` only when supported by evidence of completion.
+
 # Entity Extraction
 Ingest a source and extract entities from it. Prune entities that are not relevant to the larger context. People and places tend to be relevant. Spells and items tend to be less globally relevant.
 
@@ -263,7 +273,7 @@ Each entry should use canonical entity names with Obsidian links where helpful. 
 Timeline entries should never use aliases in main content. All aliases should be resolved to the canonical name.
 
 # Quest Tracking
-Maintain `canon/quests.md` as a list of active quests and `canon/resolved quests.md` as a chronological list of completed quests.
+Maintain `canon/quests.md` as the final record of quests still open at campaign end and `canon/resolved quests.md` as a chronological list of completed quests. Apply the rules below when correcting or processing existing sources; no future transcripts are expected.
 
 ## Adding New Quests
 When ingesting a session that introduces a new quest, add an entry to `canon/quests.md`. Each quest entry should include:

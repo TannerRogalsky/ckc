@@ -325,3 +325,5 @@
 ## [2026-09-27] update | Renamed Lysanderol Nokirna to Lesanderol Nokiirna; retained the old spelling as an alias and updated canon references.
 ## [2026-09-27] update | Expanded Teleport Keys to four confirmed destinations and corrected the Broy teleportation-scriptum references.
 ## [2026-09-27] lint | Name and teleport-key corrections — Validated links, index coverage, frontmatter, session history, destination completeness, and summary structure.
+## [2026-09-27] update | Added campaign completion context to the decision-making framework in AGENTS.md.
+## [2026-09-27] update | Clarified final quest archive handling in AGENTS.md.
