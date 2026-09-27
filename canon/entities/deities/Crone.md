@@ -2,7 +2,7 @@
 type: "deity"
 subtypes: ["goddess"]
 session_introduced: "001"
-sessions_appeared: ["013", "015", "025", "026", "031", "032", "034", "035", "036", "037"]
+sessions_appeared: ["013", "015", "025", "026", "031", "032", "034", "035", "036", "037", "038"]
 aliases:
   - "The Moon"
 related:
@@ -33,3 +33,9 @@ In the debate over the [[Demi-Spell]], [[Ceril]] recalled the gods' assurance th
 [[Vokenar]] contacted Crone while approaching [[Gaokerena]]. She lay among the tree's roots, held in place while restorative light flowed into her, and remained weak from the attack on the moon.
 
 She confirmed that the party should continue toward the tree and that [[Emperor Shen]] was delaying his attack on [[Sigil]] to confront [[Domyx]]. She said the goddesses could not intervene directly, but [[Ceril]] could draw help from the tree he had restored. She also suggested that [[Vizier Jade]]'s will would eventually resist Emperor Shen's control.
+
+## Session 038
+
+From [[Ceril's Star]], the party saw the moon reforming as Crone healed. By [[Vokenar]]'s return to [[Arkadia]], she was restored to fighting condition and intended to hasten the replenishment of its oceans.
+
+Crone offered Vokenar a century of training toward an assault on a pit fiend's gathering armies in the deeper hells below the [[Gray Wastes]]. He accepted. Her governance of time does not extend into Ceril's star refuge.

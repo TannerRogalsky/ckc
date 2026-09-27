@@ -308,3 +308,20 @@
 ## [2026-09-20] restructure | Consolidated singular entity directories into plural categories; updated AGENTS.md.
 ## [2026-09-20] lint | Verified plural entity directories, frontmatter type mapping, and exact entities index coverage.
 ## [2026-09-20] update | Quartz CI — Built canon from a tracked Git worktree so Quartz can resolve Git-backed dates.
+## [2026-09-27] query | Session 038 — Read four source chunks and checked existing canon, aliases, and prior session history.
+## [2026-09-27] update | Corrected the final Vanir identity across session 037 canon using session 038's explicit resurrection account.
+## [2026-09-27] update | Distinguished 40 Carats from The Carrot Cake and preserved the company's earliest sourced appearance.
+## [2026-09-27] ingest | Session 038 finale — Updated summary, timeline, entities, index, quest resolutions, and epilogues.
+## [2026-09-27] review | Session 038 — Excluded table commentary and closing jokes; chunk 0003 contains no canonical events.
+## [2026-09-27] lint | Session 038 — Validated links, frontmatter, index coverage, chunk headings, session histories, new prose, quest ordering, and source preservation.
+## [2026-09-27] update | Session 038 — Recorded the four user-confirmed stele names across entity records, summary, timeline, and index.
+## [2026-09-27] lint | Session 038 stele names — Validated links, index coverage, unchanged entity frontmatter and history, and summary structure.
+## [2026-09-27] update | Renamed Charlotte to Charlotta Fjoller; preserved transcript aliases and session history; updated canon references and index.
+## [2026-09-27] lint | Charlotta Fjoller — Validated canonical references, links, frontmatter, index coverage, preserved session history, and unchanged summary structure.
+## [2026-09-27] update | Renamed Mudeep to Muudeep; retained spelling aliases and session history; updated canon references and index.
+## [2026-09-27] lint | Muudeep — Validated links, canonical references, frontmatter, index coverage, preserved session history, and unchanged summary structure.
+## [2026-09-27] update | Renamed Vanzia Vinfei to Vanzia Vynnfae; retained aliases and session history; updated canon references and index.
+## [2026-09-27] lint | Vanzia Vynnfae — Validated links, canonical references, frontmatter, index coverage, preserved session history, and summary headings.
+## [2026-09-27] update | Renamed Lysanderol Nokirna to Lesanderol Nokiirna; retained the old spelling as an alias and updated canon references.
+## [2026-09-27] update | Expanded Teleport Keys to four confirmed destinations and corrected the Broy teleportation-scriptum references.
+## [2026-09-27] lint | Name and teleport-key corrections — Validated links, index coverage, frontmatter, session history, destination completeness, and summary structure.

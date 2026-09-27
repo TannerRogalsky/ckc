@@ -2,7 +2,7 @@
 type: creature
 subtypes: [companion]
 session_introduced: "003"
-sessions_appeared: ["013", "015", "021", "031", "032"]
+sessions_appeared: ["013", "015", "021", "031", "032", "038"]
 related:
   - "[[Arkadia]]"
   - "[[Hole in the Sky]]"
@@ -25,3 +25,7 @@ Lyngbakr communicated telepathically with [[Ceril]], asking what must be done ne
 Lyngbakr revealed it can dive far enough beneath the ocean to reach a "second sea" of [[Akasha]] below the continental shelf — waters that feel familiar, like the oceans of [[Arkadia]] it once knew. It agreed to collect Akasha for the party, theorizing that [[Penumbra]] might be crystallized Akasha. The party asked Lyngbakr to remain near the lagoon to protect the new settlement while they pursued other quests.
 
 In session 031, [[Ceril]] and [[Red Caesar]] found Lyngbakr hidden deep beneath the largest waterfall near [[Lyngbakr Lagoon]], where it had retreated after someone tried to kill it. Red Caesar released [[Jack Harvey]]'s condensed [[Penumbra]] hoard, filling the water with star-like motes that Lyngbakr consumed. Lyngbakr declared it had enough sky-material to finish repairing the heavens. It rose into the sky with Ceril and [[Alamar]], shedding black sky-matter that sealed the [[Hole in the Sky]] and smaller wounds across Stark before passing into the heavens.
+
+## Session 038
+
+The epilogue confirmed that Lyngbakr had returned home to [[Arkadia]] and was swimming in its replenishing oceans.

@@ -2,7 +2,7 @@
 type: "character"
 subtypes: ["party-member"]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033", "034", "035", "036", "037"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033", "034", "035", "036", "037", "038"]
 related:
   - "[[Antumbra]]"
   - "[[Heaven's Bulb]]"
@@ -138,7 +138,7 @@ During the voyage to [[Broy]], Red helped track the titans during the storm, dis
 
 Upon disembarking near [[Broy]], Red helped engage the [[Oni]] demons threatening the human and tiefling civilians.
 
-In the [[Broyish Capital]], Red helped defeat the oni near the coast, then acquired citizenship papers from [[Vanzia Vinfei]] and received a teleport circle scriptum back to [[Brimbolyn]]. He explored the [[Dawn Market]], meeting [[Qian Hu]] — an ancient-world survivor who recognized him as a member of [[Heaven's Bulb]].
+In the [[Broyish Capital]], Red helped defeat the oni near the coast, then acquired citizenship papers from [[Vanzia Vynnfae]] and received a teleport circle scriptum in [[Broy]]. He explored the [[Dawn Market]], meeting [[Qian Hu]] — an ancient-world survivor who recognized him as a member of [[Heaven's Bulb]].
 
 The party entered the imperial palace and was granted audience with [[Vizier Jade]]. Red attempted to negotiate [[Obould]]'s freedom by offering to teach the Empire how to synthesize penumbra from water. Vizier Jade read his thoughts directly and caught the deception, noting he had no solid plan in place. Red then pivoted to offering to procure penumbra over time. Vizier Jade demanded fifteen pieces — the same deal made with [[The League of New Stark]]. When Obould was brought before them, Red offered to part with one piece of penumbra to secure his captain's freedom, but Vizier Jade raised the price back to fifteen. Red departed the palace recognizing that Vizier Jade was conserving energy and keeping them alive as a resource.
 
@@ -218,4 +218,12 @@ After physically crossing into the Gray Wastes, Red Caesar recognized the desert
 
 At [[Axis Mundi]], Red Caesar privately contacted [[Vizier Jade]] through a telepathic bond and proposed rebuilding [[Broy]] with her beyond [[Emperor Shen]]'s destructive ambitions. At her request he restrained her, forcing Emperor Shen to load [[Starfall]] himself. She accepted petrification to enable the plan and cautioned Red Caesar against following the emperor's path.
 
-The [[Antumbra]] Red Caesar helped create finally destroyed Starfall. He then helped the party defeat Emperor Shen's allies and the returning [[Vanir]], but [[Entropie]]'s last Wish brought forth the last Vanir, likely [[Domyx I]]. [[Kerben]] passed him the [[Potion of Eels]] for later use.
+The [[Antumbra]] Red Caesar helped create finally destroyed Starfall. He then helped the party defeat Emperor Shen's allies and the returning [[Vanir]], but [[Entropie]]'s last Wish brought forth the last Vanir, the resurrected [[Emperor Shen]]. [[Kerben]] passed him the [[Potion of Eels]] for later use.
+
+## Session 038
+
+Under [[Emperor Shen]]'s domination, [[Domyx]] struck Red Caesar down during the final battle. [[Vokenar]] restored him, and their friendship survived the coercion. After [[Ceril]] destroyed the final protective stela, Red Caesar disintegrated Emperor Shen's resurrected [[Vanir]] form, ending its life-draining influence over the [[Gray Wastes]].
+
+In the epilogue, Red Caesar and [[Vizier Jade]] agreed to rebuild [[Broy]] around laws, continuity of government, and safeguards against unchecked personal rule. He initially proposed working as her prefect while she served as the public leader; she expected him eventually to assume the leading role.
+
+Red Caesar erased the [[Demi-Spell]], preserving its blank paper for the new governing charter. The charter was established in Broy, and Vizier Jade accepted imprisonment for her own crimes under the new laws. Red Caesar chose a future for the surviving world instead of accelerating its replacement.

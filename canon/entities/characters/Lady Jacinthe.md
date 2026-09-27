@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "016", "019", "022", "031", "034"]
+sessions_appeared: ["001", "013", "016", "019", "022", "031", "034", "038"]
 related:
   - "[[The League of New Stark]]"
   - "[[The White Drake]]"
@@ -30,3 +30,7 @@ However, [[Ceril]]'s second scrying attempt — using a stolen portrait of Jacin
 In session 031, [[Obould]] was rescued from [[Vizier Jade]] and [[Emperor Shen]] at [[Lyngbakr Lagoon]], ending the hostage leverage Vizier Jade had held over Jacinthe and [[The League of New Stark]] since session 021.
 
 In session 034, Jacinthe learned that the party had hidden [[Antumbra]] in the Penumbra she surrendered to the [[Broyish Empire]]. After [[Obould]] retired from [[The Opal]], he proposed with [[Obould's Wedding Band]]. Jacinthe accepted, and they agreed to lead the League together rather than choose between their relationship and their responsibilities.
+
+## Session 038
+
+Lady Jacinthe married [[Obould]] aboard [[The White Drake]] near the former [[Lyngbakr Lagoon]]. The adventurers attended alongside League associates and visitors from [[Broy]], including [[Vizier Jade]]. Lady Jacinthe and Obould later had half-orc children.

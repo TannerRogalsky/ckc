@@ -2,7 +2,7 @@
 type: organization
 subtypes: [order]
 session_introduced: "001"
-sessions_appeared: ["013", "014", "034", "035"]
+sessions_appeared: ["013", "014", "034", "035", "038"]
 related:
   - "[[Keys Caeradel]]"
   - "[[Demi-Spell]]"
@@ -21,3 +21,7 @@ In session 034, [[Rizolvir Kiirnodel]] agreed to stop urging [[Keys Caeradel]] t
 ## Session 035
 
 The Order completed the [[Demi-Spell]] using its accumulated [[Penumbra]], but its conflict with the [[Broyish Empire]] brought severe losses. After [[Boril Erendel]]'s death, [[Keys Caeradel]] relinquished the decision to cast the spell and entrusted it to the party. The Order's immediate effort to reset the world ended with that handover.
+
+## Session 038
+
+The completed [[Demi-Spell]] was never cast: [[Red Caesar]] erased it and used its paper for [[Broy]]'s charter. [[The Academy]] was repurposed after the existing world was saved. The elves' subsequent government was a monarchy under [[Rizolvir Kiirnodel]].

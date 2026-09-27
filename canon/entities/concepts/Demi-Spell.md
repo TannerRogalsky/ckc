@@ -2,7 +2,7 @@
 type: "concept"
 subtypes: ["lore", "cosmology"]
 session_introduced: "014"
-sessions_appeared: ["014", "015", "022", "033", "034", "035", "036", "037"]
+sessions_appeared: ["014", "015", "022", "033", "034", "035", "036", "037", "038"]
 aliases:
   - "Demi Spell"
 related:
@@ -20,7 +20,7 @@ related:
   - "[[Domyx]]"
 ---
 
-A spell being developed by [[The Order of Seasons]] to rewrite the past and undo the damage caused by [[The Cataclysm]]. Described as a "grand reassembly of the elements" that changes history rather than merely predicting the future.
+A completed spell, later erased by [[Red Caesar]], developed by [[The Order of Seasons]] to rewrite the past and undo the damage caused by [[The Cataclysm]]. Described as a "grand reassembly of the elements" that changes history rather than merely predicting the future.
 
 [[Osiris Dims]] stated the Demi-Spell may be less than a year away and that the Order has acquired "rare possessions" to speed up their research. The spell would drastically change the world below, though its exact effects on existing people are unclear. The Order believes the past is so ruined that all timelines leading forward lead to calamity.
 
@@ -46,8 +46,12 @@ By the party's return to [[The Academy]], [[Keys Caeradel]] had completed the sp
 
 The text combines several mortal and heavenly languages with arcane notation. [[Vokenar]] can read and enact it. Studying it overwhelms [[Red Caesar]], but his ability to siphon sky energy can permanently extinguish it through sustained contact. [[Domyx]] can read and carry it without harm, yet cannot cast it. [[Ceril]] rejects it as unnatural and refuses to study it; he objects to Red Caesar holding it and proposes Vokenar as custodian.
 
-Red Caesar currently holds the intact spell. It remains an available last resort, and the party can instead destroy it; neither action has occurred.
+At the end of session 035, Red Caesar held the intact spell as a last resort, with the option of destroying it.
 
 ## Session 036
 
 During [[Red Caesar]]'s contact with [[Domyx I]] in the [[Gray Wastes]], the titan's promises of renewed divine war drew Red Caesar toward revealing the spell. He endured psychic pressure rather than show it. [[Vokenar]] restored him from the trance; the spell remained intact and in Red Caesar's custody.
+
+## Session 038
+
+After the party saved the existing world, [[Red Caesar]] erased the spell without destroying its paper. He used the blank pages to draft the laws of a new [[Broy]] with [[Vizier Jade]]. The completed spell was never cast, and its power is no longer available as the party's last resort. Its destruction does not end the natural cycle of [[Genesis Mundi]].

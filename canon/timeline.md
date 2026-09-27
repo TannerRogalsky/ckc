@@ -239,7 +239,7 @@ Source: [[chunks/sessions_001-0010]].
 - [[Red Caesar]] was targeted by young elves who cast Sleep on him — a mockery since only humans are susceptible. Red failed the save, then Misty Stepped behind the caster and slapped him.
 - [[Vokenar]] met [[Osiris Dims]], an aasimar who revealed the Magic City and [[The Order of Seasons]] are "one and the same" and that the [[Demi-Spell]] may be less than a year away.
 - [[Vokenar]] and [[Ceril]] reconnected with [[Gossa]], a former teacher from [[Academia Lux]] in [[Arkadia]], now working in the marketplace.
-- [[Domyx]] traded mithril, two uncommon items, and a rare item to [[Lysanderol Nokirna]] for the [[Iklwa Isondo]], a +1 mithril trident with magnetic auto-return.
+- [[Domyx]] traded mithril, two uncommon items, and a rare item to [[Lesanderol Nokiirna]] for the [[Iklwa Isondo]], a +1 mithril trident with magnetic auto-return.
 - Brim got lost in town and told the party to meet him at midnight where a bell sounds.
 
 ### Chunk 0003
@@ -498,7 +498,7 @@ Source: [[chunks/sessions_001-0010]].
 
 - The party reaches level 10.
 - [[Farraday]] is identified as an [[Arcanoloth]] who commands a portion of the ocean and holds the [[Tome of Satariel]].
-- [[Mudeep]] is introduced as a contact at [[The Garden]] who trades art pieces for attunable magic items.
+- [[Muudeep]] is introduced as a contact at [[The Garden]] who trades art pieces for attunable magic items.
 - [[Domyx]] keeps private the fact that [[Obould]] named him heir to [[The Opal]] in his logbook.
 
 ## Session 022
@@ -565,8 +565,8 @@ Source: [[chunks/sessions_001-0010]].
 - [[Oni]] sentries guard the approach, some invisible. [[Vokenar]] uses scouting magic to find a safe route and discover [[Naomi Ue]]'s dive bar.
 - Naomi Ue operates as an underground fixer, absolving criminal records through magically stamped documents in coordination with an armored elf government associate.
 - The party pays Naomi Ue 10 pounds of mithril to clear their automated oni warrants.
-- [[Vanzia Vinfei]] — who escaped [[Brimbolyn]] with [[Ceril]] decades earlier — is reunited with Ceril. She now operates alongside Naomi Ue in the [[Broyish Capital]].
-- Vanzia Vinfei confirms [[Obould]] is held by [[Vizier Jade]] as prisoner of war and leverage against [[The League of New Stark]]. She offers to lead the party to Obould but warns Vizier Jade must be confronted first.
+- [[Vanzia Vynnfae]] — who escaped [[Brimbolyn]] with [[Ceril]] decades earlier — is reunited with Ceril. She now operates alongside Naomi Ue in the [[Broyish Capital]].
+- Vanzia Vynnfae confirms [[Obould]] is held by [[Vizier Jade]] as prisoner of war and leverage against [[The League of New Stark]]. She offers to lead the party to Obould but warns Vizier Jade must be confronted first.
 - The party learns the capital has magic restrictions: permanent dead magic zones in hotels and fields suppressing spells below 7th level. Spell scrolls are contraband.
 - [[Red Caesar]] receives citizenship papers and a teleport circle scriptum back to [[Brimbolyn]]. At the [[Dawn Market]], he meets [[Qian Hu]], an ancient-world survivor who recognizes him as a member of [[Heaven's Bulb]].
 - The party explores the diverse Dawn Market and considers outfitting [[The Opal]] with cannons.
@@ -630,7 +630,7 @@ Source: [[chunks/sessions_001-0010]].
 - [[Domyx]] was swallowed by the [[Remorhaz]] and trapped inside. [[Kerben]] fired into the Remorhaz's side, punching a rescue hole. [[Vokenar]] destroyed the creature with a radiant blast. [[Kerben]] cut into the corpse to extract Domyx's unconscious body; [[Ceril]] healed him back to consciousness. Kerben harvested the Remorhaz's heat gland for warmth.
 - The party climbed from snow into grassy hills, orchards, and farmland — the magic of the titan realm taking hold. They reached the last place [[Ulrich Fjoller]] had been seen before his capture. At this altitude, the sky appeared as a flat plate separating [[Stark]] from [[Arkadia]]. A golden palace — [[Acathian Manor]] — drew heavy titan traffic.
 - [[Domyx]] entered [[Acathian Manor]] alone while the rest of the party stayed hidden, as outsiders would be endangered among the xenophobic titan folk. [[Vokenar]] detected no [[Penumbra]] nearby; the sky appeared intact from this distance.
-- Inside the manor, [[Domyx]] found [[Charlotte]] (Ulrich's sister), who warned him against being there. Domyx revealed the truth about [[Emperor Shen]] breaking the sky with [[Starfall]]. [[Lorelai Lapis-Acathian]] emerged from hiding, having overheard everything. She confirmed she was pregnant and that Ulrich was imprisoned in the [[Prison of Frost]]. She begged to flee with Ulrich's child.
+- Inside the manor, [[Domyx]] found [[Charlotta Fjoller]] (Ulrich's sister), who warned him against being there. Domyx revealed the truth about [[Emperor Shen]] breaking the sky with [[Starfall]]. [[Lorelai Lapis-Acathian]] emerged from hiding, having overheard everything. She confirmed she was pregnant and that Ulrich was imprisoned in the [[Prison of Frost]]. She begged to flee with Ulrich's child.
 - [[Ceril]]'s magma owl familiar scouted the area and reported a large cavern with heavy security and food trays being delivered inside — likely the Prison of Frost.
 - [[Domyx]] confronted his father [[Domyx IV]] at the manor's exterior. Domyx IV offered to cover up Domyx's return and send him back to Stark. When Domyx refused to forget the truth about their grandfather and discarded his Akathian medallion, Domyx IV disowned him: "You are an Akathian no more. You are my son no more." Domyx permanently renounced his family name.
 - [[Lorelai Lapis-Acathian]] introduced herself to the party and apologized for dragging them into the situation. With her information, the party knew Ulrich was held in the Prison of Frost.
@@ -1078,6 +1078,37 @@ Source: [[chunks/sessions_001-0010]].
 
 ### Chunk 0003
 
-- The party defeats Entropie, whose final Wish brings forth the last Vanir, likely [[Domyx I]]. The final manifestation's identity remains provisional.
+- The party defeats Entropie, whose final Wish brings forth the last Vanir, the resurrected [[Emperor Shen]]. Session 038 confirms the resurrection.
 - The last Vanir rises in a colossal form resembling Domyx and Emperor Shen as four unexplained obelisks emerge. The returning gods threaten the party for serving the three sister goddesses.
 - Ceril's Star remains unused; the confrontation and Aeris's mortal fate remain unresolved.
+
+## Session 038
+
+### Chunk 0000
+
+- [[Emperor Shen]]'s resurrected [[Vanir]] form drains life throughout the [[Gray Wastes]]; [[Vizier Jade]] identifies the four pillars sustaining him: the Stele of Apotropaism, Stele of Menace, Stele of Solemnity, and Stele of Serenity.
+- [[Red Caesar]] and [[Vokenar]] begin destroying the stelae. Emperor Shen imprisons [[Kerben]] in a magical maze and recognizes [[Domyx]] as his grandson.
+- [[Ceril]] invokes [[Ceril's Star]], rescuing Kerben and sheltering the party outside the three planes. [[Aeris]] helps renew their magic, and they see the moon healing.
+
+### Chunk 0001
+
+- The party returns. Emperor Shen compels Domyx to strike down Red Caesar, then releases him; Vokenar restores Red Caesar.
+- Destroying Emperor Shen's stelae accelerates the lower sky's collapse. Ceril dissolves the last support, exposing Emperor Shen to Red Caesar's Disintegrate.
+
+### Chunk 0002
+
+- Red Caesar destroys Emperor Shen's final form. The wasting influence ends, but [[Stark]]'s oceans pour through the broken lower sky.
+- Kerben stores [[The Opal]] with the party, [[Vizier Jade]], and the crew aboard. Vokenar remains in the Gray Wastes and banishes Kerben, carrying everyone else, to [[Cutlass Cray]].
+- Over subsequent weeks, Stark's oceans recede and drowned lands reappear. Cutlass Cray settles onto mountains; Vokenar cannot be contacted.
+- [[Obould]] and [[Lady Jacinthe]] marry aboard [[The White Drake]] near the former [[Lyngbakr Lagoon]], with League and [[Broy]] guests present.
+- Red Caesar erases the [[Demi-Spell]] and writes Broy's new charter on its paper. Vizier Jade helps establish the new order, then accepts imprisonment for her crimes.
+- Ceril helps replant emerging lands at [[Theotropa]]'s invitation before retiring to his star beyond the ordinary passage of time.
+- [[Theo Harvey]] reunites surviving [[40 Carats]] performers, and Kerben rebuilds the troupe. Obould confirms his captaincy and gives him a [[Spelljammer]]. Kerben visits [[Jack Harvey]]'s grave near [[Esperanto]] and eventually sails into the stars.
+- Domyx returns to [[Thalasia]], where titan houses share authority and welcome other peoples. [[Charlotta Fjoller]] encourages him to reconcile with [[Domyx IV]], who apologizes for his mistreatment.
+- Vokenar awakens young in [[Arkadia]], reunites with the goddesses and departed friends, and accepts [[Crone]]'s training toward a future campaign in the deeper hells.
+- The epilogue confirms [[Southport]]'s recovery, [[Lyngbakr]]'s return to Arkadia, and [[Witness]]'s mapping of that plane. [[Rizolvir Kiirnodel]] becomes the elves' king, and [[The Academy]] is repurposed.
+- The [[Rakshasa]] remains bound in [[Feronia Caeradel]]'s crystal; [[Keys Caeradel]] seeks a new purpose. [[Xander MacLenth]] has passed on, while [[Kilosaurus]]'s death remains unconfirmed.
+- [[Beryzoz Helmscar]] settles his grievance with Kerben through the revived troupe. Lyngbakr Lagoon is revealed as a volcanic caldera, and [[Octavia Crayborne]] is identified as Cutlass Cray's mayor.
+- Obould and Lady Jacinthe later have half-orc children.
+
+### Chunk 0003

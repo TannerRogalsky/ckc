@@ -2,7 +2,7 @@
 type: location
 subtypes: [city]
 session_introduced: "017"
-sessions_appeared: ["017", "018", "022", "025", "030"]
+sessions_appeared: ["017", "018", "022", "025", "030", "038"]
 related:
   - "[[Kaedon]]"
   - "[[The Cataclysm]]"
@@ -18,3 +18,7 @@ In session 022, [[David Harvey]] revealed that [[Harengon]] warren tunnels exten
 In session 025, the party recovered 100 pounds of Esperantan-era coins from a treasury hoard in the [[Southern Archipelago Castle]].
 
 In session 030, the [[Hole on Wheels]] train was revealed as a scenic route that once overlooked Esperanto and the surrounding desert. The same route now loops over open ocean, reinforcing that Esperanto is submerged beneath the post-Cataclysm sea.
+
+## Session 038
+
+As the oceans receded, [[Kerben]] found [[Jack Harvey]]'s previously submerged grave near Esperanto and paid his respects while rebuilding [[40 Carats]].

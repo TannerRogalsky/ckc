@@ -2,7 +2,7 @@
 type: "deity"
 subtypes: ["goddess"]
 session_introduced: "001"
-sessions_appeared: ["013", "025", "026", "031", "032", "035", "036", "037"]
+sessions_appeared: ["013", "025", "026", "031", "032", "035", "036", "037", "038"]
 aliases:
   - "The Sun"
 related:
@@ -33,3 +33,7 @@ An imperial captive revealed that [[Emperor Shen]] intended to destroy Sigil tha
 Sigil tended Crone at [[Gaokerena]] and left [[Ceril]] a message inviting him through the tree. She and [[Aeris]] received Ceril and [[Vokenar]] in [[Arkadia]], where Aeris granted [[Ceril's Star]]. Sigil worried about the danger the mortals faced.
 
 The [[Antumbra]] destroyed [[Starfall]] before its shot at Sigil could be fired. During the ensuing battle, [[Entropie]] recognized her power in Vokenar and identified her as the goddess who had defeated it before.
+
+## Session 038
+
+After the final [[Vanir]] was destroyed, Sigil welcomed [[Vokenar]] home to [[Arkadia]]. She was well and helping [[Ceril]] weave life into newly exposed lands. When [[Crone]] proposed further martial training, Sigil urged that Vokenar first have time to rest.

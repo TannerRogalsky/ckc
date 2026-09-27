@@ -57,7 +57,7 @@ The party discusses possible routes, including sending some members to [[The Whi
 
 The party reaches level 10. [[Farraday]] is clarified as an [[Arcanoloth]] who holds the [[Tome of Satariel]] and commands a portion of the ocean. The party considers using nature divination during travel to locate him as part of the quest to free the [[Rakshasa]].
 
-[[Mudeep]] is introduced as a figure at [[The Garden]] who specializes in attunable magic items that can be traded for art pieces.
+[[Muudeep]] is introduced as a figure at [[The Garden]] who specializes in attunable magic items that can be traded for art pieces.
 
 [[Domyx]] keeps private the fact that [[Obould]] named him heir to [[The Opal]] in his logbook.
 
@@ -65,7 +65,7 @@ The party plans its next moves, with sailing, rescue, and side quests on the hor
 
 ### Summary
 
-The party explored [[Castle Kaedon]]'s flooded halls, discovering [[Sunspite]]'s severed head, [[Lady Acelia's Chalice]], mithril bars, and magical items including [[Deception by Lenth]] and potions. They learned that [[Akasha]] is the pure substance of abjuration and theorized that [[Penumbra]] may be its crystallized form. They ambushed and destroyed the [[Nalfeshne]] in its throne room, with [[Ceril]]'s summoned crab delivering the killing blow. After feeding the recovered Penumbra to [[Lyngbakr]], the turtle rose enormous from the sea carrying the castle and parts of [[Westerness]], then ascended toward the [[Hole in the Sky]] and shrunk the wound by about a third. [[Lyngbakr]] revealed it can dive to a "second sea" of [[Akasha]] beneath the ocean. Upon returning to [[Lyngbakr Lagoon]], the party discovered [[Obould]] had abandoned [[The Opal]] and was captured by [[Vizier Jade]] deep in the [[Broyish Empire]]. The conjecture formed that [[Starfall]] caused [[The Cataclysm]] 60 years ago. The party reached level 10 and received details about the [[Arcanoloth]] and a new contact at [[The Garden]], [[Mudeep]].
+The party explored [[Castle Kaedon]]'s flooded halls, discovering [[Sunspite]]'s severed head, [[Lady Acelia's Chalice]], mithril bars, and magical items including [[Deception by Lenth]] and potions. They learned that [[Akasha]] is the pure substance of abjuration and theorized that [[Penumbra]] may be its crystallized form. They ambushed and destroyed the [[Nalfeshne]] in its throne room, with [[Ceril]]'s summoned crab delivering the killing blow. After feeding the recovered Penumbra to [[Lyngbakr]], the turtle rose enormous from the sea carrying the castle and parts of [[Westerness]], then ascended toward the [[Hole in the Sky]] and shrunk the wound by about a third. [[Lyngbakr]] revealed it can dive to a "second sea" of [[Akasha]] beneath the ocean. Upon returning to [[Lyngbakr Lagoon]], the party discovered [[Obould]] had abandoned [[The Opal]] and was captured by [[Vizier Jade]] deep in the [[Broyish Empire]]. The conjecture formed that [[Starfall]] caused [[The Cataclysm]] 60 years ago. The party reached level 10 and received details about the [[Arcanoloth]] and a new contact at [[The Garden]], [[Muudeep]].
 
 ### Connections
 

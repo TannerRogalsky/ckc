@@ -2,7 +2,7 @@
 type: organization
 subtypes: [clan]
 session_introduced: "013"
-sessions_appeared: ["013", "016", "024", "031", "036"]
+sessions_appeared: ["013", "016", "024", "031", "036", "038"]
 related:
   - "[[Domyx]]"
   - "[[Ulrich Fjoller]]"
@@ -25,3 +25,7 @@ In session 031, [[Emperor Shen]]'s resemblance to [[Domyx]] was revealed when [[
 [[Domyx]]'s descent beneath [[Stark]] brought him among the fallen avatars of the [[Vanir]], recalling his people's teachings about their ancient defeat by the [[Aesir]]. [[Red Caesar]] then contacted [[Domyx I]], a surviving titan god or divine spark connected to that ancestry.
 
 A slain purple worm disgorged valuables bearing the clan's insignia: [[Domyx II]]'s gold amphora and diamond-set gold coronet, together with a gold bugle. The coronet resembled [[Domyx IV]]'s.
+
+## Session 038
+
+By [[Domyx]]'s return, the titan houses governed cooperatively, with no one house in charge. Humans, halflings, gnomes, and dwarves were settling among the titans, ending their old isolation. [[Charlotta Fjoller]] welcomed Domyx, and [[Domyx IV]] apologized for his treatment of his son and accepted a future of greater personal independence.

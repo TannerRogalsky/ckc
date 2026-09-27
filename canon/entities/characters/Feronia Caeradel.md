@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc]
 session_introduced: "014"
-sessions_appeared: ["014", "022", "035"]
+sessions_appeared: ["014", "022", "035", "038"]
 aliases:
   - Faronia Karadel
   - "Veronia Karadel"
@@ -32,3 +32,7 @@ In session 022, Feronia Caeradel appeared beside Rizolvir at the House Kiirnodel
 ## Session 035
 
 Feronia Caeradel met the returning party beside [[Rizolvir Kiirnodel]] outside [[The Academy]]. She confirmed that she and the [[Rakshasa]] had been married and that he had changed repeatedly over the years. Their son, [[Keys Caeradel]], was meeting his father inside. Keys Caeradel later departed carrying the Rakshasa's soul in an amulet and intended to bring it to his mother.
+
+## Session 038
+
+By the epilogue, Feronia Caeradel wore the crystal containing the [[Rakshasa]]'s soul, following [[Keys Caeradel]]'s earlier plan to bring his father to her.

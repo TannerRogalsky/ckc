@@ -2,7 +2,7 @@
 type: "concept"
 subtypes: ["lore"]
 session_introduced: "019"
-sessions_appeared: ["019", "021", "022", "023", "024", "026", "031", "032", "033", "034", "035", "036", "037"]
+sessions_appeared: ["019", "021", "022", "023", "024", "026", "031", "032", "033", "034", "035", "036", "037", "038"]
 aliases:
   - "Star screen"
   - "Skyfall"
@@ -62,3 +62,7 @@ The party reached Starfall at [[Axis Mundi]], beyond [[Gaokerena]]'s living fore
 [[Vizier Jade]] arranged for Emperor Shen to load the final ammunition himself. That piece was the [[Antumbra]], deliberately reserved until this moment. When he pushed it into the ring, its interior became black and star-filled, trapped his hand briefly, and exploded.
 
 Starfall was completely destroyed. Emperor Shen lost its protection, and the intended shot at Sigil never occurred. [[Aeris]]'s mortal release was not established before the confrontation continued against the [[Vanir]].
+
+## Session 038
+
+The defeat of [[Emperor Shen]]'s resurrected [[Vanir]] form ended the remaining immediate threat to the sister goddesses. [[Aeris]] appeared well in [[Arkadia]] in the epilogue, establishing the rescue mission's successful outcome without a separate scene of her mortal fragment leaving Starfall.

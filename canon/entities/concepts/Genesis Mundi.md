@@ -2,7 +2,7 @@
 type: concept
 subtypes: [lore, cosmology]
 session_introduced: "004"
-sessions_appeared: ["013", "014", "022", "036"]
+sessions_appeared: ["013", "014", "022", "036", "038"]
 related:
   - "[[Demi-Spell]]"
   - "[[The Order of Seasons]]"
@@ -22,3 +22,7 @@ In session 022, [[Vokenar]] cast Legend Lore to learn more about Genesis Mundi. 
 ## Session 036
 
 The [[Gray Wastes]] are part of the reality recycled when Genesis Mundi remakes the worlds. [[Domyx I]] told [[Red Caesar]] that the war between the [[Vanir]] and [[Aesir]] recurs with the cycle, claiming the titans had prevailed in other worlds and promising their future rule. Those claims about earlier and future outcomes remain unverified. Red Caesar resisted pressure to reveal the [[Demi-Spell]], leaving the means of accelerating renewal out of Domyx I's sight.
+
+## Session 038
+
+[[Red Caesar]] destroyed the completed [[Demi-Spell]], leaving the present world to continue instead of forcing its renewal. [[Ceril's Star]] lies outside the ordinary reach of divine time; [[Ceril]] could remain there through a future Genesis Mundi or choose to enter the renewed world. That eventual choice has not been made.

@@ -2,7 +2,7 @@
 type: "character"
 subtypes: ["npc", "ally", "antagonist"]
 session_introduced: "011"
-sessions_appeared: ["011", "013", "014", "021", "022", "023", "030", "031", "032", "035", "037"]
+sessions_appeared: ["011", "013", "014", "021", "022", "023", "030", "031", "032", "035", "037", "038"]
 related:
   - "[[Broyish Empire]]"
   - "[[Red Caesar]]"
@@ -46,4 +46,12 @@ At [[Axis Mundi]], Vizier Jade encouraged [[Emperor Shen]] to demonstrate his po
 
 She asked Red Caesar to restrain her so that Emperor Shen would load [[Starfall]]'s final ammunition himself. She accepted the spell deliberately, and Emperor Shen petrified her for apparent failure. The final ammunition proved to be the [[Antumbra]], deliberately kept until this moment, and destroyed Starfall when he loaded it.
 
-[[Vokenar]] restored her from petrification after Emperor Shen's mortal defeat. Her betrayal cost her the magic and abilities he had held under his control. She warned that his death would bring back the [[Vanir]], but her attempt to cast Dimension Door failed. Her permanent Mordenkainen's Private Sanctum continued to prevent both magical entry and escape. She remained sheltered nearby when the last Vanir, likely [[Domyx I]], manifested.
+[[Vokenar]] restored her from petrification after Emperor Shen's mortal defeat. Her betrayal cost her the magic and abilities he had held under his control. She warned that his death would bring back the [[Vanir]], but her attempt to cast Dimension Door failed. Her permanent Mordenkainen's Private Sanctum continued to prevent both magical entry and escape. She remained sheltered nearby when the last Vanir, the resurrected [[Emperor Shen]], manifested.
+
+## Session 038
+
+Though bereft of her former magic, Vizier Jade explained how the stelae supported [[Emperor Shen]]'s resurrected form and how they could be permanently destroyed. She survived the confrontation and escaped aboard [[The Opal]] through [[Vokenar]]'s banishment of [[Kerben]].
+
+She attended [[Obould]] and [[Lady Jacinthe]]'s wedding as a representative of the leaderless [[Broy]]. [[Red Caesar]] proposed serving as her prefect while they established a durable government with lawful succession and limits on personal power. She agreed, while anticipating that he would eventually lead and she would answer for her past actions.
+
+After Red Caesar erased the [[Demi-Spell]] and used its pages for the new charter, Vizier Jade submitted to several years of imprisonment for offenses recognized under the new order. Her support for reconstruction did not erase her responsibility for earlier crimes.

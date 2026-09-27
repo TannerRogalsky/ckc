@@ -2,12 +2,14 @@
 type: character
 subtypes: [npc]
 session_introduced: "014"
-sessions_appeared: ["014", "022", "034", "035"]
+sessions_appeared: ["014", "022", "034", "035", "038"]
 aliases:
-  - Risolvir Kiirnodel
-  - Rizolvir Kyrno Del
-  - Kirnodell
+  - "Risolvir Kiirnodel"
+  - "Rizolvir Kyrno Del"
+  - "Kirnodell"
   - "Rizolvir Kyrnodal"
+  - "Resolvir"
+  - "King Resolvir"
 related:
   - "[[House Kiirnodel]]"
   - "[[Aramil Kiirnodel]]"
@@ -30,3 +32,7 @@ In session 034, Rizolvir Kiirnodel acknowledged that stopping [[Boril Erendel]] 
 ## Session 035
 
 Rizolvir Kiirnodel sensed [[Boril Erendel]]'s defeat and thanked the party outside [[The Academy]], accompanied by [[Feronia Caeradel]]. He said he had been urging [[Keys Caeradel]] to delay the [[Demi-Spell]], honoring his bargain despite growing pressure to erase the world's suffering.
+
+## Session 038
+
+In the epilogue, the elves established a monarchy under Rizolvir Kiirnodel, described as a considerate king who listened to his subjects. [[The Academy]] was retired from its original purpose and repurposed because the world had been saved without the [[Demi-Spell]].

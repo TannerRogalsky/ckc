@@ -2,7 +2,7 @@
 type: "deity"
 subtypes: ["goddess"]
 session_introduced: "001"
-sessions_appeared: ["013", "021", "024", "025", "031", "032", "035", "036", "037"]
+sessions_appeared: ["013", "021", "024", "025", "031", "032", "035", "036", "037", "038"]
 aliases:
   - "The Sky"
   - "Eris"
@@ -38,3 +38,9 @@ In session 031, [[Lyngbakr]] consumed [[Jack Harvey]]'s condensed [[Penumbra]] h
 Aeris defended entrusting the future to mortal choices and connected [[Emperor Shen]]'s attack to the surviving resentment of the [[Vanir]]. She bestowed [[Ceril's Star]] so the party could suspend time and recover during the coming danger.
 
 The [[Antumbra]] subsequently destroyed [[Starfall]], ending the weapon's threat. Aeris's mortal release was not established during the continuing confrontation; her earlier assurance that Antumbra would not harm her remains the basis for expecting a safe outcome.
+
+## Session 038
+
+Aeris visited the party within [[Ceril's Star]] and taught them to combine lesser magical reserves into stronger magic before returning to the final battle.
+
+The destruction of [[Emperor Shen]]'s final [[Vanir]] form ended the returning gods' immediate threat. In the epilogue, Aeris appeared well alongside [[Sigil]] and [[Crone]] in [[Arkadia]] and welcomed [[Vokenar]] home. She described his companions' futures and expressed gratitude toward [[Ceril]]. This establishes the successful outcome of the rescue mission, though the physical release of her mortal fragment from [[Starfall]] is not separately depicted.

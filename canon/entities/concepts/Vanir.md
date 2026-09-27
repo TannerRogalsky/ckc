@@ -2,7 +2,7 @@
 type: "concept"
 subtypes: ["lore", "cosmology"]
 session_introduced: "032"
-sessions_appeared: ["032", "036", "037"]
+sessions_appeared: ["032", "036", "037", "038"]
 aliases:
   - "Veneer"
 related:
@@ -26,4 +26,8 @@ In session 036, Domyx recalled that the Vanir fought the sky goddesses before th
 
 After [[Emperor Shen]]'s mortal defeat at [[Axis Mundi]], [[Vizier Jade]] revealed that he and other titans had secretly conspired with the fallen gods. His dying call brought back [[Entropie]] and [[Dunkelkalt]], hostile counterparts to the sister goddesses.
 
-The party defeated both manifestations. Before disappearing, Entropie cast a Wish that brought forth the last Vanir, provisionally identified as [[Domyx I]]. The returning old gods attack the party as servants of their enemies, [[Aeris]], [[Sigil]], and [[Crone]]. The final manifestation and four unexplained obelisks remain an active threat.
+The party defeated both manifestations. Before disappearing, Entropie cast a Wish that brought forth the last Vanir, the resurrected [[Emperor Shen]]. The returning old gods attack the party as servants of their enemies, [[Aeris]], [[Sigil]], and [[Crone]]. At the end of session 037, the final manifestation and four unexplained obelisks remained an active threat.
+
+## Session 038
+
+The final manifestation was the resurrected [[Emperor Shen]], transformed into the last Vanir by [[Entropie]]'s Wish. His arrival renewed the [[Gray Wastes]]' hostility to life, and four stone stelae reinforced him: the Stele of Apotropaism, Stele of Menace, Stele of Solemnity, and Stele of Serenity. The party permanently destroyed those supports before [[Red Caesar]] disintegrated Emperor Shen. This ended the returning Vanir's immediate threat to [[Aeris]], [[Sigil]], and [[Crone]].

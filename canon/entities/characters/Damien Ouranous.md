@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc]
 session_introduced: "001"
-sessions_appeared: ["001", "016", "022", "025", "032"]
+sessions_appeared: ["001", "016", "022", "025", "032", "038"]
 aliases:
   - Damien Oranos
   - Damien Orinos
@@ -30,3 +30,7 @@ Before leaving The White Drake, [[Ceril]] wrote a message revealing the truth ab
 In session 025, Damien helped restrain [[Zulu]] when the dinosaur raided The White Drake's meat stores as a distraction for [[Kerben]]'s sabotage mission. He made Kerben help clean the stores and warned that [[The Opal]] would receive an invoice for the lost provisions. This was Damien's final known living encounter with the party.
 
 In session 032, Ceril saw Damien's spirit traveling through Arkadia alongside Vokenar's spirit. Damien said he had been slain by Emperor Shen, although he did not know what had happened after his death. He and Vokenar reflected on [[Vizier Jade]]'s long entanglement in wars before continuing through Arkadia.
+
+## Session 038
+
+Damien Ouranous welcomed [[Vokenar]] back to [[Arkadia]], describing it as a home he had never truly known. He hoped to train at [[Academia Lux]] and become one of the plane's warriors. Vokenar offered to show him around.

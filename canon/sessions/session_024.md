@@ -103,7 +103,7 @@ The party climbed from snow into grassy hills with orchards and flowers — the 
 
 [[Domyx]] entered the manor alone while the rest of the party stayed hidden, as elves, dwarves, and aasimar would be endangered among the xenophobic titan folk. [[Vokenar]] cast Locate Object searching for [[Penumbra]] but detected none — the sky appeared intact from this distance.
 
-Inside the manor, Domyx found [[Charlotte]], Ulrich's sister, who warned him against being there. Domyx revealed the truth about [[Emperor Shen]] breaking the sky with [[Starfall]]. [[Lorelai Lapis-Acathian]] emerged from hiding, having overheard everything. She confirmed she was pregnant and that Ulrich was imprisoned in the [[Prison of Frost]], not far away. She begged to flee with Ulrich's child.
+Inside the manor, Domyx found [[Charlotta Fjoller]], Ulrich's sister, who warned him against being there. Domyx revealed the truth about [[Emperor Shen]] breaking the sky with [[Starfall]]. [[Lorelai Lapis-Acathian]] emerged from hiding, having overheard everything. She confirmed she was pregnant and that Ulrich was imprisoned in the [[Prison of Frost]], not far away. She begged to flee with Ulrich's child.
 
 Meanwhile, [[Ceril]]'s magma owl familiar scouted the area and reported a large cavern with heavy security and food trays being delivered inside — a suspicious location likely corresponding to the Prison of Frost.
 

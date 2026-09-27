@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc]
 session_introduced: "014"
-sessions_appeared: ["014", "022", "025", "032", "034", "035"]
+sessions_appeared: ["014", "022", "025", "032", "034", "035", "038"]
 aliases:
   - Keyes
   - "Keys"
@@ -33,3 +33,7 @@ After [[Boril Erendel]]'s defeat, Keys Caeradel reunited with his father, the [[
 The party defended the lives and relationships formed since [[The Cataclysm]]. [[Ceril]] relayed the gods' assurance that the moon could heal naturally and said that Illidrielle Gandara wanted Keys Caeradel to move on. Keys Caeradel conceded that he should not decide the next world's shape. At his father's suggestion, he entrusted the completed, sufficiently powered [[Demi-Spell]] to the party instead of casting it.
 
 At the Rakshasa's request, Keys Caeradel bound his father's soul into an amulet with Magic Jar and wore it around his neck. He left intending to see his mother and seek former traveling companions.
+
+## Session 038
+
+The epilogue described Keys Caeradel as seeking a new purpose away from settled elven society. His likely future was wandering and further magical work; neither a specific destination nor a completed replacement for the [[Demi-Spell]] was established. The [[Rakshasa]]'s soul remained in a crystal worn by [[Feronia Caeradel]].

@@ -2,7 +2,7 @@
 type: session
 session: "037"
 chunks: 4
-summary: "Antumbra destroys Starfall; Vizier Jade defects, and the party faces the returning Vanir, culminating in a final manifestation likely to be Domyx I."
+summary: "Antumbra destroys Starfall; Vizier Jade defects, and the party faces the returning Vanir, culminating in Emperor Shen's resurrection as the last Vanir."
 ---
 
 ## Session 037
@@ -35,8 +35,8 @@ summary: "Antumbra destroys Starfall; Vizier Jade defects, and the party faces t
 
 ### Chunk 0003
 
-- The party defeats [[Entropie]], with [[Domyx]] striking the final blow. Before dissipating, Entropie casts a Wish that brings forth the last [[Vanir]], likely [[Domyx I]].
-- The last Vanir rises in a colossal divine form resembling [[Domyx]] and [[Emperor Shen]], releasing a wave of force. The identification as Domyx I remains provisional. Four mysterious obelisks rise around the battlefield; their purpose remains unknown.
+- The party defeats [[Entropie]], with [[Domyx]] striking the final blow. Before dissipating, Entropie casts a Wish that brings forth the last [[Vanir]], the resurrected [[Emperor Shen]].
+- The last Vanir rises in a colossal divine form resembling [[Domyx]] and [[Emperor Shen]], releasing a wave of force. Session 038 confirms that this is Emperor Shen's resurrected body. Four mysterious obelisks rise around the battlefield; their purpose remains unknown.
 - The party faces the last Vanir with [[Vizier Jade]] and [[Tango]] sheltered nearby. [[Ceril's Star]] remains unused, and [[Aeris]]'s release from her mortal captivity has not yet been established.
 - [[Kerben]] passes the [[Potion of Eels]] to [[Red Caesar]] for later use.
 
@@ -50,7 +50,7 @@ At Starfall, Domyx refuses the destiny his grandfather insists on giving him. Re
 
 The resulting battle draws together enemies the party previously spared and the older divine conflict beneath the world. Emperor Shen's titan allies fall, and Domyx defeats him, but his death calls Entropie and Dunkelkalt back into the world. Vokenar frees Vizier Jade, who warns the party and can no longer rely on her former magic. Her lasting abjuration also prevents the party from simply departing the battlefield by planar travel.
 
-The party defeats both returning gods, yet Entropie's final Wish brings forth the last Vanir, likely Domyx I. The final figure resembles Domyx and Emperor Shen, but its identity remains provisional. The old gods have returned to strike at the party for serving their enemies, Aeris, Sigil, and Crone. The colossal manifestation and four rising obelisks leave that conflict unresolved. Starfall is destroyed and its shot at Sigil prevented; Aeris's mortal fate remains unconfirmed, and Ceril still holds the unused blessing that may sustain the party through the confrontation.
+The party defeats both returning gods, yet Entropie's final Wish brings forth the last Vanir, Emperor Shen's resurrected body, as confirmed in session 038. The old gods have returned to strike at the party for serving their enemies, Aeris, Sigil, and Crone. The colossal manifestation and four rising obelisks leave that conflict unresolved. Starfall is destroyed and its shot at Sigil prevented; Aeris's mortal fate remains unconfirmed, and Ceril still holds the unused blessing that may sustain the party through the confrontation.
 
 ### Connections
 
@@ -58,5 +58,5 @@ The party defeats both returning gods, yet Entropie's final Wish brings forth th
 - The Antumbra synthesized and planted in session 025 finally destroys Starfall, confirming the sabotage anticipated in session 034.
 - Vizier Jade's defection develops her covert rescue of Domyx in session 032 and her earlier interest in Red Caesar's future.
 - Farron Acathian II and Zohai Lapis are the pair spared near Broy in session 023.
-- The fallen Vanir encountered beneath Stark in session 036 now become active opponents. The last Vanir's likely identity as Domyx I connects the confrontation to Red Caesar's contact with the surviving ancestral god.
+- The fallen Vanir encountered beneath Stark in session 036 now become active opponents. Session 038 identifies the last Vanir as Emperor Shen's resurrected body; [[Domyx I]], contacted in session 036, remains a distinct ancestral god.
 - The wards that blocked entry to Axis Mundi in sessions 035–036 also prevent escape after Emperor Shen's death.

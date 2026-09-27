@@ -2,7 +2,7 @@
 type: "creature"
 subtypes: ["companion"]
 session_introduced: "011"
-sessions_appeared: ["011", "013", "017", "018", "030", "031", "036", "037"]
+sessions_appeared: ["011", "013", "017", "018", "030", "031", "036", "037", "038"]
 related:
   - "[[Kerben]]"
   - "[[The Opal]]"
@@ -23,4 +23,8 @@ Tango accompanied [[Kerben]] through [[The Funnel]] and across the boundary into
 
 ## Session 037
 
-Tango accompanied [[Kerben]] at [[Axis Mundi]] through the battles with [[Emperor Shen]] and the returning [[Vanir]]. The companion was sheltered behind the ruins when the last Vanir, likely [[Domyx I]], manifested.
+Tango accompanied [[Kerben]] at [[Axis Mundi]] through the battles with [[Emperor Shen]] and the returning [[Vanir]]. The companion was sheltered behind the ruins when the last Vanir, the resurrected [[Emperor Shen]], manifested.
+
+## Session 038
+
+Tango accompanied [[Kerben]] in the final battle at [[Axis Mundi]]. Their place-swapping bond helped Kerben escape danger and remain with the party through [[Emperor Shen]]'s defeat.

@@ -4,6 +4,7 @@ subtypes: [faction]
 session_introduced: "013"
 sessions_appeared: ["013", "014", "022", "034", "035"]
 aliases:
+  - House Kirnodel
   - House Kier Nodell
   - Kier Nodell
   - House Kiernodel

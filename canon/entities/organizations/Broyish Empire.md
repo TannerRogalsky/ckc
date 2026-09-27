@@ -2,7 +2,7 @@
 type: "organization"
 subtypes: ["empire"]
 session_introduced: "004"
-sessions_appeared: ["013", "014", "016", "022", "023", "030", "031", "033", "034", "035", "037"]
+sessions_appeared: ["013", "014", "016", "022", "023", "030", "031", "033", "034", "035", "037", "038"]
 aliases:
   - "Dawn Empire"
 related:
@@ -57,3 +57,7 @@ With Emperor Shen absent, imperial waters were largely empty and the Broyish tow
 [[Emperor Shen]] sent soldiers to intercept [[The Opal]] in the [[Gray Wastes]] while preparing to destroy [[Sigil]]. The boarding attack failed, and its captured leader was petrified by a secrecy condition after revealing the plan.
 
 At [[Axis Mundi]], [[Red Caesar]] proposed rebuilding the empire with [[Vizier Jade]]. She turned against Emperor Shen and enabled the [[Antumbra]] sabotage of [[Starfall]]. Emperor Shen was killed, after which the old [[Vanir]] returned to attack the party as servants of the three sister goddesses. The last manifestation is provisionally identified as [[Domyx I]]. No new imperial government was established during these events.
+
+## Session 038
+
+With [[Emperor Shen]] destroyed, [[Vizier Jade]] and [[Red Caesar]] rebuilt [[Broy]] through a governing charter written on the blank pages of the destroyed [[Demi-Spell]]. Their plan established continuity of leadership and limits on personal rule. Vizier Jade initially served as a public representative but expected Red Caesar eventually to lead; she later accepted imprisonment for her crimes. The exact constitutional form was not settled by name.

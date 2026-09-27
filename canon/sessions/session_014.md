@@ -65,7 +65,7 @@ In Brimbolyn, the party explored the city and the [[Elvish Marketplace]]. The ci
 
 [[Vokenar]] and [[Ceril]] reconnected with [[Gossa]], a former teacher from [[Academia Lux]] in Arkadia, now working in the marketplace. She recognized Vokenar immediately, warned him to learn about the Order, and noted that risks exist with the Demi-Spell.
 
-[[Domyx]] visited [[Lysanderol Nokirna]], an elf mithril smith, and traded mithril, two uncommon items, and a rare item for the [[Iklwa Isondo]] — a +1 mithril trident with magnetic auto-return and pull effects linked to his lodestone greaves.
+[[Domyx]] visited [[Lesanderol Nokiirna]], an elf mithril smith, and traded mithril, two uncommon items, and a rare item for the [[Iklwa Isondo]] — a +1 mithril trident with magnetic auto-return and pull effects linked to his lodestone greaves.
 
 Brim got himself lost in town and told the party to meet him at midnight where a bell sounds.
 

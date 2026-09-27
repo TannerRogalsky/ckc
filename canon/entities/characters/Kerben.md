@@ -2,7 +2,7 @@
 type: "character"
 subtypes: ["party-member"]
 session_introduced: "001"
-sessions_appeared: ["001", "011", "012", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033", "034", "035", "036", "037"]
+sessions_appeared: ["001", "011", "012", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033", "034", "035", "036", "037", "038"]
 aliases:
   - "Kerbin"
   - "Curbin"
@@ -12,6 +12,8 @@ aliases:
   - "Curben"
   - "Karbin"
   - "Kirvan"
+  - "Kirbin"
+  - "Curvin"
 related:
   - "[[The Opal]]"
   - "[[Raxxy]]"
@@ -60,6 +62,8 @@ related:
   - "[[The Pit]]"
   - "[[Obould]]"
   - "[[Imperial Xihe]]"
+  - "[[40 Carats]]"
+  - "[[Spelljammer]]"
 ---
 
 A ranger/rogue multiclass and the party's primary scout and marksman. Travels aboard [[The Opal]] as navigator and, during [[Obould]]'s captivity, as acting captain. Expert tracker and survivalist who navigated the party through frozen straits, ambushed a [[Tatzelwurm]], and infiltrated [[The White Drake]] to plant [[Antumbra]] among the League's [[Penumbra]] stash. Freed [[Theo Harvey]] in exchange for the location of [[The Carrot Cake]], a project tied to his personal history with [[Jack Harvey]].
@@ -230,4 +234,12 @@ After Kerben deployed [[The Opal]] on a suspended rock, the ship slid off and it
 
 Kerben kept [[The Opal]] on course during the imperial boarding attack and brought it to the living ground around [[Gaokerena]]. While [[Ceril]] and [[Vokenar]] visited the goddesses, he gathered food for the party from the unexpectedly rich forest.
 
-At [[Axis Mundi]], Kerben killed [[Zohai Lapis]], whose presence protected [[Emperor Shen]]. He later killed [[Dunkelkalt]], one of the two returning [[Vanir]]. [[Tango]] accompanied him through the confrontation. Kerben passed the [[Potion of Eels]] to [[Red Caesar]] before the party faced the last Vanir, likely [[Domyx I]].
+At [[Axis Mundi]], Kerben killed [[Zohai Lapis]], whose presence protected [[Emperor Shen]]. He later killed [[Dunkelkalt]], one of the two returning [[Vanir]]. [[Tango]] accompanied him through the confrontation. Kerben passed the [[Potion of Eels]] to [[Red Caesar]] before the party faced the last Vanir, the resurrected [[Emperor Shen]].
+
+## Session 038
+
+[[Emperor Shen]] trapped Kerben in a magical maze during the final battle. [[Ceril]] invoked [[Ceril's Star]] to rescue him and shelter the whole party. Kerben returned to help defeat Emperor Shen, with [[Tango]] aiding him throughout the confrontation.
+
+As the [[Gray Wastes]] flooded, Kerben placed his companions, [[Vizier Jade]], and the crew aboard [[The Opal]] and stored the vessel in its portable form. [[Vokenar]] remained behind and banished Kerben, carrying the ship and everyone aboard, home to [[Cutlass Cray]].
+
+At [[Obould]] and [[Lady Jacinthe]]'s wedding, [[Theo Harvey]] offered to reunite [[40 Carats]]. Obould confirmed Kerben as The Opal's permanent captain and gave him a [[Spelljammer]] for travel to other planes. Kerben chose first to rebuild the troupe. Receding oceans allowed him to revisit old routes and pay respects at [[Jack Harvey]]'s grave near [[Esperanto]]. In later life, he sailed The Opal into the stars to explore other worlds and their wildlife; his eventual destination remains unknown.

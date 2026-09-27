@@ -2,9 +2,9 @@
 type: "character"
 subtypes: ["party-member"]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033", "034", "035", "036", "037"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033", "034", "035", "036", "037", "038"]
 related:
-  - "[[Vanzia Vinfei]]"
+  - "[[Vanzia Vynnfae]]"
   - "[[House Kiirnodel]]"
   - "[[Aeris]]"
   - "[[Nyquil]]"
@@ -52,11 +52,11 @@ aliases:
   - "Seril Kelnavi"
 ---
 
-A druid with a shield given by [[Aeris]] that serves as a conduit to the goddess. A pre-[[The Cataclysm]] survivor who fled [[Brimbolyn]] alongside [[Vanzia Vinfei]] decades ago. Communicates with [[Aeris]] through his shield and was drawn into a shared vision with [[Vokenar]] to witness her imprisoned mortal body at the heart of [[Starfall]]. A balanced utility caster whose toolkit spans scouting, divination, environmental manipulation, summoning, and healing.
+A druid with a shield given by [[Aeris]] that serves as a conduit to the goddess. A pre-[[The Cataclysm]] survivor who fled [[Brimbolyn]] alongside [[Vanzia Vynnfae]] decades ago. Communicates with [[Aeris]] through his shield and was drawn into a shared vision with [[Vokenar]] to witness her imprisoned mortal body at the heart of [[Starfall]]. A balanced utility caster whose toolkit spans scouting, divination, environmental manipulation, summoning, and healing.
 
 ## Identity and Backstory
 
-In a flashback to the fall of [[Queen Caeradwyn]], [[Ceril]] fled west from [[Brimbolyn]] with [[Vanzia Vinfei]] and other refugees. He alone could see thick east-to-west lines of light in the sky — phenomena that increased before [[The Cataclysm]] and may be connected to the broken sky. During the escape he rejected an overture from [[House Kiirnodel]], memorizing the aristocrat who warned that others faster than him were coming.
+In a flashback to the fall of [[Queen Caeradwyn]], [[Ceril]] fled west from [[Brimbolyn]] with [[Vanzia Vynnfae]] and other refugees. He alone could see thick east-to-west lines of light in the sky — phenomena that increased before [[The Cataclysm]] and may be connected to the broken sky. During the escape he rejected an overture from [[House Kiirnodel]], memorizing the aristocrat who warned that others faster than him were coming.
 
 Served on [[The Croakborne Carnival]] alongside a half-elf woman who later stole the [[Penumbra]]. Recognized the woman as working for [[The Order of Seasons]].
 
@@ -143,7 +143,7 @@ Ceril fought alongside the party against [[Farron Acathian II]] and [[Zohai Lapi
 
 Upon disembarking, the party encountered a human and tiefling surrounded by [[Oni]] demons on slick stone. Ceril cast Moonbeam on the nearest oni and helped engage them in combat.
 
-After the oni were defeated, the party learned the human couple was from [[Southport]] seeking a cure for [[Mana Sickness]]. Ceril used his knowledge of nature to identify the herbs they had purchased — wrong herbs for the wrong illness. He identified [[Deep Roses]] as the correct cure and learned the Mana Sickness is contagious and spreading through Southport. He misty-stepped inside [[Vokenar]]'s wall of fire to reach the couple safely. Later, Ceril was reunited with [[Vanzia Vinfei]] in the [[Broyish Capital]] — an old ally from their escape from [[Brimbolyn]] decades ago. Vanzia Vinfei was now operating alongside [[Naomi Ue]] in the imperial city.
+After the oni were defeated, the party learned the human couple was from [[Southport]] seeking a cure for [[Mana Sickness]]. Ceril used his knowledge of nature to identify the herbs they had purchased — wrong herbs for the wrong illness. He identified [[Deep Roses]] as the correct cure and learned the Mana Sickness is contagious and spreading through Southport. He misty-stepped inside [[Vokenar]]'s wall of fire to reach the couple safely. Later, Ceril was reunited with [[Vanzia Vynnfae]] in the [[Broyish Capital]] — an old ally from their escape from [[Brimbolyn]] decades ago. Vanzia Vynnfae was now operating alongside [[Naomi Ue]] in the imperial city.
 
 The party entered the imperial palace and was granted audience with [[Vizier Jade]]. Ceril observed Vizier Jade's cruelty to [[Obould]] — she forced him to dance in a resilient sphere as entertainment. Ceril attempted to help [[Red Caesar]]'s negotiation by suggesting the party let Obould die, but also urged against giving Vizier Jade the secrets to penumbra alchemy, calling it too dangerous. Ceril correctly suspected that Vizier Jade might already have killed Obould and was bluffing about his survival.
 
@@ -171,7 +171,7 @@ Ceril visited the [[Temple of Sigil]] on Otyugh Isle with [[Domyx]], where they 
 
 ## Session 027
 
-In [[Cutlass Cray]], Ceril visited [[Gilder Savar]] at [[Savar Brews]]. Ceril did not recognize him in his lich form, but Gilder Savar recognized Ceril from their shared past — both had escaped [[Brimbolyn]] together alongside [[Vanzia Vinfei]]. Gilder Savar revealed he chose undeath to live long enough to perfect his craft, saying "the best drinks take centuries to distill into perfection." Ceril purchased protective and emergency-use supplies from him.
+In [[Cutlass Cray]], Ceril visited [[Gilder Savar]] at [[Savar Brews]]. Ceril did not recognize him in his lich form, but Gilder Savar recognized Ceril from their shared past — both had escaped [[Brimbolyn]] together alongside [[Vanzia Vynnfae]]. Gilder Savar revealed he chose undeath to live long enough to perfect his craft, saying "the best drinks take centuries to distill into perfection." Ceril purchased protective and emergency-use supplies from him.
 
 Ceril sailed with the party to [[The Carrot Cake]]. He supported the party during the entrance battle against undead and later collected seeds from the park's magically preserved trees.
 
@@ -225,4 +225,12 @@ Ceril discovered that the plants he grew to feed [[Aeris]] in session 024 had re
 
 Responding to [[Sigil]]'s message in the tree, he opened a passage through Gaokerena with Transport via Plants and brought [[Vokenar]] into [[Arkadia]]. Aeris bestowed [[Ceril's Star]], an enduring celestial mark and a means of suspending time to shelter the party for recuperation.
 
-Ceril helped confront [[Emperor Shen]] and the returning [[Vanir]] at [[Axis Mundi]]. The star remained unused when [[Entropie]]'s final Wish brought forth the last Vanir, likely [[Domyx I]].
+Ceril helped confront [[Emperor Shen]] and the returning [[Vanir]] at [[Axis Mundi]]. The star remained unused when [[Entropie]]'s final Wish brought forth the last Vanir, the resurrected [[Emperor Shen]].
+
+## Session 038
+
+Ceril invoked [[Ceril's Star]] during the final battle, rescuing [[Kerben]] from [[Emperor Shen]]'s maze and carrying the party into an astral refuge. [[Aeris]] helped them renew their magic before they returned to the battle. Ceril later dissolved the final protective stela, enabling [[Red Caesar]] to destroy Emperor Shen.
+
+After escaping the flooding [[Gray Wastes]] through [[Vokenar]]'s sacrifice, Ceril attended [[Obould]] and [[Lady Jacinthe]]'s wedding. [[Theotropa]] invited him to help [[The Garden]] restore lands emerging from the sea. Ceril chose to help replant them as dense, fertile jungle that would resist extensive settlement, then retire to his star.
+
+Beyond [[Crone]]'s governance of time, Ceril can live indefinitely and return to the world in later centuries. He could remain outside the next [[Genesis Mundi]] or choose to join a renewed world; that future choice remains open.

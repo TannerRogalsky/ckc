@@ -2,10 +2,9 @@
 type: location
 subtypes: [landmark]
 session_introduced: "018"
-sessions_appeared: ["018", "022", "023", "024", "027", "028", "029", "030", "031"]
+sessions_appeared: ["018", "022", "023", "024", "027", "028", "029", "030", "031", "038"]
 aliases:
-  - Carrot Cake
-  - 40 Carats
+  - "Carrot Cake"
 related:
   - "[[Kaedon]]"
   - "[[Castle Kaedon]]"
@@ -22,6 +21,7 @@ related:
   - "[[King of the Hole]]"
   - "[[Hole on Wheels]]"
   - "[[Jade's Compass]]"
+  - "[[40 Carats]]"
 ---
 
 A massive amusement park from old [[Kaedon]] that spanned multiple mountaintops through the use of great magic. It could transport visitors from one place in the world to another, allowing them to see everything from elevated peaks. The main travel destination was a tall peak to the north of [[Castle Kaedon]] but south of the elven lands.
@@ -44,9 +44,9 @@ Theo provided a map showing the Carrot Cake's location on the rear side of the c
 
 ## Session 027
 
-After a three-day sail from [[Cutlass Cray]], the party arrived at The Carrot Cake. The entrance is a man-made lagoon carved into the mountainside, hidden by illusions that had only recently dissipated. The approach winds through rocky peaks and a colorful overgrown canopy with flowers of multiple seasons growing simultaneously. A glowing orange path leads up the mountain toward a giant carrot-shaped entrance marked with the "40 Carats" logo — a stylized carrot-diamond hybrid.
+After a three-day sail from [[Cutlass Cray]], the party arrived at The Carrot Cake. The entrance is a man-made lagoon carved into the mountainside, hidden by illusions that had only recently dissipated. The approach winds through rocky peaks and a colorful overgrown canopy with flowers of multiple seasons growing simultaneously. A glowing orange path leads up the mountain toward a giant carrot-shaped entrance marked with the [[40 Carats]] logo — a stylized carrot-diamond hybrid.
 
-Inside the entrance corridor, illusory bands playing a jazzy waltz hover in the air. Tattered tents and horse hooks line the path. As the party advanced, undead in tattered orange uniforms — mummies and revenants — rose from the ground around them. A [[Magen]] in rabbit form sat on a bench drinking tea and welcomed the party: "come one, come all and welcome to the 40 carats, let the dance begin." The magen told the undead to fight on their own. The party defeated the mummies and revenants.
+Inside the entrance corridor, illusory bands playing a jazzy waltz hover in the air. Tattered tents and horse hooks line the path. As the party advanced, undead in tattered orange uniforms — mummies and revenants — rose from the ground around them. A [[Magen]] in rabbit form sat on a bench drinking tea and welcomed the party: "come one, come all and welcome to [[40 Carats]], let the dance begin." The magen told the undead to fight on their own. The party defeated the mummies and revenants.
 
 The magen confirmed that [[Penumbra]] is the power source still running the midway and provided a directory of the park's areas: the [[Magic Hat]] (a hotel and bunker), the [[Hole Shebang]] (a festival island), and other zones connected by teleport circles. Jack Harvey designed the park as a constellation of resorts across Stark, all interconnected through teleportation magic. The park was open mostly during spring and summer due to the enormous energy required to maintain it.
 
@@ -69,3 +69,7 @@ On Hole on Wheels, the party defeated the [[Vampiric Nightbringer]] controlling 
 [[Kerben]] returned to The Carrot Cake and found [[Fharan]]'s imperial force using [[Theo Harvey]] to locate [[Jack Harvey]]'s inner sanctum. The party returned to the midway, defeated the imperials, and opened the sealed door after realizing it would only respond to those who had completed the lamp challenges.
 
 The inner sanctum proved to be an underwater vault. It released a flood into the midway when opened, then led through an airlock into chambers where [[Penumbra]] had crystallized across the walls. The vault also held [[Jade's Compass]] and [[The Tyrant]], confirming that [[Vizier Jade]]'s servant had reached the vault but never escaped with its treasure. [[Red Caesar]] condensed the vault's Penumbra with [[Obvolvo Caelum]], completing the park's central purpose as Jack Harvey's safeguard for future sky-repair.
+
+## Session 038
+
+The park retained materials from [[40 Carats]], the entertainment company founded by [[Jack Harvey]] and formerly employing [[Kerben]]. The company and its amusement park are distinct. [[Theo Harvey]] reunited surviving performers, and Kerben chose to rebuild the troupe after the final battle.

@@ -2,7 +2,7 @@
 type: "location"
 subtypes: ["plane"]
 session_introduced: "036"
-sessions_appeared: ["036", "037"]
+sessions_appeared: ["036", "037", "038"]
 aliases:
   - "Gray Waste"
   - "Grey Wastes"
@@ -30,3 +30,9 @@ The Gray Wastes occupy a lower position corresponding to [[Arkadia]] above Stark
 [[The Opal]] crossed the powder desert and reached living land around [[Gaokerena]]. [[Ceril]]'s planting for [[Aeris]] had spread into a forest with varied vegetation and wildlife, demonstrating that a flourishing ecosystem could take root in the lower plane with divine aid.
 
 A path through this forest led to [[Axis Mundi]], where [[Starfall]] was destroyed and the party faced the returning [[Vanir]].
+
+## Session 038
+
+[[Emperor Shen]]'s emergence as the last [[Vanir]] drained the vitality of living beings across the plane and blighted even [[Ceril]]'s restored vegetation. His destruction ended that influence, and fertile soil and new growth returned around [[Axis Mundi]].
+
+Damage to the lower sky continued after his death. Waterfalls poured through the widening holes from [[Stark]], flooding the Gray Wastes. [[Vokenar]], who remained behind to send his companions home, recognized that the lower plane could hold the excess oceans that had drowned Stark. In the following weeks, falling sea levels exposed land above. The deeper hells remained a distinct realm below the Gray Wastes.

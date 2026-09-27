@@ -2,7 +2,7 @@
 type: location
 subtypes: [city]
 session_introduced: "001"
-sessions_appeared: ["001", "003", "004", "013", "026", "027", "034"]
+sessions_appeared: ["001", "003", "004", "013", "026", "027", "034", "038"]
 ---
 
 A floating city that grows as more boats attach to it. A typical pirate gathering place, heavily trafficked with ships flying bright colors. Some ships are anchored into a continental shelf that never surfaces — a lacuna.
@@ -26,3 +26,7 @@ A floating city that grows as more boats attach to it. A typical pirate gatherin
 - [[Gilder Savar]] — Runs Savar Brews; formerly traveled with [[Ceril]] while alive
 - [[Pleasance MacLenth]] — Librarian at Bookbinders Cray
 - [[Pastor Borm]] — A gold wyrmling, pastor of The Church of the Thirty Lights
+
+## Session 038
+
+[[Vokenar]]'s banishment returned [[Kerben]], carrying [[The Opal]] and its passengers, to Cutlass Cray. As [[Stark]]'s oceans receded over the following weeks, parts of the city settled on newly exposed mountains. Residents scrambled to relocate buildings and sustain the town after its life as a floating settlement ended.

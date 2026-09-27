@@ -2,7 +2,7 @@
 type: "character"
 subtypes: ["npc", "antagonist"]
 session_introduced: "011"
-sessions_appeared: ["011", "013", "023", "024", "026", "030", "031", "032", "033", "034", "035", "036", "037"]
+sessions_appeared: ["011", "013", "023", "024", "026", "030", "031", "032", "033", "034", "035", "036", "037", "038"]
 aliases:
   - "Domyx's Ancestor"
   - "Domyx Acathian III"
@@ -69,4 +69,10 @@ He told Domyx that he intended to grant him divine power and establish a dynasty
 
 [[Vizier Jade]] covertly arranged for him to load the final ammunition himself. He petrified her for apparent failure, then fed the [[Antumbra]] into Starfall. Its explosion destroyed the weapon and ended his invulnerability.
 
-[[Farron Acathian II]] and [[Zohai Lapis]] lent him protection until the party defeated them. Domyx then defeated Emperor Shen, who called on the [[Vanir]] before dying. [[Entropie]] and [[Dunkelkalt]] then manifested. After their defeat, Entropie's final Wish brought forth the last Vanir, a colossal figure resembling Emperor Shen and Domyx but provisionally identified as [[Domyx I]]. Emperor Shen's own resurrection is not established.
+[[Farron Acathian II]] and [[Zohai Lapis]] lent him protection until the party defeated them. Domyx then defeated Emperor Shen, who called on the [[Vanir]] before dying. [[Entropie]] and [[Dunkelkalt]] then manifested. After their defeat, Entropie's final Wish brought forth the last Vanir, Emperor Shen's resurrected body in a colossal divine form, as confirmed in session 038.
+
+## Session 038
+
+The final [[Vanir]] at [[Axis Mundi]] was Emperor Shen's resurrected body, transformed by [[Entropie]]'s Wish. He recognized [[Domyx]] as his grandson and tried to break his loyalty to his friends. His presence drained life throughout the [[Gray Wastes]], and four rib-shaped stone stelae sustained his defenses and power: the Stele of Apotropaism, Stele of Menace, Stele of Solemnity, and Stele of Serenity. He called the stelae his bones and the plane his body.
+
+He imprisoned [[Kerben]] in a magical maze and later compelled Domyx to strike down [[Red Caesar]]. [[Ceril's Star]] rescued Kerben, and [[Vokenar]] restored Red Caesar. Guided by [[Vizier Jade]], the party destroyed the supporting stelae. Ceril dissolved the last one, allowing Red Caesar's Disintegrate to destroy Emperor Shen completely. His death ended the wasting influence, but the lower sky continued collapsing and admitted Stark's oceans.

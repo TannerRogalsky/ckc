@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc]
 session_introduced: "018"
-sessions_appeared: ["018", "022", "024", "027", "030", "031", "034"]
+sessions_appeared: ["018", "022", "024", "027", "030", "031", "034", "038"]
 related:
   - "[[The Carrot Cake]]"
   - "[[David Harvey]]"
@@ -10,6 +10,7 @@ related:
   - "[[Kerben]]"
   - "[[Theo Harvey]]"
   - "[[Penumbra]]"
+  - "[[40 Carats]]"
 ---
 
 A famous entrepreneur from old [[Kaedon]] who created [[The Carrot Cake]], a massive magical amusement park spanning multiple mountaintops. He was known throughout the world for the ambitious projects he undertook during Kaedon's prosperous era.
@@ -39,3 +40,7 @@ A [[Magen]] in [[The Carrot Cake]] explained that Jack Harvey eventually had to 
 ## Session 031
 
 Jack Harvey's inner sanctum proved to be an underwater vault that protected his hidden [[Penumbra]] hoard. His preserved magic welcomed the party to the vault when [[Domyx]] opened the pressure-sealed door. The vault's Penumbra was large enough for [[Lyngbakr]] to repair the [[Hole in the Sky]], confirming Jack Harvey's hoard as a successful long-term safeguard for future generations.
+
+## Session 038
+
+As the oceans receded, [[Kerben]] found Jack Harvey's long-submerged grave near [[Esperanto]] and paid his respects. [[Theo Harvey]] helped Kerben reunite the surviving [[40 Carats]] performers, renewing Jack Harvey's legacy.

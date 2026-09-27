@@ -19,8 +19,10 @@ aliases:
   - "Vokunar"
   - "Vokun"
   - "Vokunov"
+  - "Toconar"
+  - "Kokanar"
 session_introduced: "001"
-sessions_appeared: ["001", "011", "012", "013", "014", "015", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033", "034", "035", "036", "037"]
+sessions_appeared: ["001", "011", "012", "013", "014", "015", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033", "034", "035", "036", "037", "038"]
 related:
   - "[[Arkadia]]"
   - "[[Sigil]]"
@@ -81,6 +83,7 @@ related:
   - "[[Antumbra]]"
   - "[[The Garden]]"
   - "[[Rakshasa]]"
+  - "[[Damien Ouranous]]"
 ---
 
 A cleric from [[Arkadia]], trained by the goddesses [[Sigil]] and [[Crone]] in the space between worlds. Originally from a citadel in Arkadia 60 years ago, he fell toward [[Stark]] and has spent the intervening decades in divine training. Serves as the party's healer and moral anchor, communicating with the divine through his mantle and scrying. Witnessed [[Emperor Shen]] fire [[Starfall]] at the moon through scrying, and carries Crone's dying command to focus on restoring [[Aeris]].
@@ -271,4 +274,12 @@ Vokenar's consecration of [[The Opal]] excluded the fiendish reinforcements acco
 
 He accompanied [[Ceril]] through Gaokerena into [[Arkadia]], where [[Aeris]] granted [[Ceril's Star]]. After Emperor Shen's mortal defeat at [[Axis Mundi]], Vokenar restored Vizier Jade from petrification despite their earlier enmity.
 
-Vokenar's divine healing sustained the party against [[Entropie]] and [[Dunkelkalt]]. Entropie recognized Sigil's power in him and named her as the goddess responsible for its ancient defeat. Vokenar remains with the party to face the last [[Vanir]], provisionally identified as [[Domyx I]].
+Vokenar's divine healing sustained the party against [[Entropie]] and [[Dunkelkalt]]. Entropie recognized Sigil's power in him and named her as the goddess responsible for its ancient defeat. Vokenar remains with the party to face the last [[Vanir]], the resurrected [[Emperor Shen]].
+
+## Session 038
+
+With [[Vizier Jade]]'s guidance, Vokenar helped destroy the stelae sustaining [[Emperor Shen]]'s [[Vanir]] form and restored [[Red Caesar]] after [[Domyx]] was compelled to attack him.
+
+When the [[Gray Wastes]] began flooding, Vokenar brought the party back to [[The Opal]]. He had everyone except [[Kerben]] board, then asked Kerben to store the ship with its passengers. Vokenar banished Kerben back to [[Stark]], sending the ship and everyone aboard to safety while remaining alone in the lower plane. He recognized that the Gray Wastes could contain the excess oceans and restore Stark's drowned land. For weeks afterward, his companions could not contact him.
+
+Vokenar later awoke in [[Arkadia]] in his original youthful body, with his experience intact. The precise manner and interval of his return are not established. [[Sigil]], [[Aeris]], and [[Crone]] welcomed him; he reunited with [[Alamar]], [[Illidrielle Gandara]], and [[Damien Ouranous]] and learned his friends' futures. Finding ordinary life at home unfamiliar after his travels, he accepted Crone's offer of a century of training toward an assault on armies gathering in the hells below the Gray Wastes.

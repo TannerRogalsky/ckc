@@ -2,15 +2,16 @@
 type: character
 subtypes: [npc]
 session_introduced: "014"
-sessions_appeared: ["014", "025", "026", "032", "035"]
+sessions_appeared: ["014", "025", "026", "032", "035", "038"]
 aliases:
-  - Lydriel Gondara
-  - Lydriel
-  - Elidriel
-  - Hadriel
-  - Illidreal
+  - "Lydriel Gondara"
+  - "Lydriel"
+  - "Elidriel"
+  - "Hadriel"
+  - "Illidreal"
   - "Elidriel Gandara"
   - "Elidreal"
+  - "Illidrael"
 related:
   - "[[The Order of Seasons]]"
   - "[[The Academy]]"
@@ -29,3 +30,7 @@ In session 025, Illidrielle collaborated with [[Keys Caeradel]] and [[Red Caesar
 ## Session 035
 
 Her death weighed on [[Keys Caeradel]] and the subdued atmosphere at [[The Academy]]. [[Ceril]] said he had spoken with Illidrielle Gandara beyond the mortal world, where she was happy and wanted Keys Caeradel to move on. This helped persuade him to relinquish the [[Demi-Spell]] and seek a new life. The account does not establish how she died.
+
+## Session 038
+
+Illidrielle Gandara greeted [[Vokenar]] in [[Arkadia]] and asked about the others, including [[Ceril]]. She accepted that the [[Demi-Spell]] would not be cast despite her work on it.

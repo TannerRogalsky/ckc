@@ -2,7 +2,7 @@
 type: location
 subtypes: [settlement]
 session_introduced: "003"
-sessions_appeared: ["003", "013", "015", "016", "031"]
+sessions_appeared: ["003", "013", "015", "016", "031", "038"]
 aliases:
   - Langbacher Lagoon
 related:
@@ -20,3 +20,7 @@ By session 015, the lagoon had grown into a proper settlement with huts and resi
 By session 016, the settlement had added sturdier wooden structures, a watchtower, a cistern, and expanded food-growing efforts supported by [[Ceril]] and [[Kerben]].
 
 By session 031, Lyngbakr Lagoon had expanded into a mixed refuge for humans, dwarves, elves, and others displaced by the moon's destruction and rising conflict. [[Alamar]] had abandoned full secrecy and armed the island with harpoons against [[Broyish Empire]] balloons. The [[Imperial Xihe]] later reached the shore, sending troops inland and bringing [[Emperor Shen]], [[Vizier Jade]], and the captive [[Obould]] to threaten the settlement. After [[Lyngbakr]] repaired the [[Hole in the Sky]] and departed with Alamar and [[Ceril]], the lagoon's future leadership and defenses became uncertain.
+
+## Session 038
+
+The aftermath confirmed that most residents survived [[Emperor Shen]]'s assault, although people died and the settlement was burned. As the oceans receded, the lagoon proved to be the caldera of a tall volcano and lost its familiar appearance. [[The White Drake]] hosted [[Obould]] and [[Lady Jacinthe]]'s wedding nearby.

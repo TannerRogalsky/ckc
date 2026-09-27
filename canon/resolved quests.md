@@ -103,12 +103,12 @@
 ## Cure Mana Sickness
 - **Given by:** [[Southport]] (implicit)
 - **Resolved:** Session 033
-- **Details:** [[Ceril]] reached [[Ninki Nanka]] through the dragon's poisonous cave and removed a Penumbra-born curse with Greater Restoration. This ended new [[Mana Sickness]] infections, while [[Deep Roses]] continue treating existing victims.
+- **Details:** [[Ceril]] reached [[Ninki Nanka]] through the dragon's poisonous cave and removed a Penumbra-born curse with Greater Restoration. This ended new [[Mana Sickness]] infections, while [[Deep Roses]] continued treating existing victims. Session 038 confirms Southport's full recovery.
 
 ## Reunite Obould and Lady Jacinthe
 - **Given by:** Implicit (crew loyalty)
 - **Resolved:** Session 034
-- **Details:** After his rescue, [[Obould]] retired as captain of [[The Opal]], proposed to [[Lady Jacinthe]] with [[Obould's Wedding Band]], and agreed to lead [[The League of New Stark]] alongside her.
+- **Details:** After his rescue, [[Obould]] retired as captain of [[The Opal]], proposed to [[Lady Jacinthe]] with [[Obould's Wedding Band]], and agreed to lead [[The League of New Stark]] alongside her. They married in session 038.
 
 ## Kill Farraday
 - **Given by:** [[Rakshasa]]
@@ -123,7 +123,7 @@
 ## Stop the Demi-Spell / confront Boril Erendel
 - **Given by:** [[Crone]], [[Ceril]] (own initiative)
 - **Resolved:** Session 035
-- **Details:** The party killed [[Boril Erendel]] and destroyed his mirror laboratory at [[House Erendel]], fulfilling its bargain with [[Rizolvir Kiirnodel]]. [[Keys Caeradel]] then relinquished the completed [[Demi-Spell]] instead of casting it. [[Red Caesar]] holds the intact spell and can destroy it; [[Vokenar]] can cast it as a last resort. The immediate reset attempt has ended, though the spell remains available.
+- **Details:** The party killed [[Boril Erendel]] and destroyed his mirror laboratory at [[House Erendel]], fulfilling its bargain with [[Rizolvir Kiirnodel]]. [[Keys Caeradel]] then relinquished the completed [[Demi-Spell]] instead of casting it. The immediate reset attempt ended with [[Red Caesar]] holding the intact spell as a last resort. In session 038, he erased it and used the blank pages for [[Broy]]'s governing charter.
 
 ## Reunite Keys Caeradel with the Rakshasa
 - **Given by:** [[Keys Caeradel]], [[Rakshasa]]
@@ -133,4 +133,24 @@
 ## Find and disable Starfall
 - **Given by:** [[Sigil]], [[Crone]], [[Aeris]]
 - **Resolved:** Session 037
-- **Details:** The party reached [[Axis Mundi]] by way of [[Gaokerena]]. [[Vizier Jade]] arranged for [[Emperor Shen]] to load the final ammunition himself, which proved to be the [[Antumbra]] planted in session 025. The resulting explosion completely destroyed [[Starfall]], ended Emperor Shen's invulnerability, and prevented the planned shot at [[Sigil]]. Confirming [[Aeris]]'s mortal release remains a separate active objective.
+- **Details:** The party reached [[Axis Mundi]] by way of [[Gaokerena]]. [[Vizier Jade]] arranged for [[Emperor Shen]] to load the final ammunition himself, which proved to be the [[Antumbra]] planted in session 025. The resulting explosion completely destroyed [[Starfall]], ended Emperor Shen's invulnerability, and prevented the planned shot at [[Sigil]]. The rescue mission's successful conclusion is established in session 038.
+
+## Rescue Aeris
+- **Given by:** [[Sigil]], [[Crone]], [[Aeris]]
+- **Resolved:** Session 038
+- **Details:** With [[Starfall]] destroyed and the final [[Vanir]] defeated, the divine rescue mission concludes successfully. [[Aeris]] appears well beside her sisters in [[Arkadia]] and welcomes [[Vokenar]] home. The release of her mortal fragment from Starfall is not separately depicted.
+
+## Defeat the returning Vanir
+- **Given by:** [[Aeris]], [[Sigil]], [[Crone]] (the party's divine mission)
+- **Resolved:** Session 038
+- **Details:** After defeating [[Entropie]] and [[Dunkelkalt]], the party destroys the stelae sustaining [[Emperor Shen]]'s resurrected form as the last [[Vanir]]. [[Red Caesar]] disintegrates him, ending his wasting influence and the immediate threat to the sister goddesses.
+
+## Rebuild Broy with Vizier Jade
+- **Given by:** [[Red Caesar]] (proposal to [[Vizier Jade]])
+- **Resolved:** Session 038
+- **Details:** Red Caesar and Vizier Jade establish a governing charter for [[Broy]] emphasizing laws, succession, and limits on personal power. Red Caesar erases the [[Demi-Spell]] and uses its paper for the charter. Vizier Jade submits to imprisonment under the new laws.
+
+## Reunite 40 Carats
+- **Given by:** [[Theo Harvey]]
+- **Resolved:** Session 038
+- **Details:** Theo Harvey gathers surviving [[40 Carats]] performers from [[Cutlass Cray]] and [[The Garden]]. [[Kerben]] rebuilds and leads the troupe before eventually leaving aboard [[The Opal]] to explore other worlds.

@@ -2,7 +2,7 @@
 type: session
 session: "023"
 chunks: 3
-summary: "Party sails to Broy, battles titans and oni, enters the imperial capital, meets Vanzia and Naomi Ue, and learns Shen is Domyx's grandfather."
+summary: "Party sails to Broy, battles titans and oni, enters the imperial capital, meets Vanzia Vynnfae and Naomi Ue, and learns Shen is Domyx's grandfather."
 ---
 
 ## Chunks
@@ -25,11 +25,11 @@ The human and tiefling the party had saved were [[Trent Indorra]] and [[Ebbie In
 
 The party was led through winding stairs into an industrial steel town with whirring gears, copper electrical cables, and automated wheeled devices. [[Oni]] sentries were perched on pillars overlooking the town, some invisible. [[Vokenar]] used scouting magic to find a safe route and discovered [[Naomi Ue]]'s dive bar and her operation as an underground fixer who absolves criminal records through magically stamped documents.
 
-The party entered Naomi Ue's tavern, where they were recognized as outsiders. [[Vanzia Vinfei]] — an old ally who had escaped [[Brimbolyn]] with [[Ceril]] decades earlier — was present. She and Ceril were reunited after many years. Vanzia Vinfei was now operating alongside Naomi Ue in the [[Broyish Capital]].
+The party entered Naomi Ue's tavern, where they were recognized as outsiders. [[Vanzia Vynnfae]] — an old ally who had escaped [[Brimbolyn]] with [[Ceril]] decades earlier — was present. She and Ceril were reunited after many years. Vanzia Vynnfae was now operating alongside Naomi Ue in the [[Broyish Capital]].
 
 Naomi Ue revealed the party had automated warrants issued by the [[Oni]] for their killings near the coast. She offered to clear the warrants for 10 pounds of mithril, which the party paid. An elf associate — an armored woman who appeared to hold official government position — stamped the documents to void them.
 
-Vanzia Vinfei confirmed that [[Obould]] is in the custody of [[Vizier Jade]] as prisoner of war and leverage against [[The League of New Stark]]. She offered to lead the party to Obould but warned Vizier Jade must be confronted first. She offered citizenship papers to [[Red Caesar]] and a teleport circle scriptum back to [[Brimbolyn]].
+Vanzia Vynnfae confirmed that [[Obould]] is in the custody of [[Vizier Jade]] as prisoner of war and leverage against [[The League of New Stark]]. She offered to lead the party to Obould but warned Vizier Jade must be confronted first. She offered citizenship papers to [[Red Caesar]] and a teleport circle scriptum in [[Broy]].
 
 The party learned that magic is restricted in parts of the capital — permanent dead magic zones in hotels and Globe of Invulnerability-like fields suppressing spells below 7th level. Spell scrolls are contraband. [[Oni]] sentries rotate positions at set intervals, some invisibly.
 
@@ -57,7 +57,7 @@ The party returned to [[The Opal]]. During his night watch, [[Vokenar]] checked 
 
 ### Summary
 
-The party arrived at the [[Broyish Empire]], survived a titan attack, and entered the imperial capital. They cleared their warrants through [[Naomi Ue]] and reunited [[Ceril]] with [[Vanzia Vinfei]]. The party had audience with [[Vizier Jade]] and [[Emperor Shen]], learning that Emperor Shen is [[Domyx]]'s grandfather and the erased ancestor who attacked the sky. Vizier Jade demanded fifteen pieces of [[Penumbra]] for [[Obould]]'s freedom. [[Theo Harvey]] vanished from his cage during the night.
+The party arrived at the [[Broyish Empire]], survived a titan attack, and entered the imperial capital. They cleared their warrants through [[Naomi Ue]] and reunited [[Ceril]] with [[Vanzia Vynnfae]]. The party had audience with [[Vizier Jade]] and [[Emperor Shen]], learning that Emperor Shen is [[Domyx]]'s grandfather and the erased ancestor who attacked the sky. Vizier Jade demanded fifteen pieces of [[Penumbra]] for [[Obould]]'s freedom. [[Theo Harvey]] vanished from his cage during the night.
 
 ### Connections
 
@@ -66,7 +66,7 @@ The party arrived at the [[Broyish Empire]], survived a titan attack, and entere
 - [[Farron Acathian II]] is a relation to [[Clan Akathia]], connecting Domyx's bloodline to titan folk.
 - [[The Tyrant]]'s fate reveals that [[The Carrot Cake]] has dangerous defenses capable of capturing even imperial creatures.
 - [[The League of New Stark]]'s penumbra payments have extended [[Obould]]'s stay of execution to roughly three months.
-- [[Vanzia Vinfei]]'s presence in the [[Broyish Capital]] connects Ceril's past escape from [[Brimbolyn]] to the present mission.
+- [[Vanzia Vynnfae]]'s presence in the [[Broyish Capital]] connects Ceril's past escape from [[Brimbolyn]] to the present mission.
 - [[Mana Sickness]] and [[Deep Roses]] introduce a new quest thread tied to [[Southport]] and the [[Mana Sea]].
 - [[Qian Hu]] connects the [[Dawn Market]] to [[Heaven's Bulb]] lore and [[Master Lee]]'s past.
 - The [[Broyish Capital]]'s magic restrictions and oni surveillance present ongoing operational challenges.

@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc, antagonist]
 session_introduced: "022"
-sessions_appeared: ["022", "023", "024", "031"]
+sessions_appeared: ["022", "023", "024", "031", "038"]
 related:
   - "[[David Harvey]]"
   - "[[Harengon]]"
@@ -16,9 +16,11 @@ related:
   - "[[Kerben]]"
   - "[[Gheister]]"
   - "[[The Opal]]"
+  - "[[40 Carats]]"
+  - "[[Obould]]"
 ---
 
-A [[Harengon]] traitor who betrayed his people by revealing the location of their secret underground warrens to the [[Broyish Empire]]. He works with the Empire's military forces. He is described as "wicked to the end" and a pirate through and through.
+A [[Harengon]] traitor who betrayed his people by revealing the location of their secret underground warrens to the [[Broyish Empire]]. He formerly worked with the Empire's military forces. He is described as "wicked to the end" and a pirate through and through.
 
 ## Plot Events
 
@@ -53,3 +55,7 @@ When the rest of the party returned, they discovered Theo gone and the [[Gheiste
 ## Session 031
 
 The [[Broyish Empire]] recaptured Theo and forced him, manacled, to guide an imperial force into [[The Carrot Cake]]. Theo tried to mislead his captors by suggesting the party had already looted the vault, but [[Fharan]] kept pressing him toward the inner sanctum door. During the battle at the door, [[Kerben]] freed Theo with Knock and handed him a balloon feather token. Theo escaped upward, telling Kerben that the [[Penumbra]] was behind the door and that he would hide in the dwarven lands.
+
+## Session 038
+
+At [[Obould]] and [[Lady Jacinthe]]'s wedding, Theo Harvey thanked [[Kerben]] for saving him from imperial guards at [[The Carrot Cake]] and giving him a balloon to escape. Theo Harvey had befriended Obould and gathered surviving [[40 Carats]] performers from [[Cutlass Cray]] and [[The Garden]]. Kerben accepted his proposal to rebuild the troupe.

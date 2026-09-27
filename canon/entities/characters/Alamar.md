@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc]
 session_introduced: "007"
-sessions_appeared: ["007", "013", "015", "016", "018", "031", "032", "035"]
+sessions_appeared: ["007", "013", "015", "016", "018", "031", "032", "035", "038"]
 related:
   - "[[Lyngbakr Lagoon]]"
   - "[[Lyngbakr]]"
@@ -30,3 +30,7 @@ In session 018, a dead noble woman questioned via [[Beryzoz's Teeth]] revealed t
 In session 031, Alamar's settlement at [[Lyngbakr Lagoon]] had become a larger mixed refuge after the moon's destruction drove people from human, dwarven, and elven communities toward safety. Alamar explained that secrecy had become impossible and that the settlement had armed itself with harpoons against [[Broyish Empire]] balloons. When the Empire landed troops near the lagoon, Alamar tried to return to the settlement to protect its people. After [[Lyngbakr]] consumed enough [[Penumbra]] to repair the sky, Alamar joined [[Ceril]] on the turtle's ascent into the heavens, leaving Stark as the [[Hole in the Sky]] sealed beneath them.
 
 In session 032, Alamar crossed the drained ocean floor of [[Arkadia]] with [[Ceril]] after the sky's restoration. He reunited with [[Vlerro]], [[Igden]], and [[Tyson Cromwell]], dead companions and mentors from old [[Kaedon]], and chose to remain with them for the time being so they could catch up. With his mission fulfilled, he treated his former world as part of the past and settled into Arkadia's dreamlike paradise while Ceril continued to the goddesses. No magical inability to return was stated; his decision appeared voluntary.
+
+## Session 038
+
+Alamar greeted [[Vokenar]] in [[Arkadia]], accompanied by a small sphinx. He welcomed the peaceful life there after a difficult life on [[Stark]] and credited his eventual trust in the party. He understood that the [[Demi-Spell]] would not be cast and expected to remain until the natural renewal of the world.

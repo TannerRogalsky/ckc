@@ -2,7 +2,7 @@
 type: "character"
 subtypes: ["party-member"]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033", "034", "035", "036", "037"]
+sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033", "034", "035", "036", "037", "038"]
 aliases:
   - "Domyx Akathian"
   - "Domyx Spurgruhn"
@@ -32,7 +32,7 @@ related:
   - "[[Fuchsia Fungus]]"
   - "[[Aeon]]"
   - "[[Iklwa Isondo]]"
-  - "[[Lysanderol Nokirna]]"
+  - "[[Lesanderol Nokiirna]]"
   - "[[Yalet Aurum]]"
   - "[[Gunk Grodley]]"
   - "[[Goblin Traders]]"
@@ -48,7 +48,7 @@ related:
   - "[[The Carrot Cake]]"
   - "[[Gheister]]"
   - "[[Domyx IV]]"
-  - "[[Charlotte]]"
+  - "[[Charlotta Fjoller]]"
   - "[[Acathian Manor]]"
   - "[[Prison of Frost]]"
   - "[[Remorhaz]]"
@@ -90,7 +90,7 @@ Wields a halberd and later a trident. Has divine smite (Holy Light) and Divine F
 - On [[Continental Stark]], used his lodestone greaves to detect buried train rails through magnetic pull. Defeated the [[Fuchsia Fungus]] with a Holy Light hammer strike, then carried unconscious migrants to safety and gave them to the elven scouts.
 - Fought through the [[Aeon]]'s psychic charm and kept the creature pinned down long enough for the party to turn the battle. The Aeon offered a star gem and gold before Plane Shifting away; [[Vokenar]] chose not to attack and accepted the offer.
 - Recruited [[Brim the Bullywog]] to join the party. Met [[Marshal Zem]] at the train junction.
-- In the [[Elvish Marketplace]], traded mithril, two uncommon items, and a rare item to [[Lysanderol Nokirna]] for the [[Iklwa Isondo]], a +1 mithril trident with magnetic auto-return and pull effects.
+- In the [[Elvish Marketplace]], traded mithril, two uncommon items, and a rare item to [[Lesanderol Nokiirna]] for the [[Iklwa Isondo]], a +1 mithril trident with magnetic auto-return and pull effects.
 - Visited [[Yalet Aurum]]'s monument in the jungle outside [[Brimbolyn]] with [[Red Caesar]] and the party. Helped solve Yalet's riddle about his brother [[Yalet Mora]].
 
 ## Session 015
@@ -167,7 +167,7 @@ The Remorhaz swallowed Domyx whole. Trapped inside the creature, he attempted to
 
 The party climbed from snow into grassy hills with orchards and flowers — the magic of the titan realm taking hold. They reached the last place [[Ulrich Fjoller]] had been seen before his capture. Domyx recognized the terrain from his earlier descent and could lead the party the rest of the way. At this altitude, the sky appeared as a flat plate separating [[Stark]] from [[Arkadia]]. A golden palace — [[Acathian Manor]] — drew heavy titan traffic.
 
-Domyx entered the manor alone while the rest of the party stayed hidden, as outsiders would be endangered among the xenophobic titan folk. He found [[Charlotte]], Ulrich's sister, who warned him against being there. Domyx revealed the truth about [[Emperor Shen]] breaking the sky with [[Starfall]]. [[Lorelai Lapis-Acathian]] emerged from hiding, having overheard everything. She confirmed she was pregnant and that Ulrich was imprisoned in the [[Prison of Frost]]. She begged to flee with Ulrich's child.
+Domyx entered the manor alone while the rest of the party stayed hidden, as outsiders would be endangered among the xenophobic titan folk. He found [[Charlotta Fjoller]], Ulrich's sister, who warned him against being there. Domyx revealed the truth about [[Emperor Shen]] breaking the sky with [[Starfall]]. [[Lorelai Lapis-Acathian]] emerged from hiding, having overheard everything. She confirmed she was pregnant and that Ulrich was imprisoned in the [[Prison of Frost]]. She begged to flee with Ulrich's child.
 
 Domyx confronted his father [[Domyx IV]] at the manor's exterior. Domyx IV initially showed relief at seeing his son, then anger at the rule-breaking. He offered to cover up Domyx's return and send him back to Stark. When Domyx refused to forget the truth about their grandfather and discarded his Akathian medallion, Domyx IV disowned him: "You are an Akathian no more. You are my son no more." Domyx walked away, renouncing his family name permanently.
 
@@ -251,4 +251,12 @@ At [[Axis Mundi]], Domyx rejected [[Emperor Shen]]'s insistence that he inherit 
 
 The [[Antumbra]] destroyed [[Starfall]] and stripped Emperor Shen's protection. Domyx defeated [[Farron Acathian II]], then overcame his grandfather with the party's help. Emperor Shen died looking at him after calling on the [[Vanir]].
 
-[[Dunkelkalt]] repeatedly cast Domyx outside reality during the ensuing battle. Domyx returned and struck the final blow against [[Entropie]], whose dying Wish brought forth the last Vanir. The colossal figure resembles Domyx and his grandfather, but is provisionally identified as [[Domyx I]].
+[[Dunkelkalt]] repeatedly cast Domyx outside reality during the ensuing battle. Domyx returned and struck the final blow against [[Entropie]], whose dying Wish brought forth the last Vanir. The colossal figure is [[Emperor Shen]]'s resurrected body, as confirmed in session 038.
+
+## Session 038
+
+During the battle with the resurrected [[Emperor Shen]], Domyx's grandfather magically compelled him to attack [[Red Caesar]]. Domyx wept as he struck his friend down; Emperor Shen released him and claimed that loyalty made him weak. [[Vokenar]] restored Red Caesar, and the party ultimately destroyed Emperor Shen together.
+
+After Vokenar secured the party's escape from the [[Gray Wastes]], Domyx attended [[Obould]] and [[Lady Jacinthe]]'s wedding. He returned to [[Thalasia]] to investigate the history and customs of his people. [[Charlotta Fjoller]] welcomed him to a homeland where the houses now governed cooperatively and other peoples lived among the titans.
+
+At [[Acathian Manor]], [[Domyx IV]] apologized for decades of mistreatment and acknowledged the corrupt influence of their lineage. Domyx told him of Emperor Shen's and [[Farron Acathian II]]'s deaths. Father and son reconciled, carrying a heavy log together while Domyx began recounting his travels. His return does not establish that he resumed his former family name or claimed authority.

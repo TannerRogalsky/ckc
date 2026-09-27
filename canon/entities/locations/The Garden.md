@@ -2,7 +2,7 @@
 type: location
 subtypes: [landmark]
 session_introduced: "001"
-sessions_appeared: ["013", "015", "033", "035"]
+sessions_appeared: ["013", "015", "033", "035", "038"]
 related:
   - "[[Theotropa]]"
   - "[[Boril Erendel]]"
@@ -26,7 +26,7 @@ The nearby tropical terrain has plantain groves — a resource the druids might 
 - [[Theotropa]] — Leader of The Garden
 - [[Boril Erendel]] — Member of [[The Order of Seasons]] stationed here, working on his own version of the [[Demi-Spell]]
 - [[Rakshasa|The Rakshasa]] — Divine being dwelling in the inner sanctum; [[Keys Caeradel]]'s father
-- Muudeep — Sells wares
+- [[Muudeep]] — Sells wares
 
 ### Livestock
 - Wargs, Hippogryph, Jackalweres, Pixies
@@ -34,3 +34,7 @@ The nearby tropical terrain has plantain groves — a resource the druids might 
 ## Session 035
 
 With [[Farraday]]'s surveillance ended, the [[Rakshasa]] left the sanctuary to reunite with [[Keys Caeradel]] at [[The Academy]].
+
+## Session 038
+
+[[Theotropa]] invited [[Ceril]] to join the work of replanting lands exposed by retreating oceans. Ceril offered temporary help but favored dense jungle over easy expansion of settlements, then retired to [[Ceril's Star]]. [[Theo Harvey]] also found surviving [[40 Carats]] performers here while reuniting the troupe.

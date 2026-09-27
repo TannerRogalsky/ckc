@@ -2,7 +2,7 @@
 type: "vessel"
 subtypes: ["ship"]
 session_introduced: "001"
-sessions_appeared: ["013", "015", "016", "024", "025", "026", "027", "030", "031", "032", "033", "034", "035", "036", "037"]
+sessions_appeared: ["013", "015", "016", "024", "025", "026", "027", "030", "031", "032", "033", "034", "035", "036", "037", "038"]
 related:
   - "[[Obould]]"
   - "[[Kerben]]"
@@ -10,6 +10,8 @@ related:
   - "[[Domyx]]"
   - "[[Vorgan of the Stage]]"
   - "[[Gray Wastes]]"
+  - "[[Spelljammer]]"
+  - "[[40 Carats]]"
 ---
 
 The ship on which the party travels, now captained by [[Kerben]]. Former captain [[Obould]] permanently retired in session 034. Navigator [[Raxxy]] handles the rigging and lookout, while [[Otto]] serves as carpenter. The ship carries rotating deckhands and permanent specialists.
@@ -62,3 +64,9 @@ Kerben summoned a roc to guide the fall. The sails caught wind, the crew activat
 Imperial soldiers teleported aboard during the voyage across the [[Gray Wastes]], but [[Vokenar]]'s consecration excluded their fiendish reinforcements. After defeating them, the party used the common area's shared-language magic to question a captive. He revealed [[Emperor Shen]]'s imminent attack on [[Sigil]] before a secrecy condition turned him to stone in the captain's chair.
 
 The Opal reached the living ground around [[Gaokerena]] and anchored at the edge of the dust. The party disembarked to reach [[Axis Mundi]].
+
+## Session 038
+
+To escape the flooding [[Gray Wastes]], [[Kerben]] boarded his companions, [[Vizier Jade]], and the crew, then stored the ship in its portable form. [[Vokenar]] stayed behind and banished Kerben, carrying the ship and everyone aboard, to [[Cutlass Cray]].
+
+At [[Obould]] and [[Lady Jacinthe]]'s wedding, Obould confirmed Kerben as permanent captain and gave him a [[Spelljammer]] to mount aboard the ship. After rebuilding [[40 Carats]], Kerben eventually sailed The Opal into the stars. Vokenar's consecrations persist, though they are temporarily inactive during the vessel's astral travel.

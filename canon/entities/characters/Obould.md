@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "015", "016", "019", "021", "022", "023", "026", "030", "031", "032", "034"]
+sessions_appeared: ["001", "013", "015", "016", "019", "021", "022", "023", "026", "030", "031", "032", "034", "038"]
 related:
   - "[[The Opal]]"
   - "[[Domyx]]"
@@ -10,9 +10,10 @@ related:
   - "[[Lady Jacinthe]]"
   - "[[Vizier Jade]]"
   - "[[Broyish Empire]]"
+  - "[[Spelljammer]]"
 ---
 
-Captain of [[The Opal]]. A gaudy orc who is very friendly with his crew and willing to go to great lengths (even "helping an elf") to establish himself and his ship as a force to be reckoned with. Hates [[The Order of Seasons]], describing them as "mostly elves, mostly jerks." The ship may have been inherited or stolen.
+Former captain of [[The Opal]], succeeded by [[Kerben]]. A gaudy orc who is very friendly with his crew and willing to go to great lengths (even "helping an elf") to establish himself and his ship as a force to be reckoned with. Hates [[The Order of Seasons]], describing them as "mostly elves, mostly jerks." The ship may have been inherited or stolen.
 
 After the Darvinblast arc, [[Obould]] ordered [[The Opal]] reinforced with a laminate deck so it could carry [[Kilosaurus]] and heavy [[Penumbra]]. He supported turning [[Lyngbakr Lagoon]] into a second base of operations, leaving crew there to help [[Alamar]] develop and defend it.
 
@@ -47,3 +48,9 @@ During [[Red Caesar]]'s forced dream, [[Emperor Shen]] told [[Vizier Jade]] that
 ## Session 034
 
 At [[The White Drake]], Obould learned that the party had secretly placed [[Antumbra]] in the Penumbra sent to the [[Broyish Empire]]. He permanently resigned as captain of [[The Opal]], naming [[Kerben]] as his successor. Obould then proposed to [[Lady Jacinthe]] with [[Obould's Wedding Band]]. She accepted, and they agreed to lead [[The League of New Stark]] together.
+
+## Session 038
+
+Obould married [[Lady Jacinthe]] aboard [[The White Drake]], with the surviving adventurers and guests from [[Broy]] present. In time, they had half-orc children.
+
+He confirmed [[Kerben]] as [[The Opal]]'s permanent captain and gave him a [[Spelljammer]], a crystalline device received from southern orcish guilds and kept until the ship could withstand its power. He also introduced Kerben to the grateful [[Theo Harvey]], who proposed reuniting [[40 Carats]].

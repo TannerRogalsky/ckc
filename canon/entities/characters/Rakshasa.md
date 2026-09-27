@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc]
 session_introduced: "014"
-sessions_appeared: ["014", "015", "034", "035"]
+sessions_appeared: ["014", "015", "034", "035", "038"]
 related:
   - "[[Ceril]]"
   - "[[The Garden]]"
@@ -28,3 +28,7 @@ He initially dismissed the [[Demi-Spell]] as futile and treated the eventual [[G
 Freed to travel, the Rakshasa visited Keys Caeradel at [[The Academy]], where his son confined him in a magical cage. Feronia Caeradel confirmed their former marriage and described his repeated changes over the years.
 
 The Rakshasa initially argued that the shattered moon meant the sky remained incomplete. When Keys Caeradel reconsidered casting the Demi-Spell, the Rakshasa advised handing it to the party so that they could determine the world's fate. At his own request, Keys Caeradel used Magic Jar to bind his soul into an amulet, allowing his son to carry him away without the cage.
+
+## Session 038
+
+The epilogue confirmed that the Rakshasa remained bound within a crystal now worn by his former wife, [[Feronia Caeradel]]. [[Keys Caeradel]] had previously carried the amulet away from [[The Academy]].

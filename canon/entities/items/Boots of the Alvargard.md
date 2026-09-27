@@ -14,4 +14,4 @@ Magical boots that permanently quicken the wearer. They do not require attunemen
 
 ## Plot Events
 
-In session 022, [[Red Caesar]] acquired these boots at the [[Elvish Marketplace]] in Brimbolyn. He traded [[The Jewel of Alfheimer]] — a rare landscape painting by [[Aramil Kiirnodel]] — to [[Mudeep]] in exchange.
+In session 022, [[Red Caesar]] acquired these boots at the [[Elvish Marketplace]] in Brimbolyn. He traded [[The Jewel of Alfheimer]] — a rare landscape painting by [[Aramil Kiirnodel]] — to [[Muudeep]] in exchange.

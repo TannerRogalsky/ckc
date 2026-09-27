@@ -2,7 +2,7 @@
 type: "location"
 subtypes: ["landmark"]
 session_introduced: "031"
-sessions_appeared: ["031", "032", "033", "035", "036", "037"]
+sessions_appeared: ["031", "032", "033", "035", "036", "037", "038"]
 aliases:
   - "Axis Mundic"
   - "Axis Mundy"
@@ -43,4 +43,10 @@ The party reached Axis Mundi by following a forest path past [[Gaokerena]]. [[Ce
 
 The [[Antumbra]] destroyed Starfall, scattering its stone supports and tearing up the surrounding vegetation. The party defeated Emperor Shen and his titan allies there, then fought the returning [[Entropie]] and [[Dunkelkalt]].
 
-Vizier Jade confirmed that her permanent Mordenkainen's Private Sanctum still prevented planar travel and teleportation out as well as in. Entropie's final Wish brought forth the last [[Vanir]], likely [[Domyx I]], and four unexplained obelisks rose around the battlefield. The final figure's identity remains provisional.
+Vizier Jade confirmed that her permanent Mordenkainen's Private Sanctum still prevented planar travel and teleportation out as well as in. Entropie's final Wish brought forth the last [[Vanir]], the resurrected [[Emperor Shen]], and four unexplained obelisks rose around the battlefield. Session 038 identifies this form as Emperor Shen's resurrected body.
+
+## Session 038
+
+Four rib-shaped stone pillars supported [[Emperor Shen]]'s resurrected [[Vanir]] form: the Stele of Apotropaism, Stele of Menace, Stele of Solemnity, and Stele of Serenity. [[Vizier Jade]] explained their protective powers and how to destroy them permanently. [[Red Caesar]], [[Vokenar]], and [[Ceril]] eliminated them; Ceril's destruction of the last support enabled Red Caesar to disintegrate Emperor Shen.
+
+The wasting influence ended and vegetation began recovering, but the sky continued collapsing. Water from [[Stark]] poured into the [[Gray Wastes]], forcing the party to flee to [[The Opal]].

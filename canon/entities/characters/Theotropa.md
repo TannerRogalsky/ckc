@@ -2,7 +2,7 @@
 type: character
 subtypes: [npc]
 session_introduced: "001"
-sessions_appeared: ["001", "015"]
+sessions_appeared: ["001", "015", "038"]
 related:
   - "[[The Garden]]"
   - "[[Storm Phoenix]]"
@@ -17,3 +17,7 @@ In session 015, [[Vokenar]] used Locate Object to find a drained [[Penumbra]] ch
 When the party returned after destroying the Storm Phoenix, Theotropa confirmed the task was complete — lightning had struck deep into one of her woodlands and storms had been returned to the region. She explained that lightning brings destruction but new life grows from the ashes, much like the phoenix itself. She gave the party the drained Penumbra and noted that someone had come looking for it in their absence — a scout from the [[Broyish Empire]] who had appeared as a cloud on some device. The Penumbra was under non-detection, so the scout left empty-handed. Theotropa offered to hold onto any future Penumbra the party found, since others were coming for it.
 
 She is the same person who led the Garden in [[Alamar]]'s time before [[The Cataclysm]], confirming that she is a long-lived being who has persisted across ages.
+
+## Session 038
+
+At [[Obould]] and [[Lady Jacinthe]]'s wedding, Theotropa thanked [[Ceril]] for completing the divine mission and offered him a place in [[The Garden]]. She asked for help restoring vegetation and supporting the peoples settling newly exposed land. Ceril agreed to contribute before withdrawing to [[Ceril's Star]].
