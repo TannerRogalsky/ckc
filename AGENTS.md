@@ -250,6 +250,68 @@ Party-member files (`subtypes: [party-member]`) should focus on narrative identi
 
 A party-member file should answer "who is this character and what matters about them?" not "what happened to them in each combat encounter?" If a combat event is narratively significant — a character dies, a major villain falls, a spell reveals critical lore, a choice has lasting consequences — include it briefly with focus on the narrative impact, not the mechanics.
 
+# Character Article Structure
+
+Apply this structure when creating or deliberately reorganizing character files, including party members and NPCs. Use the exact section names and order below; omit optional sections without substantive source-supported content. This is a body layout, not a change to the frontmatter schema. Other entity types retain their existing layouts.
+
+## Opening and Section Order
+
+After frontmatter, use `# Canonical Name`, matching the filename, followed by a short introductory paragraph. State who the character is, their defining role or affiliation, and why they matter to the campaign. Make the introduction consistent with their last established state, qualifying former roles explicitly. Keep detailed biography and interpretation in the sections below.
+
+| Order | Exact heading | Content and boundaries |
+|---|---|---|
+| 1 | `## Identity and Background` | Established ancestry, origin, appearance where distinctive, upbringing, training, and history before the campaign. Explain changes of name, body, or identity using canonical names; keep alias spellings in frontmatter. Put campaign-era transformations in Campaign History and summarize their final result here only as needed to describe identity accurately. |
+| 2 | `## Personality and Motivations` | Supported values, temperament, goals, fears, loyalties, and internal conflicts. Anchor interpretations in meaningful choices or statements; distinguish stated motives from inference. Do not invent psychology or treat isolated jokes as enduring traits. |
+| 3 | `## Relationships` | Significant bonds with people, companions, deities, factions, and communities. Use one bullet per relationship, beginning with a canonical wiki-link, followed by its nature, stakes, and important changes. Include party relationships when individually meaningful, not a roster of everyone encountered. The prose explains relationships; frontmatter `related` remains a curated navigation aid. |
+| 4 | `## Abilities` | An integrated account of distinctive magic, skills, training, and enduring capabilities. Group by function where useful: divination, protection, survival, leadership, crafting, and so on. Preserve established signature spells and meaningful growth, without combat logs, exhaustive repeated cast lists, or numerical mechanics. Mark abilities that were lost, temporary, item-dependent, or limited to an earlier form. |
+| 5 | `## Equipment and Resources` | Signature items, important possessions, vessels under command, bases, and other narratively significant resources. Use linked bullets with a brief purpose and ownership or custody where known. Distinguish acquired, borrowed, transferred, consumed, lost, and former possessions; an acquisition is not proof of possession at campaign end. Link item articles for fuller descriptions. Companions belong primarily in Relationships. |
+| 6 | `## Campaign History` | A chronological synthesis of the character's own arc: consequential decisions, discoveries, achievements, failures, transformations, and changes in allegiance or responsibility. Explain what changed and why it mattered to this character. Use compact paragraphs or milestone bullets; group substantial histories under descriptive `###` arc headings. Do not reproduce the party's full itinerary or every session appearance. |
+| 7 | `## Final Status` | The last established condition, role, whereabouts, relationships, and commitments, including any epilogue. Distinguish completed outcomes from intentions, predictions, and unresolved possibilities. If the character disappears before the ending, give the last attested state and its session; do not imply that it persisted unchanged through the finale. State meaningful uncertainty here rather than inventing closure. |
+
+## Scaling the Layout
+
+- **Player characters and substantial recurring NPCs:** Use every section for which meaningful information exists. Campaign History and Final Status are required for these substantial articles. The five primary party members have enough material to support the full layout, but no heading is a license to invent content.
+- **Moderately documented NPCs:** Use the same heading names and relative order, selecting only sections that improve retrieval. A short background can stay in the introduction; a single meaningful relationship can stay in its relevant narrative paragraph if a separate Relationships section would merely duplicate it.
+- **Brief NPCs:** An introduction alone, or an introduction with a few of the standard sections, is sufficient. Do not create empty headings, placeholders, or repeated statements to imitate a player-character page. Include an established fate in the introduction when Final Status would contain only the same sentence.
+- Use optional `###` subdivisions within a standard section when its size warrants them. Prefer descriptive headings for character-specific subjects; do not introduce competing top-level headings such as Motivations, Plot Events, Session NNN, or Miscellaneous.
+
+## Chronology, Evidence, and Duplication
+
+Campaign History owns the detailed account of how a character changed. The other sections synthesize identity, motivations, relationships, capabilities, possessions, and final condition. A brief cross-reference or consequence may appear in both places, but do not repeat whole scenes or explanations. Separate Abilities from Equipment and Resources: describe inherent or learned capabilities in the former and an item's contribution in the latter.
+
+Order history by established in-world chronology, using session and chunk order when chronology is uncertain. Put pre-campaign flashbacks in Identity and Background with the session in which they were revealed. Do not organize new character material as appended `## Session NNN` sections. Integrate it into the appropriate profile sections and chronological arc instead. A brief history does not need arc subheadings.
+
+Give each history milestone or coherent arc paragraph a supporting session wiki-link, such as `[[session_032]]`, and cite pivotal profile claims where useful, especially disputed identity, changing custody, lost powers, and final outcomes. Use existing session files and chunk anchors only after verifying that they exist. Locate the supporting session or source chunk for older undated material; never guess provenance. Preserve unresolved provenance uncertainty if the corpus does not settle it. Session summaries and transcripts retain the fuller event record.
+
+Existing character prose is a starting point, not authority for resolving contradictions. Consult relevant session summaries and source chunks when a claim is ambiguous, internally inconsistent, or consequential to identity or fate. Attribute character claims, suspicions, prophecies, and visions rather than silently presenting them as established outcomes. Do not infer abilities from class rules or fill gaps from external game lore.
+
+Use canonical names throughout prose and link labels. Preserve meaningful name changes narratively without using an alias as the article's ordinary name. Keep historical relationships and prior forms distinguishable from final ones. Do not use a generic Unknown entry for every absent biographical fact; record uncertainty only when it matters to understanding the character.
+
+## Application Examples from This Campaign
+
+These examples guide placement; verify the underlying sources when rewriting rather than copying this section as canon.
+
+- **Ceril:** Separate pre-Cataclysm background, ties to Aeris and former companions, druidic capabilities, and important gifts. Campaign History connects care for Aeris with the growth around Gaokerena. Final Status distinguishes the restoration work and retirement to his star from his still-open choice about a later world.
+- **Domyx:** Distinguish ancestry and sky-touching from his campaign rejection of Clan Akathia. Explain family relationships and self-determination separately from his rescue and confrontation milestones. Preserve the earlier designation as The Opal's successor without confusing it with Kerben's eventual captaincy.
+- **Red Caesar:** Keep the philosophy of choice in Personality and Motivations, the changing bond with Vizier Jade in Relationships, and arcane research in Abilities. Campaign History traces Antumbra, Obvolvo Caelum, and the decision to erase the Demi-Spell; Final Status records the established Broy settlement without turning proposed offices into confirmed appointments.
+- **Kerben:** Give scouting, navigation, and poison craft a coherent Abilities section; place companions in Relationships and signature gear and ship command in Equipment and Resources. Trace his connections to Jack Harvey and Farraday, the Carrot Cake discoveries, and progression to permanent captain in Campaign History.
+- **Vokenar:** Distinguish origin, reincarnated body, retained aasimar nature, and final return to Arkadia. Place divine mentorship in Relationships and changing powers in Abilities. Preserve the sacrifice and return as separate milestones, including uncertainty about the manner and interval of his return.
+- **Recurring NPCs:** Obould and Lady Jacinthe need relationship and leadership histories; Vizier Jade needs distinctions between former powers, changing allegiance, and accountability; Keys Caeradel needs family ties, the Demi-Spell decision, and an uncertain later direction. A character such as Courteous Cam can use a much shorter selection of the same sections.
+
+## Reorganization and Maintenance Checks
+
+Before restructuring, inventory the article's distinct narrative facts, relationships, capabilities, possessions, and unresolved claims. Map each to its destination section. Preserve substantive information and source references while merging duplication and removing routine mechanics or table meta under the existing content rules. Do not silently discard a meaningful fact because it fits the new layout awkwardly.
+
+After restructuring:
+
+- Confirm the canonical title, exact standard headings, their relative order, and the absence of empty or duplicate sections and leftover session appendices.
+- Check that every substantive fact from the inventory survives in an appropriate section, or was corrected from evidence; meaningful uncertainties must survive too.
+- Confirm that history is chronological, milestones have verified provenance, and summaries of identity, relationships, abilities, resources, and final status agree with the ending of that history.
+- Distinguish historical states from final states, including custody changes, transformations, departures, deaths, returns, and projected futures.
+- Preserve frontmatter identity and session history; reorganization alone does not establish a new appearance or introduction session. Validate frontmatter and links under the existing rules.
+- Check index coverage and update the one-line entity description when the article's canonical characterization is materially corrected. A layout-only change does not require rewriting an accurate index description.
+- Perform the applicable Post-Ingest Validation checks for touched canon surfaces and append the operations to log.md. Do not change quest status merely because a character article was reorganized.
+
 # Session Summation
 Each session should have a summary written to @canon/sessions/. It should provide a bullet point list of events and items acquired if relevant and then a longer summary of characters and plot. It can also provide connections with previous sessions.
 

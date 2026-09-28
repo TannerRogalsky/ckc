@@ -327,3 +327,5 @@
 ## [2026-09-27] lint | Name and teleport-key corrections — Validated links, index coverage, frontmatter, session history, destination completeness, and summary structure.
 ## [2026-09-27] update | Added campaign completion context to the decision-making framework in AGENTS.md.
 ## [2026-09-27] update | Clarified final quest archive handling in AGENTS.md.
+## [2026-09-28] review | Evaluated five player-character articles and recurring NPCs for a shared character layout.
+## [2026-09-28] update | Added reusable character article structure and reorganization guidance to AGENTS.md.
