@@ -1,229 +1,181 @@
 ---
-type: "character"
-subtypes: ["party-member"]
+type: character
+subtypes: [party-member]
 session_introduced: "001"
-sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033", "034", "035", "036", "037", "038"]
+sessions_appeared: ["001", "002", "009", "011", "012", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033", "034", "035", "036", "037", "038"]
 related:
-  - "[[Antumbra]]"
-  - "[[Heaven's Bulb]]"
   - "[[The Cataclysm]]"
-  - "[[The Opal]]"
+  - "[[Heaven's Bulb]]"
   - "[[Master Lee]]"
   - "[[Para and Bellum]]"
-  - "[[Steelfend Clan]]"
-  - "[[Morel Chainsunder]]"
+  - "[[The Opal]]"
+  - "[[Obould]]"
   - "[[Ceril]]"
-  - "[[Beryzoz Helmscar]]"
-  - "[[Beryzoz's Teeth]]"
-  - "[[Kerben]]"
-  - "[[Darvinblast]]"
-  - "[[Continental Stark]]"
-  - "[[Akasha]]"
-  - "[[Aeon]]"
-  - "[[Brimbolyn]]"
-  - "[[Garsinth Theralal]]"
-  - "[[Yalet Aurum]]"
-  - "[[The Academy]]"
   - "[[Vizier Jade]]"
-  - "[[House Kiirnodel]]"
-  - "[[Yalet Mora]]"
-  - "[[The White Drake]]"
-  - "[[Lady Jacinthe]]"
-  - "[[Damien Ouranous]]"
-  - "[[The League of New Stark]]"
-  - "[[Starfall]]"
-  - "[[Farron Acathian II]]"
-  - "[[Broy]]"
   - "[[Keys Caeradel]]"
-  - "[[Illidrielle Gandara]]"
-  - "[[Wand of Blighting Bolts]]"
-  - "[[The Wonder Hulk]]"
-  - "[[Cutlass Cray]]"
+  - "[[Yalet Mora]]"
+  - "[[The Order of Seasons]]"
+  - "[[Boril Erendel]]"
+  - "[[Broyish Empire]]"
+  - "[[Akasha]]"
+  - "[[Penumbra]]"
+  - "[[Antumbra]]"
   - "[[Obvolvo Caelum]]"
-  - "[[Axis Mundi]]"
+  - "[[The Carrot Cake]]"
+  - "[[Lyngbakr]]"
+  - "[[Starfall]]"
   - "[[Demi-Spell]]"
+  - "[[Emperor Shen]]"
+  - "[[Axis Mundi]]"
+  - "[[Broy]]"
+  - "[[Lady Jacinthe]]"
+  - "[[Lodestar]]"
+  - "[[Rizolvir Kiirnodel]]"
+  - "[[Illidrielle Gandara]]"
+  - "[[Kerben]]"
+  - "[[Domyx]]"
+  - "[[Vokenar]]"
+  - "[[Beryzoz's Teeth]]"
+  - "[[Boots of the Alvargard]]"
+  - "[[Wand of Blighting Bolts]]"
+  - "[[Ioun of Crimson Dreams]]"
 ---
 
-An abjurer wizard of steampunk sensibilities and a survivor of [[The Cataclysm]], Red Caesar is the intellectual engine and moral compass of [[The Opal]]. A former student of [[Heaven's Bulb]] under [[Master Lee]], Red is defined by a reckless, academic hunger—the kind that leads him to treat the world as a laboratory, whether by testing the properties of unknown fungi or inventing a "hamster ball" strategy of protective wards to bait monsters. In a world dominated by the longevity and arrogance of elves, Red stands as a resilient human outsider; he has taken the stigma of being "the filth" and forged it into a fierce, philosophical defense of autonomy. He holds a profound conviction that "choice is life," leading him to wage an arcane war against any force that seeks to impose a predetermined destiny, from the eugenics of [[Boril Erendel]] to the imperial machinery of the [[Broyish Empire]]. Whether he is acting as the party's secret-gatherer in the halls of [[The White Drake]], synthesizing [[Antumbra]] via his own "Caesarean method" to sabotage [[Starfall]], or plotting with [[Yalet Mora]] to steal a golden head, Red is a man who believes the future should be discovered through curiosity and courage, not dictated by power.
+# Red Caesar
 
-## Identity and Backstory
+A human wizard and former student of [[Heaven's Bulb]], Red Caesar is one of [[The Opal]]'s original companions. His research helps repair the sky and enables the destruction of [[Starfall]]. After [[Emperor Shen]]'s final defeat, Red Caesar erases the [[Demi-Spell]] and helps establish a new governing charter for [[Broy]].
 
-In a flashback at [[Heaven's Bulb]], received [[Para and Bellum]], two copper blades, from [[Master Lee]].
+## Identity and Background
 
-## Motivations
+Red Caesar is human, a survivor of [[The Cataclysm]], and a former pupil of [[Heaven's Bulb]], whose education aimed to make its members capable of inheriting a new world. Flashbacks show his education under [[Master Lee]], who valued Red Caesar's determination to understand how the world works even when the knowledge might be unbearable. [[Master Lee]] and [[Keeper Rufus]] warned him about the dangers outside the conclave. In one memory, [[Master Lee]] gave Red Caesar two copper blades, [[Para and Bellum]].
 
-Red Caesar is driven by three core principles:
+## Personality and Motivations
 
-**1. Understanding how the world works.** Master Lee's pride in Red was specifically that "Red Caesar wants to understand how the world works, even if the knowledge is unbearable." As a member of [[Heaven's Bulb]] — an organization dedicated to making people "capable of inheriting the new world" — Red is a natural scientist. He tests hypotheses (the [[Akasha]] to [[Penumbra]] synthesis theory), experiments (testing electrical arcs in the [[Hole Shebang]]), and builds theories about the world's mechanics.
+Curiosity drives Red Caesar's magical work. He tests ideas about how the world functions and follows difficult questions into consequential research, most notably the relationship between [[Akasha]] and [[Penumbra]]. [[Master Lee]]'s description of Red Caesar as someone who wants to understand the world, whatever the cost, captures this longstanding quality. His experiments with the electrical arcs in the [[Hole Shebang]] illustrate that practical approach to investigation.
 
-**2. Protecting his found family.** He is deeply loyal to [[Obould]] — he tried to negotiate for Obould's freedom in the imperial palace, sequestered himself to manufacture fake [[Penumbra]] specifically motivated by his dislike of [[Vizier Jade]] and her cruelty to Obould, and has been the primary driver of the Obould rescue thread. He protected Obould during the hobgoblin boarding of [[The Opal]], and sought out [[Lady Jacinthe]] privately to learn about the Obould/Jacinthe oath.
+Red Caesar treats [[Obould]] and his companions as chosen family. His determination to recover his captain led him to investigate [[Lady Jacinthe]]'s dealings and manufacture counterfeit [[Penumbra]] as leverage against [[Vizier Jade]]. The danger to his companions could draw him into deception and risky bargains as readily as his academic curiosity.
 
-**3. Opposition to imposed destiny.** Red believes that no single person or group should make existential choices for the entire world. In session 014 at [[The Academy]], he argued against the [[Demi-Spell]]: "It's simply a matter of giving folks the opportunity to decide for themselves. I-I, for one, would not make this choice for the entire world. I'm merely trying to patch up the sky, and then folks can do with that what they will." When [[Illidrielle Gandara]] countered that fixing the sky also deprives people of choice, he replied: "You're talking about causing immense harm, possibly, with some also immense good. But it doesn't matter, because you're taking away that choice from so many people. Choice is life." This same principle made him horrified by [[Boril Erendel]]'s eugenics Demi-Spell plan in session 015 — "it took everything in him not to destroy the office" — and his argument at The Academy that the [[The Order of Seasons]]' approach "takes away choice from the world's people." Both the Demi-Spell and Boril Erendel's plan are about one group deciding what the world should look like for everyone else. Red's opposition to imposed destiny runs deeper than his distrust of any single antagonist — he would oppose the Demi-Spell even without [[Vizier Jade]] or the [[Broyish Empire]]. This is particularly personal for Red as a human in a world dominated by elves and the Empire; he is the "filth" the [[Aeon]] called him — the one who gets left behind in resets and eugenics plans alike.
+Red Caesar's political judgment centers on people's right to choose their own future. At [[The Academy]], he argued that the sky should be repaired so people could decide what came next, rather than have the [[Demi-Spell]] dictate a future for everyone. He opposed [[Boril Erendel]]'s plan to reincarnate all souls in high elf bodies for the same reason. His position is captured in his statement, "Choice is life." He also took an interest in how different governments worked, requesting Broyish citizenship to understand a system unlike the society he had left or [[The League of New Stark]].
 
-## Abilities and Equipment
+## Relationships
 
-Can cast: Shocking Grasp, Dispel Magic, Lightning Bolt, Fireball, Misty Step, Resilient Sphere, Shield of Faith, Counterspell, Guiding Bolt, Magic Missile, Mage Armor, Locate Creature, Detect Magic, Identify, Guidance, Control Water, Banishment, and Vampiric Touch. Has the War Caster feat, allowing spell casting on opportunity attacks while in Resilient Sphere. Uses a scimitar for two-weapon fighting. Resilient Sphere creates an impenetrable warding sphere covered in runes identical to those used on [[Heaven's Bulb]]'s stanchions.
+- [[Obould]] — Red Caesar's captain and chosen family. Red Caesar defended him during the attack on [[The Opal]], investigated his captivity, and tried to negotiate his release from [[Vizier Jade]]'s custody. Learning how she used him to pressure [[Lady Jacinthe]] and [[The League of New Stark]] intensified Red Caesar's opposition to her imperial agenda.
+- [[Master Lee]] — Red Caesar's mentor at [[Heaven's Bulb]] encouraged his difficult questions and gave him [[Para and Bellum]]. Red Caesar later returned to their shared memories while continuing the research that [[Master Lee]] had praised.
+- [[Ceril]] — Red Caesar's longtime companion and collaborator in repairing the sky. [[Ceril]] saved him from a mold hazard and protected him from the Mark of the Home curse at [[Castle Kaedon]]; Red Caesar later enabled [[Ceril]] to reach [[Ninki Nanka]] safely through a poisonous cave. They carried the condensed [[Penumbra]] to [[Lyngbakr]] together. They disagreed over who should hold the [[Demi-Spell]], but continued working together at [[Axis Mundi]].
+- [[Vizier Jade]] — She first approached Red Caesar privately, offering safe passage to [[Broy]] and warning him that his companions were liabilities. Red Caesar initially trusted her enough to decline a restriction scroll; that trust was later strained by her use of [[Obould]] as leverage and her service to [[Emperor Shen]]. At [[Axis Mundi]], Red Caesar proposed that they rebuild [[Broy]] together beyond [[Emperor Shen]]'s rule. She helped bring about [[Starfall]]'s destruction, accepting petrification and the loss of her former powers, and warned him against repeating the emperor's mistakes. They later worked together on Broy's charter, under which she submitted to punishment.
+- [[Lady Jacinthe]] — Red Caesar sought her out to understand her history with [[Obould]] and the oath that bound him to die in her place. Her covert bargain with [[Vizier Jade]] made her both a source of information and a compromised ally in his attempt to free his captain. After [[Obould]]'s rescue, Red Caesar disclosed the [[Antumbra]] sabotage to them both.
+- [[Keys Caeradel]] — Red Caesar debated the [[Demi-Spell]] with him and collaborated with him and [[Illidrielle Gandara]] on [[Antumbra]]. After [[Boril Erendel]] fell, Red Caesar urged him to value the lives and relationships already formed and seek happiness beyond [[The Academy]]. [[Keys Caeradel]] then entrusted the completed spell to the party, and Red Caesar took custody.
+- [[Yalet Mora]] — They became drinking companions aboard [[The Opal]] and agreed to grow stronger and eventually confront [[Yalet Aurum]], his older brother, for his golden head. They later reached that confrontation, and the feud was settled without killing [[Yalet Aurum]]. Red Caesar encouraged [[Yalet Mora]] to see his own potential in the choices and experiences that shaped him.
+- [[Lodestar]] — A fellow former student of [[Heaven's Bulb]] who studied divination while Red Caesar pursued abjuration. They reunited and reminisced in [[Southport]]. Her warnings helped the party prepare to rescue [[Ninki Nanka]], and her divinations identified a temporary lull in [[Emperor Shen]]'s activity.
+- [[Vokenar]] — A companion who supported Red Caesar's custody of the [[Demi-Spell]], restored him after his encounter with [[Domyx I]], and brought him back into the final fight after [[Domyx]]'s compelled attack.
+- [[Domyx]] — A companion Red Caesar protected from domination aboard [[Hole on Wheels]]. [[Domyx]]'s ancestral song later supported his attempt to contact the fallen gods. [[Emperor Shen]] turned [[Domyx]] against Red Caesar in the final battle; the attack was compelled, and they continued opposing [[Emperor Shen]] together.
 
-## Plot Events
+## Abilities
 
-- Used level 4 Dispel Magic to free the [[Steelfend Clan]] from [[Morel Chainsunder]]'s control.
-- During the church confrontation, freed caged civilians by removing bolts from the cages. Cast Detect Magic and Identify on the [[Morel Chainsunder]] document, revealing it as the binding spell itself. Destroyed the document, breaking the spell over Darvinblast.
-- In [[The Pit]], traded an amethyst to [[Beryzoz Helmscar]] for [[Beryzoz's Teeth]], a ring of necrotic resistance that can speak with the dead.
-- During the northern expedition, used Locate Creature to detect [[Gnoll]] ambushes before they could spring, confirming no gnolls remained within 1000 feet after the battle.
-- Used [[Para and Bellum]] for vampiric magic. Cast Vampiric Touch against a [[Wyvern]] — manifested as electricity arcing from the creature back into his body, like a reverse of his shocking grasp.
-- Learned that wyvern coloring indicates terrain camouflage rather than resistances (wyverns resist only poison).
-- Received amethysts as treasure.
-- On [[Continental Stark]], was struck by [[Akasha]] rain. Cast Leomund's Tiny Hut, styled as a steampunk translucent blue dome, to shelter the party during later Akasha storms.
-- Used Thunder Wave against the [[Fuchsia Fungus]], creating sine waves in the bog that pushed migrants away from the creature. Fought the [[Aeon]] with lightning, counter-magic, and vampiric magic before the creature escaped.
-- Retrieved the [[Aeon]]'s offered star gem from the water with Mage Hand. The Aeon insulted Red as "the filth" before leaving.
-- Wound up in a wrong alley in [[Brimbolyn]] where young elves approached him and cast Sleep — a mockery since only humans are susceptible to the spell in the city. Red failed his save, then Misty Stepped behind the caster and slapped him on the back of the head.
-- Met [[Garsinth Theralal]], an older elf who apologized for his son's prank and gave Red directions to [[Yalet Aurum]].
-- Visited [[Yalet Aurum]]'s monument in the jungle outside Brimbolyn. Yalet is a Galeb Duurr with a solid gold body encased in a 40-50 foot stone face. Yalet posed a riddle about his brother [[Yalet Mora]]; Red solved it as "bolder" (bold/rocks pun) and received chunks of gold from Yalet's laughter.
-- Yalet confirmed that [[The Order of Seasons]] is interested in collecting [[Penumbra]] and warned the party to "act faster than an elf."
-- At [[The Academy]], engaged in a heated philosophical debate with [[Keys Caeradel]] and [[Illidrielle Gandara]] about the [[Demi-Spell]]. Red argued that the Order's approach takes away choice from the world's people: "I'm merely trying to patch up the sky, and then folks can do with that what they will." He countered Illidrielle Gandara's claim that fixing the sky also deprives people of choice: "You're taking away that choice from so many people. Choice is life." The party negotiated an accord: they would stop collecting new Penumbra, and if their plan failed, they would give all collected Penumbra to the Order.
-- Visited [[House Kiirnodel]] with the party. Met [[Rizolvir Kiirnodel]] and [[Feronia Caeradel]].
-- On the first evening sailing from [[Continental Stark]], [[Vizier Jade]] appeared on [[The Opal]]'s deck. She confirmed she has been watching Red and will continue to ensure he survives. Red declined her offer of a restriction scroll, saying his trust in her was bond enough. She cast Teleport Circle and departed, saying she won't appear again until the party arrives in the capital.
+### Protection and Countermagic
 
-## Session 015
+Red Caesar is an abjuration wizard whose wards can protect both himself and his companions. His Otiluke's Resilient Sphere bears the same warding runes used on the stanchions at [[Heaven's Bulb]]. He also uses Mage Armor, Shield, Shield of Faith, and Protection from Evil and Good. His War Caster training supports spellcasting in close combat. On advancing to level nine after visiting [[The Garden]], he acquired Circle of Power to protect the group from hostile magic.
 
-On the first evening aboard [[The Opal]] after returning from elf country, [[Yalet Mora]] called Red into the mess to drink. Yalet revealed that [[Yalet Aurum]] is his older brother and described him as an arrogant bully. Yalet proposed a plan: they would train up, grow stronger, and eventually confront Yalet Aurum to take his golden head. Red agreed there might be something in it for both of them, and the two toasted to the idea.
+Counterspell and Dispel Magic let him interrupt hostile spells, remove enchantments, and identify ways through magical defenses. These capabilities mattered in breaking [[Darvinblast]]'s curse, containing [[Farraday]]'s magic, and dismantling [[Emperor Shen]]'s protections. His Leomund's Tiny Hut took the form of a steampunk dome, translucent blue from within, when he sheltered the party from the [[Akasha]] storms over [[Continental Stark]].
 
-That night, Red's alarm spells triggered simultaneously with [[Kerben]]'s, indicating a serious breach aboard the ship. The two investigated and discovered hobgoblin pirates had boarded [[The Opal]]. Red protected [[Obould]] and an injured deckhand while helping drive the boarders from the ship. The party then boarded the hobgoblins' second ship, [[The Hideous Truth]], and confronted the [[Warg Lord]]. Red was struck by the Warg Lord's terrifying howl and helped [[Domyx]] hold the creature off until [[Kerben]] killed it.
+### Investigation, Travel, and Elemental Magic
 
-The party sailed to [[The Garden]]. Red visited [[Boril Erendel]] in his side office, where Boril Erendel revealed his eugenics plan for the [[Demi-Spell]]: he has created thousands of empty high elf forms and intends to reincarnate all spirits into these "perfect" bodies, eliminating war by erasing all difference. He told Red that humans like him would be replaced by forms "better" than themselves. If [[Keys Caeradel]] would not allow him to integrate his ideas, Boril Erendel said he would forge ahead on his own. Red and [[Ceril]] were horrified; Red admitted it took everything in him not to destroy the office. Red gained access to Control Winds and Contact Other Plane spells upon reaching level 9.
+Detect Magic, Identify, Locate Creature, and True Seeing support Red Caesar's investigations. Guidance helps his companions with their own tasks. His use of Contact Other Plane beneath [[The Funnel]] depended on a recovered page from the [[Tome of Satariel]]; the resulting contact incapacitated him rather than providing the directions he sought.
 
-Red gained the Circle of Power feature and learned Bigby's Hand and Teleportation Circle. Through Circle of Power, he learned the sigil sequences for two random teleport destinations: [[The White Drake]] (the League's main ship) and the dwarfish market in [[The Pit]].
+Misty Step and Teleportation Circle allow magical travel. When he learned Teleportation Circle, Red Caesar knew the destination at [[House Kiirnodel]] and gained the sigil sequences for [[The White Drake]] and the dwarven market in [[The Pit]]. [[Vanzia Vynnfae]] later supplied the scriptum for Broy's circle. These known destinations did not let him bypass the permanent abjurations protecting [[Axis Mundi]].
 
-The party then sailed south of the Garden to hunt the [[Storm Phoenix]]. Red used his abjuration and offensive magic to help weaken the creature before the party destroyed it.
+Red Caesar can manipulate water and wind through Control Water, Control Winds, Gust of Wind, and Thunder Wave, and uses Bigby's Hand to move or restrain things. Enlarge/Reduce supports his companions and his compression experiments. He could also help handle [[The Opal]]'s helm in dangerous seas. His offensive repertoire includes Shocking Grasp, Lightning Bolt, Fireball, Magic Missile, Mind Sliver, Steel Wind Strike, Vampiric Touch, and Disintegrate. Vampiric Touch can draw life force back to him in arcs of electricity through [[Para and Bellum]]; the [[Wand of Blighting Bolts]] separately supplies Blight.
 
-## Session 018
+### Arcane Research
 
-During the Castle Kaedon exploration, Red entered the granary building and triggered a brown mold infestation — the mold spread frostbite across his legs. He was saved when [[Ceril]] froze the mold with Shape Water. Red investigated the area and found an old Kaedonite equestrian manual — a collector's item in a world where few people know what horses look like. He later devised a "hamster ball" strategy: casting Otiluke's Resilient Sphere on himself and entering the granary to attract [[Sturges]] onto the sphere's exterior, where they harmlessly battered against the barrier. He used Gust of Wind to push specters toward the cliff edge and Shocking Grasp against remaining enemies. The sphere strategy proved highly effective, containing the low-intelligence creatures without risk to the party.
+Red Caesar's research produced two distinct results. His Caesarean method compresses [[Akasha]] into synthesized [[Penumbra]], using a protective sphere and inverted size-changing magic to create pressure. Working with [[Keys Caeradel]] and [[Illidrielle Gandara]], he developed the material used for [[Antumbra]]; his collaborators poisoned it to destroy [[Starfall]].
 
-## Session 019
+Separately, Red Caesar completed [[Obvolvo Caelum]], a spell for condensing [[Penumbra]] and making his synthesis work more flexible. His younger self's recognition of Mending as the missing mundane principle made that work viable at a much greater scale. Red Caesar's ability to siphon sky energy also let him permanently destroy the completed [[Demi-Spell]].
 
-During the [[Castle Kaedon]] exploration, Red fought through the acid-damaged room and castle entrance foyer alongside a [[Flabbergast]], a [[Carrion Crawler]], [[Severed Hands]], black puddings, and giant scorpions.
+## Equipment and Resources
 
-The party then traveled to [[The White Drake]] via Teleportation Circle. At the banquet, Red sought out [[Lady Jacinthe]] for a private conversation. He learned that Jacinthe and [[Obould]] were once to be wed — not for romance, but for shared ambition. Jacinthe's ambition was building the League to unite kingdoms after the world was torn down; Obould's was adventure and piracy. Their diverging paths forced them apart. Jacinthe revealed that Obould gave her an oath: should she come to harm, he will go in her place and die first. He cursed himself with the oath and she cursed him with sorrow. Red also learned of [[Starfall]], an ancient cannon of celestial origin in the possession of the [[Broyish Empire]].
+- [[Para and Bellum]] — Two copper blades given by [[Master Lee]], used to channel Red Caesar's vampiric magic.
+- [[Beryzoz's Teeth]] — A ring traded to him by [[Beryzoz Helmscar]] for an amethyst. It protects against necrotic harm and allows him to question the dead. He used it at [[Castle Kaedon]] and later combined it with [[Kerben]]'s animal speech to question an expedition dog beneath [[The Funnel]].
+- [[Boots of the Alvargard]] — Magical boots that quicken him, acquired from [[Muudeep]] at the [[Elvish Marketplace]] in exchange for [[The Jewel of Alfheimer]].
+- [[Cloaks of Billowing]] — Dramatic magical cloaks Red Caesar purchased for the entire party in [[Brimbolyn]].
+- [[Wand of Blighting Bolts]] — Acquired from [[The Wonder Hulk]] in [[Cutlass Cray]] in exchange for his former Wand of Lightning Bolts, gemstones, and mithril. Its Blight magic broadened his offensive tools.
+- [[Ioun of Crimson Dreams]] — A crimson octahedral stone acquired in [[Cutlass Cray]] that strengthens his defenses and adapts its protection to different elemental energies.
+- [[Hooksy the Clown Automaton]] — Red Caesar salvaged the creature's clown mask at [[The Carrot Cake]] and wore it during later exploration. Its subsequent custody is not established.
+- [[Tomb of Lenth the Rugged]] — A recovered resource he returned to [[Pleasance MacLenth]] at [[Bookbinders Cray]], rather than retaining.
+- [[Potion of Eels]] — Given to Red Caesar by [[Kerben]] at [[Axis Mundi]] and consumed during the final confrontation. Its temporary enhancement had ended by the party's refuge in [[Ceril's Star]].
 
-After the party returned to [[Castle Kaedon]], [[Ceril]] protected Red from the Mark of the Home curse before it could take hold.
+## Campaign History
 
-## Session 020
+### Early Loyalties and the Question of Choice
 
-In [[Castle Kaedon]], Red found a chunk of mithril among old metal bars. He investigated a collapsed wall section and determined the structural damage was recent — likely caused by the arrival of the fiends suppressing the castle's protective abjurations. He explored the dungeon cells and found skeletons, using [[Beryzoz's Teeth]] to cast Speak with Dead on one corpse with platinum teeth. The animated skeleton revealed he was a senator of the [[Dancing Blades]] who had been locked in during the rising waters of [[The Cataclysm]].
+Red Caesar joined the original company aboard [[The Opal]]. During an early private visit, [[Vizier Jade]] told him that she served [[Emperor Shen]], offered him safe passage east, and warned that his companions were liabilities. Red Caesar kept the meeting secret.
 
-In the stained-glass hallway, Red cast Vampiric Touch on a [[Chain Devil]], then Protection from Evil and Good on himself to ward against the [[Hezru]]'s attacks. The Hezru's thick hide and leaping ability made it a difficult target.
+In [[Darvinblast]], Red Caesar helped free the [[Steelfend Clan]] from [[Morel Chainsunder]]'s influence and released civilians from cages during the church confrontation. After the party found that the real [[Morel Chainsunder]] had died long ago, Red Caesar identified his last will as the surviving binding spell and destroyed it, ending the curse over the city.
 
-In a later encounter in the same hallway, Red held the doorway against a [[Hezru]] and two [[Bearded Devil]]s. After the battle, the invisible [[Nalfeshne]] struck from the hallway with a Lightning Bolt and knocked Red down. He healed himself using Vampiric Touch on [[Zulu]], and [[Vokenar]] restored him further with Aura of Vitality.
+On [[Continental Stark]], Red Caesar encountered open prejudice against humans. [[Aeon]] insulted him, and young elves in [[Brimbolyn]] targeted him with Sleep because of his ancestry. [[Garsinth Theralal]] apologized for his son's behavior and directed Red Caesar to [[Yalet Aurum]]. Red Caesar and his companions answered the golden-headed creature's riddle, receiving gold and a warning that [[The Order of Seasons]] was collecting [[Penumbra]].
 
-## Session 022
+At [[The Academy]], Red Caesar debated [[Keys Caeradel]] and [[Illidrielle Gandara]] over the [[Demi-Spell]]'s imposed future. He negotiated an accord under which the party would stop collecting new [[Penumbra]] and surrender its stock if their attempt to repair the sky failed.
 
-The party split into two groups. [[Red Caesar]] and [[Ceril]] used Teleportation Circle to travel to [[The White Drake]] to seek information about [[Obould]]'s fate. They were greeted by [[Damien Ouranous]], who relayed that [[Lady Jacinthe]] was inconsolable and would not receive visitors. Jacinthe's message was delivered through Damien: "For all intents and purposes, you should treat your captain as deceased. There is no more Captain Obould. He is dead and gone." Invoking his name had caused Jacinthe to weep extensively.
+On the voyage back from [[Continental Stark]], [[Vizier Jade]] assured Red Caesar that she was watching over him. He declined her restriction scroll and said his trust in her was enough. [[Yalet Mora]] also approached him about growing stronger and eventually taking [[Yalet Aurum]]'s golden head, a plan Red Caesar agreed to.
 
-Red Caesar was given lodging (room 17) and permission to stay as long as they liked.
+At [[The Garden]], he and [[Ceril]] learned that [[Boril Erendel]] planned to force every soul into a high elf body, replacing humans such as Red Caesar with what the elf considered better forms. Red Caesar was horrified and said he had barely restrained himself from destroying the office.
 
-Red attempted to steal a portrait of [[Lady Jacinthe]] to aid [[Ceril]]'s scrying. After being refused by a guard, Red created a loud distraction in the lounge, shattering porthole windows and causing a commotion across the ship. While guards rushed toward the noise, [[Ceril]] stole the portrait. Red was apprehended by [[Damien Ouranous]] and tasked with cleaning up the mess. He paid for the broken windows using old Kaedon coins.
+### Castle Kaedon and Obould's Captivity
 
-After Ceril's successful scrying revealed Jacinthe's secret meeting with [[Vizier Jade]], Red shared the information with the full party. He and Ceril left a message for Damien hidden in the stolen painting, then used a teleport circle to travel to [[Brimbolyn]]. There they arrived at [[House Kiirnodel]]'s teleport circle, which was enclosed in an Otiluke blast shield. [[Rizolvir Kiirnodel]] and [[Feronia Caeradel]] recognized them. Red reported that [[Boril Erendel]] had gone "off the rails" with wild ideas at [[The Garden]], prompting Rizolvir to agree to send someone to check on him. Red then traded [[The Jewel of Alfheimer]] at the [[Elvish Marketplace]] for the [[Boots of the Alvargard]]. He also purchased [[Cloaks of Billowing]] for the entire party.
+At [[Castle Kaedon]], Red Caesar recovered an old equestrian manual, a rare record of horses in a world where they had largely vanished from common knowledge. Using [[Beryzoz's Teeth]], he questioned a preserved noblewoman and learned about [[Alamar]]'s transformation of [[Kaedon]] from monarchy to republic, [[The Carrot Cake]], and streaks of light from the east before the castle's collapse. The account connected the party's memories of those streaks to [[The Cataclysm]].
 
-Red and Ceril returned to [[The White Drake]] and debriefed the rest of the party about [[Obould]]'s situation: [[Vizier Jade]] was using him as leverage to pressure Jacinthe into finding [[Penumbra]] for the [[Broyish Empire]], with a one-month deadline.
+During a visit to [[The White Drake]], Red Caesar sought out [[Lady Jacinthe]] privately. He learned that she and [[Obould]] had once intended to marry, but their ambitions had diverged: she wanted to unite kingdoms through the League, while he sought adventure and piracy. [[Obould]] had bound himself by an oath to die in her place if she came to harm. The conversation also introduced Red Caesar to [[Starfall]], the celestial cannon held by the [[Broyish Empire]].
 
-The party received a quest from [[David Harvey]] to capture [[Theo Harvey]], a traitor Harengon working for the [[Broyish Empire]]. The party sailed to the [[Harengon Warrens]] island and found it oddly empty. Red detected a Harengon nearby, and the party was ambushed by invisible imperial scouts and marshals alongside Theo. Red trapped Theo alive, preventing him from escaping. After the battle, the remaining imperial forces attempted to flee by longboat but were killed by [[Ceril]] and [[Vokenar]].
+On returning to [[Castle Kaedon]], Red Caesar investigated recent structural damage and attributed it to fiends suppressing the castle's protective abjurations. He questioned another corpse with [[Beryzoz's Teeth]], a platinum-toothed senator of the [[Dancing Blades]] imprisoned during the rising waters of [[The Cataclysm]].
 
-The party discovered the entrance to the Harengon warrens — a hole beneath a baobab tree concealed by illusion and invisible dirt. Theo revealed that [[Jack Harvey]]'s final project, [[The Carrot Cake]], is "alive and well." The party skipped [[Cutlass Cray]] and continued east toward the [[Broyish Empire]] with Theo as prisoner, weighing his value as a bargaining chip against the risk of him escaping.
+After [[Obould]]'s disappearance, Red Caesar and [[Ceril]] returned to [[The White Drake]]. [[Damien Ouranous]] relayed [[Lady Jacinthe]]'s claim that they should treat their captain as dead. Red Caesar created a distraction that allowed [[Ceril]] to take her portrait for scrying, then paid for the damage and helped clean up. The scrying revealed her covert meeting with [[Vizier Jade]]: [[Obould]] was alive, but was being used to pressure her and [[The League of New Stark]] into finding [[Penumbra]] for the Empire. Red Caesar shared that discovery with the party.
 
-## Session 023
+Red Caesar and [[Ceril]] also visited [[House Kiirnodel]], where he reported [[Boril Erendel]]'s extreme plans to [[Rizolvir Kiirnodel]] and [[Feronia Caeradel]], prompting a promise to investigate. During the ensuing expedition to the [[Harengon Warrens]], Red Caesar captured [[Theo Harvey]] alive. The prisoner confirmed that [[The Carrot Cake]] still existed, although Red Caesar later questioned whether its promised [[Penumbra]] was merely a bluff after [[Theo Harvey]] escaped.
 
-During the voyage to [[Broy]], Red helped track the titans during the storm, discovering two targets approaching from the starboard side. He also helped [[Domyx]] match the titans' size during the fight with [[Farron Acathian II]].
+In [[Broy]], Red Caesar requested citizenship papers from [[Vanzia Vynnfae]] and obtained a teleport-circle scriptum. At the [[Dawn Market]], [[Qian Hu]] recognized his connection to [[Heaven's Bulb]] and claimed to have known [[Master Lee]] before [[The Cataclysm]]. In the palace, Red Caesar tried to bargain for [[Obould]]'s freedom by offering to teach the Empire to synthesize [[Penumbra]] from water. [[Vizier Jade]] read his thoughts and exposed the lack of a working plan. She also refused his offer of one piece of [[Penumbra]], demanding the much larger supply already sought from the League. Red Caesar later sequestered himself to manufacture counterfeit [[Penumbra]] as leverage, motivated in part by her treatment of his captain.
 
-Upon disembarking near [[Broy]], Red helped engage the [[Oni]] demons threatening the human and tiefling civilians.
+### Antumbra and Repairing the Sky
 
-In the [[Broyish Capital]], Red helped defeat the oni near the coast, then acquired citizenship papers from [[Vanzia Vynnfae]] and received a teleport circle scriptum in [[Broy]]. He explored the [[Dawn Market]], meeting [[Qian Hu]] — an ancient-world survivor who recognized him as a member of [[Heaven's Bulb]].
+Red Caesar used his Caesarean method to compress [[Akasha]] into synthesized [[Penumbra]]. With [[Keys Caeradel]] and [[Illidrielle Gandara]], he developed the material for [[Antumbra]]; they poisoned it to sabotage [[Starfall]]. [[Aeris]]'s divination established that the plan would not harm the part of her trapped in the weapon. [[Kerben]] planted the [[Antumbra]] among [[The League of New Stark]]'s [[Penumbra]] stock aboard [[The White Drake]], so it would eventually reach [[Broy]] and [[Starfall]].
 
-The party entered the imperial palace and was granted audience with [[Vizier Jade]]. Red attempted to negotiate [[Obould]]'s freedom by offering to teach the Empire how to synthesize penumbra from water. Vizier Jade read his thoughts directly and caught the deception, noting he had no solid plan in place. Red then pivoted to offering to procure penumbra over time. Vizier Jade demanded fifteen pieces — the same deal made with [[The League of New Stark]]. When Obould was brought before them, Red offered to part with one piece of penumbra to secure his captain's freedom, but Vizier Jade raised the price back to fifteen. Red departed the palace recognizing that Vizier Jade was conserving energy and keeping them alive as a resource.
+After [[Starfall]] shattered the moon, Red Caesar continued to argue for restoring [[Aeris]] and the sky rather than accelerating a world reset. He helped track [[Xarag]], enabling the party to defeat the dragon and recover [[The Opal]]'s lost treasure, and captured an imperial [[Gun Balloon]] during a later attack on the ship. During a troll hunt, he charmed and spared [[Transel]], helping build a raft so the stranded troll could leave for [[Cutlass Cray]].
 
-## Session 024
+At [[The Carrot Cake]], Red Caesar investigated the electrical arcs in the [[Hole Shebang]], establishing that they sought living targets and that the party's immovable rods were nonconductive. In [[Hole on Wheels]], he protected [[Domyx]] from domination and helped expose the [[Vampiric Nightbringer]] to sunlight. He then operated the train and activated the final lamp switch, opening [[Jack Harvey]]'s inner sanctum.
 
-After the party returned to [[The Opal]], Red discovered that [[Theo Harvey]] had escaped and the [[Gheister]] was missing. He returned to the ship and found the crew discussing the situation. Red was skeptical about Theo's map to [[The Carrot Cake]], questioning whether Theo had simply bluffed about [[Penumbra]] being there because he knew what the party was looking for. The party had 31 days before The Carrot Cake's demi-plane opened, giving them time to pursue other quests first. Red agreed with the plan to head north to [[Thalasia]] to visit [[Domyx]]'s people, then swing through southern waters for resources.
+When the portal network failed, Red Caesar was drawn into a magical version of a [[Heaven's Bulb]] memory. [[Vizier Jade]] and [[Emperor Shen]] intruded into his memories, searching for the newly accessible [[Penumbra]] and threatening [[Obould]]. Red Caesar used True Seeing on his younger self, who identified Mending as the missing principle in his research and completed [[Obvolvo Caelum]].
 
-The party reviewed available quests and committed to a route north. [[Red Caesar]] sequestered himself to work on manufacturing a fake [[Penumbra]] as a bargaining chip against [[Vizier Jade]], feeling more determined than usual — partly motivated by his dislike of Vizier Jade and her cruelty to [[Obould]].
+Red Caesar returned the party through the disabled portal network. At the sanctum door, he recognized the completed lamp challenges as its entry condition and the dangerous seawater held behind it. He also dispelled [[Fharan]]'s lethal contingency, allowing the captive to be questioned before his death. [[Fharan]] confirmed that [[Obould]] was alive and that [[Starfall]]'s next target was [[Sigil]].
 
-## Session 025
+Inside [[Jack Harvey]]'s underwater vault, Red Caesar used [[Obvolvo Caelum]] to condense the vast [[Penumbra]] store into a portable orb. He charmed [[The Tyrant]], ending the fight long enough for the servant to reveal that [[Starfall]] lay beneath the world at [[Axis Mundi]]. A force connected to [[Vizier Jade]] then destroyed the creature before it could reveal more.
 
-Red Caesar traveled to [[The Academy]] in [[Brimbolyn]] with [[Keys Caeradel]] and [[Illidrielle Gandara]] to synthesize [[Antumbra]] — a poisoned form of [[Penumbra]] designed to sabotage the [[Broyish Empire]]'s [[Starfall]] device. He theorized that [[Akasha]] — the silvery-white liquid raining over Continental Stark — is a less concentrated form of Penumbra and that extreme pressure could transmute it back. Using Otiluke's Resilient Sphere filled with Akasha and an inversion of enlarge/reduce spells, he compressed the sphere to hand-size, generating enormous internal pressure. After multiple iterations compressing an entire lake of collected Akasha roughly a thousand-fold, the process produced a perfect palm-sized sphere of jet-black synthesized Penumbra.
+Red Caesar and [[Ceril]] carried the condensed [[Penumbra]] to [[Lyngbakr]], who consumed it and repaired the sky. Red Caesar remained on [[Stark]] and saw a whole blue sky for the first time. The success came alongside new losses: [[Obould]] was rescued, but [[Domyx]] was captured and [[Vokenar]] was killed, with his body taken by [[Vizier Jade]].
 
-The synthesis method — dubbed the "Caesarean method" — could produce approximately one sphere every five to ten days once established. [[Illidrielle Gandara]] and [[Keys Caeradel]] poisoned the Antumbra using a method concealed by illusion to prevent self-infection. [[Aeris]] confirmed through divination that deploying the Antumbra carries no risk of harming the piece of herself trapped within Starfall. The Antumbra was then planted into the hidden Penumbra stash aboard [[The White Drake]] by [[Kerben]].
+### Rescue and Safeguarding the Surviving World
 
-## Session 026
+Red Caesar arranged an uprising in [[Broy]] through [[Naomi Ue]] and helped expose the Empire's false sky. The disruption drew [[Emperor Shen]] and [[Vizier Jade]] away from the palace, creating an opportunity to recover [[Domyx]] and [[Vokenar]]'s body. Red Caesar helped set the next strategy: prepare a route through [[The Funnel]] toward [[Axis Mundi]] while addressing [[Mana Sickness]] in [[Southport]].
 
-After the moon was shattered by [[Starfall]], Red Caesar argued that restoring [[Aeris]] would make many other crises easier to resolve. At [[Xarag's Island]], he helped locate [[Xarag]] before the party slew the prologue dragon and recovered [[The Opal]]'s lost treasure. When imperial [[Gun Balloon]]s attacked the ship, Red captured one by expanding Otiluke's Resilient Sphere inside its cramped gondola, forcing the crew out and bringing the vessel down onto the ship. On a later troll hunt, he charmed [[Transel]] rather than killing him and helped build the troll a raft to [[Cutlass Cray]].
+In [[Southport]], Red Caesar reunited with [[Lodestar]]. During the expedition into the [[Mana Sea]], his protective sphere carried [[Ceril]] through [[Ninki Nanka]]'s poisonous cave, enabling the restoration that ended the source of the sickness. After recovering the missing half of the [[Chart of the Witness]], Red Caesar decoded and recombined the map. Its topography suggested that [[Axis Mundi]] lay beyond a planar boundary rather than at a place the party could simply reach through the ocean floor. The party prepared to advance to level thirteen before pursuing [[Farraday]].
 
-## Session 027
+Red Caesar disclosed the [[Antumbra]] sabotage to [[Obould]] and [[Lady Jacinthe]]. At [[Tome Keeper's Pyramid]], his countermagic helped the party defeat [[Farraday]], and he recovered three intact spell pages from the destroyed [[Tome of Satariel]].
 
-In [[Cutlass Cray]], Red visited [[The Wonder Hulk]] and traded his Wand of Lightning Bolts, a sapphire, jade, and a mithril for the [[Wand of Blighting Bolts]], giving him access to necrotic damage for the first time. He also purchased a potion of invulnerability and a potion of feather fall.
+The party also brought [[Yalet Mora]] to confront [[Yalet Aurum]], apparently crushed beneath a moon fragment. They refused to attack a helpless opponent, and [[Yalet Aurum]] surrendered a golden brain to settle the feud. Red Caesar encouraged [[Yalet Mora]] to see how choices and experience shaped his own potential. Once his brother had left, [[Yalet Aurum]] revealed that he was healthy and had staged his decline to give him closure.
 
-Red sailed with the party to [[The Carrot Cake]]. During the first combat inside, he engaged the undead enemies alongside the party.
+At [[House Kiirnodel]], Red Caesar negotiated with [[Rizolvir Kiirnodel]], winning a temporary reprieve from pressure to cast the [[Demi-Spell]] while the party confronted [[Boril Erendel]]. After [[Boril Erendel]]'s defeat, Red Caesar urged [[Keys Caeradel]] to value the lives and relationships that had grown since [[The Cataclysm]] and seek a future beyond his work at [[The Academy]]. [[Keys Caeradel]] entrusted the completed spell to the party.
 
-## Session 028
+Studying the [[Demi-Spell]] overwhelmed Red Caesar, but he discovered that he could permanently destroy it by draining its energy. He took custody, preferring destruction to its misuse. [[Vokenar]] supported him; [[Ceril]] objected and preferred [[Vokenar]] as custodian. Failed magical travel to [[Axis Mundi]] led Red Caesar to identify permanent abjurations as the likely obstacle.
 
-In the [[Hole Shebang]], Red Caesar used Shocking Grasp to test whether he could trigger the electrical arcs predictably, confirming the arcs would focus on a living target. He identified that the party's immovable rods were non-conductive. He cast Guidance to help [[Kerben]] play the "Smack a Bodak" carnival game.
+### Axis Mundi and the Final Confrontation
 
-Red fought through multiple encounters, using Steelwind Strike against [[Phase Cat]]s and a [[Smoke Elemental]], dealing massive damage with a critical hit. He used the [[Wand of Blighting Bolts]] to devastate a second [[Roger Ribbons]], withering its ribbons from red to gray. He cast Gust of Wind against a [[Smoke Elemental]], dealing significant damage and pushing it toward the ocean. He wore the salvaged [[Hooksy the Clown Automaton]] mask during the southern stage encounter.
+Beneath [[The Funnel]], Red Caesar used the surviving Contact Other Plane page with [[Domyx]]'s ancestral song supporting him. The contact incapacitated him and brought him before [[Domyx I]] in the [[Gray Wastes]]. [[Domyx I]] condemned the goddesses' control and claimed another world cycle would restore titan dominion. Red Caesar resisted pressure to reveal the [[Demi-Spell]], keeping it concealed and intact until [[Vokenar]] restored him. The attempt supplied no directions, but showed that the fallen gods' divine sparks survived their destroyed avatars.
 
-## Session 029
+After physically crossing into the [[Gray Wastes]], Red Caesar recognized the landscape from the encounter. He proposed tracing [[Starfall]]'s old shots through the lower sky. Scouting with [[Ceril]] on [[Kerben]]'s summoned roc, he distinguished firing scars from natural features and helped guide [[The Opal]] east toward [[Axis Mundi]].
 
-In the [[Magic Hat]], Red Caesar fought vampiric familiars, [[Flame Skull]]s, and a [[Gorgon Head]] alongside the party. He counterspelled a fireball from a flame skull targeting the clustered party and used Mind Sliver and Shocking Grasp against the gorgon.
+At [[Axis Mundi]], Red Caesar privately contacted [[Vizier Jade]] through Rary's Telepathic Bond and proposed rebuilding [[Broy]] beyond [[Emperor Shen]]'s destructive rule. At her request, he restrained her, forcing [[Emperor Shen]] to load [[Starfall]] himself. She accepted petrification to enable the plan and warned Red Caesar against following the emperor's path. The [[Antumbra]] detonated, permanently destroying [[Starfall]] and preventing its shot at [[Sigil]].
 
-In [[King of the Hole]], Red used his final Potion of Longstrider to boost his speed to 60 feet, then combined it with [[Vokenar]]'s Water Walk to run across the ocean surface to reach his assigned beacon, creating a V-shaped wake behind him. He used haste on himself during the second wave, boosting his speed to 120 feet, and sprinted up walls and across water to reach the far beacons. He cast Blight on the [[Shambling Mound]] at a high spell level — the plant creature automatically failing its save and taking massive necrotic damage. He cast Fireball centered on [[Domyx]] in the middle of the enemy cluster, destroying a hooksy in the blast. He counterspelled a fireball from a [[Flame Skull]] early in the first wave, protecting the party.
+Red Caesar helped the party face [[Emperor Shen]]'s allies and the returning [[Vanir]], but [[Entropie]]'s final Wish resurrected [[Emperor Shen]] as the last [[Vanir]]. In that final battle, [[Emperor Shen]] compelled [[Domyx]] to strike Red Caesar down. [[Vokenar]] restored him. After [[Ceril]] dissolved the final protective stela, Red Caesar disintegrated [[Emperor Shen]]'s resurrected form, ending the life-draining influence over the [[Gray Wastes]].
 
-## Session 030
+## Final Status
 
-Red Caesar helped complete the [[King of the Hole]] arena and pushed the party into [[Hole on Wheels]] before the [[Broyish Empire]] could overrun [[The Opal]]. On the train, he protected [[Domyx]] from domination, used a scroll to blow out the front window and expose the vampire lord to sunlight, and helped defeat the [[Vampiric Nightbringer]]. He then studied the train controls, accelerated the train around its ocean loop, and flipped the final lamp switch, opening [[Jack Harvey]]'s inner sanctum elsewhere in [[The Carrot Cake]].
+Red Caesar survives the final battle and helps establish a governing charter for [[Broy]] with [[Vizier Jade]]. He proposed that she serve as the public figurehead while he worked as her prefect and quartermaster, with laws and succession safeguards to limit personal rule. [[Vizier Jade]] said Red Caesar might eventually need to take the leading role, but the epilogue does not confirm a permanent office or a later transfer of leadership. Red Caesar erases the [[Demi-Spell]] and uses its blank pages for the charter; [[Vizier Jade]] accepts imprisonment for her crimes under the new laws.
 
-After the portal paintings were dispelled and the party was trapped on the train, Red Caesar was forced into a magical version of a [[Heaven's Bulb]] memory. [[Vizier Jade]] and [[Emperor Shen]] intruded into the dream, searching his memories while the party slept. Emperor Shen revealed that the Empire was hunting the newly accessible [[Penumbra]] and threatened [[Obould]] before leaving. Red Caesar then cast True Seeing on his younger self, who identified Mending as the missing mundane principle in Red Caesar's Penumbra work. This completed [[Obvolvo Caelum]], a spell that can condense Penumbra and make [[Akasha]]-to-Penumbra synthesis far more flexible.
-
-## Session 031
-
-Red Caesar returned the party to [[The Carrot Cake]] midway through the disabled portal network, arriving while [[Fharan]]'s imperial force fought vampire spawn near [[Jack Harvey]]'s inner sanctum door. He determined that the door would only open for party members who had completed the lamp challenges and that it held back a dangerous flood of seawater. After the battle, Red Caesar dispelled Fharan's lethal contingency so the party could question him alive.
-
-Inside Jack Harvey's underwater vault, Red Caesar used [[Obvolvo Caelum]] to condense the enormous [[Penumbra]] deposits into a small dense orb. He later charmed [[The Tyrant]], turning a deadly fight into a revelation: [[Starfall]] is hidden at [[Axis Mundi]], beneath the world at its center. After returning to [[The Opal]] and then [[Lyngbakr Lagoon]], Red carried the condensed Penumbra to [[Lyngbakr]] with [[Ceril]]. When he released the orb, Lyngbakr consumed the sky-material and sealed the [[Hole in the Sky]]. Red remained on Stark and saw a whole blue sky for the first time in his life.
-
-## Session 032
-
-Red Caesar arranged a Broyish capital uprising through [[Naomi Ue]], then used a balloon approach and dispelling magic to expose the Empire's false sky. The disruption forced [[Emperor Shen]] and [[Vizier Jade]] to leave the [[Dawn Palace]], allowing the party to recover Domyx and Vokenar's body. Red then helped set the next strategy: support the Funnel route toward [[Axis Mundi]] while travelling to [[Southport]] to address [[Mana Sickness]].
-
-## Session 033
-
-Red Caesar reunited with [[Lodestar]], a fellow former student of [[Heaven's Bulb]]. In the [[Mana Sea]], his protective sphere contained a drider and later carried [[Ceril]] safely through [[Ninki Nanka]]'s poisonous cave. After recovering the missing half of the [[Chart of the Witness]], Red Caesar decoded and recombined the world map and prepared to advance to level 13.
-
-## Session 034
-
-Red Caesar revealed the [[Antumbra]] sabotage to [[Obould]] and [[Lady Jacinthe]], concluding that it would permanently destroy [[Starfall]] if consumed. In [[Cutlass Cray]], he returned the [[Tomb of Lenth the Rugged]] to [[Pleasance MacLenth]] and acquired the [[Ioun of Crimson Dreams]]. At [[Tome Keeper's Pyramid]], his countermagic repeatedly neutralized [[Farraday]]'s strongest spells, and he recovered three intact spells from the destroyed [[Tome of Satariel]]. He later negotiated with [[Rizolvir Kiirnodel]], winning a temporary reprieve from pressure to cast the [[Demi-Spell]] while the party confronts [[Boril Erendel]].
-
-## Session 035
-
-Red Caesar helped defeat [[Boril Erendel]] and protected the party with Circle of Power. He urged [[Keys Caeradel]] to value the lives and relationships that had grown since [[The Cataclysm]] and seek happiness beyond [[The Academy]].
-
-Keys Caeradel left the completed [[Demi-Spell]] with the party. Studying it overwhelmed Red Caesar, but he discovered that his ability to siphon sky energy could permanently destroy it. He took custody of the spell, preferring its destruction to its capture by someone who would misuse it. [[Vokenar]] supported his decision; [[Ceril]] objected to Red Caesar holding the spell and preferred Vokenar as its custodian.
-
-Red Caesar's attempt to teleport to [[Axis Mundi]] failed. After Vokenar's planar travel also failed, Red Caesar identified permanent abjurations as a likely explanation for the protected destination.
-
-## Session 036
-
-With [[Domyx]]'s ancestral song supporting him, Red Caesar used the Contact Other Plane page recovered from the [[Tome of Satariel]] to seek directions among the fallen [[Vanir]]. The contact incapacitated him and brought him before [[Domyx I]] in the [[Gray Wastes]]. Domyx I attacked the goddesses' rule and promised renewed titan dominion in a future cycle. Red Caesar resisted pressure to reveal the [[Demi-Spell]], keeping it intact and concealed until [[Vokenar]] restored him.
-
-After physically crossing into the Gray Wastes, Red Caesar recognized the desert from the vision. He proposed finding [[Starfall]] by tracing its old shots through the lower sky. Scouting on [[Kerben]]'s summoned roc with [[Ceril]], he distinguished firing scars from natural features and helped guide [[The Opal]] east toward [[Axis Mundi]].
-
-## Session 037
-
-At [[Axis Mundi]], Red Caesar privately contacted [[Vizier Jade]] through a telepathic bond and proposed rebuilding [[Broy]] with her beyond [[Emperor Shen]]'s destructive ambitions. At her request he restrained her, forcing Emperor Shen to load [[Starfall]] himself. She accepted petrification to enable the plan and cautioned Red Caesar against following the emperor's path.
-
-The [[Antumbra]] Red Caesar helped create finally destroyed Starfall. He then helped the party defeat Emperor Shen's allies and the returning [[Vanir]], but [[Entropie]]'s last Wish brought forth the last Vanir, the resurrected [[Emperor Shen]]. [[Kerben]] passed him the [[Potion of Eels]] for later use.
-
-## Session 038
-
-Under [[Emperor Shen]]'s domination, [[Domyx]] struck Red Caesar down during the final battle. [[Vokenar]] restored him, and their friendship survived the coercion. After [[Ceril]] destroyed the final protective stela, Red Caesar disintegrated Emperor Shen's resurrected [[Vanir]] form, ending its life-draining influence over the [[Gray Wastes]].
-
-In the epilogue, Red Caesar and [[Vizier Jade]] agreed to rebuild [[Broy]] around laws, continuity of government, and safeguards against unchecked personal rule. He initially proposed working as her prefect while she served as the public leader; she expected him eventually to assume the leading role.
-
-Red Caesar erased the [[Demi-Spell]], preserving its blank paper for the new governing charter. The charter was established in Broy, and Vizier Jade accepted imprisonment for her own crimes under the new laws. Red Caesar chose a future for the surviving world instead of accelerating its replacement.
+The destruction of [[Emperor Shen]]'s final form ends the wasting influence and restores fertile soil to the [[Gray Wastes]], but leaves the lower sky collapsing, with [[Stark]]'s oceans pouring into the plane. Over the following weeks the waters recede and drowned lands reappear; the record does not establish whether the lower sky itself stops collapsing.

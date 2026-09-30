@@ -1,7 +1,7 @@
 # Canon Entities
 
 ## Party Members
-- [[Red Caesar]] — Wizard who destroys Emperor Shen and erases the Demi-Spell to write Broy's new governing charter
+- [[Red Caesar]] — Human wizard who develops Antumbra and Obvolvo Caelum, destroys Emperor Shen, and helps establish Broy's charter after erasing the Demi-Spell
 - [[Domyx]] — Titan who survives his grandfather's domination and reconciles with Domyx IV in a reformed homeland
 - [[Kerben]] — Captain of The Opal who rebuilds 40 Carats before departing to explore other worlds
 - [[Ceril]] — Druid who restores newly exposed land before retiring to the timeless refuge of Ceril's Star

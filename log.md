@@ -329,3 +329,12 @@
 ## [2026-09-27] update | Clarified final quest archive handling in AGENTS.md.
 ## [2026-09-28] review | Evaluated five player-character articles and recurring NPCs for a shared character layout.
 ## [2026-09-28] update | Added reusable character article structure and reorganization guidance to AGENTS.md.
+## [2026-09-28] restructure | Red Caesar character article and index
+## [2026-09-28] lint | Red Caesar — Checked links, frontmatter, session provenance, and index coverage
+## [2026-09-28] update | Red Caesar article — Corrected wiki names and source attributions
+## [2026-09-28] lint | Red Caesar — Validated final structure, frontmatter, links, appearances, and index coverage
+## [2026-09-28] update | Red Caesar article — Removed inline session citations
+## [2026-09-28] lint | Red Caesar — Revalidated frontmatter, headings, links, appearance history, and index coverage
+## [2026-09-30] audit | Red Caesar restructure — Reconciled original article against current profile and existing sources
+## [2026-09-30] update | Red Caesar — Restored omitted profile information and corrected unsupported claims
+## [2026-09-30] lint | Red Caesar — Validated repaired article, audit references, frontmatter, links, and entity index
