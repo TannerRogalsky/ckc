@@ -353,3 +353,13 @@
 ## [2026-10-01] query | Ceril restructuring sources and character exemplars
 ## [2026-10-01] restructure | Ceril character article
 ## [2026-10-01] lint | Ceril — Validated structure, source provenance, frontmatter, links, preserved session history, and entity index
+## [2026-10-01] query | Beryzoz's Teeth restructuring sources and item layouts
+## [2026-10-01] restructure | Beryzoz's Teeth item article and entity index
+## [2026-10-01] lint | Beryzoz's Teeth — Validated source coverage, frontmatter, links, appearance history, entity index, and quest archive
+## [2026-10-01] query | Item custody instructions and Beryzoz's Teeth
+## [2026-10-01] update | Item custody default in AGENTS.md
+## [2026-10-01] update | Beryzoz's Teeth final custody and entity index
+## [2026-10-01] lint | Item custody update — Validated frontmatter, links, preserved session history, and entity index coverage
+## [2026-10-01] query | Beryzoz's Teeth replacement-teeth exchange in session 034
+## [2026-10-01] update | Beryzoz's Teeth replacement-teeth exchange clarification
+## [2026-10-01] lint | Beryzoz's Teeth — Validated clarification against source, preserved frontmatter, links, and entity index

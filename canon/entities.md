@@ -266,7 +266,7 @@
 - [[Potion of Proof Against Storms]] — Potion granting thunder and lightning resistance, given to Domyx
 - [[Hilltop Hunter]] — Kerben's upgraded force-damage musket
 - [[Vivarian Zodex]] — Kerben's animal-protecting magical breastplate
-- [[Beryzoz's Teeth]] — Red Caesar’s enchanted ring used to question a dead expedition dog beneath the Funnel
+- [[Beryzoz's Teeth]] — Ring made from Beryzoz Helmscar's teeth, retained by Red Caesar at campaign end; protects against necrotic harm and allows questioning the dead
 - [[Touching the Sky]] — Titan rite with cosmic implications for Domyx and the broken sky
 - [[Teleport Keys]] — Encodements for at least four destinations: House Kiirnodel, The White Drake, Dwarvish Market, and Broyish Steeltown
 - [[Subpoena Deuces Mercator]] — Reusable scroll that summons the Goblin Traders' ship anywhere at sea

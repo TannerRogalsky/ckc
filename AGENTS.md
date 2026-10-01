@@ -14,6 +14,8 @@ Treat the existing source corpus as the final transcript record. Prioritize arch
 
 Resolve questions from existing sources and established canon where possible. Preserve uncertainty when the record does not settle a question; do not defer decisions in anticipation of future transcripts or invent missing outcomes. Assess entity relevance and plot significance across the completed campaign.
 
+When an item's custody is not established at campaign end, treat it as remaining with whoever last used it. Apply this default in item articles, character equipment sections, and the entity index. Explicit later transfers, returns, losses, consumption, or destruction take precedence. If no last user is established, preserve uncertainty.
+
 `canon/quests.md` is effectively complete: it records quests left open at the end of the campaign, including their last established in-world statuses. Treat it as an archival record, not a queue awaiting future sessions. Preserve those statuses; campaign completion alone does not mean a quest was completed or abandoned. Change entries only to correct the record using existing sources or explicit user clarification, and move quests to `canon/resolved quests.md` only when supported by evidence of completion.
 
 # Entity Extraction
