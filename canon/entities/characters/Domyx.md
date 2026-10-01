@@ -13,250 +13,174 @@ aliases:
   - "Dominic"
 related:
   - "[[Clan Akathia]]"
+  - "[[Thalasia]]"
+  - "[[Touching the Sky]]"
+  - "[[Aeris]]"
   - "[[Ulrich Fjoller]]"
   - "[[Lorelai Lapis-Acathian]]"
-  - "[[Clan Lapis]]"
-  - "[[Emperor Shen]]"
-  - "[[Touching the Sky]]"
-  - "[[Sigil]]"
-  - "[[Aeris]]"
-  - "[[The Opal]]"
-  - "[[Otto]]"
-  - "[[Vokenar]]"
-  - "[[Kerben]]"
-  - "[[Ceril]]"
-  - "[[Morel Chainsunder]]"
-  - "[[Yalet Mora]]"
-  - "[[Rella Kel'Navvi]]"
-  - "[[Continental Stark]]"
-  - "[[Fuchsia Fungus]]"
-  - "[[Aeon]]"
-  - "[[Iklwa Isondo]]"
-  - "[[Lesanderol Nokiirna]]"
-  - "[[Yalet Aurum]]"
-  - "[[Gunk Grodley]]"
-  - "[[Goblin Traders]]"
-  - "[[The Pit]]"
-  - "[[Figma Brickfinger]]"
-  - "[[Gith Shard Glaive]]"
-  - "[[Sigrid Forgewelt]]"
-  - "[[Farron Acathian II]]"
-  - "[[Thalasia]]"
-  - "[[Theo Harvey]]"
-  - "[[Broy]]"
-  - "[[Vizier Jade]]"
-  - "[[The Carrot Cake]]"
-  - "[[Gheister]]"
-  - "[[Domyx IV]]"
   - "[[Charlotta Fjoller]]"
-  - "[[Acathian Manor]]"
-  - "[[Prison of Frost]]"
-  - "[[Remorhaz]]"
-  - "[[The Wonder Hulk]]"
-  - "[[Cutlass Cray]]"
-  - "[[Hopping Mad Sash]]"
-  - "[[Demi-Spell]]"
-  - "[[Kaboom Ring]]"
+  - "[[Domyx IV]]"
+  - "[[Emperor Shen]]"
+  - "[[Farron Acathian II]]"
   - "[[Domyx I]]"
   - "[[Domyx II]]"
   - "[[Vanir]]"
+  - "[[Aesir]]"
+  - "[[The Opal]]"
+  - "[[Obould]]"
+  - "[[Kerben]]"
+  - "[[Red Caesar]]"
+  - "[[Ceril]]"
+  - "[[Vokenar]]"
+  - "[[Otto]]"
+  - "[[Vizier Jade]]"
+  - "[[Prison of Frost]]"
+  - "[[Acathian Manor]]"
+  - "[[The Carrot Cake]]"
+  - "[[Antumbra]]"
+  - "[[Starfall]]"
+  - "[[Demi-Spell]]"
+  - "[[Sigrid Forgewelt]]"
+  - "[[Lesanderol Nokiirna]]"
+  - "[[Iklwa Isondo]]"
+  - "[[Gith Shard Glaive]]"
+  - "[[Cestus of the Clear Sky]]"
+  - "[[Hopping Mad Sash]]"
+  - "[[Kaboom Ring]]"
+  - "[[Yalet Mora]]"
+  - "[[Yalet Aurum]]"
 ---
 
-A titan barbarian and former member of [[Clan Akathia]] who touched the sky, earning sky-blue palms that mark him as a blood relative of [[Emperor Shen]]. Renounced his Akathian family name after confronting his grandfather's role in breaking the sky and being disowned by his father [[Domyx IV]], then adopted Spurgruhn as his new surname. Named as [[The Opal]]'s successor by [[Obould]], but carries the burden of being Emperor Shen's grandson — the descendant of the party's greatest enemy. Traveled to the titan homeland, rescued [[Ulrich Fjoller]] from the [[Prison of Frost]], and brought [[Lorelai Lapis-Acathian]] aboard with him.
+# Domyx
 
-## Identity and Backstory
+Domyx is a cloud titan barbarian and former member of [[Clan Akathia]], whose achievement of [[Touching the Sky]] draws him into the struggle against his grandfather, [[Emperor Shen]]. He rejects his family's claims to rule, helps save the sky and his companions, and survives to reconcile with [[Domyx IV]] in a homeland governed cooperatively by its houses.
 
-Domyx is a titan warrior known for bold intimidation tactics. Among his people, touching the sky is an ambition contest — those who want to be the best climber simply go up as far as they can. He touched the sky, which imbued his hands with a sky-blue glow he carries as proof of the surface world.
+## Identity and Background
 
-In a flashback, [[Ulrich Fjoller]] intercepted him during his descent from the titan mountains and warned that [[Clan Akathia]] had erased a previous sky-toucher from its records. [[Sigil]] later confirmed that [[Emperor Shen]] — the previous sky-toucher — is the party's greatest enemy, perhaps their only great enemy. The ancestor was banished from home and may have aimed for [[Arkadia]].
+Domyx comes from the titan mountains of [[Thalasia]]. He is the son of [[Domyx IV]], brother of [[Lorelai Lapis-Acathian]], and grandson of [[Emperor Shen]]. His upbringing within [[Clan Akathia]] concealed both the truth about his grandfather and the extent to which other titan folk had left their isolated homeland.
 
-During the church confrontation with [[Morel Chainsunder]], Domyx gave a powerful speech about self-determination and freedom while barely alive. He showed his sky-blue hands to the congregation as proof of the surface world and removed cowls from congregants to show them as individuals.
+Among his people, [[Touching the Sky]] is a feat of climbing and ambition, without inherent moral authority. Domyx completed it before descending to [[Stark]], leaving his palms permanently sky-blue from contact with [[Aeris]]'s body. His journey through the frozen straits involved crossing ice and swimming through freezing water, experience he later drew on when returning north.
 
-He recruited [[Otto]] to join the crew alongside [[Vokenar]]. After a wyvern fight, he checked in with the crew aboard [[The Opal]] and played a card game called Titans Tarot as a morale-building exercise and initiation ritual. He eased clashing personalities among the crew, including the antisocial Mobley and the boisterous [[Yalet Mora]]. [[Rella Kel'Navvi]] serves as the ship's janitor, using its blink ability to teleport trash and misplaced items.
+During that earlier descent, [[Ulrich Fjoller]] followed Domyx and warned that another blood relative had touched the sky before him, had been erased from the clan's records, and still lived somewhere below. Domyx later described the ancestor as banished and speculated that he might have sought [[Arkadia]]. The campaign established the hidden ancestor as [[Emperor Shen]]; his precise original ambition remains distinct from that speculation.
 
-## Abilities and Equipment
+Domyx renounced the Akathian name during his return to the mountains and later chose Spurgruhn as his surname. His reconciliation with [[Domyx IV]] did not establish that he resumed his former name or clan membership.
 
-Wields a halberd and later a trident. Has divine smite (Holy Light) and Divine Fury (choosing necrotic damage). Uses Recklessness and has a Zealot rage variant with reroll-on-fail saves. Features include Cloud Jaunt (10-foot range), teleport javelin, Sentinel, and Enlarge (bonus action, once per long rest). Wears magnetic boots and Stoic Laurels (grant automatic save successes and reduce half-damage to no damage). Has a base movement speed of 67 feet, the highest on the team.
+## Personality and Motivations
 
-## Plot Events
+Domyx values self-determination over inherited authority. He urged the people of [[Darvinblast]] to recognize themselves as individuals, refused to conceal his family's responsibility for the broken sky, and repeatedly rejected [[Emperor Shen]]'s offers of imperial succession. After the final victory, he wanted to understand what had been suppressed in titan history and what [[Touching the Sky]] meant in the restored world.
 
-- Received a [[Potion of Proof Against Storms]] from a mysterious dwarf in the walls who questioned [[Morel Chainsunder]]'s plans.
-- Served as obstacle-course navigator in an earlier dungeon.
-- In [[Darvinblast]], was targeted by a [[Deep World Wizard]]'s Blight spell — described as feeling like rapid aging with dust coming off his body.
-- During the [[Fire Giant]] fight, leaped 60 feet into the pit and landed on the giant with an elbow drop grapple. The Fire Giant recognized Domyx as "one giant to another" and told him to "return to the sky."
-- In gnoll territory, killed a pack lord with a punch and broke a [[Wyvern]]'s neck when it tried to bite [[Kerben]]. Wore a hyena pelt as a trophy outfit afterward.
-- During the [[Wyvern]] encounter, grappled a flying wyvern using his trident, catching a wing in the tines and pulling it to the ground. Was stung by the wyvern's scorpion tail but survived.
-- Uses his high mobility to position himself inside [[Ceril]]'s Moonbeam to hold enemies in place.
-- On [[Continental Stark]], used his lodestone greaves to detect buried train rails through magnetic pull. Defeated the [[Fuchsia Fungus]] with a Holy Light hammer strike, then carried unconscious migrants to safety and gave them to the elven scouts.
-- Fought through the [[Aeon]]'s psychic charm and kept the creature pinned down long enough for the party to turn the battle. The Aeon offered a star gem and gold before Plane Shifting away; [[Vokenar]] chose not to attack and accepted the offer.
-- Recruited [[Brim the Bullywog]] to join the party. Met [[Marshal Zem]] at the train junction.
-- In the [[Elvish Marketplace]], traded mithril, two uncommon items, and a rare item to [[Lesanderol Nokiirna]] for the [[Iklwa Isondo]], a +1 mithril trident with magnetic auto-return and pull effects.
-- Visited [[Yalet Aurum]]'s monument in the jungle outside [[Brimbolyn]] with [[Red Caesar]] and the party. Helped solve Yalet's riddle about his brother [[Yalet Mora]].
+His boldness includes intimidation and a willingness to endure danger for others. His crew-building through Titans Tarot, rescue of [[Ulrich Fjoller]] and [[Lorelai Lapis-Acathian]], and exchange of places with the captive [[Obould]] show his attachment to people beyond the clan's expectations.
 
-## Session 015
+Domyx's strength does not commit him to violence in every encounter. He helped [[Transel]] leave a stranded life rather than killing him and refused to attack the apparently helpless [[Yalet Aurum]]. He also warned that the [[Demi-Spell]] would end the existing world and should never be treated lightly.
 
-[[Obould]] summoned Domyx to his quarters and revealed a solemn decision: should anything happen to him, [[The Opal]] belongs to Domyx. Obould named Domyx as the first domino that set everything in motion — the crew's direction, the elf joining, the gods guiding them — and said he trusts Domyx to lead the ship forward. His name is recorded in Obould's private logbook as proof.
+## Relationships
 
-That night, hobgoblin pirates boarded [[The Opal]]. Domyx was jostled awake by gunfire and rushed to the top deck in a rage, helping repel the boarders and protect the crew.
+- [[Domyx IV]] — His father and the former ruler of [[Clan Akathia]]. Their rupture over the clan's concealed history ended in disowning. They reconciled after Domyx IV acknowledged his mistreatment and accepted greater independence for his people.
+- [[Emperor Shen]] — His grandfather, whose destruction of the sky and demands for a titan dynasty Domyx opposed. Their shared sky-colored palms marked the same achievement, while their choices about power diverged. Emperor Shen imprisoned him and later compelled him to harm a companion; Domyx survived his grandfather's final defeat.
+- [[Farron Acathian II]] — A relative who addressed him as his great-nephew during the attack near [[Broy]]. Domyx helped spare him and received a route to [[Thalasia]], then faced him again at [[Axis Mundi]].
+- [[Lorelai Lapis-Acathian]] — His sister, whose dream-message prompted the rescue of her partner, [[Ulrich Fjoller]]. Domyx helped them escape the titan homeland while she was pregnant. They later left [[The Opal]] to prepare a home for their child.
+- [[Ulrich Fjoller]] — A close friend who risked punishment to warn Domyx about the erased sky-toucher. Domyx promised to rescue him from execution and returned with his companions to free him from the [[Prison of Frost]].
+- [[Charlotta Fjoller]] — Ulrich Fjoller's sister, who helped Domyx during the rescue expedition and later welcomed him back to the changed homeland, encouraging him to speak with his repentant father.
+- [[Obould]] — His captain and a figure who trusted his influence on the crew. Obould once named Domyx heir to [[The Opal]] if he died; Domyx later sacrificed his own freedom to release him. Obould's eventual retirement placed the ship in [[Kerben]]'s permanent command.
+- [[Kerben]] — A companion with whom he shared navigation and survival work. Domyx protected him from a wyvern and later freed him from an [[Aboleth]]; Kerben extracted Domyx from a defeated [[Remorhaz]]. Together they freed Obould at [[Lyngbakr Lagoon]].
+- [[Red Caesar]] — A companion who protected him from domination at [[Hole on Wheels]]. Domyx supported him through Obould's retirement and accompanied his later contact with the fallen gods through an ancestral song. Emperor Shen's compelled attack against Red Caesar did not change their common opposition to him.
+- [[Ceril]] — A companion whose healing restored Domyx after the remorhaz encounter and imperial captivity, and whose dispelling freed Ulrich Fjoller. Domyx used Cloud Jaunt to free Ceril from engulfing vines during the arena's bonus challenge.
+- [[Vokenar]] — A companion with whom he recruited [[Otto]]. Vokenar freed him from a water elemental and destroyed the remorhaz that swallowed him. Domyx helped recover Vokenar's body after his death, and Vokenar later secured the party's escape from the flooding [[Gray Wastes]].
+- [[Vizier Jade]] — Initially his grandfather's enforcer, then the means of his survival in captivity. Recognizing her frustration with Emperor Shen gave Domyx hope; she ultimately faked his death and left him alive for his companions to recover.
+- [[Otto]] — A dwarf Domyx and Vokenar recruited at [[The Boardwalks]], agreeing to help him find his friends. Otto later guided the party partway into [[The Funnel]].
+- [[Yalet Mora]] — A boisterous crewmate whose personality Domyx helped integrate through crew gatherings. Domyx took part in the encounters with his brother, [[Yalet Aurum]], from the original riddle to the peaceful resolution of their feud.
 
-The party then boarded the hobgoblins' second ship, [[The Hideous Truth]], and confronted the [[Warg Lord]], a massive fey creature with a bear-wolf body and a goblin face. Domyx fought through the creature's fearsome howl and held the front line until [[Kerben]] delivered the killing shot.
+## Abilities
 
-The party decided they lacked resources to crew a third ship and hid the vessel in a jungled grotto, renaming it [[The Hideous Truth]]. They sailed to [[The Garden]], where Domyx accompanied [[Ceril]] to meet the [[Rakshasa]] in the inner sanctum. The Rakshasa recognized Domyx as Domyx Akathian, revealing he had once visited Domyx's realm and met his father. The Rakshasa gave the party a quest to find and kill [[Farraday]], which would allow him to leave his hiding place and visit his family.
+### Strength, Protection, and Endurance
 
-The party reached level 9; Domyx gained Brutal Strike, Forceful Blow, and Hamstring Blow abilities.
+Domyx fights with halberds, tridents, a hammer, and his bare hands, combining powerful grappling with the ability to enlarge his body. His speed, climbing, and swimming make him capable of crossing difficult terrain, reaching endangered companions, and bracing [[The Opal]] in dangerous conditions.
 
-The party then sailed south of the Garden to hunt the [[Storm Phoenix]]. Domyx used his [[Iklwa Isondo]] to drag the flying creature closer to the ship, helping make it vulnerable before the party destroyed it.
+His Zealot rage supports Recklessness and Divine Fury, including necrotic manifestations, while Holy Light gives his blows a divine smiting force. He also uses Nimbus magic to gather cleansing clouds and restore his vitality. His resilience allows him to keep fighting at the edge of death, although his companions have still had to restore him after he fell. Sentinel lets him intercept threats to others and prevent enemies from slipping past him.
 
-## Session 016
+After the visit to [[The Garden]], his growth to level nine brought Brutal Strike, including Forceful Blow and Hamstring Blow, strengthening his ability to displace or hinder opponents. He later chose Durable at level twelve, emphasizing endurance, and prepared for further growth after the [[Mana Sea]] expedition. His mantle's Cloud Jaunt and the powers of his weapons and protective gear are described under Equipment and Resources.
 
-While sleeping aboard [[The Opal]], Domyx experienced a rare and vivid dream. [[Lorelai Lapis-Acathian]], his sister, appeared in the dream and revealed that [[Ulrich Fjoller]] had been imprisoned for months and was sentenced to execution. Lorelai Lapis-Acathian was pregnant with Ulrich's child and pleaded with Domyx to return to the titan consulate, rescue Ulrich, and stay his execution. Domyx promised he would come.
+### Survival and Ancestral Knowledge
 
-## Session 018
+Domyx navigated obstacle courses early in the campaign and later used memories of his descent from the titan mountains to guide the party through northern cold and familiar approaches to the homeland. He speaks Runic, allowing him to communicate with [[Transel]] and understand his grandfather.
 
-During the Castle Kaedon exploration, Domyx was ambushed along the island's southern perimeter by specters rising from a graveyard field and a water elemental formed from cistern seepage. Vokenar's Turn Undead devastated the specters first. Domyx engaged the water elemental directly, hampering its movement and holding it away from the rest of the party. He was eventually grappled and pulled inside the elemental's vortex form, where he continued attacking from within despite the crushing pressure. The elemental was disintegrated by Vokenar, freeing Domyx. He was partially drained by the specters but recovered after the party used healing scrolls.
+His inherited knowledge includes the conflict between the [[Vanir]] and [[Aesir]] and an ancestral song used while [[Red Caesar]] contacted [[Domyx I]]. He could read the completed [[Demi-Spell]] without harm and felt an innate connection to its purpose, but lacked the spellcasting ability to enact it.
 
-During the battle with the [[Xarag]], Domyx used brutal strikes to finish off the adult dragon, delivering the final blow as Vokenar lost his wings and Domyx shrank back down from his enlarged form. After the fight, while recovering and wiping dust off a wall, Domyx discovered [[The Jewel of Alfheimer]] — a rare framed landscape painting by [[Aramil Kiirnodel]] depicting what [[Brimbolyn]] looked like before [[The Cataclysm]] as a lush jungled continent with no visible water.
+## Equipment and Resources
 
-## Session 019
+- [[Iklwa Isondo]] — A mithril trident obtained from [[Lesanderol Nokiirna]] at the [[Elvish Marketplace]] in exchange for mithril and other equipment. Its magnetic coil works with his lodestone greaves to return the weapon and pull targets toward him. The greaves also let him sense buried and submerged train rails on [[Continental Stark]].
+- [[Gith Shard Glaive]] — A halberd commissioned from [[Sigrid Forgewelt]] using the star gem obtained from [[Aeon]], a ruby, and gold. Its embedded spatial magic projects psychic cleaving force beyond the weapon's physical reach.
+- [[Cestus of the Clear Sky]] — His former hammer reforged by [[Sigrid Forgewelt]] into a gauntlet. It leaves his blue palm exposed, gathers clouds into forceful blows, and can restore vitality. Attunement spreads the appearance of the restored heavens and their constellations across one side of his body.
+- [[Hopping Mad Sash]] — A magical bunny-tail sash awarded after the [[King of the Hole]] bonus challenge. It improves leaping and can release a shockwave when its wearer is knocked down or brought near defeat.
+- [[Kaboom Ring]] — A returning boomerang acquired before the descent through [[The Funnel]], replacing his ordinary thrown javelins. Its impacts erupt with thunder.
+- [[The Opal]] — His crew's ship and home during the campaign. Obould's conditional promise of succession was recorded in his private logbook; the later permanent captaincy went to Kerben.
 
-[[Kerben]] used the [[Mangonel]] to launch Domyx across an 80-foot gap to the southern island platform of [[Castle Kaedon]]. There, Domyx confronted a [[Zorn]], a subterranean elemental creature that had been eating gold coins. Under pressure from [[Vokenar]]'s Akasha-infused weapon and Domyx's intimidation, the Zorn vomited up roughly 50 pounds of gold coins before burrowing away.
+Other gear included Stoic Laurels, which protected him from his allies' magic, and a pendant that helped him withstand charm at [[The Carrot Cake]]. His mantle supplied Cloud Jaunt, including exchanges of place with others. He used teleporting javelins early on and later traded equestrian manuals to [[Sigrid Forgewelt]] for enchanted javelins.
 
-Domyx helped clear the acid-damaged room and entrance foyer, fighting black puddings, [[Severed Hands]], a [[Flabbergast]], a [[Carrion Crawler]], and giant scorpions. After the party returned to the castle from [[The White Drake]], magic circles summoned [[Bearded Devil]]s in a pentagonal inner chamber.
+Domyx wore a hyena pelt as a trophy and won a scroll containing several spells at the Sky High Striker carnival game. He discarded his Akathian medallion when renouncing the clan. These objects have no established later custody.
 
-## Session 020
+## Campaign History
 
-While exploring [[Castle Kaedon]], Domyx triggered a ceiling collapse in a room with rose bushes growing through a damaged wall. He avoided the worst of the falling stones from the old apothecary above, and a [[Potion of Soothing Gaze]] fell from the ruins directly into his lap.
+### Freedom and a Place Aboard The Opal
 
-In the stained-glass hallway, Domyx was targeted by a [[Chain Devil]]'s unnerving gaze — beams of red light from the devil's eye-pits overwhelmed him with supernatural fear. He used Recklessness to counteract the disadvantage and focused his attacks on a [[Bearded Devil]] instead, eventually killing it. On the Nalfeshne's second gaze attack, Domyx resisted and became immune to the effect.
+Domyx joined the original company aboard [[The Opal]]. In [[Darvinblast]], he used intimidation to try to end hostilities without killing every opponent and received aid from a dwarf who questioned [[Morel Chainsunder]]'s rule. A [[Fire Giant]] recognized their shared giant nature and urged him to return to the sky. During the church confrontation, Domyx displayed his sky-blue hands as proof of the surface world and removed congregants' cowls while urging self-determination. The party broke the curse that had bound the city.
 
-In a later encounter in the same hallway against a [[Hezru]] and two more bearded devils, Domyx shoved one bearded devil through the stained glass window, sending it plummeting into the ocean below. He reeled in the second devil with his trident into the range of [[Vokenar]]'s Guardian of Faith. After the visible enemies were defeated, the invisible [[Nalfeshne]] struck from the hallway with a Lightning Bolt. The party discussed strategy afterward, deciding to clear the left wing of the castle's pentagonal layout as a war of attrition against the Nalfeshne's resources.
+Afterward, Domyx found a hidden [[Penumbra]] hoard and protected [[Kerben]] from a wyvern. He renewed the crew's Titans Tarot gatherings as an initiation and morale-building practice, helping people such as the antisocial [[Mobley]] and boisterous [[Yalet Mora]] feel at home. A consultation through [[Vokenar]] brought [[Sigil]]'s confirmation that the erased sky-toucher, [[Emperor Shen]], was the party's greatest enemy.
 
-## Session 022
+On [[Continental Stark]], Domyx's greaves helped follow the old train route. He helped defeat the [[Fuchsia Fungus]] and carried unconscious migrants from the bog to the elven scouts, then helped subdue [[Aeon]], whose settlement supplied the star gem later used for his glaive. He recruited [[Brim the Bullywog]], acquired [[Iklwa Isondo]] in [[Brimbolyn]], and helped answer [[Yalet Aurum]]'s riddle about his brother.
 
-The party split into two groups. Domyx sailed with [[Kerben]] and [[Vokenar]] aboard [[The Opal]] to [[The Pit]] for ship upgrades. There, [[Brim the Bullywog]] hopped off to explore Dwarfland independently.
+Obould privately named him heir to [[The Opal]] if anything happened to the captain, crediting Domyx with setting the crew's new direction in motion. Domyx subsequently helped defend the ship from pirates and capture [[The Hideous Truth]]. At [[The Garden]], he accompanied [[Ceril]] to meet the [[Rakshasa]], who recognized his heritage and said he had met Domyx's father. They accepted the task of defeating [[Farraday]] so the Rakshasa could leave hiding and visit his family. Domyx also helped bring down the [[Storm Phoenix]] during the following voyage.
 
-Domyx visited [[Sigrid Forgewelt]] at the marketplace. He traded a Gith Star Gem (from the [[Aeon]] encounter), a ruby, and gold to commission the [[Gith Shard Glaive]], a halberd with extended-range psychic cleave attacks. He also traded equestrian manuals for enchanted javelins, useful now that dwarves employed livestock for transport.
+### The Hidden Bloodline and Return to Thalasia
 
-The party received a quest from [[David Harvey]] to capture [[Theo Harvey]], a traitor Harengon working for the [[Broyish Empire]]. The party sailed to the [[Harengon Warrens]] island and was ambushed by invisible imperial scouts and marshals alongside Theo. Domyx fought through the ambush on the island surface. After the battle, [[Vokenar]] located the warren entrance beneath a baobab tree. The party skipped [[Cutlass Cray]] and continued east toward the [[Broyish Empire]] with Theo as prisoner.
+A dream of [[Lorelai Lapis-Acathian]] revealed that [[Ulrich Fjoller]] had been imprisoned for months and sentenced to execution. She was pregnant with his child and pleaded for Domyx to return. He promised to rescue him.
 
-## Session 023
+The expedition to [[Castle Kaedon]] intervened. Domyx survived a water elemental that engulfed him and delivered the killing blow to the adult black dragon [[Ceril]] identified as likely one of [[Xarag]]'s offspring. He also discovered [[The Jewel of Alfheimer]]. With [[Kerben]] launching him across a gap using the [[Mangonel]], he also reached a [[Zorn]] and helped intimidate it into surrendering swallowed gold.
 
-During the voyage to [[Broy]], [[Theo Harvey]] approached Domyx during his guard duty and attempted to negotiate accommodations. Theo revealed that he knew the location of [[The Carrot Cake]] — a massive magical amusement park project from old [[Kaedon]] that was powered by [[Penumbra]] before the sky broke. The Carrot Cake is a maze of illusions and arcane traps; [[Vizier Jade]] had previously sent her companion [[The Tyrant]] to find it, and the Tyrant never returned. Theo claimed the Empire wanted this information and that executing him was merely a display of force.
+During the ship refit at [[The Pit]], Domyx commissioned his [[Gith Shard Glaive]]. He then joined the capture of [[Theo Harvey]], an imperial collaborator who offered information about [[The Carrot Cake]] while Domyx guarded him. Theo Harvey claimed the Empire wanted the park's hidden resources and said [[The Tyrant]] had failed to return from an earlier search.
 
-As the party approached the coast of [[Broy]], a fierce storm struck. Two titans appeared — [[Farron Acathian II]], a cloud titan, and [[Zohai Lapis]], a female frost titan. Farron Acathian II was a relation to Domyx's bloodline and called him "great nephew abomination." The titans were acting under orders from a higher power, not of their own volition. Domyx grew to match their size and fought Farron Acathian II aboard [[The Opal]]. He steadied the ship with his massive form, preventing it from capsizing, and helped defeat Farron Acathian II.
+Near [[Broy]], [[Farron Acathian II]] and [[Zohai Lapis]] attacked under orders. Domyx enlarged himself, steadied [[The Opal]] against capsizing, and helped defeat them. The party spared and healed both titans; Farron Acathian II gave Domyx a map of [[Thalasia]] and the approach to the homeland.
 
-After [[Vokenar]] healed both titans, they departed peacefully heading north toward titan homeland territory. Farron Acathian II gave Domyx a scroll case containing a map of [[Thalasia]] — the continent where Domyx's people live — showing a treacherous path through hills into the titan homeland. The party then docked near the coast of [[Broy]] and disembarked.
+In the [[Broyish Capital]], Domyx negotiated with [[Naomi Ue]] to clear the party's warrants and learned of titan folk living beyond their mountains. At the palace, [[Vizier Jade]] identified [[Emperor Shen]] as his grandfather. Their matching palms showed that both had touched the sky, and Emperor Shen admitted using [[Starfall]] to break it so others could not follow him and the gods could be killed.
 
-In the [[Broyish Capital]], Domyx helped defeat the oni near the coast. He negotiated with [[Naomi Ue]] to clear the party's warrants, paying 10 pounds of mithril. He asked about titan folk in the region and learned they live to the north and have assimilated into the industrial society.
+Domyx discovered [[Theo Harvey]]'s empty cell after his escape and recovered the map and seasonal information he had left for [[The Carrot Cake]]. A conversation with [[Fharan]] exposed the titan diaspora and how little Domyx's sheltered upbringing had prepared him to understand it.
 
-The party entered the imperial palace and was granted audience with [[Vizier Jade]]. Vizier Jade revealed [[Emperor Shen]] was Domyx's grandfather — confirmed by the matching sky-colored palms shared between Domyx and the emperor, evidence of having touched the sky. Emperor Shen spoke in Giant's Runic and revealed he was the first of his bloodline to touch the sky and planned to be the last. He tried to destroy the sky using [[Starfall]] and was not entirely successful. His goal is that "our rage will kill the gods." Emperor Shen fell unconscious after speaking, and Vizier Jade dismissed the party.
+The return north tested Domyx's survival experience and his companions' loyalty. A [[Remorhaz]] swallowed him; [[Vokenar]] destroyed it, Kerben cut him free, and Ceril restored him. Domyx then guided the party toward [[Acathian Manor]], entering alone because outsiders would be endangered there. [[Charlotta Fjoller]] and Lorelai Lapis-Acathian helped establish Ulrich Fjoller's whereabouts.
 
-## Session 024
+Domyx confronted [[Domyx IV]] over Emperor Shen's responsibility for the broken sky. His father offered to conceal his return and send him below again. Domyx refused, discarded his clan medallion, and was disowned. Rejoining the party without his noble title, he brought Lorelai Lapis-Acathian to the [[Prison of Frost]]. Ceril dispelled the magical barrier that imprisoned Ulrich Fjoller, despite the titan people's traditional rejection of such sorcery. The two escaped with the party and joined The Opal's crew.
 
-After the party returned to [[The Opal]], Domyx was the first to discover that [[Theo Harvey]] had escaped from the brig. He investigated the empty cell, finding pry marks and tooth marks on the wooden posts. He found [[Raxxy]] delirious from sedated carrot tea — she had been on watch. Domyx discovered the map and note Theo had left, marking [[The Carrot Cake]]'s location on the rear side of the central mountain of [[Thalasia]] and noting its seasonal opening window.
+### Loyalty, Captivity, and a Chosen Name
 
-Before leaving the [[Broyish Capital]], Domyx explored the city alone and encountered [[Fharan]] near the Dawn Palace. Fharan explained that the Empire welcomes those who "fall through the cracks" in other societies — humans originally, then other races like titan folk who could not compete with elves and dwarves. Fharan recognized Domyx as being of House Akathian, noting that many titan folk have left their mountains and found opportunity in the capital. This revealed to Domyx that his sheltered upbringing in the titan homeland had hidden from him the broader diaspora of his own people.
+Domyx helped distract the crew of [[The White Drake]] while [[Kerben]] planted [[Antumbra]] among the League's [[Penumbra]], then accompanied [[Ceril]] to the [[Temple of Sigil]], where they found petrified priests and Kuo-Toa. He continued defending [[The Opal]] through its southern voyages. After the party killed [[Xarag]], Domyx found the cliff hollow containing the ship's stolen treasure. He helped repel imperial [[Gun Balloon]] boarders and communicated with [[Transel]] in Runic while the party built the stranded troll a raft.
 
-As [[The Opal]] sailed north toward [[Thalasia]], Domyx felt nostalgic recalling his earlier journey across the same frozen northern straits — walking on ice, leaping between floating chunks, and swimming through freezing water that had forged his physical strength. When a [[Rimefire Hydra]] burst from the ice, Domyx held the frontline with his [[Gith Shard Glaive]], cleaving between multiple heads while raged. The hydra focused its heads on him, but [[Vokenar]] and [[Ceril]] kept him alive through coordinated healing and Moonbeam.
+At [[The Carrot Cake]], he crossed the [[Hole Shebang]]'s electrical defenses to operate the breaker, lighting one of the lamps required for [[Jack Harvey]]'s sanctum. His endurance helped the party complete every [[King of the Hole]] challenge, including the bonus round that earned the [[Hopping Mad Sash]]. On [[Hole on Wheels]], he faced the [[Vampiric Nightbringer]], threw it from the train, and climbed back aboard after it dragged him beneath the cars.
 
-After the hydra battle, the party trekked into the Arctic Plains. Domyx and [[Kerben]] worked together as survivalists, with Domyx drawing on memories of his earlier descent from the titan mountains to help endure the bitter cold. When Kerben ambushed the [[Tatzelwurm]], Domyx rushed in, went into rage mode, and delivered powerful hammer strikes to the dragon's head. The dragon was knocked prone by Domyx's attack. Domyx's relentless assault, combined with the party's magic and Kerben's poisons, quickly defeated the creature.
+Domyx helped open the pressure-sealed underwater vault and recover [[Jade's Compass]]. The party learned where [[Starfall]] lay and obtained the [[Penumbra]] needed to repair the sky. At [[Lyngbakr Lagoon]], [[Emperor Shen]] and [[Vizier Jade]] arrived with Obould as their prisoner. After Kerben shot the captain's restraints, Domyx used Cloud Jaunt to exchange places with him, freeing Obould at the cost of his own capture.
 
-As the party followed the blood-stained river into Titanfolk territory, a [[Remorhaz]] — a huge, heat-exuding creature — surged toward them from a woodland. Domyx raged and used his [[Iklwa Isondo]] to hook himself onto the creature's head, then struck it with his hammer. The Remorhaz eventually bit Domyx and grappled him in its jaws.
+Emperor Shen held him in the [[Dawn Palace]] and pressed him to accept imperial succession. Domyx remained defiant and noticed signs that the sky was healing despite his grandfather's claims. He also recognized Vizier Jade's dissatisfaction with the life of war she was bound to serve. During the uprising arranged by his companions, she faked his death. Ceril restored Domyx, who rejoined the party and helped recover Vokenar's body.
 
-The Remorhaz swallowed Domyx whole. Trapped inside the creature, he attempted to use Enlarge and fight his way out. [[Kerben]] fired into the Remorhaz's side, punching a hole that let light reach Domyx. [[Vokenar]] then destroyed the creature with radiant magic, freeing Domyx. [[Kerben]] cut into the corpse to extract Domyx's body, and [[Ceril]] healed him back to consciousness. After the fight, Kerben harvested the Remorhaz's heat gland for warmth during the rest of their mountain climb.
+In the [[Mana Sea]], Domyx freed Kerben from an [[Aboleth]] and restrained it himself. He tested the poisonous approach to [[Ninki Nanka]]'s cave, establishing the need for magical protection, and later helped Southport residents install The Opal's new fittings.
 
-The party climbed from snow into grassy hills with orchards and flowers — the magic of the titan realm taking hold. They reached the last place [[Ulrich Fjoller]] had been seen before his capture. Domyx recognized the terrain from his earlier descent and could lead the party the rest of the way. At this altitude, the sky appeared as a flat plate separating [[Stark]] from [[Arkadia]]. A golden palace — [[Acathian Manor]] — drew heavy titan traffic.
+Obould retired and appointed Kerben permanent captain, while Lorelai Lapis-Acathian and Ulrich Fjoller left to prepare for parenthood. Domyx supported Red Caesar through the change, helped defeat Farraday's foothold on [[Stark]], and received the [[Cestus of the Clear Sky]]. He refused to attack the apparently helpless Yalet Aurum; the feud with Yalet Mora ended without killing his brother. Before reaching [[House Erendel]], Domyx chose Spurgruhn as his surname.
 
-Domyx entered the manor alone while the rest of the party stayed hidden, as outsiders would be endangered among the xenophobic titan folk. He found [[Charlotta Fjoller]], Ulrich's sister, who warned him against being there. Domyx revealed the truth about [[Emperor Shen]] breaking the sky with [[Starfall]]. [[Lorelai Lapis-Acathian]] emerged from hiding, having overheard everything. She confirmed she was pregnant and that Ulrich was imprisoned in the [[Prison of Frost]]. She begged to flee with Ulrich's child.
+### Ancestral Gods and the End of the Dynasty
 
-Domyx confronted his father [[Domyx IV]] at the manor's exterior. Domyx IV initially showed relief at seeing his son, then anger at the rule-breaking. He offered to cover up Domyx's return and send him back to Stark. When Domyx refused to forget the truth about their grandfather and discarded his Akathian medallion, Domyx IV disowned him: "You are an Akathian no more. You are my son no more." Domyx walked away, renouncing his family name permanently.
+Domyx helped defeat [[Boril Erendel]] and destroy his mirror laboratory. When [[Keys Caeradel]] entrusted the completed [[Demi-Spell]] to the party, Domyx warned against its consequences and offered to carry it safely. Although he could read it, he could not cast it; custody remained with [[Red Caesar]].
 
-Domyx returned to the party and introduced [[Lorelai Lapis-Acathian]], who apologized for dragging them into the mess. Domyx told the party to call him just "Domyx" from now on — no more noble title. With Lorelai Lapis-Acathian's information, the party knew Ulrich was held in the Prison of Frost.
+Beneath [[The Funnel]], a fomorian's warping curse weakened Domyx's body and mind and left hollows in his skin. Among the fallen stone heads of the [[Vanir]], he recalled their defeat by the [[Aesir]] and supplied an ancestral song while Red Caesar contacted [[Domyx I]]. The encounter provided evidence that divine sparks survived their avatars' destruction. The party also recovered [[Domyx II]]'s heirlooms, deepening the connection between Domyx's lineage and the depths.
 
-The party proceeded to the [[Prison of Frost]], where [[Ulrich Fjoller]] was trapped behind a plane of pure magical energy — an abomination to titan folk who traditionally shun magic. [[Ceril]] dispelled the barrier with ease. Ulrich greeted Domyx, who presented himself without his Akathian title as a mark of his renounced identity, and [[Lorelai Lapis-Acathian]] with relief. He asked if the world below was safe for them. The party escaped the peaks of the Titans and returned swiftly to [[The Opal]], bringing Ulrich and Lorelai Lapis-Acathian aboard as new crew members.
+Domyx braced [[The Opal]] on a collapsing rock while the party boarded. After Kerben saved its descent into the [[Gray Wastes]], Domyx inspected the ship and found little damage.
 
-## Session 025
+At [[Axis Mundi]], he rejected Emperor Shen's insistence that he inherit divine power and rule a titan dynasty. Domyx tried to restrain him while he loaded [[Starfall]], but could not prevent it. The Antumbra destroyed the weapon and stripped away Emperor Shen's protection. Domyx defeated [[Farron Acathian II]] and helped overcome his grandfather, who died looking at him after invoking the Vanir.
 
-After returning from [[Thalasia]], Domyx helped distract crew aboard [[The White Drake]] while [[Kerben]] planted [[Antumbra]] among the League's hidden [[Penumbra]] stash. Domyx then visited the [[Temple of Sigil]] on [[Otyugh Isle]] with [[Ceril]], where the party found petrified priests and Kuo-Toa.
+[[Dunkelkalt]] repeatedly cast Domyx outside reality during the ensuing confrontation. Domyx returned and struck the final blow against [[Entropie]], whose dying Wish resurrected Emperor Shen as the last Vanir. This transformed enemy was his grandfather, distinct from the ancestral Domyx I contacted during the descent.
 
-Domyx continued to go by just "Domyx" without his Akathian title, fully embracing his renounced identity. He remained a key combatant aboard [[The Opal]], fighting alongside the crew against the [[Bane Siren]] and [[PAXO]] in the southern archipelago.
+Emperor Shen compelled Domyx to strike down Red Caesar. Domyx wept as he harmed his friend; his grandfather released him and declared loyalty a weakness. Vokenar restored Red Caesar, and the companions continued together until Red Caesar destroyed Emperor Shen's final form. Vokenar secured their escape as Stark's oceans poured into the Gray Wastes.
 
-## Session 026
+## Final Status
 
-Domyx helped slay [[Xarag]] on [[Xarag's Island]] and discovered the cliff-face hollow where the dragon had hidden [[The Opal]]'s stolen treasure. During the imperial [[Gun Balloon]] attack, he defended the deck by hurling boarders overboard and keeping enemies away from the crew. He later communicated with [[Transel]] in Runic and helped the charmed beach troll build a raft, allowing him to leave the League-claimed sandbar instead of being killed.
+Domyx survives the final confrontation and attends [[Obould]] and [[Lady Jacinthe]]'s wedding. He returns to [[Thalasia]] to investigate his people's history, restrictions, and sky-touching traditions. There he finds the houses sharing authority and other peoples living among the titans.
 
-## Session 027
+At [[Acathian Manor]], [[Domyx IV]] apologizes for decades of mistreatment and acknowledges the corrupt influence of their lineage. Domyx tells him of [[Emperor Shen]]'s and [[Farron Acathian II]]'s deaths. Father and son reconcile, shoulder a heavy log together, and begin sharing the story of Domyx's travels. His renewed family ties are established; restored clan membership, a return to the Akathian name, and a claim to govern remain unconfirmed.
 
-In [[Cutlass Cray]], Domyx purchased a potion of invulnerability and a potion of feather fall from [[The Wonder Hulk]]. He also bought a potion of gaseous form that he immediately drank and used to squeeze under a door, confirming the effect worked as intended.
-
-Domyx sailed with the party to [[The Carrot Cake]]. During the first combat inside, he engaged the undead enemies alongside the party.
-
-## Session 028
-
-In the [[Hole Shebang]], Domyx volunteered to run through the electrical arcs to flip the breaker switch. He navigated the lightning traps and successfully toggled the switch, deactivating the island's electrical defenses and activating one of the four lamps needed to open [[Jack Harvey]]'s inner sanctum. Flipping the switch triggered a new wave of enemies.
-
-Domyx fought through multiple encounters, defeating a second [[Roger Ribbons]] and a [[Mary Andrews]] construct. He used his [[Iklwa Isondo]] to reel Mary Andrews into range and smashed him with his hammer. He resisted the lute music's charm effect using a protective pendant. He also fought [[Phase Cat]]s and [[Smoke Elemental]]s, using his [[Gith Shard Glaive]] to cleave through enemies.
-
-Domyx played the Sky High Striker carnival game, striking the mallet hard enough to earn a scroll containing several spells. He was challenged to a game of pool by a [[Magen]] but declined.
-
-## Session 029
-
-In the [[Magic Hat]], Domyx survived the [[Gorgon Head]]'s petrifying death burst by making the constitution save, bursting free from the stone. In [[King of the Hole]], he navigated the beacon system to trigger waves of enemies, using his [[Gith Shard Glaive]] to cleave through [[Phase Cat]]s, [[Flame Skull]]s, and [[Mummy]]s in the first wave. He killed a phase cat and cleaved into a flame skull early in the fight.
-
-During the second wave, Domyx used his cloud jaunt to swap places with [[Vokenar]], placing himself directly in the enemy cluster. He attacked [[Death Spark]]s recklessly, clearing them with his glaive's cleave and brutal strike abilities. He was hit by the [[Shambling Mound]]'s engulf tendrils but used his rage reroll to resist. He engaged [[Hooksy the Clown Automaton]]s directly, using reckless attacks and divine smite to damage multiple targets. He took a Nimbus Form healing rain cloud mid-fight. When the [[Lightning Elemental]] was finally destroyed by his attacks, it sent back electrical damage on its death throes, but Domyx survived. He chugged a potion Red Caesar had brewed for him as the wave concluded.
-
-## Session 030
-
-Domyx survived the last [[King of the Hole]] waves despite being surrounded by [[Hooksy the Clown Automaton]] variants and nearly overwhelmed. His endurance and refusal to stay down became the defining image of the arena finale. After the optional bonus challenge, the [[Magen]] announcer awarded him the [[Hopping Mad Sash]], a magical bunny-tail sash tied to his habit of turning near-defeat into momentum.
-
-On [[Hole on Wheels]], Domyx held the front of the party through the train's narrow cars, forcing enemies back and helping clear vampire-controlled defenders. In the final cabin, he fought the [[Vampiric Nightbringer]] directly and hurled it from the moving train. The vampire dragged him under the cars, but Domyx caught onto the caboose and climbed back aboard. After the session's long rest, he reached level 12 and focused his growth on durability.
-
-## Session 031
-
-Domyx helped force open [[Jack Harvey]]'s pressure-sealed vault after [[Vokenar]] and [[Ceril]] prepared protections against the water surge. Inside the underwater vault, he helped find [[Jade's Compass]] and fought [[The Tyrant]], with [[Red Caesar]] ultimately charming the creature and extracting the location of [[Starfall]].
-
-At [[Lyngbakr Lagoon]], [[Emperor Shen]] and [[Vizier Jade]] arrived with [[Obould]] caged as leverage. After [[Kerben]] shot Obould's restraints, Domyx used cloud jaunt to trade places with the captain, freeing Obould but imprisoning himself. Emperor Shen took the caged Domyx away in golden light, declaring that his grandson would be returned to the Empire and disciplined.
-
-## Session 032
-
-Emperor Shen held Domyx in the [[Dawn Palace]] and tried to persuade him to become imperial heir. Domyx remained defiant, then recognized that Vizier Jade's frustration with Emperor Shen could give him time to survive. Vizier Jade ultimately faked his death and freed him during the palace uprising. Ceril restored Domyx from the ordeal, after which he rejoined the party and helped secure Vokenar's body.
-
-## Session 033
-
-Domyx guarded the party through the [[Mana Sea]] and broke [[Kerben]] free from the [[Aboleth]] while restraining the creature himself. He later tested the poisonous approach to [[Ninki Nanka]]'s cave, proving that magical protection would be required. During [[The Opal]]'s Southport refit, he helped residents carry and install the new ship fittings, then prepared to advance to level 13.
-
-## Session 034
-
-Domyx supported [[Red Caesar]] through the emotional impact of [[Obould]]'s retirement, then helped the party destroy [[Farraday]]'s foothold in Stark. [[Sigrid Forgewelt]] transformed his former hammer into the [[Cestus of the Clear Sky]], whose magic spreads the appearance of the restored heavens across one side of his body. He refused to attack the apparently helpless [[Yalet Aurum]], adopted Spurgruhn as his new surname, and later reached [[House Erendel]] with the party.
-
-## Session 035
-
-Domyx helped defeat [[Boril Erendel]] and destroy the mirror laboratory at [[House Erendel]]. He warned that using the [[Demi-Spell]] would end the existing world and must never be treated lightly.
-
-Domyx could read the completed spell without harm and felt an innate connection to its purpose, although he lacked the spellcasting ability to enact it. He offered to carry it if needed to keep it safe. Before entering [[The Funnel]], he acquired the [[Kaboom Ring]], a returning weapon that erupts with thunder.
-
-## Session 036
-
-The descent beneath [[The Funnel]] brought Domyx face to face with distorted giants and the remains of his people's ancient gods. A fomorian's warping curse weakened his body and mind and left hollows in his skin; its removal was not established during the session.
-
-Among enormous stone heads, Domyx recalled the defeat of the [[Vanir]] by the [[Aesir]] and shared an ancestral song while [[Red Caesar]] contacted [[Domyx I]]. He recognized the encounter as evidence that divine sparks could survive the destruction of their physical avatars.
-
-The party recovered ancestral valuables from a purple worm: [[Domyx II]]'s gold amphora and diamond-set gold coronet, alongside a gold bugle. The coronet resembled one worn by [[Domyx IV]].
-
-Domyx braced [[The Opal]] on a collapsing rock long enough for the party to board. After [[Kerben]] saved the ship's descent into the [[Gray Wastes]], Domyx inspected it and found little damage, while [[Brim the Bullywog]] reported dust in the bilge.
-
-## Session 037
-
-At [[Axis Mundi]], Domyx rejected [[Emperor Shen]]'s insistence that he inherit divine power and rule a titan dynasty. Starfall initially made his grandfather invulnerable; Domyx tried to restrain him as he loaded the final ammunition, but could not prevent the act.
-
-The [[Antumbra]] destroyed [[Starfall]] and stripped Emperor Shen's protection. Domyx defeated [[Farron Acathian II]], then overcame his grandfather with the party's help. Emperor Shen died looking at him after calling on the [[Vanir]].
-
-[[Dunkelkalt]] repeatedly cast Domyx outside reality during the ensuing battle. Domyx returned and struck the final blow against [[Entropie]], whose dying Wish brought forth the last Vanir. The colossal figure is [[Emperor Shen]]'s resurrected body, as confirmed in session 038.
-
-## Session 038
-
-During the battle with the resurrected [[Emperor Shen]], Domyx's grandfather magically compelled him to attack [[Red Caesar]]. Domyx wept as he struck his friend down; Emperor Shen released him and claimed that loyalty made him weak. [[Vokenar]] restored Red Caesar, and the party ultimately destroyed Emperor Shen together.
-
-After Vokenar secured the party's escape from the [[Gray Wastes]], Domyx attended [[Obould]] and [[Lady Jacinthe]]'s wedding. He returned to [[Thalasia]] to investigate the history and customs of his people. [[Charlotta Fjoller]] welcomed him to a homeland where the houses now governed cooperatively and other peoples lived among the titans.
-
-At [[Acathian Manor]], [[Domyx IV]] apologized for decades of mistreatment and acknowledged the corrupt influence of their lineage. Domyx told him of Emperor Shen's and [[Farron Acathian II]]'s deaths. Father and son reconciled, carrying a heavy log together while Domyx began recounting his travels. His return does not establish that he resumed his former family name or claimed authority.
+The removal of the fomorian's warping curse is not established in the later record.

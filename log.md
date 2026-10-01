@@ -347,3 +347,6 @@
 ## [2026-09-30] restructure | Vokenar character article
 ## [2026-09-30] update | Vokenar — Corrected private Jade encounter attribution from session 011
 ## [2026-09-30] lint | Vokenar — Validated structure, source provenance, frontmatter, links, preserved session history, and entity index
+## [2026-10-01] query | Domyx restructuring sources and character exemplars
+## [2026-10-01] restructure | Domyx character article
+## [2026-10-01] lint | Domyx — Validated structure, source provenance, frontmatter, links, preserved session history, and entity index
