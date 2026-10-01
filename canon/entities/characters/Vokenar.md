@@ -25,261 +25,161 @@ session_introduced: "001"
 sessions_appeared: ["001", "011", "012", "013", "014", "015", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033", "034", "035", "036", "037", "038"]
 related:
   - "[[Arkadia]]"
+  - "[[Stark]]"
   - "[[Sigil]]"
   - "[[Crone]]"
   - "[[Aeris]]"
   - "[[Gossa]]"
-  - "[[Solar Flare]]"
-  - "[[The Opal]]"
-  - "[[Stark]]"
-  - "[[Otto]]"
-  - "[[Domyx]]"
   - "[[Ceril]]"
   - "[[Kerben]]"
   - "[[Red Caesar]]"
-  - "[[Zulu]]"
-  - "[[Far Helm Clan]]"
-  - "[[Xander MacLenth]]"
-  - "[[The Pit]]"
-  - "[[Penumbra]]"
-  - "[[Figma Brickfinger]]"
-  - "[[The Order of Seasons]]"
-  - "[[Alamar]]"
-  - "[[Emperor Shen]]"
-  - "[[Lyngbakr Lagoon]]"
-  - "[[Morel Chainsunder]]"
-  - "[[Akasha]]"
-  - "[[Continental Stark]]"
-  - "[[Fuchsia Fungus]]"
-  - "[[Aeon]]"
-  - "[[Demi-Spell]]"
-  - "[[Academia Lux]]"
-  - "[[Brimbolyn]]"
-  - "[[The Academy]]"
-  - "[[Keys Caeradel]]"
-  - "[[Illidrielle Gandara]]"
-  - "[[Feronia Caeradel]]"
-  - "[[Boril Erendel]]"
-  - "[[The League of New Stark]]"
-  - "[[Sunset's Solace]]"
-  - "[[Sigrid Forgewelt]]"
-  - "[[Tome of Satariel]]"
-  - "[[Farraday]]"
-  - "[[Farron Acathian II]]"
-  - "[[Broy]]"
-  - "[[Starfall]]"
-  - "[[The Carrot Cake]]"
-  - "[[Gheister]]"
-  - "[[Moon Blade]]"
-  - "[[The Church of the Thirty Lights]]"
-  - "[[Cutlass Cray]]"
+  - "[[Domyx]]"
   - "[[Vizier Jade]]"
-  - "[[Naomi Ue]]"
-  - "[[David Harvey]]"
-  - "[[Theotropa]]"
-  - "[[The White Drake]]"
-  - "[[Sunspite]]"
-  - "[[Lady Acelia]]"
+  - "[[The Opal]]"
+  - "[[Penumbra]]"
+  - "[[Starfall]]"
   - "[[Antumbra]]"
-  - "[[The Garden]]"
-  - "[[Rakshasa]]"
-  - "[[Damien Ouranous]]"
+  - "[[The Order of Seasons]]"
+  - "[[Demi-Spell]]"
+  - "[[Boril Erendel]]"
+  - "[[Moon Blade]]"
+  - "[[Sunset's Solace]]"
+  - "[[Ioun of the Gilded Savior]]"
 ---
 
-A cleric from [[Arkadia]], trained by the goddesses [[Sigil]] and [[Crone]] in the space between worlds. Originally from a citadel in Arkadia 60 years ago, he fell toward [[Stark]] and has spent the intervening decades in divine training. Serves as the party's healer and moral anchor, communicating with the divine through his mantle and scrying. Witnessed [[Emperor Shen]] fire [[Starfall]] at the moon through scrying, and carries Crone's dying command to focus on restoring [[Aeris]].
+# Vokenar
 
-## Identity and Backstory
+Vokenar is an aasimar cleric from [[Arkadia]], trained by [[Sigil]] and [[Crone]] to protect the worlds below. As healer and divine intermediary aboard [[The Opal]], he helped restore [[Aeris]], opposed the forced remaking of the world's peoples, and sacrificed his own escape to save his companions and the ship's people. He ultimately returned to Arkadia in his youthful body and resumed training with Crone.
 
-60 years ago, a young Vokenar stared out over the water of a citadel in [[Arkadia]], where he saw [[Solar Flare]], a very tall woman with shining light. [[Gossa]], an aasimar mentor, suggested there are other paths than to become a Guardian and said "May Sigil's light guide you."
+## Identity and Background
 
-Trained in a place outside of time and space by [[Crone]] and [[Sigil]], who prepare him as a weapon for an inevitable war. Has no memory of prior training sessions — each awakening feels brand new, though his body retains the muscle memory of decades of combat. The elemental constructs he fights grow stronger each time he improves. The goddesses estimate he has a few more decades, possibly years, before his descent ends. A third voice — [[Aeris]] — also spoke during training: "We don't know what's happened to your world or the one below it."
+Sixty years before the campaign, Vokenar was a young aasimar at a waterside citadel in [[Arkadia]]. He saw [[Solar Flare]], a towering woman shining with light. His mentor [[Gossa]], a teacher from [[Academia Lux]], suggested that becoming a Guardian was not his only possible path and commended him to [[Sigil]]'s guidance.
 
-Vokenar offered the goddesses a phrase in a different language to shorten future training discussions, showing early initiative and adaptability. He volunteered himself: "I would be dead now either way, so whatever purpose I can be for you, the world, my world, the world below, I'm happy to do it."
+During his descent toward [[Stark]], [[Crone]] and [[Sigil]] trained him outside ordinary time and space for an inevitable war. Each awakening felt new because he could not remember the preceding training, though his body retained decades of practice. Elemental opponents grew stronger as he improved, and the goddesses spoke of further years or decades before his descent ended. [[Aeris]] also spoke during the training, expressing uncertainty about what had happened to his world and the one below it.
 
-Has a sword he practices with in dreams. It "doesn't work" the way he expects in this world — it attacks on its own in [[Arkadia]] but not here. The sword does have a +1 magic bonus and is effective against elementals.
+Vokenar practiced with a sword in dreams that acted independently in Arkadia but behaved differently on Stark. His later reincarnation gave him a high elf body without extinguishing his aasimar nature. The campaign's epilogue restored his original youthful appearance while preserving his accumulated experience.
 
-Recruited [[Otto]] to join the crew alongside [[Domyx]].
+## Personality and Motivations
 
-After his initial descent, Vokenar dreamed of his encounter with [[Vizier Jade]] during a "long sleep," reflecting on keeping her secret from the crew.
+Vokenar repeatedly chose protection and mercy. In [[Darvinblast]], he healed defeated enemies after disarming them and urged frightened residents toward freedom and unity. He insisted on helping endangered migrants on [[Continental Stark]], accepted [[Aeon]]'s offer to leave rather than press the attack, and later healed both his companions and the titans they had fought. These choices give substance to [[Sigil]]'s defense of his ethics as essential to his mission.
 
-## Abilities and Equipment
+He volunteered for the goddesses' purpose because he believed he would otherwise already be dead, and offered a phrase in another language to simplify their training discussions. His willingness to serve did not prevent him from questioning divine responsibility for [[The Cataclysm]] or the fairness of the [[Demi-Spell]]. He challenged the sacrifice of lives born after the disaster merely to recover an older world, warning that such imposed reversals could perpetuate conflict.
 
-Cleric with Guarded Mind (subclass feature), Channel Divinity, and Nimbus Form. Can grow wings for flight. Casts Word of Recall at [[The Church of the Thirty Lights]] as a safety measure before major ventures.
+His renewed aasimar powers gave him a sense of belonging to both [[Arkadia]] and [[Stark]]. He trusted his companions to share responsibility for the world, including [[Red Caesar]]'s judgment about destroying the Demi-Spell. After returning home, he admitted that the place he had longed for now felt unfamiliar. He chose renewed training and protection rather than simply returning to his former life.
 
-Known spells include: Create Water, Gust of Wind, Calm Emotions, Aura of Vitality, Warding Flare, Cure Wounds, Toll the Dead, Word of Radiance, Sacred Flame, Ice Ball, Burning Hands, Healing Word, Water Walk, See Invisibility, Detect Magic, Locate Creature, Arcane Eye, Banishment, Flame Strike, Wall of Fire, Fireball, Wall of Radiance, Scorching Ray, Sacred Spear, Radiance of Dawn, Guardian of Faith, Turn Undead, Continual Flame, Legend Lore, Divine Intervention, and Spiritual Weapon.
+## Relationships
 
-Wields the [[Moon Blade]], a versatile warhammer fashioned by [[The Church of the Thirty Lights]] from a fragment of [[Crone]], traded for in [[Cutlass Cray]]. Previously wielded an Akasha-infused blade acquired in [[The Pit]] — the Akasha neutralizes elementals and reacts against magic. Carries [[Sunset's Solace]], a spell-storing shield traded for with [[Sigrid Forgewelt]].
+- [[Sigil]] — Divine teacher and counselor who defended his ethics against Crone's harsher training. Her guidance identified the party's enemies and informed their route and sabotage plans; protecting her from Starfall became part of his final mission.
+- [[Crone]] — Demanding martial mentor. Her catastrophic injury entrusted him with the command to restore Aeris rather than divert the mission toward the shattered moon. After her recovery and his return to Arkadia, he accepted another century of training with her.
+- [[Aeris]] — Goddess whose restoration became his central task. He consulted her through Ceril's shield and later left a magical flame beside her imprisoned mortal seed as a promise of continued help.
+- [[Gossa]] — Earlier teacher whose recognition of him in Brimbolyn connected his heavenly upbringing to his work on Stark. She warned him to investigate the Order of Seasons.
+- [[Ceril]] — Fellow caretaker of Aeris and companion in the vision of her imprisonment. Ceril recovered Vokenar's body and reincarnated him; they later crossed Gaokerena into Arkadia together.
+- [[Kerben]] — Shipmate who rescued him when he nearly died at Castle Kaedon. Their cooperation in the flooded Gray Wastes ultimately saved The Opal and its passengers, with Vokenar sending Kerben home while remaining behind.
+- [[Red Caesar]] — Trusted companion whom Vokenar supported as custodian of the Demi-Spell, despite Ceril's preference for Vokenar. He restored Red Caesar after the encounter with Domyx I and again during the final battle.
+- [[Domyx]] — Companion with whom he recruited Otto and delayed the imperial attack at Lyngbakr Lagoon. Vokenar helped free him from the Remorhaz and later broke the domination that turned him against the party in Tome Keeper's Pyramid.
+- [[Vizier Jade]] — Adversary who killed him after he challenged her campaign against the gods. He nevertheless restored her from petrification at Axis Mundi and worked with her guidance against Emperor Shen's final form.
+- [[The Opal]] — Crew and community he repeatedly healed and protected. His consecration defended the vessel against fiends, and his final sacrifice preserved the people aboard it.
 
-Uses a healing-focused combat style, prioritizing others over himself. Strategically uses Warding Flare to protect allies. Known for reviving defeated enemies to demonstrate mercy — healed defeated dwarf grunts and spies in [[Darvinblast]], kicking their weapons away first and telling them to stand down.
+## Abilities
 
-## Plot Events
+### Healing and Protection
 
-### Darvinblast and the Deep World
+Vokenar's clerical magic emphasizes sustaining others: Cure Wounds, Healing Word, Mass Cure Wounds, and Aura of Vitality restore companions, while Lesser Restoration reverses afflictions including petrification. Warding Flare and his later strengthened protective flares shield allies. Guarded Mind protects him from mental influence; Calm Emotions and restorative magic help free others from charm and domination. His growth through the Carrot Cake expedition deepened his divine spellcasting, and he prepared for further advancement after the Mana Sea expedition.
 
-In [[Darvinblast]], cast Water Walk ritual and took max HP drain from the toxic mist alongside [[Red Caesar]]. Used his healing abilities extensively to keep the party alive, including reviving defeated dwarves to demonstrate goodwill. During the church confrontation with [[Morel Chainsunder]], attempted persuasion with the congregation, arguing for unity and freedom. Used Guarded Mind to resist Morel's Holy Word, recognizing that the defeated "Morel"'s face was different from the one seen through the illusion earlier. Cast Burning Hands to finish off the weakened Morel. Healed [[Zulu]] after the creature jumped into a pit during the [[Fire Giant]] encounter.
+Channel Divinity, Radiance of Dawn, Turn Undead, Guardian of Faith, Spirit Guardians, and his Celestial Defender bring divine protection and opposition to hostile creatures. Nimbus Form and angelic wings give him radiant presence and flight. His wings disappeared after an earlier dragon battle; reincarnation later obscured his aasimar powers until he recognized that they survived within his elven form. His recovered wings saved him during the descent into the Gray Wastes.
 
-Consulted [[Aeris]] via [[Ceril]]'s shield, asking five yes/no questions about the curse, the Penumbra, and the path forward. Aeris confirmed destroying the spell was the right choice and that the Penumbra was nearby in the hills.
+### Divine Insight and Travel
 
-During the Penumbra processing at [[The Pit]], used Detect Magic on the massive drained chunk and discovered that a kernel of real sky remained at the exact center. Advised [[Figma Brickfinger]]'s dwarves to carefully chisel away the dead outer shell to reach the pure inner core.
+Vokenar communes through his mantle, prays directly to the goddesses, and uses scrying and Divine Intervention to investigate distant dangers. Legend Lore revealed the nature of the Tome of Satariel and the history of Ninki Nanka. Detect Magic, See Invisibility, Locate Object, Locate Creature, and Arcane Eye expose hidden creatures, resources, and routes.
 
-At the abandoned [[Far Helm Clan]] home, used See Invisibility to find [[Xander MacLenth]] and raised water to release the ghost to the tide.
+Create Water, Water Walk, Gust of Wind, and stone-shaping magic support rescue and exploration. Continual Flame provides enduring illumination, which he taught to Alamar and used at Lyngbakr Lagoon. Word of Recall returns companions to consecrated refuges; he established return points at the Church of the Thirty Lights, Southport, The White Drake, and Tome Keeper's Pyramid. His attempt to Plane Shift to Axis Mundi failed. Banishment became the means of sending Kerben and the stored ship safely back to Stark.
 
-### Consulting the Divine
+His consecration of The Opal barred fiendish reinforcements, while shared-language magic in its common area enabled questioning across language barriers. He could read and enact the completed [[Demi-Spell]], but never cast it; Red Caesar's later destruction of the spell ended that possibility.
 
-Contacted [[Sigil]] through his mantle — the colored gems turned to white diamonds and a brilliant sun rose for his eyes only. Sigil advised heading first to the elves, revealed that [[The Order of Seasons]] had moved [[Penumbra]] to a protected place beyond the jungles, confirmed [[Alamar]] was an ally but not fully forthcoming, and named [[Emperor Shen]] as the party's greatest enemy.
+### Radiant and Elemental Magic
 
-### Continental Stark and the Jungle
+Vokenar uses sacred light through Sacred Flame, Sacred Spear, Word of Radiance, Wall of Radiance, and Radiance of Dawn, and summons Spiritual Weapon in forms including Crone's sword. Toll the Dead and Banishment provide other means of confronting enemies. His elemental repertoire includes Burning Hands, Fireball, Scorching Ray, Flame Strike, Wall of Fire, Ice Ball, and Blade Barrier. These capabilities complement his healing rather than displace his protective role.
 
-On [[Continental Stark]], cast Locate Object to find overgrown train rails and used Water Walk to traverse a quicksand bog, rescuing an unconscious migrant. Collected a sample of [[Akasha]] liquid and used Guardian of Faith against the [[Fuchsia Fungus]].
+## Equipment and Resources
 
-Cast Calm Emotions against the [[Aeon]], helping neutralize its charm effects on the party. Chose not to attack the [[Aeon]] when it offered a star gem and gold, allowing it to Plane Shift away.
+- **Divine mantle** — A focus for contact with [[Sigil]]. During one consultation its colored gems became white diamonds and manifested a sun visible only to Vokenar before Sigil's light returned to the mantle.
+- **Akasha-infused blade** — Acquired in [[The Pit]] and used before the Moon Blade. Its [[Akasha]] counters elementals and reacts against magic; he still used it during his later training with Crone. Its eventual custody is not established.
+- [[Moon Blade]] — A versatile warhammer fashioned by [[The Church of the Thirty Lights]] from a fragment of Crone, acquired from [[The Wonder Hulk]] in [[Cutlass Cray]] for lapis lazuli. Its substance connected his weapon to his injured mentor.
+- [[Sunset's Solace]] — Spell-storing shield obtained from [[Sigrid Forgewelt]] for a rare gem during the visit to The Pit for ship upgrades.
+- [[Ioun of the Gilded Savior]] — Acquired before the Farraday confrontation. It links him to a chosen companion and shares restorative benefits.
+- [[Jack Harvey's Portrait]] — A recovered party possession he entrusted to [[David Harvey]], rather than retained.
+- [[Tome Keeper's Pyramid]] — Consecrated after Farraday's defeat as a magical return point and potential base; the record does not establish a permanent residence there.
 
-Met [[Osiris Dims]], an aasimar born in [[Brimbolyn]] 45 years ago, who revealed that the Magic City and [[The Order of Seasons]] are "one and the same" and that the [[Demi-Spell]] may be less than a year away.
+These acquisitions and refuges describe his resources during the campaign. The epilogue does not establish which earlier possessions accompanied his youthful return to Arkadia; Crone supplied a sword when their renewed training began.
 
-Reunited with [[Gossa]] at the [[Elvish Marketplace]] — a former teacher from [[Academia Lux]] in [[Arkadia]]. She recognized him immediately and warned him to learn what he could about the Order.
+## Campaign History
 
-At [[The Academy]], spoke with [[Keys Caeradel]] and [[Illidrielle Gandara]] about the [[Demi-Spell]]. Questioned whether the spell would simply replay the same cycle of events and whether the gods themselves might have caused [[The Cataclysm]].
+### Mercy and the Search for a Restored Sky
 
-Negotiated an accord with the Order: the party will stop collecting new [[Penumbra]], and if their plan to fix the sky fails, they will give all collected Penumbra to the Order. The Order granted the party access to teleport circles.
+Vokenar joined the original company aboard [[The Opal]] and helped [[Domyx]] recruit [[Otto]].
 
-At [[House Kiirnodel]], questioned [[Feronia Caeradel]] about the [[Genesis Mundi]] and whether the Demi-Spell would be fair to all peoples, including the [[Broyish Empire]]. Learned that the Genesis Mundi is a fixed point between worlds that occurs regardless, and the Demi-Spell merely modifies it with guidelines.
+In [[Darvinblast]], he sought to minimize bloodshed, revived disarmed opponents, and argued for freedom before [[Morel Chainsunder]]'s congregation. He recognized that the defeated figure differed from the apparent leader previously seen through illusion and helped end the confrontation. He also healed [[Zulu]] after the companion fell into a pit during the Fire Giant encounter. Consulting [[Aeris]] through [[Ceril]]'s shield confirmed that destroying the binding spell was the right choice and that Penumbra lay nearby.
 
-Taught [[Alamar]] Continual Flame and cast several continual flame torches at [[Lyngbakr Lagoon]] for safe lighting.
+At [[The Pit]], Vokenar detected a surviving kernel of real sky inside a drained [[Penumbra]] mass and advised [[Figma Brickfinger]]'s people to remove the dead outer shell carefully. At the abandoned [[Far Helm Clan]] home, he revealed [[Xander MacLenth]]'s ghost and raised water to release him to the tide. The epilogue confirmed the ghost's passage to the afterlife.
 
-### The Garden and the Crone Summons
+[[Sigil]] directed the party toward the elves, revealing that [[The Order of Seasons]] held protected Penumbra beyond the jungles. She named [[Emperor Shen]] their greatest enemy and affirmed [[Alamar]] as an ally who would not disclose every truth.
 
-After the party returned from elf country, Vokenar was asleep in the bunks when [[Red Caesar]] and [[Kerben]]'s alarm spells triggered simultaneously. Woken by gunfire, he rushed to the top deck as hobgoblin pirates boarded [[The Opal]] and helped repel the attack. During the later battle with the [[Warg Lord]], he protected and healed the party through the creature's psychic assault.
+On [[Continental Stark]], Vokenar located buried rails, collected Akasha for study, and insisted on helping migrants threatened by the bog and [[Fuchsia Fungus]]. His water-walking magic enabled the rescue in which Domyx retrieved an unconscious migrant. He helped counter [[Aeon]]'s mental influence and accepted its treasure and departure. In [[Brimbolyn]], [[Osiris Dims]] identified the Magic City with the Order and warned that the Demi-Spell might be less than a year away. Vokenar also reunited with Gossa at the [[Elvish Marketplace]].
 
-At [[The Garden]], used Locate Object to find a drained [[Penumbra]] chunk in [[Theotropa]]'s possession. Gave his word the party would keep the druid waters safe.
+At [[The Academy]], he questioned [[Keys Caeradel]] and [[Illidrielle Gandara]] about repeating the world's cycle and the gods' possible responsibility for The Cataclysm. The party negotiated an accord to stop collecting new Penumbra and surrender its stock if its sky-repair plan failed, gaining teleport-circle access. At [[House Kiirnodel]], [[Feronia Caeradel]] distinguished the inevitable [[Genesis Mundi]] from the Demi-Spell's imposed guidelines. Vokenar questioned whether those guidelines would serve all peoples, including the Broyish Empire.
 
-Summoned [[Crone]] under a full moon. She appeared blood-soaked and exhausted, dragging a greatsword. She confirmed there is time to stop the [[Demi-Spell]] but warned the party is more likely to die than run out of time. She revealed [[Aeris]] could heal the sky herself if given enough power — the party doesn't need all the Penumbra, just enough. She advised using the [[Rakshasa]] as a bargaining chip and confirmed the elves cannot be trusted to halt the Demi-Spell even if the sky were repaired.
+### Divine Counsel and the Imperial Threat
 
-### Castle Kaedon
+Vokenar helped protect The Opal from pirate boarders and sustained his companions against the Warg Lord. At [[The Garden]], he found drained Penumbra held by [[Theotropa]] and pledged to protect the druid waters. Summoning Crone under the full moon revealed that Aeris could heal the sky with enough power, without gathering every fragment. Crone warned that death was a greater danger than running out of time, advised using the Rakshasa as leverage, and cautioned that the elves would not necessarily abandon their spell after a successful repair.
 
-Led the party's response to a specter ambush with Turn Undead, devastating the specter pack. Disintegrated a water elemental that had grappled [[Domyx]], reducing it to silvery gray nothing. Cast an icy Flame Strike from outside the granary, striking both [[Sturges]] and ochre jellies.
+At [[Castle Kaedon]], he found [[Sunspite]]'s crushed, rose-covered severed head and [[Lady Acelia's Chalice]], whose inscription identified Lady Acelia as Alamar's younger sister. He restored Ceril during the dragon battle, exposed the invisible [[Nalfeshne]], and prayed over dead prisoners. His Akasha blade helped drive off a [[Zorn]]. Kerben saved him after a Mezzoloth brought him near death.
 
-Found [[Sunspite]]'s severed head — from their earlier fight — crushed under rubble and overgrown with roses in a collapsed guest room. Also discovered [[Lady Acelia's Chalice]], an expertly carved oak chalice with jade insets, inscribed with [[Lady Acelia]]'s childhood name, identifying her as [[Alamar]]'s younger sister.
+He sailed with Kerben and Domyx to The Pit for ship upgrades, checked on deep worlder integration with Figma Brickfinger, and acquired Sunset's Solace. He noticed a League vessel approaching Lyngbakr Lagoon from an unexpected direction. At the [[Harengon Warrens]], he found the concealed entrance and helped Ceril stop fleeing imperial soldiers. David Harvey privately assured him that [[The Carrot Cake]] remained alive and well.
 
-During the battle with the [[Xarag]], opened with Sacred Spear, striking all five dragons. When [[Ceril]] was knocked unconscious by the dragon's acid breath, healed him with Aura of Vitality as [[Domyx]] delivered the killing blow. Lost his wings as the dragon fell.
+Legend Lore revealed that the [[Tome of Satariel]] contained pages made from the souls of 666 wizards and would return to hell if destroyed. On the voyage toward [[Broy]], Vokenar healed the party and the titans [[Farron Acathian II]] and [[Zohai Lapis]] after their battle. Divine scouting located [[Naomi Ue]]'s tavern and safer routes through the capital. He protected threatened coastal travelers and proposed helping the Southport couple afflicted by plague.
 
-His Akasha-infused weapon pressured a [[Zorn]] on the southern island platform, causing the creature to vomit up gold coins and flee.
+Scrying showed [[Obould]] in manacles under Vizier Jade's escort before she detected and dispelled the sensor. In the palace, Emperor Shen revealed himself as Domyx's grandfather and declared his aim to kill the gods. Later, Vokenar discovered that [[Theo Harvey]] had escaped his shipboard cage.
 
-His See Invisibility revealed the invisible [[Nalfeshne]] overseeing a fight between [[Chain Devil]]s, [[Bearded Devil]]s, and a [[Hezru]]. Used intimidation to warn the Nalfeshne that the party had resources to deal with it directly before it teleported away. Prayed over the dead prisoners in the dungeon, feeling heartened that the sister goddesses were watching over them. Cast Guardian of Faith to pressure the [[Hezru]] and two more [[Bearded Devil]]s in the stained-glass hallway, delivering the final blow on the Hezru with his Akasha blade.
+In a shared vision with Ceril, he saw Aeris's mortal seed imprisoned within the four-element ring of [[Starfall]], surrounded by darkness and silver powder. Aeris said repairing the sky would save her and help her divine self locate the prison, while admitting uncertainty about the Demi-Spell. She felt the party's work as healing and the Empire's as pain, and warned against underestimating her captor. Vokenar left Continual Flame beside her as a promise; Starfall's fire elements drew it into the apparatus. Ceril grew fruit on its earth elements, offering sustenance and a possible identifying trace.
 
-Was grappled by a [[Mezzoloth]] and dropped to near death — his first time really dropping in a battle, losing a hit die. [[Kerben]] stabilized and healed him.
+During the northern expedition, Vokenar's water-walking and protective magic supported the crossing. His radiant attack destroyed the [[Remorhaz]] that had swallowed Domyx, enabling the rescue. At [[Acathian Manor]], he remained concealed among hostile titan folk and found no Penumbra; the distant sky there appeared intact.
 
-### The Pit and the Harengon Warrens
+### Crone's Wounding and the Carrot Cake
 
-Sailed with [[Domyx]] and [[Kerben]] aboard [[The Opal]] to [[The Pit]] for ship upgrades. Visited [[Figma Brickfinger]] at [[The Palace of the Pit]] to check on deep worlder integration. Traded a rare gem to [[Sigrid Forgewelt]] for [[Sunset's Solace]], a spell-storing shield.
+After finding hidden Penumbra aboard [[The White Drake]], Vokenar proposed placing [[Antumbra]] in the League's stock so it would reach Broy and Starfall. Sigil advised that Obould was less endangered than he seemed, but that Broy was more dangerous than the party understood. Crone then recalled Vokenar to training. He left The Opal expecting several weeks away because he was not ready for the coming battle; Kerben was already carrying acting command during Obould's captivity.
 
-Spotted a [[The League of New Stark]] ship (white with red sails) approaching [[Lyngbakr Lagoon]] from an unexpected direction.
+Outside the worlds, Vokenar fought demons and sparred with Crone while Sigil defended his ethics against her sister's harsher expectations. Aeris rested among the stars, strengthened by the party's Penumbra work. When Crone began bleeding and aging during sparring, the apparent sword wound proved to be an attack from below: Vokenar scryed Emperor Shen firing Starfall at the moon. Crone's dying command was to focus on restoring Aeris and never waver. He returned to the crew, relayed the message, and later received private counsel from Sigil about Crone and the elves. Crone subsequently survived and recovered.
 
-Located the hidden entrance to the [[Harengon Warrens]] — a hole beneath a baobab tree concealed by illusion and invisible dirt. After the battle with [[Theo Harvey]] and imperial forces, Vokenar and [[Ceril]] stopped the fleeing soldiers. [[David Harvey]] whispered directly to Vokenar that [[The Carrot Cake]] is "alive and well."
+In Cutlass Cray, Vokenar established a holy refuge and obtained the Moon Blade. At The Carrot Cake, he warned the party of a Cloaker and helped overcome the park's dangers. He accepted a Magen's billiards challenge and lost despite Ceril's discreet assistance. His restorative magic repeatedly reversed petrification during the Magic Hat and King of the Hole challenges. On [[Hole on Wheels]], Blade Barrier opened the train's roof, and he helped free Red Caesar from the Vampiric Nightbringer's domination as Ceril admitted sunlight.
 
-### The Voyage to Broy
+He later helped shield Domyx from the seawater behind [[Jack Harvey]]'s sanctum and fought [[The Tyrant]] in the underwater vault. Once the party recovered the Penumbra, Word of Recall brought them to The Opal, where he healed injured crew members.
 
-Cast Legend Lore on the [[Tome of Satariel]], revealing the Tome is made of 666 pages, each from a different wizard's soul, and returns to hell if destroyed.
+### Death, Reincarnation, and Belonging
 
-Fought alongside the party against [[Farron Acathian II]] and [[Zohai Lapis]] during a storm. Healed the party and both titans after the battle.
+At [[Lyngbakr Lagoon]], Vokenar stayed with Kerben and Domyx to delay Emperor Shen and Vizier Jade while Red Caesar and Ceril carried the Penumbra to [[Lyngbakr]]. He resisted Jade's attempt to banish him to Arkadia and challenged her reasons for killing the gods. She described exhaustion with divine war and suffering, then killed him and took his body. The sacrifice bought time for the sky's restoration.
 
-Used Divine Intervention to scout the [[Broyish Capital]], discovering [[Naomi Ue]]'s tavern and mapping safe routes through the city avoiding [[Oni]] sentry positions. Protected a human and tiefling woman surrounded by Oni demons on the coast. Proposed that the party help the Southport couple with their plague.
+Ceril recovered his body from the [[Dawn Palace]] and reincarnated him at the [[Temple of Sigil]]. His new high elf body exposed the effect of [[Boril Erendel]]'s alterations: reincarnation had been constrained to elven forms.
 
-Scryed on [[Obould]], finding him far inland in the mountains of the [[Broyish Empire]], in manacles and being led by [[Vizier Jade]]. Vizier Jade cast See Invisibility to find the scrying sensor, then dispelled the spell entirely.
+In [[Southport]], Vokenar's Legend Lore identified [[Ninki Nanka]] as [[Windsurf]]'s ancient defender and likely victim of [[Mana Sickness]]. He helped free thralls from the Aboleth, sustained the party, and used Arcane Eye to locate the dragon, the missing half of the [[Chart of the Witness]], and its abandoned hoard. He established Southport as a holy return point.
 
-Observed [[Emperor Shen]] slumped in his throne, barely moving, with metal covering his face. The emperor revealed he was [[Domyx]]'s grandfather and that his goal was to kill the gods. Emperor Shen fell unconscious after speaking. On the way out, the emperor spoke to Domyx in Giant's Runic.
+Vokenar gave Jack Harvey's Portrait to David Harvey, established The White Drake as a return point, and acquired the Ioun of the Gilded Savior. In Tome Keeper's Pyramid, he freed Domyx from domination and supported the party against [[Farraday]]. After the victory, he consecrated the pyramid as a refuge and potential base.
 
-During night watch, discovered [[Theo Harvey]] had escaped from his cage aboard [[The Opal]].
+At [[House Erendel]], Boril Erendel revealed that Vokenar's aasimar nature survived reincarnation. His renewed radiance killed Boril Erendel, and his appearance reflected both heritages. Vokenar thanked him for revealing that connection and declared a new belonging to both worlds.
 
-### The Aeris Vision
+When Keys Caeradel entrusted the completed Demi-Spell to the party, Vokenar discovered that he could enact it. He supported Red Caesar's custody and capacity to destroy it, remaining willing to cast it only in dire need. His failed Plane Shift toward Axis Mundi led the party toward The Funnel instead.
 
-While resting aboard [[The Opal]], Vokenar and [[Ceril]] were drawn into a shared vision of a black expanse with a jet-black sky and smooth silver powder underfoot. At the center stood the [[Starfall]] device — a massive 50-60 foot ring combining all four elements — with [[Aeris]]'s mortal body trapped inside, appearing as a collection of stars pulled from the sky.
+### The Lower World and the Final Sacrifice
 
-Aeris confirmed that repairing the sky would save her — her divinity would know where this trapped mortal seed is held. She doesn't know what the [[Demi-Spell]] portends. She felt the party's actions as a healing force and the Empire's actions as pain. Her last words: "Do not underestimate him" — a warning about her captor.
+Beneath [[The Funnel]], Vokenar restored Red Caesar after the incapacitating encounter with [[Domyx I]], with the Demi-Spell still concealed. He entered the purple worm's tunnel first, and his wings saved him when a weakened handhold broke. Sailing east through the [[Gray Wastes]], he sighted the great tree joining ground and sky; Sigil identified it as [[Gaokerena]].
 
-Vokenar cast Continual Flame to leave Aeris a source of light in her darkness, explaining it would burn as long as the party continued working to free her. The flame was siphoned by the Starfall's fire elements and wove together beside Aeris. Ceril grew plants (citrons, apples, pears) on the Starfall's earth elements, providing food. The specific kinds of plants that grew could serve as a way to locate her prison.
+His consecration of The Opal excluded fiends accompanying imperial boarders. After questioning a prisoner revealed that Emperor Shen intended to attack Sigil that day, Vokenar contacted Crone, who confirmed the route to Gaokerena and anticipated Jade's resistance. He accompanied Ceril through the tree into Arkadia, where Aeris granted [[Ceril's Star]].
 
-### The Arctic Campaign
+At [[Axis Mundi]], after Emperor Shen's mortal defeat, Vokenar restored Vizier Jade from petrification. He sustained the party against [[Entropie]] and [[Dunkelkalt]]; Entropie recognized Sigil's power in him and identified her as responsible for its ancient defeat. Against Emperor Shen's resurrected [[Vanir]] form, Vokenar helped destroy the sustaining stelae with Jade's guidance and restored Red Caesar after the compelled Domyx struck him down.
 
-Cast Water Walk so the party could disembark on the ice without bringing the ship too close to shore. Maintained his Celestial Defender to support the group throughout the Arctic trek. Finished the [[Rimefire Hydra]] with a holy fireball that burst the creature open from the inside. Destroyed the [[Remorhaz]] with a radiant blast after it swallowed [[Domyx]], freeing him from inside. Cast Wall of Radiance around himself and [[Kerben]] during the Remorhaz fight.
+When the lower sky collapsed and oceans flooded the Gray Wastes, Vokenar recalled the party to The Opal. He had everyone except Kerben board, asked Kerben to store the vessel with its passengers, and banished him to Stark. The ship and those aboard escaped; Vokenar remained alone below. He recognized that the Gray Wastes could receive the excess oceans and expose Stark's drowned lands. For weeks, his companions could not reach him.
 
-At [[Acathian Manor]], stayed hidden with the group among the xenophobic titan folk. Cast Locate Object searching for [[Penumbra]] but detected none — the titan homeland was far from the cataclysm's effects and the sky appeared intact from this distance.
+## Final Status
 
-### Departure and Return
+Vokenar ultimately awoke in [[Arkadia]] in his original youthful body, retaining his battle knowledge and experience. The record does not establish how he returned, whether he died in the flooding, or how much time passed before his awakening; his companions' weeks of unsuccessful contact do not settle that interval.
 
-Discovered a hidden [[Penumbra]] stash aboard [[The White Drake]]'s hold. Proposed planting [[Antumbra]] among the League's stockpile so it would eventually be traded to [[Broy]] and fed into [[Starfall]]. Consulted [[Sigil]] about the plan, learning that [[Obould]] was in less danger than he appeared, while [[Broy]] was more dangerous than the party understood.
-
-[[Crone]] appeared and demanded he return to training. Vokenar departed [[The Opal]], saying he was not ready for the coming battle and would be gone for several weeks. His departure left [[Kerben]] as acting captain.
-
-Resumed training with [[Crone]] and [[Sigil]] in the space between worlds, fighting demons and sparring with Crone. Crone sometimes sides with the demons to test him. Overheard the goddesses arguing about his fate — Crone rebukes Sigil for giving him too many breaks, but Sigil defends Vokenar's ethics as essential to his mission.
-
-[[Aeris]] was seen floating between the stars, appearing stronger but unconscious as she rests and heals. Sigil confirmed the [[Penumbra]] the party finds is restoring her, but warned against complacency.
-
-During sparring, Vokenar struck Crone with his old Akasha blade, drawing white pearlescent blood. Crone was shocked and in agony — but the wound was not from Vokenar's blade. Crone was rapidly aging, weakening, and bleeding silvery blood from an attack she cannot heal from. Vokenar scryed down to [[Broy]] and witnessed [[Emperor Shen]] loading a large [[Penumbra]] chunk into [[Starfall]] and firing a beam at the moon, shattering it.
-
-Crone's dying command: focus on restoring [[Aeris]], not the moon, and not to waver from the mission for even a moment.
-
-Returned to the world to find the crew assembled and the moon shattered. Relayed Crone's message to the party. Summoned a Spiritual Weapon in the form of Crone's bastard sword to fight the [[Xarag]] on [[Xarag's Island]].
-
-Sigil pulled Vokenar aside for private counsel about the elves and Crone's fate, removing him from a troll encounter.
-
-## Session 031
-
-Vokenar returned to [[The Carrot Cake]] with the party and helped defeat [[Fharan]]'s imperial force near [[Jack Harvey]]'s inner sanctum. He used stone-shaping magic to help shield Domyx from the vault's pressure-sealed water surge, then fought [[The Tyrant]] in the underwater vault. After the party recovered the [[Penumbra]], Vokenar used Word of Recall to bring the group back to [[The Opal]] and then healed injured crew members.
-
-At [[Lyngbakr Lagoon]], Vokenar stayed behind with [[Kerben]] and [[Domyx]] to delay [[Emperor Shen]] and [[Vizier Jade]] while [[Red Caesar]] and [[Ceril]] delivered the Penumbra to [[Lyngbakr]]. He resisted Vizier Jade's attempt to banish him back to [[Arkadia]] and challenged her reasons for killing the gods. Vizier Jade admitted her exhaustion with divine wars and suffering, then killed Vokenar with a word of death and departed with his body.
-
-### The Carrot Cake
-
-In [[Cutlass Cray]], cast Word of Recall at [[The Church of the Thirty Lights]] as a safety measure. Traded lapis lazuli for the [[Moon Blade]], a versatile warhammer fashioned from a fragment of [[Crone]]'s remains.
-
-At [[The Carrot Cake]], spotted a [[Cloaker]] threat in time to alert the party, preventing a surprise round. Fought through the [[Hole Shebang]] against [[Roger Ribbons]], [[Mary Andrews]], [[Phase Cat]]s, and [[Smoke Elemental]]s. Was temporarily blinded by smoke elemental poison but recovered. Used fireball to clear toy swarms and [[Hooksy the Clown Automaton]]. Accepted a [[Magen]]'s challenge to a game of eight-ball pool, playing with [[Ceril]]'s subtle cheating help but still losing to the magen's superior skill.
-
-## Session 029
-
-In the [[Magic Hat]], Vokenar used Lesser Restoration on himself to clear the [[Gorgon Head]]'s petrification effect. In [[King of the Hole]], he cast Spirit Guardians and Scorching Ray (fire doing double damage to [[Mummy]]s) during the first wave. He cast Radiance of Dawn in the second wave, devastating clustered [[Death Spark]]s and [[Hooksy the Clown Automaton]]s. He used a healing word scroll on himself after taking heavy damage. He cast Mass Cure Wounds and Cure Wounds to heal the party between waves, preparing them for the third encounter. He positioned himself at a beacon and coordinated with the party on which beacon combination to activate next. He used Toll the Dead to finish off a hooksy.
-
-## Session 030
-
-Vokenar helped carry the party through the final [[King of the Hole]] waves, repeatedly reversing petrification threats from [[Gorgon Head]]s and keeping the group standing between arena rounds. During the optional bonus challenge, he burned divine light outward while trapped inside a [[Shambling Mound]], turning the monster's own engulfing attack against it.
-
-On [[Hole on Wheels]], Vokenar cast a blade barrier down the train, tearing open the roof and forcing vampire-controlled enemies to scatter. He later helped break the [[Vampiric Nightbringer]]'s domination of [[Red Caesar]], then pressed the vampire under the sunlight Ceril brought through the roof. After the session's long rest, Vokenar reached level 12 and deepened his divine spellcasting and protective flares.
-
-## Session 032
-
-Ceril recovered Vokenar's body from the [[Dawn Palace]] and reincarnated him at the [[Temple of Sigil]]. He returned as a high elf rather than an aasimar. The ritual revealed that [[Boril Erendel]]'s changes to the [[Demi-Spell]] have constrained reincarnation to elven forms, making Vokenar's new body evidence of an ongoing cosmological threat.
-
-## Session 033
-
-Vokenar used Legend Lore to reveal [[Ninki Nanka]] as [[Windsurf]]'s ancient defender and a likely victim of the Mana Sickness curse. In the [[Mana Sea]], he helped break the [[Aboleth]]'s control over its thralls and sustained the party through the battle. His Arcane Eye located Ninki Nanka, the missing half of the [[Chart of the Witness]], and the dragon's abandoned hoard. Before leaving [[Southport]], he established a holy return point there and prepared to advance to level 13.
-
-## Session 034
-
-Vokenar entrusted [[Jack Harvey's Portrait]] to [[David Harvey]] and established [[The White Drake]] as another return point. He acquired the [[Ioun of the Gilded Savior]], whose magic links him to a chosen companion. In [[Tome Keeper's Pyramid]], he broke the domination that had turned [[Domyx]] against the party and sustained the group through [[Farraday]]'s defenses. After Farraday's defeat, Vokenar established the pyramid as a magical return point and potential base.
-
-## Session 035
-
-[[Boril Erendel]] revealed that Vokenar retained his aasimar nature despite his reincarnation as a high elf. Vokenar recovered his angelic radiance and abilities, and his appearance came to reflect both heritages. His restored radiance ended Boril Erendel's life. Vokenar thanked him for revealing that his former nature remained and embraced a sense of belonging to both [[Arkadia]] and [[Stark]].
-
-After [[Keys Caeradel]] entrusted the [[Demi-Spell]] to the party, Vokenar discovered that he could read and enact it. He supported [[Red Caesar]] holding the spell and trusted him to destroy it if necessary, while remaining willing to cast it as a last resort. Vokenar's attempt to Plane Shift the party to [[Axis Mundi]] failed, directing them toward [[The Funnel]].
-
-## Session 036
-
-Vokenar restored [[Red Caesar]] after his incapacitating contact with [[Domyx I]], ending the encounter while the [[Demi-Spell]] remained concealed. He was the first of the party to pass through the purple worm's tunnel into the [[Gray Wastes]], where his wings saved him when an acid-weakened handhold broke.
-
-As [[The Opal]] sailed east beneath the lower sky, Vokenar sighted a distant tree connecting ground and sky. [[Sigil]] spoke into his mind and identified [[Gaokerena]], the tree of all worlds that [[Ceril]] had visited in [[Arkadia]].
-
-## Session 037
-
-Vokenar's consecration of [[The Opal]] excluded the fiendish reinforcements accompanying an imperial boarding party, and the common area's shared-language magic allowed the party to question a captive. Learning that [[Emperor Shen]] intended to destroy [[Sigil]] that day, Vokenar contacted [[Crone]]. She confirmed the route to [[Gaokerena]], explained Emperor Shen's delay, and anticipated [[Vizier Jade]]'s resistance.
-
-He accompanied [[Ceril]] through Gaokerena into [[Arkadia]], where [[Aeris]] granted [[Ceril's Star]]. After Emperor Shen's mortal defeat at [[Axis Mundi]], Vokenar restored Vizier Jade from petrification despite their earlier enmity.
-
-Vokenar's divine healing sustained the party against [[Entropie]] and [[Dunkelkalt]]. Entropie recognized Sigil's power in him and named her as the goddess responsible for its ancient defeat. Vokenar remains with the party to face the last [[Vanir]], the resurrected [[Emperor Shen]].
-
-## Session 038
-
-With [[Vizier Jade]]'s guidance, Vokenar helped destroy the stelae sustaining [[Emperor Shen]]'s [[Vanir]] form and restored [[Red Caesar]] after [[Domyx]] was compelled to attack him.
-
-When the [[Gray Wastes]] began flooding, Vokenar brought the party back to [[The Opal]]. He had everyone except [[Kerben]] board, then asked Kerben to store the ship with its passengers. Vokenar banished Kerben back to [[Stark]], sending the ship and everyone aboard to safety while remaining alone in the lower plane. He recognized that the Gray Wastes could contain the excess oceans and restore Stark's drowned land. For weeks afterward, his companions could not contact him.
-
-Vokenar later awoke in [[Arkadia]] in his original youthful body, with his experience intact. The precise manner and interval of his return are not established. [[Sigil]], [[Aeris]], and [[Crone]] welcomed him; he reunited with [[Alamar]], [[Illidrielle Gandara]], and [[Damien Ouranous]] and learned his friends' futures. Finding ordinary life at home unfamiliar after his travels, he accepted Crone's offer of a century of training toward an assault on armies gathering in the hells below the Gray Wastes.
+[[Sigil]], [[Aeris]], and the recovered [[Crone]] welcomed him home. He reunited with [[Alamar]], [[Illidrielle Gandara]], and [[Damien Ouranous]], and learned his companions' futures from the goddesses. Home felt foreign after his travels, and he accepted Crone's offer of a century of training for an assault on armies gathering in the deeper hells beneath the Gray Wastes. The epilogue ends with training renewed; the proposed assault's outcome is not recorded.

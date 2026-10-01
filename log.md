@@ -343,3 +343,7 @@
 ## [2026-09-30] update | Character annotation guidance in AGENTS.md
 ## [2026-09-30] update | Kerben article session annotation removal
 ## [2026-09-30] lint | Kerben — Validated annotation removal, preserved prose and metadata, frontmatter, links, structure, and entity index
+## [2026-09-30] query | Vokenar restructuring sources and character exemplars
+## [2026-09-30] restructure | Vokenar character article
+## [2026-09-30] update | Vokenar — Corrected private Jade encounter attribution from session 011
+## [2026-09-30] lint | Vokenar — Validated structure, source provenance, frontmatter, links, preserved session history, and entity index
