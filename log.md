@@ -363,3 +363,6 @@
 ## [2026-10-01] query | Beryzoz's Teeth replacement-teeth exchange in session 034
 ## [2026-10-01] update | Beryzoz's Teeth replacement-teeth exchange clarification
 ## [2026-10-01] lint | Beryzoz's Teeth — Validated clarification against source, preserved frontmatter, links, and entity index
+## [2026-10-01] query | Green Slaadi Whiskey restructuring sources and item layouts
+## [2026-10-01] restructure | Green Slaadi Whiskey item article and entity index
+## [2026-10-01] lint | Green Slaadi Whiskey — Validated structure, sources, frontmatter, links, appearance history, entity index, and quest archive

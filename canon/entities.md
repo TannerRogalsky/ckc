@@ -308,7 +308,7 @@
 - [[Ranger Scroll]] — Ranger spell scroll found among a dead adventurer's belongings
 - [[Rahmadi's Capers]] — Collectible comic series about the legendary goblin rogue Rahmadi
 - [[Jade's Compass]] — Water-damaged treasure compass found in Jack Harvey's vault, tied to Vizier Jade and The Tyrant
-- [[Green Slaadi Whiskey]] — Volatile potion from Janeera's collection with unpredictable magical effects
+- [[Green Slaadi Whiskey]] — Janeera's volatile potion, acquired by Red Caesar; can heal, poison, or rarely grant a wish, with final custody uncertain
 - [[Crone's Contempt]] — Potion from Janeera's collection that empowers repeated weapon strikes
 - [[Tomb of Lenth the Rugged]] — Gilded remains returned to Pleasance MacLenth at Bookbinders Cray
 - [[Ioun of Crimson Dreams]] — Adaptive defensive Ioun stone acquired by Red Caesar
