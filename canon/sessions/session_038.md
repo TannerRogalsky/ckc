@@ -1,6 +1,7 @@
 ---
 type: session
 session: "038"
+date: "2026-09-27"
 chunks: 4
 summary: "Emperor Shen's final Vanir form falls; Vokenar saves the party, Stark's oceans recede, and the companions build their separate futures."
 ---

@@ -1,6 +1,7 @@
 ---
 type: session
 session: "027"
+date: "2026-06-07"
 chunks: 3
 summary: "Party shops in Cutlass Cray, sails to The Carrot Cake, defeats undead and new threats, clears the haunted tent, and enters the Hole Shebang."
 ---

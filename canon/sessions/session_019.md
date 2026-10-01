@@ -1,6 +1,7 @@
 ---
 type: session
 session: "019"
+date: "2026-03-08"
 chunks: 3
 summary: "Party explores Castle Kaedon's southern island, visits The White Drake, and returns to a cursed inner chamber."
 ---

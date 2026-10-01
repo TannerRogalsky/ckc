@@ -1,6 +1,7 @@
 ---
 type: session
 session: "031"
+date: "2026-07-18"
 chunks: 5
 summary: "Kerben saves The Opal, the party recovers Jack Harvey's Penumbra, learns Starfall is at Axis Mundi, repairs the sky, rescues Obould, and loses Domyx and Vokenar."
 ---

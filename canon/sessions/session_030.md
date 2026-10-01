@@ -1,6 +1,7 @@
 ---
 type: session
 session: "030"
+date: "2026-07-04"
 chunks: 4
 summary: "Party wins King of the Hole, lights all four lamps, clears Hole on Wheels, and learns Jade and Shen are searching while they rest."
 ---

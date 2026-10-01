@@ -1,6 +1,7 @@
 ---
 type: session
 session: "017"
+date: "2026-02-22"
 chunks: 3
 summary: "Party clears arena oozes, defeats mezzoloths, explores granary with alcohol fumes and giant scorpions, finds Kaedonite black ale."
 ---

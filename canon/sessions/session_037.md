@@ -1,6 +1,7 @@
 ---
 type: session
 session: "037"
+date: "2026-09-20"
 chunks: 4
 summary: "Antumbra destroys Starfall; Vizier Jade defects, and the party faces the returning Vanir, culminating in Emperor Shen's resurrection as the last Vanir."
 ---

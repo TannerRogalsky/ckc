@@ -1,6 +1,7 @@
 ---
 type: session
 session: "020"
+date: "2026-03-15"
 chunks: 3
 summary: "Party explores Castle Kaedon's dungeon, fights fiends overseen by a Nalfeshne, survives the demon's ambush attacks, and plans a war of attrition."
 ---

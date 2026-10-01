@@ -1,6 +1,7 @@
 ---
 type: session
 session: "029"
+date: "2026-06-28"
 chunks: 4
 summary: "Party explores Magic Hat hotel, flips second lamp, fights through King of the Hole waves, discovers Hooksy reproduction, session ends as Kerben returns."
 ---

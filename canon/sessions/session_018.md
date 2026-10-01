@@ -1,6 +1,7 @@
 ---
 type: session
 session: "018"
+date: "2026-03-01"
 chunks: 3
 summary: "Party clears sturges, questions a dead Kaedon noble, discovers Carrot Cake lore and Cataclysm streaks, fights animated armors and water elementals, defeats Black Dragon and wyrmlings, crafts Preparation Melf, finds Aramil Kiirnodel's painting."
 ---

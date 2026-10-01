@@ -1,6 +1,7 @@
 ---
 type: session
 session: "032"
+date: "2026-08-02"
 chunks: 3
 summary: "Domyx escapes Shen, Ceril consults the goddesses, Vokenar is reincarnated, and the party opens routes toward Axis Mundi and Southport."
 ---

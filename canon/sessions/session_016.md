@@ -1,6 +1,7 @@
 ---
 type: session
 session: "016"
+date: "2026-02-15"
 chunks: 1
 summary: "Domyx dreams of Lorelai Lapis-Acathian and Ulrich's plight; League envoy visits; party meets Lady Jacinthe on The White Drake."
 ---

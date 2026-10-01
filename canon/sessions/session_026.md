@@ -1,6 +1,7 @@
 ---
 type: session
 session: "026"
+date: "2026-05-17"
 chunks: 3
 summary: "Vokenar trains with Crone and Sigil; Emperor Shen fires Starfall at the moon; party slays Xarag, defends The Opal from gun balloons, clears beach trolls, and returns to Cutlass Cray."
 ---

@@ -1,6 +1,7 @@
 ---
 type: session
 session: "015"
+date: "2026-01-25"
 chunks: 5
 summary: "Kerben trades with goblins, the party captures The Hideous Truth, learns Boril Erendel's Demi-Spell agenda, restores lightning through the Storm Phoenix, and returns to a risen Castle Kaedon."
 ---

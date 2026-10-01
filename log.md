@@ -372,3 +372,6 @@
 ## [2026-10-01] query | Session 011 complete transcripts, narrative coverage, canonical names, and retrospective connections
 ## [2026-10-01] restructure | Session 011 summary with transcript-linked chunk narratives
 ## [2026-10-01] lint | Session 011 — Validated coverage, frontmatter, headings, links, entity index, and quest archive
+## [2026-10-01] query | Session 011–038 date metadata and timeline headings
+## [2026-10-01] update | Session 011–038 play dates in session frontmatter and timeline
+## [2026-10-01] lint | Session 011–038 date mapping, frontmatter schema, chunk counts, and preserved narratives and links

@@ -1,6 +1,7 @@
 ---
 type: session
 session: "012"
+date: "2026-01-04"
 chunks: 6
 summary: "Party fights through Darvinblast, defeats Deep World Wizards, Morel's illusion breaks."
 ---

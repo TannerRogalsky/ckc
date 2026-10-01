@@ -1,6 +1,7 @@
 ---
 type: session
 session: "035"
+date: "2026-09-12"
 chunks: 3
 summary: "Boril Erendel falls, Vokenar embraces both bloodlines, Keys Caeradel entrusts the Demi-Spell to the party, and the Funnel reopens."
 ---

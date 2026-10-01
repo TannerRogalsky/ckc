@@ -1,6 +1,7 @@
 ---
 type: session
 session: "028"
+date: "2026-06-14"
 chunks: 3
 summary: "Party flips the Hole Shebang breaker switch, lights one lamp, clears the island's hostile automata and wildlife, plays carnival games, then heads to the Magic Hat."
 ---

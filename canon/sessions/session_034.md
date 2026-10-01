@@ -1,6 +1,7 @@
 ---
 type: session
 session: "034"
+date: "2026-08-16"
 chunks: 3
 summary: "Kerben takes command of The Opal, party destroys Farraday's Stark body, resolves Yalet Mora's feud, and reaches House Erendel."
 ---

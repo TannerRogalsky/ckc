@@ -112,7 +112,7 @@ Source: [[chunks/sessions_001-0010]].
 - [[Ceril]] finds a map to the [[Far Helm Clan]] keep among enemy effects.
 - The party takes a short rest in the [[Steelfend Clan]]'s wing of the [[Darvinblast]].
 
-## Session 012
+## Session 012 — 2026-01-04
 
 ### Chunk 0000
 
@@ -156,7 +156,7 @@ Source: [[chunks/sessions_001-0010]].
 - [[Ceril]] consults [[Aeris]], learning that many [[Penumbra]] pieces exist and that [[The Order of Seasons]] knows little about using them.
 - The party reaches level 8 before leaving the [[Darvinblast]] arc.
 
-## Session 013
+## Session 013 — 2026-01-11
 
 ### Chunk 0000
 
@@ -203,7 +203,7 @@ Source: [[chunks/sessions_001-0010]].
 - [[Rella Kel'Navvi]] offers [[Ceril]] hope about the elven lands, then blinks away while [[Ceril]] stays at [[Lyngbakr Lagoon]].
 - The party charts a four-day wind-favored route north toward the elves, then curving south past [[The Garden]], and sets sail.
 
-## Session 014
+## Session 014 — 2026-01-18
 
 ### Chunk 0000
 
@@ -264,7 +264,7 @@ Source: [[chunks/sessions_001-0010]].
 - House Kiirnodel granted the party [[Teleport Keys]] for accessing teleport circles back to Brimbolyn.
 - The party set sail from Continental Stark toward Cutlass Cray. [[Vizier Jade]] appeared on [[The Opal]]'s deck, confirming she has been watching [[Red Caesar]] and will ensure he survives. Red declined her restriction scroll. She departed via Teleport Circle.
 
-## Session 015
+## Session 015 — 2026-01-25
 
 ### Chunk 0000
 
@@ -319,7 +319,7 @@ Source: [[chunks/sessions_001-0010]].
 - [[Alamar]] chose to stay behind at the lagoon to guard against aerial scouts, saying he is "damned if I do and damned if I don't."
 - The party took the [[Gheister]] as a longboat toward the risen [[Castle Kaedon]].
 
-## Session 016
+## Session 016 — 2026-02-15
 
 ### Chunk 0000
 
@@ -329,7 +329,7 @@ Source: [[chunks/sessions_001-0010]].
 - The party visits [[Lady Jacinthe]] aboard [[The White Drake]] via Teleport Circle. She warns that the Empire may be collecting [[Penumbra]]-like stones to power a massive magical weapon. She offers two side quests: a corrupted siren in the southwestern seas and an old-world construct at a southern castle.
 - [[Ema-Tep]] uses *Transport via Plants* to return the party to [[Lyngbakr Lagoon]].
 
-## Session 017
+## Session 017 — 2026-02-22
 
 ### Chunk 0000
 
@@ -361,7 +361,7 @@ Source: [[chunks/sessions_001-0010]].
 - During a short rest, [[Red Caesar]] investigates and finds drinkable [[Kaedonite Black Ale]].
 - The party recalls lore about [[Kaedon]], the human civilization from before [[The Cataclysm]]: at the end of its life, Kaedon was nearly at peace, with trade routes forming between Kaedon and [[Esperanto]].
 
-## Session 018
+## Session 018 — 2026-03-01
 
 ### Chunk 0000
 
@@ -404,7 +404,7 @@ Source: [[chunks/sessions_001-0010]].
 - Investigation reveals the [[Mangonel]] was originally a celebration device containing decorative fireworks from [[Broy]].
 - [[Domyx]] discovers [[The Jewel of Alfheimer]], a rare painting by [[Aramil Kiirnodel]] depicting pre-Cataclysm [[Brimbolyn]] as a lush jungled continent.
 
-## Session 019
+## Session 019 — 2026-03-08
 
 ### Chunk 0000
 
@@ -428,7 +428,7 @@ Source: [[chunks/sessions_001-0010]].
 - The party returned to [[Castle Kaedon]] the next day during a storm. [[Ceril]] protected Red Caesar from the Mark of the Home curse and cured [[Kerben]] after it took hold.
 - In a pentagonal inner chamber, magic circles summoned [[Bearded Devil]]s, setting up the next battle.
 
-## Session 020
+## Session 020 — 2026-03-15
 
 ### Chunk 0000
 
@@ -458,7 +458,7 @@ Source: [[chunks/sessions_001-0010]].
 - The party heals through coordinated efforts: [[Red Caesar]] uses Vampiric Touch, [[Vokenar]] uses Aura of Vitality, and [[Kerben]] restores Zulu.
 - The party decides to pursue a war of attrition, clearing the left wing of the castle's pentagonal layout before confronting the Nalfeshne directly.
 
-## Session 021
+## Session 021 — 2026-03-22
 
 ### Chunk 0000
 
@@ -501,7 +501,7 @@ Source: [[chunks/sessions_001-0010]].
 - [[Muudeep]] is introduced as a contact at [[The Garden]] who trades art pieces for attunable magic items.
 - [[Domyx]] keeps private the fact that [[Obould]] named him heir to [[The Opal]] in his logbook.
 
-## Session 022
+## Session 022 — 2026-04-05
 
 ### Chunk 0000
 
@@ -539,7 +539,7 @@ Source: [[chunks/sessions_001-0010]].
 - [[Red Caesar]] identified distinctive markings on the imperial soldiers.
 - The party skips [[Cutlass Cray]] and continues east toward the [[Broyish Empire]] with Theo as prisoner.
 
-## Session 023
+## Session 023 — 2026-04-19
 
 ### Chunk 0000
 
@@ -583,7 +583,7 @@ Source: [[chunks/sessions_001-0010]].
 - [[Vizier Jade]] reveals [[The League of New Stark]] has been giving her penumbra, extending Obould's stay of execution to three months.
 - The party returns to [[The Opal]]. [[Theo Harvey]] has vanished from his cage in the brig.
 
-## Session 024
+## Session 024 — 2026-04-26
 
 ### Chunk 0000
 
@@ -642,7 +642,7 @@ Source: [[chunks/sessions_001-0010]].
 - The party escaped the peaks of the Titans swiftly and returned to [[The Opal]].
 - [[Ulrich Fjoller]] and [[Lorelai Lapis-Acathian]] joined [[The Opal]] as new crew members. The ship now carried two couples, one of whom was pregnant.
 
-## Session 025
+## Session 025 — 2026-05-03
 
 ### Chunk 0000
 
@@ -675,7 +675,7 @@ Source: [[chunks/sessions_001-0010]].
 - The party continues toward [[Xarag's Island]], where the [[Xarag]] holds treasure [[The Opal]] once carried.
 - A flashback shows [[Master Lee]] expressing pride in a younger [[Red Caesar]] inside [[Heaven's Bulb]]. A crack appears in the Bulb's fake sky, revealing real sunlight.
 
-## Session 026
+## Session 026 — 2026-05-17
 
 ### Chunk 0000
 
@@ -708,7 +708,7 @@ Source: [[chunks/sessions_001-0010]].
 - [[Cutlass Cray]] is intact — [[The Marid]] uses his water genie magic to deflect the catastrophic waves away from the town.
 - Transel arrives separately at [[Cutlass Cray]] and becomes the new bartender at [[The Brine & Bodak]], which he later runs.
 
-## Session 027
+## Session 027 — 2026-06-07
 
 ### Chunk 0000
 
@@ -743,7 +743,7 @@ Source: [[chunks/sessions_001-0010]].
 - [[Domyx]] finds a dead adventurer's belongings, including a [[Ranger Scroll]] for [[Kerben]].
 - The party emerges from barrels in [[City Hole]], a small cavern with barrel portals connecting to the other zones. A wireframe gate blocks the path deeper into the Hole Shebang.
 
-## Session 028
+## Session 028 — 2026-06-14
 
 ### Chunk 0000
 
@@ -770,7 +770,7 @@ Source: [[chunks/sessions_001-0010]].
 - A dart trap animated darts that poisoned [[Domyx]] and struck [[Zulu]]. The dart game awarded the party coins.
 - The party confirmed one of four lamps was lit for [[Jack Harvey]]'s inner sanctum and decided to head to the [[Magic Hat]] next.
 
-## Session 029
+## Session 029 — 2026-06-28
 
 ### Chunk 0000
 
@@ -817,7 +817,7 @@ Source: [[chunks/sessions_001-0010]].
 - [[Domyx]] looted a giant carrot-shaped glass lightbulb from a 40-foot lighthouse on the island.
 - As the party prepared to trigger the next wave, [[Kerben]] appeared from a portal with dramatic music. The session ended on this cliffhanger.
 
-## Session 030
+## Session 030 — 2026-07-04
 
 ### Chunk 0000
 
@@ -855,7 +855,7 @@ Source: [[chunks/sessions_001-0010]].
 - Red Caesar cast True Seeing on his younger self, who identified Mending as the missing piece in Red Caesar's Penumbra work.
 - Red Caesar learned [[Obvolvo Caelum]], a spell that can condense [[Penumbra]] and smooth [[Akasha]]-to-Penumbra synthesis.
 
-## Session 031
+## Session 031 — 2026-07-18
 
 ### Chunk 0000
 
@@ -915,7 +915,7 @@ Source: [[chunks/sessions_001-0010]].
 - Red Caesar remains on Stark and sees a whole blue sky for the first time; [[The Opal]] later retrieves him.
 - The session ends with Obould and Kerben safe aboard [[The Opal]], Domyx captured by [[Emperor Shen]], Vokenar's body held by [[Vizier Jade]], and Ceril gone into the heavens with Lyngbakr and Alamar.
 
-## Session 032
+## Session 032 — 2026-08-02
 
 ### Chunk 0000
 
@@ -938,7 +938,7 @@ Source: [[chunks/sessions_001-0010]].
 - [[Courteous Cam]] and [[Otto]] agree to reopen the Funnel's collapsed route into the abyss beneath [[Stark]], offering a delayed approach to [[Axis Mundi]].
 - The party sails to [[Southport]] to confront [[Mana Sickness]] while the excavation proceeds; [[Mayor Yoris]] welcomes them on [[Janeera]]'s prophecy.
 
-## Session 033
+## Session 033 — 2026-08-09
 
 ### Chunk 0000
 
@@ -972,7 +972,7 @@ Source: [[chunks/sessions_001-0010]].
 - [[Southport]] installs voice pipes and expanded dormitories aboard [[The Opal]], and eleven local deckhands join the crew.
 - The party chooses to pursue [[Farraday]] before confronting [[Boril Erendel]].
 
-## Session 034
+## Session 034 — 2026-08-16
 
 ### Chunk 0000
 
@@ -1003,7 +1003,7 @@ Source: [[chunks/sessions_001-0010]].
 - [[Ceril]] rejoins the party before they travel to [[House Erendel]].
 - The party reaches House Erendel and discovers multiple duplicates of Boril Erendel and another created figure resembling [[Vokenar]].
 
-## Session 035
+## Session 035 — 2026-09-12
 
 ### Chunk 0000
 
@@ -1026,7 +1026,7 @@ Source: [[chunks/sessions_001-0010]].
 - [[Figma Brickfinger]] and [[Courteous Cam]] report that [[The Funnel]] has reopened, but its miners withdrew from dangers beyond the passage.
 - Before the descent, Ceril acquires the [[Cornucopia of Constellations]] and Domyx the [[Kaboom Ring]]. The party prepares to enter the Funnel.
 
-## Session 036
+## Session 036 — 2026-09-13
 
 ### Chunk 0000
 
@@ -1052,7 +1052,7 @@ Source: [[chunks/sessions_001-0010]].
 - The roc returns its riders and departs freely.
 - Vokenar sights [[Gaokerena]], which [[Sigil]] identifies as the tree of all worlds extending from [[Arkadia]] through [[Stark]] into the Gray Wastes.
 
-## Session 037
+## Session 037 — 2026-09-20
 
 ### Chunk 0000
 
@@ -1082,7 +1082,7 @@ Source: [[chunks/sessions_001-0010]].
 - The last Vanir rises in a colossal form resembling Domyx and Emperor Shen as four unexplained obelisks emerge. The returning gods threaten the party for serving the three sister goddesses.
 - Ceril's Star remains unused; the confrontation and Aeris's mortal fate remain unresolved.
 
-## Session 038
+## Session 038 — 2026-09-27
 
 ### Chunk 0000
 

@@ -1,6 +1,7 @@
 ---
 type: session
 session: "014"
+date: "2026-01-18"
 chunks: 5
 summary: "Party lands on Continental Stark, defeats Fuchsia Fungus, fights an Aeon, recruits Brim, visits Yalet Aurum, negotiates accord with the Order, meets House Kiirnodel, and Vizier Jade reappears."
 ---

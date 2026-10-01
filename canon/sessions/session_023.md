@@ -1,6 +1,7 @@
 ---
 type: session
 session: "023"
+date: "2026-04-19"
 chunks: 3
 summary: "Party sails to Broy, battles titans and oni, enters the imperial capital, meets Vanzia Vynnfae and Naomi Ue, and learns Shen is Domyx's grandfather."
 ---

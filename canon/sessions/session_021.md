@@ -1,6 +1,7 @@
 ---
 type: session
 session: "021"
+date: "2026-03-22"
 chunks: 4
 summary: "Party destroys the Nalfeshne, feeds Penumbra to Lyngbakr who rises and shrinks the Hole in the Sky, discovers Obould captured by Vizier Jade in Broy, levels to 10."
 ---

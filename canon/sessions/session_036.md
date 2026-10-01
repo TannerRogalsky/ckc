@@ -1,6 +1,7 @@
 ---
 type: session
 session: "036"
+date: "2026-09-13"
 chunks: 3
 summary: "The party crosses into the Gray Wastes, resists Domyx I's pressure, saves The Opal's descent, and sights Gaokerena."
 ---

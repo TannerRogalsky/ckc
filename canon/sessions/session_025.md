@@ -1,6 +1,7 @@
 ---
 type: session
 session: "025"
+date: "2026-05-03"
 chunks: 2
 summary: "Party synthesizes and plants Antumbra, de-petrifies priests at Temple of Sigil, defeats Bane Siren and PAXO in the southern archipelago."
 ---

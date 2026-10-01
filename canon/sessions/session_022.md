@@ -1,6 +1,7 @@
 ---
 type: session
 session: "022"
+date: "2026-04-05"
 chunks: 3
 summary: "Ceril scries Jacinthe, revealing Vizier Jade's coercion; the party learns of a Harengon quest, captures Theo Harvey, and reaches Broyish waters."
 ---

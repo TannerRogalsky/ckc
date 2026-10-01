@@ -1,6 +1,7 @@
 ---
 type: session
 session: "013"
+date: "2026-01-11"
 chunks: 5
 summary: Party processes Darvinblast Penumbra, upgrades gear, recovers more Penumbra, establishes Lyngbakr Lagoon, and learns Domyx's ancestor may be the great enemy.
 ---

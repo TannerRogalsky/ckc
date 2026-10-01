@@ -1,6 +1,7 @@
 ---
 type: session
 session: "024"
+date: "2026-04-26"
 chunks: 5
 summary: "Kerben frees Theo Harvey for Carrot Cake map; Ceril and Vokenar receive vision of Aeris trapped at Starfall; party sails north, battles a frost hydra, defeats a white dragon, defeats a Remorhaz, Domyx confronts his family at Acathian Manor, and the party rescues Ulrich Fjoller from the Prison of Frost."
 ---

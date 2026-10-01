@@ -1,6 +1,7 @@
 ---
 type: session
 session: "033"
+date: "2026-08-09"
 chunks: 4
 summary: "Party frees Ninki Nanka, ends Mana Sickness, completes Witness's chart, and expands The Opal before pursuing Farraday."
 ---
