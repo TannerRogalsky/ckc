@@ -4,39 +4,34 @@ subtypes: ["party-member"]
 session_introduced: "001"
 sessions_appeared: ["001", "013", "014", "015", "016", "017", "018", "019", "020", "021", "022", "023", "024", "025", "026", "027", "028", "029", "030", "031", "032", "033", "034", "035", "036", "037", "038"]
 related:
-  - "[[Vanzia Vynnfae]]"
-  - "[[House Kiirnodel]]"
   - "[[Aeris]]"
+  - "[[Crone]]"
+  - "[[Vokenar]]"
+  - "[[Red Caesar]]"
+  - "[[Kerben]]"
+  - "[[Domyx]]"
+  - "[[Vanzia Vynnfae]]"
+  - "[[Gilder Savar]]"
   - "[[Nyquil]]"
+  - "[[Damien Ouranous]]"
+  - "[[Obould]]"
   - "[[The Croakborne Carnival]]"
   - "[[The Order of Seasons]]"
-  - "[[Penumbra]]"
-  - "[[Far Helm Clan]]"
-  - "[[Red Caesar]]"
-  - "[[Darvinblast]]"
-  - "[[Morel Chainsunder]]"
-  - "[[Crone]]"
-  - "[[Domyx]]"
-  - "[[Kerben]]"
-  - "[[Akasha]]"
-  - "[[Aeon]]"
-  - "[[Moon Mushrooms]]"
-  - "[[Brimbolyn]]"
-  - "[[Elvish Marketplace]]"
-  - "[[Gossa]]"
-  - "[[The Academy]]"
-  - "[[Keys Caeradel]]"
   - "[[Illidrielle Gandara]]"
+  - "[[Keys Caeradel]]"
   - "[[Rakshasa]]"
   - "[[Feronia Caeradel]]"
   - "[[Rizolvir Kiirnodel]]"
-  - "[[Farraday]]"
-  - "[[Tome of Satariel]]"
-  - "[[Tome Keeper's Pyramid]]"
-  - "[[Broy]]"
-  - "[[Gilder Savar]]"
-  - "[[Cutlass Cray]]"
+  - "[[House Kiirnodel]]"
+  - "[[Boril Erendel]]"
+  - "[[Demi-Spell]]"
+  - "[[Penumbra]]"
+  - "[[Starfall]]"
   - "[[Lyngbakr]]"
+  - "[[Ninki Nanka]]"
+  - "[[The Garden]]"
+  - "[[Theotropa]]"
+  - "[[Branch of the Itinerant]]"
   - "[[Cornucopia of Constellations]]"
   - "[[Gaokerena]]"
   - "[[Ceril's Star]]"
@@ -52,185 +47,147 @@ aliases:
   - "Seril Kelnavi"
 ---
 
-A druid with a shield given by [[Aeris]] that serves as a conduit to the goddess. A pre-[[The Cataclysm]] survivor who fled [[Brimbolyn]] alongside [[Vanzia Vynnfae]] decades ago. Communicates with [[Aeris]] through his shield and was drawn into a shared vision with [[Vokenar]] to witness her imprisoned mortal body at the heart of [[Starfall]]. A balanced utility caster whose toolkit spans scouting, divination, environmental manipulation, summoning, and healing.
+# Ceril
 
-## Identity and Backstory
+An elf druid and survivor of [[The Cataclysm]], Ceril is one of [[The Opal]]'s companions and a devoted ally of [[Aeris]]. His care for the captive goddess restores [[Gaokerena]]'s lower growth, and her gift of [[Ceril's Star]] helps the party survive its final confrontation with [[Emperor Shen]]. After helping restore lands exposed by the retreating oceans, he retires to the star's timeless refuge.
 
-In a flashback to the fall of [[Queen Caeradwyn]], [[Ceril]] fled west from [[Brimbolyn]] with [[Vanzia Vynnfae]] and other refugees. He alone could see thick east-to-west lines of light in the sky — phenomena that increased before [[The Cataclysm]] and may be connected to the broken sky. During the escape he rejected an overture from [[House Kiirnodel]], memorizing the aristocrat who warned that others faster than him were coming.
+## Identity and Background
 
-Served on [[The Croakborne Carnival]] alongside a half-elf woman who later stole the [[Penumbra]]. Recognized the woman as working for [[The Order of Seasons]].
+Ceril grew up among the low-born captives of [[Brimbolyn]]. The community that raised him gave him his name. He was already a druid when [[Queen Caeradwyn]] fell, about a century before the campaign, and fled west with [[Vanzia Vynnfae]], [[Gilder Savar]], and other escapees toward the promise of a free republic.
 
-## Abilities and Equipment
+During their flight, Ceril alone could see thick streaks of light crossing the sky from east to west. He had been tracking them before the escape, and their increasing appearance became a clue to the events preceding [[The Cataclysm]]. When the starving [[Gilder Savar]] asked to be left behind, Ceril marked his position with Skywrite so others might find and help him. He then rejected an offer of refuge from [[Rizolvir Kiirnodel]] and [[Feronia Caeradel]], distrusting the society they proposed to rebuild. [[Rizolvir Kiirnodel]] let him leave but warned that faster pursuers were coming.
 
-Capable of wild shape transformations including mountain goat, gargoyle, and a constellation of stars (firing Starry Wisp arrows). Enters a luminous/angelic form in combat. Has access to the Hero's Respite gargoyle form (one-use flying). Has a "reverse Animorph" ability that provides an extra d8 plus wisdom modifier healing to an ally.
+Before the party's search for [[Penumbra]], Ceril also served aboard [[The Croakborne Carnival]] alongside [[Illidrielle Gandara]]. That association later allowed him to recognize her involvement with [[The Order of Seasons]].
 
-Can cast: Plant Growth, Guiding Bolt, Luminous Arrow, Moonbeam (repositionable as bonus action), Augury, Woe, Healing Word, Misty Step, Summon Beast, Fog Cloud, Primal Savagery, Winden's Arrow, Protection from Poison, and Sky.
+## Personality and Motivations
 
-## Plot Events
+Ceril's devotion to [[Aeris]] expresses itself through practical care as well as prayer. He grew food for her imprisoned mortal form without knowing that it would restore a world tree, and described the completed mission as one he had been grateful to undertake for the goddess. His prayers over the dead prisoners of [[Castle Kaedon]] likewise show his faith in the sisters' presence.
 
-- Found a map to the [[Far Helm Clan]] keep among enemy effects.
-- Found crates of Deepworlder minted coins with [[Vokenar]] in [[Darvinblast]].
-- Cast Moonbeam during the Darvinblast atrium battle, creating a crescent moon image of [[Crone]] on the ceiling.
-- During the confrontation with [[Morel Chainsunder]], his divination led the party to the hidden shrine/office where the real Morel's skeleton and the binding spell document were found.
-- Contacted [[Aeris]] through his shield, enabling five yes/no questions about the curse and the path forward. Noted that the Mirage Arcana illusion over the northern mountains was linked to the curse and had now cleared.
-- Landed the finishing blow on the [[Fire Giant]].
-- In gnoll territory, cast Moonbeam centered on [[Domyx]] to trap gnolls inside, then repositioned it as a bonus action to keep enemies trapped. The moonbeam cut a path through a Wall of Fire and sealed back up.
-- During the [[Wyvern]] encounter, summoned an aerial heron and wild shaped into star form to fire Luminous Arrows. Cured [[Domyx]] of poison with Protection from Poison.
-- Trusted [[Kerben]]'s intention to calm the uncommanded triceratops and allowed himself to be its target, saving his wild shape uses for later needs.
-- On [[Continental Stark]], was struck by [[Akasha]] rain. His familiar [[Nyquil]] was killed by the Akasha rains, leaving burns and a radioactive glow; Ceril consumed the owl's body whole.
-- Cast Dominate Beast on a giant tyrannosaurus, charming it and ordering it to run north and attack anyone who looked like him.
-- Spoke with elven scouts and migrants in modern Elvish, learning of danger ahead in the bogs. Healed unconscious migrants with his holy light.
-- Used Moonbeam and astral archer form against the [[Fuchsia Fungus]], then fought the [[Aeon]] when it attacked the party.
-- Identified and harvested [[Moon Mushrooms]] for [[Kerben]]'s poison research.
-- Used Primal Savagery against the [[Aeon]], forcing it to rely on Shield.
-- Traveled to [[Brimbolyn]] aboard the magical train with the party and [[Brim the Bullywog]].
-- Offered a clever alternate answer to [[Yalet Aurum]]'s riddle and received a chunk of gold; [[Red Caesar]] ultimately solved it as "bolder."
-- Visited [[Gossa]] at the [[Elvish Marketplace]] and traded a Mask of Ogun for an amulet that allows him to summon his familiar as a magma elemental. The magma familiar has claws, fire breath, and a death burst that explodes into a fireball if killed.
-- At [[The Academy]], recognized [[Keys Caeradel]] and [[Illidrielle Gandara]] as the same individuals who stole [[Penumbra]] from [[Castle Kaedon]].
-- Negotiated an accord with the Order: the party will stop collecting new Penumbra, and if their plan to fix the sky fails, they will give all collected Penumbra to the Order. In exchange, the Order granted access to teleport circles.
-- Learned that [[Keys Caeradel]] is the son of the [[Rakshasa]] and wanted the party to bring his father to [[The Academy]].
-- Visited [[House Kiirnodel]] and recognized [[Feronia Caeradel]] and [[Rizolvir Kiirnodel]] from his pre-Cataclysm escape flashback. Feronia Caeradel recognized Ceril's future self, saying his soul survives many worlds unchanged and predicting he would become a god in the reset world.
+His distrust of elven authority is rooted in his escape from captivity. He called the old civilization sick at its root and later opposed [[Boril Erendel]]'s claim that high elf bodies represented perfection. He rejected the [[Demi-Spell]] as unnatural and preferred allowing the existing world, including the shattered moon, to recover.
 
-## Session 015
+Ceril was willing to consider harsh means against threats he judged intolerable. His proposed leverage against [[Keys Caeradel]] included kidnapping or killing the [[Rakshasa]], and [[Obould]]'s humiliation in imperial captivity led him to suggest death as an end to the captain's suffering. These remained proposals. At the same time, he refused to surrender dangerous alchemical knowledge to [[Vizier Jade]].
 
-After the party returned from elf country, Ceril was asleep in the bunks when [[Red Caesar]] and [[Kerben]]'s alarm spells triggered simultaneously. Woken by gunfire, Ceril rushed to the top deck as hobgoblin pirates boarded [[The Opal]] and helped defend the ship.
+After the final victory, Ceril wanted time and solitude. He chose to restore fertile wilderness while making it difficult for expanding settlements to occupy it, then withdraw to his star.
 
-The party boarded the hobgoblins' second ship, [[The Hideous Truth]], and confronted the [[Warg Lord]]. Ceril's Moonbeam stripped away the creature's goblin-like features, revealing its true beast form. He helped keep the party alive until [[Kerben]] delivered the killing shot.
+## Relationships
 
-The party sailed to [[The Garden]]. Ceril accompanied [[Domyx]] to meet the [[Rakshasa]] in the inner sanctum. The Rakshasa showed emotion when Ceril mentioned coming on behalf of his son, then hid his true thoughts. The Rakshasa revealed he is trapped and must hunt escaped demons, and gave the party a quest to kill [[Farraday]]. Ceril also joined [[Red Caesar]] in visiting [[Boril Erendel]], who revealed his eugenics plan for the [[Demi-Spell]] — reincarnating all beings as high elves. Ceril called Boril Erendel an apostate and proposed capturing or assassinating the Rakshasa as leverage against [[Keys Caeradel]] to halt the Demi-Spell entirely. The party reached level 9.
+- [[Aeris]] — His divine ally and the giver of his shield. He consulted her through it, cared for her captive mortal form, and helped deliver the [[Penumbra]] that repaired the sky. She later rewarded his restoration of [[Gaokerena]] with [[Ceril's Star]], which became his lasting home.
+- [[Vanzia Vynnfae]] — A fellow escapee from [[Brimbolyn]] and an old ally. Their flight joined her revolutionary hopes with his guidance by the stars. They reunited in the [[Broyish Capital]], where she was working with [[Naomi Ue]].
+- [[Gilder Savar]] — A human companion from the same escape, whom Ceril last left with a magical appeal for rescue. They met again at [[Savar Brews]]; Ceril did not initially recognize his lich form. [[Gilder Savar]] explained that he had chosen undeath to perfect his craft over centuries.
+- [[Nyquil]] — His owl familiar and long-distance scout, communicating through telepathic images and metaphor. The [[Akasha]] rain killed the owl on [[Continental Stark]], and Ceril consumed the body. He subsequently acquired an amulet allowing him to summon his owl as a magma elemental.
+- [[Red Caesar]] — A companion and collaborator in the sky's repair. Ceril rescued him from a mold hazard and protected him from the Mark of the Home curse; [[Red Caesar]] later carried Ceril safely through [[Ninki Nanka]]'s poisonous cave. They investigated [[Obould]]'s captivity and delivered the condensed [[Penumbra]] to [[Lyngbakr]] together. They disagreed over custody of the [[Demi-Spell]].
+- [[Kerben]] — A fellow naturalist whose effort to calm [[Kilosaurus]] Ceril trusted despite the danger. Ceril harvested [[Moon Mushrooms]] for his poison research, removed his Mark of the Home curse, and eventually freed him from [[Emperor Shen]]'s maze through [[Ceril's Star]].
+- [[Vokenar]] — His companion in the vision of [[Aeris]]'s prison and the later passage through [[Gaokerena]] to [[Arkadia]]. Ceril recovered and reincarnated him after his first death. [[Vokenar]]'s final sacrifice secured Ceril's escape with the rest of [[The Opal]]'s people.
+- [[Domyx]] — Ceril supported his northern rescue mission, restored him after the [[Remorhaz]] encounter, and sent his familiar to scout the suspected prison holding [[Ulrich Fjoller]]. They also visited the [[Rakshasa]] and the [[Temple of Sigil]] together.
+- [[Keys Caeradel]] — Initially a negotiator for [[The Order of Seasons]], then the focus of Ceril's efforts to prevent the [[Demi-Spell]]. Ceril considered using his father as leverage, but ultimately appealed to the world's capacity to heal and [[Illidrielle Gandara]]'s wish that he find a life beyond the spell.
+- [[Illidrielle Gandara]] — His former shipmate, later recognized among [[The Order of Seasons]]'s [[Penumbra]] collectors. He encountered her among the dead in [[Arkadia]] and carried her wish for [[Keys Caeradel]]'s future back to him.
+- [[Feronia Caeradel]] — One of the elves who allowed him to escape. On meeting him again, she said his soul survived many worlds unchanged and predicted that he would be like a god in a renewed world. This was her account of his possible future, rather than an established transformation.
+- [[Rizolvir Kiirnodel]] — The aristocrat whose offer Ceril rejected during the escape. Their later reunion revealed that [[House Kiirnodel]] had let him go deliberately; [[Rizolvir Kiirnodel]] also warned the party about the [[Broyish Empire]].
+- [[Damien Ouranous]] — The League envoy who helped conceal the portrait Ceril took for scrying. Ceril later encountered him in [[Arkadia]] alongside [[Vokenar]]'s spirit and learned that [[Emperor Shen]] had killed him.
+- [[Theotropa]] — The druid who invited him to help [[The Garden]] restore newly exposed lands. Ceril volunteered before retiring, without establishing a permanent role in the organization.
 
-## Session 018
+## Abilities
 
-During the Castle Kaedon exploration, Ceril spotted specters rising from a graveyard field hidden in fog along the island's southern perimeter, alerting the party before the ambush could fully spring. He used his starry form and Moonbeam against the specters and other enemies. When [[Red Caesar]] walked into a brown mold infestation in the granary building, Ceril used Shape Water combined with create water to freeze the mold and destroy it completely. He later wild-shaped into a scorpion and squeezed under the granary door to scout the interior, discovering [[Sturges]] hanging from the ceiling.
+### Forms, Healing, and Protection
 
-During the battle with the [[Xarag]], Ceril's starry shield was overwhelmed by the dragon's acid breath, knocking him unconscious. He was restored to consciousness by [[Vokenar]]'s Aura of Vitality as [[Domyx]] delivered the killing blow to the dragon.
+Ceril's Wild Shape supports scouting and survival through forms such as a mountain goat, ram, and scorpion. His luminous constellation forms combine star archery, a healing chalice, and a dragon form that developed flight and hovering during the northern expedition. Moving from an offensive form into his healing form can itself provide additional restoration to an ally. His chalice healing can appear as pollen spreading through newly sprouting grass and flowers.
 
-## Session 019
+Healing Word, Mass Cure Wounds, Protection from Poison, and Greater Restoration let him sustain companions, neutralize poison, remove curses, and reverse petrification. Reincarnate returned [[Vokenar]] to life, though [[Boril Erendel]]'s interference constrained the available bodies to elves. Dispel Magic can remove hostile enchantments and interrupt a curse before it takes hold.
 
-During the [[Castle Kaedon]] exploration, Ceril used Plant Growth to overrun the broken island platforms with seaweed and fungus, creating permanent natural bridges and climbing supports. He helped the party clear the acid-damaged room and the entrance foyer, where they fought a [[Flabbergast]], a [[Carrion Crawler]], [[Severed Hands]], giant scorpions, and black puddings.
+His offensive magic includes Guiding Bolt, Moonbeam, Starry Wisp, Primal Savagery, and the constellation form's luminous archery, including Luminous Arrow and Winden's Arrow. Moonbeam can reveal a concealed true form; its appearance in [[Darvinblast]] evoked [[Crone]] as a crescent moon.
 
-After the party returned to the castle from [[The White Drake]], Ceril sensed the Mark of the Home curse before it fully struck. He protected [[Red Caesar]] with Dispel Magic, then used Greater Restoration to remove the curse from [[Kerben]] after it took hold.
+### Divination, Nature, and Travel
 
-## Session 020
+Ceril reads the stars and uses Augury and his Woe power to guide events. His shield provides a separate conduit for questions to [[Aeris]]. Scrying lets him observe distant people through an appropriate focus, although a subject can resist it.
 
-In [[Castle Kaedon]], Ceril summoned a bestial spirit crab to fight in the stained-glass hallway. He prayed over the dead prisoners in the dungeon cells, feeling emboldened that the gods — particularly "the sister" — were watching over the party. His keen elf ears detected the chalk of summoning circles being drawn, alerting the party before the fiends appeared.
+Commune with Nature reveals creatures and terrain through signs such as dragonflies. His naturalist knowledge distinguishes medicinal plants, poisons, and unusual ecology; he identified [[Deep Roses]] as the cure for [[Mana Sickness]] and harvested [[Moon Mushrooms]] for [[Kerben]]. He speaks modern Elvish, can use Speak with Animals, and has keen senses that helped detect specters, concealed threats, and fiends drawing summoning circles.
 
-In a later encounter in the same hallway, Ceril fired Guiding Bolt at the [[Hezru]] while affected by its stench aura, and let his summoned bestial spirit crab attack. His keen Perception check after the battle was the highest of the party, giving him the sense that something bad was about to happen — allowing him to duck out of the way of the [[Nalfeshne]]'s retaliatory Lightning Bolt.
+Plant Growth and Druidcraft let him cultivate food, strengthen vegetation, and read local weather. He can reshape surroundings on a lasting scale, from seaweed bridges to living forests, or make smaller alterations such as tilting a billiard table with growing plants. Shape Water and water-creation magic let him clear hazards, while Water Breathing enables submerged exploration. Fog Cloud conceals an area, Dominate Beast directs animals, and Summon Beast calls spirits in bird or crab forms.
 
-## Session 022
+Misty Step provides short-range magical movement; Skywrite can leave a visible message overhead. Transport via Plants provides longer travel through vegetation. His passage between planes through [[Gaokerena]] was an exceptional use of the world tree, rather than an established general ability to cross planes with the spell. His later growth also brought Reverse Gravity.
 
-The party split into two groups. [[Ceril]] traveled with [[Red Caesar]] via Teleportation Circle to [[The White Drake]] to seek information about [[Obould]]'s fate. They learned from [[Damien Ouranous]] that [[Lady Jacinthe]] was inconsolable and declared Obould deceased.
+Ceril advanced to level nine after visiting [[The Garden]], reached level twelve with improved agility after the park challenges, and prepared for level thirteen after the [[Mana Sea]] expedition. His magma familiar, protective feast enhancements, and timeless refuge depend on the gifts described below.
 
-Ceril infiltrated the ship's interior, blending in with refugees and staff. He observed the security around Jacinthe's quarters — guards at the staircase and trusted nobility at the doors — and judged a direct approach too risky. Instead, he tracked down the laundry service and overheard attendants discussing Jacinthe's drinking habits and a frazzled sommelier stuck in the wine cellar. He stole clothes from the laundry, disguised himself as a crew member named "Baragas," and convinced the sommelier to hand over a prized bottle of Talyn brandy that Jacinthe had been drinking from.
+## Equipment and Resources
 
-Ceril used the brandy bottle as a focus to attempt his first scrying on Jacinthe, but Jacinthe resisted the effect. [[Red Caesar]] suggested finding a portrait of Jacinthe for a second attempt with better odds.
+- [[Aeris]] — Gave him a protective shield that also serves as a conduit for divine consultation. It connected him to the goddess's celestial aspect even while her mortal fragment remained imprisoned.
+- [[Gossa]] — Traded him a volcanic-rock amulet for his former Mask of Ogun at the [[Elvish Marketplace]]. The amulet allows his owl familiar to be summoned as a magma elemental with claws, fire breath, and an explosive burst if destroyed. These are properties of the item-enabled familiar.
+- [[Branch of the Itinerant]] — A spellcasting wand acquired at the [[Elvish Marketplace]]. Flowers bloom along paths drawn with it.
+- [[Cornucopia of Constellations]] — An elven commission worn at his neck, supplying feast materials and strengthening Heroes' Feast into Goddess's Feast. It grants vitality and protection from poison, with adaptable protections against other energies.
+- [[Ceril's Star]] — [[Aeris]]'s enduring celestial gift, reflected in the heavens. Prayer to it can suspend time and shelter the party for recovery, even if Ceril is incapacitated. After the adventure, its astral demiplane became his home.
 
-Red created a loud distraction in the lounge, shattering porthole windows. While guards rushed toward the commotion, Ceril stole a portrait of Jacinthe christening [[The White Drake]]. He encountered [[Damien Ouranous]] along the way, who kindly offered his cape to conceal the painting. Ceril made it back to the room safely.
+A potion also once granted Ceril a single flying gargoyle transformation. That consumable benefit was distinct from his enduring constellation forms.
 
-Before scrying, Ceril checked Damien's cape and confirmed it was safe conjuration magic. He then used the portrait, mercury, and brandy for a second scrying attempt. This time, Ceril successfully observed Jacinthe's private room. He discovered that Jacinthe's grief was a ruse — the wine bottles were unopened and lined up neatly. After verifying the coast was clear, Jacinthe wept loudly for anyone listening outside. [[Vizier Jade]] then appeared in the room via illusion magic and delivered a one-month ultimatum: Jacinthe must help the [[Broyish Empire]] find [[Penumbra]] or [[Obould]]'s safety could not be guaranteed.
+## Campaign History
 
-After the scrying, Ceril shared all the information with [[Red Caesar]] and the full party. He wrote a message to Damien about the truth of the situation and hid it inside the stolen painting. He then traveled with Red through a teleport circle to [[Brimbolyn]], arriving at [[House Kiirnodel]]'s courtyard. At the [[Elvish Marketplace]], Ceril acquired the [[Branch of the Itinerant]], a spellcasting wand that also blooms flowers along a drawn path.
+### Finding Penumbra and Returning to the Elven Lands
 
-The party reconvened aboard [[The Opal]] and learned of a new quest from [[David Harvey]]: retrieve the traitor [[Theo Harvey]] from imperial-occupied territory.
+While exploring [[Castle Kaedon]], Ceril recognized [[Illidrielle Gandara]] among the people taking its [[Penumbra]] and connected her to [[The Order of Seasons]]. In [[Darvinblast]], he used [[Nyquil]] to follow an imperial scout and discovered the northern mountains' concealing illusion. He also found a map to the [[Far Helm Clan]] keep and, with [[Vokenar]], crates of Deepworlder-minted coins.
 
-The party sailed to the [[Harengon Warrens]] island and was ambushed by invisible imperial scouts and marshals alongside Theo. After the battle, Ceril and [[Vokenar]] stopped the fleeing imperial forces, killing most of the remaining soldiers. Ceril helped secure Theo as a prisoner.
+Ceril's divination established that the apparent [[Morel Chainsunder]] was not the living person the party sought. It led them to the real [[Morel Chainsunder]]'s skeleton and the binding document sustaining the city's curse. After [[Red Caesar]] destroyed it, Ceril consulted [[Aeris]] through his shield and guided the party toward the [[Penumbra]] quarry exposed by the cleared illusion.
 
-## Session 023
+Returning to [[Continental Stark]] brought Ceril back toward the society he had escaped. [[Akasha]] storms killed [[Nyquil]], whose body he consumed. He helped communicate with elven migrants and heal those rescued from the bog, and gathered [[Moon Mushrooms]] for [[Kerben]] before traveling by magical train to [[Brimbolyn]]. An alternative answer to [[Yalet Aurum]]'s riddle earned him gold before [[Red Caesar]] supplied the final solution.
 
-During the voyage to [[Broy]], Ceril cast Commune with Nature to locate [[Farraday]]. Dragonflies appeared as indicators that the fiend was within three miles. Ceril discovered a pyramid-shaped landmass approximately 10 miles away — [[Tome Keeper's Pyramid]], created by the [[Arcanoloth]] to house the [[Tome of Satariel]]. The eastern waters retain pre-[[The Cataclysm|Cataclysm]] ecology, with ancient trees visible beneath the waves.
+At [[The Academy]], Ceril recognized [[Keys Caeradel]] and [[Illidrielle Gandara]] as the collectors from [[Castle Kaedon]]. The party agreed to stop collecting new [[Penumbra]] and surrender its stock if the sky-repair plan failed, in exchange for access to [[The Order of Seasons]]'s teleportation circles. [[Keys Caeradel]] also asked them to bring his father, the [[Rakshasa]], to [[The Academy]].
 
-Ceril fought alongside the party against [[Farron Acathian II]] and [[Zohai Lapis]] during the storm. He repositioned his Moonbeam on the cloud titan and rode on [[Domyx]]'s shoulder during the enlarged titan battle. After the titans departed, the party docked near the coast of [[Broy]].
+Ceril's visit to [[House Kiirnodel]] reunited him with [[Feronia Caeradel]] and [[Rizolvir Kiirnodel]]. For years he had thought the pair might have been a mirage or manifestation of nature. Meeting them again established that they were real and had deliberately let him escape.
 
-Upon disembarking, the party encountered a human and tiefling surrounded by [[Oni]] demons on slick stone. Ceril cast Moonbeam on the nearest oni and helped engage them in combat.
+### Opposing the Demi-Spell and Seeking Obould
 
-After the oni were defeated, the party learned the human couple was from [[Southport]] seeking a cure for [[Mana Sickness]]. Ceril used his knowledge of nature to identify the herbs they had purchased — wrong herbs for the wrong illness. He identified [[Deep Roses]] as the correct cure and learned the Mana Sickness is contagious and spreading through Southport. He misty-stepped inside [[Vokenar]]'s wall of fire to reach the couple safely. Later, Ceril was reunited with [[Vanzia Vynnfae]] in the [[Broyish Capital]] — an old ally from their escape from [[Brimbolyn]] decades ago. Vanzia Vynnfae was now operating alongside [[Naomi Ue]] in the imperial city.
+Ceril helped defend [[The Opal]] against hobgoblin pirates and exposed the [[Warg Lord]]'s true beast form with Moonbeam before [[Kerben]] killed it. At [[The Garden]], he and [[Domyx]] approached the [[Rakshasa]] on his son's behalf. The [[Rakshasa]] explained his confinement and obligation to hunt escaped demons, then asked the party to kill [[Farraday]], whose surveillance prevented him from leaving.
 
-The party entered the imperial palace and was granted audience with [[Vizier Jade]]. Ceril observed Vizier Jade's cruelty to [[Obould]] — she forced him to dance in a resilient sphere as entertainment. Ceril attempted to help [[Red Caesar]]'s negotiation by suggesting the party let Obould die, but also urged against giving Vizier Jade the secrets to penumbra alchemy, calling it too dangerous. Ceril correctly suspected that Vizier Jade might already have killed Obould and was bluffing about his survival.
+Ceril and [[Red Caesar]] then learned that [[Boril Erendel]] intended the [[Demi-Spell]] to reincarnate all beings as high elves. Ceril condemned him and proposed exploiting [[Farraday]]'s hostility toward the [[Rakshasa]] to capture or threaten [[Keys Caeradel]]'s father. His aim was to halt the spell; the party did not carry out the proposed assassination.
 
-## Session 024
+At [[Lyngbakr Lagoon]], Ceril and [[Kerben]] improved the settlement's food supply. During the later [[Castle Kaedon]] expedition, Ceril created permanent bridges and climbing supports from seaweed and fungus, cleared a dangerous mold infestation, and scouted confined spaces in animal form. He protected [[Red Caesar]] from the Mark of the Home curse and removed it from [[Kerben]]. His prayers over the dead prisoners and warning of newly drawn summoning circles accompanied the party's effort to remove the castle's fiends. When [[Lyngbakr]] carried the recovered [[Penumbra]] skyward, Ceril's consultation with [[Aeris]] confirmed that their repair mission could succeed.
 
-While resting aboard [[The Opal]], Ceril and [[Vokenar]] were drawn into a shared vision of a black expanse with a jet-black sky and smooth silver powder underfoot. At the center of this space stood the [[Starfall]] device — a massive ring combining all four elements (earth, water, air, fire) — with a figure trapped inside. The figure was [[Aeris]] herself, her mortal body imprisoned and used as a battery for the weapon. She revealed that sixty to eighty years ago, a man (later understood to be [[Emperor Shen]]) reached up and captured her, breaking her into pieces so no one else could have her power. Her soul flows into the world through the sky, but her physical body ages and weakens in captivity.
+After [[Obould]] disappeared, Ceril and [[Red Caesar]] sought information aboard [[The White Drake]]. [[Damien Ouranous]] relayed [[Lady Jacinthe]]'s claim that the captain should be treated as dead. Ceril infiltrated the ship in a crew disguise and obtained a bottle of her brandy, but his first scrying failed. [[Red Caesar]] created a distraction that let him take her portrait, with [[Damien Ouranous]] helping conceal it.
 
-Ceril cast Plant Growth on the ring's earth elements, causing an orchard of apples, pears, and citrus to grow for Aeris to eat. He also cast Druidcraft to confirm that spells work in this space and that a light rain would arrive despite the cloudless black sky. The plants he grew — citrons, apples, and pears — could potentially serve as a way to locate Aeris's prison in the future.
+The second scrying revealed that [[Lady Jacinthe]]'s public grief concealed a bargain with [[Vizier Jade]]. The unopened wine bottles contradicted the story of her drinking, and the vizier demanded [[Penumbra]] within a month under threat to [[Obould]]'s safety. Ceril shared the discovery and concealed a message for [[Damien Ouranous]] in the portrait. He then helped secure [[Theo Harvey]] as a prisoner in the [[Harengon Warrens]].
 
-Ceril also learned that the [[The League of New Stark]] had been secretly paying [[Vizier Jade]] with [[Penumbra]], which he discussed with the party. The group debated whether to confront the League or pursue the [[The Carrot Cake]] lead first.
+On the voyage to [[Broy]], Ceril's Commune with Nature located signs of [[Farraday]] and revealed [[Tome Keeper's Pyramid]], the refuge housing the [[Tome of Satariel]]. He also recognized surviving pre-Cataclysm ecology in the eastern waters. Near Broy, he diagnosed [[Mana Sickness]] in travelers from [[Southport]], identified their purchased herbs as unsuitable, and named [[Deep Roses]] as the correct cure. He reunited with [[Vanzia Vynnfae]] before the palace audience.
 
-As [[The Opal]] sailed north toward [[Thalasia]], Ceril used Moonbeam and Wheel and Woe during the [[Rimefire Hydra]] encounter, keeping the creature trapped in the beam's continuous damage while healing [[Domyx]] with Healing Word as the hydra focused its attacks on him.
+Seeing [[Obould]] humiliated by [[Vizier Jade]], Ceril suggested ending his suffering and warned against revealing [[Red Caesar]]'s alchemical knowledge. He doubted whether the captain was even still alive; that suspicion was later disproved.
 
-During the trek into the Arctic Plains, Ceril wild-shaped into a ram to better resist the bitter cold. He used his starry wisp form to deliver powerful healing through a chalice. When the party encountered the [[Tatzelwurm]], Ceril summoned a bestial spirit bird that attacked the dragon from the flank. He healed [[Kerben]] after the dragon's frost breath, and his bird continued striking the creature. During the Tatzelwurm fight, Ceril learned that his dragon wild shape had evolved to grant flight and the ability to hover.
+### Caring for Aeris and Recovering the Sky
 
-As the party followed the blood-stained river into Titanfolk territory, a [[Remorhaz]] surged toward them. Ceril cast Moonbeam directly on the creature as it approached. He then switched to constellation mode for better attack accuracy. The Remorhaz moved out of the Moonbeam, forcing Ceril to redirect it. He healed [[Kerben]] again during the fight.
+Ceril and [[Vokenar]] were drawn into a shared vision of [[Aeris]]'s mortal form at the heart of [[Starfall]]. She explained that her captor, understood by the party to be [[Emperor Shen]], had broken her apart and was using her as the weapon's battery. She said she had spent sixty to eighty years imprisoned, aging and weakening like a mortal while her divinity still reached the world through the sky. Ceril grew apples, pears, citrus, and grain to feed her, while [[Vokenar]] left a magical light. Ceril recorded the plants as possible clues to finding the prison, unaware that his planting would have much greater consequences.
 
-After [[Domyx]] was swallowed by the Remorhaz, Ceril helped coordinate the rescue. When [[Vokenar]] destroyed the creature with radiant magic, Ceril healed Domyx back to consciousness with Healing Word and then used his chalice form to restore him further. When Domyx split from the party to enter [[Acathian Manor]], Ceril stayed hidden nearby. He sent his magma owl familiar to scout the area, which reported a large cavern with heavy security at its entrance and food trays being delivered inside — a suspicious location that likely corresponded to the [[Prison of Frost]] where [[Ulrich Fjoller]] was being held. [[Vokenar]] detected no [[Penumbra]] in the area, and the sky appeared intact from this distance — the titan homeland was far from the cataclysm's effects.
+Learning that [[The League of New Stark]] was secretly supplying [[Vizier Jade]] with [[Penumbra]] exposed another danger to the repair mission. During the northern journey, Ceril helped restore [[Domyx]] after the [[Remorhaz]] encounter and sent his magma owl to scout the guarded cavern believed to hold [[Ulrich Fjoller]]. His dragon constellation form gained flight and hovering during that expedition.
 
-## Session 025
+After leaving [[Thalasia]], Ceril contacted [[Aeris]]'s star-filled divine aspect. She confirmed that the [[Antumbra]] sabotage would not harm her captive fragment and that [[Obould]] remained alive. Ceril relayed her approval to the party. At the [[Temple of Sigil]], he also restored [[Father Warrick]] from petrification; the priest freed others, and the survivors planned to help [[Southport]].
 
-As the party sailed south from [[Thalasia]], [[Ceril]] used a divine summoning spell to contact [[Aeris]]. She was in a dark, windowless room with a single candle, and Ceril cast Continual Flame to provide her light. Aeris confirmed that deploying the [[Antumbra]] would not harm the piece of herself trapped within [[Starfall]].
+In [[Cutlass Cray]], Ceril reunited with [[Gilder Savar]] and bought supplies before sailing to [[The Carrot Cake]]. He gathered seeds from its preserved trees and used restorative magic to sustain the party through the park's challenges. He interpreted [[Tango]]'s warning that imperial forces were attacking [[The Opal]], giving the party reason to press toward the last lamp while [[Kerben]] defended the ship.
 
-Ceril visited the [[Temple of Sigil]] on Otyugh Isle with [[Domyx]], where they encountered 12 petrified priests and 19 petrified Kuo-Toa who had been turned by a cockatrice. Ceril cast Greater Restoration on [[Father Warrick]], the highest-ranking priest, de-petrifying him first. Father Warrick then used his own abjuration abilities to de-petrify several more priests. The freed priests planned to head to [[Southport]] to help combat the [[Mana Sickness]] plague. Ceril also encountered a cockatrice in the temple and dealt with it during their visit.
+Aboard [[Hole on Wheels]], his owl scouted the train and identified its enemies and final switch. Against the [[Vampiric Nightbringer]], Ceril used his Call Lightning scroll to open the roof, exposing the vampire to sunlight and preventing its recovery. After returning to the park, he helped keep [[Fharan]] alive for interrogation before the prisoner died, then supplied water magic for the entry into [[Jack Harvey]]'s flooded vault.
 
-## Session 027
+Ceril and [[Red Caesar]] carried the condensed [[Penumbra]] to [[Lyngbakr]]. When the turtle rose to repair the [[Hole in the Sky]], Ceril and [[Alamar]] accompanied him into the heavens, leaving [[Stark]] as the sky sealed beneath them.
 
-In [[Cutlass Cray]], Ceril visited [[Gilder Savar]] at [[Savar Brews]]. Ceril did not recognize him in his lich form, but Gilder Savar recognized Ceril from their shared past — both had escaped [[Brimbolyn]] together alongside [[Vanzia Vynnfae]]. Gilder Savar revealed he chose undeath to live long enough to perfect his craft, saying "the best drinks take centuries to distill into perfection." Ceril purchased protective and emergency-use supplies from him.
+### Restoring Companions and Defending the Existing World
 
-Ceril sailed with the party to [[The Carrot Cake]]. He supported the party during the entrance battle against undead and later collected seeds from the park's magically preserved trees.
+In [[Arkadia]], Ceril consulted [[Aeris]], [[Sigil]], and the injured [[Crone]], learning that [[Vokenar]] could still be restored. He encountered [[Illidrielle Gandara]] among the dead and learned both that the [[Demi-Spell]] was complete and that [[Boril Erendel]]'s alterations constrained reincarnation. He also saw [[Damien Ouranous]] with [[Vokenar]]'s spirit and learned of the envoy's death.
 
-## Session 028
+Ceril returned through a closing sky passage and joined the disguised approach to the [[Broyish Capital]]. The party exposed [[Broyish Empire]]'s false sky, recovered [[Domyx]] and [[Vokenar]]'s body, and escaped through plant travel. At the [[Temple of Sigil]], Ceril reincarnated [[Vokenar]] as a high elf, confirming that only elven bodies remained available.
 
-In the [[Hole Shebang]], Ceril was grappled by a second [[Roger Ribbons]]'s ribbons but was freed by [[Domyx]]'s attacks. He wild-shaped into a chalice and cast Mass Cure Wounds, healing the entire party for a massive total — grass and flowers sprang through the debris as pollen spread restorative energy. He helped [[Vokenar]] cheat at pool against a [[Magen]] by tilting the table with Plant Growth.
+In the [[Mana Sea]], Ceril identified the psychic command binding the attacking driders and exposed an invisible [[Aboleth]] with Starry Wisp. Following [[Lodestar]]'s warning, he preserved the restoration magic needed for [[Ninki Nanka]]. [[Red Caesar]] carried him through the poisonous cave in a protective sphere, allowing Ceril to remove the dragon's [[Penumbra]]-born curse. The poisonous outflow stopped, ending the source of new [[Mana Sickness]] infections; existing victims still needed treatment.
 
-## Session 029
+The destruction of [[Farraday]]'s body on Stark and the [[Tome of Satariel]] freed the [[Rakshasa]] from surveillance. Ceril rejoined the party near [[House Kiirnodel]] and accompanied the attack on [[House Erendel]], where duplicate bodies and a figure resembling [[Vokenar]] guarded [[Boril Erendel]]'s project. Ceril rejected his claim to perfection, and the party ended the replacement-body scheme.
 
-In the [[Magic Hat]], Ceril fought vampiric familiars and [[Flame Skull]]s alongside the party. In [[King of the Hole]], he wild-shaped to fly and attacked enemies from the air during the first wave. During the second wave, he used his once-per-long-rest free Misty Step to fly upward and transformed into a dragon in his constellation form, mocking the grounded enemies. He cast Primal Savagery (acid) on the [[Shambling Mound]] before misty-stepping away. He cast Healing Word on [[Vokenar]] and fired Wisp arrows at the shambling mound. He positioned himself at a western beacon for the third wave.
+At [[The Academy]], Ceril argued against casting the [[Demi-Spell]], reminding [[Keys Caeradel]] that the goddesses had said the moon could heal and relaying [[Illidrielle Gandara]]'s wish that he find a new life. When the party received the spell, Ceril refused to study it and preferred [[Vokenar]] over [[Red Caesar]] as its custodian.
 
-## Session 030
+### Gaokerena and the Final Confrontation
 
-Ceril helped complete [[King of the Hole]] by dispelling a [[Gorgon Head]] petrification effect from himself, diving from the lighthouse with a feather fall potion, and using healing to keep [[Domyx]] fighting through the Hooksy swarm. After the arena victory, he cast Speak with Animals to interpret [[Tango]]'s warning from [[Kerben]] about the [[Broyish Empire]] attack on [[The Opal]].
+Ceril provisioned the descent through [[The Funnel]] with the [[Cornucopia of Constellations]], noticed weakening gravity, and saw the second sky through a purple worm's tunnel. After crossing into the [[Gray Wastes]], he considered whether the roots of the tree he had visited in [[Arkadia]] might connect the planes. Scouting on [[Kerben]]'s summoned roc with [[Red Caesar]], he read bright scars in the lower sky that helped guide [[The Opal]] toward [[Starfall]]. [[Vokenar]] sighted the tree, which [[Sigil]] named [[Gaokerena]].
 
-On [[Hole on Wheels]], Ceril sent his owl familiar to scout the train and identify the enemies and final lamp switch near the front. He summoned a powerful bestial spirit crab that helped clear the train cars. Against the [[Vampiric Nightbringer]], Ceril used a Call Lightning scroll to tear open the train roof, letting sunlight pour onto the vampire and prevent its recovery. After the session's long rest, he reached level 12 and honed his agility.
+At its base, Ceril discovered that his planting for [[Aeris]] had restored the world tree's lower growth. In a few months, the plants had diversified into a forest supporting insects, birds, and other wildlife. His act of care had created a living refuge in the wastes.
 
-## Session 031
+Answering [[Sigil]]'s message through the tree, Ceril used Transport via Plants to open a passage into [[Arkadia]] and brought [[Vokenar]] with him. [[Aeris]] bestowed [[Ceril's Star]], an enduring mark in the heavens and a refuge for the coming battle. Ceril returned to confront [[Emperor Shen]] and the [[Vanir]] at [[Axis Mundi]]. After [[Starfall]] was destroyed and the returning gods defeated, [[Entropie]]'s final Wish resurrected [[Emperor Shen]] as the last Vanir.
 
-Ceril returned to [[The Carrot Cake]] with the party, helped defeat [[Fharan]]'s imperial force, and used nature magic to keep Fharan alive long enough for interrogation. When the party opened [[Jack Harvey]]'s inner sanctum, Ceril provided Water Breathing and helped manage the vault's flood hazard. In the underwater vault, he summoned his crab spirit against [[The Tyrant]].
+Ceril invoked the star during that final confrontation, freeing [[Kerben]] from a magical maze and sheltering the party outside the passage of time. [[Aeris]] helped them renew their magic, and they saw the moon healing as [[Crone]] recovered. Returning to the battle, Ceril dissolved the final protective stela so [[Red Caesar]] could destroy [[Emperor Shen]].
 
-After the party brought the condensed [[Penumbra]] to [[Lyngbakr Lagoon]], Ceril accompanied [[Red Caesar]] beneath the waterfall to find [[Lyngbakr]]. He called out to the turtle and helped deliver the Penumbra. When Lyngbakr rose into the heavens to repair the [[Hole in the Sky]], Ceril went with him, leaving Stark alongside [[Alamar]] as the sky sealed beneath them.
+The lower sky continued collapsing, flooding the [[Gray Wastes]] with Stark's oceans. [[Vokenar]] stayed behind and secured the others' escape through [[Kerben]], who carried the stored ship and its people. As the oceans receded, Ceril attended [[Obould]] and [[Lady Jacinthe]]'s wedding and accepted [[Theotropa]]'s invitation to help life return to the emerging lands.
 
-## Session 032
+## Final Status
 
-Ceril crossed into [[Arkadia]] with [[Alamar]] and consulted [[Aeris]], [[Sigil]], and [[Crone]]. Along the way, he saw [[Damien Ouranous]] traveling with Vokenar's spirit and learned that [[Emperor Shen]] had slain Damien. Learning that Vokenar could be restored, Ceril returned to Stark through a closing sky passage, helped expose the Broyish capital's false sky, and recovered Vokenar's body. At the [[Temple of Sigil]], he reincarnated Vokenar as a high elf, discovering that [[Boril Erendel]]'s Demi-Spell changes have constrained reincarnation to elven forms.
+Ceril survives the final confrontation and contributes to replanting the newly exposed lands before retiring to [[Ceril's Star]]. He grows dense, fertile jungle intended to resist extensive settlement. His contribution to the restoration is established; permanent membership in [[The Garden]] is not.
 
-## Session 033
-
-Ceril identified the psychic command binding driders in the [[Mana Sea]], revealed the invisible [[Aboleth]] with Starry Wisp, and helped destroy it. Following [[Lodestar]]'s warning, he preserved Greater Restoration until [[Red Caesar]] delivered him through [[Ninki Nanka]]'s poisonous cave in a protective sphere. Ceril removed the dragon's Penumbra-born curse, ending the source of [[Mana Sickness]], and prepared to advance to level 13.
-
-## Session 034
-
-The destruction of [[Farraday]]'s Stark body and the [[Tome of Satariel]] freed [[Keys Caeradel]]'s father, [[Rakshasa]], from Farraday's surveillance. Ceril later rejoined the party near [[House Kiirnodel]] and accompanied them to [[House Erendel]], where several copies of [[Boril Erendel]] and another created figure resembling [[Vokenar]] guarded the laboratory.
-
-## Session 035
-
-Ceril opposed [[Boril Erendel]]'s claim to perfection and helped end his replacement-body project. At [[The Academy]], he rejected the [[Demi-Spell]] as unnatural. He reminded [[Keys Caeradel]] that the gods had assured him the shattered moon could heal, and relayed [[Illidrielle Gandara]]'s wish that Keys Caeradel find a new life. He refused to study the spell after the party received it and objected to [[Red Caesar]] holding it, proposing [[Vokenar]] as its custodian instead.
-
-Before the descent through [[The Funnel]], Ceril acquired the [[Cornucopia of Constellations]], an elven commission that supplies and strengthens a protective feast. His growing druidic abilities also include Reverse Gravity.
-
-## Session 036
-
-Ceril used the [[Cornucopia of Constellations]] to provision the descent through [[The Funnel]]. He noticed gravity weakening underground and, after the party defeated a purple worm, saw the light of a second sky through its tunnel. The party crossed into the [[Gray Wastes]].
-
-Recalling the tree he visited in [[Arkadia]], Ceril considered how its roots might connect the planes. With [[Red Caesar]] and [[Kerben]], he scouted the lower sky from a summoned roc, identifying the bright scars that helped guide [[The Opal]] toward [[Starfall]]. [[Vokenar]] subsequently sighted the tree, and [[Sigil]] named it [[Gaokerena]].
-
-## Session 037
-
-Ceril discovered that the plants he grew to feed [[Aeris]] in session 024 had restored [[Gaokerena]]'s lower growth and spread into a living forest in the [[Gray Wastes]]. What began as an act of care had become an ecosystem of diverse plants and wildlife around the world tree.
-
-Responding to [[Sigil]]'s message in the tree, he opened a passage through Gaokerena with Transport via Plants and brought [[Vokenar]] into [[Arkadia]]. Aeris bestowed [[Ceril's Star]], an enduring celestial mark and a means of suspending time to shelter the party for recuperation.
-
-Ceril helped confront [[Emperor Shen]] and the returning [[Vanir]] at [[Axis Mundi]]. The star remained unused when [[Entropie]]'s final Wish brought forth the last Vanir, the resurrected [[Emperor Shen]].
-
-## Session 038
-
-Ceril invoked [[Ceril's Star]] during the final battle, rescuing [[Kerben]] from [[Emperor Shen]]'s maze and carrying the party into an astral refuge. [[Aeris]] helped them renew their magic before they returned to the battle. Ceril later dissolved the final protective stela, enabling [[Red Caesar]] to destroy Emperor Shen.
-
-After escaping the flooding [[Gray Wastes]] through [[Vokenar]]'s sacrifice, Ceril attended [[Obould]] and [[Lady Jacinthe]]'s wedding. [[Theotropa]] invited him to help [[The Garden]] restore lands emerging from the sea. Ceril chose to help replant them as dense, fertile jungle that would resist extensive settlement, then retire to his star.
-
-Beyond [[Crone]]'s governance of time, Ceril can live indefinitely and return to the world in later centuries. He could remain outside the next [[Genesis Mundi]] or choose to join a renewed world; that future choice remains open.
+The star lies beyond [[Crone]]'s governance of time, allowing Ceril to live indefinitely and return to the world in later centuries. He may remain outside a future [[Genesis Mundi]] or choose to enter a renewed world, but the campaign leaves that choice open. [[Feronia Caeradel]]'s earlier prediction of a godlike future does not establish that he became a deity.

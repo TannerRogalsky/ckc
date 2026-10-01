@@ -350,3 +350,6 @@
 ## [2026-10-01] query | Domyx restructuring sources and character exemplars
 ## [2026-10-01] restructure | Domyx character article
 ## [2026-10-01] lint | Domyx — Validated structure, source provenance, frontmatter, links, preserved session history, and entity index
+## [2026-10-01] query | Ceril restructuring sources and character exemplars
+## [2026-10-01] restructure | Ceril character article
+## [2026-10-01] lint | Ceril — Validated structure, source provenance, frontmatter, links, preserved session history, and entity index
