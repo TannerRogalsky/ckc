@@ -366,3 +366,9 @@
 ## [2026-10-01] query | Green Slaadi Whiskey restructuring sources and item layouts
 ## [2026-10-01] restructure | Green Slaadi Whiskey item article and entity index
 ## [2026-10-01] lint | Green Slaadi Whiskey — Validated structure, sources, frontmatter, links, appearance history, entity index, and quest archive
+## [2026-10-01] query | Session 011 sources and session summary requirements
+## [2026-10-01] update | Reusable session summary structure and completeness guidance in AGENTS.md
+## [2026-10-01] lint | Session instructions — Validated structure, source-link example, schema consistency, and unchanged session document
+## [2026-10-01] query | Session 011 complete transcripts, narrative coverage, canonical names, and retrospective connections
+## [2026-10-01] restructure | Session 011 summary with transcript-linked chunk narratives
+## [2026-10-01] lint | Session 011 — Validated coverage, frontmatter, headings, links, entity index, and quest archive

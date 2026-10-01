@@ -55,6 +55,7 @@ After every ingest or lint, validate the canon surfaces touched by the operation
 - Confirm `canon/entities.md` has exactly one entry per entity file, with no stale, missing, or duplicate entries.
 - Validate frontmatter for schema compliance, duplicate keys, accidentally nested keys, and canonical self-aliases.
 - Confirm session summaries use represented `### Chunk NNNN` headings and contain exactly one integrated `### Summary` and one `### Connections` section.
+- Confirm chunk narratives link to their matching transcripts and preserve every meaningful event in clear, sequential prose.
 - Confirm entities updated by the session include the session number in `sessions_appeared`, without regressing `session_introduced`.
 - Confirm canon prose does not retain routine mechanical detail, table meta, or aliases in main content.
 - Confirm `canon/quests.md` has no completed quests and `canon/resolved quests.md` has no duplicates or out-of-order entries.
@@ -315,13 +316,98 @@ After restructuring:
 - Perform the applicable Post-Ingest Validation checks for touched canon surfaces and append the operations to log.md. Do not change quest status merely because a character article was reorganized.
 
 # Session Summation
-Each session should have a summary written to @canon/sessions/. It should provide a bullet point list of events and items acquired if relevant and then a longer summary of characters and plot. It can also provide connections with previous sessions.
 
-An summary file should never use an alias in it's main content. All aliases should be resolved to the canonical name.
+Session documents at `canon/sessions/session_NNN.md` are robust narrative accounts of the campaign's physical play sessions. A reader should be able to follow the campaign by reading them in sequence without consulting the transcripts for missing meaningful events. The transcripts remain the primary evidence and must be directly accessible from each chunk summary.
 
-Session summaries should focus on narrative outcomes, discoveries, decisions, relationships, items acquired, and state changes. Do not include damage numbers, save results, AC values, spell slot levels, turn sequencing, or routine tactical actions unless the mechanical detail directly changes the story.
+Apply the structure below when creating or deliberately reorganizing any session document. Preserve meaningful information while removing routine mechanics, table meta, repetition, and unsupported claims. The timeline provides a shorter event index; a session document needs enough detail to explain the story.
 
-Do not include table meta, player jokes, scheduling, act breaks, DM production notes, or out-of-world commentary in canon prose unless it describes an in-world fact. Put operational notes only in `log.md`.
+## Session Article Structure
+
+Use the existing Session Files frontmatter schema. Preserve the quoted, zero-padded `session` value. Set `chunks`, when included, to the actual number of source chunk files. Include a real-world `date` only when established and a factual, one-line `summary`. Do not add entity frontmatter fields to sessions.
+
+After frontmatter, use the following exact heading pattern and order:
+
+| Order | Heading | Content |
+|---|---|---|
+| 1 | `# Session NNN` | The session title, with its three-digit number. |
+| 2 | `### Chunk NNNN` | One section per source chunk, in numeric order, using the source's four-digit number. Give a verified transcript link followed by a substantial narrative account of that chunk. |
+| 3 | `### Summary` | Exactly one integrated section: a concise bullet list of key events and meaningful acquisitions, followed by a longer synthesis of character developments, plot consequences, and the session's closing situation. |
+| 4 | `### Connections` | Exactly one section containing supported connections to other sessions, established lore, relationships, or continuing objectives. |
+
+Do not keep competing top-level Events, Items Acquired, or Characters & Plot Summary sections, append separate summaries after individual chunks, or scatter multiple Connections sections through the document. Meaningful acquisitions belong in their chunk narratives and the integrated Summary bullets.
+
+## Chunk Narratives and Source References
+
+- Inventory every source chunk and read each in full before drafting. Use the original chunk numbers; do not renumber them or create a chunk that has no transcript.
+- Begin each chunk section with a link to its matching source, for example `[[chunks/session_011/chunk_0000|Source transcript]]`. Verify that the exact path exists. This link identifies the evidence for the entire chunk narrative.
+- Write connected paragraphs in a clear narrative tone, normally in past tense. Identify who acted, what they did or learned, and what changed. Use transitions to make arrivals, decisions, confrontations, and aftermaths easy to follow.
+- Follow the sequence represented by the transcript. Clearly identify flashbacks, dreams, visions, and simultaneous scenes; distinguish their in-world timing from the session in which they were presented. Do not relocate a flashback to a different chunk to impose chronological order.
+- If a scene crosses a chunk boundary, continue it under the next chunk with enough context to orient the reader. Keep each event under the chunk that establishes it rather than retelling the full scene in both sections.
+- Optional `####` scene headings may divide a long chunk into distinct narrative scenes. Keep the exact `### Chunk NNNN` heading intact.
+- Let narrative substance determine length. Do not impose a fixed word count, paragraph count, or equal length across chunks. A chunk containing several meaningful scenes needs room for all of them; a combat-heavy chunk may need less prose once bookkeeping is removed.
+
+## Meaningful Event Coverage
+
+Before writing, build an inventory of each chunk's meaningful scenes, discoveries, decisions, claims, relationships, acquisitions, outcomes, and unresolved questions. Map every entry to its chunk narrative. The existing summary is a starting point, not a complete inventory or an authority over the source.
+
+Preserve events that establish or change:
+
+- **Characters and relationships:** introductions, identity or backstory revelations, significant motives and commitments, private conversations, promises, threats, disagreements, trust, allegiances, recruitment, departures, transformations, and established fates.
+- **Knowledge and lore:** discoveries, meaningful testimony, warnings, divine guidance, clues, maps, unfamiliar magic, historical information, and explanations that change the party's understanding. Attribute disputed or unverified accounts.
+- **Choices and consequences:** accepted or rejected proposals, moral disagreements, bargains, decisions about captives or civilians, changes of plan, failed attempts with lasting consequences, and what those choices achieved or left unresolved.
+- **Places and circumstances:** significant arrivals and departures, environmental hazards that shape the story, discoveries about a location, obstacles that alter the route, refuge or hospitality, and the situation at the end of a scene.
+- **Conflicts and aftermaths:** the reason for a significant confrontation, the participants who matter, its broad course when needed to understand the outcome, mercy or surrender, casualties with narrative weight, rescue, liberation, and changes in control or public opinion.
+- **Items and resources:** meaningful treasure, gifts, thefts, maps, documents, artifacts, vessels, bases, and changes in possession. Preserve who acquired, received, used, transferred, or lost them when established.
+- **Abilities and growth:** newly established or changed capabilities and signature magic when they reveal character, explain an outcome, or mark meaningful development. Describe their narrative function without mechanical bookkeeping.
+- **Unresolved matters:** questions, threats, intentions, and objectives that remained unsettled when the session ended. State their last established condition without supplying invented closure.
+
+An event need not create a new entity or affect the whole campaign to deserve inclusion. A local disagreement, prisoner exchange, or act of care can meaningfully explain character or the next scene. Summarize incidental actions only when they provide necessary context.
+
+Compress repeated actions and dialogue, not distinct meaningful events. Summarize the substance of an important conversation, including an offer, objection, answer, or resulting decision, rather than reducing it to "they talked." Summarize combat through its narrative progression and outcome rather than turns, damage, rolls, distances, saves, or spell resources. Retain a particular spell or tactic only when its function materially explains an event or revelation.
+
+## Integrated Summary and Connections
+
+The Summary's opening bullets provide quick retrieval of the session's key events and acquisitions. Include meaningful transfers and losses as well as gains when relevant. Then synthesize how the session developed the characters and plot, what its major choices meant, and where matters stood at its close.
+
+The chunk narratives own the detailed event record. The integrated prose should connect those events rather than repeat every scene. Do not use the Summary as the only location for a meaningful event omitted from its chunk.
+
+Connections should explain specific relationships to prior events, lore, character arcs, or objectives, using verified canonical links and session or chunk anchors where useful. Because the campaign is complete, a verified later development may be identified here as a retrospective connection. Keep later knowledge out of the earlier chunk's account unless clearly attributed as information already established at that point. Avoid generic predictions about "future sessions" or treating intentions as completed outcomes.
+
+## Canonical Names, Evidence, and Uncertainty
+
+Use canonical entity names throughout prose and link labels. Resolve transcript spellings against existing entity files, aliases, and `canon/entities.md`; do not propagate an alias or invent a separate identity. Link meaningful entity references without making every sentence a link list.
+
+Distinguish established events from character claims, suspicions, interpretations, prophecies, and plans. A threat does not establish that it was carried out; a proposal does not establish acceptance; a vision does not establish its predicted outcome. When the record does not settle a meaningful question, preserve that uncertainty.
+
+Correct contradictions or consequential ambiguities by consulting the source chunks and established canon. Preserve the perspective available during the session: later revelations can be connected explicitly without silently rewriting what the party knew earlier. Do not infer missing outcomes from external game lore or the fact that the campaign has ended.
+
+Exclude player jokes, scheduling, production notes, table commentary, routine resource management, and other out-of-world material. Operational notes belong only in `log.md`.
+
+## Application Examples from Session 011
+
+These examples illustrate coverage and placement; verify the underlying transcripts when applying them rather than copying this section as canon.
+
+- **Private and historical scenes:** Preserve Vizier Jade's secret approach to Red Caesar, her offer and threats, and his promise of secrecy. Give Vokenar's divine training its own clear flashback context, including his missing memories and the goddesses' stated purpose.
+- **Separate discoveries:** Ceril's observation of the imperial scout, discovery of concealed terrain, and tracking of a fleeing dwarf are distinct events. Do not conflate the illusion's still-unknown contents with the underground city.
+- **Mercy and testimony:** The captured spy's attempted suicide, the effort to question him, his accusations against Figma Brickfinger, and the decision to leave him guarded carry information and consequences beyond the battle's damage.
+- **Allies and liberation:** Explain how Gammix and Tammix joined the party and how Red Caesar's dispelling affected their clan. Preserve the later confirmation from the Steelfend Clan matron, rather than reducing liberation to a generic combat victory.
+- **Disagreement and rescue:** The market theft and Vokenar's objection reveal a difference in values. The boiling-oil attack on the party and its new allies, followed by Tammix's rescue, explains the danger of their defection and continued local hostility.
+- **Growth and aftermath:** Red Caesar's new protective magic can retain its connection to Heaven's Bulb without a spell-level account. The matron's gift, Far Helm Clan map, refuge, and Gammix and Tammix's choice to remain with their family all belong in the closing narrative.
+
+## Session Reorganization and Validation
+
+Before rewriting, inventory the current article's substantive information as well as every source chunk's meaningful events. Account for each fact in the resulting narrative or correct it from evidence. Do not assume that preserving the current article alone preserves the session.
+
+After writing:
+
+- Confirm schema-compliant frontmatter, the session title, every represented chunk heading in source order, and exactly one `### Summary` and one `### Connections`.
+- Verify every transcript link, entity link, and referenced session or chunk anchor.
+- Compare the finished chunk narratives with the event inventory and sources. Confirm that no meaningful scene, decision, discovery, acquisition, consequence, or uncertainty was lost.
+- Read the session sequentially for clear transitions, consistent names, understandable chronology, and coherent treatment of scenes crossing chunk boundaries.
+- Confirm that the integrated Summary agrees with the chunk narratives, describes the session's closing state accurately, and introduces no unsupported facts.
+- Check that claims, historical scenes, temporary states, and later retrospective connections remain distinguishable from established outcomes.
+- Remove routine mechanics, table meta, duplicated scene accounts, empty sections, and leftover competing summary sections.
+- Apply the relevant Post-Ingest Validation checks to canon surfaces touched by the work and append the operations to `log.md`. A session reorganization alone does not establish new entity appearances or change quest status.
 
 # Timeline
 Maintain @canon/timeline.md as a chronological list of high-level plot events. Use session headers and chunk subheaders to denote provenance because session and chunk numbers increment monotonically.
@@ -365,6 +451,7 @@ Quests that were given but never revisited remain in `canon/quests.md` with `**S
 When reviewing a recent ingestion, check for:
 
 - Missing session summary.
+- Missing chunk transcript links or meaningful events omitted from session narratives.
 - Missing session or chunk headings in `canon/timeline.md`.
 - Broken, stale, or duplicate entries in `canon/entities.md`.
 - New entities that should be aliases of existing entities.
