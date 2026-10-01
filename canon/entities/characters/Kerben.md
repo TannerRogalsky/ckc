@@ -16,230 +16,178 @@ aliases:
   - "Curvin"
 related:
   - "[[The Opal]]"
+  - "[[Obould]]"
   - "[[Raxxy]]"
+  - "[[Jack Harvey]]"
+  - "[[Farraday]]"
+  - "[[Theo Harvey]]"
+  - "[[40 Carats]]"
+  - "[[The Carrot Cake]]"
   - "[[Zulu]]"
   - "[[Tango]]"
+  - "[[Kilosaurus]]"
+  - "[[Victor, the Amphibious Beast]]"
+  - "[[Ceril]]"
+  - "[[Red Caesar]]"
+  - "[[Domyx]]"
+  - "[[Vokenar]]"
   - "[[Sigrid Forgewelt]]"
   - "[[Beryzoz Helmscar]]"
   - "[[Hilltop Hunter]]"
   - "[[Vivarian Zodex]]"
-  - "[[Kilosaurus]]"
-  - "[[Lyngbakr Lagoon]]"
-  - "[[Penumbra]]"
-  - "[[Darvinblast]]"
-  - "[[Morel Chainsunder]]"
-  - "[[Gammix]]"
-  - "[[Tammix]]"
-  - "[[Continental Stark]]"
-  - "[[Moon Mushrooms]]"
-  - "[[Gunk Grodley]]"
-  - "[[Goblin Traders]]"
-  - "[[Wyvern Poison]]"
-  - "[[Lolth's Sting]]"
-  - "[[Subpoena Deuces Mercator]]"
-  - "[[Broy]]"
-  - "[[Theo Harvey]]"
-  - "[[Gheister]]"
   - "[[Shark's Edge]]"
-  - "[[Mobley]]"
-  - "[[The Carrot Cake]]"
-  - "[[Jack Harvey]]"
   - "[[The Ascot]]"
-  - "[[Gilder Savar]]"
-  - "[[The Hideous Truth]]"
-  - "[[Castle Kaedon]]"
-  - "[[David Harvey]]"
-  - "[[Brim the Bullywog]]"
-  - "[[Theotropa]]"
-  - "[[Trent Indorra]]"
-  - "[[Ebbie Indorra]]"
-  - "[[Victor, the Amphibious Beast]]"
-  - "[[Southport]]"
-  - "[[Thalasia]]"
-  - "[[The Academy]]"
-  - "[[The Garden]]"
-  - "[[Cutlass Cray]]"
-  - "[[The Pit]]"
-  - "[[Obould]]"
-  - "[[Imperial Xihe]]"
-  - "[[40 Carats]]"
+  - "[[Ioun of the Emerald Hunter]]"
   - "[[Spelljammer]]"
+  - "[[Penumbra]]"
+  - "[[Antumbra]]"
+  - "[[Starfall]]"
+  - "[[Darvinblast]]"
+  - "[[The Cataclysm]]"
 ---
 
-A ranger/rogue multiclass and the party's primary scout and marksman. Travels aboard [[The Opal]] as navigator and, during [[Obould]]'s captivity, as acting captain. Expert tracker and survivalist who navigated the party through frozen straits, ambushed a [[Tatzelwurm]], and infiltrated [[The White Drake]] to plant [[Antumbra]] among the League's [[Penumbra]] stash. Freed [[Theo Harvey]] in exchange for the location of [[The Carrot Cake]], a project tied to his personal history with [[Jack Harvey]].
+# Kerben
 
-## Identity and Backstory
+A dwarf ranger and rogue, Kerben is the party's scout and marksman and the permanent captain of [[The Opal]], succeeding [[Obould]]. His connections to [[Jack Harvey]] and [[Farraday]] help lead the party to [[The Carrot Cake]] and the [[Penumbra]] needed to repair the sky. After the campaign, he rebuilds [[40 Carats]] before eventually sailing into the stars to explore other worlds.
 
-Kerben Graphene is a dwarf and serves as first mate aboard [[The Opal]], working alongside [[Raxxy]] as navigator. He has a sailor background, knowing knots and able to fashion restraints. Offers the enemy the same ultimatum given to previous dwarves: join the party or face consequences. Has a preternatural dwarf sense for gems and precious minerals — found a rare ruby embedded in a newly-mined wall section and can distinguish valuable gemstones from worthless crystals.
+## Identity and Background
 
-Has a childhood connection to the Deep World, where he used to roll around in "deep world sauce" as a kid. This exposure gave him a strong resistance to poison and an enduring fascination with toxin craft. He actively collects, develops, and applies poisons — from wyvern gland extracts to white dragon poison — and has advantage against poison effects.
+Kerben's surname is Graphene. He is a survivor of [[The Cataclysm]] with a sailor's background, accustomed to navigation, rigging, knots, and life aboard ship. He began the campaign as [[The Opal]]'s first mate, sharing navigation duties with [[Raxxy]] before taking command himself.
 
-His personal history with [[Jack Harvey]] is deep and longstanding. He also knew [[Farraday]], an old boss of his, whose crypt he investigated and found tickets to [[The Carrot Cake]] inside. These clues led to [[The Carrot Cake]], an old-world amusement park that Jack Harvey created and was converting into a bunker before [[The Cataclysm]].
+Before the Cataclysm, Kerben worked for [[Jack Harvey]], running his museum and belonging to the [[40 Carats]] company. He remembers its old routes and Jack Harvey's talent for assembling people with complementary skills. He also worked for [[Farraday]], later revealed as an [[Arcanoloth]] and Jack Harvey's benefactor. These were distinct employers whose surviving projects brought Kerben's past into the party's search for the broken sky.
 
-## Abilities and Equipment
+While visiting [[Darvinblast]], Kerben recalled childhood excursions into the Deep World and associated his familiarity with its toxic fumes with his resistance to poison. His memories of the old world also include [[Kaedon]]: recognizing [[Lady Acelia]]'s name helped him recall her place in [[Alamar]]'s family and the royal family's dispersal after the monarchy ended.
 
-Uses Hunter's Mark, Ensnaring Strike, dual-wields scimitars, and carries a musket (later the [[Hilltop Hunter]]). Has an arcane keyring with charges for Zone of Truth and Arcane Lock. Knows knots and can make restraints. Can activate Stone Cutting and Tremor Sense. Uses Stone Cunning to map underground terrain. Ranger/rogue multiclass build optimized for spiking down individual targets with Hunter's Mark and sneak attack. Expert poison user — applies wyvern poison, [[Lolth's Sting]], and custom-crafted poisons to his weapons.
+## Personality and Motivations
 
-Travels with [[Zulu]], a dinosaur companion that can be given grasshopper legs via a jump scroll. [[Tango]] flies overhead as a scout. Can summon a crab spirit (bestial spirit), shared with [[Ceril]] who summons the same crab. Uses Speak with Animals to communicate with creatures.
+Kerben takes a practical interest in animals, useful materials, and poison craft. He collects glands, scales, and unusual plants to turn discoveries into tools. His later wish to explore other worlds centers on their unfamiliar wildlife, habitats, and landscapes.
 
-## Plot Events
+His gruff manner initially made the managerial side of captaincy difficult. Filling [[Obould]]'s place taught him how much quiet work went into delegation, crew relations, and keeping the ship running. When imperial forces threatened [[The Opal]], he repeatedly stayed aboard to protect it; during the naval assault, he prioritized getting the crew away over defeating the whole fleet.
 
-- In [[The Pit]], commissioned the [[Hilltop Hunter]] from [[Sigrid Forgewelt]] and the [[Vivarian Zodex]] from [[Beryzoz Helmscar]]. Named a triceratops-like companion [[Kilosaurus]], used it to haul a purified [[Penumbra]] core, and later left it at [[Lyngbakr Lagoon]].
-- In [[Darvinblast]], used Stone Cunning to map the underground terrain and identify paths.
-- During the confrontation with [[Morel Chainsunder]] in the church, shot Morel repeatedly, revealing his true face — a dwarf with tentacle-like painted hair — demonstrating to the congregation that he was mortal and bleedable.
-- Cast Speak with Animals to communicate with the triceratops before battle, then used the commands to direct it to charge and gore the [[Fire Giant]], knocking it off a 60-foot bridge. Found a posting in Northern with triceratops commands after Speak with Animals wore off.
-- Received Deep World ivory figures as treasure. Found texts on the deep worlders during looting.
-- In gnoll territory, his new musket proved devastating at range against [[Gnoll]] packs and [[Wyvern]] guardians.
-- On [[Continental Stark]], expressed interest in developing [[Moon Mushrooms]] and wyvern gland extracts into battle poisons.
-- Knows how to doctor up natural salt baths for healing, providing the party with temporary HP during short rests.
+Kerben's attachment to [[Jack Harvey]]'s legacy gives his exploration a personal purpose. He secretly freed [[Theo Harvey]] to obtain the route to [[The Carrot Cake]], seeking an escape with as few casualties as possible and hoping Theo Harvey would repay the favor if their positions were reversed. When offered the chance to leave the plane after the finale, he chose first to rebuild [[40 Carats]] and see who remained of its old company.
 
-## Session 011
+## Relationships
 
-Kerben helped the party navigate the deep worlder compound in [[Darvinblast]]. He used his knowledge of dwarven language to shout morale to the trapped dwarves, intimidating the cult grunts. He detained captured spies and used his arcane keyring to cast Zone of Truth on prisoners, spending charges to extract information. He fought bat riders and deep world grunts alongside the party.
+- [[Obould]] — His former captain and eventual predecessor. Kerben struggled with command during Obould's captivity, helped free him at [[Lyngbakr Lagoon]], and received permanent command when Obould retired. Obould later thanked him for protecting the ship and gave him a [[Spelljammer]].
+- [[Raxxy]] — His fellow navigator and crewmate aboard [[The Opal]]. She chose to remain with Kerben when Obould retired, providing continuity as the ship changed captains.
+- [[Jack Harvey]] — His former employer and the founder of [[40 Carats]]. Kerben's memories of Jack Harvey and his museum helped connect the park's surviving clues to its intended refuge. Rebuilding the company and visiting Jack Harvey's recovered grave renewed that connection after the campaign.
+- [[Farraday]] — Another pre-Cataclysm employer, whose supposed crypt held clues to [[The Carrot Cake]]. Learning that Farraday had survived as a fiend turned an old association into a confrontation: Kerben destroyed his ledger and his body on [[Stark]], forcing him back to hell.
+- [[Theo Harvey]] — Initially an imperial collaborator held aboard [[The Opal]], then Kerben's secret bargaining partner. Their shared interest in Jack Harvey led to Theo Harvey's first escape; Kerben freed him again after the Empire recaptured him. Theo Harvey repaid those rescues by gathering surviving [[40 Carats]] performers.
+- [[Zulu]] — His dinosaur companion, used for scouting, protection, and distractions. Kerben repeatedly restored Zulu after injuries; [[Vokenar]] restored him after he fell during the confrontation at [[House Erendel]].
+- [[Tango]] — His flying companion and aerial scout, whom Kerben resummoned after specters drained him at [[Castle Kaedon]]. Tango later carried warnings between ship and party and helped Kerben escape danger through [[The Ascot]]'s place-swapping magic, including during the final battles.
+- [[Kilosaurus]] — The triceratops-like beast Kerben befriended in [[Darvinblast]], named, and used to haul [[Penumbra]]. The party left Kilosaurus at [[Lyngbakr Lagoon]]. The epilogue suggested he probably died, but no death was witnessed.
+- [[Victor, the Amphibious Beast]] — His large crocodilian companion, suited to travel on land and in water. Victor, the Amphibious Beast accompanied him through the [[Mana Sea]] and helped the party during the Aboleth encounter.
+- [[Ceril]] — A fellow naturalist and companion with whom he could summon the same crab spirit. Ceril removed Kerben's Mark of the Home curse and later freed him from [[Emperor Shen]]'s maze by drawing the party into [[Ceril's Star]].
+- [[Red Caesar]] — A collaborator in reconnaissance and the sabotage of [[Starfall]]. Kerben planted the [[Antumbra]] Red Caesar and his collaborators produced; they also combined animal speech with [[Beryzoz's Teeth]] to question an expedition dog. Kerben used a restoration scroll to release Red Caesar from paralysis at [[The Carrot Cake]].
+- [[Domyx]] — A companion with whom Kerben exchanged important rescues. Kerben extracted him from a defeated [[Remorhaz]], while Domyx pulled Kerben free of an [[Aboleth]]. Together they freed Obould, at the cost of Domyx's own capture.
+- [[Vokenar]] — His companion and the means of the party's final escape. Vokenar stayed behind in the flooding [[Gray Wastes]] and banished Kerben home while Kerben carried the stored ship and everyone aboard.
+- [[Beryzoz Helmscar]] — The armorer who made [[Vivarian Zodex]] and later identified Kerben among the thieves who had taken his ships. Their grievance was settled in the epilogue with a pass to the revived [[40 Carats]] company.
 
-## Session 012
+## Abilities
 
-In [[Darvinblast]], Kerben used Stone Cunning to map underground passages and identify safe routes. He tracked movement through walls with Tremor Sense. During the confrontation with the [[Fire Giant]], Kerben shot the giant with his musket, impressing the giant who recognized gunpowder from the east. He directed [[Kilosaurus]] to charge and gore the Fire Giant, knocking it off a 60-foot bridge. After the battle, Kerben found a rare ruby embedded in a newly-mined wall section, demonstrating his preternatural dwarf sense for gems.
+### Scouting, Navigation, and Survival
 
-## Session 014
+Kerben combines tracking and fieldcraft with seafaring experience. He finds concealed anchorages, reads routes from maps and supply networks, scouts hostile terrain, and handles [[The Opal]] through ice, naval attacks, and unfamiliar planes. His knowledge of knots lets him fashion restraints, and his knowledge of Northern lets him address the dwarves of [[Darvinblast]].
 
-Kerben's growing interest in poison development was noted by the party. He had collected wyvern glands from previous fights with the express purpose of turning them into poisons.
+Stone Cunning gives him tremor-sensing awareness of movement through surrounding stone, helping him trace occupied passages, detect ambushes, and discover concealed spaces. He also recognizes valuable gems and minerals, finding a rare ruby in a newly mined wall. His naturalist knowledge includes hunting, fishing, finding useful plants, extracting warmth from a remorhaz's heat gland, and treating salt baths for healing.
 
-## Session 015
+His ranger growth brought Roving, improving travel on foot, through water, and over climbing terrain. His rogue training sharpened his precision and ability to avoid harm. The record also places him preparing for further growth after the [[Mana Sea]] expedition.
 
-While the rest of the crew went ashore in [[Continental Stark]], Kerben stayed aboard [[The Opal]] with [[Obould]], fishing and catching up with the crew. He discussed the rising oceans and how [[The Cataclysm]] reshaped the world from his perspective as someone who lived through it.
+### Weapons, Magic, and Animal Companions
 
-Encountered [[Gunk Grodley]] and the [[Goblin Traders]] on the high seas. Traded uncommon items and wyvern glands to Gunk Grodley's wife for [[Wyvern Poison]]. Traded his clutch of bullet eggs for [[Lolth's Sting]]. With the party's approval, traded a rare gem for the [[Subpoena Deuces Mercator]], a reusable scroll that summons the goblin traders anywhere at sea.
+Kerben fights with firearms, paired scimitars, a whip, and later [[Shark's Edge]], combining marksmanship with a rogue's precise strikes and ambush skills. Hunter's Mark helps him pursue a chosen target, while Ensnaring Strike can restrain one. Stealth, lockpicking, and access to invisibility made him capable of entering guarded spaces without raising an alarm. His magical keyring's separate contributions are described below.
 
-That night, alarm spells he had set around the ship triggered simultaneously with [[Red Caesar]]'s, indicating a serious breach. Kerben and Red investigated and found the ship under attack by hobgoblin pirates. Kerben fought the boarders and helped keep the wounded crew alive.
+Speak with Animals lets him learn from creatures and direct unfamiliar beasts; Locate Animals or Plants helps him track wildlife. He can summon and restore animal companions through his ranger egg and call a crab spirit also summoned by [[Ceril]]. Alarm magic warns him of intruders and can signal danger to the party.
 
-The battle continued aboard the hobgoblin pirates' second ship, [[The Hideous Truth]]. Kerben steadied himself despite the [[Warg Lord]]'s terrifying howl and killed the creature with a decisive shot. After the battle, Kerben discussed fleet expansion with the party. They decided they lacked resources for a third ship and instead hid the vessel in a jungled grotto, renaming it [[The Hideous Truth]].
+The egg also gained ship-storage magic, while [[The Ascot]] added constant animal speech and place-swapping. Those capabilities depend on the objects described below.
 
-The party sailed to [[The Garden]]. Kerben investigated the Garden's supply routes and logistics, speaking with [[Theotropa]] about how the Garden acts as a hub for food and livestock distribution to nearby settlements. The party reached level 9; Kerben advanced his rogue training and became more accurate and dangerous with his weapons.
+### Poison and Material Craft
 
-The party then sailed south of the Garden to hunt the [[Storm Phoenix]]. Kerben delivered the killing shot, revealing a single chunk of amber at its core. Kerben wanted to keep the amber before reluctantly letting the party wrest it from him and throw it overboard.
+Kerben resists poison and works with toxins as ingredients rather than merely hazards. He collects wyvern glands, studies [[Moon Mushrooms]], applies [[Wyvern Poison]] and [[Lolth's Sting]] to weapons, and develops preparations from dragon remains. His creations include [[Preparation Melf]], a sticky acid flask, and [[Tatzelwurm Gizzard Juice]], a white-dragon poison made with scales and darkwood bark. He also used black-dragon acid poison against the [[Rimefire Hydra]].
 
-On the journey back to [[Lyngbakr Lagoon]], Kerben used his intelligence and navigation tools to trace the druid supply routes from [[Theotropa]]'s information. He identified the general direction of [[Southport]] on the map — confirming it requires extra travel west of their current route but is reachable.
+## Equipment and Resources
 
-## Session 016
+- [[The Opal]] — The ship Kerben first served as first mate and navigator, then acting captain, and finally permanent captain. Its crew and upgraded armaments became his responsibility. His ranger egg can temporarily store the vessel with its occupants, though that magic failed during its fall into the [[Gray Wastes]].
+- [[Hilltop Hunter]] — His upgraded musket, commissioned from [[Sigrid Forgewelt]] in [[The Pit]] and collected during the party's return from Darvinblast. Its shots can carry green force energy.
+- [[Vivarian Zodex]] — The magical breastplate made for him by [[Beryzoz Helmscar]], protecting nearby animal companions and providing a rotating slot for his ranger egg.
+- [[Shark's Edge]] — A megalodon-tooth falchion he received while acting captain. Its ability to reveal visible water's temperature helped him navigate warm currents and weak ice on the northern voyage.
+- [[The Ascot]] — An animal-pelt-textured scarf acquired from [[The Wonder Hulk]] in exchange for his remaining gold and rare items. It supplies animal speech and place-swapping magic, making his companions part of his escape and reconnaissance tools.
+- [[Ioun of the Emerald Hunter]] — An agility-enhancing stone acquired in [[Cutlass Cray]] after Obould transferred command.
+- **Magical keyring** — His keys provide Zone of Truth, Arcane Lock, and Knock magic, supporting interrogation, securing doors, and opening enchanted locks. He used them in Darvinblast, to release Theo Harvey's manacles, and to open [[House Erendel]].
+- **Reusable magical bullets** — Three bullets made for him by [[Geoffrey the Younger]] at the Dawn Market after the confrontation with Farraday.
+- [[Wyvern Poison]] and [[Lolth's Sting]] — Poisons obtained through [[Gunk Grodley]] and the [[Goblin Traders]]. He traded uncommon goods and wyvern glands for the former and his bulette eggs for the latter. Their acquisition does not establish an unused supply at campaign end.
+- [[Subpoena Deuces Mercator]] — A reusable scroll for summoning the Goblin Traders at sea, purchased with a rare gem with the party's approval.
+- [[Preparation Melf]] and [[Tatzelwurm Gizzard Juice]] — Crafted consumables. The last dose of Tatzelwurm Gizzard Juice was spent winning Al-Qadif's Tower of Treasures at the [[Hole Shebang]].
+- **Feather tokens and practical gear** — Acquired from [[The Wonder Hulk]]: swan-boat, bird, and balloon tokens, Pipes of Smoke Monsters for the party, and immovable rods. Kerben later expended a ghost-ship token to conceal The Opal, gave a balloon token to Theo Harvey, and used his bird token to summon a roc that departed after helping the ship.
+- **Recovered treasure** — The party's acquisitions in [[Darvinblast]] included a rare ruby Kerben found, Deep World ivory figurines assigned to him, and texts about the deep worlders. These were acquisitions and shared supplies rather than an established final collection.
+- [[Jack Harvey's Portrait]] — Recovered jointly with Red Caesar from the collapsing [[Haunted Living Tent]]. Vokenar later gave it to [[David Harvey]], who hung it aboard [[The White Drake]].
+- **Recovered cloak** — Kerben found [[Rahmadi]]'s cloak with the remains of a failed expedition in the Mana Sea; it was placed in the ship's hold with other treasure.
+- [[Gheister]] — A stolen vessel formerly available to the party. Kerben transferred it to Theo Harvey as part of their escape bargain.
+- [[The Hideous Truth]] — A captured pirate ship the party hid in a jungled grotto because it lacked the resources to maintain a larger fleet. It remained concealed when they checked on it before the Carrot Cake expedition.
+- [[Spelljammer]] — Given to him by Obould after the finale for mounting aboard The Opal, enabling travel to other planes and his eventual departure among the stars.
 
-Kerben occupied himself hunting in the forests of [[Lyngbakr Lagoon]] while the party was away.
+## Campaign History
 
-## Session 017
+### Early Voyages and Darvinblast
 
-Kerben explored a new island with turrets and archways, sending [[Tango]] ahead as a scout. He used Speak with Animals to gather information about the area. He fought through encounters including an ochre jelly and fiendish beetle-like creatures that could stand on their hind legs.
+Kerben began among the original companions aboard [[The Opal]]. His search for [[The Carrot Cake]] grew from tickets found in [[Farraday]]'s supposed crypt and other early clues. That visit is recalled later, but the surviving early record does not establish its session. The tomb's significance became clear only when the party eventually met Farraday alive.
 
-## Session 018
+In [[Darvinblast]], Kerben used his language skills to challenge cult followers and demand passage to [[Morel Chainsunder]], while his stone sense revealed the city's passages and approaching ambushes. He detained captured spies and used his keyring's truth magic to obtain information. He befriended the triceratops-like beast later named [[Kilosaurus]], learned its commands through animal speech and Northern postings, and directed it against the [[Fire Giant]]. In the church, his shots made the apparent Morel Chainsunder bleed, undermining the congregation's image of an invulnerable leader. The party discovered that this figure was a manifestation sustained by shared fear; the real Morel Chainsunder had died long before.
 
-During the Castle Kaedon exploration, Kerben entered the granary building to create blood scent for attracting [[Sturges]] inside. He used his firearms and scimitar against the sturges and ochre jellies as the party cleared the room. His [[Tango]] was targeted by specters and life-drained, prompting Kerben to resummon a fresh Tango afterward.
+The expedition recovered a major [[Penumbra]] source, which Kilosaurus helped haul after it was purified. Kerben collected [[Hilltop Hunter]] and [[Vivarian Zodex]] in [[The Pit]], and the party eventually left Kilosaurus to help the settlement at [[Lyngbakr Lagoon]]. Wyvern remains and [[Moon Mushrooms]] gathered during the following journey supplied his developing poison work.
 
-During the battle with the [[Xarag]] and its wyrmlings, Kerben triggered a hidden [[Mangonel]] trap before the enchantment faded. After the dragon was defeated, Kerben harvested the dragon's acid-resistant scales and crafted [[Preparation Melf]] — a throwable sticky acid flask. He also investigated the mangonel, discovering it contained decorative fireworks from [[Broy]] that were originally used for celebration rather than warfare.
+On the voyage from [[Continental Stark]], Kerben traded with the Goblin Traders and helped protect The Opal when shipboard alarms warned of pirate boarders. He killed the [[Warg Lord]] during the capture of The Hideous Truth; the party then concealed the vessel rather than expand beyond its means. He investigated [[The Garden]]'s supply routes through [[Theotropa]], using that knowledge to locate the general route toward [[Southport]]. His killing shot against the [[Storm Phoenix]] exposed its amber core. Kerben initially wanted to retain it, but his companions took it and cast it into the sea, restoring lightning to the heavens. Back at the lagoon, his hunting and naturalist knowledge contributed to the settlement's food supply.
 
-## Session 019
+### Castle Kaedon and Taking Responsibility
 
-Kerben used the [[Mangonel]] to launch [[Domyx]] across an 80-foot gap to the southern island platform of [[Castle Kaedon]], adjusting the weight mechanism for Domyx's mass. The mangonel survived the stunt intact.
+Kerben's aerial scouting, animal speech, and stone sense supported the exploration of the newly exposed [[Castle Kaedon]]. He resummoned Tango after the companion was drained by specters and made Preparation Melf from dragon material after the battle with [[Xarag]]. Investigating a [[Mangonel]] revealed decorative Broyish fireworks, evidence of the castle's earlier peaceful use; he later adapted the machine to carry [[Domyx]] across a gap between platforms. The Mark of the Home curse briefly afflicted him before Ceril removed it. Kerben also recognized the spa's potential for curative salt baths as the party worked to end the castle's occupation by fiends.
 
-The party explored an acid-damaged room and the castle's entrance foyer, where Kerben fought through black puddings, a [[Flabbergast]], a [[Carrion Crawler]], [[Severed Hands]], and giant scorpions. After the party returned to the castle from [[The White Drake]], Kerben was briefly struck by the Mark of the Home curse before [[Ceril]] removed it with Greater Restoration.
+As Obould's captivity forced him into greater responsibility, Kerben sailed with Domyx and Vokenar to obtain ship upgrades in The Pit, avoiding attention to the stolen Gheister. The party accepted David Harvey's request to capture Theo Harvey and brought him aboard as a prisoner. Approaching hostile [[Broy]], Kerben found a concealed anchorage and remained with The Opal to guard it while the others sought their captain.
 
-## Session 020
+Acting command exposed how much work Obould had previously handled. During that period, Kerben and Theo Harvey exchanged memories and research about Jack Harvey over rum and carrot tea. Theo Harvey offered the park's location and its opening window, from the fifth through the ninth moon, in return for freedom and the Gheister. Kerben supplied [[Mobley]] with the sedating tea recipe, staged the brig as though Theo Harvey had broken out, and let him leave under cover of fog. The map left behind gave the party a practical route to Jack Harvey's hidden sky fragments.
 
-In [[Castle Kaedon]], Kerben used Stone Cunning to sense that two passages were inert with no movement. He found a stash of Kaedonite coins on a table, some bearing bite marks — likely the meal of the [[Zorn]] the party had encountered earlier. Kerben coordinated [[Zulu]] and a summoned crab spirit as a defensive wall against enemies. [[Zulu]] was knocked down by a [[Nalfeshne]]'s Fireball, and Kerben used magic to restore him.
+On the northern voyage, Shark's Edge helped Kerben guide the ship through warmer currents and weaker ice. His scouting located the [[Tatzelwurm]], which kept no conventional hoard. Its defeat supplied material for his white-dragon poison and left a blood-stained river as a landmark. When a Remorhaz swallowed Domyx, Kerben opened its side to let light reach him. After Vokenar's radiant magic destroyed the creature, Kerben extracted Domyx and harvested its heat gland to warm the mountain ascent. He remained concealed with the others while Domyx entered [[Acathian Manor]].
 
-In a later encounter in the same hallway, Kerben shredded the [[Hezru]] with dual blades while affected by its stench aura. After the visible enemies fell, the invisible [[Nalfeshne]] struck with a Lightning Bolt, knocking down [[Red Caesar]] and [[Zulu]]. Kerben healed Zulu after the attack.
-## Session 021
+### Antumbra and Jack Harvey's Refuge
 
-In [[Castle Kaedon]], Kerben helped the party explore and combat wraiths and specters. He recognized the name "Lady Acelia" from his past — Lady Acelia was the younger sister of Lord [[Alamar]], the youngest daughter of the Rodgard family, and King Maniasis' last child before he succumbed to madness. Kerben discovered that a natural salt bath in the castle could be doctored up for healing, providing temporary HP to the party during short rests.
+Kerben continued as acting captain while Red Caesar worked at [[The Academy]], taking Trent Indorra and Ebbie Indorra aboard as temporary crew before they disembarked near Southport. He then infiltrated The White Drake with invisibility, lockpicking, and Zulu as a distraction, planting [[Antumbra]] among [[The League of New Stark]]'s Penumbra. The aim was to contaminate fuel destined for [[Starfall]]; the record does not establish that this sabotage caused the weapon's eventual destruction.
 
-## Session 022
+Kerben was the first aboard The Opal to see Starfall's strike against the moon and warned about possible consequences for tides, debris, and Brimbolyn. He helped defeat Xarag at [[Xarag's Island]], salvaging material for Red Caesar's acid-resistance preparations. He also helped repel the [[Gun Balloon]] boarders and gathered binding materials for [[Transel]]'s raft.
 
-Kerben sailed aboard [[The Opal]] to [[The Pit]] with [[Domyx]] and [[Vokenar]], piloting the ship and keeping distance from the Gheister (which Kerben had previously stolen). At the marketplace, Kerben waited while the others shopped for weapons and armor. The party purchased ship upgrades including a bulbous bow for better terrain navigation and hardened sails for improved speed.
+After restocking in Cutlass Cray, Kerben guided the party to The Carrot Cake, recognizing its 40 Carats branding and recalling Jack Harvey's conversion of the park into a bunker. He won carrot coins at the carnival and helped recover Jack Harvey's Portrait from the haunted tent. In the Hole Shebang, he spent his final Tatzelwurm Gizzard Juice at Al-Qadif's Tower of Treasures and won the Smack a Bodak game with Red Caesar's help. These events connected his old employer's surviving entertainment grounds to the refuge hidden beyond them.
 
-The party received a quest from [[David Harvey]] to capture [[Theo Harvey]], a traitor Harengon working for the [[Broyish Empire]]. The party sailed to the [[Harengon Warrens]] island and was ambushed by invisible imperial scouts and marshals alongside Theo. Kerben helped fight through the ambush on the island surface. The party skipped [[Cutlass Cray]] and continued east toward the [[Broyish Empire]] with Theo as prisoner.
+Imperial reconnaissance drew him back to the ship while the party continued through the park. Tango carried his warnings that imperial boats had attacked and a larger fleet was approaching in the moonless dark. Kerben commanded the naval defense, crippled the most dangerous escort, released the ship's air elemental, and concealed The Opal with a ghost-ship feather token. The crew escaped west toward Lyngbakr Lagoon.
 
-## Session 023
+Returning to the park, Kerben followed the imperials who had recaptured Theo Harvey and forced him to guide them. He opened Theo Harvey's restraints and supplied a balloon token for escape. Inside Jack Harvey's underwater vault, he and Domyx found [[Jade's Compass]], suggesting that an imperial agent had reached the refuge earlier, and the party overcame [[The Tyrant]]. The hoard proved large enough to repair the sky. On the lagoon shore, Kerben wounded [[Emperor Shen]], exposing his resemblance to Domyx, and shot open Obould's restraints. Domyx exchanged places with the captain and was captured; Kerben brought Obould back to The Opal as their companions completed the sky's repair.
 
-As the party approached [[Broy]], Kerben was tasked with finding a secure anchorage for [[The Opal]] along the hostile coastline. He identified a hidden docking spot among cliffside slick stones. With the captain missing and territory hostile, Kerben chose to stay behind and guard the ship rather than venture inland with the party.
+### Permanent Captain and Confronting the Past
 
-## Session 024
+Kerben discovered that his ranger egg could contain The Opal and everyone aboard, giving the party a new means of concealment and travel. He joined Ceril and Red Caesar in the disguised approach to the [[Broyish Capital]], where they exposed the Empire's false sky, supported a nonlethal uprising, and recovered Domyx.
 
-While serving as acting captain of [[The Opal]], Kerben struggled to fill [[Obould]]'s shoes — managing the crew, handling basic ship duties, and commanding respect from the other crew members. He received [[Shark's Edge]], a +2 falchion made from a megalodon tooth that allows him to perceive the temperature of visible water.
+In the Mana Sea, Kerben traveled with Victor, the Amphibious Beast, collected unusual swamp ingredients, and recovered Rahmadi's cloak. Domyx pulled him free of the Aboleth's tentacle, allowing Kerben to kill the creature. The expedition ended the source of [[Mana Sickness]] and completed the [[Chart of the Witness]], advancing the route toward the lower world.
 
-Kerben secretly freed [[Theo Harvey]] from the brig, striking a bargain: Theo would provide the exact location and seasonal access window for [[The Carrot Cake]] in exchange for his freedom and the [[Gheister]]. Kerben learned from Theo that [[Jack Harvey]] — whom Kerben knew personally — had collected [[Penumbra]] shards when the sky first broke, hiding them within The Carrot Cake as a safeguard. Theo revealed he had spent his life emulating Jack, researching everything he could about him. Kerben shared stories of Jack with Theo, and the two shared rum and carrot tea.
+Obould formally retired and transferred permanent command of The Opal to Kerben. Raxxy and most of the crew remained, while [[Lorelai Lapis-Acathian]] and [[Ulrich Fjoller]] left to prepare for their child's birth. Kerben recruited [[Vorgan of the Stage]] as the ship's performer and acquired the Ioun of the Emerald Hunter.
 
-Kerben arranged the escape by providing [[Mobley]] with a carrot tea recipe that acted as a sedative, dulling the crew during their evening in the mess hall. He staged the brig to look like a violent escape, then helped Theo board the [[Gheister]] under cover of fog and darkness. Theo left behind a map and note for the party, revealing The Carrot Cake's location and its seasonal opening window (fifth moon through ninth moon).
+At [[Tome Keeper's Pyramid]], Kerben recognized Farraday as his former employer. The encounter explained why the supposed crypt had been empty and suggested that Jack Harvey had used it to direct explorers toward his Penumbra. Kerben destroyed the [[Tome of Satariel]], then destroyed Farraday's body on Stark, forcing him back to hell and removing his last local foothold. This ended the surveillance that had kept the [[Rakshasa]] from visiting his son. Geoffrey the Younger subsequently made Kerben's reusable bullets in Broy.
 
-As [[The Opal]] sailed north toward [[Thalasia]], Kerben used [[Shark's Edge]] to stab the map, officially committing to the route. He then used the falchion's water-temperature perception to detect warm currents and weave the ship through weaker ice patches, expediting the journey through the frozen straits. During the [[Rimefire Hydra]] encounter, Kerben opened with Hunter's Mark and blasted a head clean off. He later applied black dragon acid poison to prevent head regrowth, removing two more heads with follow-up shots.
+Kerben opened House Erendel with his magical key and discovered a concealed chamber beneath its mirrored hall. Zulu accompanied him through the confrontation with [[Boril Erendel]] and was restored after falling. The party destroyed the laboratory and recovered its relics and mithril. When they later received the [[Demi-Spell]], Kerben could not decipher it; the text remained in Red Caesar's custody.
 
-After the hydra was defeated, the party trekked into the Arctic Plains near [[Thalasia]]. Kerben used Locate Animals or Plants to track warm-blooded creatures and stealthed ahead of the group to scout a safe route through the bitterly cold terrain. While scouting, he discovered a giant white dragon — the [[Tatzelwurm]] — finishing a meal of caribou. Kerben initiated an ambush, switching his Hunter's Mark to the dragon and opening with a devastating shot laced with wyvern poison. He followed up with additional attacks using [[Shark's Edge]] and applied Lolth's Sting. The ambush caught the dragon by surprise, and the party's coordinated attack quickly overwhelmed the creature. Kerben also used an Alarm spell to warn the rest of the party not to advance into the dragon's position.
+### The Descent and Final Escape
 
-After the fight, Kerben searched the area and determined the dragon did not keep a traditional horde. He used the dragon's scales and darkwood bark to craft [[Tatzelwurm Gizzard Juice]], a one-use white dragon poison. The dragon's blood stained a nearby river red, providing a visible landmark for the party's path forward into Titanfolk territory.
+Beneath [[The Funnel]], Kerben found an old expedition camp and combined his animal speech with Red Caesar's Beryzoz's Teeth to question its dead dog. Its memories described a pre-Cataclysm dwarven expedition undertaken against [[Figma Brickfinger's Union]]'s orders, warned of stone creatures, and pointed east. Kerben then tracked a giant burrowing creature past the fallen [[Vanir]]. Defeating the purple worm opened the route into the Gray Wastes; Tango and The Ascot helped Kerben escape its jaws.
 
-When a [[Remorhaz]] ambushed the party, Kerben fought from within [[Vokenar]]'s Wall of Radiance alongside [[Domyx]]. After Domyx was swallowed, Kerben fired into the Remorhaz's side, punching a hole that let light reach Domyx inside. After [[Vokenar]]'s radiant magic destroyed the beast, Kerben used his survival knowledge to cut into the creature's underbelly and extract Domyx's unconscious body. He harvested the Remorhaz's heat gland while it was still warm, providing warmth for the rest of the mountain climb. When [[Domyx]] split from the group to enter [[Acathian Manor]], Kerben stayed hidden at a distance with the rest of the party, remaining stealthy among the xenophobic titan folk.
+Deploying The Opal on a suspended rock nearly lost the ship when it slid off and could not be stored again. Kerben summoned a roc with his bird token, returned aboard, and guided the vessel into a safe glide onto the dust below. He then carried Ceril and Red Caesar aloft to trace Starfall's firing scars and refine their course. The roc departed after returning them to the ship.
 
-## Session 027
+Kerben kept the vessel on course through another imperial boarding attack and brought it to the living ground around [[Gaokerena]], where he gathered food for the party. At [[Axis Mundi]], he killed [[Zohai Lapis]], removing Emperor Shen's remaining protector, and later killed [[Dunkelkalt]] as the Vanir returned. He gave the [[Potion of Eels]] to Red Caesar before the final confrontation.
 
-In [[Cutlass Cray]], Kerben purchased three of [[The Wonder Hulk]]'s feather tokens — a swan boat, a swift multi-colored bird called Oscar, and a hot air balloon. He acquired [[The Ascot]], a scarf that lets him communicate with animals and swap places with nearby animals. He also purchased Pipes of Smoke Monsters for the entire party and three immovable rods. [[The Opal]] was fully repaired.
+The resurrected Emperor Shen trapped Kerben in a magical maze, but Ceril's Star freed him and sheltered the party. Kerben returned with Tango to help defeat the last Vanir. When the Gray Wastes began flooding, he stored The Opal with his companions, [[Vizier Jade]], and the crew aboard. Vokenar remained outside and banished Kerben to [[Cutlass Cray]], carrying everyone else to safety within the ship.
 
-Kerben guided the party to [[The Carrot Cake]] — the culmination of breadcrumbs he had followed since the first dungeon. He recognized the carrot-diamond logo of The Carrot Cake and recalled that [[Jack Harvey]] had been converting the amusement park into a bunker before the Cataclysm. Inside the park, Kerben helped defeat undead in tattered orange uniforms and later won gold and platinum carrot coins at the "Mind the Mimic" carnival game.
+### Rebuilding and Departure
 
-In the [[Hole Shebang]], Kerben fought through encounters with [[Roger Ribbons]], [[Mary Andrews]], [[Phase Cat]]s, and [[Smoke Elemental]]s. He used his final dose of [[Tatzelwurm Gizzard Juice]] to win Al-Qadif's Tower of Treasures, then later won the "Smack a Bodak" carnival game with [[Red Caesar]]'s Guidance. In combat, he used precise shots to deal heavy damage to Mary Andrews, disengaged from smoke elementals, and eliminated phase cats from range.
+At Obould and [[Lady Jacinthe]]'s wedding, Theo Harvey offered the surviving 40 Carats performers he had gathered, and Obould reaffirmed Kerben's captaincy and gave him the Spelljammer. Kerben chose to rebuild the troupe first. Receding oceans revealed places along its old routes and Jack Harvey's grave near [[Esperanto]], allowing him to pay his respects. He also settled Beryzoz Helmscar's ship-theft grievance through a pass to the revived troupe. In later life he left aboard The Opal to explore other worlds.
 
-## Session 025
+## Final Status
 
-After the party sailed south from [[Thalasia]], Kerben used his invisibility and lockpicking skills to sneak aboard [[The White Drake]] while docked in [[Broy]]. Using [[Zulu]] as a distraction, he lockpicked into the ship's hold and pitched the [[Antumbra]] sphere among the League's stockpiled [[Penumbra]] stones. This act of sabotage was intended to poison the League's Penumbra supply when it was eventually handed off to the [[Broyish Empire]] and fed into [[Starfall]].
+Kerben survives the final confrontation, remains The Opal's permanent captain, and rebuilds 40 Carats before eventually departing into the stars. His Spelljammer gives the ship a means of reaching other planes, and his later exploration follows his interest in strange animals and unfamiliar environments.
 
-Kerben took on the role of acting captain of [[The Opal]] while [[Red Caesar]] was away working on the [[Antumbra]] synthesis at [[The Academy]] in [[Brimbolyn]]. He recruited [[Trent Indorra]] and [[Ebbie Indorra]] aboard during their passage through [[Southport]] waters. He also gained the Roving ranger feature, enhancing his combat capabilities.
-
-## Session 026
-
-Kerben was first aboard [[The Opal]] to see the elemental streak from [[Starfall]] strike the moon. He inferred the likely consequences for tides, falling debris, and [[Brimbolyn]], then helped steer the crew's response. At [[Xarag's Island]], Kerben helped kill [[Xarag]] and salvaged dragon material that let [[Red Caesar]] preserve two potions of acid resistance. During the [[Gun Balloon]] attack, Kerben helped repel imperial boarders and later gathered binding materials for [[Transel]]'s raft.
-
-## Session 030
-
-Kerben remained away from the party to defend [[The Opal]] while they finished [[The Carrot Cake]]. He sent [[Tango]] with a hurried message instructing the party to speak with the creature. Through Tango, Kerben reported that multiple boats had attacked The Opal, that he had helped repel the first wave, and that a larger [[Broyish Empire]] force was approaching under cover of the moonless dark. Kerben stayed with the ship overnight to hold the attackers off while the party pushed for the final lamp.
-
-## Session 031
-
-Kerben commanded [[The Opal]] through the [[Broyish Empire]]'s naval assault. He used the ship's upgraded weapons to cripple a dangerous escort, released the ship's air elemental against the enemy, and activated a ghost-ship feather token to turn The Opal invisible before the larger fleet arrived. The maneuver let the ship and crew escape west toward [[Lyngbakr Lagoon]].
-
-After returning to [[The Carrot Cake]], Kerben followed an imperial force that had forced [[Theo Harvey]] to guide them inside. He used Knock and a balloon feather token to free Theo again, receiving confirmation that the [[Penumbra]] was behind [[Jack Harvey]]'s sealed door. In the vault, Kerben helped find [[Jade's Compass]] and fought [[The Tyrant]]. At [[Lyngbakr Lagoon]], Kerben shot [[Emperor Shen]], revealing the emperor's resemblance to [[Domyx]], then shot open [[Obould]]'s restraints so Domyx could trade places with him. Kerben escaped with Obould and led him back toward [[The Opal]].
-
-## Session 032
-
-Kerben discovered that his ranger egg can temporarily store [[The Opal]] and its crew in an extradimensional space. He used the capability to support the covert approach to the [[Broyish Capital]], then joined [[Red Caesar]] and Ceril in exposing the city's false sky and recovering Domyx.
-
-## Session 033
-
-Kerben brought [[Victor, the Amphibious Beast]] through the [[Mana Sea]], collected rare swamp ingredients, and recovered [[Rahmadi]]'s cloak from a failed expedition. During the [[Aboleth]] battle, [[Domyx]] freed him from a tentacle and Kerben immediately killed the creature with a sustained blade assault. Kerben then prepared to advance to level 13.
-
-## Session 034
-
-[[Obould]] permanently transferred command of [[The Opal]] to Kerben. Most of the crew accepted him as captain, [[Raxxy]] chose to stay, and Kerben recruited [[Vorgan of the Stage]] as the ship's performer. He acquired the [[Ioun of the Emerald Hunter]].
-
-At [[Tome Keeper's Pyramid]], Kerben recognized the fiend as [[Farraday]], his former employer. He destroyed the [[Tome of Satariel]] before it could restore itself and later dealt the final blow to Farraday's body, forcing him back to hell and ending his last foothold on Stark.
-
-## Session 035
-
-Kerben opened [[House Erendel]] with his old magical key, then used his stone sense to discover a concealed chamber beneath the mirrored hall. [[Zulu]] accompanied him into the confrontation with [[Boril Erendel]]. The party defeated Boril Erendel, recovered relics and mithril, and destroyed the laboratory. Kerben could not decipher the [[Demi-Spell]] when the party later examined it.
-
-## Session 036
-
-Kerben found an old expedition camp beneath [[The Funnel]]. Using animal speech together with [[Red Caesar]]'s [[Beryzoz's Teeth]], he questioned a dead dog that had accompanied dwarves seeking the underworld against [[Figma Brickfinger's Union]]'s orders. Its memories placed the expedition before [[The Cataclysm]], warned of stone creatures, and directed the party east.
-
-Kerben later tracked a giant burrowing creature past the fallen [[Vanir]]. Defeating the purple worm exposed a passage into the [[Gray Wastes]]. [[The Ascot]] and [[Tango]] helped him escape its jaws.
-
-After Kerben deployed [[The Opal]] on a suspended rock, the ship slid off and its storage magic failed to retrieve it. He used his bird feather token to summon a roc, which returned him aboard and guided the vessel into a safe glide onto the dust below. He then carried [[Ceril]] and Red Caesar aloft on the roc to chart [[Starfall]]'s firing scars, setting the ship's eastward course. The roc departed after completing its service.
-
-## Session 037
-
-Kerben kept [[The Opal]] on course during the imperial boarding attack and brought it to the living ground around [[Gaokerena]]. While [[Ceril]] and [[Vokenar]] visited the goddesses, he gathered food for the party from the unexpectedly rich forest.
-
-At [[Axis Mundi]], Kerben killed [[Zohai Lapis]], whose presence protected [[Emperor Shen]]. He later killed [[Dunkelkalt]], one of the two returning [[Vanir]]. [[Tango]] accompanied him through the confrontation. Kerben passed the [[Potion of Eels]] to [[Red Caesar]] before the party faced the last Vanir, the resurrected [[Emperor Shen]].
-
-## Session 038
-
-[[Emperor Shen]] trapped Kerben in a magical maze during the final battle. [[Ceril]] invoked [[Ceril's Star]] to rescue him and shelter the whole party. Kerben returned to help defeat Emperor Shen, with [[Tango]] aiding him throughout the confrontation.
-
-As the [[Gray Wastes]] flooded, Kerben placed his companions, [[Vizier Jade]], and the crew aboard [[The Opal]] and stored the vessel in its portable form. [[Vokenar]] remained behind and banished Kerben, carrying the ship and everyone aboard, home to [[Cutlass Cray]].
-
-At [[Obould]] and [[Lady Jacinthe]]'s wedding, [[Theo Harvey]] offered to reunite [[40 Carats]]. Obould confirmed Kerben as The Opal's permanent captain and gave him a [[Spelljammer]] for travel to other planes. Kerben chose first to rebuild the troupe. Receding oceans allowed him to revisit old routes and pay respects at [[Jack Harvey]]'s grave near [[Esperanto]]. In later life, he sailed The Opal into the stars to explore other worlds and their wildlife; his eventual destination remains unknown.
+His eventual destination and fate are unknown; the record does not establish where he settled or what became of his crew.

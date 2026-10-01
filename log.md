@@ -338,3 +338,8 @@
 ## [2026-09-30] audit | Red Caesar restructure — Reconciled original article against current profile and existing sources
 ## [2026-09-30] update | Red Caesar — Restored omitted profile information and corrected unsupported claims
 ## [2026-09-30] lint | Red Caesar — Validated repaired article, audit references, frontmatter, links, and entity index
+## [2026-09-30] restructure | Kerben character article
+## [2026-09-30] lint | Kerben — Validated structure, source provenance, frontmatter, links, preserved session history, and entity index
+## [2026-09-30] update | Character annotation guidance in AGENTS.md
+## [2026-09-30] update | Kerben article session annotation removal
+## [2026-09-30] lint | Kerben — Validated annotation removal, preserved prose and metadata, frontmatter, links, structure, and entity index
