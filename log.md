@@ -500,3 +500,5 @@
 ## [2026-10-02] query | Reviewed scene-heading coverage and narrative transitions across sessions 011–038.
 ## [2026-10-02] restructure | Added 35 scene subheadings in sessions 011, 012, 013, 020, 021, 024, and 037.
 ## [2026-10-02] lint | Validated scene headings across sessions 011–038, including structure, links, frontmatter, unchanged narratives, and append-only logging.
+## [2026-10-02] update | Reclassified The Cataclysm from event to concept and updated the entity index.
+## [2026-10-02] lint | Validated Cataclysm frontmatter, links, preserved session history, entity index coverage, and change formatting.

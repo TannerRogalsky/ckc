@@ -257,7 +257,7 @@
 - [[Akasha]] — Silvery-white liquid raining from the sky over Continental Stark, connected to Arkadia's oceans
 - [[Moon Mushrooms]] — Hallucinogenic translucent mushrooms in the Continental Stark jungle, harvestable as poison
 - [[Penumbra]] — Pieces of the fallen sky; Jack Harvey's hoard let Lyngbakr repair the sky
-- [[The Cataclysm]] — World-ending event that reset the world
+- [[The Cataclysm]] — Lore of the world-ending event that reset the world
 - [[League Banner]] — Banner from The League of New Stark
 - [[Para and Bellum]] — Two copper blades given to Red Caesar
 - [[Genesis Mundi]] — Natural renewal of reality, no longer accelerated by the party's destroyed Demi-Spell

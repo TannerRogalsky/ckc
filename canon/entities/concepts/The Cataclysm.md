@@ -1,6 +1,6 @@
 ---
-type: event
-subtypes: [historical]
+type: concept
+subtypes: [lore]
 session_introduced: "001"
 sessions_appeared: ["013", "018", "035", "036"]
 ---
