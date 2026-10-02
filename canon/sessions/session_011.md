@@ -56,6 +56,8 @@ Morel Chainsunder's voice rang through the walls, accusing the party of coming t
 
 [[chunks/session_011/chunk_0001|Source transcript]]
 
+#### Mercy in the divided square
+
 The first battle continued across the divided square. The party used force against the committed defenders while trying to make surrender possible. Red Caesar's lightning killed one of the priests, and Domyx's intimidation drove several ordinary fighters to abandon the fight and retreat into their homes, despite their fear of the magic watching them. Vokenar and Ceril supported their companions with healing and protective magic as the priests, poisoned blades, and mounted knights continued to threaten them.
 
 Kerben deliberately subdued a spy without killing him, leaving him conscious but unable to continue fighting. The captive tried to drink acid rather than remain in the party's hands. Red Caesar knocked the container away, and the spilled liquid ate into the floor. A nearby fighter surrendered and argued that Morel Chainsunder would have to hear the newcomers out. Questioned by Kerben before being allowed to return home, he pointed toward a chapel to the south, where a service was expected later.
@@ -102,9 +104,13 @@ Kerben again demanded that the defenders bring Morel Chainsunder forward, but th
 
 [[chunks/session_011/chunk_0003|Source transcript]]
 
+#### The atrium's last defenders
+
 The atrium battle continued against defenders who remained committed to Morel Chainsunder. Gammix and Tammix supported the party with their crossbows, while Vokenar sustained his companions through the prolonged fighting. The party eventually overcame the remaining priests, knights, and fighters; fleeing bats were allowed to escape.
 
 During the battle, Red Caesar gained and used Resilient Sphere to shelter himself behind a barrier covered in warding runes. He recognized the inscriptions as the same ones that had protected Heaven's Bulb from the surrounding waters. His new protection thus drew directly on the refuge and magical education that Vizier Jade had invoked during her private visit.
+
+#### Refuge with the Steelfend Clan
 
 After the fighting, Vokenar tended his companions, and Gammix and Tammix offered a safer place to recover. They led the party to the Steelfend Clan house, which occupied a wing of the complex. There the brothers rejoined a household of women, children, and other clan members. Their earlier statement that they had no family left was not explained.
 

@@ -116,999 +116,997 @@ Source: [[chunks/sessions_001-0010]].
 
 ### Chunk 0000
 
-- The party continues deeper into the [[Darvinblast]], where ground-level poison mist harms intruders and shapes how residents live.
-- The party defeats an [[Etten]] and a [[Deep World Wizard]] while pushing toward [[Morel Chainsunder]].
+- The party leaves the [[Steelfend Clan]] refuge and continues through [[Darvinblast]], where poisonous floor mist weakens [[Red Caesar]] and [[Vokenar]].
+- The party defeats an [[Etten]] and a [[Deep World Wizard]].
 - A dissenting dwarf questions [[Morel Chainsunder]]'s motives and gives [[Domyx]] a [[Potion of Proof Against Storms]].
+- The party takes minted deep-world coins into its shared stores; [[Kerben]] finds a valuable ruby in unfinished stonework.
 
 ### Chunk 0001
 
-- The party reaches a residential zone, where [[Vokenar]] attempts to reassure frightened dwarf civilians.
-- The party defeats another ambush involving grunts, a priest, and a second [[Deep World Wizard]].
-- The party discovers a shrine to three deep dwarvish deities opposed in symbolism to the sky goddesses.
+- [[Vokenar]] reassures a frightened dwarf child that the party wants the inhabitants to choose freely whether to leave.
+- The party detects and defeats another ambush involving fighters, a priest, and a second [[Deep World Wizard]].
+- [[Red Caesar]] finds jade, and the party recovers ivory figures of three deep dwarven gods from a shrine.
 - [[Morel Chainsunder]] broadcasts his intent to claim the upper world if his followers defeat the party.
+- The party spots reinforcements riding the triceratops later named [[Kilosaurus]].
 
 ### Chunk 0002
 
-- The party defeats reinforcements riding a triceratops-like mount.
-- [[Kerben]] communicates with the mount, learns it was born above ground and mistreated underground, and helps tame it with surface food.
-- The tamed mount becomes [[Kilosaurus]].
+- The party defeats the triceratops's handlers while trying to spare the animal.
+- [[Kerben]] learns that it was born above ground and suffered poor feeding and increasing violence underground.
+- [[Vokenar]] calms the animal; [[Domyx]] reassures it, and Kerben wins its trust with surface food. It agrees to carry the party.
+- Northern command instructions in its basket let Kerben keep guiding it after his animal-speech spell ends.
+- A [[Fire Giant]] confronts the party at a bridge over burning tar.
 
 ### Chunk 0003
 
-- The party rides [[Kilosaurus]] deeper into the [[Darvinblast]].
-- A [[Fire Giant]] confronts the party near a burning miasma pit and recognizes [[Domyx]] as "one giant to another."
-- The party defeats the [[Fire Giant]] and continues toward [[Morel Chainsunder]].
+- At [[Kerben]]'s command, the triceratops knocks the [[Fire Giant]] into the pit. [[Domyx]] enlarges and leaps down to grapple it.
+- The Fire Giant invokes the deep gods, recognizes [[Vokenar]] as Arcadian, and addresses Domyx as a fellow giant connected to the sky.
+- [[Ceril]] finishes the giant; Vokenar rescues [[Zulu]], and Domyx climbs out.
+- The party opens the church's rear entrance and confronts the apparent [[Morel Chainsunder]] before his congregation and caged civilians.
+- Vokenar argues for freedom and unity. The leader's geothermal fire gravely injures Domyx and the triceratops.
+- Domyx's hands mirror the daylight above, giving the congregation evidence of the surface world.
+- [[Red Caesar]] begins releasing prisoners while Kerben wounds the leader.
 
 ### Chunk 0004
 
-- The party enters [[Morel Chainsunder]]'s church sanctuary, where congregants in red robes gather around a tar platform and caged civilians.
-- [[Vokenar]] appeals to the congregation's freedom and curiosity, weakening [[Morel Chainsunder]]'s hold over them.
-- [[Domyx]] reveals his sky-blue fingertips as proof of the surface world.
-- [[Red Caesar]] frees caged civilians during the confrontation.
+- [[Ceril]]'s divination reveals that the apparent [[Morel Chainsunder]] is not the original person.
+- [[Vokenar]] and [[Domyx]] weaken the leader through appeals to choice and individuality; [[Red Caesar]] frees more prisoners, and [[Kerben]] demonstrates that the figure can bleed.
+- Vokenar defeats the manifestation, leaving an ordinary congregant whom the others heal.
+- The party finds the real Morel Chainsunder's skeleton and will. His emotional binding spell has amplified anger into a curse and sustained the feared leader's identity.
+- Ceril consults [[Aeris]], who advises destroying the spell, identifies a nearby [[Penumbra]] source, and describes the many scattered fragments and other organizations' limited understanding.
+- Red Caesar tears the will, ending the curse. Darvinblast's residents emerge with curiosity replacing fear.
+- Kerben discovers an exit shaft and historical texts. The party backtracks with the triceratops and returns it to [[The Opal]].
+- Ceril leads the party to the now-unconcealed quarry, where a massive tetrahedral Penumbra fragment remains too large to transport easily.
+- The party rests and begins its advancement; Domyx strengthens his endurance.
 
 ### Chunk 0005
 
-- [[Ceril]]'s divination reveals that the apparent [[Morel Chainsunder]] is not the real person, but a composite illusion born from collective fear and paranoia.
-- The party finds the real [[Morel Chainsunder]] dead for roughly 50 years beside his will and binding spell.
-- [[Red Caesar]] destroys the spell document, breaking the feedback-loop curse over the [[Darvinblast]].
-- Fear in the [[Darvinblast]] gives way to curiosity, and the Mirage Arcana clears.
-- The party discovers the hidden quarry containing a massive tetrahedral [[Penumbra]] chunk.
-- [[Ceril]] consults [[Aeris]], learning that many [[Penumbra]] pieces exist and that [[The Order of Seasons]] knows little about using them.
-- The party reaches level 8 before leaving the [[Darvinblast]] arc.
+- [[Kerben]] chooses Assassin training; [[Red Caesar]] strengthens his spellcasting and selects Tongues; [[Vokenar]] develops Heavy Armor Master training.
+- A brief return to the departure shows [[Gammix]] and [[Tammix]] waving the party off.
+- The party divides its stored treasure, including amethyst for Red Caesar, mithril for [[Domyx]], and jade for Kerben.
+- Moving the massive [[Penumbra]], consulting [[Figma Brickfinger]], and possible market purchases remain preparations before the intended journey to [[Brimbolyn]].
+
 
 ## Session 013 — 2026-01-11
 
 ### Chunk 0000
 
-- Freed deep-world dwarves emerge into [[The Pit]], creating political strain for [[Figma Brickfinger]] and [[Figma Brickfinger's Union]].
-- In a flashback, [[Ceril]] flees west from [[Brimbolyn]] after [[Queen Caeradwyn]]'s death and sees strange sky-lines before [[The Cataclysm]].
-- [[Obould]] orders [[The Opal]] reinforced so it can carry [[Kilosaurus]] and heavy [[Penumbra]].
-- [[Figma Brickfinger]] and her dwarves shave dead obsidian from the drained [[Darvinblast]] [[Penumbra]], revealing a smaller star-filled core.
-- [[Kilosaurus]] hauls the purified [[Penumbra]] core back to [[The Opal]].
-- [[Kerben]] commissions the [[Hilltop Hunter]] from [[Sigrid Forgewelt]] and the [[Vivarian Zodex]] from [[Beryzoz Helmscar]].
-- [[Red Caesar]] trades for [[Beryzoz's Teeth]], and [[Courteous Cam]] gives [[Ceril]] a map to another [[Penumbra]] chunk in gnoll territory.
+- Freed deep-world inhabitants emerge into [[The Pit]] while surface dwarves enter the underground, creating unrest after [[Darvinblast]]'s liberation.
+- A flashback follows [[Ceril]] and [[Vanzia Vynnfae]] fleeing west after [[Queen Caeradwyn]]'s death. Ceril sees east-to-west sky-lines and leaves a distress signal for the exhausted [[Gilder Savar]].
+- A [[House Kiirnodel]] aristocrat lets Ceril escape despite an order to capture him.
+- A second flashback shows [[Ulrich Fjoller]] risking punishment to tell [[Domyx]] that an earlier sky-touching blood relative was erased from [[Clan Akathia]]'s records.
+- [[Obould]] recruits three dwarf deckhands and pays to reinforce [[The Opal]] for heavy cargo.
+- [[Kerben]] names the triceratops [[Kilosaurus]].
+- [[Figma Brickfinger]]'s workers remove the quarry Penumbra's depleted obsidian shell; [[Vokenar]] locates its remaining magic, and Kilosaurus hauls the smaller core aboard.
+- Kerben commissions the [[Hilltop Hunter]] from [[Sigrid Forgewelt]] and the [[Vivarian Zodex]] from [[Beryzoz Helmscar]].
+- [[Red Caesar]] trades an amethyst for [[Beryzoz's Teeth]].
+- Ceril trades a Plant Growth scroll to [[Courteous Cam]] for dwarven seeds, growing knowledge, and a Call Lightning scroll. Courteous Cam supplies a map to gnoll-held [[Penumbra]].
+- The party plans to visit the [[Far Helm Clan]] site and the northern gnoll territory before delivering Penumbra to [[Lyngbakr]].
 
 ### Chunk 0001
 
-- The party follows the [[Far Helm Clan]] map to an abandoned coastal home.
-- [[Xander MacLenth]] reveals that he and his crew died trying to seize the site from dwarf ancestors, likely relatives of [[Gammix]] and [[Tammix]].
-- [[Vokenar]] releases [[Xander MacLenth]]'s ghost with created water, and the party recovers treasure from the site.
-- [[Xander MacLenth]] mentions his legendary father, [[Lenth the Rugged]].
+- The party glimpses Brimbolyn's distant glow and a coast protected by steep, apparently reshaped terrain.
+- At the abandoned [[Far Helm Clan]] home, the party recovers a sapphire and silver and copper coins.
+- [[Vokenar]] finds [[Xander MacLenth]]'s ghost through See Invisibility and hears how the pirates died attacking the dwarven family. A possible connection to [[Gammix]] and [[Tammix]] remains unconfirmed.
+- Xander MacLenth describes his father, [[Lenth the Rugged]]. Vokenar releases the ghost by bringing created water over him.
+- The party enters [[Gnoll]] territory with [[Tango]]. [[Red Caesar]]'s Locate Creature prevents an ambush, and the party spots three hidden groups.
+- The battle begins; [[Domyx]] draws attackers, [[Kerben]] uses his new musket, and [[Ceril]] and Vokenar divide the enemy with moonlight and fire.
 
 ### Chunk 0002
 
-- In a flashback, [[Domyx]] learns from [[Ulrich Fjoller]] that [[Clan Akathia]] erased a prior sky-touched blood relative who may still live somewhere in [[Stark]].
-- The party enters gnoll territory, prevents an ambush, and eliminates the local [[Gnoll]] leaders and stragglers.
-- The party discovers a large pure [[Penumbra]] chunk resting atop gnomish gold bars.
+- The party defeats the gnoll leaders and remaining warriors. [[Red Caesar]] confirms that no gnolls remain nearby, and the party continues after healing.
+- [[Domyx]] discovers an untouched, star-filled [[Penumbra]] fragment resting on gnomish gold bars.
+- Two [[Wyvern]]s dive from the peaks. Domyx pulls one down by catching its wing with his trident.
+- The wyverns poison Domyx and Red Caesar; [[Ceril]] treats Domyx, [[Vokenar]] sustains the party, and Red Caesar's ward protects [[Kerben]].
 
 ### Chunk 0003
 
-- Two [[Wyvern]]s guarding the [[Penumbra]] hoard attack the party and are defeated.
-- The party recovers the pure [[Penumbra]] chunk and gnomish gold from gnoll territory.
-- [[Domyx]] checks in with [[The Opal]]'s crew through his Titans Tarot initiation ritual.
-- [[Yalet Mora]] suggests recruiting a wind-aligned creature to help [[The Opal]] cross dead winds.
-- [[Rella Kel'Navvi]] spots a fire at [[Lyngbakr Lagoon]], drawing the party back to [[Alamar]] and [[Tuna]].
-- [[Alamar]] has built shelters, water storage, and a feeding chute for [[Lyngbakr]] at [[Lyngbakr Lagoon]].
-- [[Alamar]] reports that [[Broyish Empire]] airships searched for [[Castle Kaedon]] without finding it.
-- [[Alamar]] reveals that he and [[Lyngbakr]] appear bound to the castle by a shared leash and that a powerful presence may occupy the old throne room.
-- The party feeds all collected [[Penumbra]] to [[Lyngbakr]], beginning a digestion period expected to last weeks to a month before more of [[Castle Kaedon]] can rise.
-- [[Lyngbakr Lagoon]] is established as a defended base with [[Kilosaurus]], [[Rella Kel'Navvi]], and three deckhands.
+- [[Domyx]] kills a wyvern while intercepting its attack on [[Kerben]]. [[Vokenar]] kills the remaining wyvern with his sword.
+- [[Ceril]] removes [[Red Caesar]]'s poison. Red Caesar uses Vampiric Touch through [[Para and Bellum]] after deliberately ending his gnoll-detection spell.
+- The party recovers the pure [[Penumbra]] and gnomish gold and returns to [[The Opal]].
+- Domyx renews the crew's Titans Tarot gatherings. [[Rochella Golf]] describes her wish to return to her family in [[Southport]].
+- [[Yalet Mora]] proposes recruiting a wind-aligned creature for the sails.
+- [[Rella Kel'Navvi]] spots smoke at [[Lyngbakr Lagoon]]. The party finds [[Alamar]] and [[Tuna]] there, with shelter, water storage, and a repurposed feeding chute.
+- Alamar reports unsuccessful imperial aerial searches and describes his continuing magical bond to the castle's location. He senses an unexplained presence near the throne room.
+- The party feeds all its collected Penumbra to [[Lyngbakr]]. Digestion is expected to take weeks before more of [[Castle Kaedon]] can rise.
+- The party leaves [[Kilosaurus]], Rella Kel'Navvi, and three deckhands to build and defend the lagoon.
+- Vokenar supplies Continual Flame torches and teaches Alamar the spell. Ceril prepares Wind Wall against airships.
+- The party begins consulting [[Sigil]] about its next route.
 
 ### Chunk 0004
 
-- [[Vokenar]] consults [[Sigil]], who confirms [[Alamar]] is an ally but has not told every truth.
-- [[Sigil]] says allies will appear along the party's route and that [[The Order of Seasons]] moved [[Penumbra]] beyond the jungles to a protected place.
-- [[Sigil]] identifies [[Emperor Shen]] as the party's greatest enemy, perhaps their only great enemy.
-- [[Domyx]] explains [[Touching the Sky]] as a titan ambition contest that may have brought his ancestor into direct contact with [[Aeris]].
-- [[Rella Kel'Navvi]] offers [[Ceril]] hope about the elven lands, then blinks away while [[Ceril]] stays at [[Lyngbakr Lagoon]].
-- The party charts a four-day wind-favored route north toward the elves, then curving south past [[The Garden]], and sets sail.
+- [[Sigil]] advises a practical circuit through the elves and [[The Garden]]. Favorable winds support reaching the elven coast in about four days.
+- Sigil places [[The Order of Seasons]]' Penumbra beyond the jungles in protected territory.
+- Sigil confirms that [[Alamar]] is an ally who has not lied, but has not disclosed every truth. She promises that allies will appear.
+- Sigil identifies [[Domyx]]'s unnamed sky-touching ancestor as the party's greatest enemy; no name is supplied during the consultation.
+- Domyx shares [[Ulrich Fjoller]]'s warning. The party discusses [[Touching the Sky]] as an act of ambition and direct contact with [[Aeris]], leaving the ancestor's original aim unresolved.
+- Rella Kel'Navvi offers Ceril hope about changed elven society and stays at the lagoon.
+- Ceril departs with the party aboard The Opal, heading toward the elven continent.
+
 
 ## Session 014 — 2026-01-18
 
 ### Chunk 0000
 
-- [[Obould]] leaves the party at the coast of [[Continental Stark]] to guard [[The Opal]], warning that the jungle interior is treacherous and should be crossed in one day.
-- The party treks into the jungle of [[Continental Stark]], following overgrown train rails located by [[Vokenar]]'s Locate Object spell.
-- [[Domyx]] uses his lodestone greaves to detect buried rails magnetically beneath the jungle floor.
-- The party is struck by [[Akasha]] rain — a silvery-white liquid dealing radiant damage. [[Ceril]]'s familiar [[Nyquil]] is killed; Ceril consumes the owl's body.
-- [[Red Caesar]] casts Leomund's Tiny Hut to shelter the party during subsequent Akasha storms. [[Vokenar]] collects a sample of Akasha for study.
-- A giant tyrannosaurus charges the party; [[Ceril]] dominates it with Dominate Beast and sends it north on a rampage against anyone who looks like him.
-- The party encounters fleeing elven scouts and migrants warning of a creature devouring people in the bogs ahead. An elf scout gives the party mithril as payment.
-- The party enters the bog, using Water Walk to cross the quicksand. [[Domyx]] rescues an unconscious migrant.
-- The [[Fuchsia Fungus]] rises from the bog and begins combat with the party.
+- [[Obould]] guards [[The Opal]] while the party enters [[Continental Stark]], following old railway tracks toward [[Brimbolyn]].
+- [[Domyx]]'s lodestone greaves detect buried rails. [[Ceril]] recalls the railway's destruction of forests during his earlier life.
+- [[Akasha]] storms burn the travelers and kill [[Nyquil]]. Ceril consumes the familiar's body; [[Red Caesar]] shelters the group from a second storm, and [[Vokenar]] bottles an Akasha sample.
+- Ceril dominates an approaching tyrannosaurus and sends it north to attack people resembling him; the order's eventual result remains unknown.
+- Vokenar insists on aiding migrants trapped in a bog despite Red Caesar's concerns. An independent elven scout gifts mithril for their help.
+- Water Walk enables the rescue attempt. Domyx pulls one migrant from the mud, but the [[Fuchsia Fungus]] absorbs another while the party engages it.
 
 ### Chunk 0001
 
-- [[Domyx]] defeats the [[Fuchsia Fungus]], slicing it in half with a Holy Light hammer strike. The creature's remains turn to ash.
-- [[Ceril]] heals unconscious migrants with holy light. The elven scout thanks the party and asks if their magic came from [[The Order of Seasons]].
-- The scout warns of a train junction ahead, with trains passing every eighth of the sun. The scouts give the party platinum credit chips from the Magic City (Queen's face scratched off) as payment.
-- The party continues along the rails through increasingly wet terrain. [[Domyx]]'s magnet sense navigates broken and submerged rail sections.
-- [[Ceril]] discovers and harvests hallucinogenic Moon Mushrooms for [[Kerben]]'s poison research.
-- An [[Aeon]] — a green-skinned Githzerai from beyond Stark — descends from a cliff and attacks with psychic charm effects and psionic magic. [[Vokenar]] protects the party with Calm Emotions while [[Domyx]] and [[Red Caesar]] keep it pressured. Combat ongoing.
+- The party prevents further victims from being drawn into the [[Fuchsia Fungus]]. [[Domyx]] destroys it with holy light, then carries survivors to safety.
+- [[Vokenar]] heals the rescued migrants. The scouts give platinum credits bearing [[Queen Caeradwyn]]'s defaced image and directions to a railway junction before continuing toward the coast.
+- [[Ceril]] gathers poisonous, hallucinogenic mushrooms for [[Kerben]]'s research.
+- An astral [[Aeon]] attacks the party and distorts its members' minds. Vokenar's calming magic temporarily counters its influence; the confrontation continues.
 
 ### Chunk 0002
 
-- The party turns the [[Aeon]] encounter in their favor, forcing the creature to bargain rather than continue fighting.
-- The Aeon offered a star gem and golden astral coins to [[Vokenar]], who accepted and told it to leave. [[Red Caesar]] cast Mage Hand to retrieve the gem.
-- The Aeon cast Plane Shift to escape. [[Red Caesar]] Counterspelled, but the Aeon Counterspelled the Counterspell and departed, insulting Red as "the filth."
-- The party short-rested and continued along the rail line, finding a well-maintained shiny rail replacing the old rusted line.
-- The party met [[Brim the Bullywog]], a frog-headed tinkerer beside the rails, and recruited him as their tinkerer and lookout.
-- At the train junction, [[Marshal Zem]] of the [[Knights of the Four Seasons]] inspected the party, cast Augury on each traveler, and applied an augmented Sanctuary spell. Brim vouched for the group.
-- The party boarded a magical self-conducting train to [[Brimbolyn]], traveling at 75 mph through cleared jungle terrain.
-- In Brimbolyn, the party explored the city and the [[Elvish Marketplace]]. The city is mostly elves and tieflings; humans are rare.
-- [[Red Caesar]] was targeted by young elves who cast Sleep on him — a mockery since only humans are susceptible. Red failed the save, then Misty Stepped behind the caster and slapped him.
-- [[Vokenar]] met [[Osiris Dims]], an aasimar who revealed the Magic City and [[The Order of Seasons]] are "one and the same" and that the [[Demi-Spell]] may be less than a year away.
-- [[Vokenar]] and [[Ceril]] reconnected with [[Gossa]], a former teacher from [[Academia Lux]] in [[Arkadia]], now working in the marketplace.
-- [[Domyx]] traded mithril, two uncommon items, and a rare item to [[Lesanderol Nokiirna]] for the [[Iklwa Isondo]], a +1 mithril trident with magnetic auto-return.
-- Brim got lost in town and told the party to meet him at midnight where a bell sounds.
+- The weakened [[Aeon]] offers a star gem and astral gold, which the party recovers. [[Vokenar]] grants it mercy; [[Red Caesar]] tries unsuccessfully to block its departure.
+- The party recruits [[Brim the Bullywog]] as a tinkerer and lookout, promising materials and projects aboard [[The Opal]].
+- [[Marshal Zem]] and the [[Knights of the Four Seasons]] inspect the travelers, approve their admission through divination, and provide protective Sanctuary enchantments.
+- A magical train brings the party to [[Brimbolyn]]. Brim the Bullywog arranges a midnight meeting while the others explore separately.
+- Vokenar meets [[Osiris Dims]], an aasimar descendant whose parents left after opposing [[The Order of Seasons]]. Osiris reports that the [[Demi-Spell]] may be ready within a year.
+- [[Gossa]] recognizes Vokenar as her former [[Academia Lux]] pupil. She discusses the Order's promises, secrecy, and risks to the existing world.
+- [[Domyx]] acquires the [[Iklwa Isondo]] from [[Lesanderol Nokiirna]], exchanging mithril, his old trident, gold-trimmed books, and pure gold.
+- Young elves target Red Caesar with Sleep. He resists the spell and teleports after its caster to reprimand him.
 
 ### Chunk 0003
 
-- [[Red Caesar]] met [[Garsinth Theralal]], an older elf who apologized for his son's Sleep prank and gave Red directions to [[Yalet Aurum]].
-- The party visited [[Yalet Aurum]] — a Galeb Duurr with a solid gold body encased in a 40-50 foot stone monument outside Brimbolyn. Yalet confirmed [[The Order of Seasons]] is interested in [[Penumbra]] and warned the party to "act faster than an elf."
-- Yalet posed a riddle about his brother [[Yalet Mora]]; [[Red Caesar]] solved it as "bolder" and received chunks of gold.
-- The party took a tram to [[The Academy]] and met [[Keys Caeradel]] and [[Illidrielle Gandara]] — the same tiefling and half-elf who stole [[Penumbra]] from [[Castle Kaedon]].
-- The party learned the [[Demi-Spell]] works by going to the far future until everything begins again, recycling all souls and elements. Penumbra pieces are used as energy to accelerate the spell. The Demi-Spell is more powerful than the gods.
-- [[Aramil Kiirnodel]] is the primary force behind the Demi-Spell's power. The spell is written as volumes upon volumes with hexagrams and mathematical structures.
-- [[Keys Caeradel]] identified the [[Rakshasa]] as his father and asked the party to bring him to [[The Academy]].
-- The party negotiated an accord: they will stop collecting new Penumbra, and if their plan to fix the sky fails, they will give all collected Penumbra to the Order. The Order granted the party access to teleport circles.
-- [[Ceril]] traded a Mask of Ogun to [[Gossa]] for an amulet that lets him summon his familiar as a magma elemental.
+- [[Garsinth Theralal]] apologizes for his son's treatment of [[Red Caesar]] and supplies directions to [[Yalet Aurum]].
+- Red Caesar visits Yalet Aurum alone, learns that [[Penumbra]] lies beyond his control, and returns with companions to answer a riddle about [[Yalet Mora]].
+- Yalet Aurum rewards [[Ceril]]'s alternative answer and Red Caesar's intended solution with gold.
+- At the market, Ceril trades the mask of Ogun to [[Gossa]] for an amulet that enables a magma-elemental familiar.
+- At [[The Academy]], [[Keys Caeradel]] and [[Illidrielle Gandara]] explain the [[Demi-Spell]]'s recycling of souls and elements, its intended renewal of the world, and Penumbra's role as an energy source.
+- The party debates the researchers over consent, existing lives, divine responsibility, and whether the new world would improve on the present one.
+- The Order agrees to pause new Penumbra collection while retaining its existing fragments. The party promises its collection if repairing the sky fails; teleport-circle access is offered.
+- Keys Caeradel identifies the [[Rakshasa]] as his father and asks the party to bring him to the Academy. Red Caesar reports his earlier encounter at [[The Garden]].
 
 ### Chunk 0004
 
-- The party visited [[House Kiirnodel]] in Brimbolyn. [[Ceril]] recognized [[Feronia Caeradel]] and [[Rizolvir Kiirnodel]] from his pre-Cataclysm escape flashback.
-- [[Feronia Caeradel]], a drow and mother of [[Keys Caeradel]], is chiefly in command of enacting the Demi-Spell. She recognized Ceril's future self and predicted he would become a god in the reset world.
-- [[Rizolvir Kiirnodel]] warned the party that the [[Broyish Empire]] is their greatest enemy, also pursuing the [[Genesis Mundi]] and collecting [[Penumbra]] pieces for a weapon.
-- [[Vokenar]] learned that the [[Genesis Mundi]] is a fixed point between worlds that occurs regardless — the Demi-Spell merely expedites and modifies it with guidelines.
-- Feronia Caeradel asked the party to check on [[Boril Erendel]] at [[The Garden]] and convince him to return.
-- House Kiirnodel granted the party [[Teleport Keys]] for accessing teleport circles back to Brimbolyn.
-- The party set sail from Continental Stark toward Cutlass Cray. [[Vizier Jade]] appeared on [[The Opal]]'s deck, confirming she has been watching [[Red Caesar]] and will ensure he survives. Red declined her restriction scroll. She departed via Teleport Circle.
+- At [[House Kiirnodel]], [[Ceril]] recognizes [[Feronia Caeradel]] and [[Rizolvir Kiirnodel]] as the people who spared his escaping group before [[The Cataclysm]].
+- Feronia Caeradel explains her belief that Ceril's soul persists across worlds and predicts great potential for him; the prediction does not establish his fate.
+- Rizolvir Kiirnodel warns that the [[Broyish Empire]] opposes the Order's renewal project and is collecting [[Penumbra]], possibly for a weapon.
+- Feronia Caeradel distinguishes the natural [[Genesis Mundi]] from the [[Demi-Spell]] that accelerates and guides it. The hosts assure [[Vokenar]] that they intend fairness toward all peoples.
+- The hosts ask the party to check on [[Boril Erendel]] at [[The Garden]] and persuade him to return. Feronia Caeradel supplies [[Teleport Keys]] for the house's circle.
+- The party departs toward [[Cutlass Cray]]. A separate scene shows Keys Caeradel using Penumbra energy to expand the Demi-Spell.
+- [[Vizier Jade]] privately renews Red Caesar's invitation to [[Broy]] and explains her surveillance and concern for his survival.
+- Red Caesar objects to her interference. Vizier Jade agrees to stop watching him and offers a binding scroll; he returns it uncast, accepting her promise through mutual trust.
 
 ## Session 015 — 2026-01-25
 
 ### Chunk 0000
 
-- While the party explored elf country, [[Kerben]] stayed aboard [[The Opal]] with [[Obould]], discussing the crew's new direction and the rising oceans.
-- The [[Goblin Traders]]' ship approached [[The Opal]]. [[Kerben]] met [[Gunk Grodley]] and traded with his wife in the hold, crafting [[Wyvern Poison]] from collected wyvern glands and trading bullet eggs for [[Lolth's Sting]].
-- With the party's approval, [[Kerben]] traded a rare gem for the [[Subpoena Deuces Mercator]], a reusable scroll that can summon the goblin traders at sea.
-- The crew returned from elf country with [[Brim the Bullywog]] as a new recruit. Brim leaped aboard with a 50-foot jump and immediately climbed into the crow's nest.
-- [[Yalet Mora]] called [[Red Caesar]] into the mess and revealed that [[Yalet Aurum]] is his older brother. Yalet described Yalet Aurum as an arrogant bully and proposed a plan to train up and eventually defeat him. Red agreed, and the two toasted to the idea.
-- [[Obould]] summoned [[Domyx]] to his quarters and formally named him heir to [[The Opal]], recording the decision in his private logbook. Obould said Domyx was the first domino that set everything in motion.
-- That night, hobgoblin pirates boarded [[The Opal]], triggering [[Kerben]] and [[Red Caesar]]'s alarm spells simultaneously. [[Raxxy]] was injured and [[Obould]] was wounded during the initial attack.
-- The party rallied to defend the ship, repelling the hobgoblin boarders and protecting the wounded crew. No lives were lost.
+- During his companions' visit to [[Continental Stark]], [[Kerben]] stays aboard [[The Opal]] and discusses the ship's changing purpose with [[Obould]].
+- [[Gunk Grodley]] and the [[Goblin Traders]] approach after elven inspection. Kerben crafts [[Wyvern Poison]] with the merchant's wife and exchanges his bulette eggs for [[Lolth's Sting]].
+- Kerben acquires the reusable [[Subpoena Deuces Mercator]], enabling requests for the traders to meet the crew at sea.
+- The others return with [[Brim the Bullywog]], who boards as tinkerer and lookout. The crew chooses a direct voyage to [[The Garden]], passing Cutlass Cray and [[The White Drake]].
+- [[Yalet Mora]] confirms that [[Yalet Aurum]] is his older brother. He and [[Red Caesar]] agree to a prospective confrontation to claim the golden head.
+- Obould privately names [[Domyx]] as heir to The Opal if he dies, recording the decision in his logbook while retaining command.
+- Hobgoblin boarders trigger Kerben's and Red Caesar's alarms. The party rallies to defend the ship.
+- Red Caesar shelters Obould and a wounded deckhand; Kerben saves another bleeding crew member, and [[Raxxy]] takes the wounded below. The last attackers continue fighting.
 
 ### Chunk 0001
 
-- [[Obould]] proposed rafting the surviving hobgoblin out to sea as a calling card from [[The Opal]]. He sent the party aboard the [[Gheister]] to chase the hobgoblins' second ship.
-- The party found the hobgoblins' second vessel adrift and discovered the [[Warg Lord]] below decks — a massive fey creature with a bear-wolf body and goblin face whose howl terrified and battered the party.
-- [[Ceril]]'s Moonbeam stripped the Warg Lord's goblin features to reveal its true beast form. The party overcame the creature, and [[Kerben]] delivered the killing shot.
-- The captured ship was renamed [[The Hideous Truth]]. With the Opal, the Gheister, and The Hideous Truth, [[Obould]] effectively became Commodore. The party recovered gold from crates lost overboard during the Warg Lord's howl.
+- [[Red Caesar]] knocks a veteran overboard, and [[Domyx]] subdues the remaining first mate. [[Obould]] confirms that no crew lives were lost.
+- Obould proposes sending the captive to sea on a marked raft as a warning; the survivor's later fate is not established.
+- The party pursues the other vessel aboard the [[Gheister]], finding it adrift with the [[Warg Lord]] below decks.
+- [[Ceril]]'s Moonbeam exposes the creature's beast form. Its psychic howl drops Red Caesar unconscious; [[Vokenar]] revives him, and [[Kerben]] ultimately kills the Warg Lord.
+- The party recovers gold from crates swept overboard. It finds no ownership papers or identifying records and debates what to do with a ship it cannot currently crew.
 
 ### Chunk 0002
 
-- The party decided they lacked resources to crew a third ship. [[Kerben]] and [[Domyx]] scouted a jungled grotto — a moon-shaped cape with canopy over the ocean — and hid the vessel there under foliage, protected from aerial reconnaissance by the [[Broyish Empire]]. They renamed it [[The Hideous Truth]]. The party discussed each member eventually getting their own ship.
-- The party sailed to [[The Garden]], which had grown more populated with boats. [[Theotropa]] was building a fleet with cyan and green banners to supply food and livestock to nearby settlements.
-- [[Domyx]] and [[Ceril]] met the [[Rakshasa]] in the Garden's inner sanctum. He recognized Domyx as Domyx Akathian and showed emotion when Ceril mentioned coming on behalf of his son. The Rakshasa revealed he is trapped and must hunt escaped demons before he can see his family. He tasked the party with finding and killing [[Farraday]], who keeps the [[Tome of Satariel]] and can track the Rakshasa wherever he travels.
-- [[Kerben]] investigated the Garden's supply routes with Theotropa. [[Vokenar]] used Locate Object to find a drained [[Penumbra]] chunk in Theotropa's possession. She agreed to give it if the party destroyed a [[Storm Phoenix]] — an elemental being driven mad by [[The Cataclysm]] — located south of the Garden.
-- [[Red Caesar]] and [[Ceril]] visited [[Boril Erendel]] in his side office. Boril Erendel revealed his eugenics plan for the [[Demi-Spell]]: he has created thousands of empty high elf forms and intends to reincarnate all spirits into these "perfect" bodies, eliminating all difference and war. He told Red that humans would be replaced by forms "better" than themselves. Red and Ceril were horrified.
-- [[Vokenar]] summoned [[Crone]] during a full moon. She appeared blood-soaked and exhausted. She confirmed there is time to stop the Demi-Spell but warned the party is more likely to die than run out of time. She revealed [[Aeris]] could heal the sky herself if given enough power — the party doesn't need all the Penumbra, just enough. She advised using the Rakshasa as a bargaining chip and confirmed the elves cannot be trusted to halt the Demi-Spell even if the sky were repaired.
-- [[Ceril]] proposed capturing or assassinating the Rakshasa as leverage against [[Keys Caeradel]] to halt the Demi-Spell entirely, given the danger posed by apostates like Boril Erendel.
-- The party reached level 9 during their long rest at [[The Garden]].
+- The party renames the captured galley [[The Hideous Truth]] and conceals it beneath foliage in a jungled grotto, retaining it as a reserve against future need.
+- The crew continues directly to [[The Garden]], whose growing druid fleet supplies plants and livestock to surviving settlements.
+- The [[Rakshasa]] recognizes [[Domyx]]'s [[Clan Akathia]] connection and reveals that he met Domyx's father.
+- The Rakshasa explains the surveillance preventing him from visiting [[Keys Caeradel]]. He asks the party to kill the demon watching him through the [[Tome of Satariel]].
+- [[Kerben]] obtains supply-route information. [[Vokenar]] locates a nearly drained [[Penumbra]] fragment held by [[Theotropa]].
+- Theotropa offers the fragment for destroying the [[Storm Phoenix]] and returning its amber core to the sea. She defers a proposed supply route to [[Lyngbakr Lagoon]] until the waters are safer.
+- [[Boril Erendel]] describes his plan to reincarnate every spirit as a high elf through the [[Demi-Spell]], claiming that thousands of empty bodies are already prepared.
+- [[Ceril]] proposes seeking the Rakshasa's enemy as an ally to capture or potentially assassinate him, pressuring Keys Caeradel to halt the Demi-Spell. The party debates the danger of breaking its accord and seeks divine advice.
+- [[Crone]] appears to Vokenar under the full moon, exhausted and blood-soaked. She warns that survival is a greater danger than time and explains that [[Aeris]] needs enough Penumbra power to heal, rather than every fragment.
+- Crone advises coercive leverage involving the Rakshasa and warns that the elves may still seek renewal after the sky is repaired. Neither the proposed capture nor an alliance with his enemy is carried out.
+- The party rests and reaches ninth level, choosing to complete Theotropa's task before acting against the Rakshasa.
 
 ### Chunk 0003
 
-- The party sailed south of the Garden to hunt the [[Storm Phoenix]]. [[Ceril]] cast Commune with Nature to locate it, learning its position and discovering plantain groves in the tropical terrain.
-- The Storm Phoenix was found circling above the ocean, moving as lightning between clouds before attacking [[The Opal]].
-- The party destroyed the Storm Phoenix, revealing a single chunk of amber at its core.
-- [[Kerben]] wanted to keep the amber, but the party wrested it from him and threw it overboard. When it hit the seawater, it became a vertical lightning bolt that split outward, returning lightning to the heavens.
-- Ceril realized that lightning had been "stolen from the heavens" since [[The Cataclysm]] and that the party had returned some of nature's weather balance by dissipating the storm phoenix.
-- The party returned to [[The Garden]]. [[Theotropa]] confirmed the task was complete — lightning had struck deep into one of her woodlands and storms had been returned. She gave the party the drained [[Penumbra]] and noted that a scout from the [[Broyish Empire]] had come looking for it while they were gone, appearing as a cloud on some device.
-- Theotropa offered to hold onto any future Penumbra the party found, since others were coming for it. Her own was under non-detection.
-- The party discussed their next moves: returning to [[Castle Kaedon]], finding [[Southport]] to drop off [[Rochella Golf]], or revisiting the prologue quest [[Xarag]]. They decided to head toward the lagoon area.
+- [[Kerben]] advances his rogue training. [[Red Caesar]] gains Circle of Power, Bigby's Hand, and Teleportation Circle, learning destinations at [[The White Drake]] and [[The Pit]] in addition to [[House Kiirnodel]].
+- [[Ceril]] uses Commune with Nature to guide the southern search through shallow tropical waters, collect plantains, and locate the [[Storm Phoenix]].
+- The phoenix attacks [[The Opal]]. Ceril demonstrates Freedom of the Winds, and [[Domyx]] uses the [[Iklwa Isondo]] to draw the flying creature closer.
+- Kerben kills the Storm Phoenix, leaving an amber core. He wants to retain it, but the others take it and throw it into the sea.
+- The amber becomes lightning that spreads through the heavens. Ceril recognizes a restoration of the weather's elemental balance.
+- Back at [[The Garden]], [[Theotropa]] confirms lightning's return and gives the party her Penumbra.
+- Theotropa reports an unidentified airborne search for the fragment, concealed as a cloud. Vokenar suspects the [[Broyish Empire]]; the fragment's protection against detection prevented its discovery.
+- Theotropa offers to reserve further Penumbra for the party. Vokenar renews his pledge to address dangers encountered in the druid waters.
+- The party chooses to return toward [[Castle Kaedon]], considering but postponing a confrontation with [[Xarag]] and discussing a search for [[Southport]].
 
 ### Chunk 0004
 
-- [[Kerben]] used his navigation tools to trace the druid supply routes, identifying the general direction of [[Southport]] on the map — reachable but requiring extra travel west.
-- The party sailed for roughly two weeks back to [[Lyngbakr Lagoon]]. They found the settlement expanded with huts, residents, and an oil-burning alarm path system.
-- [[Alamar]] greeted the party mounted on [[Kilosaurus]] with weapons. [[Lyngbakr]] had finished digesting the previous [[Penumbra]] feedings roughly three weeks prior.
-- The party fed the drained Penumbra from [[Theotropa]] through the now-fully-excavated chute, ringed with blue ever-burning torch lights.
-- [[Alamar]] revealed a canvas dome covered with foliage that can shroud the island from aerial reconnaissance by the [[Broyish Empire]].
-- [[Alamar]] revealed that a druid garden existed in his time as well, led by a kindly woman named [[Theotropa]] — the same name as the current leader, suggesting a possible connection across ages.
-- After feeding the Penumbra, [[Lyngbakr]] rose again. The island and surrounding pillars rose in unison, exposing twice as much of [[Castle Kaedon]] to explore. The turrets were now clearly visible.
-- [[Alamar]] sensed forces of hell and undead pervading the castle, saying it is cursed by every kind of curse — physical, metaphysical, divine, and profane — tracing the curse to [[Queen Caeradwyn]]'s ambition and bloodline magic.
-- [[Alamar]] chose to stay behind at the lagoon to guard against aerial scouts, saying he is "damned if I do and damned if I don't."
-- The party took the [[Gheister]] as a longboat toward the risen [[Castle Kaedon]].
+- The party searches westward without reaching [[Southport]]. [[Kerben]] uses the Garden's supply routes to establish its general direction; [[Rochella Golf]] remains aboard.
+- After roughly two weeks, the crew returns to an expanded [[Lyngbakr Lagoon]], where oil-burning alarms call armed defenders mounted on [[Kilosaurus]].
+- [[Alamar]] feeds Theotropa's Penumbra through the excavated chute and demonstrates a foliage-covered canvas dome that conceals the settlement from overhead.
+- Alamar recalls a druid garden led by a woman named Theotropa in his own era; the relationship between the accounts is not established.
+- [[Lyngbakr]] rises farther, exposing more of [[Castle Kaedon]] and surrounding pillars of land.
+- Alamar senses fiends and undead in the castle and describes curses and the lingering influence of [[Queen Caeradwyn]]. He remains to guard the lagoon.
+- The party takes the [[Gheister]] toward the newly exposed castle. The session ends before entry.
 
-## Session 016 — 2026-02-15
-
+## Session 016
 ### Chunk 0000
-
-- At [[Lyngbakr Lagoon]], the settlement continues growing with wooden structures, a watchtower, and a cistern. [[Ceril]] and [[Kerben]] improve the food supply using druidic magic.
-- [[Domyx]] receives a dream visitation from his sister [[Lorelai Lapis-Acathian]], who reveals [[Ulrich Fjoller]] is imprisoned and sentenced to execution. Lorelai Lapis-Acathian is pregnant with Ulrich's child and begs Domyx to rescue him. Domyx pledges to return.
-- [[Damien Ouranous]] arrives as an envoy of [[The League of New Stark]] aboard a League ship. He reveals the League shot down a [[Broyish Empire]] airship on the party's behalf and will continue protecting their operations.
-- The party visits [[Lady Jacinthe]] aboard [[The White Drake]] via Teleport Circle. She warns that the Empire may be collecting [[Penumbra]]-like stones to power a massive magical weapon. She offers two side quests: a corrupted siren in the southwestern seas and an old-world construct at a southern castle.
-- [[Ema-Tep]] uses *Transport via Plants* to return the party to [[Lyngbakr Lagoon]].
+- [[Lorelai Lapis-Acathian]] secretly contacts [[Domyx]], revealing [[Ulrich Fjoller]]'s imprisonment, execution sentence, and her pregnancy with his child; Domyx promises help.
+- Construction continues at [[Lyngbakr Lagoon]], while the exposed neighboring castle remains unexplored.
+- [[Damien Ouranous]] reports that [[The League of New Stark]] shot down an imperial airship protecting the site and arranges a limited island survey.
+- [[Red Caesar]], [[Vokenar]], and Domyx visit [[Lady Jacinthe]] aboard [[The White Drake]], renewing cooperation against [[Broyish Empire]] expansion.
+- [[Ema-Tep]] offers plant-based return passage in exchange for investigating a corrupted siren; the League also supplies a lead about a wandering construct and a southern castle.
+- Lady Jacinthe reports a massive imperial magical cannon and suspects [[Penumbra]] could power it, promising stronger regional defenses.
+- Ema-Tep returns the visitors through plantains to the lagoon, with Ulrich Fjoller's rescue and the castle investigations still pending.
 
 ## Session 017 — 2026-02-22
 
 ### Chunk 0000
 
-- The party sails aboard the [[Gheister]] toward the risen [[Castle Kaedon]], passing over [[Westerness]] — the sunken human city visible beneath the waves, its streets and buildings reclaimed by nature.
-- The abjuration magic pervading [[Castle Kaedon]] has grown stronger since the party's last visit, now fueled by the [[Penumbra]] the castle consumed. [[Red Caesar]] detects its planar, alien quality.
-- [[Kerben]] sends [[Tango]] overhead to scout the island layout, revealing disconnected landmasses and the castle's structural connections.
-- The party enters through a stone ramp and discovers the [[Castle Kaedon Arena]], a large interior courtyard with bleachers, a circular arena floor, stables, and mercantile kiosks, strangely preserved by the castle's magic.
-- Ancient human remains in the arena coalesce into hostile oozes: [[Psychic Goop]]s, ochre jellies, and a black pudding.
-- [[Ceril]] identifies the ooze types and warns the party about their properties — psychic goops retaliate against magical attacks, jellies split from slashing or lightning.
-- The party engages the oozes in combat. [[Ceril]] casts Wall of Fire; [[Vokenar]] uses Radiance of Dawn; [[Domyx]] bludgeons the black pudding; [[Kerben]] shoots at range; [[Red Caesar]] uses Vampiric Touch.
-- The psychic goops attack from the bleachers with psionic crush, targeting minds and detecting hidden creatures through mental sensing.
+- The party returns aboard the [[Gheister]] to [[Castle Kaedon]], observing [[Westerness]]'s submerged streets and woodland.
+- [[Red Caesar]] detects stronger protective magic, consistent with added [[Penumbra]] and [[Alamar]]'s increased range; its otherworldly source remains uncertain.
+- [[Tango]] scouts the broken island layout, and the party enters the preserved [[Castle Kaedon Arena]].
+- Ancient remains become hostile jellies, a black pudding, and [[Psychic Goop]]; the party fights through the closer threats while psychic attacks continue from the stands.
 
 ### Chunk 0001
 
-- The party defeats the remaining oozes in the [[Castle Kaedon Arena]], clearing the space.
-- The party searches the arena stalls and finds [[Kaedon]] coinage bearing the profile of [[King Maniasis]] — [[Alamar]]'s father, who went mad from elf-blood poisoning.
-- A preserved ringmaster's motley vestment is recovered from one of the stables — an ancient art piece from the [[Kaedon]] era.
-- The party skips a short rest and heads west across elevated plateaus toward the cataract (giant waterfall) on the castle island.
-- Wind and fog from the cataract carry a swarm of crawling severed hands across the grounds.
-- Two [[Mezzoloth]]s emerge from the stables — fiendish beetle-like creatures with four arms, magic resistance, and liquid-metal teleportation. Combat begins.
+- The party clears the arena, with [[Vokenar]] healing [[Ceril]] after the goops' concentrated mental attacks.
+- [[Domyx]] finds [[Kaedon]] coins bearing [[King Maniasis]]'s profile; a preserved ringmaster's vestment is also recovered.
+- The party continues west to seaweed-covered farmland, stables, and buildings beside the cataract.
+- [[Severed Hands]] and two [[Mezzoloth]]s attack. The swarm and one fiend fall, while the other holds Vokenar captive.
 
 ### Chunk 0002
 
-- [[Vokenar]] is knocked down by a [[Mezzoloth]] but is stabilized and healed by [[Kerben]]'s Cure Wounds. [[Domyx]] finishes the last mezzoloth, ending the battle.
-- The party explores the stables and finds silvered hackamores and bridles as intact treasure.
-- The party enters a granary building — its grain fermented into 60 to 100 year old malt liquor. Opening the doors releases toxic alcohol fumes that poison the party.
-- The granary is infested with giant scorpions, parasitic sturge bats, and carrion crawlers. [[Red Caesar]] ignites the alcohol vapor, clearing the fumes and turning the room's hazard against its inhabitants.
-- [[Domyx]] is swarmed and grappled by multiple giant scorpions while suffering from alcohol poisoning. The party clears the granary after a prolonged fight.
-- During a short rest, [[Red Caesar]] investigates and finds drinkable [[Kaedonite Black Ale]].
-- The party recalls lore about [[Kaedon]], the human civilization from before [[The Cataclysm]]: at the end of its life, Kaedon was nearly at peace, with trade routes forming between Kaedon and [[Esperanto]].
+- The remaining mezzoloth strikes Vokenar unconscious; Domyx kills it, and [[Kerben]] revives Vokenar.
+- The stables yield silvered show-horse fittings, while a granary contains poisonous alcohol vapor and an infestation.
+- Red Caesar burns away the vapor, and the party defeats giant scorpions, [[Sturges]], and carrion crawlers.
+- Resting in the cleared granary, Red Caesar recovers [[Kaedonite Black Ale]].
+- The party recalls Kaedon's pre-Cataclysm peace efforts and developing trade with [[Esperanto]]. Castle exploration remains unfinished, with no new Penumbra recovered.
 
 ## Session 018 — 2026-03-01
 
 ### Chunk 0000
 
-- The party scouts the southern perimeter of the Castle Kaedon island. [[Ceril]] spots specters rising from a graveyard field hidden in fog, alerting the party to the ambush.
-- Behind the party, water seeping from old cisterns collects into a vortex that forms a water elemental. The party is trapped between the specters ahead and the elemental behind.
-- [[Vokenar]] uses Turn Undead, devastating the specter pack and leaving them frightened and incapacitated. Most flee back into their graves.
-- [[Domyx]] engages the water elemental with brutal strikes and hamstring blows. He is eventually grappled and pulled inside the elemental's vortex form.
-- [[Red Caesar]] uses Gust of Wind to push specters toward the cliff edge. [[Kerben]]'s [[Tango]] is targeted by specters and life-drained.
-- [[Vokenar]] disintegrates the water elemental, reducing it to silvery gray nothing and freeing Domyx. [[Ceril]] finishes the last specter.
-- After the fight, [[Kerben]] resummons a fresh [[Tango]]. [[Domyx]] recovers from the specters' life drain with healing scrolls.
-- The party explores a building behind the granary with horse racks, barrels, and old leather. It has four entrances: a back door, two small front doors, and a large horse gate.
-- [[Red Caesar]] enters through the back door and triggers a brown mold infestation that spreads frostbite. [[Ceril]] uses Shape Water combined with create water to freeze and destroy the mold.
-- [[Red Caesar]] finds an old [[Kaedon]] equestrian manual in the building — a collector's item in a world where few know what horses look like.
-- [[Ceril]] wild shapes into a scorpion and squeezes under the granary door to scout the interior, discovering [[Sturges]] hanging from the ceiling.
-- The party plans a "hamster ball" strategy: [[Red Caesar]] casts Otiluke's Resilient Sphere on himself and enters the granary to attract sturges while [[Kerben]] creates blood scent from another entrance.
-- Ochre jellies appear from grain silos inside the granary. [[Vokenar]] uses an icy Flame Strike from outside, catching both sturges and jellies.
-- The party systematically defeats the sturges and ochre jellies using the sphere strategy, with [[Ceril]] using Moonbeam and Wild Resurgence, and [[Domyx]] brute-forcing through the door.
+- [[Ceril]] detects specters in an old graveyard, while a water elemental forms from leaking cisterns behind the party.
+- [[Vokenar]] drives several spirits back into their graves; the party destroys the remaining attackers, and Vokenar's sword frees [[Domyx]] from the elemental.
+- [[Kerben]] resummons [[Tango]] after its vitality is drained. The party heals and continues without another rest.
+- Ceril freezes brown mold that injured [[Red Caesar]], who recovers an intact Kaedonite equestrian manual.
+- Scorpion-shaped scouting reveals [[Sturges]] inside the larger granary. Red Caesar enters protected by a sphere, and Domyx uses [[Iklwa Isondo]] to pull Kerben safely outside.
+- The party clears emerging jellies and most sturges around the protected lure; the last swarms remain at the chunk boundary.
 
 ### Chunk 0001
 
-- The party discovers a preserved corpse of a human female noble from old [[Kaedon]] under dead mold.
-- [[Red Caesar]] uses [[Beryzoz's Teeth]] to question the corpse, learning that [[Alamar]] abdicated the old crown and led Kaedon's transformation into a republic of syndicates.
-- The corpse reveals she had tickets for [[The Carrot Cake]] — a massive magical amusement park spanning mountaintops, set up by Jack Harvey.
-- She lived in [[Taylin]], a settlement near [[Castle Kaedon]], and was visiting the castle before relocating to [[Esperanto]].
-- [[Esperanto]] is confirmed sunken, being the lowest point on the land and likely flooded first during [[The Cataclysm]].
-- The corpse saw streaks of light from the east cutting across the sky before the castle collapsed — matching what [[Ceril]] and [[Vokenar]] witnessed, suggesting the streaks may be the direct cause of [[The Cataclysm]].
-- The party explores the castle's cliff edges: smooth white stone descending 35 to 50 feet to the ocean, with broken landmasses on barnacle-encrusted pillars.
-- [[Kerben]] uses Stone Sense to discover hollow underground spaces — much of [[Castle Kaedon]] is buried beneath the surface.
-- The party is ambushed by water elementals rising from the ocean and [[Animated Armor]] constructs disguised as statues.
-- [[Red Caesar]] and [[Ceril]] each destroy an animated armor with Dispel Magic, confirming they are sustained by active spellwork.
-- After a short rest, the party is attacked by a [[Xarag]] and four black dragon wyrmlings that burst from the ocean.
-- [[Ceril]] recognizes the wyrmlings as offspring of the prologue dragon. The adult declares "father will be pleased" when it finds the castle.
-- [[Vokenar]] strikes all five dragons with Sacred Spear. [[Domyx]] kills wyrmlings with the [[Iklwa Isondo]]. [[Ceril]] traps the adult dragon in a Wall of Fire.
+- The party finishes the granary infestation and recovers [[The Carrot Cake]] tickets from a noble's corpse.
+- Through [[Beryzoz's Teeth]], the woman describes [[Taylin]], her travel plans, [[Alamar]]'s republican reforms, and fatal collapse after lights crossed the sky from the east.
+- Her account matches Ceril's pre-Cataclysm memory. [[Esperanto]]'s early flooding is inferred from its low terrain.
+- Kerben senses hollow castle spaces underground and warns of approaching water elementals; [[Animated Armor]] and [[Psychic Goop]] also threaten the party.
+- Red Caesar and Ceril dispel the armor, and the companions defeat the other threats before resting.
+- A young black dragon and four wyrmlings rise from the sea. The young dragon invokes its father and proposes the castle as a new haunt.
+- The wyrmlings fall, while Ceril's fire confines the young dragon; the battle continues into the next chunk.
 
 ### Chunk 0002
 
-- [[Kerben]] triggers a hidden [[Mangonel]] trap during the dragon battle before its enchantment fades.
-- The [[Xarag]]'s serial acid breath overwhelms [[Ceril]]'s starry shield, knocking him unconscious. [[Vokenar]] heals Ceril with Aura of Vitality as [[Domyx]] delivers the killing blow to the adult dragon.
-- [[Kerben]] harvests the dragon's acid-resistant scales and crafts [[Preparation Melf]], a throwable sticky acid flask.
-- Investigation reveals the [[Mangonel]] was originally a celebration device containing decorative fireworks from [[Broy]].
-- [[Domyx]] discovers [[The Jewel of Alfheimer]], a rare painting by [[Aramil Kiirnodel]] depicting pre-Cataclysm [[Brimbolyn]] as a lush jungled continent.
+- The enchanted [[Mangonel]] briefly attacks Kerben, then becomes inert while remaining mechanically functional.
+- Dragon acid knocks Ceril unconscious. Vokenar restores him, and Domyx kills the young dragon as their temporary transformations end.
+- Kerben crafts [[Preparation Melf]] from dragon material and recovers decorative fireworks from [[Broy]], suggesting the mangonel's earlier celebratory use.
+- Domyx discovers [[The Jewel of Alfheimer]], [[Aramil Kiirnodel]]'s landscape of old [[Brimbolyn]].
+- The party remains on site without another rest. The mangonel has not been moved, and the northern arcane-locked door remains unopened.
 
 ## Session 019 — 2026-03-08
 
 ### Chunk 0000
 
-- [[Kerben]] used the [[Mangonel]] to launch [[Domyx]] across an 80-foot gap to the southern island platform of [[Castle Kaedon]].
-- On the southern island, the party found statues honoring aasimar heroes; the statues animated as marble gargoyles.
-- The party encountered a [[Zorn]], a subterranean elemental that had been eating gold coins beneath the flagstones. It vomited up roughly 50 pounds of gold before burrowing away.
-- [[Ceril]]'s Plant Growth created permanent seaweed and fungus bridges between the broken island platforms.
-- In an acid-smoothed interior room, black puddings and [[Severed Hands]] emerged from the ruins.
+- [[Kerben]] uses the [[Mangonel]] to launch [[Domyx]] to a southern platform, where amethysts are recovered from an aasimar memorial.
+- The memorial's marble statues animate as gargoyles. Domyx escapes through the sea while his companions fight them.
+- [[Ceril]]'s Plant Growth impedes a [[Zorn]] and creates permanent nearby bridges and climbing supports.
+- The party destroys the gargoyles; the Zorn, terrified of [[Vokenar]]'s [[Akasha]]-bearing weapon, surrenders roughly fifty pounds of gold and flees.
+- Engraved seats in a former meeting room suggest representation by Rodgard, Bloomshield, [[Clockwork]], and [[Esperanto]] in the old republic.
+- Black puddings and [[Severed Hands]] attack in an acid-damaged checkpoint; the fight continues.
 
 ### Chunk 0001
 
-- The party finished clearing the acid-damaged room, short-rested, and opened the arcane-locked door into the castle proper.
-- The party explored the castle's entrance foyer, fighting a [[Flabbergast]] undead, a [[Carrion Crawler]], [[Severed Hands]], and giant scorpions.
-- Part of the party traveled to [[The White Drake]] via Teleportation Circle and attended a banquet hosted by [[The League of New Stark]].
+- The party clears the checkpoint, rests briefly, and opens the northern arcane-locked door with Kerben's keyring.
+- A [[Flabbergast]], carrion crawler, scorpion, and severed hands attack in the castle foyer. The party defeats them and stays overnight under alarms and [[Red Caesar]]'s hut.
+- A flashback to the earlier [[The White Drake]] visit shows Vokenar enjoying the banquet, Domyx playing Titan's Tarot, and Red Caesar speaking privately with [[Lady Jacinthe]].
+- Lady Jacinthe describes her broken engagement to [[Obould]] and his oath to die in her place, warning that he would leave the crew to protect her and the League.
 
 ### Chunk 0002
 
-- [[Red Caesar]] spoke privately with [[Lady Jacinthe]], who revealed she and [[Obould]] were once to be wed for shared ambition. Their paths diverged — Jacinthe built the League, Obould pursued piracy.
-- Jacinthe revealed Obould swore an oath to die in her place should she come to harm, and that she cursed him with sorrow in return.
-- [[Red Caesar]] learned of [[Starfall]], an ancient cannon of celestial origin now in the possession of the [[Broyish Empire]].
-- The party returned to [[Castle Kaedon]] the next day during a storm. [[Ceril]] protected Red Caesar from the Mark of the Home curse and cured [[Kerben]] after it took hold.
-- In a pentagonal inner chamber, magic circles summoned [[Bearded Devil]]s, setting up the next battle.
+- In the continuing flashback, Lady Jacinthe confirms voluntary League contracts and supplies [[Starfall]]'s name and an imperial prisoner's account of its ancient origin.
+- The present-day party awakens in the castle foyer during a storm; Kerben chooses [[Zulu]] for the next stage.
+- Ceril protects Red Caesar from the Mark of the Home and removes the curse after it affects Kerben.
+- The party enters a pentagonal chamber where [[Bearded Devil]]s are summoned. Their confrontation remains pending.
 
 ## Session 020 — 2026-03-15
 
 ### Chunk 0000
 
-- The party fights the summoned [[Bearded Devil]]s in the pentagonal chamber. An invisible [[Nalfeshne]] — a powerful boar-bodied demon with bluish fire — oversees the devils and speaks Heavenly to [[Vokenar]], calling Castle Kaedon "my brand new castle" before teleporting away.
-- After clearing the devils, the party explores the surrounding rooms. [[Kerben]]'s Stone Cunning detects patrol movement to the north and a small safe room to the southeast.
-- The party proceeds down the red carpet into the next chamber. [[Vokenar]]'s See Invisibility reveals [[Wraith]]s riding atop [[Nightmare]]s — flame horses that can ethereal stride through walls.
-- The wraiths prove devastating, life-draining [[Kerben]] and leaving him badly weakened. The party defeats the wraiths and nightmares but skips a short rest to press onward.
+- The party defeats the [[Bearded Devil]]s summoned in [[Castle Kaedon]]'s pentagonal chamber. [[Vokenar]] sees their invisible [[Nalfeshne]] overseer, which claims the castle and teleports away.
+- Vokenar closes his infernal wound with healing. [[Kerben]] identifies a small storage room as a possible refuge, but the party proceeds north without resting.
+- Vokenar reveals [[Wraith]]s riding [[Nightmare]]s. The party destroys them, but repeated life drain leaves Kerben weakened; the available healing cannot restore his lost vitality.
 
 ### Chunk 0001
 
-- The party explores deeper into [[Castle Kaedon]], finding a chunk of mithril and a heavily barricaded arcane-locked door.
-- [[Red Caesar]] determines a collapsed wall section is recent damage — the fiendish occupation is suppressing the castle's protective abjurations.
-- A [[Potion of Soothing Gaze]] falls from the ruined apothecary above onto [[Domyx]].
-- The party discovers a dungeon with rusted iron-barred cells containing ancient corpses. [[Red Caesar]] uses Speak with Dead on a skeleton with platinum teeth, learning of the [[Dancing Blades]] thieves guild and that [[Clockwork]] was once imprisoned here.
-- A map of Western Stark and its surrounding areas is found — now mostly ocean floor.
-- [[Kerben]] finds a stash of Kaedonite coins with bite marks from a [[Zorn]].
-- Summoning circles are drawn in a long stained-glass hallway. A [[Hezru]], two [[Bearded Devil]]s, and a [[Chain Devil]] appear, overseen by the invisible [[Nalfeshne]].
-- The party defeats the bearded devil and chain devil. The [[Nalfeshne]] casts Fireball on the entire party before teleporting away.
-- [[Zulu]] is knocked down by the Nalfeshne's Fireball.
-- [[Vokenar]] and [[Ceril]] pray over the dead prisoners, feeling the sister goddesses watching over them.
+- [[Red Caesar]] recovers mithril in the cleared room. The northern door remains blocked by an arcane lock and a physical barricade.
+- On the right-hand route, recent structural damage triggers a further collapse from the apothecary above. A [[Potion of Soothing Gaze]] falls onto [[Domyx]], and Red Caesar claims it.
+- In the dungeon, Red Caesar takes platinum teeth from a skeleton before a [[Chain Devil]] and a bearded devil are summoned.
+- The party defeats both devils. The invisible Nalfeshne retaliates with Fireball, destroys Kerben's summoned crab, and teleports away. [[Zulu]] survives; the party takes a short rest.
+- A prisoner list names [[Clockwork]] of the [[Dancing Blades]]. [[Ceril]] takes an old map of [[Westerness]], and Kerben recovers Kaedonite coins partly eaten by a creature the party suspects was the [[Zorn]].
+- Vokenar prays for the drowned prisoners. Red Caesar questions an unnamed Dancing Blades senator who died while defending a client and praises [[Alamar]] for saving the guild.
+- In a separate stained-glass corridor, a [[Hezru]] enters from the north and two bearded devils are summoned to the south. Ceril summons his own crab spirit as the new fight begins.
 
 ### Chunk 0002
 
-- The battle with the [[Hezru]] and two more [[Bearded Devil]]s concludes in the stained-glass hallway. [[Domyx]] shoves one bearded devil through the stained glass into the ocean below. [[Vokenar]]'s Guardian of Faith destroys the second.
-- [[Kerben]] shreds the Hezru with dual blades; [[Vokenar]] delivers the final blow with his Akasha blade.
-- After visible enemies fall, the invisible [[Nalfeshne]] ambushes the party with a Lightning Bolt from the hallway. [[Red Caesar]] and [[Zulu]] are knocked down, while [[Domyx]] and [[Ceril]] weather the attack.
-- The party heals through coordinated efforts: [[Red Caesar]] uses Vampiric Touch, [[Vokenar]] uses Aura of Vitality, and [[Kerben]] restores Zulu.
-- The party decides to pursue a war of attrition, clearing the left wing of the castle's pentagonal layout before confronting the Nalfeshne directly.
+- Domyx destroys one bearded devil through a stained-glass window and pulls the other into Vokenar's Guardian of Faith, which destroys it. Vokenar's [[Akasha]] blade finishes the Hezru.
+- Ceril senses another ambush and moves clear. The invisible Nalfeshne strikes Domyx, Red Caesar, and Zulu with Lightning Bolt; Red Caesar and Zulu collapse before the demon retreats through a door.
+- Kerben heals Red Caesar and restores Zulu; Vokenar's Aura of Vitality heals the group. Kerben's earlier life drain remains unresolved.
+- The party returns to the foyer to explore the left wing and wear down the Nalfeshne's resources. The guardian remains in the corridor, Ceril's crab stays summoned, and no further rest occurs.
 
 ## Session 021 — 2026-03-22
 
 ### Chunk 0000
 
-- The party explores a flooded guest room in [[Castle Kaedon]] and finds [[Sunspite]]'s severed head crushed under rubble, overgrown with roses.
-- [[Vokenar]] discovers [[Lady Acelia's Chalice]], identifying [[Lady Acelia]] as [[Alamar]]'s younger sister and last child of the Rodgard family.
-- [[Red Caesar]] uncovers mithril bars hidden beneath floorboards, along with gilded puzzle toys.
-- The party is ambushed in a presentation hall by specters and a wraith coalesced from silvery [[Akasha]] mist that drains life force when magic is cast.
-- [[Red Caesar]] clears the Akasha mist at personal cost, and the party defeats the undead.
-- The Akasha quest resolves: Akasha is the pure substance of abjuration that destroyed the old world's magic. A theory emerges that [[Penumbra]] may be crystallized Akasha, and a new quest to manufacture Penumbra is added.
-- The party finds [[Deception by Lenth]], a [[Potion of Eels]], and a [[Potion of Clairvoyance]] — all inventions of [[Lenth the Rugged]].
-- Multiple arcane-locked doors are discovered, protected by the Guards and Wards spell, likely cast by the [[Nalfeshne]] to fortify its territory.
+- In [[Castle Kaedon]]'s guest rooms, [[Vokenar]] finds [[Sunspite]]'s severed head beneath a recent collapse and recovers [[Lady Acelia's Chalice]]. [[Red Caesar]] recalls [[Lady Acelia]]'s place in the Rodgard family and recovers gilded toys.
+- Undead attack in a presentation hall filled with [[Akasha]]. The mist drains spellcasters; Red Caesar clears it with wind, and the party defeats the attackers.
+- The party understands Akasha as a substance that cancels magic and elements, explaining the loss of much old-world magic. It adopts an investigation into manufacturing [[Penumbra]] from Akasha, still a theory.
+- Evidence of improvised refuge and depleted supplies suggests commoners occupied the castle after the nobles fled.
+- [[Domyx]] takes [[Deception by Lenth]]. Red Caesar recovers mithril bars and two potions from a storeroom; [[Kerben]] takes the [[Potion of Eels]], and the party also retains the [[Potion of Clairvoyance]].
+- Red Caesar identifies Guards and Wards among the [[Nalfeshne]]'s defenses. The party locates an upper study above its inaccessible chamber; [[Ceril]]'s earlier summoned crab expires.
 
 ### Chunk 0001
 
-- The party ambushes the [[Nalfeshne]] in its throne room by opening a passage through the ceiling with [[Kerben]]'s magic key.
-- The party's protective magic insulates them from the Nalfeshne's fear and psychic attacks.
-- [[Domyx]] holds the Nalfeshne's attention while [[Ceril]]'s summoned crab proves decisive.
-- [[Ceril]]'s crab delivers the killing blow, clamping the Nalfeshne's neck; the demon dissipates in blue smoke.
-- The party loots the throne room: a black Hell-forged periapt with sardonyx gems, a ruby and sapphire from the throne, and a large [[Penumbra]] chunk with a fractal structure.
-- With the Nalfeshne defeated, the castle's magical aura and abjurations weaken; arcane locks dissipate.
-- The party transports the Penumbra aboard the [[Gheister]] and feeds it to [[Lyngbakr]].
+- After resting in the salt bath, the party prepares protection against fear and hostile magic. Kerben summons a new crab spirit and uses his keyring to open a ceiling passage into the Nalfeshne's throne room.
+- The ambush succeeds. Domyx withstands the demon's assault while the party's wards blunt its powers; Kerben's crab kills the Nalfeshne.
+- The party recovers fused Penumbra, a Hell-made sardonyx periapt, and a ruby and sapphire from the throne. The castle's magical aura weakens, and its arcane locks disappear.
+- The party transports the nearly weightless Penumbra aboard the [[Gheister]] and pushes it overboard above [[Lyngbakr]]'s head.
 
 ### Chunk 0002
 
-- [[Lyngbakr]] rises from the sea carrying [[Castle Kaedon]] and parts of [[Westerness]], shaking off demons and Penumbra fragments. The silver [[Akasha]] mist rises from where remaining fiends hit the ocean.
-- [[Lyngbakr]] communicates telepathically with [[Ceril]], asking what to do next since the [[Hole in the Sky]] remains.
-- [[Ceril]] contacts [[Aeris]] through his shield. She appears wearing the stars and answers only through glowing (yes) or fading (no). She confirms the party's quest will fix the sky, that they need not intervene personally, and that they should not head west.
-- [[Lyngbakr]] ascends toward the [[Hole in the Sky]], emitting a silver-and-black mist that repairs the wound's edges. The hole stops growing and shrinks by about a third — visible from miles away.
-- [[Lyngbakr]] reveals it can dive beneath the ocean to a "second sea" of [[Akasha]] and agrees to collect Akasha for the party.
-- The party returns to [[Lyngbakr Lagoon]]. [[Raxxy]] reports that [[Obould]] has disappeared — he lied about heading to the castle and instead took a longboat east.
-- [[Vokenar]] scries on Obould and finds him far inland in the mountains of the [[Broyish Empire]], in manacles, being led by [[Vizier Jade]] and armed humans in white and gold. Vizier Jade casts See Invisibility to find the scrying sensor, then dispels the spell.
-- [[Red Caesar]] identifies [[Vizier Jade]] and the location as Broy. He explains Obould swore an oath to die in [[Lady Jacinthe]]'s place should she come to harm.
-- The conjecture is formed that [[Starfall]] — an ancient weapon of celestial origin — caused [[The Cataclysm]] 60 years ago by punching a hole in the heavens from the east.
-- The party discusses possible routes through [[The White Drake]], [[The Pit]], and eventually the [[Broyish Empire]].
+- Lyngbakr swallows the stone, rises carrying the castle and parts of [[Westerness]], shakes off remaining creatures, and consumes additional fallen Penumbra. Akasha destroys the creatures cast into the water.
+- [[Aeris]] answers Ceril through light and darkness, confirming the sky-repair quest, an obstruction to her usual communication, the need for more Penumbra, and advice against personal intervention or heading west.
+- Lyngbakr ascends and emits mist that repairs the [[Hole in the Sky]]. The wound stops growing and shrinks by roughly a third; the effort weakens the turtle.
+- Lyngbakr reaches a second sea of Akasha beneath the ocean and agrees to collect material for the party's investigation.
+- At [[Lyngbakr Lagoon]], [[Raxxy]] reports [[Obould]] missing after he falsely claimed to be heading to the castle and instead rowed east.
+- The party establishes wind-assisted propulsion for [[The Opal]], mounts the recovered mangonel, divides treasure, and reserves gold for future ship upgrades. It adopts finding [[Starfall]] as an objective while retaining its role in [[The Cataclysm]] as conjecture.
+- Vokenar scries Obould in manacles deep in the [[Broyish Empire]]'s mountains. [[Vizier Jade]] leads his guards, discovers the sensor, and dispels it; Red Caesar identifies her to the party.
+- Ceril questions rescuing Obould against his apparent choice, while Red Caesar invokes the older crew's bond and Vokenar pledges support. The party plans separate teleportation and sailing routes to gather information and arrange ship repairs at [[The Pit]].
 
 ### Chunk 0003
 
-- The party reaches level 10.
-- [[Farraday]] is identified as an [[Arcanoloth]] who commands a portion of the ocean and holds the [[Tome of Satariel]].
-- [[Muudeep]] is introduced as a contact at [[The Garden]] who trades art pieces for attunable magic items.
-- [[Domyx]] keeps private the fact that [[Obould]] named him heir to [[The Opal]] in his logbook.
+- Ceril considers using Commune with Nature during travel to locate the [[Arcanoloth]] holding the [[Tome of Satariel]]; its identity and location remain unknown.
+- A long rest removes the party's life drain, including Kerben's earlier injury, as the companions reach level ten and develop new capabilities.
+- Domyx keeps Obould's succession instruction private while Kerben serves as acting captain.
+- The party remains together at the lagoon, planning its immediate journeys and a later voyage toward Broy.
 
 ## Session 022 — 2026-04-05
 
 ### Chunk 0000
 
-- The party splits into two groups: [[Kerben]], [[Domyx]], and [[Vokenar]] sail [[The Opal]] to [[The Pit]]; [[Red Caesar]] and [[Ceril]] travel to [[The White Drake]] via Teleportation Circle.
-- [[Brim the Bullywog]] departs [[The Opal]] at The Pit to explore Dwarfland independently.
-- [[Vokenar]] meets [[Figma Brickfinger]] at [[The Palace of the Pit]]. She reports that deep worlder integration is progressing with minor conflicts, and that industrial expansion is underway at The Pit. Aerial scouts have sighted [[Broyish Empire]] airships in the region.
-- [[Domyx]] trades a Gith Star Gem and a ruby to [[Sigrid Forgewelt]] for the [[Gith Shard Glaive]], a halberd with extended-range psychic cleave attacks. He also trades equestrian manuals for enchanted javelins.
-- [[Vokenar]] trades a rare gem to Sigrid Forgewelt for [[Sunset's Solace]], a spell-storing shield.
-- [[Red Caesar]] and [[Ceril]] arrive at [[The White Drake]]. [[Damien Ouranous]] reports that [[Lady Jacinthe]] is inconsolable and will not receive visitors. She declares [[Obould]] deceased through Damien: "There is no more Captain Obould. He is dead and gone."
-- [[Ceril]] infiltrates the ship, steals clothes from laundry, and disguises himself as a crew member named "Baragas." He tricks the sommelier into handing over a bottle of Talyn brandy that Jacinthe had been drinking from.
-- [[Ceril]] attempts his first scrying on Jacinthe through the brandy bottle, but Jacinthe resists.
-- [[Red Caesar]] suggests finding a portrait of Jacinthe for a second scrying attempt.
+- [[Kerben]], [[Domyx]], and [[Vokenar]] sail [[The Opal]] to [[The Pit]], while [[Red Caesar]] and [[Ceril]] teleport to [[The White Drake]]. Ceril accompanies the investigation despite his objection to its priority.
+- The crew purchases a bulbous bow and hardened sails. [[Brim the Bullywog]] goes ashore to explore, intending to rejoin them.
+- [[Figma Brickfinger]] reports manageable conflicts during deep-world integration, new underground opportunities, industrial expansion, and continuing reports of imperial aircraft.
+- [[Sigrid Forgewelt]] crafts the [[Gith Shard Glaive]] for Domyx, who also trades equestrian materials for enchanted javelins. Vokenar acquires [[Sunset's Solace]], initially storing Slow.
+- At The White Drake, [[Damien Ouranous]] relays [[Lady Jacinthe]]'s refusal to receive visitors and her instruction to treat [[Obould]] as deceased; his death remains unverified.
+- Ceril scouts the guarded quarters, uses stolen clothing and a false crew identity to obtain Lady Jacinthe's prized brandy, and attempts Scrying. She resists, prompting a search for her portrait.
 
 ### Chunk 0001
 
-- [[Red Caesar]] creates a loud distraction in the lounge, shattering porthole windows. [[Ceril]] steals a portrait of Jacinthe christening [[The White Drake]]. [[Damien Ouranous]] helps conceal the painting with his cape.
-- [[Ceril]]'s second scrying succeeds. He discovers Jacinthe's grief is a ruse — wine bottles are unopened, lined up neatly.
-- [[Vizier Jade]] appears in Jacinthe's room via illusion magic and delivers a one-month ultimatum: provide the [[Broyish Empire]] with [[Penumbra]] or information leading to it, or [[Obould]]'s safety cannot be guaranteed. Every piece of useful intelligence may extend the deadline.
-- Jacinthe whispers after [[Vizier Jade]] departs: "One month. Can we even get there in one month?" — confirming she wants Obould to survive.
-- [[Red Caesar]] and [[Ceril]] leave a message for Damien hidden in the stolen painting, then use a teleport circle to travel to [[Brimbolyn]].
-- At [[House Kiirnodel]], [[Rizolvir Kiirnodel]] and [[Feronia Caeradel]] recognize the party. Red reports that [[Boril Erendel]] has gone off the rails at [[The Garden]], adding nearly a hundred pages of his own design to the [[Demi-Spell]].
-- At the [[Elvish Marketplace]], Red trades [[The Jewel of Alfheimer]] for the [[Boots of the Alvargard]]. Ceril acquires the [[Branch of the Itinerant]]. Red purchases [[Cloaks of Billowing]] for the entire party.
-- The party returns to [[The White Drake]] and debriefs [[Domyx]], [[Kerben]], and [[Vokenar]] about [[Vizier Jade]]'s ultimatum. Approximately 21 days remain.
-- [[Vokenar]] uses lore divination on [[Genesis Mundi]], confirming it is a natural world-reset event that carries over important souls and structures. The [[Demi-Spell]] merely expedites and modifies it.
-- [[Vokenar]] uses lore divination on [[Starfall]], confirming it was created in hell, brought to [[Broy]], and uses [[Penumbra]] as fuel. It can pierce the membrane between worlds — "god's skin."
-- [[David Harvey]], a [[Harengon]], gives the party a quest: retrieve the traitor [[Theo Harvey]] from imperial-occupied territory. A large gold bounty awaits his safe return. David's great uncle was [[Jack Harvey]], creator of [[The Carrot Cake]].
+- Red Caesar shatters lounge windows as a distraction; Ceril steals Lady Jacinthe's portrait. Damien Ouranous unwittingly helps conceal it, while Red Caesar pays for the damage and helps clean.
+- Ceril's Scrying reveals staged grief and private negotiations with [[Vizier Jade]]'s magical projection. Lady Jacinthe is reporting the party's movements to protect Obould.
+- Vizier Jade guarantees Obould's safety for a month, with extensions possible for useful Penumbra intelligence. Ceril shares the observation with Red Caesar and leaves a concealed account for Damien Ouranous.
+- At [[House Kiirnodel]], [[Feronia Caeradel]] and [[Rizolvir Kiirnodel]] recognize Ceril. Red Caesar urges scrutiny of [[Boril Erendel]]'s contributions to the [[Demi-Spell]], without establishing corrective action.
+- In the [[Elvish Marketplace]], Red Caesar trades [[The Jewel of Alfheimer]] for [[Boots of the Alvargard]] and buys [[Cloaks of Billowing]]. Ceril acquires the [[Branch of the Itinerant]], and mithril armor is arranged for Vokenar.
+- The party reunites near The White Drake and reckons about twenty-one days remain in the ultimatum. Vokenar describes permanent hallowed protections established aboard The Opal.
+- Vokenar's Legend Lore distinguishes natural [[Genesis Mundi]] from the Demi-Spell that expedites and alters it. Starfall is revealed as an infernal weapon able to pierce divine barriers and now fueled by [[Penumbra]]; its transfer from Hell remains concealed.
+- [[David Harvey]] offers a bounty for the live return of [[Theo Harvey]], who betrayed the [[Harengon Warrens]] to the Empire. David Harvey identifies [[Jack Harvey]] as his great-uncle and Theo Harvey as a possible source on his projects.
+- The party chooses the warrens island on its eastward route, hoping for information and possible underground shortcuts.
 
 ### Chunk 0002
 
-- The party sailed [[The Opal]] to the [[Harengon Warrens]] island and was ambushed by invisible imperial scouts, marshals, and [[Theo Harvey]].
-- [[Red Caesar]] traps Theo alive, capturing the traitor.
-- [[Ceril]] and [[Vokenar]] stop the fleeing imperial forces on their longboat, killing most of the remaining soldiers.
-- [[Vokenar]] locates the hidden entrance to the Harengon warrens beneath a baobab tree.
-- Theo revealed that [[Jack Harvey]]'s final project — [[The Carrot Cake]] — is "alive and well," implying the amusement park's legacy persists.
-- [[Red Caesar]] identified distinctive markings on the imperial soldiers.
-- The party skips [[Cutlass Cray]] and continues east toward the [[Broyish Empire]] with Theo as prisoner.
+- On the island, Red Caesar detects an invisible Harengon and the party exposes an imperial ambush before initiating combat. Vokenar summons a celestial defender, and Red Caesar's Steelwind Strike breaks much of the resistance.
+- Red Caesar captures Theo Harvey in a resilient sphere. Ceril and Vokenar prevent the surviving soldiers' retreat by longboat; the imperial detachment is destroyed.
+- Vokenar finds the warrens entrance beneath a tree through invisible displaced earth and a separate illusion covering. The party does not explore the tunnels.
+- Theo Harvey argues for imperial protection, offers information and payment, and claims [[The Carrot Cake]] survives. The party takes him east as a prisoner rather than delivering him to the League.
+- Theo Harvey cultivates crew members, while [[Raxxy]] offers guard duty and Red Caesar insists he remains a captive. The party skips [[Cutlass Cray]] to reduce his opportunities to escape.
+- The upgraded bow enables The Opal to approach Broy's rocky coast. An unnatural white pillar shines on the horizon; the session ends before interception or admission.
 
 ## Session 023 — 2026-04-19
 
 ### Chunk 0000
 
-- The party sails east toward [[Broy]] aboard [[The Opal]] with [[Theo Harvey]] as prisoner. The eastern waters retain pre-[[The Cataclysm]] ecology with ancient underwater trees.
-- [[Ceril]]'s Commune with Nature locates [[Tome Keeper's Pyramid]] — a temple in the eastern waters approximately 10 miles away, housing the [[Tome of Satariel]]. Dragonflies appear as indicators that [[Farraday]] is within three miles.
-- [[Vokenar]]'s Legend Lore reveals the Tome is made of 666 pages, each from a different wizard's soul, and returns to hell if destroyed. Farraday can only capture knowledge through death. The temple's interior mirrors its state in hell and contains traps.
-- The party decides to head to [[Broy]] first to rescue [[Obould]], based on the then-known deadline, and return to the pyramid later.
-- That night, [[Theo Harvey]] reveals to [[Domyx]] that [[The Carrot Cake]] was powered by [[Penumbra]] and is a maze of illusions and arcane traps. [[Vizier Jade]] sent [[The Tyrant]] to find it; the Tyrant never returned.
-- A fierce storm strikes as the party approaches the coast of [[Broy]]. Two titans appear: [[Farron Acathian II]], a cloud titan, and [[Zohai Lapis]], a female frost titan.
-- Farron Acathian II is a relation to [[Domyx]]'s bloodline and calls him "great nephew abomination." The titans attack the party aboard [[The Opal]], acting under orders from a higher power.
-- [[Domyx]] uses Enlarge to match the titans' size and fights Farron Acathian II. He steadies [[The Opal]] with his massive form, preventing it from capsizing.
-- The party defeats Farron Acathian II and heals both titans.
-- The titans depart peacefully heading north toward [[Thalasia]], the continent where Domyx's people live. Farron Acathian II gives Domyx a map showing a path through hills into the titan homeland.
-- The party docks [[The Opal]] near the coast of [[Broy]]. [[Kerben]] stays behind to guard the ship.
-- The remaining party members disembark and cross a waterway using a wrecked boat as a bridge.
-- They encounter a human and tiefling woman surrounded by [[Oni]] demons on slick stone. The human shouts to his wife "stay back, I will protect you." [[Vokenar]] intervenes to protect the civilians, and combat begins.
+- Aboard [[The Opal]], [[Ceril]] locates [[Tome Keeper's Pyramid]] through Commune with Nature. The party has a lead on the unnamed [[Arcanoloth]] holding the [[Tome of Satariel]].
+- [[Vokenar]]'s Legend Lore reveals that the tome was created from 666 murdered wizards' souls, captures further souls, and returns to hell if destroyed in the material world. The party postpones the dangerous confrontation to seek [[Obould]] in [[Broy]].
+- During [[Domyx]]'s night watch, [[Theo Harvey]] describes [[The Carrot Cake]] as a Penumbra-powered maze of illusions and traps dating from before the Cataclysm. He says [[Vizier Jade]] sent [[The Tyrant]] there and it never returned.
+- [[Farron Acathian II]] and [[Zohai Lapis]] attack The Opal amid a storm. Farron Acathian II identifies Domyx as his great-nephew and condemns his descent; the Titans act under an outside power's orders.
+- Domyx grows to Titan size with Red Caesar's help. Farron Acathian II boards and nearly capsizes the ship, throwing [[Kerben]] overboard; Domyx steadies the vessel and removes the attacker.
+- The party defeats both Titans, carries them onto exposed rock, and heals them. They depart north after giving Domyx a map toward the Titan homeland and surrendering mithril, without an established end to their compulsion.
+- Kerben hides The Opal near Broy's cliffs and remains to protect it. Ceril, Domyx, [[Red Caesar]], and Vokenar go ashore.
+- At a wrecked ship bridging a waterway, the four encounter a tiefling husband and human wife surrounded by [[Oni]]. Vokenar protects the couple with holy fire, and the party begins fighting the imperial sentries.
 
 ### Chunk 0001
 
-- The party defeats the oni near the coast. The oni regenerate but disintegrate into black ash when killed.
-- The saved civilians are [[Trent Indorra]] and [[Ebbie Indorra]] from [[Southport]]. They seek a cure for [[Mana Sickness]], a contagious plague spreading through Southport from the [[Mana Sea]]. The correct cure requires [[Deep Roses]] — herbs growing exclusively underwater in the Mana Sea.
-- Trent Indorra and Ebbie Indorra guide the party through winding stairs into an industrial steel town with whirring gears, copper electrical cables, and automated magic-powered devices.
-- [[Oni]] sentries guard the approach, some invisible. [[Vokenar]] uses scouting magic to find a safe route and discover [[Naomi Ue]]'s dive bar.
-- Naomi Ue operates as an underground fixer, absolving criminal records through magically stamped documents in coordination with an armored elf government associate.
-- The party pays Naomi Ue 10 pounds of mithril to clear their automated oni warrants.
-- [[Vanzia Vynnfae]] — who escaped [[Brimbolyn]] with [[Ceril]] decades earlier — is reunited with Ceril. She now operates alongside Naomi Ue in the [[Broyish Capital]].
-- Vanzia Vynnfae confirms [[Obould]] is held by [[Vizier Jade]] as prisoner of war and leverage against [[The League of New Stark]]. She offers to lead the party to Obould but warns Vizier Jade must be confronted first.
-- The party learns the capital has magic restrictions: permanent dead magic zones in hotels and fields suppressing spells below 7th level. Spell scrolls are contraband.
-- [[Red Caesar]] receives citizenship papers and a teleport circle scriptum back to [[Brimbolyn]]. At the [[Dawn Market]], he meets [[Qian Hu]], an ancient-world survivor who recognizes him as a member of [[Heaven's Bulb]].
-- The party explores the diverse Dawn Market and considers outfitting [[The Opal]] with cannons.
-- The party long-rests in the [[Broyish Capital]].
+- The party kills the three Oni, which regenerate before dissolving into ash. Vokenar consumes the Brawny Bodak potion to help break an enchanted sleep holding Domyx; Red Caesar uses his newly demonstrated Bigby's Hand.
+- [[Trent Indorra]] and [[Ebbie Indorra]] explain that they stole the wrong herbs while seeking medicine for their children in [[Southport]]. [[Mana Sickness]] is spreading there, and [[Deep Roses]] growing underwater are the needed remedy.
+- Vokenar offers help after the urgent business in Broy. Red Caesar resists entering a plague town, while Ceril proposes collecting medicine and helping the couple find transport. Ebbie Indorra gives Ceril a sapphire earring.
+- The Indorras guide the party to an industrial settlement, then head toward The Opal with a message for Kerben. Vokenar scouts past visible and invisible Oni using an Arcane Eye and leads the party to [[Naomi Ue]]'s tavern.
+- Naomi Ue explains the automatic warrants generated by Oni and the restrictions on magical access. The party pays ten pounds of mithril to clear its arrest orders.
+- [[Vanzia Vynnfae]] stamps the paperwork and recognizes Ceril, her old escape companion. She favors the Empire as protection against renewed elven tyranny and confirms Obould is Vizier Jade's prisoner and leverage against [[The League of New Stark]].
+- Vanzia Vynnfae's supposed oath to report their confidence is revealed as a joke. She offers help approaching Obould, arranges Red Caesar's citizenship, and gives him a Broyish teleportation circle scriptum.
+- The party enters the [[Broyish Capital]] and rests overnight near the [[Dawn Market]], learning of dead magic zones and fields suppressing ordinary spellcasting.
+- Morning scenes show divination surveillance, discretionary handling of a child's theft, Oni watch changes, and public news of the imperial war. The market's population includes several peoples beyond humans.
+- Vokenar negotiates cannon installation for The Opal. Red Caesar meets [[Qian Hu]], who recognizes his connection to [[Heaven's Bulb]] and claims an ancient soul preserved through seventeen forms; no purchase is made from him.
 
 ### Chunk 0002
 
-- The party enters the imperial palace and is intercepted by [[Fharan]], who verifies their identities before granting audience with the imperial high court.
-- The party meets [[Vizier Jade]] in her chamber. Vizier Jade reads the party's thoughts directly and catches [[Red Caesar]]'s attempted deception about penumbra synthesis.
-- [[Vizier Jade]] demands fifteen pieces of [[Penumbra]] for [[Obould]]'s freedom — the same deal made with [[The League of New Stark]].
-- [[Vizier Jade]] brings Obould before the party encased in a resilient sphere. He is alive but humiliated; Vizier Jade forces him to dance as entertainment before he warns the party not to give her penumbra.
-- [[Vizier Jade]] reveals [[Emperor Shen]] is [[Domyx]]'s grandfather, confirmed by matching sky-colored palms. Emperor Shen is the sky-toucher [[Sigil]] named as the party's greatest enemy.
-- Emperor Shen reveals he was the first of his bloodline to touch the sky and tried to destroy it using [[Starfall]]. His goal is to kill the gods. He falls unconscious after speaking.
-- [[Vizier Jade]] reveals [[The League of New Stark]] has been giving her penumbra, extending Obould's stay of execution to three months.
-- The party returns to [[The Opal]]. [[Theo Harvey]] has vanished from his cage in the brig.
+- Vokenar completes the mithril payment for cannons on both sides of The Opal. The ship needs a master gunner and powder monkey; Kerben briefly visits the market and confirms the Indorras are safe aboard.
+- [[Fharan]] screens the four visitors at the palace, reads Red Caesar's thoughts, and admits them to [[Vizier Jade]] and [[Emperor Shen]].
+- Vizier Jade demands Penumbra to fuel [[Starfall]]. Red Caesar bluffs that it can be manufactured from water, but her mind-reading defeats the offer; no working process or sample is established.
+- The party demands proof of life. Vizier Jade produces Obould, gaunt and manacled within a sphere, and humiliates him with forced dancing.
+- Vizier Jade identifies Emperor Shen as Domyx's grandfather. Matching sky-colored palms connect him to the earlier sky-toucher warned of by [[Ulrich Fjoller]] and [[Sigil]].
+- Obould warns the party to surrender no Penumbra. His mouth seals shut before he can explain its purpose, and he is returned to captivity.
+- Vizier Jade sets the release price at fifteen pieces, with individual contributions buying more time. The party gives her nothing.
+- Emperor Shen admits responsibility for trying to destroy the sky and declares his intention to kill the gods. Vizier Jade justifies the cause as ending divine control; Emperor Shen predicts his followers' survival, then falls unconscious.
+- Vizier Jade allows the party to leave and reveals that further League deliveries have extended Obould's reprieve to three months.
+- The party considers seeking Starfall information in Broy and visiting Domyx's homeland. Back aboard The Opal that night, Vokenar discovers Theo Harvey's cage empty; the circumstances remain unknown.
 
 ## Session 024 — 2026-04-26
 
 ### Chunk 0000
 
-- [[Kerben]], serving as acting captain of [[The Opal]], secretly freed [[Theo Harvey]] in exchange for the [[Gheister]] and information about [[The Carrot Cake]].
-- Theo revealed that [[Jack Harvey]] collected [[Penumbra]] shards when the sky first broke and hid them within The Carrot Cake as a safeguard. The Carrot Cake exists as a demi-plane accessible only from the first day of the fifth moon through the last day of the ninth moon.
-- Theo provided a map showing The Carrot Cake's location on the rear side of the central mountain of [[Thalasia]].
-- Kerben arranged the escape by giving [[Mobley]] a sedative-laced carrot tea recipe, dulling the crew during their evening in the mess hall. He staged the brig to look like a violent escape.
-- Theo boarded the [[Gheister]] under cover of fog and darkness, departing without revealing his destination.
-- [[Domyx]] was the first to discover the empty brig, finding pry marks and tooth marks on the wooden posts. [[Raxxy]] was found delirious from the sedated carrot tea.
-- Domyx discovered the map and note Theo had left behind.
-- [[Ceril]] and [[Vokenar]] were drawn into a shared vision of [[Aeris]]'s mortal body, trapped at the center of the [[Starfall]] device.
-- Aeris revealed she had been imprisoned for sixty to eighty years by a man who reached up and touched her, understood to be [[Emperor Shen]]. He broke her into pieces so no one else could have her power.
-- Aeris explained that the Starfall generates a fusion of all elements — everything required to rebuild the world in a single stream. [[Penumbra]] pieces serve as additional fuel.
-- Aeris confirmed that repairing the sky will restore her divinity and potentially save her mortal body. She warned the party not to underestimate her captor.
-- Ceril cast Plant Growth to grow food for Aeris; Vokenar cast Continual Flame to leave her a source of light.
-- The party discovered the [[Gheister]] was missing alongside Theo.
-- [[Domyx]] explored the [[Broyish Capital]] and encountered [[Fharan]], who explained the Empire's diversity policy and revealed a broader titan folk diaspora.
-- [[Red Caesar]] expressed skepticism about Theo's The Carrot Cake map, questioning whether Theo had bluffed about Penumbra being there.
-- The party planned to head north to [[Thalasia]] to visit Domyx's people (eight-day journey), then swing through southern waters for resources before The Carrot Cake became accessible in 31 days.
+- [[Kerben]] carries [[Shark's Edge]], a magical falchion that reveals the temperature of visible water, and develops the corrosive preparation from black dragon acid.
+- A flashback explains [[Theo Harvey]]'s departure while the others are ashore in Broy. Kerben struggles with acting command and secretly agrees to trade freedom and the [[Gheister]] for [[The Carrot Cake]] intelligence.
+- Theo Harvey says [[Jack Harvey]] collected [[Penumbra]] after the sky broke and secured it in the park. His stolen notes describe a demi-plane accessible from the first day of the fifth moon through the end of the ninth.
+- Kerben gives [[Mobley]] the carrot tea recipe, using its ordinary intoxicating effects without added sedatives, and arranges a diversion for [[Yalet Mora]]. He stages the broken brig and lets Theo Harvey leave through darkness and fog, with a map left behind.
+- During rest after the palace audience, [[Ceril]] and [[Vokenar]] encounter [[Aeris]]'s mortal seed trapped within [[Starfall]] amid silver dust and a starless sky. The location is somewhere on Stark but remains unknown.
+- Aeris describes her capture by a sky-toucher, her aging and weakness, and the continued divine presence reaching through the sky. Its repair aided her contact, but her captor tightened her bonds afterward.
+- Aeris explains Starfall's fusion of the four elements and its use of her power and Penumbra as fuel. She believes repairing the sky may restore her and cannot resolve the effects or loyalties of those pursuing the Demi-Spell.
+- Ceril grows fruit and grain around the ring; Vokenar leaves a Continual Flame. Aeris warns of her captor's strength before their return.
+- An earlier scene follows [[Domyx]] in the [[Broyish Capital]]. [[Fharan]] describes the Titanfolk diaspora and imperial opportunity tied to allegiance, while acknowledging the higher status of humans.
+- Before the Aeris encounter, Domyx finds the brig broken and Raxxy intoxicated by the tea. [[Raxxy]] finds the map and note; the party later learns the Gheister is missing. Kerben keeps the arrangement secret.
+- The party questions Theo Harvey's claims and learns there are thirty-one days until the park opens. It plans a northern journey and later southern circuit, while considering how to address the League's Penumbra payments.
 
 ### Chunk 0001
 
-- The party reviewed available quests and committed to a route north toward [[Thalasia]] and beyond, with optional stops at [[Cutlass Cray]], [[The White Drake]], and other locations.
-- [[Kerben]] used [[Shark's Edge]] to stab the map, officially confirming the route. The falchion's water-temperature perception would guide navigation.
-- [[Red Caesar]] sequestered himself to work on manufacturing a fake [[Penumbra]] as a bargaining chip against [[Vizier Jade]].
-- [[The Opal]] set sail north, significantly faster with its upgraded bulbous bow and hardened sails. The ship passed through the strait between the elf continent and the [[Broy]] continent, navigating busy waters with merchant and imperial traffic.
-- After six days, the party reached the frozen northern straits near [[Thalasia]]. [[Kerben]] used [[Shark's Edge]] to detect warm water currents and weave the ship through weaker ice, expediting the journey.
-- On the seventh day, an aurora borealis shimmered across the heavens. [[Domyx]] reflected on his earlier journey across these same freezing waters that had forged his physical strength.
-- [[Vokenar]] cast Water Walk so the party could disembark without bringing the ship too close to shore, sparing [[The Opal]] further ice damage.
-- A [[Rimefire Hydra]] — a massive eight-headed frost creature — burst through the ice on the port side, awakened from decades-long hibernation by the ship's disturbance. The hydra's body was armored with ice permafrost over dragon-like scales.
-- The party defeated the hydra in a ship-side battle. [[Kerben]]'s acid poison prevented head regrowth, [[Brim the Bullywog]]'s cannon fire removed two heads, [[Ceril]]'s Moonbeam and healing kept the party alive, [[Domyx]] held the frontline, and [[Vokenar]] finished the creature with a holy fireball.
-- The hydra rammed [[The Opal]] during the fight, damaging the hull. The battle validated the ship's new cannons and reinforced bow.
+- The party commits to visiting Domyx's homeland first, then [[The White Drake]] and possible southern leads. It postpones the tome's keeper and retains the Indorras' Southport obligation.
+- [[Red Caesar]] teleports to The White Drake to investigate possible deliveries and work on a false Penumbra for bargaining. He does not accompany the northern expedition.
+- [[The Opal]] sails north through busy elven-imperial waters without interception. Its strengthened bow breaks ice, and Kerben uses Shark's Edge to identify warmer passages.
+- The aurora prompts Domyx's memories of crossing the frozen straits on foot and by swimming. Vokenar prepares Water Walk to spare the ship a closer approach.
+- A [[Rimefire Hydra]] rises from the disturbed ice and attacks. Regrowing heads threaten to multiply the danger; Domyx bears its assault while Ceril and Vokenar sustain him.
+- The hydra rams the ship despite Raxxy's steering. [[Brim the Bullywog]] uses the new cannons, while Kerben's black dragon acid stops regeneration.
+- Vokenar destroys the hydra with holy fire, leaving the ship damaged but usable and a celestial defender available for the land journey.
 
 ### Chunk 0002
 
-- The party trekked into the Arctic Plains near [[Thalasia]]. [[Kerben]] and [[Domyx]] led as survivalists, tracking warm-blooded creatures and navigating the bitterly cold terrain. [[Ceril]] wild-shaped into a ram to resist the cold.
-- [[Kerben]], scouting ahead, discovered the [[Tatzelwurm]] — a unique white dragon variant that flew and surveyed its territory. The dragon commanded the surrounding terrain, causing blizzards and avalanches. Kerben initiated an ambush using Hunter's Mark and wyvern poison.
-- The party defeated the Tatzelwurm in a swift engagement. [[Domyx]] knocked the dragon prone with hammer strikes; [[Ceril]] summoned a bestial spirit bird and healed Kerben after the dragon's frost breath. The dragon's death calmed the extreme cold in the region.
-- Kerben determined the dragon kept no traditional horde. He used the dragon's scales and darkwood bark to craft [[Tatzelwurm Gizzard Juice]], a one-use white dragon poison. The dragon's blood stained a nearby river red.
-- The party followed the blood-stained river into Titanfolk territory. A [[Remorhaz]] — a huge, heat-exuding creature — surged toward them from a woodland. [[Ceril]] cast Moonbeam on the creature and wild-shaped into his dragon form, discovering it now granted flight. [[Domyx]] hooked himself onto the Remorhaz's head with his [[Iklwa Isondo]]. [[Vokenar]] cast Wall of Radiance around himself and Kerben. The Remorhaz grappled Domyx in its jaws, then swallowed him whole.
+- Raxxy takes The Opal farther from shore. Ceril heals Domyx, and the four cross toward the Arctic Plains while Kerben's companions remain aboard.
+- Kerben tracks caribou with Locate Animals or Plants, Domyx contributes survival knowledge, and Ceril becomes a ram. Bitter cold weakens the travelers despite their precautions.
+- Kerben finds the [[Tatzelwurm]] feeding, signals Domyx to stop through Alarm, then initiates an ambush with poisoned shots.
+- The party defeats the unique white dragon, whose influence intensified the surrounding blizzards and avalanches. Ceril's bestial spirit delivers the final blow, and the weather eases.
+- Vokenar uses [[Sunset's Solace]] to accelerate the party's recovery. Kerben crafts [[Tatzelwurm Gizzard Juice]] from the dragon's remains and darkwood bark, and packs meat for the ship.
+- The party follows a river stained with the dragon's blood uphill toward Titanfolk territory. A [[Remorhaz]] emerges and attacks.
+- Ceril uses moonlight and discovers flight in his dragon constellation. Domyx hooks himself onto the predator with [[Iklwa Isondo]], while Vokenar protects himself and Kerben with radiant fire.
+- The Remorhaz catches Domyx in its jaws; the fight continues into the next chunk.
 
 ### Chunk 0003
 
-- [[Domyx]] was swallowed by the [[Remorhaz]] and trapped inside. [[Kerben]] fired into the Remorhaz's side, punching a rescue hole. [[Vokenar]] destroyed the creature with a radiant blast. [[Kerben]] cut into the corpse to extract Domyx's unconscious body; [[Ceril]] healed him back to consciousness. Kerben harvested the Remorhaz's heat gland for warmth.
-- The party climbed from snow into grassy hills, orchards, and farmland — the magic of the titan realm taking hold. They reached the last place [[Ulrich Fjoller]] had been seen before his capture. At this altitude, the sky appeared as a flat plate separating [[Stark]] from [[Arkadia]]. A golden palace — [[Acathian Manor]] — drew heavy titan traffic.
-- [[Domyx]] entered [[Acathian Manor]] alone while the rest of the party stayed hidden, as outsiders would be endangered among the xenophobic titan folk. [[Vokenar]] detected no [[Penumbra]] nearby; the sky appeared intact from this distance.
-- Inside the manor, [[Domyx]] found [[Charlotta Fjoller]] (Ulrich's sister), who warned him against being there. Domyx revealed the truth about [[Emperor Shen]] breaking the sky with [[Starfall]]. [[Lorelai Lapis-Acathian]] emerged from hiding, having overheard everything. She confirmed she was pregnant and that Ulrich was imprisoned in the [[Prison of Frost]]. She begged to flee with Ulrich's child.
-- [[Ceril]]'s magma owl familiar scouted the area and reported a large cavern with heavy security and food trays being delivered inside — likely the Prison of Frost.
-- [[Domyx]] confronted his father [[Domyx IV]] at the manor's exterior. Domyx IV offered to cover up Domyx's return and send him back to Stark. When Domyx refused to forget the truth about their grandfather and discarded his Akathian medallion, Domyx IV disowned him: "You are an Akathian no more. You are my son no more." Domyx permanently renounced his family name.
-- [[Lorelai Lapis-Acathian]] introduced herself to the party and apologized for dragging them into the situation. With her information, the party knew Ulrich was held in the Prison of Frost.
+- The Remorhaz swallows Domyx, whose enlargement and attacks cannot free him. Kerben shoots a hole into the body, but Domyx loses consciousness inside.
+- Vokenar destroys the creature with radiant light. Kerben cuts into the corpse and exposes Domyx's arm; Ceril heals him before he is pulled fully free.
+- Kerben takes the fading heat gland for warmth, and the party continues uphill after healing.
+- Snow gives way to green hills and orchards in the Titan realm. The party passes the site of [[Ulrich Fjoller]]'s warning and approaches [[Acathian Manor]] beneath the apparently intact sky.
+- Domyx enters alone while the others stay concealed. Vokenar detects no Penumbra within reach, and Ceril's familiar reports a suspicious guarded cavern receiving food.
+- [[Charlotta Fjoller]] explains Domyx IV's strict enforcement and Ulrich Fjoller's warning about the clan's hidden history. Domyx tells her of [[Emperor Shen]] and Starfall.
+- [[Lorelai Lapis-Acathian]] emerges from hiding, confirms her pregnancy remains secret, and asks to flee with Ulrich Fjoller. She gives directions to the [[Prison of Frost]].
+- [[Domyx IV]] initially welcomes his son, then offers to conceal the unlawful return. He acknowledges his father's crimes while demanding that the history remain suppressed and blaming Ulrich Fjoller for exposing it.
+- Domyx refuses to forget, discards his clan medallion, and is disowned. He rejoins the party using only Domyx, with Lorelai Lapis-Acathian ready to guide the rescue.
 
 ### Chunk 0004
 
-- The party reached the [[Prison of Frost]], where [[Ulrich Fjoller]] was trapped behind a plane of pure magical energy — an abomination to titan folk who traditionally shun magic.
-- [[Ceril]] dispelled the barrier with ease, freeing Ulrich. Ulrich greeted [[Domyx]] and [[Lorelai Lapis-Acathian]] with relief.
-- The party escaped the peaks of the Titans swiftly and returned to [[The Opal]].
-- [[Ulrich Fjoller]] and [[Lorelai Lapis-Acathian]] joined [[The Opal]] as new crew members. The ship now carried two couples, one of whom was pregnant.
+- The party reaches the Prison of Frost. Ulrich Fjoller is held behind a magical barrier, which he regards as contrary to his people's traditional rejection of dependence on sorcery.
+- Ceril dispels the barrier and frees him. The party avoids the nearby prison keeper and leaves without another confrontation.
+- Ulrich Fjoller and Lorelai Lapis-Acathian return safely to The Opal and join its company. Midwife and nursery arrangements are discussed but not completed.
+- The ship resumes its route south toward The White Drake, where Red Caesar awaits; the northern family rescue is complete.
 
 ## Session 025 — 2026-05-03
 
 ### Chunk 0000
 
-- [[Red Caesar]] traveled to [[The Academy]] in [[Brimbolyn]] with [[Keys Caeradel]] and [[Illidrielle Gandara]] to synthesize [[Antumbra]].
-- Using the "Caesarean method," Red Caesar compressed [[Akasha]] through magical pressure using Otiluke's Resilient Sphere and inverted enlarge/reduce spells. After multiple iterations compressing an entire lake roughly a thousand-fold, the process produced a palm-sized sphere of jet-black synthesized [[Penumbra]].
-- [[Illidrielle Gandara]] and [[Keys Caeradel]] poisoned the Antumbra using a method concealed by illusion, ensuring the poison would not infect their own samples.
-- [[Kerben]] took on the role of acting captain of [[The Opal]] during Red Caesar's absence.
-- The party recruited [[Trent Indorra]] and [[Ebbie Indorra]] aboard — a couple fleeing the [[Mana Sickness]] in [[Southport]]. Trent Indorra was assigned as master gunner.
-- [[Vokenar]] discovered a hidden [[Penumbra]] stash aboard [[The White Drake]] in the ship's hold and proposed planting the Antumbra among it.
-- [[Vokenar]] consulted [[Sigil]], learned [[Obould]] was in less danger than he appeared, and departed [[The Opal]] to resume training with [[Sigil]] and [[Crone]].
-- [[Ceril]] contacted [[Aeris]] through a divine summoning. Aeris confirmed that sending the Antumbra toward [[Starfall]] would not risk the piece of herself trapped within the device.
-- [[Kerben]] sneaked aboard [[The White Drake]] while docked in [[Broy]], using invisibility and lockpicking. With [[Zulu]] as a distraction, he pitched the Antumbra among the League's stockpiled Penumbra stones.
-- [[Damien Ouranous]] restrained Zulu during the diversion, then required Kerben to help clean the raided meat stores.
-- [[Ceril]] and [[Domyx]] visited the [[Temple of Sigil]] on [[Otyugh Isle]], discovering 12 petrified priests and 19 petrified Kuo-Toa who had been turned by a cockatrice approximately 70 years earlier.
-- [[Ceril]] cast Greater Restoration on [[Father Warrick]], the highest-ranking priest, de-petrifying him first. Father Warrick then used his own abjuration abilities to de-petrify several more priests.
-- The freed priests planned to return to [[Southport]] to help combat the [[Mana Sickness]] plague.
-- [[Rochella Golf]], Trent Indorra, and Ebbie Indorra disembarked near Southport to pursue their respective goals.
+- During the northern expedition and return voyage, [[Red Caesar]] worked with [[Keys Caeradel]] and [[Illidrielle Gandara]] at [[The Academy]]. Their Caesarean method compressed [[Akasha]] into genuine [[Penumbra]]; a separate altered sample became [[Antumbra]], intended to destabilize [[Starfall]] when consumed.
+- Aboard [[The Opal]], [[Kerben]] appointed [[Trent Indorra]] master gunner, arranged a medic's role for [[Ebbie Indorra]], and gave [[Ulrich Fjoller]] recordkeeping work. [[Lorelai Lapis-Acathian]] sought useful duties; a powder monkey was still needed.
+- Reunited at [[The White Drake]], Kerben reported [[Theo Harvey]]'s escape to [[David Harvey]] without revealing his private bargain. David Harvey intended to reclaim the Harengon warrens now that Theo Harvey had left.
+- [[Vokenar]] and [[Ceril]] located stored Penumbra aboard the White Drake. [[Sigil]] said [[Obould]] was in less danger than appearances suggested; Vokenar left for training after [[Crone]] warned him about the coming battle.
+- [[Aeris]] told Ceril that intercepting a delivery would take too long, that Antumbra would not harm her captive seed, and that the party should pursue Red Caesar's plan. Obould was alive.
+- Red Caesar made Kerben invisible. [[Domyx]] distracted the mess hall while [[Zulu]] raided a separate meat store; Kerben planted Antumbra beside the hold's Penumbra. [[Damien Ouranous]] restrained Zulu and required cleanup. Delivery to the Empire and use in Starfall were not witnessed.
+- Five days later, Ceril restored [[Father Warrick]] at the [[Temple of Sigil]] on [[Otyugh Isle]]. Father Warrick had survived [[The Cataclysm]] before his decades of petrification and freed several more priests, intending later to restore the Kuo-Toa gradually.
+- The freed clergy, the Indorras, and [[Rochella Golf]] departed toward [[Southport]] to help or seek home. Trent Indorra proposed teaching Ulrich Fjoller gunner's work. Southport's plague remained unresolved.
+- The party rested and gained new abilities, including Ceril's plant travel and Sunbeam, Domyx's greater endurance, and Red Caesar's potion-producing cauldron.
 
 ### Chunk 0001
 
-- The party sails south along the archipelago, where [[Red Caesar]] recognizes wreckage from the ruined world he glimpsed leaving [[Heaven's Bulb]].
-- The party dives underwater and defeats the [[Bane Siren]] at a confluence between two sharp rocks. [[Ceril]] collects [[Deep Roses]] from the underwater garden.
-- A drowned sailor victim with a lapis lazuli locket is recovered from the siren's garden.
-- Six days later, the party reaches the [[Southern Archipelago Castle]], former residence of [[Witness]].
-- [[Red Caesar]] uses Speak with Dead on a corpse, learning that [[PAXO]] — a wicked construct — chased Witness away and massacred the castle's human inhabitants. The corpse reveals [[Heaven's Bulb]] tried to help but was too weak.
-- The party clears the castle's black pollen, finding 50 pounds of mithril and one half of the [[Chart of the Witness]] in the inner sanctum.
-- [[Kerben]] finds a [[Potion of Fluid Adamantite]].
-- The party is ambushed by [[PAXO]], a warforged construct with heat beam attacks and a reflective faceplate. They defeat it in close-quarters combat.
-- [[Zulu]] leads the party to a hidden treasury hoard of 100 pounds of [[Esperanto|Esperantan]] coins on exit.
-- The party continues toward [[Xarag's Island]], where the [[Xarag]] holds treasure [[The Opal]] once carried.
-- A flashback shows [[Master Lee]] expressing pride in a younger [[Red Caesar]] inside [[Heaven's Bulb]]. A crack appears in the Bulb's fake sky, revealing real sunlight.
+- Red Caesar fashioned a gilded ladle from [[Yalet Aurum]]'s gold and prepared a Contingency likeness. The four companions sailed south while Vokenar remained at training.
+- At the League's siren lead, Red Caesar supplied water-breathing potions and Ceril collected [[Deep Roses]]. Kerben's shark restrained the [[Bane Siren]]; Domyx was charmed without attacking his allies, and Kerben killed the creature with Urumi. Ceril recovered a dead sailor's lapis lazuli locket.
+- Six days later, the party entered the [[Southern Archipelago Castle]], [[Witness]]'s former refuge. Red Caesar questioned a corpse through [[Beryzoz's Teeth]], learning that a murderous construct had expelled Witness and that [[Heaven's Bulb]] had tried but failed to help the human flood refugees. He withheld the latter testimony from his companions.
+- Kerben found fifty pounds of mithril. Red Caesar cleared harmful black pollen, and the group recovered the incomplete [[Chart of the Witness]]. Kerben offered the [[Potion of Fluid Adamantite]] to Red Caesar, who accepted it.
+- [[PAXO]] ambushed the party with heat beams and slowing magic. Ceril's Sunbeam and Red Caesar's Bigby's Hand helped restrain it; Kerben pried off its faceplate as the hand crushed its body.
+- The party stored PAXO's electrically changing alloy faceplate. Zulu found one hundred pounds of [[Esperanto]] coins in a side room. PAXO's origin and Witness's whereabouts remained unknown.
+- A three-day voyage brought the Opal to [[Xarag's Island]] as [[The Carrot Cake]]'s predicted opening date arrived. The party intended to recover the treasure [[Xarag]] had taken from the ship.
+- A flashback showed [[Master Lee]] affirming young Red Caesar's determination to understand a potentially broken world inside Heaven's Bulb. A widening crack in its imitation sky admitted real sunlight.
 
 ## Session 026 — 2026-05-17
 
 ### Chunk 0000
 
-- [[Vokenar]] resumes training with [[Crone]] and [[Sigil]] between worlds, fighting demons and sparring with Crone.
-- Vokenar strikes Crone with his Akasha blade, drawing pearlescent blood — but the wound comes from elsewhere. Crone is rapidly aging and weakening.
-- [[Vokenar]] scrys down to [[Broy]] and witnesses [[Emperor Shen]] loading [[Penumbra]] into [[Starfall]] and firing a beam at the moon.
-- The moon is shattered by the Starfall beam. An apple-core crescent remains. The shot was aimed over [[Brimbolyn]] — a deliberate attack on the elves.
-- [[Kerben]] witnesses the streak from the helm of [[The Opal]]. [[Ceril]] recognizes the attack as the same weapon that caused [[The Cataclysm]].
-- Crone's dying command to Vokenar: focus on restoring [[Aeris]], not the moon. If Aeris is restored she could create a new moon.
-- [[The Carrot Cake]] demi-plane opens on the first day of the fifth moon.
-- The party sails to [[Xarag's Island]] and engages the [[Xarag]] in combat.
+- An earlier scene followed [[Vokenar]] into training with [[Crone]] and [[Sigil]] between worlds. He fought demons and sparred with Crone while the sisters debated martial preparation and ethics.
+- Vokenar saw [[Aeris]] resting and recovering. Sigil said the Penumbra returned from [[Castle Kaedon]] had enabled her to begin healing herself; Crone warned against delay.
+- Crone suddenly bled and aged during sparring. Sigil said Vokenar had not caused the injury. His scrying showed [[Emperor Shen]] feeding another piece of [[Penumbra]] into [[Starfall]] and firing toward the moon.
+- [[Kerben]] saw the elemental-colored beam from [[The Opal]]. [[Ceril]] recognized the weapon's effect; a broken crescent remained. The strike above [[Brimbolyn]] threatened the elves with falling debris, while waves, altered tides, and effects on time were assessed.
+- Sigil could not heal Crone's injury. Crone told Vokenar to focus on restoring Aeris; he returned to the assembled crew and relayed the instruction. He left Crone critically wounded in Sigil's care.
+- [[Domyx]] supported justice against his grandfather, while [[Red Caesar]] emphasized restoring the sky as the primary mission. Ceril suspected Sigil might be targeted next.
+- [[The Carrot Cake]]'s predicted opening date had arrived. The party chose nearby errands first to avoid leading possible observers to its hidden route.
+- Ceril arranged to check on the elves. Kerben, Red Caesar, Domyx, and Vokenar drank acid-resistance potions and tracked [[Xarag]] on [[Xarag's Island]].
+- Kerben's opening shot wounded Xarag badly. Vokenar conjured Crone's sword, but the dragon's acid disrupted it as the battle continued.
 
 ### Chunk 0001
 
-- The party slays the prologue [[Xarag]], revealed to be named **Xarag**. The dragon dies in the algal bloom.
-- [[Kerben]] salvages the dragon corpse, using scales and acid gizzard to craft two permanent potions of acid resistance.
-- [[Domyx]] discovers a cliff-face hollow containing the dragon's hoard. The party recovers 200 pounds of gold, five units of mithril, bags of gems, the [[Orkland Pin of Courage]], and [[Obould's Wedding Band]].
-- Returning to [[The Opal]], the party finds three [[Broyish Empire]] [[Gun Balloon]]s attacking the ship. [[Yalet Mora]] mans the helm, [[Ulrich Fjoller]] the cannons, and [[Brim the Bullywog]] the arbalest.
-- Imperial warriors board the ship. The party defeats the boarders in a major deck battle and captures one gun balloon as a usable aerial vessel after repairs.
-- [[Vokenar]] charms one balloon pilot into flying north; [[Red Caesar]] brings another balloon down using Otiluke's Resilient Sphere.
-- [[Yalet Mora]] reminds [[Red Caesar]] of their plan to kill [[Yalet Aurum]].
-- The party takes a long rest and heads toward a nearby island to deal with trolls for [[The League of New Stark]]. [[Vokenar]] is pulled aside by [[Sigil]] for private counsel about the elves and Crone's fate.
+- Vokenar healed himself and renewed the sword. Kerben killed Xarag with a rifle shot; the dragon fell into the glowing algal water.
+- Kerben used dragon scales and acid-gizzard material to stabilize two remaining acid-resistance potions. Domyx found the cliff hollow containing the hoard.
+- The party recovered two hundred pounds of gold, five units of mithril, gems, the [[Orkland Pin of Courage]], and [[Obould's Wedding Band]], still boxed. The goods went into the shared hold.
+- Three imperial [[Gun Balloon]]s attacked the Opal while the explorers were away. [[Yalet Mora]] steered, [[Ulrich Fjoller]] fired the cannons, and [[Brim the Bullywog]] used the arbalest.
+- The returning party fought boarders. Vokenar's fire brought down one balloon, and his Geas compelled another pilot to fly north. Red Caesar's expanding resilient sphere displaced a third craft's crew and brought it down against the Opal.
+- The party killed the remaining boarders and captured the damaged balloon. It became usable after preliminary work; it and the Opal still required full repairs at port.
+- Yalet Mora reminded Red Caesar of his promise concerning [[Yalet Aurum]]. The party rested and proceeded toward the League's beach trolls.
+- Ceril returned from his elven visit and took Vokenar aside for divine consultation about the elves and Crone. Kerben, Domyx, and Red Caesar approached the island with [[Zulu]] and healing potions.
 
 ### Chunk 0002
 
-- The party hunts two beach trolls on a small island and kills one despite its unusual regeneration.
-- [[Red Caesar]] charms the surviving troll, [[Transel]], who reveals a mage trapped him on the island and offers an amethyst for passage.
-- The party builds Transel a raft, allowing him to leave the island.
-- The party sails toward [[Cutlass Cray]], riding a massive swell caused by the moon's destruction. [[The Opal]]'s upgrades allow it to survive the wave.
-- [[Cutlass Cray]] is intact — [[The Marid]] uses his water genie magic to deflect the catastrophic waves away from the town.
-- Transel arrives separately at [[Cutlass Cray]] and becomes the new bartender at [[The Brine & Bodak]], which he later runs.
+- Two camouflaged beach trolls attacked. Red Caesar charmed [[Transel]], who asked for passage off the island in Runic; Domyx interpreted.
+- Lightning from Red Caesar stopped the other troll's regeneration, allowing Domyx to kill him. Transel interpreted the mage's arrival as help sent by the gods, without identifying a prior captor.
+- Transel paid an amethyst. Domyx and Transel gathered wood, Kerben found bindings, and Red Caesar arranged logs with Bigby's Hand. Transel left on their raft using his brother's femur as an oar.
+- The party continued toward [[Cutlass Cray]] before the Carrot Cake. Kerben and Red Caesar guided the improved Opal head-on through enormous swells from the moon disaster.
+- Cutlass Cray was intact under [[The Marid]]'s water magic, which turned the approaching waves away.
+- Transel arrived on his raft, greeted the party, and became the new bartender at [[The Brine & Bodak]].
 
 ## Session 027 — 2026-06-07
 
 ### Chunk 0000
 
-- The party shops extensively in [[Cutlass Cray]] at [[The Wonder Hulk]] and elsewhere, upgrading gear with dragon treasure.
-- [[Kerben]] acquires [[The Ascot]], a scarf granting animal communication and animal swap-place. He also buys three feather tokens, five Pipes of Smoke Monsters, and three immovable rods.
-- [[Red Caesar]] trades for the [[Wand of Blighting Bolts]], gaining access to necrotic damage for the first time.
-- [[Vokenar]] trades lapis lazuli for the [[Moon Blade]], a warhammer forged from a fragment of [[Crone]]'s remains by [[The Church of the Thirty Lights]].
-- [[Domyx]] stocks up on protective and mobility potions before the expedition.
-- [[Ceril]] visits [[Gilder Savar]] at [[Savar Brews]]. Now a lich, his former traveling partner recognizes Ceril from their shared escape from [[Brimbolyn]], and Ceril purchases protective and emergency-use supplies.
-- [[The Opal]] is fully repaired and upgraded with a new steering mechanism and crow's nest.
-- The party confirms [[The Hideous Truth]] remains hidden in its grotto, now more overgrown.
-- After a three-day sail, the party arrives at [[The Carrot Cake]]. The entrance is a man-made lagoon with illusions recently dissipated, leading to a giant carrot entrance marked with the logo of The Carrot Cake.
-- A [[Magen]] in rabbit form — likely a construct of [[Jack Harvey]] — welcomes the party with the words "come one, come all and welcome to the 40 carats, let the dance begin."
-- Undead in tattered orange uniforms — mummies and revenants — rise from the ground and attack the party. The party defeats them; mummies retreat into the mud and revenants are killed.
+- At [[Cutlass Cray]], [[Kerben]] bought swan-boat, large-bird, and balloon feather tokens and [[The Ascot]], which supported animal communication and exchanging positions with animal companions.
+- [[Red Caesar]] bought scrolls of Rary's Telepathic Bond, Planar Binding, and Greater Invisibility, along with drying and corrosive powders, three immovable rods, and five pipes for the party. He traded his lightning wand and valuables for the [[Wand of Blighting Bolts]].
+- [[Ceril]] met his former companion [[Gilder Savar]] at [[Savar Brews]]. Gilder Savar had chosen lichdom to perfect his craft. Ceril shared news of [[Vanzia Vynnfae]] but kept his present mission private, and bought feast components and emergency supplies.
+- [[Vokenar]] established recall sanctuaries at [[The Church of the Thirty Lights]] and [[The Opal]]. He obtained the [[Moon Blade]] from the church's recovered moon fragments, kept his older blade, and bought enchanted cannonballs and healing scrolls.
+- Ceril funded a consumable ghost-ship token, and Vokenar funded the air-elemental genie engine. The Opal received repairs at port; no new powder monkey was hired.
+- [[Domyx]] checked on [[Transel]] as staff taught him bartending. [[The Marid]] described holding back the sea above Cutlass Cray with a protective dome. [[Pleasance MacLenth]] knew [[Lenth the Rugged]] from stories, leaving his fate uncertain.
+- During the three-day voyage, the party confirmed [[The Hideous Truth]] remained concealed and chose to keep its growing camouflage.
+- They reached [[The Carrot Cake]] through a recently revealed artificial lagoon and bright, overgrown approach. Ceril provided Heroes' Feast for the party and [[Zulu]].
+- [[40 Carats]]' familiar design suggested to Kerben a park deliberately repurposed as a refuge. A rabbit [[Magen]] welcomed them as orange-uniformed mummies and revenants rose to attack.
+- Vokenar turned two mummies away, while the entrance battle continued into the next chunk.
 
 ### Chunk 0001
 
-- The [[Magen]] confirms [[Penumbra]] is the power source still running [[The Carrot Cake]] midway. It provides a directory of park areas: the [[Magic Hat]] (hotel/bunker), the [[Hole Shebang]] (festival island), and other zones connected by teleport circles.
-- The party explores the midway boulevard. Trees from across Stark line the path, each fruiting with varieties that should not grow together. [[Ceril]] collects seeds.
-- A [[Cloaker]], two [[Flame Skull]]s, and [[Hooksy the Clown Automaton]] ambush the party. The cloaker summoned the others through infrasound. Hooksy is revealed to be a living creature beneath metal plating, not a true construct. The party defeats all three enemies.
-- [[Red Caesar]] salvages Hooksy's blood-covered clown mask.
-- [[Kerben]] plays the "Mind the Mimic" carnival shell game, winning gold and platinum carrot coins.
-- A haunted living tent attacks the party as they approach a large main tent.
+- The two turned mummies withdrew into the mud. Revenants temporarily paralyzed Domyx and Vokenar before the party destroyed the remaining attackers and continued without resting.
+- The Magen identified itself as one of [[Jack Harvey]]'s reproductions and described the interconnected resorts. Kerben drank carrot tea and resisted its invitation to remain; seasonal operation had reduced off-season losses.
+- The Magen inferred that [[Penumbra]] sustained the midway. The party considered the consequence of removing its power without arranging a replacement.
+- Ceril gathered fruit and seeds from trees representing old [[Stark]]. [[Vokenar]] warned of a [[Cloaker]], two [[Flame Skull]]s, and [[Hooksy the Clown Automaton]].
+- The Cloaker attached to Red Caesar and would share injuries with him. Red Caesar escaped by Misty Step; Hooksy's damaged plating revealed living flesh beneath.
+- Domyx killed both Flame Skulls and Hooksy with his Gith Shard weapon. Ceril dispelled the Cloaker's images, and Kerben killed it. The party rested, and Red Caesar kept Hooksy's mask.
+- With Red Caesar's Guidance, Kerben won gold and platinum carrot coins at Mind the Mimic. The game stand shut down after paying the rewards.
+- Kerben and Ceril recognized the [[Haunted Living Tent]]'s breathing before its ambush. Kerben fired into its supports and Ceril used Moonbeam; the confrontation continued.
 
 ### Chunk 0002
 
-- The party defeats the [[Haunted Living Tent]], a gargantuan creature that siphons victims into an extra-dimensional tea cozy house. Sustained damage from inside and out causes it to deflate and disintegrate.
-- [[Red Caesar]] and [[Kerben]] recover [[Jack Harvey's Portrait]] from inside the tent before the extra-dimensional space collapses.
-- The party enters a large courtyard with a sealed gate bearing the logo of The Carrot Cake and warding sigils. Four holes in the ground serve as portals to different park zones.
-- A [[Magen]] explains that four lamps must be lit to access [[Jack Harvey]]'s inner sanctum. It describes the four portal destinations: [[Magic Hat]], [[Hole Shebang]], [[King of the Hole]], and [[Hole on Wheels]].
-- [[Red Caesar]] impulsively jumps into the Hole Shebang portal first. The rest of the party wards the entrance, then follows.
-- [[Domyx]] finds a dead adventurer's belongings, including a [[Ranger Scroll]] for [[Kerben]].
-- The party emerges from barrels in [[City Hole]], a small cavern with barrel portals connecting to the other zones. A wireframe gate blocks the path deeper into the Hole Shebang.
+- The tent drew Kerben, Red Caesar, and Vokenar into an extra-dimensional house, then pulled Ceril inside. Animated furniture attacked them; ordinary teleportation could not cross its boundary.
+- Red Caesar enlarged Vokenar while the trapped companions broke the structure from within. Domyx climbed the tent outside and connected his cuts to their openings.
+- The house and its seated Magen disintegrated. Red Caesar and Kerben recovered [[Jack Harvey's Portrait]] before all four trapped companions returned to the courtyard.
+- A warded gate and four unlit lamps protected Jack Harvey's inner sanctum. Four portals led to [[Magic Hat]], [[Hole Shebang]], [[King of the Hole]], and [[Hole on Wheels]].
+- Red Caesar jumped into Hole Shebang first. A Magen explained the four-lamp requirement, Jack Harvey's secured hoard, the destinations, and the danger shown by earlier visitors who separated.
+- Vokenar followed Red Caesar. Kerben set an Alarm, and Domyx helped barricade the approach, finding abandoned equipment and a [[Ranger Scroll]] that he gave to Kerben.
+- The party reunited in Hole Shebang's electrically lit barrel vestibule. [[City Hole]] labeled the route back to the main courtyard; other barrels connected the remaining destinations.
+- Red Caesar learned the underlying circle markings. A folding lattice gate blocked the next area, and the companions prepared for a brief rest before exploring.
 
 ## Session 028 — 2026-06-14
 
 ### Chunk 0000
 
-- [[Red Caesar]] used Arcane Eye to scout the [[Hole Shebang]] island, revealing a subtropical island with beaches, a piano, ruined automata puppets, and a central electrical hub with a breaker switch. Red theorized the switch might activate one of the four lamps.
-- The party was ambushed by [[Roger Ribbons]], swarms of animated toys, a lightning elemental, and a [[Death Spark]]. The party defeated all enemies after a fierce battle involving paralysis, fireballs, and [[Ceril]]'s Moonbeam.
-- [[Domyx]] played the Sky High Striker carnival game, hitting nine out of ten and earning a scroll containing five spells (Expeditious Retreat through Synaptic Static).
-- [[Kerben]] played Al-Qadif's Tower of Treasures, using his last [[Tatzelwurm Gizzard Juice]] on a sniper shot to clear all bottles and win the maximum gold reward.
+- [[Red Caesar]] used Arcane Eye to trace the [[Hole Shebang]]'s coastal wiring to an arcing electrical hub. [[Ceril]] and [[Kerben]] inferred a subtropical location from its plants and wildlife.
+- The party defeated [[Roger Ribbons]], toy swarms, a [[Lightning Elemental]], and a [[Death Spark]]. Lightning restored the toys; Kerben spent a restoration scroll to free Red Caesar from paralysis and bindings.
+- After a short rest, [[Domyx]] won a five-spell scroll from the Sky High Striker; Red Caesar identified it and took custody.
+- Kerben used his last [[Tatzelwurm Gizzard Juice]] to clear Al-Qadif's Tower of Treasures and win its maximum gold prize.
 
 ### Chunk 0001
 
-- [[Domyx]] ran through the electrical arcs and flipped the breaker switch in the [[Hole Shebang]], deactivating the island's electrical traps and activating one of the four lamps needed to open [[Jack Harvey]]'s inner sanctum.
-- Flipping the switch spawned a new wave of enemies: a second [[Roger Ribbons]], more toy swarms, [[Death Spark]]s, and [[Mary Andrews]] — a lute-playing construct automaton.
-- The party defeated the second wave. [[Domyx]] resisted Mary Andrews' lute charm with a protective pendant and smashed the construct with his hammer.
-- The party was ambushed by [[Phase Cat]]s — ethereal felines native to the area — and [[Smoke Elemental]]s formed from smoldering debris.
-- [[Ceril]] wild-shaped into a chalice and cast Mass Cure Wounds, healing the entire party as grass and flowers sprang through the debris.
-- [[Red Caesar]] cast Gust of Wind against a smoke elemental, pushing it toward the ocean and dealing significant damage.
-- The party entered an interior room with a billiard table where a [[Magen]] challenged them to eight-ball pool. [[Vokenar]] played with [[Ceril]]'s cheating help but still lost.
-- [[Kerben]] played the "Smack a Bodak" whack-a-mole carnival game with [[Red Caesar]]'s Guidance, hitting all 60 bodaks and winning gold chips.
-- The party reached the southern stage area where barrels spawned another [[Mary Andrews]], death sparks, and a second [[Hooksy the Clown Automaton]].
+- Domyx ran through electrical arcs and used Cloud Jaunt to reach the breaker. Toggling it extinguished the lights and arcs, apparently diverting their energy.
+- A second Roger Ribbons, [[Mary Andrews]], toys, and Death Sparks attacked. Domyx's anti-charm pendant broke to protect him; he used [[Iklwa Isondo]] to counter the enemies' cover before the party destroyed them.
+- The party chose further exploration and fought [[Phase Cat]]s and [[Smoke Elemental]]s. Ceril's restorative magic healed those nearby and grew flowers through the debris; Red Caesar's wind dispersed the last smoke into the sea.
+- [[Vokenar]] lost an unwagered pool game to a [[Magen]] despite Ceril's help. Kerben won Smack a Bodak with Red Caesar's Guidance, adding more gold.
+- At the southern stage, another Mary Andrews, [[Hooksy the Clown Automaton]], Death Sparks, and toys ambushed the party. Red Caesar wore the salvaged Hooksy mask.
 
 ### Chunk 0002
 
-- The party defeated the final wave of enemies on the southern stage: [[Mary Andrews]], [[Hooksy the Clown Automaton]], and toy swarms. [[Domyx]]'s repeated dying and reviving via his Zealot feature unnerved Mary Andrews and helped draw its focus.
-- A dart trap animated darts that poisoned [[Domyx]] and struck [[Zulu]]. The dart game awarded the party coins.
-- The party confirmed one of four lamps was lit for [[Jack Harvey]]'s inner sanctum and decided to head to the [[Magic Hat]] next.
+- The party destroyed the stage's defenders. Domyx twice remained conscious through relentless rage, then fell unconscious; Ceril healed him after Kerben finished the toys.
+- After a short rest and further healing, animated darts attacked Domyx, Vokenar, and [[Zulu]]. The earlier feast mitigated poison, and missed shots struck balloons to earn additional gold.
+- Returning through [[City Hole]], the party confirmed one gate lamp was lit and three remained. They received a scented plush bodak souvenir and chose the [[Magic Hat]] next.
 
 ## Session 029 — 2026-06-28
 
 ### Chunk 0000
 
-- The party returned to the rotunda and confirmed the first lamp was lit. [[Kerben]] alerted them to [[Broyish Empire]] scouts (balloon in the sky) before departing with [[Ulrich Fjoller]], [[Raxxy]], and [[Zulu]] to handle the ship.
-- The party entered the [[Magic Hat]] through a top hat portal into a checkerboard-tiled area with astroturf, kiosks, and magical ponds.
-- [[Vokenar]] examined a broken fortune-teller machine containing the automaton [[Boston Golf]], who resembles [[Rochella Golf]].
-- [[Red Caesar]] won all seven rounds of a probability-based card game against a [[Magen]] dealer, earning a scroll of six divine spells for [[Vokenar]].
-- [[Ceril]] detected creatures emerging from a water feature: vampiric familiars (three living humans under vampire protection, one undead).
-- Combat erupted with vampiric familiars, then [[Flame Skull]]s and a [[Gorgon Head]] emerged from a second water feature.
-- [[Domyx]] used his [[Gith Shard Glaive]] to strike distant flame skulls. [[Red Caesar]] countered enemy magic, and [[Vokenar]] devastated the flame skulls with ice.
-- [[Ceril]] used chalice healing to keep [[Vokenar]] alive during the fight.
-- The gorgon head was defeated but burst with petrifying energy, restraining Domyx and Vokenar.
+- [[Kerben]]'s entrance alarm alerted him to [[Ulrich Fjoller]] and [[Raxxy]], who reported [[Broyish Empire]] scouts near the island. Kerben left with them and [[Zulu]] to move [[The Opal]].
+- The remaining four entered the [[Magic Hat]], collected a [[Boston Golf]] figurine resembling [[Rochella Golf]], and played cards with a [[Magen]]. [[Red Caesar]]'s strategy won a divine scroll for [[Vokenar]]; [[Ceril]] declined on moral grounds.
+- The party defeated vampire-protected human familiars and a [[Mummy]], then [[Flame Skull]]s and a [[Gorgon Head]]. Ceril's healing saved the badly injured Vokenar.
+- Red Caesar destroyed the gorgon, whose death burst began petrifying [[Domyx]] and Vokenar.
 
 ### Chunk 0001
 
-- The gorgon head petrification resolved: [[Domyx]] burst free from the stone. [[Vokenar]] used Lesser Restoration on himself.
-- The party explored the [[Magic Hat]] hotel interior — three levels, ~30 rooms, amenities including chocolate fountain and mini bar. [[Ceril]] found a purple worm hide rug with amethysts and carrot-infused tobacco. [[Vokenar]] found [[Rahmadi's Capers]] issue 4.
-- A [[Magen]] maitre d' read the party's minds and delivered personalized food during the long rest.
-- [[Kerben]] sent a message via animal messenger warning that [[Broyish Empire]] scouts may be specifically investigating The Carrot Cake.
-- [[Red Caesar]] flipped the Magic Hat lamp lighter switch, lighting the second of four lamps for [[Jack Harvey]]'s inner sanctum.
-- The party entered [[King of the Hole]] — an island arena with a wave-based combat system set up by [[Farraday]], [[Jack Harvey]]'s benefactor.
-- Five beacon lights must be activated three at a time to trigger enemy waves; four waves required, optional fifth bonus.
-- The first wave spawned [[Phase Cat]]s, a [[Gorgon Head]], a [[Flame Skull]], and mummies. Combat began.
+- Vokenar cleared his petrification with Lesser Restoration; Domyx resisted and burst free. The party rested briefly before the hotel's Magen admitted them as paying guests.
+- The companions collected an amethyst-edged purple-worm-hide rug, carrot tobacco, and [[Rahmadi's Capers]] issue four. Personalized room service accompanied a safe long rest.
+- Kerben's morning messenger reported a targeted Imperial search. Ceril prepared Heroes' Feast, Red Caesar distributed healing potions, and they flipped the hotel's lamplighter switch before leaving.
+- At [[King of the Hole]], the announcer named [[Farraday]] as [[Jack Harvey]]'s benefactor and designer of the challenges. Distinct combinations of three beacons started rounds; four victories earned lamplighter access, with a fifth optional.
+- The first round summoned Phase Cats, Mummies, a Gorgon Head, and a Flame Skull. The party fought across the terraced island, with Ceril using starry flight and Vokenar summoning divine guardians.
 
 ### Chunk 0002
 
-- The party finished the first wave, defeating the remaining [[Mummy]]s and [[Gorgon Head]].
-- The party triggered the second wave of [[King of the Hole]], spawning [[Hooksy the Clown Automaton]]s, [[Death Spark]]s, a [[Shambling Mound]], and a [[Lightning Elemental]].
-- [[Vokenar]] used holy radiance against the clustered death sparks and Hooksy variants.
-- [[Red Caesar]] accelerated himself and used Water Walk to sprint across the ocean to his beacon.
-- [[Ceril]] transformed into a dragon and attacked from above.
-- [[Domyx]] cloud-jaunted to swap places with Vokenar, placing himself in the enemy cluster.
-- [[Red Caesar]] used Blight to wither the [[Shambling Mound]].
-- The [[Lightning Elemental]]'s lightning arcs healed the shambling mound, creating a dangerous synergy between the two enemies.
-- The party defeated the second wave. [[Domyx]] destroyed the lightning elemental with his glaive, taking electrical backlash on its death throes.
-- [[Vokenar]] healed the party between waves.
-- The party triggered the third wave, spawning more Hooksy variants and another shambling mound.
+- The party finished the first round. Red Caesar used his last longstrider potion with Water Walk, and the group immediately started the second round.
+- Hooksy variants, Death Sparks, a Shambling Mound, and a Lightning Elemental crowded the hilltop. Lightning restored the Mound.
+- Red Caesar used Haste to cross sea and cliffs; Ceril flew clear, and Domyx exchanged places with Vokenar through Cloud Jaunt.
+- Blighting magic, starry light, fire, and Domyx's glaive defeated the second round. Red Caesar collected another Hooksy mask and wore it behind his head.
+- Vokenar healed the wounded while the party positioned for a new beacon combination. The third round began without a rest.
 
 ### Chunk 0003
 
-- The third wave of [[King of the Hole]] spawned [[Hooksy the Clown Automaton]]s, a [[Shambling Mound]], a [[Cloaker]], and a [[Phase Cat]]. The party defeated all enemies.
-- A key discovery: when a Hooksy variant died, it burst open and released two smaller forms from within. Acid sterilized inner Hooksy variants and prevented further emergence.
-- The party took a short rest aided by [[Vokenar]]'s Divine Intervention.
-- [[Domyx]] looted a giant carrot-shaped glass lightbulb from a 40-foot lighthouse on the island.
-- As the party prepared to trigger the next wave, [[Kerben]] appeared from a portal with dramatic music. The session ended on this cliffhanger.
+- The third round divided the party between a lightning-fed Shambling Mound and Death Sparks above, and a Hooksy, Cloaker, and Phase Cat below.
+- Ceril's firewall destroyed the Sparks; the party overcame the Mound and cat. Vokenar's radiant fireball killed the Cloaker holding Domyx and a rare Hooksy.
+- The Hooksy burst open into two smaller forms. Domyx and Ceril destroyed them, but tiny survivors escaped into the ocean.
+- After the third victory, Vokenar used Divine Intervention for Prayer of Healing and a short rest. The party collected the lighthouse's valuable carrot-shaped bulb.
+- The companions prepared for the fourth required round. An apparent arrival announced as Kerben was clarified in [[session_030#Chunk 0000|Session 030]] as a misidentified Hooksy.
 
 ## Session 030 — 2026-07-04
 
 ### Chunk 0000
 
-- The party triggered the fourth required [[King of the Hole]] wave, splitting between [[Gorgon Head]]s, [[Phase Cat]]s, and [[Hooksy the Clown Automaton]] variants.
-- [[Ceril]] dispelled a petrification effect on himself and descended from the lighthouse to support [[Domyx]].
-- [[Vokenar]] reversed another petrification threat while [[Red Caesar]] helped hold the northern side of the island.
-- The party defeated the fourth wave, completing the required King of the Hole sequence.
-- The [[Magen]] announcer offered the optional bonus challenge: defend the hilltop pinnacle while the arena's illusion raised the ocean around it.
+- The announcer's apparent identification of [[Kerben]] was corrected to a Hooksy; Kerben remained away with [[The Opal]]. Four contestants began the fourth [[King of the Hole]] round.
+- [[Red Caesar]] and [[Vokenar]] fought a Gorgon Head and Phase Cats in the north; [[Ceril]] and [[Domyx]] faced another gorgon and Hooksies near the lighthouse.
+- Ceril dispelled his developing petrification, then spent his feather-fall potion to descend and heal Domyx. Vokenar repeatedly restored himself, while Red Caesar resisted petrification.
+- The party completed the required fourth round, regrouped, accepted the optional hilltop defense, and rested before beginning it.
 
 ### Chunk 0001
 
-- The party accepted and won the optional [[King of the Hole]] bonus challenge against [[Smoke Elemental]]s, [[Shambling Mound]]s, and [[Death Spark]]s.
-- The King of the Hole lamp lit, and the magen announcer awarded [[Domyx]] the [[Hopping Mad Sash]].
-- [[Tango]] delivered [[Kerben]]'s urgent message from [[The Opal]]; through Ceril, Tango reported that the ship was under [[Broyish Empire]] attack and Kerben was holding off a larger force.
-- A magen explained that [[Jack Harvey]] had resigned from direct control of [[The Carrot Cake]] and left it in [[Farraday]]'s care.
-- The party entered [[Hole on Wheels]], a seven-car scenic train looping over the ocean where [[Esperanto]] once stood.
-- Ceril's owl familiar scouted the train, reporting vampire-controlled enemies and the final lamp switch near the front.
+- The [[Magen]] used Mirage Arcana to surround the pinnacle with illusory water. The party defeated two Shambling Mounds, Death Sparks, and a Smoke Elemental while remaining within its boundary.
+- Domyx exchanged places with engulfed Ceril and later pulled Vokenar from the final Mound. The bonus victory earned Domyx the [[Hopping Mad Sash]].
+- The party redirected the arena's power and returned to find three gate lamps lit.
+- [[Tango]] delivered Kerben's note. Through Speak with Animals, Ceril learned that the Opal had repelled Imperial boats, with a larger force approaching.
+- A guide said [[Jack Harvey]] had resigned and left [[The Carrot Cake]] in the care of his nonmortal benefactor, [[Farraday]].
+- After Vokenar used Beacon of Hope and healing, the party entered [[Hole on Wheels]]. Ceril's owl scouted seven cars, vampire servants, and the final switch at the front.
+- Red Caesar protected Domyx, collected preserved carrot tea and a two-inscription healing scroll, and the party began fighting a cambion and revenants. Ceril summoned a crab spirit.
 
 ### Chunk 0002
 
-- The party advanced through [[Hole on Wheels]], finding preserved carrot tea, a Mass Healing Word scroll, an old [[Stark]] travelogue, and a framed rendering of The Carrot Cake midway.
-- [[Vokenar]] used divine blades to tear open the train roof and scatter enemies through the cars.
-- The party reached the front car and confronted the [[Vampiric Nightbringer]], a vampire lord controlling the train.
-- [[Red Caesar]] opened the front window to sunlight, and Ceril later tore open the roof with lightning to expose the vampire further.
-- [[Domyx]] hurled the nightbringer from the train and survived being dragged under the moving cars.
+- Vokenar's Blade Barrier tore through the train's doors and ceiling, forcing enemies outside. The companions overcame cambions, revenants, vampire familiars, and a spawn before continuing.
+- Red Caesar collected an old [[Stark]] travelogue and a framed rendering of the midway.
+- At the front, the [[Vampiric Nightbringer]] drained Domyx while a spawn restrained him. Vokenar used his shield's Slow magic.
+- Red Caesar spent the Melf's Acid Arrow inscription to break the front window. Ceril dismissed his crab and used Call Lightning to open the roof, exposing the vampire to sunlight.
+- The Nightbringer dominated Red Caesar, but Vokenar broke its hold before a commanded attack.
+- Domyx threw the grappling spawn from the train and was dragged beneath the cars. He climbed aboard near the caboose and began returning to the ongoing fight.
 
 ### Chunk 0003
 
-- The party defeated the [[Vampiric Nightbringer]], which disintegrated into blackening feathers.
-- Red Caesar accelerated the train around its ocean loop and flipped the final lamp switch, lighting the fourth lamp and opening [[Jack Harvey]]'s inner sanctum.
-- The party discovered the portal paintings had been dispelled by an intruder, trapping them on [[Hole on Wheels]] overnight while the inner sanctum opened elsewhere.
-- The party took a long rest on the train.
-- [[Vizier Jade]] and [[Emperor Shen]] intruded into Red Caesar's [[Heaven's Bulb]] memory, searching his mind for the newly accessible [[Penumbra]].
-- [[Emperor Shen]] threatened [[Obould]], saying the captive captain would not live to see another dawn.
-- Red Caesar cast True Seeing on his younger self, who identified Mending as the missing piece in Red Caesar's Penumbra work.
-- Red Caesar learned [[Obvolvo Caelum]], a spell that can condense [[Penumbra]] and smooth [[Akasha]]-to-Penumbra synthesis.
+- Ceril destroyed the last familiar. Domyx returned to the front and finished the Nightbringer, whose pale feathers blackened and dispersed.
+- Red Caesar accelerated the train, with Ceril adding lightning to its supply, then flipped the fourth switch. Jack Harvey's gate was unlocked elsewhere.
+- The party found that every return painting had lost its enchantment. Red Caesar and Ceril inferred deliberate dispelling and an intruder's departure by Teleportation Circle; the saboteur remained unidentified.
+- The four rested on the train, restoring Domyx's drained vitality and advancing in experience.
+- [[Vizier Jade]] and [[Emperor Shen]] invaded Red Caesar's [[Heaven's Bulb]] memory to search for Penumbra. Emperor Shen threatened [[Obould]]; neither a vault seizure nor an execution was shown.
+- Red Caesar cast True Seeing on his younger dream-self. Together they identified Mending as the missing principle and completed [[Obvolvo Caelum]], enabling instant Penumbra condensation and improving his synthesis framework.
 
 ## Session 031 — 2026-07-18
 
 ### Chunk 0000
 
-- [[Kerben]] commands [[The Opal]] during a [[Broyish Empire]] naval attack, crippling an escort ship while the crew struggles to keep the damaged vessel afloat.
-- Kerben spots dozens of additional imperial sails coming from the east and chooses escape over a doomed full engagement.
-- Kerben releases the ship's air elemental against the damaged enemy ships and uses a ghost-ship feather token to turn [[The Opal]] invisible.
-- [[The Opal]] slips west toward [[Lyngbakr Lagoon]], confusing the imperial scouts long enough to preserve the ship and crew.
-- Kerben returns to [[The Carrot Cake]] entrance and sees imperial soldiers force [[Theo Harvey]] to guide them inside.
-- [[Tango]] identifies the imperial flagship offshore as the [[Imperial Xihe]].
-- The imperial party kills the helpful [[Magen]] near the midway entrance and reaches [[Jack Harvey]]'s sealed inner sanctum door.
-- [[Red Caesar]], [[Ceril]], [[Domyx]], and [[Vokenar]] return to the midway through the disabled portal network as vampire spawn attack the imperial force.
+- In events parallel to the park expedition, [[Kerben]] commands [[The Opal]] against imperial escorts; its upgraded weapons cripple a dangerous vessel while [[Yalet Mora]] pumps the flooding hull.
+- Kerben uses a Conjure Barrage scroll and the bound air elemental, then consumes the ghost-ship token and sends the damaged vessel west toward [[Lyngbakr Lagoon]].
+- After an overnight rest near [[The Carrot Cake]], Kerben follows an imperial landing party using the recaptured [[Theo Harvey]] as its guide. [[Tango]] identifies the approaching [[Imperial Xihe]].
+- The soldiers kill a helpful [[Magen]] but cannot open [[Jack Harvey]]'s vault despite its four lit lamps.
+- [[Red Caesar]], [[Ceril]], [[Domyx]], and [[Vokenar]] return from the train amid an imperial battle with vampire spawn; [[Fharan]] attributes the portal suppression to [[Vizier Jade]].
+- Red Caesar learns that the gate recognizes successful challenge participants, and that opening it would release the ocean held behind its seal.
+- Kerben frees Theo Harvey's manacles and gives him a balloon token. An imperial scion drains Red Caesar's vitality, and the fight continues.
 
 ### Chunk 0001
 
-- The party battles [[Fharan]], imperial scions, imperial warlords, and vampire spawn at the inner sanctum door.
-- [[Kerben]] frees [[Theo Harvey]] with Knock and gives him a balloon feather token; Theo escapes and says he will hide in the dwarven lands.
-- [[Red Caesar]] determines the inner sanctum door recognizes only the party members who completed the four lamp challenges.
-- Red Caesar realizes the sealed vault is holding back the post-Cataclysm ocean and would release a dangerous surge of water when opened.
-- The party defeats the imperial force and captures Fharan alive after Red Caesar dispels a lethal contingency meant to prevent interrogation.
-- Fharan reveals [[Obould]] is alive and being brought by [[Vizier Jade]] and [[Emperor Shen]], who will arrive before noon.
-- Fharan warns that [[Starfall]]'s next target is the sun and implies [[Vizier Jade]]'s mind-reading is innate, item-based, or beyond ordinary spellcasting.
-- Fharan dies after questioning, and the party disposes of his body through the Hole on Wheels portal.
+- Theo Harvey activates the balloon token and escapes, intending to hide among the dwarves.
+- The party defeats Fharan's force. Red Caesar falls repeatedly and is healed; Ceril removes the scion's lasting vitality drain.
+- Red Caesar dispels Fharan's lethal contingency, and Domyx subdues him. Ceril heals the fallen Red Caesar and Vokenar.
+- Ceril and Kerben prepare an herbal mixture that permits brief questioning without healing Fharan's mortal wounds.
+- Fharan says [[Obould]] is alive, arriving before noon with [[Emperor Shen]] and Vizier Jade, and that [[Starfall]]'s next target is [[Sigil]].
+- Fharan cannot explain Vizier Jade's mind-reading and claims the dying world will be replaced by an imperial successor; the party rejects his reassurance.
+- Fharan dies of his injuries; Domyx disposes of his body through [[Hole on Wheels]] portal.
+- The party chooses to enter without a short rest, planning to condense the hoard and escape through Vokenar's Word of Recall.
 
 ### Chunk 0002
 
-- [[Vokenar]] and [[Ceril]] help Domyx safely open [[Jack Harvey]]'s inner sanctum by preparing for the pressure-sealed water hazard.
-- Jack Harvey's magical voice welcomes the party to the vault, and a flood of seawater pours into the midway.
-- The party enters an underwater vault where [[Red Caesar]] uses [[Obvolvo Caelum]] to condense massive wall-grown [[Penumbra]] crystals into a small dense orb.
-- Kerben and Domyx find [[Jade's Compass]], a tarnished valuable compass bearing [[Vizier Jade]]'s name.
-- The party encounters [[The Tyrant]], revealed as [[Vizier Jade]]'s enormous undead beholder-like servant trapped in the vault.
+- Vokenar's stone barricade and Ceril's water shaping protect the party when Domyx opens the pressure-sealed vault.
+- A recorded welcome from Jack Harvey accompanies the opening. Ceril gives the group Water Breathing to pass the flooded airlock and seaweed-filled interior.
+- Red Caesar uses [[Obvolvo Caelum]] to collect vast wall-grown [[Penumbra]] into a small sphere.
+- Kerben and Domyx find [[Jade's Compass]]; its years of water damage suggest an older intrusion without proving Vizier Jade's personal presence.
+- The party encounters [[The Tyrant]], her undead beholder-like servant, which calls for her aid and attacks amid confused grief.
+- Red Caesar identifies its healing-suppressing eye aura. The Tyrant recognizes Vokenar's Crone sword, accuses the party of harming its mothers, and only partly responds to his explanation.
+- Domyx is paralyzed and Kerben narrowly survives a death ray; the fight continues.
 
 ### Chunk 0003
 
-- The party wears down The Tyrant, and Red Caesar charms it rather than finishing it in combat.
-- The Tyrant reveals that [[Starfall]] lies beneath the world at its center, in [[Axis Mundi]].
-- The Tyrant says Starfall was born with the world, formed from Stark's four elements, and that he was created by its energy.
-- A force tied to [[Vizier Jade]] destroys The Tyrant before it can reveal more, reducing it to a bony singularity.
-- The party collects [[Jack Harvey]]'s Penumbra hoard, more than all previous Penumbra finds combined.
-- [[Vokenar]] returns the party to [[The Opal]] by Word of Recall; the ship is invisible, damaged, and crewed by survivors.
-- [[The Opal]] reaches [[Lyngbakr Lagoon]], where [[Alamar]]'s settlement has grown into a mixed refuge for people displaced by the moon's destruction.
-- [[Tango]] warns that the [[Imperial Xihe]] has arrived and that imperial troops are landing along the coast.
-- Red Caesar and Ceril take the condensed Penumbra to find [[Lyngbakr]] while Kerben, Domyx, Vokenar, and Alamar move to delay the invasion.
+- The party exhausts the Tyrant's magical defenses, and Red Caesar charms it to end its hostility.
+- The Tyrant describes Starfall as Stark's original four-element core and a failsafe preceding [[Genesis Mundi]], saying it was created by the weapon's energy.
+- It identifies [[Axis Mundi]] beneath the world as Starfall's location before an unseen outside force crushes it into bone.
+- The party finishes collecting Jack Harvey's hoard, takes a brief short rest through Prayer of Healing, and returns to the invisible Opal through Word of Recall.
+- [[Raxxy]] reports no crew losses. Vokenar heals the injured crew, and the party finds [[Alamar]]'s expanded mixed refuge at the lagoon.
+- Ceril reunites with [[Rella Kel'Navvi]]. Alamar explains his continuing confinement and the refugee arrivals and imperial balloon attacks that ended the settlement's secrecy.
+- Tango warns that the Imperial Xihe has arrived and troops are landing; the hidden Opal remains undiscovered offshore.
+- Red Caesar and Ceril take the hoard to find [[Lyngbakr]]; Kerben, Domyx, and Vokenar go ashore to delay the invaders. Alamar turns back to protect the settlers.
+- Emperor Shen and Vizier Jade confront them with the caged Obould, demanding the Penumbra and threatening the refuge. Vokenar reveals their knowledge of Axis Mundi.
+- Domyx proposes swapping places with Obould, and Kerben prepares to fire at the emperor.
 
 ### Chunk 0004
 
-- [[Emperor Shen]] and [[Vizier Jade]] come ashore with [[Obould]] bound, gagged, and caged, demanding the Penumbra and threatening [[Lyngbakr Lagoon]].
-- Kerben shoots [[Emperor Shen]], breaking part of his mask and revealing a face much like Domyx's, then shoots open Obould's restraints.
-- [[Domyx]] swaps places with Obould, freeing the captain but becoming trapped in the cage himself.
-- Obould orders Kerben to lead him back to [[The Opal]] immediately.
-- [[Emperor Shen]] carries the caged Domyx away in golden light, declaring that his grandson will be returned to the Empire.
-- Vokenar stays behind to delay [[Vizier Jade]], resists banishment to [[Arkadia]], and challenges her reasons for killing the gods.
-- [[Vizier Jade]] admits she once fought for the world but now wants an end to the cycle of divine wars and suffering.
-- [[Vizier Jade]] kills Vokenar with a word of death and departs with his body.
-- Red Caesar and Ceril find [[Lyngbakr]] hidden deep beneath the largest waterfall.
-- Red Caesar releases the condensed Penumbra, and Lyngbakr consumes enough sky-material to finish repairing the heavens.
-- Lyngbakr rises into the sky with [[Ceril]] and [[Alamar]], sealing the [[Hole in the Sky]] behind them and closing smaller wounds across Stark.
-- Red Caesar remains on Stark and sees a whole blue sky for the first time; [[The Opal]] later retrieves him.
-- The session ends with Obould and Kerben safe aboard [[The Opal]], Domyx captured by [[Emperor Shen]], Vokenar's body held by [[Vizier Jade]], and Ceril gone into the heavens with Lyngbakr and Alamar.
+- Kerben shoots Emperor Shen's mask, revealing a youthful face resembling Domyx's, then breaks Obould's manacles with another shot.
+- Domyx exchanges places with Obould. Kerben leads the freed captain toward The Opal while Domyx remains trapped in the cage.
+- Vokenar raises a Wall of Fire to delay the troops and resists Vizier Jade's attempt to banish him to [[Arkadia]].
+- Emperor Shen threatens successive massacres before Starfall's final shot and carries Domyx away through golden light.
+- Vizier Jade tells Vokenar she has lost hope through divine wars and repeated deaths. She kills him with a word and departs with his body.
+- In the parallel sea search, Red Caesar's Locate Creature guides him and Ceril to Lyngbakr, hiding beneath the Cataract after an unnamed man's attack.
+- Red Caesar releases the condensed hoard; Lyngbakr consumes enough Penumbra to repair the whole sky.
+- Ceril chooses to accompany Lyngbakr, while Red Caesar stays to seek a route to Axis Mundi through [[Figma Brickfinger's Union]].
+- Alamar boards Lyngbakr because of his tie to the place. The turtle ascends with Ceril and Alamar, repairs the smaller wounds and great opening, and passes beyond as the sky seals.
+- Red Caesar sees a whole blue sky for the first time and rejoins Kerben and Obould aboard the hidden Opal. Domyx remains captive, Vokenar is dead in Vizier Jade's custody, and the lagoon's eventual fate is unshown.
 
 ## Session 032 — 2026-08-02
 
 ### Chunk 0000
 
-- [[Emperor Shen]] imprisons [[Domyx]] in the [[Dawn Palace]] and attempts to make him accept imperial succession.
-- [[Ceril]] and [[Alamar]] enter [[Arkadia]] with [[Lyngbakr]]. Alamar reunites with [[Vlerro]], [[Igden]], and [[Tyson Cromwell]] before Ceril meets [[Aeris]], [[Sigil]], and the injured [[Crone]], who confirm Vokenar can be restored if his body is recovered.
-- Ceril sees [[Damien Ouranous]] traveling with Vokenar's spirit and learns that [[Emperor Shen]] killed Damien.
-- [[Illidrielle Gandara]] confirms that [[Keys Caeradel]] has completed the [[Demi-Spell]] but not cast it; [[Boril Erendel]]'s alterations would force reincarnation into high elf bodies.
-- Ceril returns to Stark through a closing passage in the repaired sky.
+- [[Emperor Shen]] holds [[Domyx]] in the [[Dawn Palace]], demanding willing imperial succession and using torture, [[Vokenar]]'s body, and claims about dead companions to pressure him.
+- Domyx notices a waterfall narrowing despite the emperor's claim that the sky cannot be repaired.
+- [[Vizier Jade]] shows a false mirror scene in which the crew supposedly abandons Domyx; the later actual conversation contradicts it. She returns him to Sequester.
+- In [[Arkadia]], [[Alamar]] reunites with [[Vlerro]], [[Igden]], and [[Tyson Cromwell]], then remains with them as [[Ceril]] continues.
+- Ceril overhears [[Damien Ouranous]] and [[Witness]], learning that Emperor Shen killed Damien and hearing Witness's account of Vizier Jade's repeated involvement in wars.
+- [[Illidrielle Gandara]], dead since the moon's destruction, reports that [[Keys Caeradel]] completed but withheld the [[Demi-Spell]]. She warns about [[Boril Erendel]]'s elven bodies and asks Ceril to stop him.
+- [[Sigil]] is healing [[Crone]]. [[Aeris]] reminds Ceril to protect Vokenar, grants him time to prepare, and offers a remaining passage back to Stark.
+- Ceril sees warfare and the burning, evacuated lagoon during his descent.
+- The real crew conversation favors rescuing Domyx in Broy and seeking a route to [[Axis Mundi]]. Red Caesar reports the untested [[Antumbra]] sabotage.
+- [[Obould]] retrieves his [[Orkland Pin of Courage]] and wedding band intended for [[Lady Jacinthe]], asking to visit [[The White Drake]].
+- Ceril returns to [[The Opal]], confirms Vokenar's death, and rejoins the crew's mission.
+- [[Kerben]] finds The Opal missing while fishing, discovers the new Bravo ship symbol in his egg, and releases the vessel. The crew's parallel perspective shows its confinement behind kaleidoscopic walls.
 
 ### Chunk 0001
 
-- [[Kerben]] discovers that his ranger egg can conceal [[The Opal]] and crew in extradimensional space.
-- [[Vizier Jade]] fakes Domyx's death and frees him from Emperor Shen's custody.
-- [[Red Caesar]], Ceril, and Kerben expose the [[Broyish Capital]]'s false sky and spark an uprising with [[Naomi Ue]]'s help; Emperor Shen and Vizier Jade flee to [[Starfall]].
-- The party recovers Domyx and Vokenar's body from the Dawn Palace.
+- The crew emerges from the egg and hears Kerben's explanation. Red Caesar identifies a likely daily limit on the ship-storage power.
+- Obould leaves for The White Drake with the wedding band; the rescuers later approach Broy aboard [[The Hideous Truth]], carrying the Opal and crew in the egg.
+- Vizier Jade tells Domyx about her pact, former independence, and exhaustion with war. His proposed false acceptance remains distinct from actually becoming the emperor's heir.
+- When Emperor Shen orders Domyx killed, Vizier Jade uses Feign Death and illusion to deceive him. His command prevents her speaking.
+- Red Caesar, Ceril, and Kerben enter the [[Broyish Capital]] and seek [[Naomi Ue]]. Vokenar's corpse has been displayed as imperial propaganda.
+- Naomi cannot provide a direct Starfall route; underground beam openings close quickly and Penumbra shipments have ended.
+- The party discovers the Mirage Arcana concealing the restored sky. Red Caesar hires Naomi's diversion with gold, [[Jade's Compass]], and the Carrot Cake plans.
+- Red Caesar's wind pushes the balloon higher while Ceril detects the illusion; dispelling it signals protest and revolt around the palace.
+- Ceril carries Red Caesar down in his flying starry form; Tango brings Kerben to the palace.
+- Vizier Jade opens Domyx's cage. Emperor Shen orders retreat to [[Starfall]], and she teleports them away after privately urging Domyx to use his reprieve.
+- The party finds Domyx alive, and Ceril restores the lasting effects of his torture. Red Caesar finds no accessible route left by the Teleport.
+- Domyx guides the rescuers through the palace amid the uprising; they locate Vokenar's coffin at its pinnacle.
 
 ### Chunk 0002
 
-- [[Ceril]] reincarnates [[Vokenar]] as a high elf at the [[Temple of Sigil]].
-- [[Courteous Cam]] and [[Otto]] agree to reopen the Funnel's collapsed route into the abyss beneath [[Stark]], offering a delayed approach to [[Axis Mundi]].
-- The party sails to [[Southport]] to confront [[Mana Sickness]] while the excavation proceeds; [[Mayor Yoris]] welcomes them on [[Janeera]]'s prophecy.
+- Vokenar's body is preserved by Gentle Repose. Domyx carries it as Ceril transports the group through a willow to the [[Temple of Sigil]].
+- Ceril reincarnates Vokenar in a high elf body. He recognizes that the incarnation cycle allows only elven forms, corroborating Boril Erendel's interference.
+- Vokenar remembers death followed immediately by awakening, accepts his new form, and thanks the companions for recovering him.
+- The party teleports to [[The Pit]], finding the Deepworlders integrated as diviners and a fallen moon fragment incorporated into housing.
+- At [[The Funnel]], [[Courteous Cam]] and [[Otto]] report a collapsed breakthrough into open air and an immense black abyss beneath Stark.
+- Courteous Cam agrees to reopen the descent after hearing about Starfall and Emperor Shen, estimating several weeks; the route beyond remains unknown.
+- [[Mana Sickness]] is slowing the workforce despite treatment. The party chooses [[Southport]] to help during the excavation.
+- After several days sailing alongside refugees, the companions reach the independent settlement. [[Mayor Yoris]] provides protective magic and welcomes the sky's restorers on [[Janeera]]'s prediction.
 
 ## Session 033 — 2026-08-09
 
 ### Chunk 0000
 
-- [[Mayor Yoris]] reveals that [[Deep Roses]] cure individual victims but do not stop new [[Mana Sickness]] infections.
-- [[Janeera]] identifies [[Ninki Nanka]], an ancient green dragon cursed by fallen [[Penumbra]], as the contagion's source.
-- [[Lodestar]] reunites with [[Red Caesar]] and warns the party to preserve Greater Restoration for someone they will encounter.
-- The party enters the [[Mana Sea]] with [[Victor, the Amphibious Beast]], recovers [[Rahmadi]]'s cloak, and survives magical sickness, poisonous fungi, and a bird swarm.
-- Driders and a drow cultist ambush the party among ancient webs.
+- [[Mayor Yoris]] explains that [[Deep Roses]] cure cases of [[Mana Sickness]], but reinfection continues; war has disrupted food routes, making [[The Garden]]'s support important.
+- [[Rochella Golf]] has reunited with her family. The Indorras' children are active again, and [[Red Caesar]] recognizes [[Lodestar]], a diviner from [[Heaven's Bulb]].
+- Lodestar warns that Greater Restoration will be needed for someone outside the party.
+- Yoris summons [[Janeera]]'s deceased spirit. She connects the contagion to [[Ninki Nanka]] and fallen [[Penumbra]], and explains the missing chart carried by an earlier failed expedition.
+- [[Vokenar]]'s Legend Lore identifies Ninki Nanka as a former defender of [[Windsurf]], suggesting the dragon is also a victim.
+- The party sells [[Boston Golf]]'s automaton to his granddaughter to fund Heroes' Feast for the five companions and [[Victor, the Amphibious Beast]].
+- Red Caesar receives [[Green Slaadi Whiskey]], and [[Kerben]] takes [[Crone's Contempt]]; two further potions remain promised upon return.
+- The party leaves its rowboat when vegetation blocks it and enters the [[Mana Sea]] using Water Walk.
+- Magical sickness blinds Red Caesar and Vokenar; restoration restores their sight. They recover [[Rahmadi]]'s cloak, a ruby, mithril, and diamonds.
+- The companions endure poisonous spores and a vast natural bird swarm, protected by Spirit Guardians, wind, and shelter, then press onward without resting.
+- Driders and a drow cultist ambush them amid old, damp webs.
 
 ### Chunk 0001
 
-- The party defeats the drow cultist and drives away the surviving drider.
-- [[Ceril]] discovers a layered magical or psychic command linking the drow attackers to an unseen master.
-- The party encounters moss golems sustained by the Mana Sea's poisonous atmosphere.
+- Red Caesar confines the rear drider in Resilient Sphere while Domyx, Vokenar, Kerben, and [[Victor, the Amphibious Beast]] confront the other attackers.
+- Ceril detects a magical or psychic chain linking the drider and cultist to a higher, unseen master.
+- The cultist's magic overwhelms Vokenar and [[Victor, the Amphibious Beast]]. Kerben kills her, Red Caesar kills the forward drider, and the captive drider later flees.
+- Ceril restores Vokenar; [[Victor, the Amphibious Beast]] is resummoned. The party heals without a short rest and uses two doses of Aramil's Tincture.
+- Three moss golems ambush them on raised marshland, absorbing ambient poison to regenerate and grow.
+- Ceril identifies fire and cold as effective against the constructs; the party fights through their enlargement, ending the chunk with a Wall of Fire in place.
+- Kerben gathers unusual swamp mushrooms for poison craft.
 
 ### Chunk 0002
 
-- The party destroys the moss golems and breaks several [[Kuo-Toa]] free from magical compulsion.
-- An invisible [[Aboleth]] emerges as the force controlling both the Kuo-Toa and the displaced drow.
-- Ceril exposes the Aboleth with Starry Wisp while it seizes party members and feeds upon their memories.
+- Fire and frost strip the golems' growth. Red Caesar destroys one, Domyx kills another, and [[Victor, the Amphibious Beast]] finishes the last.
+- The party heals and continues without resting into deeper brackish water.
+- Vokenar detects [[Kuo-Toa]] musketeers' ambush. The party breaks several from psychic control and lets them escape rather than pursuing them.
+- An invisible underwater threat drags Kerben and Ceril below the surface and painfully accesses their memories without erasing them.
+- Ceril escapes in crab form, reverts, and exposes the [[Aboleth]] with Starry Wisp.
+- Vokenar's Guardian of Faith helps free more musketeers and injures the controller. The Aboleth catches Red Caesar and the others again and unsuccessfully attempts to enslave Domyx.
+- Ceril's attempts to discourage it with unhappy or boring memories fail; Vokenar sustains the held companions through healing.
+- Domyx enlarges to escape, restrains the Aboleth, and pulls Kerben free. The fight continues.
 
 ### Chunk 0003
 
-- [[Domyx]] restrains the Aboleth and frees [[Kerben]], who kills the creature; its surviving Kuo-Toa thralls escape.
-- [[Vokenar]] locates Ninki Nanka, a failed Southport expedition, the missing half of the [[Chart of the Witness]], and the dragon's hoard.
-- [[Red Caesar]] sends Ceril through the poisonous cave inside a protective sphere.
-- Ceril removes Ninki Nanka's Penumbra-born curse with Greater Restoration, ending the source of Mana Sickness.
-- Ninki Nanka departs to protect the dragon's people, leaving the party to recover the chart fragment, diamonds, and the [[Tomb of Lenth the Rugged]].
-- Red Caesar decodes and recombines the Chart of the Witness; it suggests [[Axis Mundi]] lies beyond a planar boundary rather than through an ordinary underground route.
-- Lodestar reports that [[Emperor Shen]] is weakened and the [[Broyish Empire]] is retreating until at least the next moon.
-- [[Southport]] installs voice pipes and expanded dormitories aboard [[The Opal]], and eleven local deckhands join the crew.
-- The party chooses to pursue [[Farraday]] before confronting [[Boril Erendel]].
+- Kerben kills the restrained Aboleth; its last surviving musketeer flees. The party takes a brief short rest through Prayer of Healing.
+- Toxic gas blocks Ninki Nanka's cave. Red Caesar's wind cannot clear it, and Domyx's test run ends before he reaches the dragon.
+- Vokenar's Arcane Eye finds the earlier expedition, the missing chart and flight potion, the afflicted dragon, diamonds, and the [[Tomb of Lenth the Rugged]].
+- Red Caesar protects Ceril in Resilient Sphere, and Domyx helps send him down the passage. Ceril lifts Ninki Nanka's curse with Greater Restoration.
+- Poison stops flowing, the air clears, and the grateful dragon departs to protect its people, leaving the hoard.
+- The party retrieves the treasure and plans to return Lenth the Rugged's remains to [[Pleasance MacLenth]].
+- In [[Southport]], Domyx receives Red Slaadi Whiskey and a strength-enhancing potion. Red Caesar decodes and recombines the [[Chart of the Witness]].
+- The chart provides complete surface topography and possible digging clues, but no direct [[Axis Mundi]] entrance; a planar boundary remains an interpretation.
+- Yoris expects months of recovery for existing patients. [[Lodestar]] reports an unexplained weakening of [[Emperor Shen]] and imperial retreat, with respite until the next moon.
+- Over three days, Southport installs voice pipes and triples the Opal's bunks. Domyx helps the work, eleven new deckhands join, and Vokenar heals residents and establishes a holy return point.
+- The party plans to visit [[The White Drake]] before sailing toward [[Tome Keeper's Pyramid]], then address [[Boril Erendel]] beneath [[Brimbolyn]].
 
 ## Session 034 — 2026-08-16
 
 ### Chunk 0000
 
-- [[Red Caesar]] tells [[Obould]] and [[Lady Jacinthe]] that the party planted [[Antumbra]] in the Penumbra sent toward [[Starfall]].
-- Obould permanently resigns as captain of [[The Opal]], names [[Kerben]] his successor, and becomes engaged to Lady Jacinthe.
-- [[Raxxy]] stays with Kerben's crew, while [[Lorelai Lapis-Acathian]] and [[Ulrich Fjoller]] leave to prepare for their child's birth.
-- [[Vokenar]] gives [[Jack Harvey's Portrait]] to [[David Harvey]], who hangs it aboard [[The White Drake]].
-- Kerben recruits [[Vorgan of the Stage]] as The Opal's performer in [[Cutlass Cray]].
-- Red Caesar returns the [[Tomb of Lenth the Rugged]] to [[Pleasance MacLenth]].
-- The party enters [[Tome Keeper's Pyramid]], survives shallow [[Akasha]] and magical wards, and recovers two caches of diamonds.
+- [[Red Caesar]] reveals the concealed [[Antumbra]] shipment; he and [[Kerben]] assess permanent mutual destruction if [[Starfall]] consumes it, without confirming its use.
+- [[Obould]] permanently resigns command of [[The Opal]], appoints Kerben captain, and becomes engaged to [[Lady Jacinthe]].
+- [[Raxxy]] stays aboard; [[Lorelai Lapis-Acathian]] and [[Ulrich Fjoller]] leave to prepare for parenthood, preferring [[The White Drake]] as their home.
+- [[Vokenar]] gives [[Jack Harvey's Portrait]] to [[David Harvey]] and consecrates The White Drake as a recall sanctuary.
+- [[Domyx]] supports Red Caesar through his grief over Obould's departure.
+- In [[Cutlass Cray]], Kerben commissions Mana Worm Poison from [[Gilder Savar]] and recruits [[Vorgan of the Stage]] as the ship's entertainer.
+- Red Caesar returns the [[Tomb of Lenth the Rugged]] to [[Pleasance MacLenth]]. Red Caesar, Kerben, and Vokenar receive their Ioun stones.
+- The four enter [[Tome Keeper's Pyramid]], endure shallow [[Akasha]] and deadly wards, recover diamonds and an Akasha grenade, and encounter a trap that dominates Domyx.
 
 ### Chunk 0001
 
-- The party discovers that the fiend occupying the pyramid is [[Farraday]], Kerben's former employer and Jack Harvey's benefactor.
-- Kerben destroys the [[Tome of Satariel]], severing Farraday's material ledger and leaving only three intact spells.
-- The party destroys Farraday's body on Stark, forcing him back to hell and removing his last foothold in the world.
-- Vokenar establishes the pyramid as a magical return point and potential future base.
-- At the [[Dawn Market]], [[Geoffrey the Younger]] crafts three reusable magical bullets for [[Kerben]], while the party revisits [[Qian Hu]]'s old-world relic shop.
-- The [[Broyish Empire]] enters a period of military weakness and political uncertainty after [[Emperor Shen]]'s flight.
-- [[Sigrid Forgewelt]] reforges [[Domyx]]'s hammer into the [[Cestus of the Clear Sky]].
+- Vokenar suppresses Domyx's domination before an attack.
+- The keeper is identified as [[Farraday]], Kerben's former employer; his supposed crypt had never held his body.
+- Kerben destroys the [[Tome of Satariel]]. The party overcomes Farraday's illusions and magic, and Kerben destroys his body on Stark, forcing him back to hell.
+- Red Caesar recovers Contact Other Plane, Arcane Gate, and Mind Blank; Vokenar consecrates the pyramid as a recall sanctuary and potential base.
+- The party visits the [[Dawn Market]] amid Broy's uncertain transition after [[Emperor Shen]]'s withdrawal.
+- [[Geoffrey the Younger]] gives Kerben three magical bullets whose magic survives a missed shot.
+- At [[The Deepworlders Delve]], [[Sigrid Forgewelt]] trades Domyx's old hammer and diamonds for the [[Cestus of the Clear Sky]].
 
 ### Chunk 0002
 
-- The party refuses to attack the apparently dying [[Yalet Aurum]], who gives [[Yalet Mora]] a massive golden brain to settle their feud.
-- After Yalet Mora leaves, Yalet Aurum reveals that the fallen moon fragment strengthened him and that he only staged his decline to encourage his brother.
-- [[Domyx]] adopts Spurgruhn as his new surname, replacing the Akathian name he renounced.
-- [[Rizolvir Kiirnodel]] agrees to stop urging [[Keys Caeradel]] to cast the [[Demi-Spell]] while the party moves against [[Boril Erendel]].
-- [[Ceril]] rejoins the party before they travel to [[House Erendel]].
-- The party reaches House Erendel and discovers multiple duplicates of Boril Erendel and another created figure resembling [[Vokenar]].
+- The cestus channels Domyx's sky power and spreads the visible heavens over one side of his body.
+- [[Beryzoz Helmscar]] removes another set of teeth after discussing a future sale with Red Caesar; no transfer occurs.
+- [[Yalet Mora]] finds [[Yalet Aurum]] apparently crushed by a fallen moon fragment. Vokenar and Domyx refuse to attack a helpless opponent.
+- Yalet Aurum gives the party his golden brain. After his brother leaves, he reveals that the moon strengthened him and that his decline was staged.
+- At [[House Kiirnodel]], Red Caesar agrees to stop [[Boril Erendel]] in exchange for [[Rizolvir Kiirnodel]] temporarily ceasing pressure to cast the [[Demi-Spell]].
+- [[Ceril]] rejoins the party after helping move fallen moon fragments in [[Brimbolyn]]; Domyx chooses Spurgruhn as his surname.
+- The party reaches [[House Erendel]], where three figures resembling Boril Erendel and another resembling Vokenar await them.
+
 
 ## Session 035 — 2026-09-12
 
 ### Chunk 0000
 
-- The party defeats three clones guarding [[House Erendel]], though one warns [[Boril Erendel]] of their arrival.
+- The party fights three magically protected copies outside [[House Erendel]].
+- A copy warns [[Boril Erendel]] through Sending despite [[Red Caesar]]'s attempt to stop it.
+- [[Ceril]]'s moonlight and the party's attacks destroy the defenders. [[Vokenar]] overcomes an attempt to impose supremacist memories.
+- The companions heal and regroup before an arcane-locked entrance.
 
 ### Chunk 0001
 
-- [[Kerben]] opens House Erendel and discovers a hidden chamber beneath halls of mirrors that show visitors as high elf replacements.
-- Boril Erendel reveals that [[Vokenar]] retains his aasimar heritage alongside his high elf form.
-- Boril Erendel assumes a Larethian form invoking [[Corellon Larethian]] and battles the party.
+- [[Kerben]] opens the door with his magical key ring. Mirrors show the visitors as high elf replacements, and his stone sense reveals a lower chamber.
+- Boril Erendel reveals that Vokenar retains his aasimar inheritance within his elf incarnation; Vokenar recovers its powers.
+- Boril Erendel rises in a silver-armored Larethian form and attacks the party.
+- Red Caesar's Circle of Power protects the companions from prismatic attacks; [[Zulu]] falls outside it.
+- Kerben uses Mana Worm Poison to prevent Boril Erendel's escape, but the wizard stuns him and continues fighting.
+- The battle remains unresolved as Red Caesar and Vokenar approach collapse.
 
 ### Chunk 0002
 
-- Vokenar's restored radiance kills Boril Erendel; Vokenar retains both bloodlines, and the mirrors return to ordinary reflections.
-- The party recovers mithril and two ancient relics, destroys the mirrors, and collapses House Erendel.
-- At [[The Academy]], [[Rizolvir Kiirnodel]] confirms his efforts to delay the [[Demi-Spell]], and [[Feronia Caeradel]] confirms her former marriage to the [[Rakshasa]], father of [[Keys Caeradel]].
-- The party persuades Keys Caeradel to relinquish the completed Demi-Spell. He departs carrying his father's soul in an amulet, bound at the Rakshasa's request.
-- [[Red Caesar]] takes custody of the spell and learns he can destroy it; Vokenar can cast it, [[Domyx]] can safely read and carry it, and [[Ceril]] refuses to study it.
-- Attempts to teleport and Plane Shift to [[Axis Mundi]] fail, suggesting lasting wards protecting [[Starfall]].
-- [[Figma Brickfinger]] and [[Courteous Cam]] report that [[The Funnel]] has reopened, but its miners withdrew from dangers beyond the passage.
-- Before the descent, Ceril acquires the [[Cornucopia of Constellations]] and Domyx the [[Kaboom Ring]]. The party prepares to enter the Funnel.
+- Vokenar heals the party and revives Zulu. His recovered radiance kills Boril Erendel, and the mirrors return to true reflections.
+- The party recovers mithril, a shape-changing divine relic, and an endlessly varied musical harp, then destroys the mirrors and collapses House Erendel.
+- At [[The Academy]], [[Rizolvir Kiirnodel]] confirms his efforts to delay the [[Demi-Spell]]; [[Feronia Caeradel]] identifies the [[Rakshasa]] as her former husband and [[Keys Caeradel]]'s father.
+- The party argues for preserving the present world; Ceril conveys [[Illidrielle Gandara]]'s message and the gods' assurance of Crone's natural recovery.
+- Keys Caeradel entrusts the completed spell to the party and leaves carrying his father's soul, bound into an amulet at the Rakshasa's request.
+- Red Caesar retains the scroll and can destroy it. Vokenar can enact it, [[Domyx]] can safely read and carry it, and Ceril objects to its custody and refuses study.
+- Teleportation and Plane Shift to [[Axis Mundi]] fail, leading the party to suspect lasting magical wards.
+- [[Figma Brickfinger]] and [[Courteous Cam]] report [[The Funnel]] reopened; miners withdrew from its dangers.
+- Ceril receives the [[Cornucopia of Constellations]] and Domyx the [[Kaboom Ring]] before the party rests and prepares to descend.
+
 
 ## Session 036 — 2026-09-13
 
 ### Chunk 0000
 
-- [[Otto]] guides the party partway down [[The Funnel]] before they continue beneath the ocean floor.
-- [[Kerben]] and [[Red Caesar]] question an expedition dog from before [[The Cataclysm]], learning an eastward route and receiving a warning about stone creatures.
-- The party recovers gems and potions, defeats two fomorians, and continues despite [[Domyx]]'s lingering warping curse.
-- The party finds the stone avatars of the fallen [[Vanir]]; Domyx recalls their defeat by the [[Aesir]].
-- Red Caesar's Contact Other Plane brings him before [[Domyx I]] in the [[Gray Wastes]], where the titan promises renewed divine war and Red Caesar feels pressure to reveal the [[Demi-Spell]].
+- [[Ceril]] provides a feast with the [[Cornucopia of Constellations]]; [[Otto]] guides the party partway down [[The Funnel]].
+- [[Kerben]] discovers an old camp, recovers gems and potions, and finds further diamond veins.
+- Kerben and [[Red Caesar]] question a dead expedition dog, obtaining an eastward route and warning about stone creatures.
+- The party defeats two gem-encrusted giants; [[Domyx]] suffers a lasting warping curse.
+- The party finds the fallen stone avatars of the [[Vanir]], recalling their ancient defeat by the [[Aesir]].
+- Red Caesar uses Contact Other Plane and enters an overwhelming encounter with [[Domyx I]], who promises Titan rule in another cycle and pressures him toward the [[Demi-Spell]].
 
 ### Chunk 0001
 
-- Red Caesar refuses to reveal the Demi-Spell, and [[Vokenar]] restores him from the incapacitating trance.
-- Kerben tracks a purple worm; defeating it opens a route through the lower planar boundary.
-- The party recovers [[Domyx II]]'s gold amphora and diamond-set coronet, along with a gold bugle.
-- The party enters the Gray Wastes, a lower plane of hanging stone islands and a vast dust desert containing [[Axis Mundi]].
-- Red Caesar proposes following [[Starfall]]'s old firing scars east toward the warded destination beneath [[Broy]].
-- [[Domyx]] braces [[The Opal]] while the party boards on a crumbling rock. The ship falls, its storage magic fails, and Kerben summons a roc to guide it.
+- Red Caesar refuses to expose the Demi-Spell; [[Vokenar]] restores him from the trance.
+- Kerben tracks a purple worm and uses the Future bullet to draw it from its burrow.
+- Kerben escapes its mouth by exchanging places with [[Tango]]. Domyx kills the worm, whose bursting body injures the party and reveals a shaft below.
+- The party recovers [[Domyx II]]'s amphora, a gold bugle, and a diamond-set ancestral coronet.
+- Vokenar's wings save him when a handhold breaks. The party crosses the physical border into the [[Gray Wastes]].
+- Red Caesar proposes tracing [[Starfall]]'s firing scars east toward its warded location beneath [[Broy]].
+- Kerben deploys [[The Opal]] on a failing rock platform. Domyx braces the vessel while the others board, and [[Raxxy]] rallies the crew.
+- Domyx releases the bow and scrambles aboard as the ship lurches toward open sky.
 
 ### Chunk 0002
 
-- The roc helps The Opal glide safely onto the dust, where its sails and wind source allow it to continue east.
-- Kerben, [[Ceril]], and Red Caesar scout from the roc, using Starfall's firing scars to refine the course.
-- The roc returns its riders and departs freely.
-- Vokenar sights [[Gaokerena]], which [[Sigil]] identifies as the tree of all worlds extending from [[Arkadia]] through [[Stark]] into the Gray Wastes.
+- The Opal falls from the collapsing platform, and its storage magic fails.
+- Kerben summons a roc that returns him aboard and guides the ship into a glide. Its sails and genie-provided wind carry it safely onto the dust.
+- Domyx finds little damage; [[Brim the Bullywog]] attends the dusty bilge.
+- Kerben carries Ceril and Red Caesar aloft to read Starfall's curved firing scars and refine the ship's course.
+- The roc returns the scouts and departs freely into the lower heavens.
+- Vokenar sights [[Gaokerena]], which [[Sigil]] identifies as the world tree connecting [[Arkadia]], [[Stark]], and the Gray Wastes.
+
 
 ## Session 037 — 2026-09-20
 
 ### Chunk 0000
 
-- The party repels imperial boarders on [[The Opal]]; its consecration excludes their fiendish reinforcements. A captive reveals [[Emperor Shen]]'s plan to destroy [[Sigil]] that day before a secrecy condition petrifies him.
-- [[Crone]] tells [[Vokenar]] that Emperor Shen is waiting for [[Domyx]], and directs the party to [[Gaokerena]] for help.
-- The Opal anchors beside Gaokerena. [[Ceril]] learns that his planting for [[Aeris]] restored the tree's lower growth and created a living forest in the [[Gray Wastes]].
-- Ceril and Vokenar pass through the tree to [[Arkadia]], where Aeris grants [[Ceril's Star]], a blessing that can suspend time for the party's recuperation.
-- The party follows tracks through the forest toward [[Starfall]].
+- Imperial boarders attack [[The Opal]], but its consecration excludes their fiendish support. A captive reveals [[Emperor Shen]]'s plan to destroy [[Sigil]] that day, triggering his petrification.
+- [[Crone]] tells [[Vokenar]] that the emperor is waiting for [[Domyx]] and directs the party to [[Gaokerena]] for help.
+- [[Ceril]] discovers that his planting for [[Aeris]] restored Gaokerena's lower growth and created a living forest in the [[Gray Wastes]].
+- Ceril and Vokenar enter [[Arkadia]] through the tree. Aeris gives [[Ceril's Star]], a lasting star and refuge that can suspend time for recuperation.
+- The companions share Kerben's meal and a protective feast, then follow human and titan tracks toward [[Axis Mundi]].
 
 ### Chunk 0001
 
-- At [[Axis Mundi]], Emperor Shen claims Starfall's power will make Domyx divine and demonstrates his own invulnerability.
-- [[Red Caesar]] proposes a new future for [[Broy]] with [[Vizier Jade]]. She arranges to be restrained so Emperor Shen must load Starfall himself; he petrifies her.
-- The final ammunition proves to be [[Antumbra]]. Emperor Shen loads it, destroying Starfall and losing his invulnerability before he can fire at Sigil.
-- [[Farron Acathian II]] and [[Zohai Lapis]] defend Emperor Shen. The party defeats Farron Acathian II and the titan ghosts Emperor Shen summons.
+- Emperor Shen demonstrates [[Starfall]]'s invulnerability and insists that Domyx inherit divine power.
+- [[Red Caesar]] and [[Vizier Jade]] privately agree to build a better future for Broy. Vizier Jade accepts restraint and petrification so the emperor must load the final ammunition himself.
+- The final stone is [[Antumbra]]. Loading it destroys Starfall completely, prevents the shot at Sigil, and ends Emperor Shen's invulnerability.
+- [[Farron Acathian II]] and [[Zohai Lapis]] defend the emperor. Domyx kills Farron Acathian II; Red Caesar expends the Akasha grenade against titan spirits, and Vokenar disperses the remaining ghosts.
 
 ### Chunk 0002
 
-- [[Kerben]] kills Zohai Lapis, and Domyx defeats Emperor Shen, who calls on the [[Vanir]] before dying.
-- Vokenar frees Vizier Jade from petrification. Bereft of her former magic, she warns that the old gods are returning; her permanent ward still prevents magical escape.
-- [[Entropie]] and [[Dunkelkalt]] manifest and attack the party.
-- Kerben kills Dunkelkalt while the battle with Entropie continues.
+- [[Kerben]] kills Zohai Lapis, ending the remaining defender's protection. Domyx kills Emperor Shen after he calls on the [[Vanir]].
+- Vokenar frees Vizier Jade from petrification. Bereft of her former powers, she warns that the old gods are returning; her permanent ward prevents magical escape.
+- [[Entropie]] and [[Dunkelkalt]] manifest. Dunkelkalt repeatedly casts Domyx outside reality, while Entropie manipulates the party's fortune.
+- Vokenar's celestial fire and healing sustain the party. Kerben kills Dunkelkalt and drinks the [[Potion of Fluid Adamantite]] while the fight with Entropie continues.
 
 ### Chunk 0003
 
-- The party defeats Entropie, whose final Wish brings forth the last Vanir, the resurrected [[Emperor Shen]]. Session 038 confirms the resurrection.
-- The last Vanir rises in a colossal form resembling Domyx and Emperor Shen as four unexplained obelisks emerge. The returning gods threaten the party for serving the three sister goddesses.
-- Ceril's Star remains unused; the confrontation and Aeris's mortal fate remain unresolved.
+- Domyx kills Entropie, whose final wish resurrects Emperor Shen as the last Vanir.
+- The colossal emperor releases a surge of force, and four unexplained obelisks rise around the battlefield.
+- Kerben gives Red Caesar the [[Potion of Eels]] for later use. Ceril's Star remains unused, Vizier Jade and [[Tango]] shelter nearby, and the renewed confrontation and Aeris's mortal fate remain unresolved.
 
 ## Session 038 — 2026-09-27
 
 ### Chunk 0000
 
-- [[Emperor Shen]]'s resurrected [[Vanir]] form drains life throughout the [[Gray Wastes]]; [[Vizier Jade]] identifies the four pillars sustaining him: the Stele of Apotropaism, Stele of Menace, Stele of Solemnity, and Stele of Serenity.
-- [[Red Caesar]] and [[Vokenar]] begin destroying the stelae. Emperor Shen imprisons [[Kerben]] in a magical maze and recognizes [[Domyx]] as his grandson.
-- [[Ceril]] invokes [[Ceril's Star]], rescuing Kerben and sheltering the party outside the three planes. [[Aeris]] helps renew their magic, and they see the moon healing.
+- [[Emperor Shen]]'s last [[Vanir]] form drains life across the [[Gray Wastes]]. [[Vizier Jade]] identifies the four stelae sustaining him and explains how to remove them permanently.
+- [[Red Caesar]] disintegrates the Stele of Menace; [[Vokenar]] reshapes the Stele of Solemnity. The emperor dispels Vokenar's celestial healing and imprisons [[Kerben]] in a maze.
+- [[Ceril]] invokes [[Ceril's Star]], freeing Kerben and gathering the party outside [[Arkadia]], [[Stark]], and the Gray Wastes. [[Aeris]] helps renew their magic, and they see the moon healing.
 
 ### Chunk 0001
 
-- The party returns. Emperor Shen compels Domyx to strike down Red Caesar, then releases him; Vokenar restores Red Caesar.
-- Destroying Emperor Shen's stelae accelerates the lower sky's collapse. Ceril dissolves the last support, exposing Emperor Shen to Red Caesar's Disintegrate.
+- The companions return to the suspended battle. Emperor Shen dominates [[Domyx]] and forces him to strike down Red Caesar; Vokenar restores him.
+- The emperor fails to banish Vokenar to Arkadia. The party continues dismantling the supports while debris falls from the lower sky.
+- Ceril melts the final stele, ending the emperor's protections and accelerating the sky's collapse. Red Caesar casts Disintegrate at the exposed god.
 
 ### Chunk 0002
 
-- Red Caesar destroys Emperor Shen's final form. The wasting influence ends, but [[Stark]]'s oceans pour through the broken lower sky.
-- Kerben stores [[The Opal]] with the party, [[Vizier Jade]], and the crew aboard. Vokenar remains in the Gray Wastes and banishes Kerben, carrying everyone else, to [[Cutlass Cray]].
-- Over subsequent weeks, Stark's oceans recede and drowned lands reappear. Cutlass Cray settles onto mountains; Vokenar cannot be contacted.
+- Red Caesar destroys Emperor Shen completely. The wasting ends and fertile soil returns, but Stark's oceans pour through the broken lower sky.
+- Kerben stores [[The Opal]] with the crew, Vizier Jade, and the other companions aboard. Vokenar banishes him to [[Cutlass Cray]], carrying everyone else to safety, and remains below.
+- Over subsequent weeks, Stark's oceans recede, old lands emerge, and Cutlass Cray settles onto mountains. Attempts to contact Vokenar fail.
 - [[Obould]] and [[Lady Jacinthe]] marry aboard [[The White Drake]] near the former [[Lyngbakr Lagoon]], with League and [[Broy]] guests present.
-- Red Caesar erases the [[Demi-Spell]] and writes Broy's new charter on its paper. Vizier Jade helps establish the new order, then accepts imprisonment for her crimes.
-- Ceril helps replant emerging lands at [[Theotropa]]'s invitation before retiring to his star beyond the ordinary passage of time.
-- [[Theo Harvey]] reunites surviving [[40 Carats]] performers, and Kerben rebuilds the troupe. Obould confirms his captaincy and gives him a [[Spelljammer]]. Kerben visits [[Jack Harvey]]'s grave near [[Esperanto]] and eventually sails into the stars.
-- Domyx returns to [[Thalasia]], where titan houses share authority and welcome other peoples. [[Charlotta Fjoller]] encourages him to reconcile with [[Domyx IV]], who apologizes for his mistreatment.
-- Vokenar awakens young in [[Arkadia]], reunites with the goddesses and departed friends, and accepts [[Crone]]'s training toward a future campaign in the deeper hells.
-- The epilogue confirms [[Southport]]'s recovery, [[Lyngbakr]]'s return to Arkadia, and [[Witness]]'s mapping of that plane. [[Rizolvir Kiirnodel]] becomes the elves' king, and [[The Academy]] is repurposed.
-- The [[Rakshasa]] remains bound in [[Feronia Caeradel]]'s crystal; [[Keys Caeradel]] seeks a new purpose. [[Xander MacLenth]] has passed on, while [[Kilosaurus]]'s death remains unconfirmed.
-- [[Beryzoz Helmscar]] settles his grievance with Kerben through the revived troupe. Lyngbakr Lagoon is revealed as a volcanic caldera, and [[Octavia Crayborne]] is identified as Cutlass Cray's mayor.
-- Obould and Lady Jacinthe later have half-orc children.
+- [[Theotropa]] invites Ceril to restore the emerging lands. He contributes dense, fertile jungle, then retires to his star; his choice about a later world remains open.
+- Red Caesar erases the [[Demi-Spell]] and writes Broy's new charter on its paper. Vizier Jade helps establish the new order and accepts imprisonment for her crimes.
+- [[Theo Harvey]] reunites surviving [[40 Carats]] performers. Kerben rebuilds the troupe, receives a [[Spelljammer]] from Obould, visits [[Jack Harvey]]'s grave near [[Esperanto]], and eventually sails into the stars.
+- Domyx returns to a more open [[Thalasia]], where houses share authority. [[Charlotta Fjoller]] encourages him to speak with [[Domyx IV]], who apologizes; father and son reconcile.
+- Vokenar eventually awakens young in Arkadia, retaining his experience. He reunites with the goddesses, [[Alamar]], [[Illidrielle Gandara]], and [[Damien Ouranous]], then accepts [[Crone]]'s training for a future campaign in the deeper hells.
+- The epilogue confirms [[Southport]]'s recovery, [[Lyngbakr]]'s return to Arkadia, [[Witness]]'s mapping of that plane, and [[Xander MacLenth]]'s passage to the afterlife. [[Kilosaurus]]'s death remains uncertain.
+- [[Rizolvir Kiirnodel]] becomes the elves' king, and [[The Academy]] is repurposed. The [[Rakshasa]] remains in [[Feronia Caeradel]]'s crystal; [[Keys Caeradel]]'s later direction is unresolved.
+- [[Beryzoz Helmscar]] settles his grievance with Kerben through the revived troupe. Lyngbakr Lagoon is revealed as a volcanic caldera, and [[Octavia Crayborne]] is identified as Cutlass Cray's mayor and a descendant of its builders.
+- Obould and Lady Jacinthe later have half-orc children. The Opal's enduring consecrations are temporarily inactive during astral travel.
 
 ### Chunk 0003
+
+- No additional in-world events were established.

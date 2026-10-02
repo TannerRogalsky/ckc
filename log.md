@@ -375,3 +375,128 @@
 ## [2026-10-01] query | Session 011–038 date metadata and timeline headings
 ## [2026-10-01] update | Session 011–038 play dates in session frontmatter and timeline
 ## [2026-10-01] lint | Session 011–038 date mapping, frontmatter schema, chunk counts, and preserved narratives and links
+## [2026-10-01] query | Session 012 complete transcripts, canonical context, event coverage, and retrospective connections
+## [2026-10-01] restructure | Session 012 with six transcript-linked narratives and integrated summary
+## [2026-10-01] update | Session 012 timeline provenance and source-supported events
+## [2026-10-01] lint | Session 012 narrative coverage, frontmatter, headings, source links, timeline, entity index, and quest archive
+## [2026-10-01] query | Session 013 complete transcripts, canonical identities, event coverage, and retrospective connections
+## [2026-10-01] restructure | Session 013 with five transcript-linked narratives and integrated summary
+## [2026-10-01] update | Session 013 timeline provenance and source-supported events
+## [2026-10-01] lint | Session 013 narrative coverage, frontmatter, headings, source links, timeline, entity index, and quest archive
+## [2026-10-01] query | Session 014 complete transcripts, canonical identities, event coverage, and retrospective connections
+## [2026-10-01] restructure | Session 014 with five transcript-linked narratives and integrated summary
+## [2026-10-01] update | Session 014 timeline provenance and source-supported agreements
+## [2026-10-01] lint | Session 014 narrative coverage, frontmatter, headings, source links, timeline, entity index, and quest archive
+## [2026-10-01] query | Session 015 complete transcripts, canonical context, event coverage, and retrospective connections
+## [2026-10-01] restructure | Session 015 with five transcript-linked narratives and integrated summary
+## [2026-10-01] update | Session 015 timeline provenance, decisions, acquisitions, and source-supported outcomes
+## [2026-10-01] lint | Session 015 narrative coverage, frontmatter, headings, source links, timeline, entity index, and quest archive
+## [2026-10-01] query | Reviewed Session 016 transcript and supporting canon.
+## [2026-10-01] restructure | Rebuilt Session 016 with source-linked narrative, integrated summary, and connections.
+## [2026-10-01] update | Aligned Session 016 timeline with its source transcript.
+## [2026-10-01] lint | Validated Session 016 structure, sources, links, timeline, index, quest archives, and append-only log.
+## [2026-10-01] query | Reviewed Session 017 transcripts and supporting canon.
+## [2026-10-01] restructure | Rebuilt Session 017 with source-linked narratives, integrated summary, and connections.
+## [2026-10-01] update | Aligned Session 017 timeline with its source chunks.
+## [2026-10-01] lint | Validated Session 017 structure, sources, links, timeline, index, quest archives, and append-only log.
+## [2026-10-01] query | Reviewed Session 018 transcripts and supporting canon.
+## [2026-10-01] restructure | Rebuilt Session 018 with source-linked narratives, integrated summary, and connections.
+## [2026-10-01] update | Aligned Session 018 timeline with its source chunks.
+## [2026-10-01] lint | Validated Session 018 structure, sources, links, timeline, index, quest archives, and append-only log.
+## [2026-10-01] query | Reviewed Session 019 transcripts and supporting canon.
+## [2026-10-01] restructure | Rebuilt Session 019 with source-linked narratives, integrated summary, and connections.
+## [2026-10-01] update | Aligned Session 019 timeline with its source chunks.
+## [2026-10-01] lint | Validated Session 019 structure, sources, links, timeline, index, quest archives, and append-only log.
+## [2026-10-01] query | Read all Session 020 transcripts and consulted established canon.
+## [2026-10-01] restructure | Rebuilt Session 020 narrative, integrated summary, and connections from verified sources.
+## [2026-10-01] update | Corrected Session 020 timeline encounter order, discoveries, and healing outcomes.
+## [2026-10-01] lint | Validated Session 020 structure, sources, links, timeline, index, quest archives, and append-only log.
+## [2026-10-01] query | Read all Session 021 transcripts and consulted supporting canon.
+## [2026-10-01] restructure | Rebuilt Session 021 with complete source-linked narratives, integrated summary, and connections.
+## [2026-10-01] update | Corrected Session 021 timeline chronology, attributions, discoveries, and closing state.
+## [2026-10-01] lint | Validated Session 021 structure, sources, links, timeline, index, quest archives, and append-only log.
+## [2026-10-01] query | Read all Session 022 transcripts and checked related canon and prior session evidence.
+## [2026-10-01] restructure | Rebuilt Session 022 with sequential narratives, integrated summary, and verified connections.
+## [2026-10-01] update | Aligned Session 022 timeline with source chronology, acquired resources, revelations, and unresolved objectives.
+## [2026-10-01] lint | Validated Session 022 structure, sources, links, timeline, index, quest archives, and append-only log.
+## [2026-10-01] query | Read Session 023 transcripts and related canon for narrative restructuring.
+## [2026-10-01] restructure | Rebuilt Session 023 with sourced chunk narratives and integrated Summary and Connections.
+## [2026-10-01] update | Updated Session 023 timeline for transcript sequence and established outcomes.
+## [2026-10-01] lint | Validated Session 023 structure, sources, links, timeline, index, quest archives, and append-only log.
+## [2026-10-01] query | Read Session 024 transcripts and related canon for narrative restructuring.
+## [2026-10-01] restructure | Rebuilt Session 024 with sourced chunk narratives and integrated Summary and Connections.
+## [2026-10-01] update | Updated Session 024 timeline for transcript sequence and established outcomes.
+## [2026-10-01] lint | Validated Session 024 structure, sources, links, timeline, index, quest archives, and append-only log.
+## [2026-10-01] query | Read Session 025 transcripts and checked canonical names, prior sessions, and timeline.
+## [2026-10-01] restructure | Rebuilt Session 025 as source-linked chunk narratives, integrated summary, and supported connections.
+## [2026-10-01] update | Aligned Session 025 timeline with transcript chronology, testimony, acquisitions, and unresolved outcomes.
+## [2026-10-01] lint | Validated Session 025 structure, sources, links, timeline, index, quest archives, and append-only log.
+## [2026-10-01] query | Read Session 026 transcripts and checked divine developments, canonical identities, prior sessions, and timeline.
+## [2026-10-01] restructure | Rebuilt Session 026 as source-linked chunk narratives, integrated summary, and supported connections.
+## [2026-10-01] update | Corrected Session 026 timeline participation, testimony, acquisitions, and distinct encounter outcomes.
+## [2026-10-01] lint | Validated Session 026 structure, sources, links, timeline, index, quest archives, and append-only log.
+## [2026-10-01] query | Read Session 027 transcripts and checked purchases, narrative boundaries, canonical names, and prior evidence.
+## [2026-10-01] restructure | Rebuilt Session 027 as source-linked chunk narratives, integrated summary, and supported connections.
+## [2026-10-01] update | Aligned Session 027 timeline with source-supported purchases, park lore, acquisitions, and portal destinations.
+## [2026-10-01] lint | Validated Session 027 structure, sources, links, timeline, index, quest archives, and append-only log.
+## [2026-10-01] update | Clarified Session 027's crypt reference as Farraday using Session 028 testimony and established canon.
+## [2026-10-01] lint | Revalidated Session 027 after clarifying Farraday crypt provenance.
+## [2026-10-01] query | Read all Session 028 transcripts and inventoried meaningful events.
+## [2026-10-01] restructure | Rebuilt Session 028 narratives, integrated summary, and connections from source evidence.
+## [2026-10-01] update | Aligned Session 028 timeline with source-grounded narratives.
+## [2026-10-01] lint | Validated Session 028 structure, frontmatter, links, timeline, index coverage, quest archive, and change scope.
+## [2026-10-01] query | Read all Session 029 transcripts and inventoried meaningful events.
+## [2026-10-01] restructure | Rebuilt Session 029 narratives, integrated summary, and connections from source evidence.
+## [2026-10-01] update | Aligned Session 029 timeline with source-grounded narratives.
+## [2026-10-01] lint | Validated Session 029 structure, frontmatter, links, timeline, index coverage, quest archive, and change scope.
+## [2026-10-01] update | Qualified Session 029 apparent reunion using Session 030 announcer clarification.
+## [2026-10-01] lint | Revalidated Session 029 after clarifying the announcer misidentified Hooksy as Kerben.
+## [2026-10-01] update | Linked Session 028 scroll uncertainty to its explicit identification in Session 030.
+## [2026-10-01] lint | Revalidated Session 028 after linking the later Melf spell identification.
+## [2026-10-01] query | Read all Session 030 transcripts and inventoried meaningful events.
+## [2026-10-01] restructure | Rebuilt Session 030 narratives, integrated summary, and connections from source evidence.
+## [2026-10-01] update | Aligned Session 030 timeline with source-grounded narratives.
+## [2026-10-01] lint | Validated Session 030 structure, frontmatter, links, timeline, index coverage, quest archive, and change scope.
+## [2026-10-01] query | Read all five Session 031 transcripts and checked related canon.
+## [2026-10-01] restructure | Rebuilt Session 031 narratives, integrated summary, and connections from source evidence.
+## [2026-10-01] update | Aligned Session 031 timeline with verified chunk boundaries and outcomes.
+## [2026-10-01] update | Added Session 031 testimony resolving Session 030 portal interference.
+## [2026-10-02] lint | Validated Session 031 structure, frontmatter, links, timeline, index coverage, quest archive, and change scope.
+## [2026-10-02] lint | Validated Session 030 portal connection against Session 031 testimony.
+## [2026-10-02] query | Read all three Session 032 transcripts and checked related canon.
+## [2026-10-02] restructure | Rebuilt Session 032 narratives, integrated summary, and connections from source evidence.
+## [2026-10-02] update | Aligned Session 032 timeline with verified scenes, acquisitions, and chunk boundaries.
+## [2026-10-02] lint | Validated Session 032 structure, frontmatter, links, timeline, index coverage, quest archive, and change scope.
+## [2026-10-02] query | Read all four Session 033 transcripts and checked related canon.
+## [2026-10-02] restructure | Rebuilt Session 033 narratives, integrated summary, and connections from source evidence.
+## [2026-10-02] update | Aligned Session 033 timeline with verified scenes, item custody, and outcomes.
+## [2026-10-02] lint | Validated Session 033 structure, frontmatter, links, timeline, index coverage, quest archive, and change scope.
+## [2026-10-02] query | Read all Session 034 transcripts and checked supporting canon for narrative reconstruction.
+## [2026-10-02] restructure | Rebuilt Session 034 with source-linked chunk narratives and integrated Summary and Connections sections.
+## [2026-10-02] update | Aligned Session 034 timeline entries with the verified narrative.
+## [2026-10-02] lint | Validated Session 034 structure, frontmatter, links, timeline, index coverage, quest archive, and change scope.
+## [2026-10-02] query | Read all Session 035 transcripts and checked supporting canon for narrative reconstruction.
+## [2026-10-02] restructure | Rebuilt Session 035 with source-linked chunk narratives and integrated Summary and Connections sections.
+## [2026-10-02] update | Aligned Session 035 timeline entries with the verified narrative.
+## [2026-10-02] lint | Validated Session 035 structure, frontmatter, links, timeline, index coverage, quest archive, and change scope.
+## [2026-10-02] query | Read all Session 036 transcripts and checked supporting canon for narrative reconstruction.
+## [2026-10-02] restructure | Rebuilt Session 036 with source-linked chunk narratives and integrated Summary and Connections sections.
+## [2026-10-02] update | Aligned Session 036 timeline entries and chunk boundaries with the verified narrative.
+## [2026-10-02] lint | Validated Session 036 structure, frontmatter, links, timeline, index coverage, quest archive, and change scope.
+## [2026-10-02] query | Read all four Session 037 transcripts and verified connections against earlier sessions.
+## [2026-10-02] restructure | Rebuilt Session 037 as integrated, transcript-grounded chunk narratives and summary.
+## [2026-10-02] update | Aligned Session 037 timeline with source chronology and verified resurrection.
+## [2026-10-02] lint | Validated Session 037 structure, frontmatter, links, timeline, index coverage, quest archive, and change scope.
+## [2026-10-02] update | Clarified Session 037 Antumbra planting provenance against Session 025.
+## [2026-10-02] query | Read all four Session 038 transcripts and verified epilogue connections.
+## [2026-10-02] restructure | Rebuilt Session 038 finale and epilogues as transcript-grounded narratives with an integrated summary.
+## [2026-10-02] update | Aligned Session 038 timeline with battle chronology, rescue, and established campaign endings.
+## [2026-10-02] lint | Corrected shortened canonical names and final-session cross-references across restructured summaries.
+## [2026-10-02] update | Removed the timeline trailing blank line during final validation.
+## [2026-10-02] lint | Aligned timeline character names and polished companion references after canonical-name validation.
+## [2026-10-02] lint | Validated Session 038 structure, frontmatter, links, timeline, index coverage, quest archive, and change scope.
+## [2026-10-02] lint | Validated sessions 012–038 against 97 source chunks, checking structure, frontmatter, links, timeline, index, quests, and append-only logs.
+## [2026-10-02] query | Compared chapter subheadings in Sessions 011–013 and assessed Session 012 scene breaks.
+## [2026-10-02] query | Reviewed scene-heading coverage and narrative transitions across sessions 011–038.
+## [2026-10-02] restructure | Added 35 scene subheadings in sessions 011, 012, 013, 020, 021, 024, and 037.
+## [2026-10-02] lint | Validated scene headings across sessions 011–038, including structure, links, frontmatter, unchanged narratives, and append-only logging.
