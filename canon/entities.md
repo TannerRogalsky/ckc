@@ -237,6 +237,8 @@
 - [[Imperial Xihe]] — Imperial flagship last recorded landing troops at Lyngbakr Lagoon; later fate unknown
 
 ## Organizations
+- [[Aesir]] — Divine faction of sister sky goddesses who defeated the Vanir; Dunkelkalt and Entropie stand as their opposites
+- [[Vanir]] — Rival divine faction of ancient titan gods whose returning manifestations are defeated, culminating in Emperor Shen's destruction
 - [[40 Carats]] — Jack Harvey's entertainment company and troupe, reunited by Theo Harvey and rebuilt under Kerben
 - [[Clan Lapis]] — Titan folk clan known for mining and gem exploration; Lorelai Lapis-Acathian married into this clan
 - [[Heaven's Bulb]] — Group of cataclysm survivors
@@ -311,8 +313,6 @@
 - [[Kaboom Ring]] — Domyx's retained returning boomerang, releasing thunder and brief deafness around its impact
 
 ## Concepts
-- [[Vanir]] — Ancient rival gods whose returning manifestations are defeated, culminating in Emperor Shen's destruction
-- [[Aesir]] — Sister goddesses who defeated the Vanir; Dunkelkalt and Entropie stand as their opposites
 - [[The Cataclysm]] — Lore of the world-ending event that reset the world
 - [[Genesis Mundi]] — Natural renewal of reality, no longer accelerated by the party's destroyed Demi-Spell
 - [[Demi-Spell]] — World-remaking spell erased by Red Caesar, its blank pages becoming Broy's governing charter

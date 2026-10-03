@@ -602,3 +602,6 @@
 ## [2026-10-03] query | Checked reset concept articles and entity index before restoring classifications.
 ## [2026-10-03] update | Reapplied location classifications for Hole in the Sky, Kaedon, and Ceril's Star; restored article and index corrections.
 ## [2026-10-03] lint | Validated restored location articles, frontmatter, links, preserved provenance, complete entity index coverage, and append-only logging.
+## [2026-10-03] query | Reviewed concept classifications against divine faction accounts in existing transcripts.
+## [2026-10-03] update | Reclassified Aesir and Vanir as organizations; updated faction descriptions and entity index categories.
+## [2026-10-03] lint | Validated reclassified factions, frontmatter, preserved session history, wiki links, complete entity index coverage, and append-only logging.
