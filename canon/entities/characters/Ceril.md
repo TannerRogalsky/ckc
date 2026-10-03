@@ -112,8 +112,10 @@ Ceril advanced to level nine after visiting [[The Garden]], reached level twelve
 
 - [[Aeris]] — Gave him a protective shield that also serves as a conduit for divine consultation. It connected him to the goddess's celestial aspect even while her mortal fragment remained imprisoned.
 - [[Gossa]] — Traded him a volcanic-rock amulet for his former Mask of Ogun at the [[Elvish Marketplace]]. The amulet allows his owl familiar to be summoned as a magma elemental with claws, fire breath, and an explosive burst if destroyed. These are properties of the item-enabled familiar.
-- [[Branch of the Itinerant]] — A spellcasting wand acquired at the [[Elvish Marketplace]]. Flowers bloom along paths drawn with it.
-- [[Cornucopia of Constellations]] — An elven commission worn at his neck, supplying feast materials and strengthening Heroes' Feast into Goddess's Feast. It grants vitality and protection from poison, with adaptable protections against other energies.
+- [[Potion of Clairvoyance]] — A remote-perception potion recovered from the [[Southern Archipelago Castle]]. He still recalled carrying it at [[Axis Mundi]], but no consumption or final disposition is established.
+- [[Lady Acelia's Chalice]] — A jade-inlaid oak cup recovered from [[Castle Kaedon]] and claimed when the party divided its treasure. He proposed using it for drinking; no later use or final disposition is established.
+- [[Branch of the Itinerant]] — A spellcasting wand retained at campaign end, acquired at the [[Elvish Marketplace]] in exchange for a gemstone. It strengthens his magic and blooms flowers along paths drawn with it.
+- [[Cornucopia of Constellations]] — An elven commission retained at campaign end and worn at his neck, supplying feast materials and strengthening Heroes' Feast into Goddess's Feast. It grants vitality and protection from poison, with adaptable protections against other energies.
 - [[Ceril's Star]] — [[Aeris]]'s enduring celestial gift, reflected in the heavens. Prayer to it can suspend time and shelter the party for recovery, even if Ceril is incapacitated. After the adventure, its astral demiplane became his home.
 
 A potion also once granted Ceril a single flying gargoyle transformation. That consumable benefit was distinct from his enduring constellation forms.

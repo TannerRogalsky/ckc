@@ -94,14 +94,18 @@ Separately, Red Caesar completed [[Obvolvo Caelum]], a spell for condensing [[Pe
 
 ## Equipment and Resources
 
-- [[Para and Bellum]] — Two copper blades given by [[Master Lee]], used to channel Red Caesar's vampiric magic.
+- [[Para and Bellum]] — Two copper blades given by [[Master Lee]], retained at campaign end and used to channel Red Caesar's vampiric magic.
 - [[Beryzoz's Teeth]] — A ring traded to him by [[Beryzoz Helmscar]] for an amethyst. It protects against necrotic harm and allows him to question the dead. He used it at [[Castle Kaedon]] and later combined it with [[Kerben]]'s animal speech to question an expedition dog beneath [[The Funnel]].
 - [[Boots of the Alvargard]] — Magical boots that quicken him, retained at campaign end; acquired at the [[Elvish Marketplace]] in exchange for [[The Jewel of Alfheimer]].
-- [[Cloaks of Billowing]] — Dramatic magical cloaks Red Caesar purchased for the entire party in [[Brimbolyn]].
-- [[Wand of Blighting Bolts]] — Acquired from [[The Wonder Hulk]] in [[Cutlass Cray]] in exchange for his former Wand of Lightning Bolts, gemstones, and mithril. Its Blight magic broadened his offensive tools.
-- [[Ioun of Crimson Dreams]] — A crimson octahedral stone acquired in [[Cutlass Cray]] that strengthens his defenses and adapts its protection to different elemental energies.
+- [[Cloaks of Billowing]] — Dramatic magical cloaks Red Caesar purchased for the entire party in [[Brimbolyn]], retained by their respective wearers at campaign end.
+- [[Wand of Blighting Bolts]] — Acquired from [[The Wonder Hulk]] in [[Cutlass Cray]] in exchange for his former Wand of Lightning Bolts, gemstones, and mithril, and retained at campaign end. Its Blight magic broadened his offensive tools.
+- [[Ioun of Crimson Dreams]] — A crimson octahedral stone acquired in [[Cutlass Cray]] and retained at campaign end. It strengthens his defenses and adapts its protection to different elemental energies.
+- [[Green Slaadi Whiskey]] — A volatile potion received from [[Mayor Yoris]] before the [[Mana Sea]] expedition. It can heal, poison, or rarely grant a wish; no consumption is confirmed, and final custody remains uncertain.
 - [[Hooksy the Clown Automaton]] — Red Caesar salvaged the creature's clown mask at [[The Carrot Cake]] and wore it during later exploration. Its subsequent custody is not established.
+- [[Teleport Keys]] — Circle encodements he used for routes to [[House Kiirnodel]], [[The White Drake]], the dwarvish market in [[The Pit]], and Broyish Steeltown. These destinations remain known, although they could not bypass [[Axis Mundi]]'s permanent abjurations.
+- [[Tome of Satariel]] — The ledger was destroyed by Kerben, but Red Caesar recovered three arcane pages. He used Contact Other Plane beneath [[The Funnel]] and later still carried Arcane Gate and Mind Blank; their final disposition is unconfirmed.
 - [[Tomb of Lenth the Rugged]] — A recovered resource he returned to [[Pleasance MacLenth]] at [[Bookbinders Cray]], rather than retaining.
+- [[Potion of Soothing Gaze]] — A shared-healing potion recovered from [[Castle Kaedon]] and added to his inventory. No consumption is established, and final disposition remains unconfirmed.
 - [[Potion of Eels]] — Given to Red Caesar by [[Kerben]] at [[Axis Mundi]] and consumed during the final confrontation. Its temporary enhancement had ended by the party's refuge in [[Ceril's Star]].
 
 ## Campaign History

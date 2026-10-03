@@ -108,11 +108,13 @@ His inherited knowledge includes the conflict between the [[Vanir]] and [[Aesir]
 
 ## Equipment and Resources
 
-- [[Iklwa Isondo]] — A mithril trident obtained from [[Lesanderol Nokiirna]] at the [[Elvish Marketplace]] in exchange for mithril and other equipment. Its magnetic coil works with his lodestone greaves to return the weapon and pull targets toward him. The greaves also let him sense buried and submerged train rails on [[Continental Stark]].
-- [[Gith Shard Glaive]] — A halberd commissioned from [[Sigrid Forgewelt]] using the star gem obtained from [[Aeon]], a ruby, and gold. Its embedded spatial magic projects psychic cleaving force beyond the weapon's physical reach.
-- [[Cestus of the Clear Sky]] — His former hammer reforged by [[Sigrid Forgewelt]] into a gauntlet. It leaves his blue palm exposed, gathers clouds into forceful blows, and can restore vitality. Attunement spreads the appearance of the restored heavens and their constellations across one side of his body.
-- [[Hopping Mad Sash]] — A magical bunny-tail sash awarded after the [[King of the Hole]] bonus challenge. It improves leaping and can release a shockwave when its wearer is knocked down or brought near defeat.
-- [[Kaboom Ring]] — A returning boomerang acquired before the descent through [[The Funnel]], replacing his ordinary thrown javelins. Its impacts erupt with thunder.
+- [[Iklwa Isondo]] — A mithril trident retained at campaign end, obtained from [[Lesanderol Nokiirna]] at the [[Elvish Marketplace]] in exchange for mithril and other equipment. Its magnetic coil works with his lodestone greaves to return the weapon and pull targets toward him. The greaves also let him sense buried and submerged train rails on [[Continental Stark]].
+- [[Gith Shard Glaive]] — A halberd retained at campaign end, commissioned from [[Sigrid Forgewelt]] using the star gem obtained from [[Aeon]], a ruby, and gold. Its embedded spatial magic projects psychic cleaving force beyond the weapon's physical reach.
+- [[Cestus of the Clear Sky]] — His former hammer reforged by [[Sigrid Forgewelt]] into a gauntlet, retained at campaign end. It leaves his blue palm exposed, gathers clouds into forceful blows, and can restore vitality. Attunement spreads the appearance of the restored heavens and their constellations across one side of his body.
+- [[Potion of Proof Against Storms]] — A dwarf's gift in [[Darvinblast]], consumed before entering [[Hole Shebang]]. His later recollection of a storm-resistance potion does not establish a replacement.
+- [[Deception by Lenth]] — A single-use perfume recovered from the [[Southern Archipelago Castle]]. It can strengthen his ability to deceive; no use is recorded, and its custody at campaign end is unconfirmed.
+- [[Hopping Mad Sash]] — A magical bunny-tail sash awarded after the [[King of the Hole]] bonus challenge and retained at campaign end. It improves leaping and can release a shockwave after a damaging fall or collapse.
+- [[Kaboom Ring]] — A returning boomerang acquired before the descent through [[The Funnel]] and retained at campaign end, replacing his ordinary thrown javelins. Its impacts erupt with thunder.
 - [[The Opal]] — His crew's ship and home during the campaign. Obould's conditional promise of succession was recorded in his private logbook; the later permanent captaincy went to Kerben.
 
 Other gear included Stoic Laurels, which protected him from his allies' magic, and a pendant that helped him withstand charm at [[The Carrot Cake]]. His mantle supplied Cloud Jaunt, including exchanges of place with others. He used teleporting javelins early on and later traded equestrian manuals to [[Sigrid Forgewelt]] for enchanted javelins.

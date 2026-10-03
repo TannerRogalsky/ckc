@@ -14,15 +14,15 @@ related:
 
 Green Slaadi Whiskey is a volatile magical potion from [[Janeera]]'s collection, acquired by [[Red Caesar]] before the party's expedition into the [[Mana Sea]].
 
-## Properties
+## Description
 
 Drinking the whiskey can restore vitality or inflict poison harm, depending on its unpredictable magic. An exceptionally rare outcome grants a wish.
 
-## History and Ownership
+## Campaign History
 
-[[Mayor Yoris]] offered potions from Janeera's collection to support the party's expedition from [[Southport]]. Red Caesar chose Green Slaadi Whiskey and received it before entering the Mana Sea.
+In [[Southport]], [[Mayor Yoris]] offered potions from Janeera's collection to support the expedition. Red Caesar chose Green Slaadi Whiskey as one of the advance rewards, while [[Kerben]] received [[Crone's Contempt]].
 
-During the party's refuge in [[Ceril's Star]] amid the final confrontation with [[Emperor Shen]], the whiskey was considered again as a possible aid. Red Caesar spoke conditionally about drinking it, but no use was confirmed.
+During the party's refuge in [[Ceril's Star]] amid the final confrontation with [[Emperor Shen]], the companions considered the whiskey again as a possible aid. Red Caesar spoke conditionally about drinking it, but no use was confirmed.
 
 ## Final Status
 

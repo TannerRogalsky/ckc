@@ -2,7 +2,7 @@
 type: "item"
 subtypes: ["magic-item"]
 session_introduced: "027"
-sessions_appeared: ["027", "035", "037"]
+sessions_appeared: ["027", "029", "030", "035", "037"]
 aliases:
   - "Crone's Lockhammer"
 related:
@@ -11,6 +11,22 @@ related:
   - "[[The Church of the Thirty Lights]]"
 ---
 
-A versatile warhammer fashioned by [[The Church of the Thirty Lights]] from a fragment of [[Crone]] that fell to earth after the moon was shattered. It was traded to [[Vokenar]] in exchange for lapis lazuli.
+# Moon Blade
 
-Instead of dealing radiant damage like a sunblade, the Moon Blade channels bludgeoning force through moon-touched necrotic and cold power. It is especially suited to Vokenar's fight against spellcasters and ties him directly to Crone's shattered remains.
+The Moon Blade is [[Vokenar]]'s moon-forged warhammer, fashioned by [[The Church of the Thirty Lights]] from a fragment of [[Crone]] after the moon was shattered.
+
+## Description
+
+Despite its name, the Moon Blade is a versatile warhammer. It channels moon-associated necrotic and cold power through its blows and is especially effective against spellcasters.
+
+Its moonlight can suppress a creature's resistance to fire and cold, though it does not overcome immunity.
+
+## Campaign History
+
+After [[Starfall]] shattered the moon, the church in [[Cutlass Cray]] recovered some fallen pieces. Its craftspeople used one to make a weapon suited to Vokenar's struggle against hostile magic. He traded lapis lazuli for the hammer while retaining his earlier [[Akasha]]-infused blade.
+
+At [[The Carrot Cake]], Vokenar used the Moon Blade against undead and spellcasting enemies. Its light weakened the [[Flame Skull]] creatures' protection from cold while leaving their immunity to fire intact. He later used it against the [[Vampiric Nightbringer]], breaking the vampire's hold over [[Red Caesar]].
+
+## Final Status
+
+The Moon Blade remains with Vokenar at campaign end, following its last established use. No transfer, loss, or destruction is recorded. The epilogue does not describe whether it accompanied his youthful return to [[Arkadia]]; the sword Crone provided for his renewed training is a separate gift.

@@ -9,10 +9,23 @@ related:
   - "[[Tatzelwurm]]"
   - "[[Kerben]]"
 ---
+
 # Tatzelwurm Gizzard Juice
 
-A one-use injury poison crafted by [[Kerben]] from the scales and liver of the [[Tatzelwurm]] combined with darkwood bark. The dragon's liver was already partially pickled by the poisons Kerben had injected during the fight, creating a potent compound.
+Tatzelwurm Gizzard Juice is a cold-inflicting poison crafted by [[Kerben]] from the [[Tatzelwurm]]'s remains. Its last known dose was spent winning a prize at [[Hole Shebang]].
 
-The poison delivers a powerful burst of cold through a weapon strike. Like most of Kerben's poisons, it is single-use and must be restocked when returning to port.
+## Description
 
-In session 028, Kerben used his final dose on a perfect shot in Al-Qadif's Tower of Treasures at the [[Hole Shebang]], clearing every bottle and winning the maximum gold reward.
+The preparation combines white dragon scales and liver with darkwood bark. The liver was already partially pickled by poisons Kerben had used during the fight.
+
+Applied to a weapon or ammunition, the poison releases a powerful burst of cold through the next strike. Each prepared dose is consumed by use.
+
+## Campaign History
+
+After the northern dragon's defeat, Kerben searched for a hoard but found that its remains offered the more useful resource. He harvested material and combined it with darkwood bark to make the poison.
+
+At Al-Qadif's Tower of Treasures in Hole Shebang, Kerben coated a bullet with his remaining dose, concealed himself beneath the water, and surfaced to shoot. The cold blast cleared every bottle and won the challenge's maximum gold reward for the party.
+
+## Final Status
+
+The last known dose was consumed in the carnival shot. No replacement batch is recorded.

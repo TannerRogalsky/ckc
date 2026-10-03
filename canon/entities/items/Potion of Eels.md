@@ -7,12 +7,22 @@ related:
   - "[[Lenth the Rugged]]"
 ---
 
-A clear potion containing tiny black eels that swirl within it, likely a magical illusion since eels could not survive inside the liquid. When consumed, it greatly enhances agility for a limited time. Acquired by [[Kerben]]. One of [[Lenth the Rugged]]'s innovations.
+# Potion of Eels
 
-## Session 037
+The Potion of Eels is one of [[Lenth the Rugged]]'s magical preparations. Acquired by [[Kerben]], it was later given to [[Red Caesar]] and consumed during the final confrontation.
 
-[[Kerben]] passed the potion to [[Red Caesar]] at [[Axis Mundi]] before the confrontation with the last [[Vanir]], the resurrected [[Emperor Shen]]. Its use had not yet been established.
+## Description
 
-## Session 038
+Tiny black eels swirl within the clear liquid. They appeared to be a magical illusion rather than animals that could survive in the bottle.
 
-[[Red Caesar]] used the potion given to him by [[Kerben]] during the confrontation with [[Emperor Shen]]'s resurrected form. Its temporary effect ended during the party's refuge in [[Ceril's Star]].
+Drinking the potion greatly enhances agility for a limited time.
+
+## Campaign History
+
+The party recovered the potion from an ornate bottle in the [[Southern Archipelago Castle]]'s storeroom. [[Red Caesar]] identified it, and Kerben claimed it.
+
+At [[Axis Mundi]], Kerben gave it to Red Caesar before the confrontation with the resurrected [[Emperor Shen]]. Red Caesar drank it, gaining its temporary enhancement for the battle. The effect ended while the companions sheltered in [[Ceril's Star]].
+
+## Final Status
+
+The recovered potion was consumed by Red Caesar. Its temporary enhancement had ended before the campaign's close, and no replacement is recorded.

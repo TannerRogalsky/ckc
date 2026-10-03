@@ -15,6 +15,8 @@ related:
 
 Former captain of [[The Opal]], succeeded by [[Kerben]]. A gaudy orc who is very friendly with his crew and willing to go to great lengths (even "helping an elf") to establish himself and his ship as a force to be reckoned with. Hates [[The Order of Seasons]], describing them as "mostly elves, mostly jerks." The ship may have been inherited or stolen.
 
+The [[Orkland Pin of Courage]], awarded for saving southern orc tribes, was stolen by [[Xarag]], recovered by the party, and returned to Obould after his rescue. He later presented [[Obould's Wedding Band]] to [[Lady Jacinthe]] for their renewed engagement.
+
 After the Darvinblast arc, [[Obould]] ordered [[The Opal]] reinforced with a laminate deck so it could carry [[Kilosaurus]] and heavy [[Penumbra]]. He supported turning [[Lyngbakr Lagoon]] into a second base of operations, leaving crew there to help [[Alamar]] develop and defend it.
 
 In session 015, while the rest of the party was ashore, Obould discussed the crew's new direction with [[Kerben]] — whether chasing [[Penumbra]] for the Order was better than their old piracy days. He also summoned [[Domyx]] to his quarters and formally named him as heir to [[The Opal]] should anything happen to him, recording the decision in his private logbook. That night, Obould was injured during a hobgoblin pirate boarding attack but was protected by [[Red Caesar]]'s Resilient Sphere and managed to stabilize an injured deckhand.

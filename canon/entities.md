@@ -250,7 +250,7 @@
 - [[Dancing Blades]] — Thieves guild from old Kaedon, members including Clockwork who was imprisoned in Castle Kaedon
 
 ## Items & Concepts
-- [[Spelljammer]] — Crystalline device given to Kerben by Obould, enabling The Opal to travel among planes
+- [[Spelljammer]] — Obould's crystalline gift to Kerben, mounted aboard The Opal for its later journey among the stars
 - [[Ceril's Star]] — Aeris's astral refuge, used to save the party and later becoming Ceril's timeless home
 - [[Vanir]] — Ancient rival gods whose returning manifestations are defeated, culminating in Emperor Shen's destruction
 - [[Aesir]] — Sister goddesses who defeated the Vanir; Dunkelkalt and Entropie stand as their opposites
@@ -258,66 +258,66 @@
 - [[Moon Mushrooms]] — Hallucinogenic translucent mushrooms in the Continental Stark jungle, harvestable as poison
 - [[Penumbra]] — Pieces of the fallen sky; Jack Harvey's hoard let Lyngbakr repair the sky
 - [[The Cataclysm]] — Lore of the world-ending event that reset the world
-- [[League Banner]] — Banner from The League of New Stark
-- [[Para and Bellum]] — Two copper blades given to Red Caesar
+- [[League Banner]] — Lady Jacinthe's signaling banner for the party, detectable by League divination; final holder unconfirmed
+- [[Para and Bellum]] — Red Caesar's retained copper blades from Master Lee, used as conduits for arcane magic
 - [[Genesis Mundi]] — Natural renewal of reality, no longer accelerated by the party's destroyed Demi-Spell
 - [[Demi-Spell]] — World-remaking spell erased by Red Caesar, its blank pages becoming Broy's governing charter
-- [[Iklwa Isondo]] — Domyx's +1 mithril trident with magnetic auto-return, crafted by Lesanderol Nokiirna
-- [[Potion of Proof Against Storms]] — Potion granting thunder and lightning resistance, given to Domyx
-- [[Hilltop Hunter]] — Kerben's upgraded force-damage musket
-- [[Vivarian Zodex]] — Kerben's animal-protecting magical breastplate
+- [[Iklwa Isondo]] — Domyx's retained mithril trident, crafted by Lesanderol Nokiirna to return magnetically and pull targets toward him
+- [[Potion of Proof Against Storms]] — Storm-protection gift from a Darvinblast dwarf, consumed by Domyx before Hole Shebang; any replacement unconfirmed
+- [[Hilltop Hunter]] — Kerben's retained enchanted musket, firing green force-infused shots and growing seasonal moss and flowers
+- [[Vivarian Zodex]] — Kerben's retained animal-protecting breastplate, made by Beryzoz Helmscar with a rotating chest socket for his magical egg
 - [[Beryzoz's Teeth]] — Ring made from Beryzoz Helmscar's teeth, retained by Red Caesar at campaign end; protects against necrotic harm and allows questioning the dead
 - [[Touching the Sky]] — Titan rite with cosmic implications for Domyx and the broken sky
-- [[Teleport Keys]] — Encodements for at least four destinations: House Kiirnodel, The White Drake, Dwarvish Market, and Broyish Steeltown
-- [[Subpoena Deuces Mercator]] — Reusable scroll that summons the Goblin Traders' ship anywhere at sea
-- [[Wyvern Poison]] — Injury poison crafted from wyvern glands aboard the Goblin Traders' ship
-- [[Lolth's Sting]] — Contact poison from the Goblin Traders that weakens a target's ability to fight
+- [[Teleport Keys]] — Party's established circle encodements used by Red Caesar for House Kiirnodel, The White Drake, The Pit, and Broyish Steeltown
+- [[Subpoena Deuces Mercator]] — Reusable sea summons for the Goblin Traders, purchased by Kerben with shared treasure; no activation or final custody confirmed
+- [[Wyvern Poison]] — Kerben's purified wyvern-gland poison, consumed against the Tatzelwurm with no replacement recorded
+- [[Lolth's Sting]] — Incapacitating poison traded to Kerben by the Goblin Traders and spent against the Tatzelwurm; no replacement recorded
 - [[Kaedon]] — The pre-[[The Cataclysm|Cataclysm]] human civilization, nearly at peace when the world ended
-- [[Kaedonite Black Ale]] — Uncommon drinkable black ale found in the Castle Kaedon Arena granary
-- [[Tome of Satariel]] — Destroyed soul-ledger whose surviving Contact Other Plane page led Red Caesar to Domyx I
-- [[Preparation Melf]] — Throwable sticky acid flask crafted from Black Dragon scales
-- [[The Jewel of Alfheimer]] — Rare landscape painting by Aramil Kiirnodel depicting pre-Cataclysm Brimbolyn
-- [[Mangonel]] — Siege catapult at Castle Kaedon, originally a celebration device with fireworks
+- [[Kaedonite Black Ale]] — Drinkable aged brew recovered from the Castle Kaedon Arena granary for The Opal's hold; final quantity unrecorded
+- [[Tome of Satariel]] — Farraday's soul-ledger destroyed on Stark; three arcane pages recovered, with Contact Other Plane later used by Red Caesar
+- [[Preparation Melf]] — Kerben's sticky-acid flask from Castle Kaedon's unnamed black dragon; use of his later weapon poison does not settle the flask's fate
+- [[The Jewel of Alfheimer]] — Aramil Kiirnodel's pre-Cataclysm landscape, returned to Brimbolyn's elven sellers in Red Caesar's trade for magical boots
+- [[Mangonel]] — Castle Kaedon celebration catapult recovered and mounted aboard The Opal, later under Kerben's command
 - [[Starfall]] — Destroyed divine weapon whose fall is followed by the rescue mission's successful conclusion
 - [[Hole in the Sky]] — Former breach between Stark and Arkadia, sealed by Lyngbakr
-- [[Potion of Soothing Gaze]] — Healing potion that restores 10 HP to drinker and 10 HP to two creatures looked at
-- [[Lady Acelia's Chalice]] — Expertly carved oak chalice with jade insets, once belonging to Lady Acelia
-- [[Deception by Lenth]] — Magical perfume based on Lenth the Rugged's musk that improves deception for a limited time
-- [[Potion of Eels]] — Agility-enhancing potion used by Red Caesar during the final battle
-- [[Potion of Clairvoyance]] — Potion granting clairvoyant sight or hearing from a distant location for a limited time
-- [[Gith Shard Glaive]] — Halberd with extended-range psychic cleave, crafted by Sigrid Forgewelt from a Gith Star Gem
-- [[Hopping Mad Sash]] — Magical bunny-tail sash awarded to Domyx after the King of the Hole bonus challenge
-- [[Sunset's Solace]] — Spell-storing shield for Vokenar
+- [[Potion of Soothing Gaze]] — Shared-healing potion from Castle Kaedon's fallen apothecary, claimed by Red Caesar; final disposition unconfirmed
+- [[Lady Acelia's Chalice]] — Jade-inlaid oak cup recovered from Castle Kaedon and claimed by Ceril; final disposition unconfirmed
+- [[Deception by Lenth]] — Lenth the Rugged's single-use magical perfume, last received by Domyx; no use recorded and final custody unconfirmed
+- [[Potion of Eels]] — Lenth the Rugged's agility potion, transferred from Kerben to Red Caesar and consumed during the final confrontation
+- [[Potion of Clairvoyance]] — Lenth the Rugged's remote-perception potion, last carried by Ceril; no recorded consumption and final disposition unconfirmed
+- [[Gith Shard Glaive]] — Domyx's retained halberd, crafted by Sigrid Forgewelt from a star gem to project psychic cleaving force
+- [[Hopping Mad Sash]] — Domyx's retained rabbit-tail championship sash, aiding leaps and releasing shockwaves after damaging falls or collapse
+- [[Sunset's Solace]] — Vokenar's retained ruby-inset spell-storing shield, carrying situational magic and restorative power
 - [[Boots of the Alvargard]] — Magical boots retained by Red Caesar at campaign end; continually quicken their wearer without attunement
-- [[Branch of the Itinerant]] — Spellcasting wand that blooms flowers along a drawn path, acquired by Ceril
-- [[Cloaks of Billowing]] — Magic cloaks allowing dramatic billowing as a bonus action, purchased for the party
+- [[Branch of the Itinerant]] — Spellcasting wand retained by Ceril; strengthens his magic and blooms flowers along a drawn path
+- [[Cloaks of Billowing]] — Magical cloaks purchased by Red Caesar and retained by their respective party members; billow on command
 - [[Deep Roses]] — Rare herbs growing underwater in the Mana Sea; correct cure for Mana Sickness
 - [[Obvolvo Caelum]] — Red Caesar's Penumbra-condensing spell used to move Jack Harvey's vault hoard
 - [[Mana Sickness]] — Former plague whose source was ended and whose Southport victims recover by the epilogue
-- [[Shark's Edge]] — Kerben's +2 falchion made from a megalodon tooth; reveals water temperature by sight
-- [[Tatzelwurm Gizzard Juice]] — One-use white dragon poison crafted by Kerben from Tatzelwurm scales and darkwood bark
+- [[Shark's Edge]] — Kerben's retained megalodon-tooth falchion, revealing visible water's temperature and guiding The Opal through northern ice
+- [[Tatzelwurm Gizzard Juice]] — Kerben's white-dragon cold poison, whose last known dose was spent winning Al-Qadif's Tower of Treasures
 - [[Antumbra]] — Sabotaged Penumbra consumed in permanently destroying Starfall, preventing its shot at Sigil and ending Emperor Shen's invulnerability
-- [[Chart of the Witness]] — Recombined and decoded world chart showing old Stark and the present islands
-- [[Potion of Fluid Adamantite]] — Protective potion used by Kerben during the battles with the returning Vanir
-- [[Orkland Pin of Courage]] — Award given to Obould for saving orc tribes in southern battles decades ago
-- [[Obould's Wedding Band]] — Recovered wedding ring used by Obould to renew his proposal to Lady Jacinthe
-- [[The Ascot]] — Kerben’s animal-speaking scarf, whose place-swapping power freed him from a purple worm
-- [[Wand of Blighting Bolts]] — Blight-based wand acquired by Red Caesar in exchange for his Wand of Lightning Bolts
-- [[Moon Blade]] — Versatile warhammer forged from Crone's remains, traded to Vokenar by the Church of the Thirty Lights
+- [[Chart of the Witness]] — Completed encoded world chart kept among the party's maps aboard The Opal, depicting drowned Stark and present islands
+- [[Potion of Fluid Adamantite]] — Silver protective draught consumed by Kerben against Entropie; its temporary protection expired before campaign end
+- [[Orkland Pin of Courage]] — Obould's award for saving southern orc tribes, recovered from Xarag and returned to him
+- [[Obould's Wedding Band]] — Recovered inscribed ring presented to Lady Jacinthe in Obould's accepted proposal before their later marriage
+- [[The Ascot]] — Kerben's retained animal-speaking scarf, exchanging his position with beasts and freeing him from a purple worm
+- [[Wand of Blighting Bolts]] — Red Caesar's retained Blight wand, traded from The Wonder Hulk to broaden his lightning-focused equipment
+- [[Moon Blade]] — Vokenar's retained moon-forged warhammer, made from Crone's remains and suppressing resistance to fire and cold
 - [[Jack Harvey's Portrait]] — Harvey family relic now entrusted to David Harvey aboard The White Drake
-- [[Ranger Scroll]] — Ranger spell scroll found among a dead adventurer's belongings
-- [[Rahmadi's Capers]] — Collectible comic series about the legendary goblin rogue Rahmadi
-- [[Jade's Compass]] — Water-damaged treasure compass found in Jack Harvey's vault, tied to Vizier Jade and The Tyrant
+- [[Ranger Scroll]] — Partially used Conjure Barrage scroll retained by Kerben after expending one of its two inscriptions against an imperial escort
+- [[Rahmadi's Capers]] — Collectible comics about Rahmadi; fourth issue recovered for the party's hold, with no completed collection or trade
+- [[Jade's Compass]] — Vizier Jade's water-damaged treasure compass, recovered from Jack Harvey's vault and paid to Naomi Ue for the Broy diversion
 - [[Green Slaadi Whiskey]] — Janeera's volatile potion, acquired by Red Caesar; can heal, poison, or rarely grant a wish, with final custody uncertain
-- [[Crone's Contempt]] — Potion from Janeera's collection that empowers repeated weapon strikes
-- [[Tomb of Lenth the Rugged]] — Gilded remains returned to Pleasance MacLenth at Bookbinders Cray
-- [[Ioun of Crimson Dreams]] — Adaptive defensive Ioun stone acquired by Red Caesar
-- [[Ioun of the Emerald Hunter]] — Agility-enhancing Ioun stone acquired by Kerben
-- [[Ioun of the Gilded Savior]] — Companion-linking restorative Ioun stone acquired by Vokenar
-- [[Cestus of the Clear Sky]] — Domyx’s sky-infused gauntlet, gathering clouds into forceful blows that can restore vitality
+- [[Crone's Contempt]] — Janeera's weapon-enhancing potion, last received by Kerben; no consumption recorded and final custody unconfirmed
+- [[Tomb of Lenth the Rugged]] — Gilded sarcophagus and remains entrusted to Pleasance MacLenth for preservation and display at Bookbinders Cray
+- [[Ioun of Crimson Dreams]] — Red Caesar's retained crimson defensive stone, with adaptable protection against elemental energies
+- [[Ioun of the Emerald Hunter]] — Kerben's retained emerald stone, heightening agility and easing changes of marked quarry
+- [[Ioun of the Gilded Savior]] — Vokenar's retained golden stone, sharing self-healing with Red Caesar and empowering a decisive strike
+- [[Cestus of the Clear Sky]] — Domyx's sky-infused gauntlet, retained at campaign end; gathers clouds into forceful, restorative blows
 
-- [[Cornucopia of Constellations]] — Ceril’s elven feast charm providing food, vitality, and adaptable energy protections
-- [[Kaboom Ring]] — Domyx’s returning boomerang with a thunderous impact
+- [[Cornucopia of Constellations]] — Ceril's retained elven feast charm, supplying food, vitality, and adaptable energy protections
+- [[Kaboom Ring]] — Domyx's retained returning boomerang, releasing thunder and brief deafness around its impact
 
 ## Deities
 - [[Aeris]] — Restored sky goddess who aids the final battle and welcomes Vokenar home after the divine mission succeeds

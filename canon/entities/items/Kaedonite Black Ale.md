@@ -11,4 +11,18 @@ related:
   - "[[Castle Kaedon Arena]]"
 ---
 
-An uncommon consumable item found in the [[Castle Kaedon Arena]]'s granary. Despite the building being filled with toxic alcohol fumes from 60 to 100 year old malt liquor, some of the aged brew remained drinkable. The [[Kaedon]] civilization was known for its brewing tradition, and this black ale survived the centuries in sealed barrels within the castle's magically preserved granary.
+# Kaedonite Black Ale
+
+Kaedonite Black Ale is an aged brew recovered from the magically preserved granary at the [[Castle Kaedon Arena]]. It survived from [[Kaedon]]'s brewing tradition.
+
+## Description
+
+Some of the black ale remained drinkable in sealed barrels, although other aged malt liquor in the granary had filled the building with dangerous alcoholic fumes. The surviving brew was valuable as a recovered consumable.
+
+## Campaign History
+
+The party cleared the granary's infestation and ignited its hazardous vapor before resting there. During that rest, [[Red Caesar]] searched the building and found drinkable ale among its preserved contents. The party added it to the shared hold aboard [[The Opal]].
+
+## Final Status
+
+The recovered ale was last recorded in The Opal's shared hold. No later drinking or trade is established, and its remaining quantity and disposition at campaign end are unconfirmed.

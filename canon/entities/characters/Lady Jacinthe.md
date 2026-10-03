@@ -29,7 +29,7 @@ However, [[Ceril]]'s second scrying attempt — using a stolen portrait of Jacin
 
 In session 031, [[Obould]] was rescued from [[Vizier Jade]] and [[Emperor Shen]] at [[Lyngbakr Lagoon]], ending the hostage leverage Vizier Jade had held over Jacinthe and [[The League of New Stark]] since session 021.
 
-In session 034, Jacinthe learned that the party had hidden [[Antumbra]] in the Penumbra she surrendered to the [[Broyish Empire]]. After [[Obould]] retired from [[The Opal]], he proposed with [[Obould's Wedding Band]]. Jacinthe accepted, and they agreed to lead the League together rather than choose between their relationship and their responsibilities.
+In session 034, Jacinthe learned that the party had hidden [[Antumbra]] in the Penumbra she surrendered to the [[Broyish Empire]]. After [[Obould]] retired from [[The Opal]], he proposed with [[Obould's Wedding Band]]. Lady Jacinthe accepted the ring and proposal, and they agreed to lead the League together rather than choose between their relationship and their responsibilities.
 
 ## Session 038
 

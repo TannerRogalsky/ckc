@@ -104,9 +104,9 @@ Vokenar uses sacred light through Sacred Flame, Sacred Spear, Word of Radiance, 
 
 - **Divine mantle** — A focus for contact with [[Sigil]]. During one consultation its colored gems became white diamonds and manifested a sun visible only to Vokenar before Sigil's light returned to the mantle.
 - **Akasha-infused blade** — Acquired in [[The Pit]] and used before the Moon Blade. Its [[Akasha]] counters elementals and reacts against magic; he still used it during his later training with Crone. Its eventual custody is not established.
-- [[Moon Blade]] — A versatile warhammer fashioned by [[The Church of the Thirty Lights]] from a fragment of Crone, acquired from [[The Wonder Hulk]] in [[Cutlass Cray]] for lapis lazuli. Its substance connected his weapon to his injured mentor.
-- [[Sunset's Solace]] — Spell-storing shield obtained from [[Sigrid Forgewelt]] for a rare gem during the visit to The Pit for ship upgrades.
-- [[Ioun of the Gilded Savior]] — Acquired before the Farraday confrontation. It links him to a chosen companion and shares restorative benefits.
+- [[Moon Blade]] — A versatile warhammer fashioned by [[The Church of the Thirty Lights]] from a fragment of Crone in [[Cutlass Cray]], acquired for lapis lazuli and retained at campaign end. Its moonlight weakens resistance to fire and cold, and its substance connected his weapon to his injured mentor. Its transport during his youthful return to Arkadia is not described.
+- [[Sunset's Solace]] — Spell-storing shield obtained from [[Sigrid Forgewelt]] for a rare gem during the visit to The Pit for ship upgrades and retained at campaign end. It first held Slow and later carried restorative magic. Its transport during his youthful return to Arkadia is not described.
+- [[Ioun of the Gilded Savior]] — Acquired before the Farraday confrontation and retained at campaign end. He bonded it to [[Red Caesar]], sharing his self-healing with the wizard. The epilogue does not describe whether it accompanied his youthful return to Arkadia.
 - [[Jack Harvey's Portrait]] — A recovered party possession he entrusted to [[David Harvey]], rather than retained.
 - [[Tome Keeper's Pyramid]] — Consecrated after Farraday's defeat as a magical return point and potential base; the record does not establish a permanent residence there.
 

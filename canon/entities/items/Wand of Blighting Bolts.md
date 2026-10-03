@@ -2,17 +2,29 @@
 type: item
 subtypes: [magic-item]
 session_introduced: "027"
-sessions_appeared: ["027"]
+sessions_appeared: ["027", "028", "029", "033", "037"]
+aliases:
+  - "Wand of Blightening Bolts"
+  - "Wand of Blightning Bolts"
 related:
   - "[[Red Caesar]]"
   - "[[The Wonder Hulk]]"
 ---
 
-A wand acquired by [[Red Caesar]] in [[Cutlass Cray]] from [[The Wonder Hulk]] in exchange for his Wand of Lightning Bolts, a sapphire, jade, and a mithril. The wand transforms his old lightning-focused tool into a blight-based weapon, giving Red Caesar access to necrotic damage for the first time.
+# Wand of Blighting Bolts
 
-The wand casts *Blight* at levels 4 through 6. It holds 6 charges per day, and each casting costs **spell level minus 2 charges**:
-- Level 4 cast → 2 charges
-- Level 5 cast → 3 charges
-- Level 6 cast → 4 charges
+The Wand of Blighting Bolts is a wand acquired by [[Red Caesar]] from [[The Wonder Hulk]] in [[Cutlass Cray]]. Its necrotic magic broadened his lightning-focused equipment.
 
-This allows flexible combinations — for example, one level 6 and one level 4, two level 5s, or three level 4s in a day.
+## Description
+
+The wand casts Blight with adjustable intensity, drawing on a limited daily reserve of magical power. Its attacks wither living material and can appear as black, lightninglike energy.
+
+## Campaign History
+
+The Wonder Hulk offered Red Caesar a different tool because he already possessed substantial lightning magic. Red Caesar traded his former Wand of Lightning Bolts, a sapphire, jade, and mithril for the new wand.
+
+At [[Hole Shebang]], he used it against [[Roger Ribbons]], whose vivid threads withered to gray. It later helped him weaken the [[Shambling Mound]] at the [[Magic Hat]]. Red Caesar continued using its Blight magic during later confrontations, including the struggle at [[Axis Mundi]].
+
+## Final Status
+
+The wand remains with Red Caesar at campaign end. No later transfer, loss, or destruction is recorded.

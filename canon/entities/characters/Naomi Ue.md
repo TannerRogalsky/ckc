@@ -16,3 +16,5 @@ In session 023, the party found Naomi Ue through [[Vokenar]]'s arcane eye scouti
 When the party entered her tavern, Naomi Ue recognized them as outsiders. She discovered they had warrants issued by [[Oni]] sentries after the party killed several oni near the coast. She offered to clear their warrants for 10 pounds of mithril, which the party paid. She also offered to fabricate false records redirecting oni attention for additional payment, and to arrange citizenship papers.
 
 Naomi Ue confirmed that [[Obould]] is in the custody of [[Vizier Jade]], held as prisoner of war and leverage against [[The League of New Stark]]. She warned the party they would need to speak with Jade to access Obould.
+
+During the rescue in [[Broy]], [[Red Caesar]] paid Naomi Ue with gold, [[Jade's Compass]], and plans from [[The Carrot Cake]] to arrange a diversion near the imperial palace. Her people were to act when the false sky changed and then withdraw into hiding. The compass was transferred to her as payment.

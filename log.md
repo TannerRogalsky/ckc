@@ -520,3 +520,68 @@
 ## [2026-10-03] restructure | Organized Antumbra description, chronological campaign history, and final status.
 ## [2026-10-03] update | Aligned Antumbra index description and Kerben sabotage outcome with the confirmed destruction of Starfall.
 ## [2026-10-03] lint | Validated Antumbra structure, source fidelity, frontmatter, links, preserved provenance, entity index coverage, canon consistency, and append-only logging.
+## [2026-10-03] query | Verified Branch of the Itinerant through Gith Shard Glaive against transcripts and related canon.
+## [2026-10-03] restructure | Organized Branch of the Itinerant description, campaign history, and final status.
+## [2026-10-03] restructure | Organized Cestus of the Clear Sky description, campaign history, and final status.
+## [2026-10-03] restructure | Organized Chart of the Witness description, campaign history, and final status.
+## [2026-10-03] restructure | Organized Cloaks of Billowing description, campaign history, and final status.
+## [2026-10-03] restructure | Organized Cornucopia of Constellations description, campaign history, and final status.
+## [2026-10-03] restructure | Organized Crone's Contempt description, campaign history, and final status.
+## [2026-10-03] restructure | Organized Deception by Lenth description, campaign history, and final status.
+## [2026-10-03] restructure | Organized Gith Shard Glaive description, campaign history, and final status.
+## [2026-10-03] update | Aligned eight item index descriptions, verified appearance histories, and party equipment custody.
+## [2026-10-03] lint | Preserved uncertain final custody for unused Crone's Contempt and Deception by Lenth under the no-user rule.
+## [2026-10-03] lint | Validated eight rewritten items, linked custody, frontmatter, provenance, links, entity index coverage, and append-only logging.
+## [2026-10-03] query | Verified Green Slaadi Whiskey through Jade's Compass against acquisition, use, transfer, and finale sources.
+## [2026-10-03] restructure | Organized Green Slaadi Whiskey description, campaign history, and final status.
+## [2026-10-03] restructure | Organized Hilltop Hunter description, campaign history, and final status.
+## [2026-10-03] restructure | Organized Hopping Mad Sash description, campaign history, and final status.
+## [2026-10-03] restructure | Organized Iklwa Isondo description, campaign history, and final status.
+## [2026-10-03] restructure | Organized Ioun of Crimson Dreams description, campaign history, and final status.
+## [2026-10-03] restructure | Organized Ioun of the Emerald Hunter description, campaign history, and final status.
+## [2026-10-03] restructure | Organized Ioun of the Gilded Savior description, campaign history, and final status.
+## [2026-10-03] restructure | Organized Jack Harvey's Portrait description, campaign history, and final status.
+## [2026-10-03] restructure | Organized Jade's Compass description, campaign history, and final status.
+## [2026-10-03] update | Aligned item index and equipment custody; recorded compass payment and corrected Lesanderol Nokiirna's trident description.
+## [2026-10-03] lint | Validated seventeen rewritten items, related canon, frontmatter, provenance, links, entity index coverage, and append-only logging.
+## [2026-10-03] query | Verified Kaboom Ring through Para and Bellum against early notes, transcripts, equipment, and epilogues.
+## [2026-10-03] restructure | Organized Kaboom Ring description, campaign history, and final status.
+## [2026-10-03] restructure | Organized Kaedonite Black Ale description, campaign history, and final status.
+## [2026-10-03] restructure | Organized Lady Acelia's Chalice description, campaign history, and final status.
+## [2026-10-03] restructure | Organized League Banner description, campaign history, and final status.
+## [2026-10-03] restructure | Organized Lolth's Sting description, campaign history, and final status.
+## [2026-10-03] restructure | Organized Mangonel description, campaign history, and final status.
+## [2026-10-03] restructure | Organized Moon Blade description, campaign history, and final status.
+## [2026-10-03] restructure | Organized Obould's Wedding Band description, campaign history, and final status.
+## [2026-10-03] restructure | Organized Orkland Pin of Courage description, campaign history, and final status.
+## [2026-10-03] restructure | Organized Para and Bellum description, campaign history, and final status.
+## [2026-10-03] update | Aligned item index, character equipment, recovered keepsakes, and The Opal's mounted mangonel.
+## [2026-10-03] lint | Validated twenty-seven rewritten items, related canon, frontmatter, provenance, links, entity index coverage, and append-only logging.
+## [2026-10-03] query | Verified Potion of Clairvoyance through Spelljammer and checked ambiguous consumable uses against original transcripts.
+## [2026-10-03] restructure | Organized Potion of Clairvoyance description, campaign history, and final status.
+## [2026-10-03] restructure | Organized Potion of Eels description, campaign history, and final status.
+## [2026-10-03] restructure | Organized Potion of Fluid Adamantite description, campaign history, and final status.
+## [2026-10-03] restructure | Organized Potion of Proof Against Storms description, campaign history, and final status.
+## [2026-10-03] restructure | Organized Potion of Soothing Gaze description, campaign history, and final status.
+## [2026-10-03] restructure | Organized Preparation Melf description, campaign history, and final status.
+## [2026-10-03] restructure | Organized Rahmadi's Capers description, campaign history, and final status.
+## [2026-10-03] restructure | Organized Ranger Scroll description, campaign history, and final status.
+## [2026-10-03] restructure | Organized Shark's Edge description, campaign history, and final status.
+## [2026-10-03] restructure | Organized Spelljammer description, campaign history, and final status.
+## [2026-10-03] update | Aligned item index and equipment; corrected Lolth's Sting consumption and preserved distinct acid preparations and storm-potion uncertainty.
+## [2026-10-03] lint | Validated thirty-seven rewritten items, related canon, frontmatter, provenance, links, entity index coverage, and append-only logging.
+## [2026-10-03] query | Verified Subpoena Deuces Mercator through Wyvern Poison against acquisition, use, destruction, transfer, and epilogue sources.
+## [2026-10-03] restructure | Organized Subpoena Deuces Mercator description, campaign history, and final status.
+## [2026-10-03] restructure | Organized Sunset's Solace description, campaign history, and final status.
+## [2026-10-03] restructure | Organized Tatzelwurm Gizzard Juice description, campaign history, and final status.
+## [2026-10-03] restructure | Organized Teleport Keys description, campaign history, and final status.
+## [2026-10-03] restructure | Organized The Ascot description, campaign history, and final status.
+## [2026-10-03] restructure | Organized The Jewel of Alfheimer description, campaign history, and final status.
+## [2026-10-03] restructure | Organized Tomb of Lenth the Rugged description, campaign history, and final status.
+## [2026-10-03] restructure | Organized Tome of Satariel description, campaign history, and final status.
+## [2026-10-03] restructure | Organized Vivarian Zodex description, campaign history, and final status.
+## [2026-10-03] restructure | Organized Wand of Blighting Bolts description, campaign history, and final status.
+## [2026-10-03] restructure | Organized Wyvern Poison description, campaign history, and final status.
+## [2026-10-03] update | Aligned item index and equipment; distinguished Castle Kaedon's dragon from Xarag in mangonel and acid-flask provenance.
+## [2026-10-03] lint | Removed an unsupported Crone relationship and clarified the Tome of Satariel's repair bond.
+## [2026-10-03] lint | Validated forty-eight rewritten items, source fidelity, frontmatter, links, provenance, custody, complete index coverage, and append-only logging.

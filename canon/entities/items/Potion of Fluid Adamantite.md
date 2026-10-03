@@ -5,12 +5,22 @@ session_introduced: "025"
 sessions_appeared: ["025", "037", "038"]
 ---
 
-A rare potion found among bottles in the inner sanctum of the [[Southern Archipelago Castle]]. When consumed, it grants the drinker resistance to all damage types for one minute — including force and psychic damage. [[Red Caesar]] took possession of it, noting its usefulness given his role as the party's primary potion-brewer.
+# Potion of Fluid Adamantite
 
-## Session 037
+The Potion of Fluid Adamantite is a protective draught recovered from the [[Southern Archipelago Castle]] and consumed by [[Kerben]] during the battles with the returning [[Vanir]].
 
-[[Kerben]] consumed the potion during the battle with [[Entropie]] at [[Axis Mundi]], coating his body in a reflective metallic sheen. Its protection remained active when the last [[Vanir]], the resurrected [[Emperor Shen]], manifested.
+## Description
 
-## Session 038
+The potion resembles liquid silver. Drinking it gives the body a reflective metallic sheen and briefly protects against harm of every kind, including force and psychic power.
 
-The potion's protection remained active on [[Kerben]] at the start of the confrontation with [[Emperor Shen]]'s final form. It expired during the party's respite in [[Ceril's Star]].
+## Campaign History
+
+Kerben found the unopened bottle among supplies left in the castle's inner sanctum. [[Red Caesar]] identified it and accepted it when Kerben offered it to him.
+
+The potion later came into Kerben's hands, although the intervening transfer was not described. He drank it while fighting [[Entropie]] at [[Axis Mundi]], then jumped down to engage the foe with his body shining like chrome.
+
+Its protection remained active when [[Emperor Shen]] returned in his final form. The effect expired during the companions' refuge in [[Ceril's Star]].
+
+## Final Status
+
+The recovered potion was consumed by Kerben. Its temporary protection had ended before the campaign's close, and no replacement is recorded.

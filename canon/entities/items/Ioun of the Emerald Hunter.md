@@ -10,4 +10,18 @@ related:
   - "[[Cutlass Cray]]"
 ---
 
-An emerald Ioun stone acquired by [[Kerben]] in [[Cutlass Cray]]. It heightens his agility and lets him shift his focus between hunted targets more fluidly.
+# Ioun of the Emerald Hunter
+
+The Ioun of the Emerald Hunter is an agility-enhancing Ioun stone acquired by [[Kerben]] in [[Cutlass Cray]] after he became permanent captain of [[The Opal]].
+
+## Description
+
+The emerald stone heightens its attuned wearer's agility and lets Kerben shift Hunter's Mark between chosen quarry more fluidly.
+
+## Campaign History
+
+Kerben exchanged diamonds for the stone during the party's return to Cutlass Cray. Its benefits strengthened the marksmanship, mobility, and pursuit skills he carried into the expedition's final stages.
+
+## Final Status
+
+The stone remains with Kerben at campaign end. No later transfer, loss, or destruction is recorded.

@@ -2,7 +2,7 @@
 type: item
 subtypes: [artifact]
 session_introduced: "015"
-sessions_appeared: ["015", "021", "023", "034", "036"]
+sessions_appeared: ["015", "021", "023", "024", "026", "034", "036"]
 aliases:
   - Tome of Soteriel
 related:
@@ -12,14 +12,34 @@ related:
   - "[[Tome Keeper's Pyramid]]"
 ---
 
-A hellish ledger kept by [[Farraday]]. The [[Rakshasa]] explained that destroying Farraday's foothold and dealing with the tome would end one of the threats watching him, allowing him to leave [[The Garden]] and visit his family.
+# Tome of Satariel
 
-## Session 023
+The Tome of Satariel was [[Farraday]]'s hellish ledger, linking his captured souls and magical knowledge to his foothold on [[Stark]]. [[Kerben]] destroyed it there, leaving three recoverable spell pages.
 
-[[Vokenar]] cast Legend Lore on the Tome of Satariel, revealing its nature: the Tome is made of 666 pages, each collected from a different wizard's soul. Farraday had to kill and extract the souls of 666 wizards to create it. The Tome returns to hell if destroyed in the material realm, captures the souls of magical beings, and allows Farraday to capture knowledge through death. It resided in [[Tome Keeper's Pyramid]], whose interior mirrored its state in hell and contained traps set by Farraday.
+## Description
 
-In session 034, [[Kerben]] shot the tome apart before it could repair itself through its bond with Farraday. Only three spell pages survived: Contact Other Plane, Arcane Gate, and Mind Blank. Destroying the ledger severed Farraday's material link to hell and helped force him out of Stark.
+The floating book recorded money, souls, and exchanges with hell. [[Vokenar]]'s Legend Lore revealed that its foundational pages came from the extracted souls of 666 murdered wizards, with further souls potentially added afterward.
 
-## Session 036
+Its power captured magical souls and knowledge through death. It could track the [[Rakshasa]] and sustain Farraday's connection to his work in hell. A smoky bond between the book and Farraday could repair damage to the tome if it survived long enough.
 
-[[Red Caesar]] used the surviving Contact Other Plane page during the descent beneath [[The Funnel]]. It brought him into an incapacitating encounter with [[Domyx I]] in the [[Gray Wastes]] until [[Vokenar]] restored him.
+Legend Lore said that destruction in the material realm would return the tome to hell. Its place in [[Tome Keeper's Pyramid]] required a dedicated housing, and the trapped interior reflected its state in hell.
+
+## Campaign History
+
+### The Watcher and the Pyramid
+
+At [[The Garden]], the Rakshasa explained that the tome's keeper could watch his movements and call other escaped demons against him. He asked the party to destroy that enemy's foothold so he could safely visit his son, [[Keys Caeradel]].
+
+The party initially sought an unnamed [[Arcanoloth]]. [[Ceril]]'s divination located the pyramid in the eastern waters, and Vokenar's Legend Lore disclosed the danger of the book capturing their souls. The companions postponed the confrontation while pursuing other commitments.
+
+### Destruction and Surviving Magic
+
+Inside the pyramid, Kerben recognized Farraday as his former employer. When the fiend attacked, Kerben targeted the floating ledger and shot it apart before its bond with Farraday could repair it. Destroying the book severed a vital material connection to hell and helped the party force Farraday out of Stark. The Rakshasa's surveillance ended.
+
+Most pages became dust, but Contact Other Plane, Arcane Gate, and Mind Blank survived. [[Red Caesar]] took the arcane pages. During the descent beneath [[The Funnel]], he used Contact Other Plane and encountered [[Domyx I]] in the [[Gray Wastes]]. The experience overwhelmed and incapacitated him until Vokenar restored him. He later still carried the Arcane Gate and Mind Blank scrolls.
+
+## Final Status
+
+The ledger was destroyed on Stark. Its return to hell was foretold by Legend Lore, but no later condition there was observed.
+
+Red Caesar used the surviving Contact Other Plane page. No later use or disposition of the Arcane Gate and Mind Blank pages is established.

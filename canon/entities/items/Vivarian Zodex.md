@@ -10,4 +10,20 @@ related:
   - "[[Kilosaurus]]"
 ---
 
-A +1 breastplate made for [[Kerben]] by [[Beryzoz Helmscar]] in [[The Pit]]. It raises [[Kerben]]'s armor class and grants nearby animal companions additional protection. It also includes a rotating slot for [[Kerben]]'s egg-like object.
+# Vivarian Zodex
+
+Vivarian Zodex is [[Kerben]]'s enchanted breastplate, made by [[Beryzoz Helmscar]] in [[The Pit]]. Its protection extends to nearby animal companions.
+
+## Description
+
+The breastplate requires attunement and strengthens both its wearer and companions close to him. A socket at the center of the chest holds Kerben's egg-like magical object, slowly rotating it when the egg is stored there.
+
+## Campaign History
+
+After the expedition to [[Darvinblast]], Kerben visited Beryzoz Helmscar for armor. He declined the smith's proposal to replace his skin and instead accepted an enchanted breastplate made using jade.
+
+The animal-focused design suited Kerben's relationships with companions such as [[Tango]] and [[Kilosaurus]], while the chest socket integrated his egg into his equipment.
+
+## Final Status
+
+Vivarian Zodex remains with Kerben at campaign end. No later transfer, loss, or destruction is recorded.
