@@ -1,11 +1,13 @@
 ---
-type: concept
-subtypes: [lore]
+type: location
+subtypes: [landmark]
 session_introduced: "001"
 sessions_appeared: ["013", "031", "035"]
 ---
 
-A hole in the sky that the party aims to find and plug. [[Lyngbakr]] fell through it from [[Arkadia]]. One of the party's main quests.
+# Hole in the Sky
+
+The Hole in the Sky was a breach in the heavens between [[Stark]] and [[Arkadia]], through which [[Lyngbakr]] fell. Finding and sealing it was one of the party's main quests; Lyngbakr ultimately closed it.
 
 In session 013, [[Sigil]] identified [[Emperor Shen]], an earlier practitioner of [[Touching the Sky]], as the party's greatest enemy. This suggests the origin or continuation of the hole may be tied to titan ambition and direct contact with [[Aeris]].
 

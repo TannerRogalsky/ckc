@@ -166,6 +166,9 @@
 - [[Victor, the Amphibious Beast]] — Kerben's large crocodilian companion, effective on land and in water
 
 ## Locations
+- [[Hole in the Sky]] — Former breach between Stark and Arkadia, sealed by Lyngbakr
+- [[Kaedon]] — Pre-Cataclysm human realm around Westerness and Castle Kaedon, transformed from monarchy into a republic before its destruction
+- [[Ceril's Star]] — Aeris's astral refuge, used to save the party and later becoming Ceril's timeless home
 - [[Gray Wastes]] — Lower plane flooded by Stark's excess oceans after the defeat of Emperor Shen's Vanir form
 - [[Gaokerena]] — World tree restored by Ceril's planting; provides a passage between the Gray Wastes and Arkadia
 - [[Continental Stark]] — Massive elfish continent, last remnant of the Old World, home to Brimbolyn
@@ -308,15 +311,12 @@
 - [[Kaboom Ring]] — Domyx's retained returning boomerang, releasing thunder and brief deafness around its impact
 
 ## Concepts
-- [[Ceril's Star]] — Aeris's astral refuge, used to save the party and later becoming Ceril's timeless home
 - [[Vanir]] — Ancient rival gods whose returning manifestations are defeated, culminating in Emperor Shen's destruction
 - [[Aesir]] — Sister goddesses who defeated the Vanir; Dunkelkalt and Entropie stand as their opposites
 - [[The Cataclysm]] — Lore of the world-ending event that reset the world
 - [[Genesis Mundi]] — Natural renewal of reality, no longer accelerated by the party's destroyed Demi-Spell
 - [[Demi-Spell]] — World-remaking spell erased by Red Caesar, its blank pages becoming Broy's governing charter
 - [[Touching the Sky]] — Titan rite with cosmic implications for Domyx and the broken sky
-- [[Kaedon]] — The pre-[[The Cataclysm|Cataclysm]] human civilization, nearly at peace when the world ended
-- [[Hole in the Sky]] — Former breach between Stark and Arkadia, sealed by Lyngbakr
 - [[Obvolvo Caelum]] — Red Caesar's Penumbra-condensing spell used to move Jack Harvey's vault hoard
 - [[Mana Sickness]] — Former plague whose source was ended and whose Southport victims recover by the epilogue
 

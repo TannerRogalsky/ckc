@@ -599,3 +599,6 @@
 ## [2026-10-03] query | Verified transcript wording for the two Starfall origin accounts.
 ## [2026-10-03] update | Added direct transcript quotations and source links to Starfall origin accounts.
 ## [2026-10-03] lint | Validated Starfall quotations, transcript links, frontmatter, preserved canon, entity index coverage, and append-only logging.
+## [2026-10-03] query | Checked reset concept articles and entity index before restoring classifications.
+## [2026-10-03] update | Reapplied location classifications for Hole in the Sky, Kaedon, and Ceril's Star; restored article and index corrections.
+## [2026-10-03] lint | Validated restored location articles, frontmatter, links, preserved provenance, complete entity index coverage, and append-only logging.

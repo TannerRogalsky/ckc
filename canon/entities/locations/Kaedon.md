@@ -1,6 +1,6 @@
 ---
-type: concept
-subtypes: [lore]
+type: location
+subtypes: [region]
 session_introduced: "017"
 sessions_appeared: ["017", "018"]
 aliases:
@@ -14,11 +14,12 @@ related:
   - "[[Westerness]]"
   - "[[Alamar]]"
   - "[[Esperanto]]"
-  - "[[Alamar]]"
   - "[[The Carrot Cake]]"
 ---
 
-Kaedon was a human civilization from before [[The Cataclysm]], also referred to as Kaedonite. It was a human kingdom that existed before the world was washed away. At the end of its life, Kaedon was nearly at peace — it was actively making peace between elves and dwarves, and trade routes were being formed between Kaedon and [[Esperanto]]. Human and orcish encampments to the south between Kaedon and Esperanto were among the last remaining opposition, but they were not a unified organized force and were depleting.
+# Kaedon
+
+Kaedon was a human realm from before [[The Cataclysm]], encompassing [[Westerness]], [[Castle Kaedon]], and nearby settlements. It was a human kingdom that existed before the world was washed away. At the end of its life, Kaedon was nearly at peace — it was actively making peace between elves and dwarves, and trade routes were being formed between Kaedon and [[Esperanto]]. Human and orcish encampments to the south between Kaedon and Esperanto were among the last remaining opposition, but they were not a unified organized force and were depleting.
 
 Kaedon is associated with [[King Maniasis]], father of [[Alamar]], who went mad from elf-blood poisoning. Kaedonite coinage bearing his profile was found in the [[Castle Kaedon Arena]]. The civilization had a brewing tradition, exemplified by [[Kaedonite Black Ale]].
 

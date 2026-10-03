@@ -1,6 +1,6 @@
 ---
-type: "concept"
-subtypes: ["lore"]
+type: location
+subtypes: [plane]
 session_introduced: "037"
 sessions_appeared: ["037", "038"]
 aliases:
@@ -13,7 +13,9 @@ related:
   - "[[Gaokerena]]"
 ---
 
-A star and divine blessing bestowed by [[Aeris]] on [[Ceril]] in [[Arkadia]] during session 037, in recognition of his restoration of [[Gaokerena]]'s lower growth.
+# Ceril's Star
+
+Ceril's Star is a safe astral demiplane and [[Ceril]]'s eventual home, bestowed as a divine blessing by [[Aeris]] in [[Arkadia]] during session 037 in recognition of his restoration of [[Gaokerena]]'s lower growth.
 
 The star is to remain reflected in the heavens. By praying to it, Ceril can suspend the passage of time and bring the party into a safe refuge for rest and recovery, then return them to where they left the confrontation. He can invoke it even while incapacitated.
 
