@@ -249,37 +249,28 @@
 - [[Goblin Traders]] — Goblin crew operating a red-sailed trading ship on the high seas, selling poisons and magical wares
 - [[Dancing Blades]] — Thieves guild from old Kaedon, members including Clockwork who was imprisoned in Castle Kaedon
 
-## Items & Concepts
+## Items
 - [[Spelljammer]] — Obould's crystalline gift to Kerben, mounted aboard The Opal for its later journey among the stars
-- [[Ceril's Star]] — Aeris's astral refuge, used to save the party and later becoming Ceril's timeless home
-- [[Vanir]] — Ancient rival gods whose returning manifestations are defeated, culminating in Emperor Shen's destruction
-- [[Aesir]] — Sister goddesses who defeated the Vanir; Dunkelkalt and Entropie stand as their opposites
-- [[Akasha]] — Silvery-white liquid raining from the sky over Continental Stark, connected to Arkadia's oceans
-- [[Moon Mushrooms]] — Hallucinogenic translucent mushrooms in the Continental Stark jungle, harvestable as poison
-- [[Penumbra]] — Pieces of the fallen sky; Jack Harvey's hoard let Lyngbakr repair the sky
-- [[The Cataclysm]] — Lore of the world-ending event that reset the world
+- [[Akasha]] — Abjuration material synthesized into Penumbra; Red Caesar spent his grenade, while Vokenar retains his blade and collected sample
+- [[Moon Mushrooms]] — Hallucinogenic fungi harvested by Ceril for Kerben's poison research, retained in The Opal's shared hold
+- [[Penumbra]] — Physical sky fragments used as magical fuel; Lyngbakr consumed the major recovered hoards, while Vokenar retains his shield focus
 - [[League Banner]] — Lady Jacinthe's signaling banner for the party, detectable by League divination; final holder unconfirmed
 - [[Para and Bellum]] — Red Caesar's retained copper blades from Master Lee, used as conduits for arcane magic
-- [[Genesis Mundi]] — Natural renewal of reality, no longer accelerated by the party's destroyed Demi-Spell
-- [[Demi-Spell]] — World-remaking spell erased by Red Caesar, its blank pages becoming Broy's governing charter
 - [[Iklwa Isondo]] — Domyx's retained mithril trident, crafted by Lesanderol Nokiirna to return magnetically and pull targets toward him
 - [[Potion of Proof Against Storms]] — Storm-protection gift from a Darvinblast dwarf, consumed by Domyx before Hole Shebang; any replacement unconfirmed
 - [[Hilltop Hunter]] — Kerben's retained enchanted musket, firing green force-infused shots and growing seasonal moss and flowers
 - [[Vivarian Zodex]] — Kerben's retained animal-protecting breastplate, made by Beryzoz Helmscar with a rotating chest socket for his magical egg
 - [[Beryzoz's Teeth]] — Ring made from Beryzoz Helmscar's teeth, retained by Red Caesar at campaign end; protects against necrotic harm and allows questioning the dead
-- [[Touching the Sky]] — Titan rite with cosmic implications for Domyx and the broken sky
 - [[Teleport Keys]] — Party's established circle encodements used by Red Caesar for House Kiirnodel, The White Drake, The Pit, and Broyish Steeltown
 - [[Subpoena Deuces Mercator]] — Reusable sea summons for the Goblin Traders, purchased by Kerben with shared treasure; no activation or final custody confirmed
 - [[Wyvern Poison]] — Kerben's purified wyvern-gland poison, consumed against the Tatzelwurm with no replacement recorded
 - [[Lolth's Sting]] — Incapacitating poison traded to Kerben by the Goblin Traders and spent against the Tatzelwurm; no replacement recorded
-- [[Kaedon]] — The pre-[[The Cataclysm|Cataclysm]] human civilization, nearly at peace when the world ended
 - [[Kaedonite Black Ale]] — Drinkable aged brew recovered from the Castle Kaedon Arena granary for The Opal's hold; final quantity unrecorded
 - [[Tome of Satariel]] — Farraday's soul-ledger destroyed on Stark; three arcane pages recovered, with Contact Other Plane later used by Red Caesar
 - [[Preparation Melf]] — Kerben's sticky-acid flask from Castle Kaedon's unnamed black dragon; use of his later weapon poison does not settle the flask's fate
 - [[The Jewel of Alfheimer]] — Aramil Kiirnodel's pre-Cataclysm landscape, returned to Brimbolyn's elven sellers in Red Caesar's trade for magical boots
 - [[Mangonel]] — Castle Kaedon celebration catapult recovered and mounted aboard The Opal, later under Kerben's command
-- [[Starfall]] — Destroyed divine weapon whose fall is followed by the rescue mission's successful conclusion
-- [[Hole in the Sky]] — Former breach between Stark and Arkadia, sealed by Lyngbakr
+- [[Starfall]] — Ancient elemental ring weapon destroyed by Antumbra, preventing its shot at Sigil and ending Emperor Shen's invulnerability
 - [[Potion of Soothing Gaze]] — Shared-healing potion from Castle Kaedon's fallen apothecary, claimed by Red Caesar; final disposition unconfirmed
 - [[Lady Acelia's Chalice]] — Jade-inlaid oak cup recovered from Castle Kaedon and claimed by Ceril; final disposition unconfirmed
 - [[Deception by Lenth]] — Lenth the Rugged's single-use magical perfume, last received by Domyx; no use recorded and final custody unconfirmed
@@ -291,9 +282,7 @@
 - [[Boots of the Alvargard]] — Magical boots retained by Red Caesar at campaign end; continually quicken their wearer without attunement
 - [[Branch of the Itinerant]] — Spellcasting wand retained by Ceril; strengthens his magic and blooms flowers along a drawn path
 - [[Cloaks of Billowing]] — Magical cloaks purchased by Red Caesar and retained by their respective party members; billow on command
-- [[Deep Roses]] — Rare herbs growing underwater in the Mana Sea; correct cure for Mana Sickness
-- [[Obvolvo Caelum]] — Red Caesar's Penumbra-condensing spell used to move Jack Harvey's vault hoard
-- [[Mana Sickness]] — Former plague whose source was ended and whose Southport victims recover by the epilogue
+- [[Deep Roses]] — Underwater medicinal roses delivered through the freed priests to Southport, which recovered after Ninki Nanka's curse ended
 - [[Shark's Edge]] — Kerben's retained megalodon-tooth falchion, revealing visible water's temperature and guiding The Opal through northern ice
 - [[Tatzelwurm Gizzard Juice]] — Kerben's white-dragon cold poison, whose last known dose was spent winning Al-Qadif's Tower of Treasures
 - [[Antumbra]] — Sabotaged Penumbra consumed in permanently destroying Starfall, preventing its shot at Sigil and ending Emperor Shen's invulnerability
@@ -315,9 +304,21 @@
 - [[Ioun of the Emerald Hunter]] — Kerben's retained emerald stone, heightening agility and easing changes of marked quarry
 - [[Ioun of the Gilded Savior]] — Vokenar's retained golden stone, sharing self-healing with Red Caesar and empowering a decisive strike
 - [[Cestus of the Clear Sky]] — Domyx's sky-infused gauntlet, retained at campaign end; gathers clouds into forceful, restorative blows
-
 - [[Cornucopia of Constellations]] — Ceril's retained elven feast charm, supplying food, vitality, and adaptable energy protections
 - [[Kaboom Ring]] — Domyx's retained returning boomerang, releasing thunder and brief deafness around its impact
+
+## Concepts
+- [[Ceril's Star]] — Aeris's astral refuge, used to save the party and later becoming Ceril's timeless home
+- [[Vanir]] — Ancient rival gods whose returning manifestations are defeated, culminating in Emperor Shen's destruction
+- [[Aesir]] — Sister goddesses who defeated the Vanir; Dunkelkalt and Entropie stand as their opposites
+- [[The Cataclysm]] — Lore of the world-ending event that reset the world
+- [[Genesis Mundi]] — Natural renewal of reality, no longer accelerated by the party's destroyed Demi-Spell
+- [[Demi-Spell]] — World-remaking spell erased by Red Caesar, its blank pages becoming Broy's governing charter
+- [[Touching the Sky]] — Titan rite with cosmic implications for Domyx and the broken sky
+- [[Kaedon]] — The pre-[[The Cataclysm|Cataclysm]] human civilization, nearly at peace when the world ended
+- [[Hole in the Sky]] — Former breach between Stark and Arkadia, sealed by Lyngbakr
+- [[Obvolvo Caelum]] — Red Caesar's Penumbra-condensing spell used to move Jack Harvey's vault hoard
+- [[Mana Sickness]] — Former plague whose source was ended and whose Southport victims recover by the epilogue
 
 ## Deities
 - [[Aeris]] — Restored sky goddess who aids the final battle and welcomes Vokenar home after the divine mission succeeds

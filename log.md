@@ -585,3 +585,17 @@
 ## [2026-10-03] update | Aligned item index and equipment; distinguished Castle Kaedon's dragon from Xarag in mangonel and acid-flask provenance.
 ## [2026-10-03] lint | Removed an unsupported Crone relationship and clarified the Tome of Satariel's repair bond.
 ## [2026-10-03] lint | Validated forty-eight rewritten items, source fidelity, frontmatter, links, provenance, custody, complete index coverage, and append-only logging.
+## [2026-10-03] query | Reviewed concept classifications against entity articles, session summaries, and source transcripts.
+## [2026-10-03] update | Reclassified Akasha, Penumbra, Starfall, Deep Roses, and Moon Mushrooms as items; separated index categories.
+## [2026-10-03] lint | Validated five reclassified items, frontmatter, preserved provenance, wiki links, index categories, complete entity coverage, and append-only logging.
+## [2026-10-03] query | Verified five reclassified items against acquisition, use, custody, destruction, and epilogue sources.
+## [2026-10-03] restructure | Organized Starfall description, campaign history, and final status.
+## [2026-10-03] restructure | Organized Penumbra description, campaign history, and final status.
+## [2026-10-03] restructure | Organized Akasha description, campaign history, and final status.
+## [2026-10-03] restructure | Organized Deep Roses description, campaign history, and final status.
+## [2026-10-03] restructure | Organized Moon Mushrooms description, campaign history, and final status.
+## [2026-10-03] update | Aligned item index and Vokenar's equipment with verified material custody and use.
+## [2026-10-03] lint | Validated five structured items, source fidelity, custody, frontmatter, provenance, links, complete index coverage, and append-only logging.
+## [2026-10-03] query | Verified transcript wording for the two Starfall origin accounts.
+## [2026-10-03] update | Added direct transcript quotations and source links to Starfall origin accounts.
+## [2026-10-03] lint | Validated Starfall quotations, transcript links, frontmatter, preserved canon, entity index coverage, and append-only logging.
