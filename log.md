@@ -502,3 +502,13 @@
 ## [2026-10-02] lint | Validated scene headings across sessions 011–038, including structure, links, frontmatter, unchanged narratives, and append-only logging.
 ## [2026-10-02] update | Reclassified The Cataclysm from event to concept and updated the entity index.
 ## [2026-10-02] lint | Validated Cataclysm frontmatter, links, preserved session history, entity index coverage, and change formatting.
+## [2026-10-02] query | Reviewed vessel structure requirements in repository instructions.
+## [2026-10-02] query | Reviewed item structure, mechanics, relevance, and custody requirements in repository instructions.
+## [2026-10-02] query | Inventoried seven vessel articles and checked descriptions, command changes, custody, and final appearances against campaign sources.
+## [2026-10-02] update | Added vessel article structure, descriptive scope, group custody, evidence, and maintenance instructions to AGENTS.md.
+## [2026-10-02] restructure | Applied vessel instructions to all seven vessel articles and integrated their campaign histories and final statuses.
+## [2026-10-02] update | Corrected vessel index descriptions and related custody statements in Kerben and Obould articles.
+## [2026-10-02] lint | Validated vessel structure, frontmatter, links, provenance, preserved history, entity index coverage, related custody, and append-only logging.
+## [2026-10-02] query | Reviewed vessel citation requirements and inventoried session and chunk annotations across all seven vessel articles.
+## [2026-10-02] update | Removed vessel citation requirements and cleaned session and chunk annotations from all seven vessel articles.
+## [2026-10-02] lint | Validated vessel annotation removal, preserved narratives, frontmatter, entity links, index coverage, and append-only logging.

@@ -1,8 +1,8 @@
 ---
-type: "vessel"
-subtypes: ["ship"]
+type: vessel
+subtypes: [ship]
 session_introduced: "001"
-sessions_appeared: ["013", "015", "016", "024", "025", "026", "027", "030", "031", "032", "033", "034", "035", "036", "037", "038"]
+sessions_appeared: ["001", "013", "015", "016", "022", "023", "024", "025", "026", "027", "030", "031", "032", "033", "034", "035", "036", "037", "038"]
 related:
   - "[[Obould]]"
   - "[[Kerben]]"
@@ -12,61 +12,87 @@ related:
   - "[[Gray Wastes]]"
   - "[[Spelljammer]]"
   - "[[40 Carats]]"
+  - "[[Vokenar]]"
 ---
 
-The ship on which the party travels, now captained by [[Kerben]]. Former captain [[Obould]] permanently retired in session 034. Navigator [[Raxxy]] handles the rigging and lookout, while [[Otto]] serves as carpenter. The ship carries rotating deckhands and permanent specialists.
+# The Opal
 
-## Crew
+The Opal is the ship and traveling home of the party and its crew, first commanded by [[Obould]] and later permanently entrusted to [[Kerben]]. It carried them through the restoration of the sky and the journey into the [[Gray Wastes]], survived the final flood through [[Vokenar]]'s sacrifice, and eventually sailed among the stars.
 
-| Role | Name | Notes |
-|------|------|-------|
-| Captain | [[Kerben]] | Permanently received command from Obould in session 034. |
-| Former Captain | [[Obould]] | Retired to lead [[The League of New Stark]] with [[Lady Jacinthe]]. |
-| Navigator / Crow's Nest | [[Raxxy]] | Jack-of-all-trades; works the rigging and handles astrology with Kerben. |
-| Carpenter | [[Otto]] | Boat repairman recruited in [[Cutlass Cray]]. |
-| Former Master Gunner | [[Trent Indorra]] | Cannon specialist who returned to [[Southport]] with [[Ebbie Indorra]]. |
-| Former Master Gunner | [[Ulrich Fjoller]] | Left with [[Lorelai Lapis-Acathian]] in session 034 to prepare for parenthood. |
-| Cook | [[Mobley]] | Antisocial older crew member. |
-| Former Healer | [[Ebbie Indorra]] | Tended the sickbay before returning to [[Southport]] with [[Trent Indorra]]. |
-| Crew | [[Yalet Mora]] | Stone-bodied Galeb Duurr; can roll in boulder form. |
-| Former Crew | [[Lorelai Lapis-Acathian]] | Left with Ulrich Fjoller in session 034 to prepare for parenthood. |
-| Janitor | [[Rella Kel'Navvi]] | Uses blink ability to teleport trash and misplaced items. |
-| Performer | [[Vorgan of the Stage]] | Joined in session 034 to entertain the expanded crew. |
+## Description
 
-Additionally, three unnamed dwarf deckhands were recruited by Obould in session 013, and [[Rochella Golf]] traveled as a temporary passenger/crew member toward [[Southport]].
+A seagoing vessel with rigging, a crow's nest, working quarters, a common area, kitchen, and cargo hold, The Opal was repeatedly altered to support an expanding company and unusually difficult voyages. A reinforced laminated hull and strengthened deck allowed it to carry [[Kilosaurus]] and heavy [[Penumbra]]. A bulbous bow helped it negotiate rocks and northern ice, while hardened sails improved its passage.
 
-In session 013, [[The Opal]] received a reinforced laminate deck and hull improvements to carry [[Kilosaurus]] and heavy [[Penumbra]]. [[Obould]] also recruited three additional dwarf deckhands, and the crew began treating [[Lyngbakr Lagoon]] as a potential shore base.
+Cannons on both sides and a large arbalest defended the ship. A genie engine supplied wind when natural conditions were unfavorable. The ship later received an acoustically enhanced voice-pipe system and enlarged dormitories through [[Southport]]'s gratitude. These changes supported communication and the crew's life aboard rather than merely its fighting strength.
 
-In session 022, the party purchased ship upgrades including a bulbous bow for better terrain navigation and hardened sails for improved speed, increasing the ship's speed by 50 to 100 percent.
+Vokenar consecrated different spaces aboard. The wards excluded supernatural intruders and protected occupants from fear, charm, and possession; magic in the common area enabled mutual understanding across languages. The deck sustained courage, darkness concealed valuables in the hold, and the kitchen and crow's nest offered protection against fire and lightning respectively. The protections did not make the entire hull immune to fire. The vessel also served as a Word of Recall sanctuary.
 
-In session 024, the Empire installed a full complement of cannons on port and starboard sides. The reinforced bow proved useful breaking through ice near [[Thalasia]]. During a hydra encounter, the ship sustained hull damage from the creature ramming the port side.
+Kerben's magical egg could store the whole ship, crew, and possessions for travel. Its failure during the descent into the Gray Wastes remained unexplained. The [[Spelljammer]] later mounted aboard enabled astral and planar journeys. Vokenar's consecrations endured, though they became temporarily inactive during astral travel.
 
-In session 027, [[The Opal]] was fully repaired in [[Cutlass Cray]]. It was also upgraded with a new steering mechanism and a new crow's nest.
+## Ownership and Command
 
-In session 030, while the party explored [[The Carrot Cake]], The Opal came under attack from multiple [[Broyish Empire]] boats. [[Kerben]] arrived in time to help repel the first wave, then sent [[Tango]] to warn the party that a larger force was approaching. The shattered moon made the night especially dark, giving the Empire cover to maneuver around the elves and [[The Order of Seasons]].
+The Opal served Obould's company and became the party's shared home and principal transport. The early record leaves uncertain whether Obould originally inherited or stole it; his captaincy is established. His crew and the companions invested shared resources in its improvement.
 
-In session 031, Kerben commanded The Opal through the next phase of the imperial attack. The crew used the upgraded cannons and arbalest to cripple an imperial escort, then Kerben released the bound air elemental and activated a ghost-ship feather token to make the ship invisible. The Opal escaped west toward [[Lyngbakr Lagoon]] with no crew lost, though it remained damaged and required repairs. Later, [[Vokenar]] returned the party to the ship by Word of Recall, and the invisible Opal retrieved [[Red Caesar]] after [[Lyngbakr]] repaired the sky.
+Obould privately designated [[Domyx]] as the person who would inherit The Opal if he died. That contingent succession did not become the eventual command arrangement. Kerben led the ship during Obould's captivity and subsequent absence, then received permanent command when Obould retired. Obould confirmed that responsibility at his wedding. The later voyage among the stars established The Opal as Kerben's vessel while preserving its history as the crew's collective home.
 
-In session 033, [[Southport]] installed a voice-pipe communication system and tripled the dormitory capacity in gratitude for the party ending [[Mana Sickness]]. Eleven Southport deckhands joined the crew, bringing The Opal to twenty assorted deckhands in addition to its named officers and specialists.
+## Crew and Passengers
 
-In session 034, Obould permanently resigned and named Kerben captain. Raxxy and most of the crew stayed under Kerben's command, while Lorelai Lapis-Acathian and Ulrich Fjoller departed. Kerben recruited Vorgan of the Stage as the ship's performer.
+The table records significant roles during the campaign. Confirmed departures are marked; it does not establish a complete roster for the later voyage among the stars.
 
-## Session 036
+| Role                  | Name                       | Service and changes                                                                                                                   |
+| --------------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Captain               | [[Kerben]]                 | First officer and acting commander before permanent appointment following Obould’s retirement; command confirmed at Obould’s wedding. |
+| Former captain        | [[Obould]]                 | Retired to lead [[The League of New Stark]] with [[Lady Jacinthe]].                                                                   |
+| Navigator and lookout | [[Raxxy]]                  | Worked the rigging and shared navigation and astrology with Kerben; chose to remain under his command.                                |
+| Carpenter             | [[Otto]]                   | Recruited in [[Cutlass Cray]]; also worked with the dwarves and guided part of the descent through [[The Funnel]].                    |
+| Tinkerer              | [[Brim the Bullywog]]      | Joined to practice his craft, helped defend the ship, and tended its dust-filled bilge in the Gray Wastes.                            |
+| Cook                  | [[Mobley]]                 | Older, withdrawn crew member who kept cooking through the imperial attack's aftermath.                                                |
+| Crew                  | [[Yalet Mora]]             | Stone-bodied Galeb Duurr who helped handle the helm and keep the ship afloat.                                                         |
+| Performer             | [[Vorgan of the Stage]]    | Joined after Obould’s retirement to entertain the expanded crew.                                                                      |
+| Former master gunner  | [[Trent Indorra]]          | Cannon specialist who returned to Southport with Ebbie Indorra.                                                                       |
+| Former healer         | [[Ebbie Indorra]]          | Tended the sickbay before returning to Southport with Trent Indorra.                                                                  |
+| Former master gunner  | [[Ulrich Fjoller]]         | Left with Lorelai Lapis-Acathian to prepare for parenthood.                                                                           |
+| Former crew           | [[Lorelai Lapis-Acathian]] | Departed with Ulrich Fjoller to prepare for parenthood.                                                                               |
+| Ship's hound          | [[Rella Kel'Navvi]]        | Used blinking to move trash and misplaced items; left the ship to remain with [[Alamar]] at Lyngbakr Lagoon.                          |
 
-[[Kerben]] carried The Opal and its crew into the [[Gray Wastes]] inside his magical egg. He deployed the ship on a suspended rock so the party could board before [[Tango]] carried the stored vessel down to the desert.
+Obould recruited three dwarf deckhands as the ship was reinforced to carry Kilosaurus and the quarry’s Penumbra. Eleven Southport volunteers later joined, bringing the assorted deckhands to twenty alongside the named officers and specialists. [[Rochella Golf]] traveled as a temporary passenger before rejoining her family in Southport.
 
-The rock began breaking apart. [[Domyx]] braced the ship long enough for the others to board, but it slipped into the sky below and Kerben's attempt to store it again failed. The cause of the storage failure remains unknown.
+## Campaign History
 
-Kerben summoned a roc to guide the fall. The sails caught wind, the crew activated a wind-providing genie, and the ship glided gently onto fine gray dust that supported sailing. Domyx found the ship largely undamaged; [[Brim the Bullywog]] reported dust flowing through the bilge. The Opal continued east under directions from [[Ceril]] and [[Red Caesar]], who traced [[Starfall]]'s firing scars. [[Vokenar]] sighted [[Gaokerena]] ahead.
+### A ship for the sky's restoration
 
-## Session 037
+The party began the campaign aboard The Opal under Obould. A dragon's earlier attack damaged its hold and cost it treasure, which the party later recovered from [[Xarag's Island]]. How Obould originally acquired the ship remains uncertain.
 
-Imperial soldiers teleported aboard during the voyage across the [[Gray Wastes]], but [[Vokenar]]'s consecration excluded their fiendish reinforcements. After defeating them, the party used the common area's shared-language magic to question a captive. He revealed [[Emperor Shen]]'s imminent attack on [[Sigil]] before a secrecy condition turned him to stone in the captain's chair.
+Obould committed shared resources to reinforcing the hull and deck for the large quarry fragment and Kilosaurus. He recruited additional dwarf deckhands, and the company began treating Lyngbakr Lagoon as a shore base. Kilosaurus, Rella Kel'Navvi, and three deckhands remained there to assist Alamar. The ship's continued voyages tied its growing community to the work of restoring the sky.
 
-The Opal reached the living ground around [[Gaokerena]] and anchored at the edge of the dust. The party disembarked to reach [[Axis Mundi]].
+After the party defended The Opal from hobgoblin pirates, it captured [[The Hideous Truth]] but concealed the galley because it could not sustain an active third vessel alongside The Opal and the [[Gheister]]. Obould's later captivity required Kerben to take responsibility for command. At [[The Pit]], the crew obtained the improved bow and sails; Vokenar's consecrations made the ship a refuge.
 
-## Session 038
+The party commissioned cannons in Broy, and the weapons were installed before its northern voyage. Its reinforced bow then helped it break through ice near [[Thalasia]], though the passage and a hydra encounter damaged the hull. The company recovered its stolen treasure from Xarag's hoard and defended the vessel against imperial [[Gun Balloon]]s, capturing one despite further damage to The Opal.
 
-To escape the flooding [[Gray Wastes]], [[Kerben]] boarded his companions, [[Vizier Jade]], and the crew, then stored the ship in its portable form. [[Vokenar]] stayed behind and banished Kerben, carrying the ship and everyone aboard, to [[Cutlass Cray]].
+Repairs at Cutlass Cray addressed the northern voyage and balloon attack. Vokenar funded the wind-providing genie engine, and the companions obtained a consumable ghost-ship token for concealment. It was a temporary resource rather than a permanent ability to turn the vessel invisible.
 
-At [[Obould]] and [[Lady Jacinthe]]'s wedding, Obould confirmed Kerben as permanent captain and gave him a [[Spelljammer]] to mount aboard the ship. After rebuilding [[40 Carats]], Kerben eventually sailed The Opal into the stars. Vokenar's consecrations persist, though they are temporarily inactive during the vessel's astral travel.
+### Preserving the crew and changing command
+
+While the others explored [[The Carrot Cake]], Kerben returned to defend The Opal from imperial boats and sent [[Tango]] with a warning of the larger force approaching. The shattered moon's dark nights aided imperial movement past rival powers.
+
+During the naval attack, the crew disabled an escort using the ship's improved weapons. Kerben released the wind-providing elemental and consumed the ghost-ship token to retreat west invisibly rather than face the gathering fleet. No crew were lost, though the ship remained damaged. It escaped to Lyngbakr Lagoon, where Vokenar's recall brought the companions aboard. The invisible ship evaded the [[Imperial Xihe]], received the rescued Obould, and recovered [[Red Caesar]] after [[Lyngbakr]] repaired the sky.
+
+By the return to Broy, Kerben could carry The Opal and everyone aboard within his egg. The rescuers traveled into Broy aboard The Hideous Truth while keeping their familiar ship concealed, then carried the company away through magical travel after recovering Domyx and Vokenar.
+
+Southport rewarded the party for ending [[Mana Sickness]] by installing voice pipes and tripling the bunks. Eleven local deckhands joined the expanded company. At [[The White Drake]], Obould retired permanently and appointed Kerben captain. Raxxy and most of the crew stayed; Lorelai Lapis-Acathian and Ulrich Fjoller departed to prepare for their child. Kerben subsequently recruited Vorgan of the Stage as a performer to sustain morale during voyages and confinement in the egg.
+
+### Into the Gray Wastes and beyond
+
+Kerben deployed The Opal on a suspended rock in the Gray Wastes so his companions could board before Tango carried the stored vessel to the desert below. The platform cracked and the ship slid toward open sky. Domyx braced it long enough for the others to board, but Kerben's attempt to store it again failed as it fell. The cause of that failure is not established.
+
+A summoned roc guided the falling ship while its sails and the crew's wind source turned the descent into a glide. The vessel settled onto fine gray powder and began sailing across it, largely undamaged. Brim the Bullywog tended the dust entering its bilge. Ceril and Red Caesar traced [[Starfall]]'s firing scars to refine the eastward route, and Vokenar sighted [[Gaokerena]].
+
+Imperial soldiers teleported aboard during the voyage, but Vokenar's consecrations barred their fiendish support. The party defeated them and questioned a captive through the common area's language magic. He revealed [[Emperor Shen]]'s imminent attack on [[Sigil]] before a secrecy condition petrified him in the captain's seat. The ship reached the living ground around Gaokerena and anchored at the edge of the dust while the party continued to [[Axis Mundi]].
+
+When the Gray Wastes flooded after the final battle, Kerben gathered the companions, [[Vizier Jade]], and the crew aboard, then stored The Opal in its portable form. Vokenar stayed outside and banished Kerben, carrying the entire ship and company, back to Cutlass Cray. His sacrifice secured their escape.
+
+At Obould and Lady Jacinthe's wedding, Obould confirmed Kerben's permanent captaincy and gave him the Spelljammer he had received from southern orcish guilds and kept until the ship could withstand it. Kerben first rebuilt [[40 Carats]], then returned to The Opal in later years and sailed into the stars.
+
+## Final Status
+
+The Opal survived the final flood and became Kerben's vessel for exploration beyond Stark. Its last established voyage was his departure among the stars after rebuilding 40 Carats. His ultimate destination, the complete later crew roster, and the vessel's eventual fate are not fixed by the epilogue. Vokenar's enduring consecrations remain aboard, temporarily suspended during astral travel.

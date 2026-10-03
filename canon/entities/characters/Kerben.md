@@ -123,7 +123,7 @@ Kerben resists poison and works with toxins as ingredients rather than merely ha
 - [[Jack Harvey's Portrait]] — Recovered jointly with Red Caesar from the collapsing [[Haunted Living Tent]]. Vokenar later gave it to [[David Harvey]], who hung it aboard [[The White Drake]].
 - **Recovered cloak** — Kerben found [[Rahmadi]]'s cloak with the remains of a failed expedition in the Mana Sea; it was placed in the ship's hold with other treasure.
 - [[Gheister]] — A stolen vessel formerly available to the party. Kerben transferred it to Theo Harvey as part of their escape bargain.
-- [[The Hideous Truth]] — A captured pirate ship the party hid in a jungled grotto because it lacked the resources to maintain a larger fleet. It remained concealed when they checked on it before the Carrot Cake expedition.
+- [[The Hideous Truth]] — A captured pirate galley initially concealed as a reserve. Kerben later used it with Red Caesar and Ceril to enter Broy while carrying The Opal and its crew inside his magical egg; its later whereabouts are unrecorded.
 - [[Spelljammer]] — Given to him by Obould after the finale for mounting aboard The Opal, enabling travel to other planes and his eventual departure among the stars.
 
 ## Campaign History

@@ -226,12 +226,12 @@
 
 ## Vessels
 - [[The Opal]] — Kerben's ship, saved through Vokenar's sacrifice and later equipped for travel among the stars
-- [[Gheister]] — Second ship in Obould's fleet, used as the party's transport to Lyngbakr Lagoon and Castle Kaedon
+- [[Gheister]] — Stolen riverboat formerly serving Obould’s crew, last entrusted to Theo Harvey for his concealed escape
 - [[The White Drake]] — League flagship hosting Obould and Lady Jacinthe's wedding near the former Lyngbakr Lagoon
-- [[The Hideous Truth]] — Captured and renamed hobgoblin pirate galley hidden in a jungled grotto
-- [[The Croakborne Carnival]] — Ship of The Order of Seasons
-- [[Gun Balloon]] — Imperial hot air balloon combat platform captured by the party from the Broyish Empire
-- [[Imperial Xihe]] — Broyish Empire flagship that pursued The Opal and assaulted Lyngbakr Lagoon
+- [[The Hideous Truth]] — Captured pirate galley concealed as a reserve, later used by the party to enter Broy; final whereabouts unknown
+- [[The Croakborne Carnival]] — Order of Seasons ship where Ceril served with Illidrielle Gandara; later whereabouts unknown
+- [[Gun Balloon]] — Captured imperial aerial craft abandoned over Broy, with later recovery unconfirmed
+- [[Imperial Xihe]] — Imperial flagship last recorded landing troops at Lyngbakr Lagoon; later fate unknown
 
 ## Organizations
 - [[40 Carats]] — Jack Harvey's entertainment company and troupe, reunited by Theo Harvey and rebuilt under Kerben

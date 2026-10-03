@@ -253,9 +253,53 @@ Party-member files (`subtypes: [party-member]`) should focus on narrative identi
 
 A party-member file should answer "who is this character and what matters about them?" not "what happened to them in each combat encounter?" If a combat event is narratively significant — a character dies, a major villain falls, a spell reveals critical lore, a choice has lasting consequences — include it briefly with focus on the narrative impact, not the mechanics.
 
+# Vessel Article Structure
+
+Apply this structure when creating or deliberately reorganizing vessel files. Vessels use the same descriptive, historical, and custody-focused approach as items, with emphasis on appearance, spaces, affiliations, people aboard, and narrative significance. Use `type: vessel`, store files in `canon/entities/vessels/`, and choose the established vessel subtypes `ship`, `mount`, or `vehicle`; do not use item subtypes. This body layout does not add frontmatter fields.
+
+## Opening and Section Order
+
+After frontmatter, use `# Canonical Name`, matching the filename, followed by a short introduction identifying the vessel, its defining affiliation or purpose, and its campaign significance. Keep the introduction consistent with the last established state and qualify former affiliations or uses.
+
+Use the exact section names and relative order below. Omit a section when its substantive information fits in the introduction or another section without duplication.
+
+| Order | Exact heading | Content and boundaries |
+|---|---|---|
+| 1 | `## Description` | Source-supported appearance, construction, distinctive markings, interior spaces, amenities, condition, and significant alterations. Describe propulsion, weapons, enchantments, and linked equipment through their visible or narrative contribution. Avoid statistics, damage, speeds, ranges, capacities used as game mechanics, and operating instructions. Distinguish enduring alterations from temporary effects or consumed resources. |
+| 2 | `## Ownership and Command` | The owning or controlling group, faction, fleet, or community; any explicitly established individual ownership; and named commanders or operators. Distinguish ownership, custody, command, service, and temporary use. Summarize consequential transfers and former affiliations, leaving their detailed circumstances to Campaign History. |
+| 3 | `## Crew and Passengers` | Significant officers, specialists, companions, passengers, and communities carried aboard. Use linked bullets or a compact role table when helpful. Mark former service, departures, and temporary passengers; a historical roster does not establish who remained aboard at campaign end. Omit incidental or unsupported roster details. |
+| 4 | `## Campaign History` | A chronological synthesis of consequential voyages, discoveries, captures, transfers, damage, repairs, alterations, rescues, and changes of purpose or allegiance. Explain the vessel's role and what changed, without reproducing the party's itinerary or combat logs. Put pre-campaign service here when it explains the vessel's significance. |
+| 5 | `## Final Status` | Last established custody, command, condition, whereabouts, and purpose, including any epilogue. Describe the last established point in the vessel’s story when it drops out of the record. Preserve uncertainty about later recovery, repair, transfer, destruction, or destination; do not invent closure. |
+
+## Ownership, Custody, and Evidence
+
+Vessels commonly belong to or serve a group. Name an established owning or controlling group before treating the vessel as a commander's personal possession. Describe an unnamed party or crew in ordinary prose rather than creating an organization solely to fill this section. Preserve explicit individual ownership where the sources establish it. Captaining, piloting, repairing, or briefly boarding a vessel does not by itself establish ownership.
+
+If final custody is not explicitly settled, retain the last established owning or controlling group, or the last individual holder when individual custody is established. A temporary operator does not displace that group. Later transfers, returns, losses, abandonment, consumption, or destruction override this default. If neither ownership nor continuing control is established, preserve uncertainty. Apply the same distinction in vessel articles, character equipment sections, and the entity index.
+
+Distinguish a class of vehicles from the particular craft the party encountered or captured. Do not combine the fates of separate craft, or assume two unnamed vehicles are identical without supporting evidence. Describe equipment at a high level and link its item article for fuller details. A proposed upgrade, sale, voyage, or recovery is not a completed event. Attribute testimony, suspicions, and disputed recollections.
+
+Use canonical names throughout prose and link labels. Keep spelling variants in aliases. Explain meaningful renaming without adopting an alias as the ordinary name. Consult session summaries and source chunks to resolve consequential ambiguities; do not fill gaps with external vehicle or game lore.
+
+Keep session and chunk identifiers and source citations out of vessel prose, tables, and headings. Retain session provenance in the existing frontmatter and consult the source corpus during verification. Orient the narrative through in-world events and relationships.
+
+## Scaling and Maintenance
+
+Substantial recurring vessels should use every section with meaningful information, including Campaign History and Final Status. Brief vessels may use an introduction and selected sections; do not create empty headings or repeat a single fact to imitate a flagship article. Optional `###` subdivisions may organize substantial descriptions, rosters, or historical arcs. Do not append competing `## Session NNN` sections.
+
+Before restructuring, inventory distinct descriptions, affiliations, crew roles, alterations, historical events, and unresolved claims. Preserve each substantive fact and meaningful uncertainty, or correct it from evidence. Campaign History owns the detailed event sequence; the other sections synthesize it without repeating whole scenes.
+
+After writing:
+
+- Check the canonical title, exact section names and relative order, chronological history, and absence of empty sections or session appendices.
+- Compare the result with the fact inventory and evidence, preserving meaningful uncertainty and distinguishing historical states from final ones.
+- Validate frontmatter, quoted session values, aliases, and entity wiki links. Confirm that vessel prose, tables, and headings contain no session or chunk annotations. Preserve `session_introduced` and existing appearance history; add older appearances only when verified from sources, since reorganization alone establishes no new appearance.
+- Confirm exactly one correctly categorized index entry per entity file. Update descriptions and linked custody statements when canon is materially corrected; accurate descriptions need no change for layout alone.
+- Remove routine mechanics and table commentary. Apply the relevant Post-Ingest Validation checks and append operations to `log.md`. Reorganization alone does not change quest status.
+
 # Character Article Structure
 
-Apply this structure when creating or deliberately reorganizing character files, including party members and NPCs. Use the exact section names and order below; omit optional sections without substantive source-supported content. This is a body layout, not a change to the frontmatter schema. Other entity types retain their existing layouts.
+Apply this structure when creating or deliberately reorganizing character files, including party members and NPCs. Use the exact section names and order below; omit optional sections without substantive source-supported content. This is a body layout, not a change to the frontmatter schema. Vessels follow Vessel Article Structure; other entity types retain their existing layouts.
 
 ## Opening and Section Order
 
