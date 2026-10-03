@@ -96,7 +96,7 @@ Separately, Red Caesar completed [[Obvolvo Caelum]], a spell for condensing [[Pe
 
 - [[Para and Bellum]] — Two copper blades given by [[Master Lee]], used to channel Red Caesar's vampiric magic.
 - [[Beryzoz's Teeth]] — A ring traded to him by [[Beryzoz Helmscar]] for an amethyst. It protects against necrotic harm and allows him to question the dead. He used it at [[Castle Kaedon]] and later combined it with [[Kerben]]'s animal speech to question an expedition dog beneath [[The Funnel]].
-- [[Boots of the Alvargard]] — Magical boots that quicken him, acquired from [[Muudeep]] at the [[Elvish Marketplace]] in exchange for [[The Jewel of Alfheimer]].
+- [[Boots of the Alvargard]] — Magical boots that quicken him, retained at campaign end; acquired at the [[Elvish Marketplace]] in exchange for [[The Jewel of Alfheimer]].
 - [[Cloaks of Billowing]] — Dramatic magical cloaks Red Caesar purchased for the entire party in [[Brimbolyn]].
 - [[Wand of Blighting Bolts]] — Acquired from [[The Wonder Hulk]] in [[Cutlass Cray]] in exchange for his former Wand of Lightning Bolts, gemstones, and mithril. Its Blight magic broadened his offensive tools.
 - [[Ioun of Crimson Dreams]] — A crimson octahedral stone acquired in [[Cutlass Cray]] that strengthens his defenses and adapts its protection to different elemental energies.

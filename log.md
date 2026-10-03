@@ -512,3 +512,11 @@
 ## [2026-10-02] query | Reviewed vessel citation requirements and inventoried session and chunk annotations across all seven vessel articles.
 ## [2026-10-02] update | Removed vessel citation requirements and cleaned session and chunk annotations from all seven vessel articles.
 ## [2026-10-02] lint | Validated vessel annotation removal, preserved narratives, frontmatter, entity links, index coverage, and append-only logging.
+## [2026-10-03] query | Verified Boots of the Alvargard properties, marketplace exchange, and custody against campaign sources.
+## [2026-10-03] restructure | Organized Boots of the Alvargard description, campaign history, and final status.
+## [2026-10-03] update | Corrected boots seller attribution and aligned Red Caesar equipment and entity index custody.
+## [2026-10-03] lint | Validated boots structure, source fidelity, frontmatter, wiki links, preserved sessions, index coverage, custody consistency, and append-only logging.
+## [2026-10-03] query | Verified Antumbra creation, concealed alteration, deployment, destructive effects, and final fate against campaign sources.
+## [2026-10-03] restructure | Organized Antumbra description, chronological campaign history, and final status.
+## [2026-10-03] update | Aligned Antumbra index description and Kerben sabotage outcome with the confirmed destruction of Starfall.
+## [2026-10-03] lint | Validated Antumbra structure, source fidelity, frontmatter, links, preserved provenance, entity index coverage, canon consistency, and append-only logging.

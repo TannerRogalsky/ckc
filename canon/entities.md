@@ -288,7 +288,7 @@
 - [[Gith Shard Glaive]] — Halberd with extended-range psychic cleave, crafted by Sigrid Forgewelt from a Gith Star Gem
 - [[Hopping Mad Sash]] — Magical bunny-tail sash awarded to Domyx after the King of the Hole bonus challenge
 - [[Sunset's Solace]] — Spell-storing shield for Vokenar
-- [[Boots of the Alvargard]] — Magical boots that quicken Red Caesar
+- [[Boots of the Alvargard]] — Magical boots retained by Red Caesar at campaign end; continually quicken their wearer without attunement
 - [[Branch of the Itinerant]] — Spellcasting wand that blooms flowers along a drawn path, acquired by Ceril
 - [[Cloaks of Billowing]] — Magic cloaks allowing dramatic billowing as a bonus action, purchased for the party
 - [[Deep Roses]] — Rare herbs growing underwater in the Mana Sea; correct cure for Mana Sickness
@@ -296,7 +296,7 @@
 - [[Mana Sickness]] — Former plague whose source was ended and whose Southport victims recover by the epilogue
 - [[Shark's Edge]] — Kerben's +2 falchion made from a megalodon tooth; reveals water temperature by sight
 - [[Tatzelwurm Gizzard Juice]] — One-use white dragon poison crafted by Kerben from Tatzelwurm scales and darkwood bark
-- [[Antumbra]] — Sabotaged Penumbra whose final deployment destroys Starfall and ends Emperor Shen's invulnerability
+- [[Antumbra]] — Sabotaged Penumbra consumed in permanently destroying Starfall, preventing its shot at Sigil and ending Emperor Shen's invulnerability
 - [[Chart of the Witness]] — Recombined and decoded world chart showing old Stark and the present islands
 - [[Potion of Fluid Adamantite]] — Protective potion used by Kerben during the battles with the returning Vanir
 - [[Orkland Pin of Courage]] — Award given to Obould for saving orc tribes in southern battles decades ago

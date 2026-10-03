@@ -20,32 +20,40 @@ related:
   - "[[Emperor Shen]]"
 ---
 
-A synthesized, corrupted form of [[Penumbra]] created by [[Red Caesar]] with the help of [[Keys Caeradel]] and [[Illidrielle Gandara]] at [[The Academy]] in [[Brimbolyn]].
+# Antumbra
 
-## Creation
+Antumbra was an altered sphere of [[Penumbra]] created by [[Red Caesar]], [[Keys Caeradel]], and [[Illidrielle Gandara]] to sabotage the [[Broyish Empire]]'s [[Starfall]]. Planted among the Empire's fuel supplies, it was consumed in the explosion that permanently destroyed the weapon.
 
-Red Caesar theorized that [[Akasha]] — the silvery-white liquid raining over Continental Stark — is a less concentrated form of [[Penumbra]], and that applying extreme pressure could transmute it back. He proposed using a seed crystal of existing Penumbra to trigger a chain reaction in pressurized Akasha.
+## Description
 
-Keys Caeradel provided laboratory facilities, specialized containment glass, and stored Akasha samples. [[Illidrielle Gandara]] contributed poison expertise. The synthesis process used Otiluke's Resilient Sphere filled with Akasha, combined with an inversion of enlarge/reduce spells to compress the sphere to hand-size, generating enormous internal pressure. After multiple iterations compressing an entire lake of collected Akasha roughly a thousand-fold, the process produced a perfect palm-sized sphere of jet-black material with points of light emerging within it — synthesized Penumbra.
+The synthesized Penumbra was a perfect, palm-sized sphere of jet-black material with points of light like stars within it. Antumbra's alteration was concealed by illusion, allowing it to pass for ordinary Penumbra.
 
-The process was named the "Caesarean method" after Red Caesar.
+Its danger lay in an unstable condition within the compressed [[Akasha]] at its core. Drawing on its energy released that instability into the consuming system, spreading rapidly like a destructive infection or bomb rather than a conventional poison. Its use in Starfall demonstrated that it could destroy the device outright.
 
-## Properties
+## Campaign History
 
-[[Illidrielle Gandara]] and Keys Caeradel poisoned the synthesized Penumbra using a special method concealed by illusion, ensuring the poison would not infect their own samples. The resulting material — called Antumbra — is structurally unstable at its core. When fed into a device like [[Starfall]], it is expected to cause catastrophic damage rather than function as fuel. It spreads rapidly within its target system, more like a virus or bomb than a traditional poison.
+### Synthesis at the Academy
 
-The Antumbra can be replicated at a rate of approximately one sphere every five to ten days once the method is established. Red Caesar retains the knowledge of the synthesis process, and the elves at Brimbolyn could industrialize it.
+At [[The Academy]] in [[Brimbolyn]], Red Caesar pursued the theory that Akasha, the silvery-white liquid raining over [[Continental Stark]], could be compressed into Penumbra. He proposed using a fragment of existing Penumbra as a seed crystal to initiate the transformation. Keys Caeradel supplied laboratory facilities, stored Akasha, and specialized glass tempered with metals to contain it safely.
 
-## Deployment
+Red Caesar used Otiluke's Resilient Sphere as a sealed boundary and adapted enlargement and reduction magic to compress its contents. Repeated trials concentrated a lake's worth of collected Akasha into the small, star-filled sphere, successfully producing genuine Penumbra. The collaborators named the process the Caesarean method. Red Caesar retained knowledge of the synthesis and estimated that the established method could produce a sphere every five to ten days; larger-scale production by Brimbolyn's elves remained a possibility rather than an established operation.
 
-During session 025, the party planted the Antumbra into the hidden [[Penumbra]] stash aboard [[The White Drake]]. [[Kerben]] sneaked aboard the ship invisible and, using [[Zulu]] as a distraction, lockpicked into the hold and pitched the Antumbra among the League's stockpiled Penumbra stones. The League is expected to eventually hand off the contaminated Penumbra to the [[Broyish Empire]], where it would be fed into [[Starfall]].
+Keys Caeradel and Illidrielle Gandara then prepared the separate sabotaged sample. Keys Caeradel supplied the poisoning expertise, while Illidrielle Gandara concealed the alteration with illusion. They kept the work separate from their own Penumbra supplies to avoid infecting them. Red Caesar intended Antumbra to damage Starfall, but had not tested it in the device and did not yet know about [[Aeris]]'s captive fragment within it.
 
-[[Aeris]] confirmed through divination that deploying the Antumbra carries no risk of harming the piece of herself trapped within Starfall.
+### Planting the Sabotage
 
-In session 034, [[Red Caesar]] and [[Kerben]] concluded that Starfall consuming the Antumbra would cause both artifacts to annihilate each other permanently. They could not determine whether this had already happened without further divination.
+[[Vokenar]] proposed adding Antumbra to [[The League of New Stark]]'s hidden Penumbra stock aboard [[The White Drake]], so that the League's deliveries would carry it to the Empire. Before the party committed to the plan, [[Ceril]] consulted Aeris. She confirmed that sending Antumbra toward Starfall would not harm her captive fragment and urged them to proceed.
 
-## Session 037
+[[Kerben]] boarded The White Drake invisibly, used [[Zulu]] to distract the guards, and picked the hold's lock. He threw Antumbra among the stockpiled Penumbra, leaving it concealed in the supply intended for the Empire and Starfall.
 
-The planted Antumbra reached [[Starfall]] and was deliberately reserved as its final ammunition. [[Vizier Jade]] arranged for [[Emperor Shen]] to load it himself, accepting petrification in the process.
+After [[Obould]]'s rescue, Red Caesar disclosed the sabotage to him and [[Lady Jacinthe]], who had unknowingly helped carry it toward its target. Red Caesar and Kerben concluded that consuming Antumbra would permanently annihilate both the sample and Starfall, leaving no weapon to repair or replace. They could not then confirm whether it had already been used; further divination was discussed but no answer obtained.
 
-When Emperor Shen fed it into Starfall at [[Axis Mundi]], the device erupted in darkness and was completely destroyed. The sabotage prevented its intended shot at [[Sigil]] and ended Emperor Shen's invulnerability. This confirms the destructive effect predicted in session 034.
+### Destruction of Starfall
+
+At [[Axis Mundi]], the planted sphere had reached Starfall and been deliberately reserved as its final ammunition. [[Vizier Jade]] asked Red Caesar to restrain her so that [[Emperor Shen]] would load it himself. She accepted petrification as the cost of that apparent failure.
+
+When Emperor Shen pushed Antumbra into Starfall, the ring's interior became black and filled with stars, briefly trapping his hand before an explosion of darkness. Starfall was completely destroyed. The sabotage prevented its intended shot at [[Sigil]] and ended the invulnerability the device had granted Emperor Shen.
+
+## Final Status
+
+The planted Antumbra was consumed in Starfall's destruction. It has no surviving holder at campaign end; Red Caesar's knowledge of Penumbra synthesis remains distinct from the destroyed artifact.

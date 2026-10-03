@@ -150,7 +150,7 @@ On the northern voyage, Shark's Edge helped Kerben guide the ship through warmer
 
 ### Antumbra and Jack Harvey's Refuge
 
-Kerben continued as acting captain while Red Caesar worked at [[The Academy]], taking Trent Indorra and Ebbie Indorra aboard as temporary crew before they disembarked near Southport. He then infiltrated The White Drake with invisibility, lockpicking, and Zulu as a distraction, planting [[Antumbra]] among [[The League of New Stark]]'s Penumbra. The aim was to contaminate fuel destined for [[Starfall]]; the record does not establish that this sabotage caused the weapon's eventual destruction.
+Kerben continued as acting captain while Red Caesar worked at [[The Academy]], taking Trent Indorra and Ebbie Indorra aboard as temporary crew before they disembarked near Southport. He then infiltrated The White Drake with invisibility, lockpicking, and Zulu as a distraction, planting [[Antumbra]] among [[The League of New Stark]]'s Penumbra. The contaminated fuel eventually reached [[Starfall]] at [[Axis Mundi]], where [[Emperor Shen]] loaded it himself and the resulting explosion permanently destroyed the weapon.
 
 Kerben was the first aboard The Opal to see Starfall's strike against the moon and warned about possible consequences for tides, debris, and Brimbolyn. He helped defeat Xarag at [[Xarag's Island]], salvaging material for Red Caesar's acid-resistance preparations. He also helped repel the [[Gun Balloon]] boarders and gathered binding materials for [[Transel]]'s raft.
 
