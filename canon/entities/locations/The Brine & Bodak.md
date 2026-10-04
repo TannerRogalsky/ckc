@@ -11,4 +11,10 @@ related:
   - "[[Octavia Crayborne]]"
 ---
 
-A popular establishment in [[Cutlass Cray]] run by [[Transel]]. [[Octavia Crayborne]] formerly performed there, and [[The Marid]] noted that it had plenty of people looking for work. After Octavia was poached away in session 026, Transel arrived on a raft the party had built for him and became the new bartender.
+# The Brine & Bodak
+
+The Brine & Bodak is a popular [[Cutlass Cray]] establishment run by [[Transel]]. [[Octavia Crayborne]] formerly performed there, and [[The Marid]] identified it as a place to find people seeking work.
+
+## Campaign History
+
+The party helped Transel leave his island by building him a raft. He later arrived independently at Cutlass Cray and became the establishment's bartender, filling a vacancy created by earlier recruitment. He subsequently came to run it.

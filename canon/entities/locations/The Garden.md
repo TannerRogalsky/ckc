@@ -2,7 +2,7 @@
 type: location
 subtypes: [landmark]
 session_introduced: "001"
-sessions_appeared: ["013", "015", "033", "035", "038"]
+sessions_appeared: ["008", "013", "015", "033", "035", "038"]
 related:
   - "[[Theotropa]]"
   - "[[Boril Erendel]]"
@@ -12,29 +12,38 @@ related:
   - "[[Southport]]"
 ---
 
-A druid sanctuary that serves as a hub for food and livestock trade. The Garden flies cyan and green banners bearing a tree and is building a fleet of boats to extend aid to human settlements and small landforms. Druids raise crops, bring livestock (goats and other animals), and seek to invite communities to join the Garden's network.
+# The Garden
 
-The Garden has natural cavern chambers extending into the building. [[Rakshasa|The Rakshasa]] dwells in an inner sanctum hung with silks, smoking from a hookah. [[Boril Erendel]] maintains a side office higher up with a beautiful view of nearby islands.
+The Garden is the druid sanctuary and agricultural trading hub led by [[Theotropa]]. Its food network sustained surviving communities, and its work turned toward lands exposed by retreating oceans.
 
-In session 033, [[Mayor Yoris]] credited the Garden's food network, strengthened by [[Ceril]] and [[Kerben]], with keeping [[Southport]] supplied after the eastern war disrupted ordinary trade.
+## Description
 
-The Garden held a drained [[Penumbra]] chunk in [[Theotropa]]'s possession, which was given to the party after they destroyed the [[Storm Phoenix]]. Theotropa offered to hold onto any future Penumbra the party found, since scouts from the [[Broyish Empire]] had been searching for it. A Broyish scout appeared as a cloud on some device and left without finding the Penumbra, which was under non-detection.
+Cyan-and-green banners bearing a tree identify the sanctuary and its supply boats. Druids raise crops and livestock, including goats, wargs, hippogryphs, jackalweres, and pixies. Their growing fleet carried seeds, plants, and animals to human settlements and smaller landforms.
 
-The nearby tropical terrain has plantain groves — a resource the druids might want to stockpile.
+Natural cavern chambers extend into the building. Nearby tropical terrain includes plantain groves, a possible resource rather than an established stockpile.
 
-### Notable People
-- [[Theotropa]] — Leader of The Garden
-- [[Boril Erendel]] — Member of [[The Order of Seasons]] stationed here, working on his own version of the [[Demi-Spell]]
-- [[Rakshasa|The Rakshasa]] — Divine being dwelling in the inner sanctum; [[Keys Caeradel]]'s father
-- [[Muudeep]] — Sells wares
+## Notable Areas
 
-### Livestock
-- Wargs, Hippogryph, Jackalweres, Pixies
+- Inner sanctum — Silk-hung caverns where the [[Rakshasa]] formerly stayed, smoking from a hookah.
+- Upper office — [[Boril Erendel]]'s former working room overlooking nearby islands.
+- Theotropa's chambers — The vicinity in which a nearly drained [[Penumbra]] fragment was concealed before its transfer to the party.
 
-## Session 035
+## Inhabitants and Control
 
-With [[Farraday]]'s surveillance ended, the [[Rakshasa]] left the sanctuary to reunite with [[Keys Caeradel]] at [[The Academy]].
+Theotropa led the sanctuary and negotiated its aid. [[Muudeep]] sold wares. Boril Erendel, associated with [[The Order of Seasons]], worked here on his own additions to the [[Demi-Spell]] before moving to his separate laboratory.
 
-## Session 038
+The Rakshasa, [[Keys Caeradel]]'s father, was a significant former resident. His departure and Boril Erendel's later defeat belong to different histories; neither establishes that the Garden itself closed.
 
-[[Theotropa]] invited [[Ceril]] to join the work of replanting lands exposed by retreating oceans. Ceril offered temporary help but favored dense jungle over easy expansion of settlements, then retired to [[Ceril's Star]]. [[Theo Harvey]] also found surviving [[40 Carats]] performers here while reuniting the troupe.
+## Campaign History
+
+The druids expanded their trade and aid beyond the sanctuary, inviting communities into the network. [[Ceril]] and [[Kerben]] strengthened that work, and [[Mayor Yoris]] credited it with keeping [[Southport]] supplied when eastern war disrupted ordinary commerce.
+
+Theotropa had hesitated to use the concealed Penumbra's remaining energy without understanding its source or cost. She offered it after the party destroyed the [[Storm Phoenix]], and the companions received it for the sky-repair effort. She also offered to conceal future finds from [[Broyish Empire]] scouts. An aerial scout appeared as a cloud on a device and left without discovering the protected stone.
+
+After [[Farraday]]'s surveillance ended, the Rakshasa left to reunite with Keys Caeradel at [[The Academy]]. In the epilogue, Theotropa invited Ceril to help replant exposed lands. He contributed temporarily, favoring dense living jungle over easy settlement expansion, then retired to [[Ceril's Star]].
+
+[[Theo Harvey]] found surviving [[40 Carats]] performers here while assembling the troupe's reunion.
+
+## Final Status
+
+The Garden continued to support restoration in session 038. Its former Penumbra had passed to the party, and Boril Erendel and the Rakshasa no longer occupied their earlier roles there. Ceril's help did not establish permanent membership or responsibility for the sanctuary's future settlements.

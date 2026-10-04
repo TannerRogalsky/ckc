@@ -10,16 +10,35 @@ related:
   - "[[Xarag]]"
 ---
 
-A large interior courtyard within [[Castle Kaedon]], accessible through an archway beneath the turret walkways. The space features bleacher-style seating rising to a VIP skybox with a throne, a circular arena floor with a wooden post, stables along one wall, and mercantile kiosks. The bleachers contain the skeletal remains of ancient spectators and a noble figure in the skybox.
+# Castle Kaedon Arena
 
-The arena appears to have hosted athletic or sporting events — largely a human cultural tradition. Despite the castle's long submersion, the space is strangely preserved, protected by the abjuration magic pervading the castle. When the party entered, sludge and black mold among the seaweed coalesced into hostile oozes — [[Psychic Goop]]s, ochre jellies, and a black pudding — formed from the ancient human remains scattered across the arena. The party cleared these oozes after a prolonged battle.
+Castle Kaedon Arena was the strangely preserved spectator courtyard within [[Castle Kaedon]], surrounded by ruined sporting, agricultural, and equestrian facilities. Its exploration revealed the remains of the old human community and the threats occupying its flooded grounds.
 
-Beyond the arena proper, the surrounding grounds include elevated plateaus with cliff edges overlooking the ocean, old fields overgrown with thick seaweed, additional stables, and enclosed buildings. A giant waterfall (cataract) nearby sends sheets of wind and mist across the island. One stable contained a preserved ringmaster's motley vestment in bright colors, and Kaedonite coinage bearing the profile of [[King Maniasis]] was found among the kiosks.
+## Geography and Access
 
-From the stables emerged [[Mezzoloth]]s — fiendish beetle-like creatures with four arms and magic resistance. The fog also carried swarms of [[Severed Hands]] — crawling severed hands that scuttle like spiders.
+An archway beneath the castle's turret walkways opened into the courtyard. The surrounding grounds included elevated plateaus, ocean-facing cliffs, old fields, and broken landmasses resting on barnacle-covered pillars. A great nearby cataract cast wind and mist across the island. [[Kerben]]'s stone sense revealed further buried hollows.
 
-One of the enclosed buildings is a granary, its large doors big enough to lead a horse through. Inside are massive bins of grain and barrels in the corners — the grain having fermented into 60 to 100 year old malt liquor. Opening the doors releases a wave of flammable toxic alcohol fumes. The granary harbors giant scorpions, swarms of [[Sturges]], and carrion crawlers. Some of the aged brew survived as drinkable [[Kaedonite Black Ale]].
+## Description
 
-Beyond the granary, the southern perimeter of the island features a graveyard field where specters rise from unrested spirits. Nearby cisterns seep water that collects into a vortex capable of forming water elementals. An enclosed building behind the granary contains horse racks, barrels, and old perished leather, with four entry points. This area was infested with brown mold. An old [[Kaedon]] equestrian manual was found here.
+Bleachers rose toward a noble skybox with a throne, overlooking a circular arena floor and wooden post. Stables and mercantile kiosks stood along the sides. Ancient spectators' skeletons remained in the seating, with a noble figure in the skybox.
 
-The castle's cliff edges feature smooth white stone descending 35 to 50 feet to the ocean. Broken landmasses hang on barnacle-encrusted pillars above the water. [[Kerben]]'s Stone Sense revealed hollow spaces underground — parts of the castle are buried beneath the surface. [[Animated Armor]] constructs guard the side walls, appearing as intact metal statues. Water elementals can rise from the ocean and ambush intruders along the cliffs. A [[Xarag]] and four wyrmlings also emerged from the surrounding waters to attack the party.
+The space appeared to have hosted human athletic or sporting events. The castle's abjurations preserved it despite long submersion, while thick seaweed covered the old fields.
+
+## Notable Areas
+
+- Stables and kiosks — A brightly colored ringmaster's motley vestment survived in a stable; coins bearing [[King Maniasis]]'s profile remained among the kiosks.
+- Granary — Horse-sized doors opened onto great grain bins and barrels. Fermented grain produced toxic, flammable alcohol fumes, while some aged drink survived as [[Kaedonite Black Ale]].
+- Southern graveyard — A field of unrested spirits near water-seeping cisterns whose vortex could form water elementals.
+- Equestrian building — Horse racks, barrels, and perished leather remained in a brown-mold-infested structure behind the granary. The party found an old [[Kaedon]] equestrian manual there.
+
+## Inhabitants and Control
+
+These were remnants of the castle's earlier human use, not a surviving sporting community. [[Psychic Goop]] and other oozes formed from decayed remains. [[Mezzoloth]] emerged from the stables, and mist carried [[Severed Hands]]. Giant scorpions, [[Sturges]], and carrion crawlers occupied the granary; specters haunted the graveyard. [[Animated Armor]] guarded the side walls, while water elementals and [[Xarag]] offspring threatened the cliffs.
+
+## Campaign History
+
+The party cleared the oozes coalescing from sludge, mold, and ancient bodies in the courtyard, then investigated the surrounding grounds and recovered remnants of Kaedon's culture. The exploration established both the castle's supernatural preservation and the dangers that had replaced its former inhabitants.
+
+## Final Status
+
+The arena's last direct exploration was in sessions 017–018. The enclosing castle was subsequently destroyed during [[Lyngbakr]]'s renewed flight, confirmed in [[canon/sessions/session_031#Chunk 0004|session 031]]. The arena's individual remains and later condition were not separately recorded.

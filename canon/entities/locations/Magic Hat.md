@@ -17,6 +17,37 @@ related:
   - "[[King of the Hole]]"
 ---
 
-A hotel and bunker within [[The Carrot Cake]], accessible from the rotunda through top hat portals. The exterior features a black-and-white checkerboard tile floor with astroturf lawn cracked in places where real plant life has grown through. Multi-colored lights (green, purple, orange) emanate from the north, with the orange glow of the carrot logo refracting off ponds. Two kiosks dot the area: one staffed by a [[Magen]] endlessly shuffling cards, and another containing a broken fortune-teller machine with the automaton [[Boston Golf]]. Water features in the area harbor hostile creatures including [[Gorgon Head]]s and [[Flame Skull]]s.
+# Magic Hat
 
-The hotel proper has three levels connected by a spiral staircase, with approximately 30 rooms. Amenities include a chocolate fountain, soft serve ice cream station, shrimp cocktail, and a mini bar. A [[Magen]] maitre d' greets guests, casts Knock on the door, and reads patrons' minds to deliver personalized food unless non-detection is active. The party found [[Rahmadi's Capers]] issue 4 in one of the rooms. One of the four lamp lighter switches is located here — installed by [[Jack Harvey]] to seal off a doorway; flipping it activates the Magic Hat lamp for access to Jack's inner sanctum but cuts power to the hotel's amenities. The magen maitre d' does not require electricity to function and powers down and back up when the switch is flipped.
+Magic Hat is the hotel and bunker destination in [[The Carrot Cake]]. It sheltered the party during its search for [[Jack Harvey]]'s sanctum, before its electrical supply was redirected to the sealed gate.
+
+## Geography and Access
+
+Top-hat portals connect the hotel district with the midway rotunda and other park destinations. The hotel attendant could open its secured door with Knock.
+
+## Description
+
+Black-and-white checkerboard paths cross artificial turf broken by real plants. Ponds reflect green, purple, and orange lights, including the orange carrot emblem.
+
+The hotel has three levels joined by a spiral staircase and roughly thirty rooms. Its powered amenities included a chocolate fountain, soft-serve ice cream, shrimp cocktail, and a minibar. These describe its operation before the party diverted the electricity.
+
+## Notable Areas
+
+- Card kiosk — A [[Magen]] continually shuffled cards there.
+- Fortune-teller kiosk — A broken machine housed the [[Boston Golf]] automaton.
+- Hotel rooms — Lodging where the party found [[Rahmadi's Capers]] issue four.
+- Lamplighter — The hotel's contribution to the gate securing Jack Harvey's inner sanctum.
+
+## Inhabitants and Control
+
+A Magen maître d' welcomed guests and read their minds to provide personalized food; protection against detection could limit that service. Its own existence did not depend on the electrical supply. [[Gorgon Head]] and [[Flame Skull]] threats occupied the district's water features.
+
+## Campaign History
+
+The party cleared threats outside and stayed at the hotel. The attendant's hospitality offered relief within the abandoned park, while the fortune-teller automaton and recovered comic preserved traces of its earlier entertainment.
+
+[[Red Caesar]] redirected the hotel's power to the sanctum's gate, supplying another lamp and disabling the powered amenities. The attendant briefly shut down and then resumed activity, revealing that the apparent loss of life had been a performance.
+
+## Final Status
+
+At the party's departure in session 029, the lamplighter had supplied the gate and the hotel's electrical amenities had lost power. The Magen attendant still functioned. Subsequent restoration of the hotel or its power was not recorded.

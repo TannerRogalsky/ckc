@@ -24,52 +24,70 @@ related:
   - "[[40 Carats]]"
 ---
 
-A massive amusement park from old [[Kaedon]] that spanned multiple mountaintops through the use of great magic. It could transport visitors from one place in the world to another, allowing them to see everything from elevated peaks. The main travel destination was a tall peak to the north of [[Castle Kaedon]] but south of the elven lands.
+# The Carrot Cake
 
-It was set up by [[Jack Harvey]] as part of his business expansion during Kaedon's prosperous era. Visiting the Carrot Cake was a luxury — families spent significant wealth on the experience. Before [[The Cataclysm]], Jack had been converting the amusement park into a bunker, securing things from the old world behind a giant gate.
+The Carrot Cake is [[Jack Harvey]]'s surviving amusement and refuge complex from old [[Kaedon]], connected with [[40 Carats]]. Its protected [[Penumbra]] hoard became the material that completed the repair of the sky.
 
-The party first learned of the Carrot Cake in session 018 when a dead noble corpse at [[Castle Kaedon]] was found carrying tickets for the park. [[Red Caesar]] used Speak with Dead on the corpse, which revealed that the amusement park spanned multiple mountaintops through great magic, could transport visitors across the world, and that the main destination was a tall peak north of Castle Kaedon but south of the elven lands. The noblewoman had been intending to attend, but [[The Cataclysm]] prevented her journey. The location is plotted roughly in the dead center of the campaign map.
+## Geography and Access
 
-In session 022, [[David Harvey]] revealed that [[Jack Harvey]] was his relative. Later, [[Theo Harvey]] claimed that Jack Harvey's final project — [[The Carrot Cake]] — is "alive and well," implying that the amusement park or its magical legacy still persists somewhere in the world.
+The park connected distant mountaintops and resorts through teleportation. Early testimony placed its main destination north of [[Castle Kaedon]] and south of elven lands. [[Theo Harvey]] later supplied a map showing an approach from a particular side of the central mountain of [[Thalasia]].
 
-## Session 023
+Theo Harvey's stolen imperial notes described a demiplane accessible from the first day of the fifth moon through the last day of the ninth. A [[Magen]] explained the seasonal operation through the enormous energy cost and poor rainy-season business. These accounts established the known access window, not a guarantee that entry was easy.
 
-[[Theo Harvey]] revealed more details about The Carrot Cake during a conversation with [[Domyx]]. The Carrot Cake was powered by [[Penumbra]] before the sky broke. It is a massive maze of illusions and arcane traps. [[Vizier Jade]] had sent her companion [[The Tyrant]] to find the Carrot Cake, and the Tyrant never returned — presumably captured or destroyed by the park's defenses. Theo noted that if one wound up inside the Carrot Cake, one would not come back either.
+The party reached a man-made lagoon cut into the mountainside after its concealment had dissipated. A glowing orange path wound through rocky peaks and a canopy mixing flowers and foliage from several seasons toward a giant carrot-shaped entrance.
 
-## Session 024
+## Description
 
-[[Theo Harvey]] revealed the full truth about The Carrot Cake to [[Kerben]] during their secret meeting aboard [[The Opal]]. The Carrot Cake exists as a demi-plane — a pocket dimension that only opens at certain times of the year. It opens from the first day of the fifth moon through the last day of the ninth moon. Outside this window, it is inaccessible from the material plane. [[Jack Harvey]] collected [[Penumbra]] shards when the sky first broke and hid them within the Carrot Cake as a safeguard for future generations, not knowing what they would be needed for but trusting someone would come looking.
+The park bears the stylized carrot-and-diamond emblem of 40 Carats. Illusory bands play a jazzy waltz in its entrance corridor, amid tattered tents and horse hooks. Its midway boulevard contains trees from across [[Stark]] and beyond, fruiting together despite incompatible natural habitats. Some stalls remain powered while others stand empty.
 
-Theo provided a map showing the Carrot Cake's location on the rear side of the central mountain of [[Thalasia]]. Access requires boating in from a particular side, though entry is not guaranteed to be easy even during the open window. The Tyrant sent by Jade got stuck inside when the demi-plane closed and could not make the trip back home.
+Penumbra sustained the surviving midway and connected attractions. Illusions, arcane protections, electrical machines, automata, and hostile occupants made abandoned entertainment both functional and dangerous.
 
-## Session 027
+## Notable Areas
 
-After a three-day sail from [[Cutlass Cray]], the party arrived at The Carrot Cake. The entrance is a man-made lagoon carved into the mountainside, hidden by illusions that had only recently dissipated. The approach winds through rocky peaks and a colorful overgrown canopy with flowers of multiple seasons growing simultaneously. A glowing orange path leads up the mountain toward a giant carrot-shaped entrance marked with the [[40 Carats]] logo — a stylized carrot-diamond hybrid.
+- Midway and rotunda — The central promenade, attraction portals, and lamp-protected gate.
+- [[City Hole]] — Electrically lit cavern with barrel portals connecting the destinations.
+- [[Hole Shebang]] — Festival island of technological games and electrical hazards.
+- [[Magic Hat]] — Hotel and bunker providing rooms, personalized food, and its own lamplighter.
+- [[King of the Hole]] — Island coliseum whose completed challenges supplied another lamp.
+- [[Hole on Wheels]] — Scenic flying train over drowned [[Esperanto]], holding the final lamplighter.
+- Inner sanctum — An underwater vault beyond an airlock, with Penumbra crystallized across its chambers.
 
-Inside the entrance corridor, illusory bands playing a jazzy waltz hover in the air. Tattered tents and horse hooks line the path. As the party advanced, undead in tattered orange uniforms — mummies and revenants — rose from the ground around them. A [[Magen]] in rabbit form sat on a bench drinking tea and welcomed the party: "come one, come all and welcome to [[40 Carats]], let the dance begin." The magen told the undead to fight on their own. The party defeated the mummies and revenants.
+## Inhabitants and Control
 
-The magen confirmed that [[Penumbra]] is the power source still running the midway and provided a directory of the park's areas: the [[Magic Hat]] (a hotel and bunker), the [[Hole Shebang]] (a festival island), and other zones connected by teleport circles. Jack Harvey designed the park as a constellation of resorts across Stark, all interconnected through teleportation magic. The park was open mostly during spring and summer due to the enormous energy required to maintain it.
+Jack Harvey built the complex during his business expansion, later converting it into a safeguard against catastrophe. Magen attendants maintained parts of his knowledge and welcomed visitors. Their continued work did not make every section safe.
 
-The party explored the midway, a boulevard lined with trees from across Stark and beyond — each fruiting with varieties that should not grow in the same environment. [[Ceril]] collected seeds from these trees. Stalls line the path, some powered and some empty. The party encountered and defeated a [[Cloaker]], two [[Flame Skull]]s, and [[Hooksy the Clown Automaton]]. A haunted living tent also attacked the party.
+[[Farraday]], Jack Harvey's benefactor, was credited with the coliseum challenges. Undead in orange uniforms, [[Cloaker]], [[Flame Skull]], [[Hooksy the Clown Automaton]], and a [[Haunted Living Tent]] threatened the midway. [[The Tyrant]], sent by [[Vizier Jade]], became trapped inside and eventually occupied the vault.
 
-## Session 029
+The amusement complex and 40 Carats are distinct. Reuniting the entertainment company did not establish ownership or restoration of every park destination.
 
-The party explored the [[Magic Hat]] hotel in depth, discovering three levels with approximately 30 rooms connected by a spiral staircase. Amenities included a chocolate fountain, soft serve ice cream, shrimp cocktail, and mini bar. A [[Magen]] maitre d' read the party's minds to deliver personalized food during their stay. [[Ceril]] found a purple worm hide rug with amethysts and carrot-infused tobacco. [[Vokenar]] found [[Rahmadi's Capers]] issue 4, a collectible comic about a goblin rogue. The party flipped the Magic Hat lamp lighter switch, lighting the second of four lamps needed to access [[Jack Harvey]]'s inner sanctum.
+## Campaign History
 
-The party entered [[King of the Hole]], an island surrounded by ocean with a grassy hill. A [[Magen]] announcer with a carrot-microphone welcomed them, having researched each party member. The announcer explained the area's wave-based combat system: five beacon lights must be activated three at a time to trigger waves of enemies, with four required waves and an optional fifth bonus. The enemies are presented not by [[Jack Harvey]] but by his benefactor [[Farraday]], who wanted the park to remain entertaining even after the apocalypse. The first wave spawned phase cats, a gorgon head, a flame skull, and mummies.
+### The Old Refuge and Its Rediscovery
 
-## Session 030
+Visits had been a luxury for families of old Kaedon. Before [[The Cataclysm]], Jack Harvey converted the park into a bunker and secured old-world goods behind a great gate. When sky-material fell, he gathered it for later generations, trusting that someone would discover a use.
 
-The party completed the remaining [[King of the Hole]] waves and defeated the optional bonus challenge, lighting the third lamp and earning the [[Hopping Mad Sash]]. After [[Tango]] warned that [[The Opal]] was under [[Broyish Empire]] attack, the party pushed into [[Hole on Wheels]] to reach the fourth lamp.
+Tickets on a dead noblewoman at Castle Kaedon gave the party its first useful lead. Her planned holiday had been prevented by the flood. [[David Harvey]] connected Jack Harvey to his family, and Theo Harvey later claimed the park still survived.
 
-On Hole on Wheels, the party defeated the [[Vampiric Nightbringer]] controlling the train and flipped the final lamp switch. All four lamps are now lit, opening [[Jack Harvey]]'s inner sanctum. However, the portal paintings back to the midway were deliberately dispelled after the party left, trapping them on the train overnight while the newly opened inner sanctum was exposed. [[Vizier Jade]] and [[Emperor Shen]] used Red Caesar's dream to search for the Penumbra while the party rested.
+Theo Harvey described its defenses, seasonal opening, and hidden hoard to [[Domyx]] and then privately to [[Kerben]]. His explanation of the Tyrant's failed return was trapping within the closed demiplane, rather than confirmed destruction by the defenses.
 
-## Session 031
+### Opening the Sanctum
 
-[[Kerben]] returned to The Carrot Cake and found [[Fharan]]'s imperial force using [[Theo Harvey]] to locate [[Jack Harvey]]'s inner sanctum. The party returned to the midway, defeated the imperials, and opened the sealed door after realizing it would only respond to those who had completed the lamp challenges.
+The party entered from [[Cutlass Cray]], overcame the orange-uniformed undead, and met a rabbit-form Magen drinking tea on a bench. The attendant welcomed them while leaving the undead to fight on their own. Its directory explained the connected resorts and the four lamps required for access to the sanctum. [[Ceril]] collected seeds from the extraordinary midway trees.
 
-The inner sanctum proved to be an underwater vault. It released a flood into the midway when opened, then led through an airlock into chambers where [[Penumbra]] had crystallized across the walls. The vault also held [[Jade's Compass]] and [[The Tyrant]], confirming that [[Vizier Jade]]'s servant had reached the vault but never escaped with its treasure. [[Red Caesar]] condensed the vault's Penumbra with [[Obvolvo Caelum]], completing the park's central purpose as Jack Harvey's safeguard for future sky-repair.
+The companions completed Hole Shebang's electrical district, stayed in Magic Hat, and redirected the hotel's power. Their stay yielded a purple-worm-hide rug set with amethysts, carrot-infused tobacco, and [[Rahmadi's Capers]] issue four. They then completed King of the Hole's required and optional contests, gaining the [[Hopping Mad Sash]] and another lamp.
 
-## Session 038
+[[Tango]] warned that [[The Opal]] was under [[Broyish Empire]] attack, and the travelers pressed through Hole on Wheels. They defeated its [[Vampiric Nightbringer]] and activated the final lamplighter. Dispelled return paintings stranded them overnight while the sanctum became accessible elsewhere. Vizier Jade and [[Emperor Shen]] entered Red Caesar's dream seeking its location and hoard; the extent of what they learned remained uncertain.
 
-The park retained materials from [[40 Carats]], the entertainment company founded by [[Jack Harvey]] and formerly employing [[Kerben]]. The company and its amusement park are distinct. [[Theo Harvey]] reunited surviving performers, and Kerben chose to rebuild the troupe after the final battle.
+### The Vault and the Sky-Material
+
+Kerben found [[Fharan]]'s imperial force using Theo Harvey to locate the inner sanctum. The companions reunited, defeated the imperials, and discovered that the sealed entrance required contact by someone who had completed the challenges.
+
+Opening it released ocean water into the midway. Beyond the airlock, the vault held crystallized Penumbra, [[Jade's Compass]], and the Tyrant. The encounter confirmed the servant's survival and failure to escape with its treasure.
+
+[[Red Caesar]] condensed the entire deposit through [[Obvolvo Caelum]], making Jack Harvey's preserved sky-material portable. [[Vokenar]] recalled the companions to their ship, and the hoard subsequently supplied [[Lyngbakr]]'s completed repair.
+
+## Final Status
+
+The hoard was removed and fulfilled its role in repairing the heavens. The party's last vault expedition did not establish the park's later power supply, condition, or continuing seasonal access.
+
+The epilogue established Theo Harvey's reunion of surviving 40 Carats performers and Kerben's successful rebuilding of the troupe. Those outcomes preserved Jack Harvey's entertainment legacy without confirming that The Carrot Cake itself was rebuilt or reopened.

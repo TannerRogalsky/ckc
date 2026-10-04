@@ -299,7 +299,7 @@ After writing:
 
 # Character Article Structure
 
-Apply this structure when creating or deliberately reorganizing character files, including party members and NPCs. Use the exact section names and order below; omit optional sections without substantive source-supported content. This is a body layout, not a change to the frontmatter schema. Vessels follow Vessel Article Structure; organizations follow Organization Article Structure; creatures follow Creature Article Structure; concepts follow Concept Article Structure; other entity types retain their existing layouts.
+Apply this structure when creating or deliberately reorganizing character files, including party members and NPCs. Use the exact section names and order below; omit optional sections without substantive source-supported content. This is a body layout, not a change to the frontmatter schema. Vessels follow Vessel Article Structure; organizations follow Organization Article Structure; creatures follow Creature Article Structure; concepts follow Concept Article Structure; locations follow Location Article Structure; other entity types retain their existing layouts.
 
 ## Opening and Section Order
 
@@ -547,6 +547,79 @@ After writing:
 - Preserve frontmatter identity, `session_introduced`, and existing appearance history. Reorganization alone establishes no new appearance; append sessions only when verified. Validate schema compliance, quoted session values, aliases, meaningful `related` links, and entity and source links.
 - Confirm exactly one correctly categorized index entry per entity file. Update descriptions and affected linked articles when canon is materially corrected; accurate descriptions need no change for layout alone.
 - Apply the relevant Post-Ingest Validation checks and append operations to `log.md`. Reorganization alone does not change quest status or supply closure to unresolved outcomes.
+
+# Location Article Structure
+
+Apply this structure when creating or deliberately reorganizing location files in `canon/entities/locations/`. Locations follow the other entity structures' separation of description, relationships or authority, chronological history, and final state, with additional attention to geography, access, and significant spaces. This is a body layout, not a change to the frontmatter schema. Retain `type: location` and use the established location subtypes where supported: `city`, `dungeon`, `continent`, `region`, `settlement`, `plane`, `landmark`, and `building`. This layout alone does not authorize recategorization or require new subtypes.
+
+## Opening and Section Order
+
+After frontmatter, use `# Canonical Name`, matching the filename, followed by a short introduction identifying the place, its defining setting or purpose, and its campaign significance. Keep the introduction consistent with its last established condition; qualify former uses, rulers, inhabitants, and geographic states. Make clear whether the subject is a world, plane, territory, settlement, building, natural feature, or connected complex.
+
+Use the exact section names and relative order below. Omit a section when its substantive information fits in the introduction or another section without duplication.
+
+| Order | Exact heading | Content and boundaries |
+|---|---|---|
+| 1 | `## Geography and Access` | Where the place lies, its containing region or plane, meaningful neighboring places, and established routes, entrances, transport connections, or planar boundaries. Describe seasonal access, concealment, wards, and natural obstacles at the level needed to explain reachability. Distinguish proximity, containment, and connection; identify separate physical entrances and magical destinations when relevant. Attribute uncertain map positions and testimony. Keep changes to routes and barriers in Campaign History, summarizing their last established state here. |
+| 2 | `## Description` | Source-supported terrain, climate, ecology, architecture, construction, atmosphere, visible condition, and distinctive magical or technological features. Include the place's characteristic uses, services, and significant resources, such as research facilities, hospitality, trade, agriculture, or preserved records. Describe hazards and protections through their narrative effects. Distinguish enduring features from temporary effects, former facilities, removed resources, and damage. Avoid numerical mechanics, incidental stock lists, puzzle instructions, and room-by-room encounter logs. |
+| 3 | `## Notable Areas` | Significant districts, buildings, rooms, landmarks, or connected destinations within the place or complex. Use canonical linked bullets or a compact table explaining each area's role and spatial relationship. Link separate location articles for fuller descriptions; describe meaningful unnamed spaces in ordinary prose without creating an entity for every room. Identify nearby sites as nearby rather than implying containment, and distinguish portal-connected destinations from physically adjoining spaces. Keep broad geography in Geography and Access and detailed discoveries in Campaign History. |
+| 4 | `## Inhabitants and Control` | Established communities, significant residents, proprietors, rulers, governing bodies, institutions, and consequential occupiers or guardians. Use linked bullets or a compact role table when useful. Distinguish residence, employment, ownership, political authority, occupation, stewardship, and temporary presence. Mark former roles and departures; an encounter does not establish permanent residence, and a historical roster does not establish who remained at campaign end. Explain significant local social conditions and affiliations without copying full character or organization histories. |
+| 5 | `## Campaign History` | A chronological synthesis of meaningful origins, earlier uses, discoveries, arrivals that changed the place, conflicts, rescues, development, destruction, restoration, changes of control, and repurposing. Explain what changed for the location or what the party learned about it and why that mattered. Keep pre-campaign events distinct from their later discovery. Preserve consequential environmental changes, recovered knowledge or resources, and local outcomes without reproducing the party's itinerary, combat logs, or every room explored. |
+| 6 | `## Final Status` | The last established condition, geographic state, accessibility, use, inhabitants, and control, including any epilogue. Distinguish survival, abandonment, occupation, damage, destruction, rebuilding, and repurposing only as supported. Separate accomplished outcomes from proposed settlement, repairs, restoration, or future use. If the place drops out of the record, identify its last attested state and verified session without implying it continued unchanged through the finale. Preserve meaningful uncertainty about later access, occupants, recovery, or leadership. |
+
+## Geographic Identity, People, and Resources
+
+Treat the place as the article's subject. A continent is distinct from its similarly named city or the world containing it; a kingdom's territory is distinct from its government; an estate is distinct from its noble house; an academy, church, or park is distinct from the institution using it. Explain supported connections without automatically splitting, merging, or recategorizing existing entities. Search canonical names, aliases, the entity index, and sources before resolving apparent geographic equivalence.
+
+Keep spatial relationships precise. Being beneath a world does not by itself establish an ordinary underground region, a route between planes does not make them one plane, and a landmark spanning several realms does not make nearby sites identical. A connected resort may include distant or moving destinations. A location carried by a creature or vessel can remain a location; preserve the established classification and explain the relationship rather than changing its type for layout alone.
+
+Use maps, testimony, observations, and demonstrated travel to establish positions and connections. Distinguish a known route from an attempted, blocked, rumored, or proposed one. Do not invent coordinates, borders, travel times, cardinal directions, or conventional planar geography from external game lore. Preserve useful in-world geographic detail while removing exact combat distances and other tactical measurements.
+
+Authority over a settlement, ownership of a building, and the presence of a faction are different claims. Visiting, liberating, repairing, consecrating, or defeating the occupants of a place does not by itself establish party ownership or continuing control. Do not apply the items' last-user custody default to places. Retain the last established authority as the record of that point in the location's history, with uncertainty about later control where consequential.
+
+Describe significant services, resources, defenses, and magical functions at a high level. Explain what an access challenge protected and whether it was overcome without preserving its switch sequence, wave combinations, saving throws, or operating instructions. Link item and concept articles for fuller accounts of artifacts, fuel, spells, or conditions. A treasure once found at a site need not remain there; a removed power source need not imply that every local enchantment failed. Apply item and vessel custody rules to resources whose possession is established, and keep those statements consistent with their own articles.
+
+## Chronology, Evidence, and Duplication
+
+Campaign History owns the detailed event sequence. The other sections synthesize the place's geography, features, areas, people, and last established condition. Summarize a consequential change where needed to describe the location accurately without repeating whole scenes. Put supported founding and pre-campaign transformations in history, distinguishing them from later testimony, visions, or discoveries.
+
+Order history by established in-world chronology, using session and chunk order when uncertain. Integrate new material into the appropriate section or descriptive `###` subdivision; do not append competing `## Session NNN`, Plot Events, Notable People, or Miscellaneous sections. Session summaries and transcripts retain the fuller event record. Preserve verified supporting references and retain session provenance in frontmatter; use session or chunk references as evidence or to identify the last attested state rather than as the article's organizing structure.
+
+Existing location prose and index descriptions are starting points, not authority for consequential contradictions. Consult session summaries and source chunks to resolve identities, routes, inhabitants, control, magical functions, destruction, and final condition. Attribute claims, suspicions, divination, memories, and predictions. A defeat does not prove a site was destroyed or cleared of every threat; a leader's departure does not identify a successor; restoration of the world does not prove that every submerged settlement was rebuilt.
+
+Keep historical and final landscapes distinguishable. Receding water, repaired planar breaches, regrowth, collapse, and altered magic can change a site's appearance and access. Preserve the earlier state in history while aligning the introduction and descriptive sections with the latest evidence. Do not extend a local outcome to an entire continent or plane without support, or turn plans into completed construction because the campaign is over.
+
+Use canonical names throughout prose and link labels, keeping spelling variants in aliases. Link meaningful containing places, neighboring sites, connected destinations, inhabitants, factions, artifacts, and lore. Frontmatter `related` remains a curated navigation aid; do not copy every local business or passing visitor into it. Avoid generic Unknown placeholders for absent facts and preserve uncertainty only where it matters.
+
+## Scaling and Campaign Examples
+
+- **Substantial recurring places and complexes:** Use every section with meaningful information, including Campaign History and Final Status. Geography and Access is especially useful for planes, hidden sites, and connected complexes; Notable Areas is useful when constituent spaces carry separate significance.
+- **Moderately documented places:** Select the standard sections that improve retrieval. A short geographic statement or a single proprietor can remain in the introduction; several descriptive paragraphs do not require a separate heading for every feature.
+- **Brief venues and landmarks:** An introduction alone, or an introduction with selected sections, is sufficient. A shop, theatre, or minor landmark should retain its purpose, location, significant associations, and established fate without invented history, empty headings, or repeated facts.
+- Optional `###` subdivisions may organize substantial geography, districts, or historical arcs. Use the same top-level headings across subtypes rather than separate templates for cities, dungeons, and planes.
+
+These examples guide placement based on the existing location records; verify the underlying sources when rewriting rather than copying current article claims as canon.
+
+- **Stark, Continental Stark, Arkadia, and Gray Wastes:** Distinguish the world, its elven continent, and the separate upper and lower planes. Explain established boundaries and routes without merging names or importing a conventional cosmology. Keep flooding, healing, and retreating oceans in history and their demonstrated consequences in Final Status.
+- **Cutlass Cray and Lyngbakr Lagoon:** Preserve the floating city's venues and the lagoon's development as a refuge. Their epilogues change the physical setting: parts of Cutlass Cray settle on exposed mountains, and the lagoon is revealed as a volcanic caldera. Earlier buildings, defenses, and leadership must not automatically become confirmed final arrangements.
+- **The Carrot Cake and its destinations:** Separate the park's geography and attributed seasonal access from the appearance and functions of the midway, hotel, islands, train, and vault. Notable Areas links the destinations; history explains the opening of the sanctum and removal of its hoard. Keep the park distinct from 40 Carats, and the troupe's reunion distinct from any unconfirmed restoration of the park.
+- **Gaokerena and Axis Mundi:** Describe the tree's reach through the planes, its restored lower growth, and the demonstrated passage through it separately from the nearby weapon site. Their connecting forest does not make them the same landmark. Place the changing understanding of their relationship in history.
+- **The Pit, Southport, and The Garden:** Separate terrain, facilities, food and trade networks, significant residents, and established local authority. Explain industrial development, aid, recovery, and changing uses through local consequences without turning every associated community into one organization.
+- **Castle Kaedon, House Erendel, and Tome Keeper's Pyramid:** Preserve distinctive architecture, magical protections, important spaces, and earlier uses. Distinguish defeating a site's occupant, weakening its wards, explicitly collapsing the structure, and consecrating a possible future base. A proposed base is not a completed repair or established permanent home.
+
+## Reorganization and Maintenance Checks
+
+Before restructuring, inventory distinct geographic relationships, routes, descriptions, spaces, uses, resources, hazards, residents, authority, historical events, outcomes, and unresolved claims. Map each to its destination section. Preserve every substantive fact and meaningful uncertainty, including distinctive environmental detail and verified source references, or correct it from evidence. Merge repetition without flattening the place into a generic backdrop.
+
+After writing:
+
+- Confirm the canonical title, exact standard headings and relative order, and absence of empty sections, duplicates, and session appendices.
+- Compare the result with the fact inventory and sources. Preserve significant spaces, local functions, changes, and uncertainty without routine mechanics, puzzle instructions, aliases in prose, table commentary, or unsupported lore.
+- Verify chronological history and agreement between the introduction, geography, description, inhabitants and control, and final condition. Distinguish former landscapes, routes, rulers, uses, residents, and resources from their last established states.
+- Check containment, proximity, planar connections, residence, authority, ownership, removal of resources, and destruction at the scope supported by evidence. Confirm that linked location, organization, character, item, vessel, and concept articles agree on material claims.
+- Preserve frontmatter identity, `session_introduced`, and existing appearance history. Reorganization alone establishes no new appearance; add sessions only when verified from sources. Validate schema compliance, quoted session values, aliases, meaningful `related` links, and entity and source links.
+- Confirm exactly one correctly categorized index entry per entity file. Update descriptions and affected linked articles when canon is materially corrected; accurate descriptions need no change for layout alone.
+- Apply the relevant Post-Ingest Validation checks and append operations to `log.md`. Reorganization alone does not change quest status or supply closure to unresolved locations.
 
 # Session Summation
 

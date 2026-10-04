@@ -8,4 +8,6 @@ related:
   - "[[Cutlass Cray]]"
 ---
 
-A boutique in [[Cutlass Cray]], run by [[The Wonder Hulk]].
+# The W. H. Boutique
+
+The W. H. Boutique is the [[Cutlass Cray]] boutique run by [[The Wonder Hulk]], a well-traveled proprietor.

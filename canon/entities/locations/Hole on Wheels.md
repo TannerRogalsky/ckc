@@ -13,12 +13,30 @@ related:
   - "[[Vampiric Nightbringer]]"
 ---
 
-One of four portal destinations in [[The Carrot Cake]], described by a [[Magen]] as a flying train that offers scenic overviews of [[Esperanto]] — the desert region [[Jack Harvey]] once called home. Its portal in the midway courtyard is marked by a sign showing a brightly colored wooden toy train on fake tracks.
+# Hole on Wheels
 
-The train is a seven-car scenic route that once gave riders views of Esperanto's desert cityscape. By session 030, it was traveling in a broad loop over open ocean, implying the old landscape beneath it has long since flooded. Paintings aboard the train function as teleport circles back to the other park zones.
+Hole on Wheels is the scenic flying-train destination in [[The Carrot Cake]], once overlooking [[Esperanto]] and its desert. The party freed its route from the [[Vampiric Nightbringer]] and used its lamplighter to open [[Jack Harvey]]'s sanctum.
 
-The train's front car contains a lamp switch tied to [[Jack Harvey]]'s inner sanctum, along with train controls capable of changing speed and routing power. Flipping the switch reroutes power to the main door back in the midway, lighting the fourth and final lamp.
+## Geography and Access
 
-In session 030, the train was occupied by vampire-controlled enemies, including cambions, revenants, vampiric spawn, and the [[Vampiric Nightbringer]]. The party fought through the cars, recovered preserved carrot tea, a scroll with two Mass Healing Word inscriptions, an old [[Stark]] travelogue, and a framed rendering of the [[The Carrot Cake]] midway. After defeating the nightbringer and flipping the final switch, the party discovered that the portal paintings had been dispelled by an intruder, trapping them on the train overnight while the inner sanctum opened elsewhere.
+The midway portal is marked by a brightly colored wooden toy train on false tracks. Paintings aboard the train originally served as teleportation circles to other park destinations. By the party's visit, its broad loop ran over open ocean where Esperanto's scenery had once lain.
 
-In session 031, after [[Fharan]] died, the party disposed of his body through the disabled Hole on Wheels portal.
+## Description
+
+The train has seven cars. Its front car holds the controls and a lamplighter connected to the sanctum's gate. That connection redirected power to the fourth lamp in the midway; the controls also regulated the train's operation.
+
+## Inhabitants and Control
+
+A [[Magen]] described its original scenic purpose. During exploration, cambions, revenants, vampire spawn, and the Vampiric Nightbringer occupied the cars. Jack Harvey's park and its connection with [[Farraday]] explain the attraction's wider context without establishing who controlled it after the party left.
+
+## Campaign History
+
+The companions fought through the train and defeated the nightbringer. They recovered preserved carrot tea, healing inscriptions, an old [[Stark]] travelogue, and a framed view of the park's midway.
+
+Activating the final lamplighter opened the sanctum elsewhere, but the return paintings had been dispelled, stranding them overnight. [[Fharan]] later attributed the closure to [[Vizier Jade]]; the party had not witnessed her sabotage.
+
+[[Red Caesar]] used known circle sigils to return the companions to the midway. After Fharan died there, [[Domyx]] disposed of his body through the Hole on Wheels opening, where it fell behind the moving train and became inaccessible.
+
+## Final Status
+
+The train's hostile ruler was defeated and its lamp supplied the gate. The return paintings were disabled when the party was stranded, but their later magical return and use of the opening did not establish restoration of every original park portal. Its continuing operation and custody after session 031 were not recorded.

@@ -2,23 +2,54 @@
 type: location
 subtypes: [dungeon]
 session_introduced: "011"
-sessions_appeared: ["013"]
+sessions_appeared: ["011", "012", "013"]
 aliases:
   - Darvin Last
 ---
 
-An underground dwarven city located within a narrow ribbon of mountainside. Accessed through multiple back doors that the dwarves have been collapsing behind them to seal off their world. Contains winding caves with magma veins, toxic smoke, and acrid fumes. Features residential zones where dwarf families hide in wall-dwellings, some fearful of the party and others born into the underground without knowing they can leave. The city features a large public square with residences built into the walls above. The population is hidden within the walls and under the control of [[Morel Chainsunder]]. Features pools of smoldering ash and magma used as waste disposal. The area is concealed from above by a large illusion (mirage arcana) covering the northern mountains. Populated by dwarf fighters including grunts, spies (with poison daggers), priests (casting Sacred Flame and Bless), and [[Bat Rider]]s. Has a chapel to the south where Morel Chainsunder delivers sermons. Features a large atrium where the party faced multiple waves of dwarf enemies. Contains clan houses for various dwarf clans including the [[Steelfend Clan]]. Dwarves speak Northern. The area is part of the larger [[Deep World]].
+# Darvinblast
 
-Beyond the Steelfend Clan headquarters, the party explored deeper into the city, discovering narrow tunnels resembling city streets with an "ant farm" feel. The ground level is dominated by a fetid, barely-visible black mist that crawls along the floor and deals poison damage (DC 16 con save, 19 poison damage on fail with max HP drain). Residents live elevated in wall-dwellings accessed by wooden ladders to avoid the toxic mist. The area features angled pipes zigzagging overhead that channel water from hidden cisterns, thin wooden paths, clotheslines, and torches for reading. Crates of minted Deepworlder coins were found, along with a rare ruby embedded in a wall section being newly mined out. A shrine was discovered with ivory figurines representing three main dwarvish deities — figures of the "deepest of the deep," the anti-sky counterpart to the sister goddesses who occupy the heavens. The party also found a jade chunk embedded in an unmined wall section. Further exploration revealed a development/mining area with minecart tracks running overhead and areas under active construction.
+Darvinblast is the underground dwarven city in the [[Deep World]] freed from [[Morel Chainsunder]]'s surviving binding spell. Its liberation revealed a hidden [[Penumbra]] quarry and opened a difficult transition between its residents and [[The Pit]].
 
-The party encountered a second ambush by Deep World forces including grunts, a priest, and another wizard. The wizard cast Blight (level 4, 36 necrotic damage) on Domyx, and used Misty Step to reposition. Red Caesar successfully Counterspelled the wizard's level 3 spell. The party defeated the ambush force. During a short rest afterward, [[Morel Chainsunder]]'s booming voice broadcast again: "Do not lose faith, my warriors. They cannot get us all. We must hold strong, because the time of redemption is at hand. We will claim the upper world if you fight off these last few. Mobilize and defend us." The party then spotted reinforcements approaching — an enormous triceratops-like mount (larger than an elephant, with a beak and three horns) carrying an omnibus with five people including grunts and a spy.
+## Geography and Access
 
-Beyond the mining area, a narrow tunnel led to a larger space with a stony bridge over a 60-foot pit of burning miasma. Here a [[Fire Giant]] was encountered — a flame-engulfed giant speaking Giant's Runic, allied with the dwarvish anti-sky deities. The party used the triceratops to knock the giant off the bridge into the pit below.
+The city occupies a narrow ribbon of mountainside in the northern mountains. Multiple back entrances had been collapsed to isolate the inhabitants. Mirage Arcana concealed the surrounding surface terrain until the party ended the binding curse. A long vertical shaft also offered a possible exit, glimpsed as a tiny point of daylight.
 
-Further on, the party reached the back entrance to Morel's church. The sanctuary featured a central platform in smooth bubbling tar, pews filled with a congregation in red robes, and cages holding civilian prisoners. The arcane-locked door was opened with Kerben's keyring (Knock charge). Inside, the party confronted the "Morel" manifestation — a composite illusion of the dwarves' collective paranoia.
+## Description
 
-Behind the church, a hidden shrine/office contained the skeleton of the real [[Morel Chainsunder]] (dead ~50 years) and his last will and testament — the binding spell document itself. [[Red Caesar]] destroyed the document, breaking the curse and clearing the *Mirage Arcana* illusion over the northern mountains.
+Winding caves contain magma veins, acrid fumes, toxic smoke, and pools of smoldering ash used for waste disposal. Narrow streets run below elevated wall-dwellings, reached by wooden ladders and paths. Shutters, clotheslines, reading torches, and zigzagging water pipes from hidden cisterns mark a functioning subterranean city.
 
-With the illusion cleared, a previously hidden quarry was revealed containing a massive chunk of [[Penumbra]] — 50-60 feet across, tetrahedron-shaped. The deep worlders had been harnessing energy from this Penumbra piece.
+During exploration, fetid black mist crawled along the ground and weakened those exposed to it. Raised homes offered protection, but the environment remained unhealthy. Minecart tracks and unfinished excavation showed continued expansion.
 
-The enormous [[Penumbra]] revealed near [[Darvinblast]] had been drained for decades by deep worlder magic. In session 013, [[Figma Brickfinger]]'s workers shaved away its dead obsidian shell, leaving a much smaller star-filled core.
+## Notable Areas
+
+- Public square and atrium — Large communal spaces beneath residences in the walls, also used by the city's defenders.
+- Clan houses — Homes and headquarters including the [[Steelfend Clan]]'s wing, where the party found refuge.
+- Dwarven shrine — Ivory figures represented three principal gods of the deepest earth, counterparts to the sister sky goddesses; their individual identities were not established.
+- Mining passages — Active construction, minted coins, and ruby and jade deposits showed the city's economic life.
+- Miasma bridge — A stone crossing over a burning pit, guarded by a [[Fire Giant]] speaking Giant's Runic and aligned with the underground deities.
+- Church — A southern sanctuary with pews, red-robed worshipers, a platform in bubbling tar, and cages of civilian prisoners.
+- Hidden office and shrine — Behind the church, Morel Chainsunder's skeleton and written will preserved the true source of the binding magic.
+- Penumbra quarry — A great tetrahedral deposit in terrain formerly concealed by the illusion; its energy had been drained for decades.
+
+## Inhabitants and Control
+
+The Northern-speaking dwarves lived among numerous clans. Some feared the party, while some had been born underground without knowing they could leave. Fighters, spies, priests, [[Bat Rider]] knights, and [[Deep World Wizard]] defenders protected the city.
+
+Morel Chainsunder had died roughly half a century earlier. His spell bound the community's feelings and awareness together, allowing shared anger and fear to amplify. The apparent living leader was a manifestation of collective paranoia that an ordinary congregant could embody, not the surviving founder.
+
+## Campaign History
+
+The party entered the hidden city and won the Steelfend Clan's trust. [[Gammix]] and [[Tammix]] chose to remain with their family after its liberation. Other clans still resisted the newcomers.
+
+Beyond the clan's refuge, the companions faced poisonous streets and renewed ambushes, while exchanges with watching residents began challenging their fear of the surface. They recovered coins, gems, deity figures, and books preserving the inhabitants' own history of events around The Pit.
+
+Morel Chainsunder's amplified voice urged his followers to conquer the upper world. Reinforcements arrived on an enormous beaked, three-horned triceratops carrying an omnibus. The party befriended the animal and used it to drive the Fire Giant from the bridge into the burning pit.
+
+At the church, [[Kerben]] opened the locked entrance. The companions freed prisoners and undermined the congregation's faith in its supposed leader, exposing the ordinary dwarf behind the manifestation. They then discovered the founder's skeleton and will. [[Red Caesar]] tore the binding document after [[Ceril]] consulted [[Aeris]], ending the curse and the concealing illusion.
+
+The vanished illusion revealed the enormous Penumbra quarry. [[Figma Brickfinger]]'s workers later stripped away its exhausted obsidian shell, leaving a smaller living, star-filled core for the party to recover.
+
+## Final Status
+
+The binding curse was ended, and residents could emerge and reconsider life above. By session 013, Figma Brickfinger was addressing the political consequences as deep worlders left the city and other dwarves entered formerly closed spaces. The recovered Penumbra became part of the sky-repair effort. Liberation did not establish universal friendship, removal of every environmental hazard, or a new permanent government for Darvinblast.

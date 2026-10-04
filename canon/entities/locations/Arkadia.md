@@ -2,7 +2,7 @@
 type: "location"
 subtypes: ["plane"]
 session_introduced: "001"
-sessions_appeared: ["001", "022", "031", "032", "033", "035", "036", "037", "038"]
+sessions_appeared: ["001", "014", "022", "031", "032", "033", "035", "036", "037", "038"]
 aliases:
   - "Arcadia"
 related:
@@ -22,28 +22,43 @@ related:
   - "[[Gray Wastes]]"
 ---
 
-A distinct plane above [[Stark]], separated from it by a planar boundary that ordinarily requires powerful magic to cross. [[Vokenar]] originated from a citadel here 60 years ago before falling through the sky toward Stark. [[Solar Flare]] and [[Gossa]] were encountered here. [[Lyngbakr]] fell from Arkadia through the [[Hole in the Sky]].
+# Arkadia
 
-[[Starfall]] can pierce the membrane between worlds and was originally used to connect Stark with Arkadia. Starfall was later hidden at [[Axis Mundi]], which lies beyond an analogous boundary below Stark. Arkadia and the realm containing Axis Mundi therefore appear to occupy opposing upper and lower positions around Stark, though they are distinct planes; [[Gaokerena]]'s roots were later revealed to extend through both.
+Arkadia is the upper plane above [[Stark]], home to [[Aeris]], [[Sigil]], and [[Crone]], and the place to which [[Vokenar]] eventually returned. Its diminished oceans were recovering at the campaign's end.
 
-[[Emperor Shen]] may have attempted to reach Arkadia by [[Touching the Sky]], going beyond the rite's usual purpose of simply touching the sky.
+## Geography and Access
 
-In session 031, [[Lyngbakr]] repaired the [[Hole in the Sky]] and passed into the heavens with [[Ceril]] and [[Alamar]] as the sky sealed beneath them. [[Vokenar]] also resisted [[Vizier Jade]]'s attempt to banish him back to Arkadia, choosing to remain on [[Stark]].
+Arkadia is separated from Stark by a planar boundary ordinarily requiring powerful magic to cross. [[Starfall]] could pierce that membrane and was originally used to connect the worlds. [[Lyngbakr]] fell through the [[Hole in the Sky]], then later sealed it while returning to Arkadia.
 
-In session 032, Ceril and Alamar crossed Arkadia's drained ocean floor. Alamar remained in its paradise with his old Kaedonite mentors while Ceril continued to [[Gaokerena]], whose name he did not yet know. The infinite tree appeared from afar as a golden pillar stretching from the ground into the heavens. Its trunk combined the bark and wood of many trees, its branches bore many kinds of leaves and fruit, and a forum with ivory towers surrounded its base. [[Sigil]] emerged from the tree, with [[Aeris]] and the injured [[Crone]] nearby, making it a divine gathering place, though Ceril did not learn its name during that visit.
+The [[Gray Wastes]] occupy a corresponding lower position beneath Stark. They are a separate plane containing [[Axis Mundi]], rather than another part of Arkadia. [[Gaokerena]] extends through these realms. [[Ceril]] demonstrated a passage through the tree using Transport via Plants, with Vokenar accompanying him.
 
-Ceril returned to Stark through one of the last wounds still open in Arkadia's drained ocean basin as Aeris healed. These passages were located away from the infinite tree and were not described as openings among its roots.
+Ceril's earlier return to Stark used one of the last closing wounds in Arkadia's drained ocean basin. Those openings lay away from Gaokerena and were not passages among its roots.
 
-## Session 036
+## Description
 
-The party's descent into the [[Gray Wastes]] confirmed a separate lower plane beneath [[Stark]]. [[Vokenar]] sighted [[Gaokerena]] there, and [[Sigil]] identified it as the tree of all worlds. It is the same tree [[Ceril]] visited in Arkadia in session 032; its roots extend through Stark into the lower plane. At that point, the tree's reach across the planes was established, but the party had not yet found a traversable route through it.
+Arkadia includes a citadel associated with Vokenar's childhood, a paradise where [[Alamar]] reunited with old Kaedonite mentors, and the once-drained ocean basin. Gaokerena appears from afar as a golden pillar reaching into the heavens. Its trunk combines many kinds of bark and wood, while its branches bear diverse leaves and fruit. A forum surrounded by ivory towers stands at its base.
 
-## Session 037
+## Notable Areas
 
-[[Ceril]] opened a passage through [[Gaokerena]] from the [[Gray Wastes]] using Transport via Plants, and [[Vokenar]] accompanied him. They met [[Aeris]] and [[Sigil]] near the recovering [[Crone]]. Aeris bestowed [[Ceril's Star]], after which the pair returned through the tree to the party.
+- [[Gaokerena]] — The world tree and divine gathering place, also extending into Stark and the Gray Wastes.
+- [[Academia Lux]] — The school where Vokenar studied and where [[Gossa]] taught him.
 
-## Session 038
+## Inhabitants and Control
 
-[[Vokenar]] returned in his youthful body after remaining behind in the flooding [[Gray Wastes]] to save his companions. [[Aeris]], [[Sigil]], and the recovered [[Crone]] welcomed him. [[Alamar]], [[Illidrielle Gandara]], and [[Damien Ouranous]] were also there.
+Aeris, Sigil, and Crone gathered at Gaokerena during the party's visits. [[Solar Flare]] and Gossa belong to Vokenar's earlier experience of the plane. Alamar remained in its paradise after the sky's repair; [[Illidrielle Gandara]] and [[Damien Ouranous]] welcomed Vokenar's eventual homecoming. These encounters do not establish a complete population or governing hierarchy.
 
-Storms and rain from a source above the plane were replenishing its diminished oceans, and Crone intended to speed their recovery. [[Lyngbakr]] was again swimming in Arkadia's waters. [[Witness]] had come to chart this plane after mapping [[Stark]].
+## Campaign History
+
+Vokenar originated in Arkadia before falling toward Stark roughly sixty years before the campaign. Lyngbakr also fell from the upper plane. [[Emperor Shen]] may have sought to reach Arkadia through [[Touching the Sky]], going beyond the rite's usual contact with Aeris.
+
+Lyngbakr eventually repaired the sky and ascended with Ceril and Alamar as the boundary sealed behind them. Vokenar, meanwhile, resisted [[Vizier Jade]]'s attempt to banish him home and chose to remain with his companions.
+
+Ceril and Alamar crossed the drained ocean floor. Alamar stayed with his former mentors while Ceril continued to the unnamed tree he would later recognize as Gaokerena. Sigil emerged from it, with Aeris and the injured Crone nearby. Ceril returned below through a closing wound after Aeris gave him time to prepare Vokenar's restoration.
+
+The party's later descent confirmed the separate lower plane and Gaokerena's reach through it. Ceril then opened a route through the tree to Arkadia, where he and Vokenar met the goddesses and received [[Ceril's Star]].
+
+After remaining behind in the flooding Gray Wastes to save his companions, Vokenar eventually awakened in Arkadia in his youthful body. The means of his return and the interval that had passed were not established.
+
+## Final Status
+
+In session 038, Aeris, Sigil, and the recovered Crone welcomed Vokenar home. Rain and storms from above the plane were replenishing its oceans, with Crone intending to accelerate their recovery. Lyngbakr was again swimming in those waters. [[Witness]], having charted Stark, had begun mapping Arkadia.

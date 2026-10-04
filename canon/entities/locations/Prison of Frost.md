@@ -9,10 +9,22 @@ related:
   - "[[Thalasia]]"
 ---
 
-A prison facility in the titan homeland of [[Thalasia]] where [[Ulrich Fjoller]] is being held awaiting execution. It is located not far from [[Acathian Manor]].
+# Prison of Frost
 
-## Plot Events
+The Prison of Frost is the titan prison in [[Thalasia]] from which [[Ulrich Fjoller]] was rescued before his threatened execution. It lies not far from [[Acathian Manor]].
 
-In session 024, [[Lorelai Lapis-Acathian]] revealed to [[Domyx]] that Ulrich is being kept in the Prison of Frost. She indicated that Domyx would know how to reach it. The party later learned from [[Ceril]]'s familiar surveillance that a large cavern with heavy security and food trays being delivered nearby matched the description, suggesting the prison's general location.
+## Description
 
-In session 024, the party reached the Prison of Frost. [[Ulrich Fjoller]] was found trapped behind a plane of pure magical energy — "made of pure sorcery," which Ulrich described as an abomination to titan folk who traditionally shun magic. [[Ceril]] dispelled the barrier, freeing Ulrich. A prison keeper was nearby but the party escaped before confrontation. The facility proved less locked down than expected — the difficulty was reaching it, not breaking out.
+Ulrich Fjoller's cell was enclosed by a plane of pure magical energy. He regarded the sorcery as an abomination to titan folk who traditionally shunned dependence on magic. The barrier was removed during the rescue.
+
+## Campaign History
+
+[[Lorelai Lapis-Acathian]] told [[Domyx]] where Ulrich Fjoller was imprisoned and guided the party there. Earlier, [[Ceril]]'s familiar had observed a heavily guarded cavern receiving food trays, a possible lead rather than independently confirmed identification of the prison.
+
+Ceril dispelled the force barrier, freeing Ulrich Fjoller. A nearby prison keeper did not engage the rescuers. Reaching the homeland through its mountains had proved more difficult than escaping this facility.
+
+Ulrich Fjoller and Lorelai Lapis-Acathian left together and joined [[The Opal]].
+
+## Final Status
+
+Ulrich Fjoller was freed in session 024 and no longer awaited execution in the prison. The facility's later operation and response to the homeland's political reform were not recorded.

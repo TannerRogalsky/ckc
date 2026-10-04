@@ -13,16 +13,32 @@ related:
 sessions_appeared: ["014", "025", "035", "038"]
 ---
 
-The epicenter of [[The Order of Seasons]]' activity in [[Brimbolyn]], connected to the city by tram through jungle terrain. The academy sits amid lush jungle that has reclaimed its walls, with wildlife roaming freely and an orange glow emanating from warm windows.
+# The Academy
 
-Before its repurposing, this was the center of [[Demi-Spell]] research. [[Keys Caeradel]] worked in his lab on the spell, which fills volumes upon volumes of paper with hexagrams, pentagrams, and encyclopedic records of things that should exist. Powerful elven scribes, occasional tieflings, and an aasimar work alongside him.
+The Academy is the former [[Demi-Spell]] research center of [[The Order of Seasons]] in [[Brimbolyn]]. It was repurposed after the world was saved without casting the spell.
 
-[[Stephanne Quist]], a human, serves as receptionist. [[Keys Caeradel]] and [[Illidrielle Gandara]] — the same pair who stole [[Penumbra]] from [[Castle Kaedon]] — greeted the party and negotiated an accord: the party will stop collecting new Penumbra, and if their plan to fix the sky fails, they will give all collected Penumbra to the Order. In exchange, the Order granted the party access to teleport circles.
+## Geography and Access
 
-## Session 035
+A tram connects the Academy with the city through jungle terrain. Its grounds and walls are reclaimed by lush growth, with wildlife moving freely and warm orange light shining from its windows.
 
-After [[Boril Erendel]]'s defeat, the party returned to an Academy subdued by losses despite completion of the [[Demi-Spell]]. [[Illidrielle Gandara]] was absent. [[Keys Caeradel]] held his father, the [[Rakshasa]], in a magical cage, then entrusted the spell to the party and left carrying his father's soul in an amulet.
+## Description
 
-## Session 038
+During its original mission, the Academy housed laboratories and vast written records of the proposed renewed world. Hexagrams, pentagrams, and encyclopedic descriptions filled the Demi-Spell's expanding volumes. [[Penumbra]] accelerated the research, and specialized facilities supported [[Red Caesar]]'s separate work on synthesizing sky-material.
 
-The Academy was retired from its original mission and repurposed after the world was saved without casting the [[Demi-Spell]]. The elves had to reckon with decades devoted to a solution that proved unnecessary, while [[Rizolvir Kiirnodel]] ruled their renewed monarchy.
+## Inhabitants and Control
+
+[[Keys Caeradel]] led the spell's authorship, with [[Illidrielle Gandara]] as a consequential collaborator. Elven scribes worked alongside occasional tieflings and an aasimar. [[Stephanne Quist]], a human, served as receptionist. These describe the research institution before its repurposing, not a complete final staff.
+
+## Campaign History
+
+The party met Keys Caeradel and Illidrielle Gandara, recognizing the pair who had taken Penumbra from [[Castle Kaedon]]. The resulting accord paused the Order's new collection while it retained its existing stock. The party promised its gathered material if repairing the sky failed, and received access to teleportation circles.
+
+Red Caesar later used the Academy's facilities with the two researchers to synthesize Penumbra and create the separate sabotaged [[Antumbra]]. Cooperation against the Empire did not settle their disagreement over remaking reality.
+
+After [[Boril Erendel]]'s defeat, the companions returned to a subdued Academy. The Demi-Spell was complete, but losses from the moon's destruction remained, and Illidrielle Gandara was absent. Keys Caeradel had confined his father, the [[Rakshasa]], in a magical cage.
+
+The dispute over casting ended when Keys Caeradel entrusted the spell to the party. At his father's request, he placed the Rakshasa's soul in an amulet and departed. The completed work passed to others rather than being enacted there.
+
+## Final Status
+
+The Academy retired from its original mission and was repurposed in session 038, as [[Rizolvir Kiirnodel]] ruled the renewed elven monarchy. The new use was not specified. Decades of research had produced a spell ultimately erased by Red Caesar, not the replacement world its authors had designed.

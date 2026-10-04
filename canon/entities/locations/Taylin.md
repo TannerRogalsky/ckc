@@ -6,6 +6,11 @@ related:
   - "[[Kaedon]]"
   - "[[Castle Kaedon]]"
   - "[[The Cataclysm]]"
+sessions_appeared: ["018"]
 ---
 
-A settlement from old [[Kaedon]] located not far from [[Castle Kaedon]]. Mentioned in session 018 by a dead noble woman who had lived there and was visiting the castle as a final trip before relocating to [[Esperanto]]. The settlement's current status is unknown, but it likely was destroyed or submerged during [[The Cataclysm]] given its proximity to the castle.
+# Taylin
+
+Taylin was a settlement of old [[Kaedon]] near [[Castle Kaedon]]. A deceased noblewoman questioned during the castle expedition had lived there and was making a final visit before relocating to [[Esperanto]].
+
+The settlement was likely submerged or destroyed during [[The Cataclysm]], but its fate was not directly established. The later return of dry land does not confirm Taylin's rebuilding.

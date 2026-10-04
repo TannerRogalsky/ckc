@@ -19,34 +19,38 @@ related:
   - "[[Vizier Jade]]"
 ---
 
-A place beneath [[Stark]] at the center of the world. In session 031, [[The Tyrant]] revealed that [[Starfall]] is hidden there after [[Red Caesar]] charmed it inside [[Jack Harvey]]'s vault. Red Caesar described it as the place where this world meets the next.
+# Axis Mundi
 
-[[The Tyrant]] described Axis Mundi as the world's core: the place where [[Starfall]], formed from [[Stark]]'s four elements, is kept. [[Red Caesar]] sought help from [[Figma Brickfinger's Union]] to approach it from below; the party eventually entered the [[Gray Wastes]] through [[The Funnel]].
+Axis Mundi is the world-core site in the [[Gray Wastes]] beneath [[Stark]], where [[Starfall]] was destroyed and [[Emperor Shen]] suffered his final defeat. The surrounding land began recovering before the collapsing lower sky admitted Stark's oceans.
 
-The completed [[Chart of the Witness]] showed deep ocean trenches but no ordinary physical route into the world's hollow interior. In session 033, the party concluded that the region containing Axis Mundi may be another plane, separated from Stark by a boundary analogous to the one between Stark and [[Arkadia]]. Axis Mundi is therefore beneath Stark in both a physical and planar sense.
+## Geography and Access
 
-Starfall can pierce the membrane between worlds and was originally used to connect Stark with Arkadia. Its presence at Axis Mundi makes the world core a junction from which the boundary toward the upper plane can be breached, but the source does not establish that Axis Mundi and Arkadia are the same place or that a permanent passage joins them.
+The site lies east of the party's entry through [[The Funnel]], approximately beneath [[Broy]]. A forest path past [[Gaokerena]] led to Starfall's clearing; the tree and Axis Mundi are distinct landmarks connected by that forest.
 
-## Session 035
+The [[Chart of the Witness]] showed deep trenches but no ordinary route into Stark's hollow interior. Reaching the site required crossing a planar boundary analogous to that toward [[Arkadia]]. The party physically entered the lower plane through a purple worm's tunnel beneath the Funnel.
 
-Direct teleportation failed, confirming that reaching Axis Mundi requires crossing a planar boundary beneath [[Stark]], analogous to the boundary toward [[Arkadia]]. [[Vokenar]] also failed to Plane Shift the party there. [[Red Caesar]] identified permanent abjurations such as Mordenkainen's Private Sanctum as a likely explanation, possibly established by [[Emperor Shen]] and [[Vizier Jade]] to protect [[Starfall]]. The precise ward remains unconfirmed. The party returned to [[The Pit]] to take the reopened [[The Funnel]] route.
+[[Vizier Jade]]'s permanent Mordenkainen's Private Sanctum prevented teleportation and planar travel both into and out of the battlefield. Its persistence after the party departed was not established. Starfall's ability to pierce the boundary toward Arkadia did not establish a permanent passage or make the two places identical.
 
-## Session 036
+## Description
 
-The party crossed physically from [[Stark]] into the [[Gray Wastes]] through a purple worm's tunnel below [[The Funnel]]. Axis Mundi lies somewhere in this lower plane, far east of their entry point, approximately beneath [[Broy]].
+Before its destruction, Starfall appeared as a great shining ring surrounded by vegetation grown from [[Ceril]]'s planting for [[Aeris]]. The clearing resembled a dark forest beneath a golden sunset, with hot wind issuing from the weapon.
 
-Mordenkainen's Private Sanctum was identified as the protection preventing both teleportation and planar entry at the destination. [[Red Caesar]] proposed tracing [[Starfall]]'s old shots through the lower sky. With [[Ceril]] and [[Kerben]], he found firing scars and used them to guide [[The Opal]] east. [[Vokenar]] sighted [[Gaokerena]] ahead, but the party had not reached Axis Mundi, and its exact relationship to the tree remained unconfirmed.
+During the final confrontation, four rib-shaped stone pillars sustained Emperor Shen's resurrected [[Vanir]] form: the Stele of Apotropaism, Stele of Menace, Stele of Solemnity, and Stele of Serenity. Their protective influence ended when the party destroyed them.
 
-## Session 037
+## Inhabitants and Control
 
-The party reached Axis Mundi by following a forest path past [[Gaokerena]]. [[Ceril]]'s planting had grown around [[Starfall]], where [[Emperor Shen]] and [[Vizier Jade]] awaited them.
+Emperor Shen and Vizier Jade occupied the weapon site when the party reached it. Vizier Jade had established its travel ward. Their presence and use of Starfall do not establish private ownership of the entire lower plane.
 
-The [[Antumbra]] destroyed Starfall, scattering its stone supports and tearing up the surrounding vegetation. The party defeated Emperor Shen and his titan allies there, then fought the returning [[Entropie]] and [[Dunkelkalt]].
+## Campaign History
 
-Vizier Jade confirmed that her permanent Mordenkainen's Private Sanctum still prevented planar travel and teleportation out as well as in. Entropie's final Wish brought forth the last [[Vanir]], the resurrected [[Emperor Shen]], and four unexplained obelisks rose around the battlefield. Session 038 identifies this form as Emperor Shen's resurrected body.
+Inside [[Jack Harvey]]'s vault, [[Red Caesar]] charmed [[The Tyrant]] and learned that Starfall was hidden at the world's core. The Tyrant described the weapon as formed from Stark's four elements; Red Caesar called Axis Mundi the meeting of this world and the next. He sought a route below from [[Figma Brickfinger's Union]].
 
-## Session 038
+The completed chart and failed magical approaches clarified the site's planar separation. Red Caesar first suspected a permanent abjuration, possibly associated with Emperor Shen and Vizier Jade. Its identity was subsequently confirmed. The party returned to [[The Pit]], where the reopened Funnel provided access to the lower plane. Red Caesar, Ceril, and [[Kerben]] then traced Starfall's firing scars and guided [[The Opal]] east. [[Vokenar]] sighted Gaokerena before the party reached the weapon.
 
-Four rib-shaped stone pillars supported [[Emperor Shen]]'s resurrected [[Vanir]] form: the Stele of Apotropaism, Stele of Menace, Stele of Solemnity, and Stele of Serenity. [[Vizier Jade]] explained their protective powers and how to destroy them permanently. [[Red Caesar]], [[Vokenar]], and [[Ceril]] eliminated them; Ceril's destruction of the last support enabled Red Caesar to disintegrate Emperor Shen.
+The party followed the forest path to the clearing. Emperor Shen loaded the sabotaged [[Antumbra]], destroying Starfall, scattering its supports, and tearing up the surrounding vegetation. The companions defeated his titan allies and mortal body, then fought the returning [[Entropie]] and [[Dunkelkalt]].
 
-The wasting influence ended and vegetation began recovering, but the sky continued collapsing. Water from [[Stark]] poured into the [[Gray Wastes]], forcing the party to flee to [[The Opal]].
+Vizier Jade's ward prevented a magical withdrawal. Entropie's final Wish resurrected Emperor Shen as the last Vanir, and the four supporting stelae rose around him. Vizier Jade explained how to destroy them. Red Caesar, Vokenar, and Ceril eliminated the pillars; Ceril broke the last support, enabling Red Caesar to disintegrate Emperor Shen.
+
+## Final Status
+
+In session 038, the wasting influence ended and fertile soil and vegetation began returning. The lower sky continued collapsing, and water poured from Stark into the Gray Wastes. The party fled to The Opal. Starfall and the supporting stelae were destroyed; later access to the flooded site was not established.

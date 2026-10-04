@@ -5,11 +5,21 @@ session_introduced: "014"
 related:
   - "[[Arkadia]]"
   - "[[Vokenar]]"
-sessions_appeared: ["038"]
+sessions_appeared: ["014", "038"]
 ---
 
-A school in [[Arkadia]] where [[Vokenar]] was taught as a child. [[Gossa]] the aasimar was one of his teachers there. She traveled to [[Brimbolyn]] after the fall to search for other Arcadian survivors and now trades magical goods in the [[Elvish Marketplace]].
+# Academia Lux
 
-## Session 038
+Academia Lux is the school in [[Arkadia]] where [[Vokenar]] studied as a child. It links his earlier life in the heavens with [[Damien Ouranous]]'s hopes after the campaign.
 
-After [[Vokenar]]'s return to [[Arkadia]], [[Damien Ouranous]] expressed a wish to train at Academia Lux and serve as a warrior. His enrollment or completion of training is not established.
+## Inhabitants and Control
+
+[[Gossa]] was one of Vokenar's teachers. After the fall, she traveled to [[Brimbolyn]] to seek other Arkadian survivors and became a merchant of magical goods and art in the [[Elvish Marketplace]].
+
+## Campaign History
+
+Vokenar recognized Gossa during the party's visit to Brimbolyn, and their reunion established his connection to the school. After Vokenar returned to Arkadia, Damien Ouranous expressed a wish to study at Academia Lux and serve as a warrior.
+
+## Final Status
+
+Damien Ouranous's wish to train there was established in session 038; enrollment and completion of training were not.

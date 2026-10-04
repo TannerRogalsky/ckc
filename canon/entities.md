@@ -33,7 +33,7 @@
 - [[Lorelai Lapis-Acathian]] — Domyx's sister and expectant mother who left The Opal with Ulrich
 - [[Gunk Grodley]] — Dapper goblin trader who captains the Goblin Traders' ship
 - [[Vizier Jade]] — Former imperial vizier who helps defeat Emperor Shen, rebuilds Broy, and submits to imprisonment under its new laws
-- [[Morel Chainsunder]] — Cult leader controlling the dwarves of Darvinblast
+- [[Morel Chainsunder]] — Long-dead founder whose surviving binding spell controlled Darvinblast until the party destroyed it
 - [[Emperor Shen]] — Emperor resurrected as the last Vanir, sustained by four named stelae before his destruction at Axis Mundi
 - [[Fharan]] — Masked human seneschal of the Broyish Empire who died after revealing Starfall's next target
 - [[Master Lee]] — Heaven's Bulb mentor known to Red Caesar, Vizier Jade, and Qian Hu
@@ -166,66 +166,67 @@
 - [[Victor, the Amphibious Beast]] — Kerben's large crocodilian companion, effective on land and in water
 
 ## Locations
-- [[Hole in the Sky]] — Former breach between Stark and Arkadia, sealed by Lyngbakr
-- [[Kaedon]] — Pre-Cataclysm human realm around Westerness and Castle Kaedon, transformed from monarchy into a republic before its destruction
-- [[Ceril's Star]] — Aeris's astral refuge, used to save the party and later becoming Ceril's timeless home
-- [[Gray Wastes]] — Lower plane flooded by Stark's excess oceans after the defeat of Emperor Shen's Vanir form
-- [[Gaokerena]] — World tree restored by Ceril's planting; provides a passage between the Gray Wastes and Arkadia
-- [[Continental Stark]] — Massive elfish continent, last remnant of the Old World, home to Brimbolyn
+
+- [[Academia Lux]] — Vokenar's heavenly school where Damien Ouranous hopes to train
+- [[Acathian Manor]] — Former ruling seat where Domyx reconciles with his father after titan political reform
 - [[Arkadia]] — Upper plane with replenishing oceans, restored goddesses, and Vokenar's youthful return
 - [[Axis Mundi]] — Site of Starfall's destruction and Emperor Shen's final defeat before the lower sky collapsed
-- [[Darvinblast]] — Underground dwarven city
-- [[The Darvenlast]] — Self-sufficient area within The Deepworlders Delve
-- [[Deep World]] — The underground realm of the dwarves
+- [[Bookbinders Cray]] — Cutlass Cray library run by Pleasance MacLenth
+- [[Brimbolyn]] — Magical city on Continental Stark whose academy is repurposed under a renewed monarchy
 - [[Broy]] — Eastern land rebuilding under Red Caesar's charter after Emperor Shen's defeat
+- [[Broyish Capital]] — Industrial former imperial seat where the false sky was exposed and the party's rescue sparked an uprising
+- [[Castle Kaedon]] — Former human castle carried by Lyngbakr, destroyed during its renewed ascent after the sky-material was recovered
+- [[Castle Kaedon Arena]] — Former spectator courtyard and surrounding grounds within Castle Kaedon; individual remains unrecorded after the castle's destruction
+- [[Ceril's Star]] — Aeris's astral refuge, used to save the party and later becoming Ceril's timeless home
+- [[City Hole]] — Central hub cavern with barrel portals connecting to the park's zones
+- [[Continental Stark]] — Massive elfish continent, last remnant of the Old World, home to Brimbolyn
+- [[Cutlass Cray]] — Former floating city settling onto exposed mountaintops as Stark's oceans recede
+- [[Darvinblast]] — Underground dwarven city freed from Morel Chainsunder's binding curse, revealing a hidden Penumbra quarry
 - [[Dawn Market]] — Diverse Broy market whose vendors include Qian Hu and Geoffrey the Younger
-- [[Brimbolyn]] — Magic city on Continental Stark, seat of The Order of Seasons, connected to 11 towns by rail
+- [[Dawn Palace]] — Former emperor's palace where Domyx was rescued and Vokenar's preserved body recovered
+- [[Deep World]] — Underground dwarven realm whose communities began reintegrating with The Pit after Darvinblast's liberation
 - [[Elvish Marketplace]] — Marketplace in Brimbolyn where elves sell magical goods
-- [[The Academy]] — Former Demi-Spell research center repurposed after the world is saved without its spell
-- [[Academia Lux]] — Vokenar's heavenly school where Damien Ouranous hopes to train
+- [[Esperanto]] — Pre-Cataclysm region near Jack Harvey's grave, accessible again as the oceans recede
+- [[Gaokerena]] — World tree restored by Ceril's planting; provides a passage between the Gray Wastes and Arkadia
+- [[Gray Wastes]] — Lower plane flooded by Stark's excess oceans after the defeat of Emperor Shen's Vanir form
+- [[Harengon Warrens]] — Island tunnel network where imperial forces were defeated and Theo Harvey captured; planned resettlement remains unconfirmed
+- [[Hole in the Sky]] — Former breach between Stark and Arkadia, sealed by Lyngbakr
+- [[Hole on Wheels]] — Scenic train zone over drowned Esperanto, containing the fourth lamp and a disabled return portal
+- [[Hole Shebang]] — Festival island of games and entertainments within The Carrot Cake, accessible via teleport circle
+- [[House Erendel]] — Boril Erendel’s mirror laboratory, destroyed after his defeat
+- [[Kaedon]] — Pre-Cataclysm human realm around Westerness and Castle Kaedon, transformed from monarchy into a republic before its destruction
+- [[King of the Hole]] — Island resort and coliseum zone within The Carrot Cake
+- [[Lyngbakr Lagoon]] — Former refuge revealed as a volcanic caldera when the oceans recede
+- [[Magic Hat]] — Hotel and bunker within The Carrot Cake, accessible via teleport circle from the midway
+- [[Mana Sea]] — Wild-magic swamp over drowned Windsurf, formerly spreading Mana Sickness from the cursed Ninki Nanka
+- [[Otyugh Isle]] — Island with Kuo-Toa and Temple of Sigil
+- [[Prison of Frost]] — Titan prison near Acathian Manor from which Ulrich Fjoller was rescued before his threatened execution
+- [[Rasharan's Rock]] — Location that no longer exists
+- [[Savar Brews]] — Potion and beverage shop run by Gilder Savar
+- [[Southern Archipelago Castle]] — Human refuge attacked by PAXO, which killed inhabitants and drove Witness away; the party defeated PAXO and recovered the chart
+- [[Southport]] — Settlement fully recovered from Mana Sickness by the campaign's conclusion
 - [[Stark]] — World whose drowned lands reappear as excess oceans drain into the Gray Wastes
-- [[The Pit]] — Dwarvish settlement, seat of Figma Brickfinger's Union
-- [[The Palace of the Pit]] — Seat of power in The Pit
+- [[Taylin]] — Old Kaedon settlement near Castle Kaedon, likely destroyed during the Cataclysm
+- [[Temple of Sigil]] — Otyugh Isle temple whose restored priests aided Southport; full restoration and reopening remain unconfirmed
+- [[Thalasia]] — Titan homeland opening to other peoples and cooperative rule after the final battle
+- [[The Academy]] — Former Demi-Spell research center repurposed after the world is saved without its spell
+- [[The Bad Hare Day Theatre]] — Cutlass Cray theatre run by Vorgan of the Stage
+- [[The Boardwalks]] — Cutlass Cray waterfront run by The Marid; where Otto was recruited
+- [[The Brine & Bodak]] — Cutlass Cray establishment run by Transel
+- [[The Carrot Cake]] — Jack Harvey's protected amusement complex whose Penumbra hoard repaired the sky; the park's later restoration remains unconfirmed
+- [[The Church of the Thirty Lights]] — Cutlass Cray church led by Pastor Borm
+- [[The Corsairs' Court]] — Cutlass Cray venue run by Octavia Crayborne
+- [[The Darvenlast]] — Self-sufficient area within The Deepworlders Delve
 - [[The Deepworlders Delve]] — Home of the Duergar in The Pit
 - [[The Funnel]] — Reopened descent from The Pit through ancient caverns to the Gray Wastes’ planar boundary
 - [[The Garden]] — Druid sanctuary helping restore lands exposed after Stark's oceans retreat
-- [[Cutlass Cray]] — Former floating city settling onto exposed mountaintops as Stark's oceans recede
-- [[The Boardwalks]] — Cutlass Cray waterfront run by The Marid; where Otto was recruited
-- [[The Brine & Bodak]] — Cutlass Cray establishment run by Transel
-- [[The Corsairs' Court]] — Cutlass Cray venue run by Octavia Crayborne
-- [[The Bad Hare Day Theatre]] — Cutlass Cray theatre run by Vorgan of the Stage
+- [[The Palace of the Pit]] — Seat of power in The Pit
+- [[The Pit]] — Dwarvish settlement, seat of Figma Brickfinger's Union
 - [[The W. H. Boutique]] — Boutique in Cutlass Cray, run by The Wonder Hulk
-- [[Savar Brews]] — Potion and beverage shop run by Gilder Savar
-- [[Bookbinders Cray]] — Cutlass Cray library run by Pleasance MacLenth
-- [[The Church of the Thirty Lights]] — Cutlass Cray church led by Pastor Borm
-- [[Castle Kaedon]] — Castle on the back of Lyngbakr
+- [[Tome Keeper's Pyramid]] — Former Farraday temple and surviving recall sanctuary; proposed repairs and permanent occupation remain unconfirmed
 - [[Westerness]] — Sunken human city that surrounded Castle Kaedon, visible beneath the waves
-- [[The Carrot Cake]] — 40 Carats amusement park whose surviving materials support the troupe's revival
-- [[Taylin]] — Old Kaedon settlement near Castle Kaedon, likely destroyed during the Cataclysm
-- [[Castle Kaedon Arena]] — Interior courtyard within Castle Kaedon with bleachers, arena floor, and stables
-- [[Esperanto]] — Pre-Cataclysm region near Jack Harvey's grave, accessible again as the oceans recede
-- [[Southern Archipelago Castle]] — Old-world human castle in the southern archipelago; former residence of Witness, massacred by PAXO
-- [[Xarag's Island]] — Southern island where the prologue Black Dragon Xarag held treasure once carried by The Opal; dragon slain and treasure recovered
-- [[Harengon Warrens]] — Island with extensive underground tunnels used by the Harengon, now partially occupied by the Empire
-- [[Otyugh Isle]] — Island with Kuo-Toa and Temple of Sigil
-- [[Lyngbakr Lagoon]] — Former refuge revealed as a volcanic caldera when the oceans recede
-- [[Rasharan's Rock]] — Location that no longer exists
-- [[Southport]] — Settlement fully recovered from Mana Sickness by the campaign's conclusion
-- [[Temple of Sigil]] — Temple on Otyugh Isle where 12 priests and 19 Kuo-Toa were petrified by a cockatrice ~70 years ago
-- [[Broyish Capital]] — Imperial capital of the Broyish Empire; highly industrialized with oni sentries, magic restrictions, and a bustling market
-- [[Dawn Palace]] — Imperial palace in the Broyish Capital where Emperor Shen imprisoned Domyx
-- [[Mana Sea]] — Wild-magic swamp over drowned Windsurf, formerly spreading Mana Sickness from the cursed Ninki Nanka
-- [[Windsurf]] — Pre-Cataclysm elven region now beneath the Mana Sea, formerly protected by Ninki Nanka
-- [[Thalasia]] — Titan homeland opening to other peoples and cooperative rule after the final battle
-- [[Acathian Manor]] — Former ruling seat where Domyx reconciles with his father after titan political reform
-- [[Prison of Frost]] — Prison facility in the titan homeland where [[Ulrich Fjoller]] is held awaiting execution
-- [[Tome Keeper's Pyramid]] — Trapped eastern temple where the party destroyed Farraday's Stark foothold
-- [[House Erendel]] — Boril Erendel’s mirror laboratory, destroyed after his defeat
-- [[Magic Hat]] — Hotel and bunker within The Carrot Cake, accessible via teleport circle from the midway
-- [[Hole Shebang]] — Festival island of games and entertainments within The Carrot Cake, accessible via teleport circle
-- [[City Hole]] — Central hub cavern with barrel portals connecting to the park's zones
-- [[King of the Hole]] — Island resort and coliseum zone within The Carrot Cake
-- [[Hole on Wheels]] — Scenic train zone over drowned Esperanto, containing the fourth lamp and a disabled return portal
+- [[Windsurf]] — Elven region drowned beneath the Mana Sea, formerly protected by Ninki Nanka and a copper dragon
+- [[Xarag's Island]] — Southern island where Xarag was slain and treasure stolen from The Opal recovered; the eggs' fate remains unrecorded
 
 ## Vessels
 - [[The Opal]] — Kerben's ship, saved through Vokenar's sacrifice and later equipped for travel among the stars

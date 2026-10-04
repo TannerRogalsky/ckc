@@ -10,8 +10,24 @@ related:
   - "[[Father Warrick]]"
 ---
 
-A temple dedicated to [[Sigil]] located on Otyugh Isle. The temple was established by priests who had left [[Southport]] after [[The Cataclysm]] to create a new temple in the new world.
+# Temple of Sigil
 
-The temple was attacked by a cockatrice alongside invading Kuo-Toa, which petrified all 12 priests and 19 Kuo-Toa cultists present. The petrified statues remained for approximately 70 years until [[Ceril]] and [[Domyx]] discovered the temple in session 025.
+The Temple of Sigil is the island sanctuary on [[Otyugh Isle]] where [[Father Warrick]] and fellow priests survived decades of petrification. Their restoration enabled aid for [[Southport]]'s plague.
 
-[[Ceril]] cast Greater Restoration to de-petrify [[Father Warrick]], the highest-ranking priest, who then used his own abjuration abilities to de-petrify several more priests. The freed priests planned to return to Southport to help combat the [[Mana Sickness]] plague.
+## Inhabitants and Control
+
+Priests dedicated to [[Sigil]] founded the temple after leaving Southport following [[The Cataclysm]]. They had taken vows of poverty and sought a peaceful home among the island's druids.
+
+Invading [[Kuo-Toa]] claimed the same site. Their confrontation was interrupted by a cockatrice that petrified twelve priests and nineteen Kuo-Toa.
+
+## Campaign History
+
+The [[chunks/sessions_001-0010|early campaign account]] records the party encountering the temple's statues and a cockatrice. The later return found the petrified groups still there after roughly seventy years.
+
+[[Ceril]], [[Red Caesar]], and [[Domyx]] examined the statues' religious equipment to identify a priest likely to help restore the others. Ceril restored Father Warrick with Greater Restoration. The priest then freed several of his companions. He initially intended to reopen the temple and awaken the Kuo-Toa gradually, hoping to teach them about Sigil rather than renew the conflict.
+
+On learning about [[Mana Sickness]], the restored clergy chose to travel toward Southport with the Indorras and [[Rochella Golf]]. Their subsequent delivery of [[Deep Roses]] helped treat individual victims.
+
+## Final Status
+
+Several priests were restored and departed to aid Southport. The account does not establish that every priest or any of the petrified Kuo-Toa was restored, or that the intended reopening of the temple occurred.

@@ -8,4 +8,6 @@ related:
   - "[[Cutlass Cray]]"
 ---
 
-A venue in [[Cutlass Cray]] run by [[Octavia Crayborne]].
+# The Corsairs' Court
+
+The Corsairs' Court is the [[Cutlass Cray]] venue run by [[Octavia Crayborne]], who was also identified as the city's mayor.

@@ -9,16 +9,24 @@ related:
   - "[[Harengon Warrens]]"
 ---
 
-A place south of [[Kaedon]] from before [[The Cataclysm]]. Near the end of Kaedon's history, trade routes were being formed between Kaedon and Esperanto while human and orcish encampments in the region were depleting.
+# Esperanto
 
-In session 018, a dead noble woman confirmed that Esperanto was the lowest point on the land and would have been flooded first during [[The Cataclysm]]. The deserts surrounding it were likely among the first places swept away. Esperanto is probably now part of the ocean floor.
+Esperanto was the low-lying city and desert region south of [[Kaedon]], submerged by [[The Cataclysm]]. The retreating oceans later exposed nearby land, allowing [[Kerben]] to visit [[Jack Harvey]]'s grave.
 
-In session 022, [[David Harvey]] revealed that [[Harengon]] warren tunnels extend into an area once called Esperanto, linking the underground network across what remains of the old land.
+## Geography and Access
 
-In session 025, the party recovered 100 pounds of Esperantan-era coins from a treasury hoard in the [[Southern Archipelago Castle]].
+Before the flood, Esperanto lay at the lowest point of the old land, according to a deceased visitor questioned at [[Castle Kaedon]]. Its surrounding deserts would have been among the first places inundated. [[Harengon Warrens]] extended into territory once called Esperanto, linking underground networks across the surviving old land.
 
-In session 030, the [[Hole on Wheels]] train was revealed as a scenic route that once overlooked Esperanto and the surrounding desert. The same route now loops over open ocean, reinforcing that Esperanto is submerged beneath the post-Cataclysm sea.
+The [[Hole on Wheels]] train had offered scenic views of the city and desert. Its later loop over open ocean demonstrated how much the landscape had changed.
 
-## Session 038
+## Campaign History
 
-As the oceans receded, [[Kerben]] found [[Jack Harvey]]'s previously submerged grave near Esperanto and paid his respects while rebuilding [[40 Carats]].
+Near the end of Kaedon's history, trade routes were developing toward Esperanto while human and orcish encampments in the intervening region diminished.
+
+The party learned about its flooding from the deceased visitor. [[David Harvey]] later explained the extent of the [[Harengon]] warren tunnels. Esperanto's material legacy also survived in a substantial cache of old coins recovered from the [[Southern Archipelago Castle]].
+
+Exploration of Hole on Wheels connected its ocean route to the former desert scenery. After the final battle, lowering seas made Jack Harvey's previously submerged grave accessible, and Kerben paid his respects while rebuilding [[40 Carats]].
+
+## Final Status
+
+Session 038 establishes access to the grave near Esperanto after the waters receded. It does not establish the city's reconstruction, its full surviving extent, or a newly settled population.

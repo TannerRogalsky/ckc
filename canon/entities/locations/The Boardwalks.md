@@ -8,4 +8,6 @@ related:
   - "[[Cutlass Cray]]"
 ---
 
-An area within [[Cutlass Cray]] run by [[The Marid]], who also serves as the city's Port Authority. [[Otto]] was found fixing a boat here, and [[Domyx]] and [[Vokenar]] recruited him.
+# The Boardwalks
+
+The Boardwalks are the waterfront area in [[Cutlass Cray]] run by [[The Marid]], who also serves as the city's Port Authority. [[Domyx]] and [[Vokenar]] found [[Otto]] repairing a boat here and recruited him.

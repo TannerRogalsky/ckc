@@ -6,6 +6,9 @@ related:
   - "[[Brimbolyn]]"
   - "[[Lesanderol Nokiirna]]"
   - "[[Gossa]]"
+sessions_appeared: ["014"]
 ---
 
-A marketplace attached to the city of [[Brimbolyn]] where elves sell magical goods. [[Lesanderol Nokiirna]] operates his mithril smithing shop here, marked by two mithril statues at the entrance. [[Gossa]] the aasimar sells accessories and magical goods in the market.
+# Elvish Marketplace
+
+The Elvish Marketplace is the magical-goods market attached to [[Brimbolyn]]. [[Lesanderol Nokiirna]] operates a mithril smithing shop marked by two mithril statues, while [[Gossa]] sells accessories, magical goods, and collected art.

@@ -11,10 +11,34 @@ related:
   - "[[Arcanoloth]]"
 ---
 
-A pyramid-shaped temple constructed in the eastern waters by [[Farraday]], an [[Arcanoloth]], to house the [[Tome of Satariel]]. It was built roughly 10 to 25 years before session 023 and is large enough to serve as a tabernacle whose sole purpose was containing the Tome.
+# Tome Keeper's Pyramid
 
-## Plot Events
+Tome Keeper's Pyramid is the eastern temple built by [[Farraday]] to house the [[Tome of Satariel]]. The party destroyed the tome and his foothold on [[Stark]], then consecrated the surviving structure as a recall sanctuary.
 
-In session 023, [[Ceril]]'s Commune with Nature revealed the pyramid's existence and location. [[Vokenar]]'s Legend Lore confirmed that the temple's interior mirrored its state in hell and likely contained traps set by Farraday. The party chose not to attack immediately, instead pressing on toward [[Broy]] to rescue [[Obould]].
+## Geography and Access
 
-In session 034, the party entered through a blasted opening at the flooded base. Shallow [[Akasha]] and layered magical wards protected the ascent. At the summit, the party identified Farraday, destroyed the Tome of Satariel, and forced the fiend back to hell. Vokenar then established the pyramid as a magical return point and potential base.
+The pyramid stands in the eastern waters. The party reached a blasted opening at its flooded base by longboat. Lower chambers admitted dangerous [[Akasha]], and layered wards protected the ascent.
+
+## Description
+
+The temple had been built roughly a decade to a quarter-century before the party first learned of it, as a tabernacle for the tome. Divination described its interior as mirroring a state in hell.
+
+Its upper chamber was painted as a hellish city under a red sky, false constellations, and silver moons. Farraday turned this constructed scene into a convincing illusion during the confrontation.
+
+## Inhabitants and Control
+
+Farraday, an [[Arcanoloth]], guarded his ledger of money, souls, and exchanges with hell. His control and the tome's purpose explain the original institution, but do not establish ownership by the party after his defeat.
+
+## Campaign History
+
+[[Ceril]] discovered the temple through Commune with Nature, and [[Vokenar]]'s Legend Lore warned of its nature and likely traps. The companions initially prioritized the rescue of [[Obould]] in [[Broy]].
+
+On returning, they crossed the Akasha-fouled base and wards of death and domination. They recovered diamonds and preserved Akasha as a grenade before reaching the keeper.
+
+[[Kerben]] recognized Farraday as his former employer and destroyed the tome. Breaking the ledger severed a vital bond with hell. The party destroyed Farraday's body and forced him back to that realm, rather than annihilating his soul.
+
+Red Caesar recovered surviving spell writings from the ruined tome. Vokenar established the pyramid as a magical return point, and the companions discussed repairing it into a future base.
+
+## Final Status
+
+Farraday's local foothold and tome were destroyed in session 034. The pyramid remained a consecrated recall destination, but the proposed repairs and permanent occupation were not completed in the record.

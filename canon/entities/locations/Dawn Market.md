@@ -11,4 +11,6 @@ related:
   - "[[Geoffrey the Younger]]"
 ---
 
-The Dawn Market is a diverse commercial district in [[Broy]]. Its vendors include the ancient-world relic merchant [[Qian Hu]] and the gunsmith [[Geoffrey the Younger]].
+# Dawn Market
+
+Dawn Market is the diverse commercial district of the [[Broyish Capital]] in [[Broy]]. Its established vendors include [[Qian Hu]], a merchant of ancient-world relics, and [[Geoffrey the Younger]], a gunsmith.

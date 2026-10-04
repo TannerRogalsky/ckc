@@ -8,4 +8,6 @@ related:
   - "[[Cutlass Cray]]"
 ---
 
-A library in [[Cutlass Cray]] run by [[Pleasance MacLenth]]. Contains records about [[Lyngbakr]] and [[Saratan]]. The librarian offered the party a bespoke spell.
+# Bookbinders Cray
+
+Bookbinders Cray is a library in [[Cutlass Cray]] run by [[Pleasance MacLenth]]. Its records include accounts of [[Lyngbakr]] and the [[Saratan]], and its librarian offered the party a bespoke spell.

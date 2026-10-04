@@ -13,14 +13,32 @@ related:
   - "[[The Order of Seasons]]"
 ---
 
-The hidden laboratory and residence of [[Boril Erendel]] in the wilderness beyond [[Brimbolyn]]. Its crumbling stone dome has been replaced in places by magical force, and arcane plant life glows around the overgrown structure.
+# House Erendel
 
-When the party arrived in session 034, several duplicates of Boril Erendel watched from concealed positions around the building. Another created figure resembled [[Vokenar]], showing that the laboratory's replacement-body work extended beyond identical copies of Boril Erendel.
+House Erendel was [[Boril Erendel]]'s hidden residence and replacement-body laboratory beyond [[Brimbolyn]]. The party destroyed the structure after defeating him and ending its imposed transformations.
 
-## Session 035
+## Geography and Access
 
-The structure was revealed as a ziggurat with open tiers of balconies crowded with mirrors, a central descending staircase, green mist below, and a hidden lower chamber. Its outer guards were three [[Boril Erendel]] clones. The mirrors reflected visitors as the high elf bodies intended to replace them; unused, lifeless bodies lay among the glass.
+The overgrown residence stood in the wilderness outside the city. [[House Kiirnodel]] supplied a map for the party's approach. Concealed duplicates of Boril Erendel watched the exterior.
 
-Boril Erendel fought the party in his Larethian form. After his death, the mirrors showed ordinary reflections again. The party recovered mithril fragments, an ancient liquid-metal weapon, and an enchanted harp. In [[Vokenar]]'s hands the weapon copied his existing hammer, including its magical properties. The harp plays endlessly without repeating a song.
+## Description
 
-[[Red Caesar]] understood the building as an old elven noble residence repurposed by Boril Erendel, rather than an inherently magical structure. The party destroyed its mirrors and collapsed the ziggurat before departing.
+Its crumbling stone dome was patched with magical force, surrounded by glowing arcane plants. Inside, the structure formed a ziggurat of open balcony tiers crowded with mirrors, a descending central staircase, green mist, and a hidden lower chamber.
+
+The mirrors showed visitors as the high elf bodies intended to replace them. Unused flesh vessels lay among the glass; these were bodies that had never lived, rather than evidence of people murdered and stored there.
+
+## Inhabitants and Control
+
+Boril Erendel used the old noble residence for his private work on the [[Demi-Spell]]. His guards included duplicates of himself and a created figure resembling [[Vokenar]]. [[Red Caesar]] understood the building as a repurposed estate, not an inherently magical structure.
+
+## Campaign History
+
+The party encountered the duplicates outside and entered the mirror-filled laboratory. Boril Erendel fought them in his Larethian form. When he died, the mirrors returned to ordinary reflections, ending the immediate imposition of replacement images.
+
+The companions recovered mithril fragments, an ancient liquid-metal weapon, and an enchanted harp. In Vokenar's hands the weapon copied his existing hammer and its magic; the harp played without repeating a song.
+
+They destroyed the mirrors, collapsed the ziggurat, and teleported away as it fell.
+
+## Final Status
+
+House Erendel was destroyed in session 035, ending this laboratory's active work. The recovered relics left with the party. No later rebuilding or surviving replacement operation at the site was established.

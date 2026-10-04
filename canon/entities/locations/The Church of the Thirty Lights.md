@@ -8,4 +8,6 @@ related:
   - "[[Cutlass Cray]]"
 ---
 
-A church in [[Cutlass Cray]] led by [[Pastor Borm]], a gold wyrmling.
+# The Church of the Thirty Lights
+
+The Church of the Thirty Lights is the church in [[Cutlass Cray]] led by [[Pastor Borm]], a gold wyrmling.

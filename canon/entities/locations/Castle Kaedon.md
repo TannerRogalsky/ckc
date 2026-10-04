@@ -2,7 +2,7 @@
 type: location
 subtypes: [building]
 session_introduced: "003"
-sessions_appeared: ["013", "015", "017", "018", "019", "020", "021"]
+sessions_appeared: ["013", "015", "017", "018", "019", "020", "021", "031"]
 related:
   - "[[Lyngbakr]]"
   - "[[Alamar]]"
@@ -16,18 +16,45 @@ related:
   - "[[Dancing Blades]]"
 ---
 
-A castle located on the back of [[Lyngbakr]], the giant turtle from [[Arkadia]]. [[Alamar]] is bound to this castle. Surrounded by Westerness. [[Sunspite]] wanted the castle sunk.
+# Castle Kaedon
 
-After [[Lyngbakr]] was fed more [[Penumbra]], [[Alamar]] said the castle can be raised for brief explorations and submerged again for concealment. He also sensed a powerful presence in the old throne room, as if the castle had a new king who had taken [[Penumbra]] into a lair beneath the waves.
+Castle Kaedon was the human castle carried on [[Lyngbakr]]'s back, once surrounded by [[Westerness]]. Its cursed ruins held [[Penumbra]] crucial to repairing the sky, but the castle was destroyed during the turtle's renewed ascent.
 
-In session 015, Lyngbakr rose further after being fed the drained Penumbra from [[Theotropa]]. The castle turrets and surrounding pillars rose up in unison, exposing twice as much of the castle to explore. [[Alamar]] sensed that forces of hell and undead had taken residence in the castle, saying it is cursed by every kind of curse — physical, metaphysical, divine, and profane — tracing the curse to [[Queen Caeradwyn]]'s ambition and bloodline magic.
+## Geography and Access
 
-In session 017, the party returned to the risen castle aboard the [[Gheister]]. The abjuration magic pervading the castle had grown stronger since their last visit — fueled by the [[Penumbra]] the castle had consumed. [[Red Caesar]] detected its planar, alien quality through Detect Magic. The party entered through a stone ramp and discovered the [[Castle Kaedon Arena]], a large interior courtyard with bleachers, an arena floor, stables, and mercantile kiosks, strangely preserved by the castle's magic.
+The castle rose or submerged with Lyngbakr. After receiving Penumbra, the turtle could expose the ruins for exploration and hide them again beneath the sea. The party returned aboard the [[Gheister]] and entered by a stone ramp.
 
-In session 018, the party explored the castle's cliff edges and interior hollows, discovering that much of the castle is buried underground. The cliffs are smooth white stone descending 35 to 50 feet to the ocean. [[Kerben]] used Stone Sense to find climbing paths. The area is defended by [[Animated Armor]] constructs and was ambushed by water elementals rising from the sea. A dead noble woman found under mold revealed that the castle was visited by residents of nearby [[Taylin]] before the Cataclysm. The castle's collapse was preceded by streaks of light from the east — possibly the same phenomenon that caused [[The Cataclysm]]. The party was then attacked by a [[Xarag]] and four wyrmlings that burst from the surrounding waters.
+Smooth white cliffs, broken platforms on barnacle-covered pillars, and buried interior hollows complicated access. [[Ceril]] later grew permanent seaweed and fungus bridges between separated platforms.
 
-In session 019, [[Kerben]] used the [[Mangonel]] to launch [[Domyx]] to the southern island platform, where angelic statues honoring aasimar heroes animated as marble gargoyles. [[Ceril]]'s Plant Growth created permanent seaweed and fungus bridges between broken platforms. The party cleared an acid-smoothed room of black puddings and [[Severed Hands]], then entered the castle proper through an arcane-locked door. Deeper inside, the Mark of the Home curse struck the party before [[Ceril]] removed it from Kerben, and magic circles summoned [[Bearded Devil]]s in a pentagonal chamber.
+## Description
 
-In session 020, the party explored further into the castle interior. They found a room with old metal bars and a chunk of mithril, behind a door that was both arcane-locked and barricaded from the far side. Beyond, they entered a room with rose bushes growing through a collapsed wall section — the collapse had damaged the apothecary above and caused a ceiling to fall. A [[Potion of Soothing Gaze]] fell from the ruins onto [[Domyx]]. The party then entered a dungeon area with rusted iron-barred cells containing skeletons and ancient corpses. One skeleton had a full set of platinum teeth. A bulletin board bore a list of prisoners including [[Clockwork]] of the [[Dancing Blades]]. A senator of the Dancing Blades was found among the dead, having been locked in during the rising waters of [[The Cataclysm]]. A map of Western Stark and its surrounding areas was discovered — now mostly ocean floor. [[Kerben]] found a stash of Kaedonite coins, some with bite marks from a [[Zorn]] that had been eating them. Deeper still, a long stained-glass hallway lit by kaleidoscope colors from seaweed-covered glass panels led to encounters with [[Bearded Devil]]s, a [[Chain Devil]], and a [[Hezru]], all overseen by an invisible [[Nalfeshne]].
+The ruins retained turrets, pillars, courtyards, and seaweed-covered stained glass. [[Red Caesar]] identified an alien, planar quality in the preserving abjurations, which strengthened as the castle consumed Penumbra. [[Alamar]] attributed its many curses to [[Queen Caeradwyn]]'s ambition and bloodline magic; this was his explanation rather than a complete independently established origin.
 
-In session 021, the party ambushed and destroyed the [[Nalfeshne]] in its throne room by dropping through the ceiling from the floor above. The throne room had stained glass windows overgrown with seaweed on the outside, stone pillars, benches, and a red carpet ascending a dais. A large chunk of [[Penumbra]] was found in the room. The Nalfeshne's throne held a ruby and a sapphire set into the armrests. After the demon's defeat, the castle's magical aura and abjurations weakened noticeably, and the arcane locks that had been in place dissipated.
+## Notable Areas
+
+- [[Castle Kaedon Arena]] — A preserved courtyard with spectator seating, stables, and kiosks, adjoining the broader grounds.
+- Southern platform — A separated area with statues honoring aasimar heroes that animated as marble gargoyles.
+- Inner chambers — An acid-smoothed room, a pentagonal chamber with summoning circles, and arcane-locked rooms. One barricaded chamber held old metal bars and mithril.
+- Ruined apothecary — Rose bushes grew through a collapsed wall below it, and a fallen [[Potion of Soothing Gaze]] reached [[Domyx]].
+- Dungeon — Rusted barred cells held ancient prisoners' remains; a bulletin listed [[Clockwork]] of the [[Dancing Blades]]. One skeleton had platinum teeth.
+- Stained-glass hall and throne room — A kaleidoscopically lit passage led toward the demon's seat. Stone pillars, benches, and a red carpet framed its dais; ruby and sapphire were set into the throne's arms.
+
+## Inhabitants and Control
+
+Alamar remained bound to the site after its earlier ruin. [[Sunspite]] sought to sink it. Later, fiends and undead occupied the castle, with a [[Nalfeshne]] holding its old throne room and a great Penumbra deposit. Defeating that demon did not establish party ownership or prove that every creature in the ruins had been cleared.
+
+## Campaign History
+
+The nearly drained Penumbra obtained from [[Theotropa]] helped the party raise more of the castle and revealed its renewed occupation. Alamar sensed a powerful presence below and warned of its curses. The companions explored the arena and the surrounding grounds, confronting [[Animated Armor]], water elementals, and [[Xarag]] offspring.
+
+A deceased visitor from [[Taylin]] recalled streaks of light from the east before the castle's collapse, suggesting a connection with [[The Cataclysm]]. [[Kerben]] used the [[Mangonel]] to launch Domyx to the southern platform. Ceril's bridges connected the broken terrain, and he removed the Mark of the Home curse from Kerben after the party entered the inner chambers.
+
+The companions fought black puddings and [[Severed Hands]], encountered [[Bearded Devil]] summoning circles, and discovered the damaged apothecary and dungeon. A dead Dancing Blades senator had been locked in as the flood rose. A map preserved the former geography of western Stark, while recovered Kaedonite coins bore bite marks from a [[Zorn]]. [[Chain Devil]] and [[Hezru]] encounters along the stained-glass hall led deeper toward the occupying demon.
+
+The party ambushed and destroyed the Nalfeshne by entering its throne room through the ceiling. Its defeat weakened the preserving magic and ended the arcane locks. The companions removed the great Penumbra mass and fed it to Lyngbakr.
+
+The turtle rose and shook apart buildings and a turret, shedding further Penumbra and surviving creatures. Those fragments helped it begin repairing the sky. The renewed ascent ultimately broke the castle apart completely, as explicitly recalled in [[canon/sessions/session_031#Chunk 0004|the later encounter with Lyngbakr]].
+
+## Final Status
+
+Castle Kaedon no longer stood by session 031. Lyngbakr later returned to [[Arkadia]] with Alamar and Ceril. The record does not establish recovery of the castle's wreckage or rebuilding of the site.

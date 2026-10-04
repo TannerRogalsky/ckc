@@ -14,12 +14,28 @@ related:
   - "[[Thalasia]]"
 ---
 
-The former ruling seat of [[Clan Akathia]], situated atop the highest mountains in all of [[Stark]]. It is a golden palace with great traffic of titan folk moving to and from it. It holds the best view of any noble house in the titan homeland.
+# Acathian Manor
 
-## Plot Events
+Acathian Manor is the golden palace formerly serving as [[Clan Akathia]]'s ruling seat in [[Thalasia]]. It was the setting of [[Domyx]]'s rejection of his dynasty and later reconciliation with [[Domyx IV]].
 
-In session 024, the party approached Acathian Manor at the top of the titan mountains. [[Domyx]] entered alone while the rest of the party stayed hidden nearby, as elves, dwarves, and aasimar would be unwelcome and potentially endangered among the xenophobic titan folk. Inside, Domyx found [[Charlotta Fjoller]] and then [[Lorelai Lapis-Acathian]], learning the truth about [[Ulrich Fjoller]]'s imprisonment. Domyx then confronted his father [[Domyx IV]] at the manor's exterior, renounced his family name, and was disowned.
+## Geography and Access
 
-## Session 038
+The manor stands atop the highest mountains of [[Stark]], commanding the finest view among the noble houses of the titan homeland. During the party's first approach, outsiders faced both the difficult mountain ascent and the hostility of the isolated titan community.
 
-[[Charlotta Fjoller]] welcomed [[Domyx]] home and explained that authority was now shared among the titan houses. At the manor, [[Domyx IV]] apologized to his son and began rebuilding their relationship. The surrounding homeland had opened to other peoples and no longer required a single dynastic ruler.
+## Description
+
+The palace is golden, with substantial traffic of titan folk moving to and from it.
+
+## Inhabitants and Control
+
+[[Domyx IV]] held dynastic authority during Domyx's first visit. [[Lorelai Lapis-Acathian]] and [[Charlotta Fjoller]] were important family contacts there. By the epilogue, authority in the homeland was shared among the titan houses rather than vested in one ruling dynasty.
+
+## Campaign History
+
+Domyx entered alone while his companions remained hidden nearby, since elves, dwarves, and aasimar risked hostility. After finding Charlotta Fjoller and Lorelai Lapis-Acathian, he learned the truth about [[Ulrich Fjoller]]'s imprisonment. He confronted Domyx IV outside the palace, renounced his family name, and was disowned.
+
+When Domyx returned after [[Emperor Shen]]'s defeat, Charlotta Fjoller welcomed him and explained the new cooperative government. Domyx IV apologized for his treatment of his son, and they began rebuilding their relationship.
+
+## Final Status
+
+The manor remained a family home and place of reconciliation in session 038. Its former role as the seat of a single ruling house no longer described the homeland's government, which had opened to other peoples.

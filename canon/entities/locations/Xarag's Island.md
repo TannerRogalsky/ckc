@@ -9,8 +9,26 @@ related:
   - "[[Obould]]"
 ---
 
-An island on the party's route through the southern waters. [[The Opal]] was once attacked near Xarag's Island by the larger [[Xarag]] from the prologue, and treasure from The Opal remains sunken in the dragon's hoard there. After leaving the [[Southern Archipelago Castle]] in session 025, the party continued toward Xarag's Island to confront the dragon and recover the ship's lost treasure.
+# Xarag's Island
 
-In session 026, the party arrives at the island, which is surrounded by luminescent algal bloom and mist. The terrain is dark with black earth and glowing cyan tide pools. The [[Xarag]] — named **Xarag** — is found resting but awake, with black dragon eggs nearby. The party tracks it using visual tracking and [[Red Caesar]]'s Locate Creature spell. The party drinks potions of acid resistance and engages the dragon in combat.
+Xarag's Island is the southern island where [[Xarag]] held treasure stolen from [[The Opal]]. The party killed the dragon and recovered the hoard during its return through those waters.
 
-After slaying Xarag, the party searches the island. [[Domyx]] dives into the glowing water around the island and discovers a gap in the cliff face leading to a hidden hollow. Inside, they recover the treasure Xarag had stolen from [[The Opal]]: 200 pounds of gold pieces (tripling their gold reserves), five units of mithril (doubling their supply), and bags of gems that once belonged to [[Obould]]. The mithril likely came from another ship — possibly an elven vessel — that also met disaster near the island. Among the recovered items are the [[Orkland Pin of Courage]] and [[Obould's Wedding Band]], both deeply personal items of Obould's.
+## Geography and Access
+
+Luminescent algae and mist surround the cliffs. A submerged gap in the cliff face leads to a hidden hollow holding the hoard.
+
+## Description
+
+Black earth contrasts with glowing cyan tide pools. Black dragon eggs were present near the resting but wakeful Xarag when the party arrived.
+
+## Campaign History
+
+Xarag had broken open the Opal's hold near this island at the beginning of the voyage. After the [[Southern Archipelago Castle]] expedition, the companions returned to confront the dragon and reclaim their lost goods.
+
+They tracked Xarag by sight and [[Red Caesar]]'s divination, then killed the dragon. [[Domyx]] then dived through the glowing water and found the concealed hollow. Gold, mithril, and bags of [[Obould]]'s gems were recovered, including the [[Orkland Pin of Courage]] and [[Obould's Wedding Band]].
+
+The mithril may have come from another wrecked vessel, possibly an elven ship; its origin was not confirmed.
+
+## Final Status
+
+The dragon was slain and the stolen treasure recovered in session 026. The record does not establish the eggs' fate, a new owner of the island, or removal of every possible remaining hazard.

@@ -12,16 +12,28 @@ related:
   - "[[Hopping Mad Sash]]"
 ---
 
-One of four portal destinations in [[The Carrot Cake]], described by a [[Magen]] as an island resort and coliseum area. Its portal in the midway courtyard is marked by a sign showing carrots flanking a hill.
+# King of the Hole
 
-King of the Hole is an island surrounded by ocean on all sides, topped by a grassy hill. A [[Magen]] announcer — dressed differently from other magens, holding a carrot that amplifies his voice — greets arriving parties with researched introductions for each member. The announcer explains that the area runs a wave-based combat system set up by [[Farraday]], [[Jack Harvey]]'s benefactor, who wanted the park to remain entertaining even after the apocalypse.
+King of the Hole is the island resort and coliseum destination in [[The Carrot Cake]]. Its challenges supplied one of the lamps needed for [[Jack Harvey]]'s sanctum, with the [[Hopping Mad Sash]] awarded for the party's optional victory.
 
-Five beacon lights (carrot-shaped) are positioned around the island. To start each wave, three beacons must be pressed simultaneously, forcing the party to spread out. Each unique combination of three beacons can only be used once, yielding ten possible combinations across four required waves, with an optional fifth bonus wave that grants access to Jack's lamplighter. The arena's magic records the fights for viewers in the main square.
+## Geography and Access
 
-The first wave spawned [[Phase Cat]]s, a [[Gorgon Head]], a [[Flame Skull]], and [[Mummy]]s. The second wave introduced [[Hooksy the Clown Automaton]] variants, [[Death Spark]]s, a [[Shambling Mound]], and a [[Lightning Elemental]]. The shambling mound and lightning elemental proved dangerous together — the elemental's lightning healed the mound rather than damaging it. The third wave featured more Hooksy variants, another shambling mound, a [[Cloaker]], and a phase cat. A notable discovery during this wave was that Hooksy variants can burst open on death to release two smaller forms from within, though acid can sterilize the inner forms and prevent further emergence.
+Its midway portal bears a sign of carrots flanking a hill. Beyond it lies an ocean-surrounded island with a grassy central pinnacle and surrounding outcrops.
 
-The area includes a 40-foot lighthouse with a giant carrot-shaped glass bulb. The bulb was looted by the party as a potentially valuable item. As the party prepared to trigger the fourth wave, [[Kerben]] appeared from one of the portals with dramatic music — signaling the next encounter.
+## Description
 
-In session 030, the fourth required wave spawned additional [[Gorgon Head]]s, [[Phase Cat]]s, and [[Hooksy the Clown Automaton]] variants split across the island. The party survived repeated petrification threats and completed the required arena sequence.
+Carrot-shaped beacons initiate the arena's staged challenges. Its magic records the contests for viewers in the park's main square. A lighthouse held a finely blown carrot-shaped glass bulb with an electrical filament, which the party collected.
 
-The optional fifth challenge turned the arena into a king-of-the-hill defense on the central pinnacle, with illusory ocean rising around the party. [[Smoke Elemental]]s, [[Shambling Mound]]s, and [[Death Spark]]s attacked the hilltop, but the party defeated every enemy. The [[Magen]] announcer declared them winners of every challenge, lit the area's lamp, and awarded [[Domyx]] the [[Hopping Mad Sash]] as the bonus prize.
+## Inhabitants and Control
+
+A differently dressed [[Magen]] announcer used a carrot-shaped voice amplifier and researched introductions for the visitors. It attributed the challenges to [[Farraday]], Jack Harvey's benefactor, who wanted the park to remain entertaining after the apocalypse.
+
+## Campaign History
+
+The party completed successive challenges involving [[Phase Cat]], [[Gorgon Head]], [[Flame Skull]], [[Mummy]], [[Hooksy the Clown Automaton]], [[Death Spark]], [[Shambling Mound]], [[Lightning Elemental]], and [[Cloaker]]. Lightning replenished the plant creatures, while defeated Hooksy variants could release smaller living forms; acid could prevent that emergence.
+
+After the required contests, the companions accepted a bonus defense of the central hill. An illusory rising ocean reshaped the setting as [[Smoke Elemental]], [[Shambling Mound]], and [[Death Spark]] attackers appeared. The party prevailed, the announcer lit its lamp, and [[Domyx]] received the sash.
+
+## Final Status
+
+By session 030, the required contests and bonus challenge were complete, the lamp was lit, and the lighthouse bulb had been removed. The record does not establish the attraction's later operation or permanent clearing of all possible summoned opponents.

@@ -716,3 +716,74 @@
 ## [2026-10-04] update | Aligned and alphabetized concept index descriptions; appended source-supported concept appearances.
 ## [2026-10-04] lint | Corrected sky-light witness attribution in The Cataclysm and Starfall against the transcript.
 ## [2026-10-04] lint | Validated six concept articles, Starfall correction, preserved facts and provenance, 187 links, complete entity index, and alphabetical logging.
+## [2026-10-04] query | Reviewed 60 location articles, existing entity structures, and supporting campaign records.
+## [2026-10-04] update | Added location article structure and adaptation guidance to AGENTS.md.
+## [2026-10-04] lint | Validated location instructions, campaign examples, existing-rule compatibility, formatting, change scope, and append-only logging.
+## [2026-10-04] query | Inventoried all 60 locations and checked geographic identities, historical changes, and source-supported final states.
+## [2026-10-04] restructure | Applied location article structure to Academia Lux.
+## [2026-10-04] restructure | Applied location article structure to Acathian Manor.
+## [2026-10-04] restructure | Applied location article structure to Arkadia.
+## [2026-10-04] restructure | Applied location article structure to Axis Mundi.
+## [2026-10-04] restructure | Applied location article structure to Bookbinders Cray.
+## [2026-10-04] restructure | Applied location article structure to Brimbolyn.
+## [2026-10-04] restructure | Applied location article structure to Broy.
+## [2026-10-04] restructure | Applied location article structure to Broyish Capital.
+## [2026-10-04] restructure | Applied location article structure to Castle Kaedon.
+## [2026-10-04] restructure | Applied location article structure to Castle Kaedon Arena.
+## [2026-10-04] restructure | Applied location article structure to Ceril's Star.
+## [2026-10-04] restructure | Applied location article structure to City Hole.
+## [2026-10-04] restructure | Applied location article structure to Continental Stark.
+## [2026-10-04] restructure | Applied location article structure to Cutlass Cray.
+## [2026-10-04] restructure | Applied location article structure to Darvinblast.
+## [2026-10-04] restructure | Applied location article structure to Dawn Market.
+## [2026-10-04] restructure | Applied location article structure to Dawn Palace.
+## [2026-10-04] restructure | Applied location article structure to Deep World.
+## [2026-10-04] restructure | Applied location article structure to Elvish Marketplace.
+## [2026-10-04] restructure | Applied location article structure to Esperanto.
+## [2026-10-04] restructure | Applied location article structure to Gaokerena.
+## [2026-10-04] restructure | Applied location article structure to Gray Wastes.
+## [2026-10-04] restructure | Applied location article structure to Harengon Warrens.
+## [2026-10-04] restructure | Applied location article structure to Hole in the Sky.
+## [2026-10-04] restructure | Applied location article structure to Hole on Wheels.
+## [2026-10-04] restructure | Applied location article structure to Hole Shebang.
+## [2026-10-04] restructure | Applied location article structure to House Erendel.
+## [2026-10-04] restructure | Applied location article structure to Kaedon.
+## [2026-10-04] restructure | Applied location article structure to King of the Hole.
+## [2026-10-04] restructure | Applied location article structure to Lyngbakr Lagoon.
+## [2026-10-04] restructure | Applied location article structure to Magic Hat.
+## [2026-10-04] restructure | Applied location article structure to Mana Sea.
+## [2026-10-04] restructure | Applied location article structure to Otyugh Isle.
+## [2026-10-04] restructure | Applied location article structure to Prison of Frost.
+## [2026-10-04] restructure | Applied location article structure to Rasharan's Rock.
+## [2026-10-04] restructure | Applied location article structure to Savar Brews.
+## [2026-10-04] restructure | Applied location article structure to Southern Archipelago Castle.
+## [2026-10-04] restructure | Applied location article structure to Southport.
+## [2026-10-04] restructure | Applied location article structure to Stark.
+## [2026-10-04] restructure | Applied location article structure to Taylin.
+## [2026-10-04] restructure | Applied location article structure to Temple of Sigil.
+## [2026-10-04] restructure | Applied location article structure to Thalasia.
+## [2026-10-04] restructure | Applied location article structure to The Academy.
+## [2026-10-04] restructure | Applied location article structure to The Bad Hare Day Theatre.
+## [2026-10-04] restructure | Applied location article structure to The Boardwalks.
+## [2026-10-04] restructure | Applied location article structure to The Brine & Bodak.
+## [2026-10-04] restructure | Applied location article structure to The Carrot Cake.
+## [2026-10-04] restructure | Applied location article structure to The Church of the Thirty Lights.
+## [2026-10-04] restructure | Applied location article structure to The Corsairs' Court.
+## [2026-10-04] restructure | Applied location article structure to The Darvenlast.
+## [2026-10-04] restructure | Applied location article structure to The Deepworlders Delve.
+## [2026-10-04] restructure | Applied location article structure to The Funnel.
+## [2026-10-04] restructure | Applied location article structure to The Garden.
+## [2026-10-04] restructure | Applied location article structure to The Palace of the Pit.
+## [2026-10-04] restructure | Applied location article structure to The Pit.
+## [2026-10-04] restructure | Applied location article structure to The W. H. Boutique.
+## [2026-10-04] restructure | Applied location article structure to Tome Keeper's Pyramid.
+## [2026-10-04] restructure | Applied location article structure to Westerness.
+## [2026-10-04] restructure | Applied location article structure to Windsurf.
+## [2026-10-04] restructure | Applied location article structure to Xarag's Island.
+## [2026-10-04] lint | Restored significant location details and source attributions.
+## [2026-10-04] update | Recorded Harengon Warrens resettlement plans without confirming their completion.
+## [2026-10-04] update | Alphabetized the location index and reconciled descriptions with corrected canon.
+## [2026-10-04] lint | Reconciled linked Morel Chainsunder and Lyngbakr articles with corrected location canon.
+## [2026-10-04] lint | Resolved location prose aliases, restored entity links, and removed redundant editorial wording.
+## [2026-10-04] lint | Validated location structure, fact preservation, provenance, canonical links, index coverage, and append-only logging.
+## [2026-10-04] query | Reviewed reasons for the Morel Chainsunder consistency update.

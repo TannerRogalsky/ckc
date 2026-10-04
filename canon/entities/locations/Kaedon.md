@@ -19,10 +19,33 @@ related:
 
 # Kaedon
 
-Kaedon was a human realm from before [[The Cataclysm]], encompassing [[Westerness]], [[Castle Kaedon]], and nearby settlements. It was a human kingdom that existed before the world was washed away. At the end of its life, Kaedon was nearly at peace — it was actively making peace between elves and dwarves, and trade routes were being formed between Kaedon and [[Esperanto]]. Human and orcish encampments to the south between Kaedon and Esperanto were among the last remaining opposition, but they were not a unified organized force and were depleting.
+Kaedon was the human realm around [[Westerness]] and [[Castle Kaedon]] before [[The Cataclysm]]. Its transition from monarchy to a republic and its near-peaceful final years shaped the history recovered during the campaign.
 
-Kaedon is associated with [[King Maniasis]], father of [[Alamar]], who went mad from elf-blood poisoning. Kaedonite coinage bearing his profile was found in the [[Castle Kaedon Arena]]. The civilization had a brewing tradition, exemplified by [[Kaedonite Black Ale]].
+## Geography and Access
 
-The sunken city of [[Westerness]] was the human city that surrounded [[Castle Kaedon]], part of Kaedon's domain. The entire civilization was washed away by [[The Cataclysm]] just as peace was being achieved across the world.
+The realm included the city surrounding the castle and nearby settlements such as [[Taylin]]. [[Esperanto]] lay to the south, beyond diminishing human and orcish encampments. Those encampments were not one unified opposition.
 
-In session 018, lore was revealed about [[Alamar]], who abdicated the old crown and led Kaedon's transformation from monarchy into a republic of syndicates — including groups like the Dancing Blades and the church. The civilization had cultural attractions like [[The Carrot Cake]], a massive amusement park spanning multiple mountaintops through great magic. Settlements like [[Taylin]] existed near the castle, and residents traveled for leisure and entertainment.
+## Description
+
+Kaedon's surviving material culture includes coins bearing [[King Maniasis]]'s profile found in [[Castle Kaedon Arena]], equestrian records, and a brewing tradition represented by [[Kaedonite Black Ale]]. Leisure travel and [[The Carrot Cake]]'s magical attractions connected its inhabitants with distant mountaintops.
+
+## Notable Areas
+
+- [[Westerness]] — The human city surrounding and leading to Castle Kaedon.
+- [[Castle Kaedon]] — The former castle, whose ruins yielded much of the party's evidence.
+- [[Taylin]] — A nearby settlement represented in a deceased visitor's testimony.
+- [[The Carrot Cake]] — Jack Harvey's amusement complex, created during the realm's prosperous era.
+
+## Inhabitants and Control
+
+King Maniasis, [[Alamar]]'s father, ruled before his madness attributed to elf-blood poisoning. Alamar later abdicated the crown and helped establish a republic involving local syndicates, including [[Dancing Blades]] and the church. Kaedon's geographic article and the institutions governing it are distinct subjects.
+
+## Campaign History
+
+Near the end of the old realm, peace efforts sought reconciliation between elves and dwarves, and trade routes were developing toward Esperanto. The remaining opposition in the southern encampments was dwindling.
+
+The Cataclysm flooded the civilization as that peace was being achieved. The party recovered its history through the castle's remains, coinage, records, and a dead noblewoman who praised Alamar's contribution to the republic.
+
+## Final Status
+
+Kaedon's old civilization was destroyed by the flood. Retreating seas later exposed land and some historical sites, but did not establish revival of the republic, rebuilding of all settlements, or restoration of its former population.

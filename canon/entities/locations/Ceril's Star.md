@@ -15,14 +15,22 @@ related:
 
 # Ceril's Star
 
-Ceril's Star is a safe astral demiplane and [[Ceril]]'s eventual home, bestowed as a divine blessing by [[Aeris]] in [[Arkadia]] during session 037 in recognition of his restoration of [[Gaokerena]]'s lower growth.
+Ceril's Star is the safe astral demiplane bestowed on [[Ceril]] by [[Aeris]], used to shelter the party and later chosen as his enduring home.
 
-The star is to remain reflected in the heavens. By praying to it, Ceril can suspend the passage of time and bring the party into a safe refuge for rest and recovery, then return them to where they left the confrontation. He can invoke it even while incapacitated.
+## Geography and Access
 
-The blessing remains unused when the last [[Vanir]], the resurrected [[Emperor Shen]], rises at the end of session 037.
+The refuge exists outside [[Arkadia]], [[Stark]], and the [[Gray Wastes]], while the star remains reflected in the heavens. Ceril can invoke it through prayer, even while incapacitated, bringing his companions into safety and returning them to the place they left.
 
-## Session 038
+## Description
 
-In session 038, [[Ceril]] invoked the blessing to gather the party in a safe astral demiplane outside [[Arkadia]], [[Stark]], and the [[Gray Wastes]]. It removed [[Kerben]] from [[Emperor Shen]]'s magical maze, ending that prison. The party rested while no time passed on the battlefield. [[Aeris]] taught them to combine lesser reserves of magic into more powerful spells.
+Time in the refuge lies beyond [[Crone]]'s control. It permits rest and recovery without time passing at the confrontation outside. Its unusual temporal position allows Ceril to live indefinitely and potentially observe [[Genesis Mundi]] from beyond the renewal.
 
-From the refuge, they saw the broken moon reforming as [[Crone]] healed. After the adventure, Ceril chose the star as his home. Its time lies beyond Crone's control, allowing him to live indefinitely, revisit the world in later centuries, and potentially observe [[Genesis Mundi]] from outside the renewal.
+## Campaign History
+
+Aeris granted the star in Arkadia in recognition of Ceril's restoration of [[Gaokerena]]'s lower growth. He initially kept the blessing in reserve while the resurrected [[Emperor Shen]] emerged as the last [[Vanir]].
+
+During the final confrontation, Ceril gathered the companions into the refuge. The transition freed [[Kerben]] from Emperor Shen's magical maze. Aeris taught them to combine lesser reserves of magic into more powerful spells, and they watched the broken moon reform as Crone healed. They returned to the battlefield without giving their enemy additional time.
+
+## Final Status
+
+Ceril retired to the star after helping restore life to Stark. He could revisit the world in later centuries or witness its natural renewal from outside, but had not decided whether to enter a later world.
