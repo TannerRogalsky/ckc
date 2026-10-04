@@ -14,10 +14,28 @@ related:
   - "[[Lyngbakr]]"
 ---
 
-Obvolvo Caelum is a spell completed by [[Red Caesar]] during a magical intrusion into one of his [[Heaven's Bulb]] memories.
+# Obvolvo Caelum
 
-After [[Vizier Jade]] and [[Emperor Shen]] moved through the dream, Red Caesar cast True Seeing on his younger self. The younger Red Caesar saw the missing physical principle in the Penumbra work: Mending. Red had already built the magical framework from Otiluke's Resilient Sphere, reduce magic, and his [[Akasha]]-to-[[Penumbra]] synthesis research, but had overlooked how physical cracks and breakages mattered at the smallest scale.
+Obvolvo Caelum is a Penumbra-condensing spell developed by [[Red Caesar]]. Learned during an intrusion into a memory of [[Heaven's Bulb]], it made [[Jack Harvey]]'s immense sky-fragment hoard portable and enabled its delivery to [[Lyngbakr]].
 
-Obvolvo Caelum uses Mending to smooth the transition between liquid and solid states, allowing Penumbra to condense instantly at any size. It should make Red Caesar's existing synthesis process far easier and may give the party a way to move, shape, or return Penumbra to the sky with far more precision.
+## Description
 
-In session 031, Red Caesar immediately put Obvolvo Caelum to work inside [[Jack Harvey]]'s underwater vault. He condensed the enormous [[Penumbra]] deposits into a small portable orb, making it possible to move the full hoard out of [[The Carrot Cake]] and deliver it to [[Lyngbakr]] before the [[Broyish Empire]] could claim it.
+The spell grew from Red Caesar's research into synthesizing [[Penumbra]] from [[Akasha]]. His existing magical framework combined Otiluke's Resilient Sphere and reduction magic, but lacked a principle for repairing physical cracks and breakages at the smallest scale.
+
+Mending supplied that principle. It smoothed the transition between liquid and solid states, allowing Penumbra to condense instantly to any size. Red Caesar's understanding of the completed spell made it feel as natural to cast as a familiar gesture.
+
+## Effects and Limitations
+
+The demonstrated effect was to gather an enormous quantity of Penumbra into a small, portable orb. That solved a practical transport problem without establishing that the material itself had been restored to the sky by this spell.
+
+The discovery also promised to simplify Akasha-to-Penumbra synthesis and allow more precise handling, shaping, or restoration of sky fragments. Those broader applications remained possibilities beyond the particular use established in the record. Obvolvo Caelum is distinct from [[Antumbra]], the sabotaged Penumbra prepared through Red Caesar's earlier research.
+
+## Campaign History
+
+[[Vizier Jade]] and [[Emperor Shen]] intruded into Red Caesar's remembered life at Heaven's Bulb. After they moved through the dream, Red Caesar cast True Seeing on his younger self. The younger Red Caesar could then see the missing physical principle in the older Red Caesar's work: Mending. Together, the two versions completed the understanding that became Obvolvo Caelum.
+
+Red Caesar put the new spell to use inside Jack Harvey's underwater vault at [[The Carrot Cake]]. He gathered the Penumbra coating the vault into a small dense orb, allowing the party to remove the full hoard and deliver it to Lyngbakr before the [[Broyish Empire]] could claim it.
+
+## Final Status
+
+The last established use was the successful recovery and transport of Jack Harvey's hoard. Red Caesar had learned and demonstrated the spell; the record does not establish separate fulfillment of every proposed application.

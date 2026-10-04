@@ -313,12 +313,12 @@
 - [[Kaboom Ring]] — Domyx's retained returning boomerang, releasing thunder and brief deafness around its impact
 
 ## Concepts
-- [[The Cataclysm]] — Devastation of Stark after Emperor Shen’s Starfall attack broke the sky and released Arkadia’s waters
-- [[Genesis Mundi]] — Natural renewal of reality, no longer accelerated by the party's destroyed Demi-Spell
-- [[Demi-Spell]] — World-remaking spell erased by Red Caesar, its blank pages becoming Broy's governing charter
-- [[Touching the Sky]] — Titan rite with cosmic implications for Domyx and the broken sky
-- [[Obvolvo Caelum]] — Red Caesar's Penumbra-condensing spell used to move Jack Harvey's vault hoard
-- [[Mana Sickness]] — Former plague whose source was ended and whose Southport victims recover by the epilogue
+- [[Demi-Spell]] — Completed world-remaking spell never cast; Red Caesar erased its magic and used its paper for Broy's charter
+- [[Genesis Mundi]] — Natural renewal of reality that continues independently of the destroyed Demi-Spell
+- [[Mana Sickness]] — Contagious illness from cursed Ninki Nanka; Deep Roses treated victims, and Southport recovered after the curse was removed
+- [[Obvolvo Caelum]] — Red Caesar's Penumbra-condensing spell, demonstrated by making Jack Harvey's vault hoard portable for delivery to Lyngbakr
+- [[The Cataclysm]] — Flooding of Stark after Emperor Shen's Starfall attack; drowned lands reemerged as excess waters drained into the Gray Wastes
+- [[Touching the Sky]] — Titan rite of physical contact with Aeris; Domyx's ascent exposed Emperor Shen's suppressed earlier achievement
 
 ## Deities
 - [[Aeris]] — Restored sky goddess who aids the final battle and welcomes Vokenar home after the divine mission succeeds

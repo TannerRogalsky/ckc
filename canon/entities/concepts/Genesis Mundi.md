@@ -11,18 +11,38 @@ related:
   - "[[Vanir]]"
 ---
 
-The fixed point between the end of one world and the beginning of the next: the creation of worlds after everything begins again. It occurs regardless of mortal action.
+# Genesis Mundi
 
-[[Alamar]] explained in session 013 that [[Genesis Mundi]] can only truly be used once because it remakes the world, restarting memories and souls along with physical reality. He acknowledged that this could undo much of [[The Cataclysm]]'s harm but would also undo good that has grown since, and advised obeying the goddesses if they oppose it.
+Genesis Mundi is the natural renewal of reality at the boundary between one world's end and the next world's beginning. It remains distinct from the destroyed [[Demi-Spell]], which was intended to accelerate and guide that renewal.
 
-In session 014, [[Feronia Caeradel]] clarified that the [[Demi-Spell]] casts, expedites, and modifies Genesis Mundi by adding guidelines to influence the next world's creation. [[Rizolvir Kiirnodel]] warned that the [[Broyish Empire]] opposed the Order's attempt to bring about Genesis Mundi.
+## Description
 
-In session 022, [[Vokenar]] cast Legend Lore to learn more about Genesis Mundi. The revelation confirmed that Genesis Mundi is a natural event that can be spurred on by the Demi-Spell but will happen regardless. Each occurrence wipes clean all of reality — including the magic that allows Legend Lore to work — and restarts the world in a new place. However, certain threads carry over: important souls, structures, and the shape of the land sometimes persist. For example, if [[Kaedon]] is important enough, it might still exist from one world to the next. The Demi-Spell can change the parameters of Genesis Mundi to fit certain rules, potentially making the new world more closely adhere to the one that came before.
+The cycle recycles the worlds and their elements into a new creation. It occurs eventually regardless of mortal intervention. The [[Gray Wastes]] are part of the reality renewed along with [[Stark]].
 
-## Session 036
+The Demi-Spell was a method of influencing this process rather than its source. [[The Order of Seasons]] sought to bring renewal sooner and add guidelines for the next world.
 
-The [[Gray Wastes]] are part of the reality recycled when Genesis Mundi remakes the worlds. [[Domyx I]] told [[Red Caesar]] that the war between the [[Vanir]] and [[Aesir]] recurs with the cycle, claiming the titans had prevailed in other worlds and promising their future rule. Those claims about earlier and future outcomes remain unverified. Red Caesar resisted pressure to reveal the [[Demi-Spell]], leaving the means of accelerating renewal out of Domyx I's sight.
+## Effects and Limitations
 
-## Session 038
+[[Vokenar]]'s Legend Lore revealed that each renewal wipes clean reality, including the magic through which earlier cycles might be investigated. Even that divination could not establish how many worlds had preceded the present one.
 
-[[Red Caesar]] destroyed the completed [[Demi-Spell]], leaving the present world to continue instead of forcing its renewal. [[Ceril's Star]] lies outside the ordinary reach of divine time; [[Ceril]] could remain there through a future Genesis Mundi or choose to enter the renewed world. That eventual choice has not been made.
+Memories and souls restart, yet some important threads may recur: people or souls, structures, and the shape of the land can return. [[Kaedon]] was given as a conditional example of a place that might reappear if sufficiently important. Recurrence does not guarantee that every person or place survives unchanged.
+
+The Demi-Spell could alter the renewal's parameters and make the next world more closely resemble its predecessor. That offered a possible way to undo the harm of [[The Cataclysm]], but could also erase good that had developed afterward.
+
+## Campaign History
+
+[[Alamar]] initially discussed Genesis Mundi and the Demi-Spell as the same undertaking. He reasoned that renewal could effectively be used only once by the people of the present world, because their memories, souls, and surroundings would restart. He acknowledged both the possible recovery of losses and the erasure of later good, and advised respecting the goddesses if they opposed it.
+
+At [[House Kiirnodel]], [[Feronia Caeradel]] clarified the distinction between the natural fixed point and the spell that would expedite and modify it. [[Rizolvir Kiirnodel]] warned that the [[Broyish Empire]] opposed The Order of Seasons' attempt to bring about renewal.
+
+Vokenar's later Legend Lore confirmed the natural cycle and its independence from the Demi-Spell, while establishing the limits of knowledge about earlier worlds. It described possible recurring threads without guaranteeing an identical recreation.
+
+In the Gray Wastes, [[Domyx I]] told [[Red Caesar]] that the war between the [[Vanir]] and [[Aesir]] repeated with the cycle. He claimed that the titans had won in previous worlds and promised their rule in the next. Those earlier victories and future outcomes remained his unverified claims. Red Caesar resisted pressure to reveal the Demi-Spell, keeping the means of accelerating renewal from him.
+
+The party ultimately saved the existing world without forcing a new creation. Red Caesar erased the completed Demi-Spell instead of casting it.
+
+## Final Status
+
+Genesis Mundi remains the world's eventual natural renewal; destruction of the Demi-Spell did not abolish it. The present world continued rather than being deliberately reset.
+
+[[Ceril's Star]] lies outside the goddesses' ordinary influence over time. [[Ceril]] could remain there through a future renewal or choose to enter the new world. That distant choice was still unsettled at the campaign's end.

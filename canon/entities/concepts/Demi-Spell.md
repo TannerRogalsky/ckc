@@ -20,38 +20,54 @@ related:
   - "[[Domyx]]"
 ---
 
-A completed spell, later erased by [[Red Caesar]], developed by [[The Order of Seasons]] to rewrite the past and undo the damage caused by [[The Cataclysm]]. Described as a "grand reassembly of the elements" that changes history rather than merely predicting the future.
+# Demi-Spell
 
-[[Osiris Dims]] stated the Demi-Spell may be less than a year away and that the Order has acquired "rare possessions" to speed up their research. The spell would drastically change the world below, though its exact effects on existing people are unclear. The Order believes the past is so ruined that all timelines leading forward lead to calamity.
+The Demi-Spell was a world-remaking spell developed by [[The Order of Seasons]] to undo the damage of [[The Cataclysm]]. It was completed and entrusted to the party, but never cast. [[Red Caesar]] ultimately erased its magic after the existing world was saved.
 
-Decades ago, someone tried to stop the Demi-Spell and destroy all who knew it — possibly [[Morel Chainsunder]]. They were "quelled" and wanted the world to flood even further.
+## Description
 
-The Demi-Spell works by going to the far future until everything has begun again — recycling all souls and elements of the world. Some places and people will always come back; others won't. The cycle necessarily breaks due to chaos, so the new world will have different catastrophes, wars, and nations, though every world eventually ends in entropy and [[Genesis Mundi]].
+The spell was an immense written work, closer to an encyclopedia than a single scroll. Its volumes catalogued plants, animals, and other things intended to exist in the renewed world, joined by hexagrams, pentagrams, and mathematical structures. The completed text combined mortal and heavenly languages with arcane notation.
 
-The spell is written as volumes upon volumes — not a scroll but an encyclopedia of things that ought to exist, with hexagrams, pentagrams, and mathematical structures linking it all. [[Keys Caeradel]] works on writing it at [[The Academy]], spending hours on the spell followed by ten hours of divinations to ensure more good than harm. [[Aramil Kiirnodel]] is primarily behind keeping its power growing.
+[[Keys Caeradel]] was a principal author at [[The Academy]], working alongside other researchers and scribes. [[Aramil Kiirnodel]] was described as a major force sustaining the project's growth and power.
 
-[[Penumbra]] pieces are used as energy sources to accelerate the Demi-Spell, saving the lives of those who would otherwise drain themselves casting it. The spell itself can harm those who commit their soul to its casting.
+## Effects and Limitations
 
-The Demi-Spell is more powerful than the gods — "the one thing mortals have over them." The gods are almighty (more powerful than any mortal thing) but not omnipotent; the Demi-Spell is the exception.
+The researchers described the spell as a grand reassembly of the world's elements. Although presented as rewriting the past, its method was to advance to the far future, when souls and elements would be recycled and a new world could begin. Some people and places were expected to return; others might not. The consequences for those already living could not be fully guaranteed.
 
-The [[Genesis Mundi]] is the underlying force of nature — the fixed point between the end of one world and the beginning of the next. It occurs no matter what; the Demi-Spell merely expedites and modifies it. The Demi-Spell puts guidelines on the Genesis Mundi to ensure some things don't go awry. Without the Demi-Spell, the Genesis Mundi still happens but with fewer controls. [[Feronia Caeradel]] described the Demi-Spell as having "a few extra rolls" of the dice to influence outcomes.
+[[Genesis Mundi]] is the natural renewal underlying that process. The Demi-Spell would accelerate it and impose guidelines on the next world's creation. [[Feronia Caeradel]] explained that these guidelines offered additional chances to influence the outcome rather than complete control. The researchers expected chaos to prevent an identical repetition: future catastrophes, wars, and nations would differ, even though renewed worlds would eventually reach entropy again.
 
-The party negotiated an accord with the Order: the party will stop collecting new Penumbra for now, and if their own plan to fix the sky fails, they will give all collected Penumbra to the Order. The Order granted the party access to teleport circles.
+[[Illidrielle Gandara]] described the spell as a mortal power surpassing even the gods. [[The Academy]]'s discussion distinguished the gods' overwhelming might from omnipotence; divine power did not make every outcome possible or place the gods outside the spell's intended effects.
 
-In session 034, [[Rizolvir Kiirnodel]] acknowledged that stopping [[Boril Erendel]] would advance the Order's ability to cast the Demi-Spell. He agreed to stop urging [[Keys Caeradel]] to cast it and give the party time to save the existing world. In exchange, the party accepted the task of confronting Boril Erendel at [[House Erendel]], where multiple replacement bodies were already active.
+Casting required immense energy and could harm people who committed their souls to it. [[Penumbra]] supplied power that would otherwise be drawn from the casters' lives, accelerating the work and reducing that sacrifice. Extensive divination accompanied the writing to test whether the proposed changes would do more good than harm.
 
-## Session 035
+The completed text itself was dangerous to study. It overwhelmed Red Caesar, although his ability to siphon sky energy could extinguish it permanently through sustained contact. [[Vokenar]] could read and enact it. [[Domyx]] could read and carry it safely, but could not cast it. Those capabilities did not establish that the spell was ever used.
 
-By the party's return to [[The Academy]], [[Keys Caeradel]] had completed the spell and accumulated enough power to cast it. [[Boril Erendel]]'s defeat ended his active replacement-body project. Keys Caeradel initially argued that the moon's destruction and the world's suffering justified casting, but conceded that he should not determine the next world alone. On the [[Rakshasa]]'s advice, he handed the spell to the party and departed.
+## Campaign History
 
-The text combines several mortal and heavenly languages with arcane notation. [[Vokenar]] can read and enact it. Studying it overwhelms [[Red Caesar]], but his ability to siphon sky energy can permanently extinguish it through sustained contact. [[Domyx]] can read and carry it without harm, yet cannot cast it. [[Ceril]] rejects it as unnatural and refuses to study it; he objects to Red Caesar holding it and proposes Vokenar as custodian.
+### Research and the First Accord
 
-At the end of session 035, Red Caesar held the intact spell as a last resort, with the option of destroying it.
+Before the party's debate at [[The Academy]], [[Osiris Dims]] reported that rare acquisitions had accelerated [[The Order of Seasons]]' research and that completion might be less than a year away. He explained the researchers' belief that the world's past was so damaged that every available future led toward calamity.
 
-## Session 036
+[[Gossa]] also reported that an opponent had tried decades earlier to stop the project and destroy everyone who knew the spell. According to her account, that person had been suppressed and had wanted the world to flood further. Vokenar wondered whether this was connected to [[Morel Chainsunder]]; the conversation did not establish that identity.
 
-During [[Red Caesar]]'s contact with [[Domyx I]] in the [[Gray Wastes]], the titan's promises of renewed divine war drew Red Caesar toward revealing the spell. He endured psychic pressure rather than show it. [[Vokenar]] restored him from the trance; the spell remained intact and in Red Caesar's custody.
+At [[The Academy]], the party challenged both the uncertainty of the proposed world and the researchers' authority to choose it for everyone. Keys Caeradel's work involved far more time checking the consequences through divination than writing the spell itself. That care did not settle the moral disagreement.
 
-## Session 038
+The party and [[The Order of Seasons]] reached a conditional accord. The party would pause collection of new Penumbra while retaining what it already held. If its attempt to repair the sky failed, it would give its collected Penumbra to The Order of Seasons. The agreement provided access to teleportation circles without requiring the party to endorse remaking the world.
 
-After the party saved the existing world, [[Red Caesar]] erased the spell without destroying its paper. He used the blank pages to draft the laws of a new [[Broy]] with [[Vizier Jade]]. The completed spell was never cast, and its power is no longer available as the party's last resort. Its destruction does not end the natural cycle of [[Genesis Mundi]].
+### Completion and Entrustment
+
+When the party later returned to [[Brimbolyn]], [[Rizolvir Kiirnodel]] acknowledged that stopping [[Boril Erendel]] would advance the researchers' project. He feared that Boril Erendel's interference would produce a world restoring only elves. Red Caesar agreed to confront the wizard at [[House Erendel]] in exchange for Rizolvir Kiirnodel ceasing, for a time, to press Keys Caeradel to cast the spell. Replacement bodies were already active at the estate.
+
+Boril Erendel's defeat ended that active project. By the party's return to The Academy, Keys Caeradel had completed the Demi-Spell and gathered sufficient power to cast it. The moon's destruction and the world's continuing suffering strengthened his wish to use it, but he accepted that he should not determine the next world alone. On the [[Rakshasa]]'s advice, he handed the completed work to the party and departed.
+
+[[Ceril]] regarded the spell as unnatural, refused to study it, and objected to Red Caesar becoming its custodian. He preferred Vokenar to carry it. Vokenar instead trusted Red Caesar's judgment and offered to cast it only in dire need. Domyx could serve as a safe carrier if necessary. Red Caesar retained the intact spell as a last resort, preferring its destruction to its use by someone the party opposed.
+
+### The Last Resort and Its Erasure
+
+During Red Caesar's contact with [[Domyx I]] in the [[Gray Wastes]], the titan's promises of renewed divine war drew him toward revealing the spell. Red Caesar endured the pressure rather than show it. Vokenar restored him from the trance, and the spell remained intact in his custody.
+
+After the party saved the existing world, Red Caesar chose to preserve its losses and achievements rather than restart reality. He erased the spell while leaving its paper intact, then used those pages to draft [[Broy]]'s governing charter with [[Vizier Jade]].
+
+## Final Status
+
+The completed spell was never cast, and its magic no longer survives as the party's last resort. Its paper became the charter of the new Broy. Erasing the Demi-Spell did not end the natural cycle of Genesis Mundi.

@@ -703,3 +703,16 @@
 ## [2026-10-04] review | Checked compact article structure for Wand of Blighting Bolts.
 ## [2026-10-04] review | Checked compact article structure for Wyvern Poison.
 ## [2026-10-04] lint | Validated 56 item articles, preserved facts and provenance, 636 wiki links, complete entity index, and alphabetical logging.
+## [2026-10-04] query | Reviewed six concept articles, existing entity structures, and supporting campaign sources.
+## [2026-10-04] update | Added concept article structure and adaptation guidance to AGENTS.md.
+## [2026-10-04] lint | Validated concept instructions, campaign examples, existing-rule compatibility, formatting, change scope, and append-only logging.
+## [2026-10-04] query | Inventoried six concepts and verified definitions, histories, workings, and outcomes against campaign sources.
+## [2026-10-04] restructure | Applied concept article structure to Demi-Spell.
+## [2026-10-04] restructure | Applied concept article structure to Genesis Mundi.
+## [2026-10-04] restructure | Applied concept article structure to Mana Sickness.
+## [2026-10-04] restructure | Applied concept article structure to Obvolvo Caelum.
+## [2026-10-04] restructure | Applied concept article structure to The Cataclysm.
+## [2026-10-04] restructure | Applied concept article structure to Touching the Sky.
+## [2026-10-04] update | Aligned and alphabetized concept index descriptions; appended source-supported concept appearances.
+## [2026-10-04] lint | Corrected sky-light witness attribution in The Cataclysm and Starfall against the transcript.
+## [2026-10-04] lint | Validated six concept articles, Starfall correction, preserved facts and provenance, 187 links, complete entity index, and alphabetical logging.

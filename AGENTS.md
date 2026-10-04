@@ -299,7 +299,7 @@ After writing:
 
 # Character Article Structure
 
-Apply this structure when creating or deliberately reorganizing character files, including party members and NPCs. Use the exact section names and order below; omit optional sections without substantive source-supported content. This is a body layout, not a change to the frontmatter schema. Vessels follow Vessel Article Structure; organizations follow Organization Article Structure; creatures follow Creature Article Structure; other entity types retain their existing layouts.
+Apply this structure when creating or deliberately reorganizing character files, including party members and NPCs. Use the exact section names and order below; omit optional sections without substantive source-supported content. This is a body layout, not a change to the frontmatter schema. Vessels follow Vessel Article Structure; organizations follow Organization Article Structure; creatures follow Creature Article Structure; concepts follow Concept Article Structure; other entity types retain their existing layouts.
 
 ## Opening and Section Order
 
@@ -487,6 +487,66 @@ After writing:
 - Preserve frontmatter identity, `session_introduced`, and existing appearance history. Reorganization alone establishes no new appearance; append sessions only when verified. Validate schema compliance, quoted session values, aliases, meaningful `related` links, and entity and source links.
 - Confirm exactly one correctly categorized index entry per entity file. Update descriptions and affected linked articles when canon is materially corrected; accurate descriptions need no change for layout alone.
 - Apply the relevant Post-Ingest Validation checks and append operations to `log.md`. Reorganization alone does not change quest status.
+
+# Concept Article Structure
+
+Apply this structure when creating or deliberately reorganizing concept files in `canon/entities/concepts/`. This small, varied category includes spells, cosmological processes, rites, historical catastrophes, and magical illness. Follow the compact Description, Campaign History, and Final Status approach used for items and creatures, with an optional Effects and Limitations section for subjects whose workings need a separate explanation. This is a body layout, not a change to the frontmatter schema. Retain `type: concept` and use the established `spell`, `lore`, and `cosmology` subtypes where supported; this layout alone does not authorize recategorization or require new subtypes.
+
+## Opening and Section Order
+
+After frontmatter, use `# Canonical Name`, matching the filename, followed by a short introduction defining the subject, identifying its nature, and explaining its campaign significance. Make clear whether it is a spell, recurring process, particular historical event, cultural practice, or condition. Keep the definition consistent with the last established state, distinguishing a former threat or available spell from its outcome.
+
+Use the exact section names and relative order below. Omit a section when its substantive information fits in the introduction or another section without duplication.
+
+| Order | Exact heading | Content and boundaries |
+|---|---|---|
+| 1 | `## Description` | What the concept is: its defining nature, source-supported origins or causes, recognizable manifestations, and cultural or cosmological context. A spell's written form, an illness's visible symptoms, and a rite's meaning belong here. Distinguish the concept from its practitioners, physical carriers, causes, and related concepts. Put the detailed sequence of an event or discovery in Campaign History. |
+| 2 | `## Effects and Limitations` | What the concept does or changes, who or what it affects, and its established constraints, risks, prerequisites, countermeasures, or treatments. Explain workings at a narrative level. Distinguish intended effects, demonstrated results, and attributed theories; separate enduring properties from circumstances of a particular use. Avoid numerical mechanics, casting instructions, exhaustive spell-component lists, and unsupported rules. Omit this section when Description already explains the workings clearly. |
+| 3 | `## Campaign History` | A chronological synthesis of consequential development, occurrences, discoveries, uses, attempts, disagreements, and responses. Explain what changed in the world or in the party's understanding and why it mattered. Include a pre-campaign event's meaningful sequence here while distinguishing the event from the later testimony or revelation about it. Preserve outcomes and aftermath without reproducing the party's itinerary, research bookkeeping, or combat logs. |
+| 4 | `## Final Status` | The last established state and continuing consequences, including any epilogue. For a spell, distinguish completion, availability, use, suppression, and destruction; for an event, describe its established legacy; for a condition, distinguish treatment, removal of its source, and recovery. A recurring natural process may remain part of the world's cosmology without having occurred during the campaign. Separate accomplished outcomes from intentions or predictions, and preserve meaningful uncertainty. |
+
+## Adapting the Structure to the Subject
+
+- **Spells and magical methods:** Preserve their purpose, creators, distinctive principles, significant users, and narrative costs or dangers. Explain how research, access, custody of written knowledge, and decisions about use changed over time. Distinguish knowing, reading, carrying, and casting a spell. A spell's text, its magic, and the physical material carrying it can have different fates. Apply item custody rules to an established physical carrier, not to the abstract concept or everyone who once used it.
+- **Historical events and cosmological processes:** Distinguish a particular occurrence from a recurring cycle and from a method intended to trigger or influence it. Preserve supported causes, affected peoples and places, lasting changes, and conflicting accounts. Do not turn hypothetical earlier cycles into recorded history, predicted recurrence into a completed event, or later repair into an assertion that the original losses were undone.
+- **Illnesses and other magical conditions:** Describe supported symptoms, affected communities, origins, spread, and treatments without importing medical or game lore. Curing an individual, preventing reinfection, removing the source, and recovering as a community are separate outcomes. Preserve their sequence and geographic scope; a local recovery does not by itself establish universal eradication. Treat numerical recovery forecasts as testimony when meaningful, not as a confirmed recovery date.
+- **Rites and other lore:** Explain established meaning, participation, cultural consequences, and significant practitioners. Separate customary expectations from what an individual actually did, and cultural judgments from demonstrated cosmic effects. Do not infer universal rules or moral qualities from a single participant's account.
+
+## Chronology, Evidence, and Connections
+
+Campaign History owns the detailed event sequence. Description defines the subject, Effects and Limitations explains its workings when necessary, and Final Status synthesizes the outcome. Order history by established in-world chronology, using session and chunk order when uncertain. Integrate new material into these sections or descriptive `###` subdivisions; do not append competing `## Session NNN`, Research Notes, or Miscellaneous sections. Session summaries and transcripts retain the fuller event record.
+
+Existing concept prose is a starting point, not authority for consequential ambiguities. Verify definitions, causal claims, scope, and outcomes against session summaries and source chunks. Attribute testimony, divination, dreams, suspicions, and disputed explanations. Preserve earlier uncertainty when it remains unresolved; when later evidence settles it, make the established definition clear while retaining the meaningful history of discovery. Do not invent missing origins, abilities, cures, or future outcomes from external lore.
+
+Follow Lore Concepts when deciding whether terms are identical. A natural process and a spell that accelerates it remain distinct when the sources distinguish them, even if an earlier speaker used the names interchangeably. Explain meaningful connections with canonical wiki links and curated `related` entries, rather than merging distinct concepts into aliases. Link significant creators, practitioners, affected communities, deities, places, materials, and countermeasures where they help explain the subject; a separate roster of everyone who mentioned it is unnecessary.
+
+Use canonical names throughout prose and link labels, keeping spelling variants in aliases. Preserve verified supporting references and retain session provenance in frontmatter. Locate supporting sessions or chunks for consequential older claims before reorganizing them; never guess provenance. The last-user default for items does not establish continued use of a spell, persistence of an illness, or recurrence of an event.
+
+## Scaling and Campaign Examples
+
+Brief concepts may need only an introduction and selected sections. Do not create empty headings, generic Unknown placeholders, or repeat a single fact to fill the layout. Substantial concepts should use the sections with meaningful information, including Campaign History and Final Status. Effects and Limitations is useful only when it improves retrieval beyond Description. Optional `###` subdivisions may organize major research or historical arcs without creating a separate template for every kind of concept.
+
+These examples guide placement; verify the underlying sources when rewriting rather than copying this section as canon.
+
+- **Demi-Spell:** Separate the intended remaking of reality and its risks from the research, negotiations, completion, transfer, and decision to erase it. Final Status distinguishes the destroyed spell from the surviving paper used for Broy's charter and from the natural Genesis Mundi.
+- **Genesis Mundi:** Define the natural renewal independently of the Demi-Spell. Explain the limits of knowledge about previous cycles and attribute claims about earlier or future divine wars. The spell's destruction does not end the underlying cycle or settle Ceril's eventual choice.
+- **The Cataclysm:** Preserve the historical flooding, its causes, and its consequences. Distinguish witnesses' observations and the party's developing explanation from later evidence about Emperor Shen and Starfall. The world's subsequent recovery does not erase the disaster or every loss.
+- **Touching the Sky:** Explain the titan rite, its cultural meaning, and its physical contact with Aeris. Place consequential revelations about Domyx and the earlier climber in history, preserving uncertainty about motives rather than treating ambition as inherently good or evil.
+- **Obvolvo Caelum:** Keep the Penumbra-condensation principle distinct from the dream discovery and the demonstrated transport of Jack Harvey's hoard. Distinguish demonstrated use from proposed applications and from Antumbra, the separate sabotaged material.
+- **Mana Sickness:** Separate symptoms and spread from Deep Roses' treatment of individual victims, the removal of Ninki Nanka's curse, and Southport's later recovery. Keep the end of new infections distinct from the time needed for existing victims to recover.
+
+## Reorganization and Maintenance Checks
+
+Before restructuring, inventory distinct definitions, origins, workings, limits, claims, relationships, occurrences, discoveries, responses, outcomes, and unresolved questions. Preserve each substantive fact and meaningful uncertainty in an appropriate section, or correct it from evidence. Merge duplication without flattening distinct concepts or losing the reasoning behind significant decisions.
+
+After writing:
+
+- Confirm the canonical title, exact section names and relative order, and absence of empty sections, duplicates, and session appendices.
+- Compare the result with the fact inventory and sources. Preserve meaningful workings, consequences, and uncertainties without routine mechanics, aliases in prose, table commentary, or unsupported lore.
+- Check chronology and agreement between the definition, effects, history, and final state. Distinguish intended effects from demonstrated results, events from discoveries, concepts from physical carriers, and local outcomes from broader claims.
+- Preserve frontmatter identity, `session_introduced`, and existing appearance history. Reorganization alone establishes no new appearance; append sessions only when verified. Validate schema compliance, quoted session values, aliases, meaningful `related` links, and entity and source links.
+- Confirm exactly one correctly categorized index entry per entity file. Update descriptions and affected linked articles when canon is materially corrected; accurate descriptions need no change for layout alone.
+- Apply the relevant Post-Ingest Validation checks and append operations to `log.md`. Reorganization alone does not change quest status or supply closure to unresolved outcomes.
 
 # Session Summation
 
