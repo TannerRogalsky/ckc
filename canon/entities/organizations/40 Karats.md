@@ -4,22 +4,25 @@ subtypes: ["crew-org"]
 session_introduced: "011"
 sessions_appeared: ["011", "015", "018", "019", "021", "022", "027", "028", "029", "030", "034", "038"]
 aliases:
+  - "40 Carats"
   - "40-carats"
   - "40-carat"
+  - "40-karats"
+  - "40-karat"
 related:
   - "[[Jack Harvey]]"
   - "[[Kerben]]"
   - "[[Theo Harvey]]"
-  - "[[The Carrot Cake]]"
+  - "[[The Karat Cake]]"
 ---
 
-# 40 Carats
+# 40 Karats
 
-40 Carats is the entertainment company and traveling troupe founded by [[Jack Harvey]] and later revived under [[Kerben]]. Its surviving performers and the legacy preserved at [[The Carrot Cake]] allowed Kerben to rebuild a community from his former life.
+40 Karats is the entertainment company and traveling troupe founded by [[Jack Harvey]] and later revived under [[Kerben]]. Its surviving performers and the legacy preserved at [[The Karat Cake]] allowed Kerben to rebuild a community from his former life.
 
 ## Identity and Background
 
-Before [[The Cataclysm]], Kerben worked for the traveling company. Its carrot-and-diamond emblem also marked The Carrot Cake, Jack Harvey's distinct amusement park. Company members and branded materials survived the disaster even after its old routes were submerged.
+Before [[The Cataclysm]], Kerben worked for the traveling company. Its carrot-and-diamond emblem also marked The Karat Cake, Jack Harvey's distinct amusement park. Company members and branded materials survived the disaster even after its old routes were submerged.
 
 ## Leadership and Membership
 
@@ -30,17 +33,17 @@ Before [[The Cataclysm]], Kerben worked for the traveling company. Its carrot-an
 
 ## Holdings and Resources
 
-The Carrot Cake preserved company branding and materials, but the park and the traveling troupe are distinct entities. The survivors Theo Harvey found in [[Cutlass Cray]] and [[The Garden]] provided the people needed for the revival. Kerben's command of [[The Opal]] does not by itself establish the vessel as company property.
+The Karat Cake preserved company branding and materials, but the park and the traveling troupe are distinct entities. The survivors Theo Harvey found in [[Cutlass Cray]] and [[The Garden]] provided the people needed for the revival. Kerben's command of [[The Opal]] does not by itself establish the vessel as company property.
 
 ## Campaign History
 
-The party's exploration of The Carrot Cake brought Kerben back into contact with Jack Harvey's surviving creations and the company's old identity. Theo Harvey's escape from imperial guards, enabled by Kerben, later made a different kind of recovery possible.
+The party's exploration of The Karat Cake brought Kerben back into contact with Jack Harvey's surviving creations and the company's old identity. Theo Harvey's escape from imperial guards, enabled by Kerben, later made a different kind of recovery possible.
 
 Before the final battle, Kerben met Vorgan of the Stage in Cutlass Cray and recruited him aboard The Opal. Their shared company history helped provide the expanding crew with an entertainer.
 
 At [[Obould]] and [[Lady Jacinthe]]'s wedding, Theo Harvey offered the assembled former performers to Kerben. Kerben chose rebuilding the troupe as his immediate future. As the oceans receded, its old routes became accessible again; Kerben also found Jack Harvey's grave near [[Esperanto]] and paid his respects.
 
-The reunion succeeded. Kerben spent the next part of his life leading 40 Carats before returning to The Opal and sailing among the stars.
+The reunion succeeded. Kerben spent the next part of his life leading 40 Karats before returning to The Opal and sailing among the stars.
 
 ## Final Status
 

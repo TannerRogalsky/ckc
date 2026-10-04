@@ -14,7 +14,7 @@ related:
   - "[[Westerness]]"
   - "[[Alamar]]"
   - "[[Esperanto]]"
-  - "[[The Carrot Cake]]"
+  - "[[The Karat Cake]]"
 ---
 
 # Kaedon
@@ -27,14 +27,14 @@ The realm included the city surrounding the castle and nearby settlements such a
 
 ## Description
 
-Kaedon's surviving material culture includes coins bearing [[King Maniasis]]'s profile found in [[Castle Kaedon Arena]], equestrian records, and a brewing tradition represented by [[Kaedonite Black Ale]]. Leisure travel and [[The Carrot Cake]]'s magical attractions connected its inhabitants with distant mountaintops.
+Kaedon's surviving material culture includes coins bearing [[King Maniasis]]'s profile found in [[Castle Kaedon Arena]], equestrian records, and a brewing tradition represented by [[Kaedonite Black Ale]]. Leisure travel and [[The Karat Cake]]'s magical attractions connected its inhabitants with distant mountaintops.
 
 ## Notable Areas
 
 - [[Westerness]] — The human city surrounding and leading to Castle Kaedon.
 - [[Castle Kaedon]] — The former castle, whose ruins yielded much of the party's evidence.
 - [[Taylin]] — A nearby settlement represented in a deceased visitor's testimony.
-- [[The Carrot Cake]] — Jack Harvey's amusement complex, created during the realm's prosperous era.
+- [[The Karat Cake]] — Jack Harvey's amusement complex, created during the realm's prosperous era.
 
 ## Inhabitants and Control
 

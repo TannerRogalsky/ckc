@@ -9,7 +9,7 @@ sessions_appeared:
 
 # Flame Skull
 
-Flame Skulls were tiny floating fiends encountered in [[The Carrot Cake]], despite their resemblance to undead skulls.
+Flame Skulls were tiny floating fiends encountered in [[The Karat Cake]], despite their resemblance to undead skulls.
 
 ## Description
 

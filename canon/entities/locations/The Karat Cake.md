@@ -4,6 +4,8 @@ subtypes: [landmark]
 session_introduced: "018"
 sessions_appeared: ["018", "022", "023", "024", "027", "028", "029", "030", "031", "038"]
 aliases:
+  - "Karat Cake"
+  - "The Carrot Cake"
   - "Carrot Cake"
 related:
   - "[[Kaedon]]"
@@ -21,12 +23,12 @@ related:
   - "[[King of the Hole]]"
   - "[[Hole on Wheels]]"
   - "[[Jade's Compass]]"
-  - "[[40 Carats]]"
+  - "[[40 Karats]]"
 ---
 
-# The Carrot Cake
+# The Karat Cake
 
-The Carrot Cake is [[Jack Harvey]]'s surviving amusement and refuge complex from old [[Kaedon]], connected with [[40 Carats]]. Its protected [[Penumbra]] hoard became the material that completed the repair of the sky.
+The Karat Cake is [[Jack Harvey]]'s surviving amusement and refuge complex from old [[Kaedon]], connected with [[40 Karats]]. Its protected [[Penumbra]] hoard became the material that completed the repair of the sky.
 
 ## Geography and Access
 
@@ -38,7 +40,7 @@ The party reached a man-made lagoon cut into the mountainside after its concealm
 
 ## Description
 
-The park bears the stylized carrot-and-diamond emblem of 40 Carats. Illusory bands play a jazzy waltz in its entrance corridor, amid tattered tents and horse hooks. Its midway boulevard contains trees from across [[Stark]] and beyond, fruiting together despite incompatible natural habitats. Some stalls remain powered while others stand empty.
+The park bears the stylized carrot-and-diamond emblem of 40 Karats. Illusory bands play a jazzy waltz in its entrance corridor, amid tattered tents and horse hooks. Its midway boulevard contains trees from across [[Stark]] and beyond, fruiting together despite incompatible natural habitats. Some stalls remain powered while others stand empty.
 
 Penumbra sustained the surviving midway and connected attractions. Illusions, arcane protections, electrical machines, automata, and hostile occupants made abandoned entertainment both functional and dangerous.
 
@@ -62,7 +64,7 @@ Jack Harvey built the complex during his business expansion, later converting it
 
 [[Farraday]], Jack Harvey's benefactor, was credited with the coliseum challenges. Undead in orange uniforms, [[Cloaker]], [[Flame Skull]], [[Hooksy the Clown Automaton]], and a [[Haunted Living Tent]] threatened the midway. [[The Tyrant]], sent by [[Vizier Jade]], became trapped inside and eventually occupied the vault.
 
-The amusement complex and 40 Carats are distinct. Reuniting the entertainment company did not establish ownership or restoration of every park destination.
+The amusement complex and 40 Karats are distinct. Reuniting the entertainment company did not establish ownership or restoration of every park destination.
 
 ## Campaign History
 
@@ -94,4 +96,4 @@ Opening it released ocean water into the midway. Beyond the airlock, the vault h
 
 The hoard was removed and fulfilled its role in repairing the heavens. The party's last vault expedition did not establish the park's later power supply, condition, or continuing seasonal access.
 
-The epilogue established Theo Harvey's reunion of surviving 40 Carats performers and Kerben's successful rebuilding of the troupe. Those outcomes preserved Jack Harvey's entertainment legacy without confirming that The Carrot Cake itself was rebuilt or reopened.
+The epilogue established Theo Harvey's reunion of surviving 40 Karats performers and Kerben's successful rebuilding of the troupe. Those outcomes preserved Jack Harvey's entertainment legacy without confirming that The Karat Cake itself was rebuilt or reopened.

@@ -4,13 +4,13 @@ session_introduced: "027"
 sessions_appeared: ["027", "029"]
 related:
   - "[[King of the Hole]]"
-  - "[[The Carrot Cake]]"
+  - "[[The Karat Cake]]"
   - "[[Farraday]]"
 ---
 
 # Mummy
 
-Mummies were undead humanoids encountered around [[The Carrot Cake]]'s entrance, [[Magic Hat]], and [[King of the Hole]].
+Mummies were undead humanoids encountered around [[The Karat Cake]]'s entrance, [[Magic Hat]], and [[King of the Hole]].
 
 ## Description
 

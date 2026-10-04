@@ -124,7 +124,7 @@ David Harvey asked the party to capture his cousin [[Theo Harvey]] alive. Theo H
 
 The warrens went deep below the old sea level and connected to tunnels near [[Esperanto]]. Some Harengon still lived in that larger network. They had begun developing it while more closely aligned with the Empire, then turned to the League. The tunnels did not yet provide a route into imperial territory, although Domyx hoped investigating them might reveal useful shortcuts.
 
-Asked about [[Jack Harvey]], David Harvey identified him as his great-uncle. He had not followed Jack Harvey's theatrical ambitions and knew little about what remained of [[40 Carats]]. Theo Harvey was a better prospect for that information: he had begun as a traveling minstrel and wanted an empire of spectacle like Jack Harvey's before pursuing piracy and imperial patronage.
+Asked about [[Jack Harvey]], David Harvey identified him as his great-uncle. He had not followed Jack Harvey's theatrical ambitions and knew little about what remained of [[40 Karats]]. Theo Harvey was a better prospect for that information: he had begun as a traveling minstrel and wanted an empire of spectacle like Jack Harvey's before pursuing piracy and imperial patronage.
 
 David Harvey praised Lady Jacinthe for protecting his displaced people, many of whom were now stranded on boats. His account added the dependence of that community to the party's knowledge of her coercion.
 
@@ -172,7 +172,7 @@ He also criticized the League's loose alliances and charity. In his view the Emp
 
 The party saw some practical value in carrying him east, without accepting his trustworthiness. Red Caesar considered him a bargaining chip because the Empire had committed soldiers to supporting him. Domyx warned that his quick tongue could turn any arrangement against them. Vokenar doubted that Theo Harvey would help, but also doubted they had time to backtrack to deliver him.
 
-Their interest in Jack Harvey gave the prisoner another opening. Theo Harvey said he had dedicated his life to his grandfather's projects and whispered to Vokenar that The Carrot Cake was alive and well, timing the revelation with the sphere's expiration. It was a claim that the old park survived, rather than a location or proof from the party's own exploration.
+Their interest in Jack Harvey gave the prisoner another opening. Theo Harvey said he had dedicated his life to his grandfather's projects and whispered to Vokenar that The Karat Cake was alive and well, timing the revelation with the sphere's expiration. It was a claim that the old park survived, rather than a location or proof from the party's own exploration.
 
 They decided to take him toward Broy as a prisoner. The bounty depended on delivery to David Harvey and the League, which they had not accomplished.
 
@@ -203,14 +203,14 @@ The Opal drew nearer to the coastline. Red Caesar remembered Vizier Jade's earli
 - At House Kiirnodel, Red Caesar warned about Boril Erendel's contributions to the Demi-Spell. At the elven market he traded The Jewel of Alfheimer for Boots of the Alvargard and bought Cloaks of Billowing; Ceril acquired the Branch of the Itinerant, and the group arranged mithril armor for Vokenar.
 - Vokenar hallowed The Opal and used Legend Lore to distinguish natural Genesis Mundi from the Demi-Spell. His Starfall divination established its infernal origin, capacity to pierce divine barriers, and use of Penumbra.
 - David Harvey offered a bounty for Theo Harvey's live return. The party defeated Theo Harvey's imperial allies, captured him, and found the warrens entrance without exploring its tunnels.
-- Theo Harvey claimed that The Carrot Cake survived and offered imperial connections. The party carried him east as a guarded prisoner, leaving his delivery to the League incomplete.
+- Theo Harvey claimed that The Karat Cake survived and offered imperial connections. The party carried him east as a guarded prisoner, leaving his delivery to the League incomplete.
 - Concern over his escape led the crew to skip Cutlass Cray. The session closed on the approach to Broy's dangerous coastline, where the new bow proved its worth.
 
 The divided journey brought the rescue and divine mission back together. Obould's captivity was the leverage by which Vizier Jade sought Penumbra, so the crew could not regard the captain's situation as entirely separate from repairing the sky. Lady Jacinthe's apparent refusal to help concealed both coercion and betrayal: she was trying to preserve Obould while exposing the party's movements. Ceril's investigation uncovered that connection, and he shared it fully with Red Caesar.
 
 The preparation also produced lasting changes. The Opal became faster, more capable of crossing hazardous water, and protected by Vokenar's sanctified spaces. New equipment broadened the companions' abilities. The divinations clarified the distinction between a natural renewal of reality and the spell that could accelerate and direct it, while revealing why imperial demand for Penumbra threatened more than a contest over resources.
 
-Theo Harvey complicated the eastward voyage. Capturing him served the League's request, but taking him to Broy substituted possible leverage and information for immediate delivery. His claim about The Carrot Cake linked the encounter to Kerben's older interests, while his success in charming crew members exposed the weakness of relying on the sea alone as a prison. At the close, Obould remained captive, the League's bounty remained uncollected, and the party had reached imperial waters with a useful but unreliable prisoner.
+Theo Harvey complicated the eastward voyage. Capturing him served the League's request, but taking him to Broy substituted possible leverage and information for immediate delivery. His claim about The Karat Cake linked the encounter to Kerben's older interests, while his success in charming crew members exposed the weakness of relying on the sea alone as a prison. At the close, Obould remained captive, the League's bounty remained uncollected, and the party had reached imperial waters with a useful but unreliable prisoner.
 
 ### Connections
 
@@ -220,4 +220,4 @@ Theo Harvey complicated the eastward voyage. Capturing him served the League's r
 - [[The Jewel of Alfheimer]] was recovered in [[session_018#Chunk 0001]]. Its trade here returned the artwork to the elves and gave Red Caesar the mobility he wanted.
 - Lady Jacinthe's Starfall account in [[session_019#Chunk 0002]] and the party's hypothesis in [[session_021#Chunk 0002]] preceded Vokenar's divination. The new revelation established an infernal origin and strengthened the connection to The Cataclysm.
 - The equipment and ship plans reviewed in [[session_021]] became purchases here. The improved bow materially enabled the closing approach to imperial waters.
-- David Harvey and Theo Harvey added family connections to Jack Harvey, while Theo Harvey's claim that The Carrot Cake survived advanced the search prompted by the castle's tickets and testimony.
+- David Harvey and Theo Harvey added family connections to Jack Harvey, while Theo Harvey's claim that The Karat Cake survived advanced the search prompted by the castle's tickets and testimony.

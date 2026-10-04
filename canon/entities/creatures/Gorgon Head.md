@@ -5,14 +5,14 @@ sessions_appeared: ["028", "029", "030"]
 related:
   - "[[Magic Hat]]"
   - "[[King of the Hole]]"
-  - "[[The Carrot Cake]]"
+  - "[[The Karat Cake]]"
   - "[[Flame Skull]]"
   - "[[Farraday]]"
 ---
 
 # Gorgon Head
 
-Gorgon Heads were floating, snake-wreathed monstrosities encountered in [[Magic Hat]] and [[King of the Hole]] within [[The Carrot Cake]].
+Gorgon Heads were floating, snake-wreathed monstrosities encountered in [[Magic Hat]] and [[King of the Hole]] within [[The Karat Cake]].
 
 ## Description
 

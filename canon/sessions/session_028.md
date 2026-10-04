@@ -14,7 +14,7 @@ summary: "The party redirects the Hole Shebang's electrical power, survives its 
 
 #### Scouting the electrical district
 
-The party remained in the [[Hole Shebang]] entrance chamber, where [[Red Caesar]] had learned the portal's sigils. Beyond the barred service doors lay another part of [[The Carrot Cake]]. Their immediate task was to find how this district could illuminate one of the four lamps sealing [[Jack Harvey]]'s inner grounds.
+The party remained in the [[Hole Shebang]] entrance chamber, where [[Red Caesar]] had learned the portal's sigils. Beyond the barred service doors lay another part of [[The Karat Cake]]. Their immediate task was to find how this district could illuminate one of the four lamps sealing [[Jack Harvey]]'s inner grounds.
 
 Red Caesar sent an Arcane Eye through a small opening used by the electrical wiring. Following narrow passages, it emerged into sunlight beside a sandy, partly pebbled shore. Rock overhangs enclosed stretches of the coast, while colorful birds and dense vegetation occupied the island's interior. [[Ceril]] recognized the plants, and [[Kerben]] identified the local animals as subtropical. Together their observations suggested that this attraction stood well south of their familiar maps, perhaps near [[Esperanto]]. They had inferred a broad region rather than determined an exact location.
 
@@ -42,7 +42,7 @@ Afterward the party rested briefly. Vokenar used Prayer of Healing, and the othe
 
 #### The Sky High Striker and the Tower of Treasures
 
-Domyx swam to the little island he had noticed earlier. Its Sky High Striker was a carnival strength test, with a seesaw mechanism, a tall scoring tower, and a bell at the top. Blue and white clouds decorated it, and the red-and-gold wooden mallet bore the park's forty-carat carrot emblem. Its sign offered one play per party, with better prizes for stronger strikes.
+Domyx swam to the little island he had noticed earlier. Its Sky High Striker was a carnival strength test, with a seesaw mechanism, a tall scoring tower, and a bell at the top. Blue and white clouds decorated it, and the red-and-gold wooden mallet bore the park's forty-karat carrot emblem. Its sign offered one play per party, with better prizes for stronger strikes.
 
 Domyx called the others over to watch and enlarged himself before wielding the mallet. His strike nearly reached the bell. Rather than resent falling short of perfection, he said the result left room for growth; a perfect score would have disappointed him by leaving nothing further to reach.
 
@@ -175,7 +175,7 @@ The party chose the Magic Hat. The session ended at the midway with that plan es
 - The balloon trap injured visitors but paid additional gold. The party also received a scented plush bodak souvenir.
 - Back at the midway, the companions confirmed one lamp was lit and chose the Magic Hat as their next destination.
 
-Hole Shebang revealed how entertainment, machinery, and danger had become inseparable in the abandoned park, The Carrot Cake. Games still recognized scores and dispensed prizes, friendly Magen remained willing to play, and living defenders activated among scenery that had appeared ruined. Even cutting the electrical supply did not end all the magic sustaining the district. The toys' repair, their replenishment by lightning, and the Smoke Elementals rising from burned debris made the environment itself part of the danger.
+Hole Shebang revealed how entertainment, machinery, and danger had become inseparable in the abandoned park, The Karat Cake. Games still recognized scores and dispensed prizes, friendly Magen remained willing to play, and living defenders activated among scenery that had appeared ruined. Even cutting the electrical supply did not end all the magic sustaining the district. The toys' repair, their replenishment by lightning, and the Smoke Elementals rising from burned debris made the environment itself part of the danger.
 
 The companions nevertheless found a concrete way to advance their search for Jack Harvey's hidden sky. Red Caesar's scouting supplied the route and theory; Domyx's willingness to cross the arcs turned it into action; the illuminated lamp later confirmed the result. Their optional exploration yielded considerable gold and a scroll, while costing consumable safeguards and leaving them in need of a longer recovery.
 
@@ -187,6 +187,6 @@ Domyx's experiment with his own resilience also exposed its limits. His companio
 - [[session_027#Chunk 0001|The earlier Hooksy encounter]] established the clown automaton's living flesh beneath metal. Red Caesar's salvaged mask came from that fight, while a second Hooksy appeared here.
 - Kerben's final use of Tatzelwurm Gizzard Juice drew on the creature harvested during [[session_024#Chunk 0002|the northern journey]]. The bottle-game prize records its consumption rather than continued possession.
 - Red Caesar's blighting wand and the party's emergency preparations came from [[session_027#Chunk 0000|Cutlass Cray]]. The protective feast helped Domyx and Zulu withstand the dart trap, while Domyx's anti-charm pendant was spent against Mary Andrews.
-- The coastal ecology supported the party's understanding of The Carrot Cake as linked resorts across Stark. Its precise island location remained an inference, and the phase cats appeared to be wildlife occupying the park rather than Jack Harvey's automata.
+- The coastal ecology supported the party's understanding of The Karat Cake as linked resorts across Stark. Its precise island location remained an inference, and the phase cats appeared to be wildlife occupying the park rather than Jack Harvey's automata.
 - The scroll's incompletely named Melf spell was identified as Melf's Acid Arrow when Red Caesar listed and used its magic in [[session_030#Chunk 0002|Session 030]].
 - The hotel choice leads into [[session_029#Chunk 0000|the Magic Hat visit]]. At this session's close, only the decision had been made; the party had not yet entered or rested there.

@@ -6,13 +6,13 @@ sessions_appeared:
   - "030"
 related:
   - "[[Hole Shebang]]"
-  - "[[The Carrot Cake]]"
+  - "[[The Karat Cake]]"
   - "[[King of the Hole]]"
 ---
 
 # Smoke Elemental
 
-Smoke Elementals were beings of fumes encountered in [[Hole Shebang]] and the optional [[King of the Hole]] challenge at [[The Carrot Cake]].
+Smoke Elementals were beings of fumes encountered in [[Hole Shebang]] and the optional [[King of the Hole]] challenge at [[The Karat Cake]].
 
 ## Description
 

@@ -4,13 +4,13 @@ subtypes: [enemy]
 session_introduced: "027"
 sessions_appeared: ["027"]
 related:
-  - "[[The Carrot Cake]]"
+  - "[[The Karat Cake]]"
   - "[[Jack Harvey's Portrait]]"
 ---
 
 # Haunted Living Tent
 
-The Haunted Living Tent was a gargantuan, stationary creature on [[The Carrot Cake]]'s midway that swallowed visitors into an extra-dimensional house.
+The Haunted Living Tent was a gargantuan, stationary creature on [[The Karat Cake]]'s midway that swallowed visitors into an extra-dimensional house.
 
 ## Description
 

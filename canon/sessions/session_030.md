@@ -94,7 +94,7 @@ The companions asked for their additional reward. Offered wealth, fame, or power
 
 The Magen created the [[Hopping Mad Sash]] by tearing off its own rabbit tail, enchanting it, and presenting it deferentially. The resulting sash or championship belt bore a heart-shaped buckle and a rabbit tail. It improved the wearer's leaping and could release a forceful shockwave when the wearer was brought to the brink of defeat. It did not establish the guaranteed survival from a knockout that Red Caesar had initially proposed.
 
-The party flipped the arena's lamplighter and returned to [[The Carrot Cake]]'s midway. Three of the four gate lamps were now visibly lit. Kerben still had not returned.
+The party flipped the arena's lamplighter and returned to [[The Karat Cake]]'s midway. Three of the four gate lamps were now visibly lit. Kerben still had not returned.
 
 Instead, [[Tango]] descended from overhead with a hurried note. Kerben had written only that they should speak with Tango. Ceril used Speak with Animals and relayed the bird's account to the others.
 
@@ -156,7 +156,7 @@ They pressed onward without resting, keeping Ceril's crab and Red Caesar's prote
 
 Red Caesar found an old travelogue on a bench as they moved through the cars. It recorded journeys around [[Stark]], including Esperanto and Windsurf, with portraits and paintings of the places visited. He collected the surviving keepsake.
 
-Farther ahead, he noticed a framed rendering of The Carrot Cake's midway. It combined an architectural view with decorative imagery and depicted Jack Harvey's final achievements for the park. That artwork joined their shared holdings.
+Farther ahead, he noticed a framed rendering of The Karat Cake's midway. It combined an architectural view with decorative imagery and depicted Jack Harvey's final achievements for the park. That artwork joined their shared holdings.
 
 The remaining enemies had withdrawn toward the front. Its door was locked and barricaded. Domyx's first kick failed to break through, warning the defenders and giving them time to reposition. Further kicks finally opened the way.
 

@@ -44,9 +44,9 @@ The neutral port was busy again. Imperial vessels were withdrawing from the wate
 
 The companions used diamonds from the dragon's hoard to seek new equipment. They agreed that Ceril would have first claim on the next comparable cache. Domyx held his share for a weapon purchase elsewhere, since the port's offerings did not suit that purpose.
 
-Kerben also searched for the entertainer his enlarged crew needed. At [[The Bad Hare Day Theatre]], he found [[Vorgan of the Stage]], an old member of [[40 Carats]]. Vorgan of the Stage was performing in a reenactment of the day the moon fell and Cutlass Cray defended itself. His role as [[The Wonder Hulk]] required an elaborate artificial costume. The production was reaching the end of its run, and the absence of [[Muudeep]] as the troupe's playwright had left him searching for new material. Muudeep was still alive and selling goods at [[The Garden]].
+Kerben also searched for the entertainer his enlarged crew needed. At [[The Bad Hare Day Theatre]], he found [[Vorgan of the Stage]], an old member of [[40 Karats]]. Vorgan of the Stage was performing in a reenactment of the day the moon fell and Cutlass Cray defended itself. His role as [[The Wonder Hulk]] required an elaborate artificial costume. The production was reaching the end of its run, and the absence of [[Muudeep]] as the troupe's playwright had left him searching for new material. Muudeep was still alive and selling goods at [[The Garden]].
 
-Kerben offered a berth aboard The Opal. Vorgan of the Stage wanted to experience the world, gather stories, and eventually help keep 40 Carats alive through new performances. He joined as an entertainer, with no claim that he had become a seasoned fighter. His arrival answered the crew's need for someone to sustain morale during long voyages and confinement within the ship's magical vessel.
+Kerben offered a berth aboard The Opal. Vorgan of the Stage wanted to experience the world, gather stories, and eventually help keep 40 Karats alive through new performances. He joined as an entertainer, with no claim that he had become a seasoned fighter. His arrival answered the crew's need for someone to sustain morale during long voyages and confinement within the ship's magical vessel.
 
 #### Lenth the Rugged's remains and the Ioun stones
 
@@ -84,7 +84,7 @@ Vokenar recognized the change in Domyx before it became an attack. His calming m
 
 The room was painted as a hellish city beneath an unfamiliar red sky, false constellations, and ten silver moons. A tall, masked figure waited beside a floating book. Kerben recognized his former employer, [[Farraday]], whom he had served before [[The Cataclysm]]. The keeper's identity also explained his connection to [[Jack Harvey]], who had held a higher place in the same enterprise.
 
-Farraday had never been buried in the supposed crypt the party had investigated. Its empty tomb and the trail toward [[The Carrot Cake]] had served another purpose. The account suggested that Jack Harvey had arranged guidance toward his hidden Penumbra for whoever eventually followed it, rather than establish that a mortal Farraday had died there.
+Farraday had never been buried in the supposed crypt the party had investigated. Its empty tomb and the trail toward [[The Karat Cake]] had served another purpose. The account suggested that Jack Harvey had arranged guidance toward his hidden Penumbra for whoever eventually followed it, rather than establish that a mortal Farraday had died there.
 
 The floating [[Tome of Satariel]] was Farraday's ledger of money, souls, and exchanges with hell. Its recorded victims and captured magical knowledge made it much more than an ordinary book. Before the party could negotiate, Farraday transformed his painted surroundings into a convincing illusion of hell and attacked their minds.
 
@@ -92,7 +92,7 @@ The floating [[Tome of Satariel]] was Farraday's ledger of money, souls, and exc
 
 Kerben immediately targeted the tome. His shots shattered its spine and scattered its pages before the magical bond with Farraday could restore it. Destroying the ledger severed a vital connection between the fiend's work in hell and his presence on [[Stark]], depriving him of the power the book might otherwise have supplied.
 
-Farraday's illusions also turned toward the dust and ruin of the old world, mocking the party's desire to recover what had been lost. Kerben broke their hold and recognized the painted walls as a constructed scene, much like the theatrical sets of 40 Carats. Domyx remained trapped in the false surroundings longer, but continued fighting until his blows broke that influence as well.
+Farraday's illusions also turned toward the dust and ruin of the old world, mocking the party's desire to recover what had been lost. Kerben broke their hold and recognized the painted walls as a constructed scene, much like the theatrical sets of 40 Karats. Domyx remained trapped in the false surroundings longer, but continued fighting until his blows broke that influence as well.
 
 Red Caesar and Farraday contested one another's magic throughout the confrontation. Farraday repeatedly prevented Red Caesar from establishing stronger protections or empowering Domyx. Red Caesar eventually overcame those defenses in return, stopping an attempt to imprison Domyx in a magical maze and preventing a lightning attack against the group. Their struggle over which spells could take effect shaped the battle as much as the blows exchanged nearby.
 
@@ -183,6 +183,6 @@ Farraday's defeat removed an old employer's hold on Kerben and an active fiendis
 - Antumbra was developed and planted among The White Drake's supply in [[canon/sessions/session_025#Chunk 0000]]. [[canon/sessions/session_033#Chunk 0003]] reported Emperor Shen's weakened position without identifying its cause. This session supplied a possible explanation and a conditional assessment of the sabotage's effects.
 - Obould's rescue in [[canon/sessions/session_031#Chunk 0004]] and his departure for The White Drake in [[canon/sessions/session_032#Chunk 0001]] made this retirement possible. His direct appointment of Kerben settled command while Obould was still alive.
 - The poisonous fungi and recovered tomb came from the Mana Sea expedition in [[canon/sessions/session_033#Chunk 0002]] and [[canon/sessions/session_033#Chunk 0003]], respectively. Their uses here completed separate threads from the Southport work.
-- The party first learned of the pyramid and its soul-filled tome in [[canon/sessions/session_023#Chunk 0000]]. Farraday's identification linked that threat to the stewardship of The Carrot Cake described in [[canon/sessions/session_030#Chunk 0000]].
+- The party first learned of the pyramid and its soul-filled tome in [[canon/sessions/session_023#Chunk 0000]]. Farraday's identification linked that threat to the stewardship of The Karat Cake described in [[canon/sessions/session_030#Chunk 0000]].
 - Red Caesar's first encounter with Yalet Aurum appears in [[canon/sessions/session_014#Chunk 0003]]. The promise of a later confrontation in [[canon/sessions/session_015#Chunk 0000]] reached its deceptive resolution here.
 - [[canon/sessions/session_032#Chunk 0000]] established Illidrielle Gandara's death and Keys Caeradel's continuing refusal to cast the Demi-Spell. Rizolvir Kiirnodel's bargain added political breathing room without changing those established choices.

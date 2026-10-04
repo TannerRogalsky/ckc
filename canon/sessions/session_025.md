@@ -70,7 +70,7 @@ To finish the diversion, Kerben revealed himself and acted as though he were bri
 
 #### The priests of Otyugh Isle
 
-After the sabotage, the Opal sailed for [[Otyugh Isle]]. Five days later, with nine days remaining before the predicted opening of [[The Carrot Cake]], the party returned to the [[Temple of Sigil]]. It still held twelve petrified priests and nineteen petrified Kuo-Toa. Their frozen poses preserved the interruption of their conflict by the cockatrice the party had previously encountered.
+After the sabotage, the Opal sailed for [[Otyugh Isle]]. Five days later, with nine days remaining before the predicted opening of [[The Karat Cake]], the party returned to the [[Temple of Sigil]]. It still held twelve petrified priests and nineteen petrified Kuo-Toa. Their frozen poses preserved the interruption of their conflict by the cockatrice the party had previously encountered.
 
 Ceril, Red Caesar, and Domyx examined the priests' clothing and religious equipment to identify someone likely to help restore the others. Red Caesar recognized signs of abjuration, and the group selected [[Father Warrick]], who appeared to be a senior cleric. Ceril freed him with Greater Restoration. Father Warrick's ash-pale complexion initially resembled the stone around him, but he was alive and could speak.
 
@@ -116,7 +116,7 @@ Ceril returned to gathering Deep Roses after the fight. The nearby wrecks had lo
 
 #### Witness's abandoned refuge
 
-After six days of sailing and rest, only three days remained before the predicted opening of The Carrot Cake. The party reached the [[Southern Archipelago Castle]] described by [[The Garden]] as the former home of [[Witness]]. The construct had mapped [[Stark]] before the flood and later lived with humans who sheltered in this castle. Something had driven him out.
+After six days of sailing and rest, only three days remained before the predicted opening of The Karat Cake. The party reached the [[Southern Archipelago Castle]] described by [[The Garden]] as the former home of [[Witness]]. The construct had mapped [[Stark]] before the flood and later lived with humans who sheltered in this castle. Something had driven him out.
 
 Red Caesar supplied stronger healing potions during the voyage. The four companions and Zulu entered the castle through waters fouled by a red algal bloom and the smell of decay. Inside, the human-scale passages forced Domyx to stoop. Black, sootlike pollen hung in the air, and bodies of different ages lay among damaged walls. The dead showed injuries from concentrated heat and crushing blows.
 
@@ -152,7 +152,7 @@ On the way out, Zulu drew Kerben to a side room they had overlooked. It held a t
 
 #### The next destination and an earlier conversation
 
-The party continued toward [[Xarag's Island]], where the black dragon [[Xarag]] had attacked the Opal at the beginning of their voyage. They wanted to recover the treasure lost under Obould's command as well as settle that earlier encounter. The three-day journey brought them to the island at the date when The Carrot Cake was predicted to become accessible. Its opening was understood from their information, not observed directly at this location. The companions rested before the next confrontation.
+The party continued toward [[Xarag's Island]], where the black dragon [[Xarag]] had attacked the Opal at the beginning of their voyage. They wanted to recover the treasure lost under Obould's command as well as settle that earlier encounter. The three-day journey brought them to the island at the date when The Karat Cake was predicted to become accessible. Its opening was understood from their information, not observed directly at this location. The companions rested before the next confrontation.
 
 The session ended with a flashback to Red Caesar's youth inside Heaven's Bulb. [[Master Lee]] asked what Red Caesar hoped to become once he no longer needed the compound and it no longer needed him. Red Caesar described life there as being part of a machine, valued for what one could produce. Outside, he wanted to understand how magic, people, and society fitted together.
 
@@ -168,7 +168,7 @@ Above them, the compound's ceiling had been built to imitate an outdoor sky. A c
 - Ceril restored Father Warrick, who freed several more priests. The clergy, the Indorras, and Rochella Golf left toward Southport, with the plague still unresolved.
 - The four remaining companions defeated the Bane Siren and gathered Deep Roses. At Witness's former refuge they recovered his incomplete chart and destroyed PAXO.
 - Red Caesar privately learned that Heaven's Bulb had tried and failed to help human flood refugees. The party recovered mithril, a lapis lazuli locket, PAXO's faceplate, Esperanto coins, and the Potion of Fluid Adamantite, which Red Caesar received.
-- They reached Xarag's Island as The Carrot Cake's predicted opening date arrived. A closing flashback connected Red Caesar's desire for understanding to Master Lee's teaching.
+- They reached Xarag's Island as The Karat Cake's predicted opening date arrived. A closing flashback connected Red Caesar's desire for understanding to Master Lee's teaching.
 
 The synthesis changed what the party could attempt. Penumbra had been a scarce resource they hoped to retrieve or redirect; Red Caesar's work made it something that could be produced, with consequences for both the attempt to repair Stark and the elves' competing plan to replace it. Cooperation with Keys Caeradel and Illidrielle Gandara therefore served immediate common interests while preserving their disagreement about the Demi-Spell. The altered sample gave the party a way to strike at Starfall without openly supplying the Empire with usable power.
 
@@ -176,7 +176,7 @@ Divine guidance eased their fear for Aeris, but the sabotage's practical outcome
 
 Those errands brought both help and loss into sharper focus. Father Warrick returned to a world changed by decades of absence, while the medicine for Southport remained aboard the Opal rather than in the hands of its patients. Witness's refuge revealed people who had survived the flood only to be murdered later. Their testimony also challenged any simple account of Heaven's Bulb's conduct. Red Caesar kept that discovery private even as he continued to act on the curiosity and responsibility Master Lee had encouraged.
 
-The session closed with new supplies, one incomplete chart, and the knowledge that Witness had been forced away rather than confirmed dead. The Opal was at Xarag's Island, the lost treasure remained to be recovered, and the predicted opportunity to enter The Carrot Cake had arrived elsewhere.
+The session closed with new supplies, one incomplete chart, and the knowledge that Witness had been forced away rather than confirmed dead. The Opal was at Xarag's Island, the lost treasure remained to be recovered, and the predicted opportunity to enter The Karat Cake had arrived elsewhere.
 
 ### Connections
 

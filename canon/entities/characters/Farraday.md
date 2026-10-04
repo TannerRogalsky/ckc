@@ -8,7 +8,7 @@ aliases:
   - Tome Keeper
 related:
   - "[[Kerben]]"
-  - "[[The Carrot Cake]]"
+  - "[[The Karat Cake]]"
   - "[[Jack Harvey]]"
   - "[[King of the Hole]]"
   - "[[Tome of Satariel]]"
@@ -19,7 +19,7 @@ related:
 
 # Farraday
 
-Farraday was an [[Arcanoloth]], [[Kerben]]'s former employer, and [[Jack Harvey]]'s fiendish benefactor. Keeper of the [[Tome of Satariel]] and later steward of [[The Carrot Cake]], he lost his final foothold on Stark when Kerben destroyed the tome and his local body, forcing him back to hell.
+Farraday was an [[Arcanoloth]], [[Kerben]]'s former employer, and [[Jack Harvey]]'s fiendish benefactor. Keeper of the [[Tome of Satariel]] and later steward of [[The Karat Cake]], he lost his final foothold on Stark when Kerben destroyed the tome and his local body, forcing him back to hell.
 
 ## Identity and Background
 
@@ -37,13 +37,13 @@ Farraday built convincing illusions that could imprison perception within hellis
 
 ## Equipment and Resources
 
-- [[The Carrot Cake]] — Former stewardship entrusted by Jack Harvey. Farraday designed the [[King of the Hole]] encounters and their beacon-triggered challenges.
+- [[The Karat Cake]] — Former stewardship entrusted by Jack Harvey. Farraday designed the [[King of the Hole]] encounters and their beacon-triggered challenges.
 - [[Tome Keeper's Pyramid]] — Trapped refuge he built in the eastern waters to house the tome.
 - [[Tome of Satariel]] — Hellish ledger of money, souls, and exchanges, containing the souls and knowledge of hundreds of slain wizards. He used it to track the Rakshasa and other escaped demons; Kerben destroyed it.
 
 ## Campaign History
 
-Kerben investigated Farraday's supposed crypt and found tickets leading to The Carrot Cake. The tomb was empty: the later encounter established that Farraday had remained a fiend rather than been buried there. The surviving early record does not establish the session of that investigation. A [[Magen]] explained that Jack Harvey had left the park in Farraday's care, accounting for the continuing challenges. See [[session_030#Chunk 0000]] and [[session_034#Chunk 0001]].
+Kerben investigated Farraday's supposed crypt and found tickets leading to The Karat Cake. The tomb was empty: the later encounter established that Farraday had remained a fiend rather than been buried there. The surviving early record does not establish the session of that investigation. A [[Magen]] explained that Jack Harvey had left the park in Farraday's care, accounting for the continuing challenges. See [[session_030#Chunk 0000]] and [[session_034#Chunk 0001]].
 
 The party reached the pyramid and recognized Farraday by his stature, eyes, and voice. Kerben shattered the tome before its magical bond could restore it, severing an important connection between Farraday's work in hell and his presence on [[Stark]]. The companions resisted his illusions and magic, and Kerben killed his local body. See [[session_034#Chunk 0001]].
 

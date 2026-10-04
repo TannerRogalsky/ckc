@@ -42,7 +42,7 @@ Theotropa had hesitated to use the concealed Penumbra's remaining energy without
 
 After [[Farraday]]'s surveillance ended, the Rakshasa left to reunite with Keys Caeradel at [[The Academy]]. In the epilogue, Theotropa invited Ceril to help replant exposed lands. He contributed temporarily, favoring dense living jungle over easy settlement expansion, then retired to [[Ceril's Star]].
 
-[[Theo Harvey]] found surviving [[40 Carats]] performers here while assembling the troupe's reunion.
+[[Theo Harvey]] found surviving [[40 Karats]] performers here while assembling the troupe's reunion.
 
 ## Final Status
 

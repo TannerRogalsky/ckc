@@ -158,7 +158,7 @@ Learning that [[The League of New Stark]] was secretly supplying [[Vizier Jade]]
 
 After leaving [[Thalassia]], Ceril contacted [[Aeris]]'s star-filled divine aspect. She confirmed that the [[Antumbra]] sabotage would not harm her captive fragment and that [[Obould]] remained alive. Ceril relayed her approval to the party. At the [[Temple of Sigil]], he also restored [[Father Warrick]] from petrification; the priest freed others, and the survivors planned to help [[Southport]].
 
-In [[Cutlass Cray]], Ceril reunited with [[Gilder Savar]] and bought supplies before sailing to [[The Carrot Cake]]. He gathered seeds from its preserved trees and used restorative magic to sustain the party through the park's challenges. He interpreted [[Tango]]'s warning that imperial forces were attacking [[The Opal]], giving the party reason to press toward the last lamp while [[Kerben]] defended the ship.
+In [[Cutlass Cray]], Ceril reunited with [[Gilder Savar]] and bought supplies before sailing to [[The Karat Cake]]. He gathered seeds from its preserved trees and used restorative magic to sustain the party through the park's challenges. He interpreted [[Tango]]'s warning that imperial forces were attacking [[The Opal]], giving the party reason to press toward the last lamp while [[Kerben]] defended the ship.
 
 Aboard [[Hole on Wheels]], his owl scouted the train and identified its enemies and final switch. Against the [[Vampiric Nightbringer]], Ceril used his Call Lightning scroll to open the roof, exposing the vampire to sunlight and preventing its recovery. After returning to the park, he helped keep [[Fharan]] alive for interrogation before the prisoner died, then supplied water magic for the entry into [[Jack Harvey]]'s flooded vault.
 

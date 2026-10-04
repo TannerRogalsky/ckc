@@ -5,7 +5,7 @@ session_introduced: "027"
 sessions_appeared: ["027", "034"]
 related:
   - "[[Jack Harvey]]"
-  - "[[The Carrot Cake]]"
+  - "[[The Karat Cake]]"
 ---
 
 # Jack Harvey's Portrait
@@ -18,7 +18,7 @@ The painting depicts Jack Harvey as he appeared in life. [[Kerben]] recognized t
 
 ## Campaign History
 
-The party found the portrait inside the extra-dimensional [[Haunted Living Tent]] at [[The Carrot Cake]]. As the tent collapsed into starry particles, Kerben and Red Caesar seized the painting together and brought it back into the material world.
+The party found the portrait inside the extra-dimensional [[Haunted Living Tent]] at [[The Karat Cake]]. As the tent collapsed into starry particles, Kerben and Red Caesar seized the painting together and brought it back into the material world.
 
 During the later visit to The White Drake, [[Vokenar]] gave it to David Harvey, preferring to keep the relic with the Harvey family rather than sell it. David Harvey found a place aboard the ship to hang it.
 

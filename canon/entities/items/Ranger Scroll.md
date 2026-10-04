@@ -5,12 +5,12 @@ session_introduced: "027"
 sessions_appeared: ["027", "031"]
 related:
   - "[[Kerben]]"
-  - "[[The Carrot Cake]]"
+  - "[[The Karat Cake]]"
 ---
 
 # Ranger Scroll
 
-The Ranger Scroll is a partially used Conjure Barrage scroll recovered from abandoned adventuring equipment at [[The Carrot Cake]] and given to [[Kerben]].
+The Ranger Scroll is a partially used Conjure Barrage scroll recovered from abandoned adventuring equipment at [[The Karat Cake]] and given to [[Kerben]].
 
 ## Description
 

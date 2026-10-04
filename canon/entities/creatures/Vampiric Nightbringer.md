@@ -5,7 +5,7 @@ session_introduced: "030"
 sessions_appeared: ["030"]
 related:
   - "[[Hole on Wheels]]"
-  - "[[The Carrot Cake]]"
+  - "[[The Karat Cake]]"
   - "[[Vokenar]]"
   - "[[Red Caesar]]"
   - "[[Ceril]]"
@@ -14,7 +14,7 @@ related:
 
 # Vampiric Nightbringer
 
-The Vampiric Nightbringer was the vampire lord occupying [[Hole on Wheels]]' front car in [[The Carrot Cake]].
+The Vampiric Nightbringer was the vampire lord occupying [[Hole on Wheels]]' front car in [[The Karat Cake]].
 
 ## Description
 

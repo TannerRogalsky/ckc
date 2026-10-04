@@ -5,12 +5,12 @@ sessions_appeared:
   - "028"
 related:
   - "[[Hole Shebang]]"
-  - "[[The Carrot Cake]]"
+  - "[[The Karat Cake]]"
 ---
 
 # Mary Andrews
 
-Mary Andrews was a kind of lute-playing automaton encountered more than once in [[Hole Shebang]] within [[Jack Harvey]]'s park, [[The Carrot Cake]].
+Mary Andrews was a kind of lute-playing automaton encountered more than once in [[Hole Shebang]] within [[Jack Harvey]]'s park, [[The Karat Cake]].
 
 ## Description
 

@@ -9,7 +9,7 @@ related:
 
 # Roger Ribbons
 
-Roger Ribbons was a recurring kind of aberration encountered among [[Hole Shebang]]'s animated defenders in [[The Carrot Cake]].
+Roger Ribbons was a recurring kind of aberration encountered among [[Hole Shebang]]'s animated defenders in [[The Karat Cake]].
 
 ## Description
 

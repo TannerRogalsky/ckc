@@ -64,7 +64,7 @@ Vokenar believed that neither Emperor Shen nor Vizier Jade should be spared afte
 
 #### Keeping the route concealed
 
-The attack occurred on the first day of the fifth moon, when [[The Carrot Cake]] was predicted to open. The party wondered whether the coincidence mattered. Ceril observed that an earlier attack on the moon might have interfered with the opening indefinitely, but they did not yet know how its damaged state affected the park's magic.
+The attack occurred on the first day of the fifth moon, when [[The Karat Cake]] was predicted to open. The party wondered whether the coincidence mattered. Ceril observed that an earlier attack on the moon might have interfered with the opening indefinitely, but they did not yet know how its damaged state affected the park's magic.
 
 Vokenar asked what evidence they had that the place existed. Kerben had collected admission tickets since the early stages of their travels, and [[Theo Harvey]] had provided its location and opening information. The tickets supported the account, although they were not direct observation of the park in its current condition.
 
@@ -160,7 +160,7 @@ Before giving up their boat, Red Caesar wanted to know whether Transel could off
 
 They decided to build a raft while the charm still encouraged cooperation. Domyx helped Transel fell palm trees and gather usable wood. Kerben found materials to bind the pieces together. Red Caesar used Bigby's Hand to move and arrange the logs, allowing them to finish before the spell's influence ended.
 
-Transel climbed aboard and asked for his dead brother's femur to use as an oar. With the bone in hand, he rowed away. The League's immediate problem was resolved through two different outcomes: one troll had been killed, while the other had received the means to leave. The party retained its longboat and continued toward Cutlass Cray before visiting The Carrot Cake. The dangerous demon encounter farther north remained deferred.
+Transel climbed aboard and asked for his dead brother's femur to use as an oar. With the bone in hand, he rowed away. The League's immediate problem was resolved through two different outcomes: one troll had been killed, while the other had received the means to leave. The party retained its longboat and continued toward Cutlass Cray before visiting The Karat Cake. The dangerous demon encounter farther north remained deferred.
 
 #### Waves and a protected port
 
@@ -188,14 +188,14 @@ The crew's discussion also clarified how that mission related to justice. Domyx 
 
 The dragon's death repaired an earlier loss and recovered evidence of Obould's personal history while he remained captive. The immediate attack on the Opal then exposed the cost of leaving the crew under threat. Yalet Mora, Ulrich Fjoller, and Brim the Bullywog had kept defending the vessel until the explorers returned. The party emerged with a new aerial craft, but also with damage that required a port's supplies.
 
-Transel's fate provided a different ending to a hostile encounter. Charm opened a conversation, practical assistance removed him from the island, and his later greeting showed that the contact had not ended in renewed violence when the spell expired. At Cutlass Cray, the party found refuge from the waves and a place to repair and prepare. The Carrot Cake remained their intended destination, Crone's recovery remained unsettled, and stopping Starfall was more urgent than ever.
+Transel's fate provided a different ending to a hostile encounter. Charm opened a conversation, practical assistance removed him from the island, and his later greeting showed that the contact had not ended in renewed violence when the spell expired. At Cutlass Cray, the party found refuge from the waves and a place to repair and prepare. The Karat Cake remained their intended destination, Crone's recovery remained unsettled, and stopping Starfall was more urgent than ever.
 
 ### Connections
 
 - The attack followed the synthesis and planting of Antumbra in [[canon/sessions/session_025#Chunk 0000]]. No scene here showed that sample reaching Starfall; the new strike therefore did not establish that the sabotage had failed or been used.
 - Sigil's account of Aeris's recovery continued the partial healing accomplished in [[canon/sessions/session_021#Chunk 0002]], while Crone's injury demonstrated the danger of further attacks during that recovery.
 - Emperor Shen's identity and the family's need to respond followed the confrontation in [[canon/sessions/session_023#Chunk 0002]] and Domyx's rejection of Clan Akathia in [[canon/sessions/session_024#Chunk 0003]]. This session made his grandfather's responsibility newly visible through Vokenar's scrying.
-- The Carrot Cake's opening information came from Kerben's bargain, presented in [[canon/sessions/session_024#Chunk 0000]]. The party chose to protect that route from possible observers while finishing nearby obligations.
+- The Karat Cake's opening information came from Kerben's bargain, presented in [[canon/sessions/session_024#Chunk 0000]]. The party chose to protect that route from possible observers while finishing nearby obligations.
 - Xarag's defeat and the recovered cargo closed the loss at the beginning of the Opal's voyage. Obould's boxed wedding band remained a recovered possession here, without anticipating its later use.
 - Ulrich Fjoller's operation of the cannons followed Trent Indorra's proposed instruction in [[canon/sessions/session_025#Chunk 0000]]. His participation demonstrated useful work aboard without requiring an unrecorded formal appointment.
 - The arrival of Transel at the Brine & Bodak tied the League's island errand to the party's earlier influence on Cutlass Cray. The Marid's protection also answered the crew's immediate fear for the town after the moon attack.

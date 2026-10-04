@@ -27,7 +27,7 @@ The ring protects its attuned wearer from necrotic harm and allows limited use o
 
 Beryzoz Helmscar originally obtained the ring to try to speak with his discarded flesh after replacing his skin with metal. Red Caesar traded an amethyst for it in [[The Pit]].
 
-At [[Castle Kaedon]], Red Caesar questioned a dead noblewoman whose account described [[Alamar]]'s role in turning [[Kaedon]] into a republic, [[The Carrot Cake]]'s magically connected mountaintops, and streaks of light from the east before the castle's collapse. Her testimony connected the party's earlier memories of those lights to The Cataclysm. Later, he questioned a [[Dancing Blades]] senator who had been trapped in a cell while acting as a barrister during the rising waters.
+At [[Castle Kaedon]], Red Caesar questioned a dead noblewoman whose account described [[Alamar]]'s role in turning [[Kaedon]] into a republic, [[The Karat Cake]]'s magically connected mountaintops, and streaks of light from the east before the castle's collapse. Her testimony connected the party's earlier memories of those lights to The Cataclysm. Later, he questioned a [[Dancing Blades]] senator who had been trapped in a cell while acting as a barrister during the rising waters.
 
 At the [[Southern Archipelago Castle]], Red Caesar questioned a dead refugee about the massacre there. The victim described a hostile construct, later identified as [[PAXO]], that had driven [[Witness]] away and killed the humans sheltering in the castle. He also said that [[Heaven's Bulb]] had tried and failed to help them.
 

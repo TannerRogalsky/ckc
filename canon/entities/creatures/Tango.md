@@ -25,7 +25,7 @@ Kerben could resummon him in a fresh form. The Ascot allowed them to exchange pl
 
 Tango scouted ahead during the party's travels and castle exploration. Specters at [[Castle Kaedon]] drained his vitality, after which Kerben resummoned him undrained.
 
-While the others explored [[The Carrot Cake]], Tango brought Kerben's urgent warning that [[The Opal]] had fought off boarders and faced a larger [[Broyish Empire]] force. [[Ceril]] used Speak with Animals to hear the report.
+While the others explored [[The Karat Cake]], Tango brought Kerben's urgent warning that [[The Opal]] had fought off boarders and faced a larger [[Broyish Empire]] force. [[Ceril]] used Speak with Animals to hear the report.
 
 Tango later identified [[Imperial Xihe]] offshore. At [[Lyngbakr Lagoon]], he warned Kerben that the flagship had reached shore, troops were landing, and [[The Opal]] had moved out to sea while invisible.
 

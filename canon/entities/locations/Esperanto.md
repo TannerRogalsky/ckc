@@ -25,7 +25,7 @@ Near the end of Kaedon's history, trade routes were developing toward Esperanto 
 
 The party learned about its flooding from the deceased visitor. [[David Harvey]] later explained the extent of the [[Harengon]] warren tunnels. Esperanto's material legacy also survived in a substantial cache of old coins recovered from the [[Southern Archipelago Castle]].
 
-Exploration of Hole on Wheels connected its ocean route to the former desert scenery. After the final battle, lowering seas made Jack Harvey's previously submerged grave accessible, and Kerben paid his respects while rebuilding [[40 Carats]].
+Exploration of Hole on Wheels connected its ocean route to the former desert scenery. After the final battle, lowering seas made Jack Harvey's previously submerged grave accessible, and Kerben paid his respects while rebuilding [[40 Karats]].
 
 ## Final Status
 

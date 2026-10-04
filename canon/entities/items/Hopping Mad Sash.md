@@ -9,12 +9,12 @@ related:
   - "[[Domyx]]"
   - "[[King of the Hole]]"
   - "[[Magen]]"
-  - "[[The Carrot Cake]]"
+  - "[[The Karat Cake]]"
 ---
 
 # Hopping Mad Sash
 
-The Hopping Mad Sash is a magical championship sash awarded to [[Domyx]] after the party completed every [[King of the Hole]] challenge at [[The Carrot Cake]], including the optional bonus wave.
+The Hopping Mad Sash is a magical championship sash awarded to [[Domyx]] after the party completed every [[King of the Hole]] challenge at [[The Karat Cake]], including the optional bonus wave.
 
 ## Description
 

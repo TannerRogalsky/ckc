@@ -22,13 +22,13 @@ She could obtain magically stamped documents removing criminal liability and arr
 ## Equipment and Resources
 
 - [[Jade's Compass]] — Received from [[Red Caesar]] as payment for the rescue diversion; no subsequent transfer is established.
-- [[The Carrot Cake]] — Its recovered plans were also transferred to her as part of that payment.
+- [[The Karat Cake]] — Its recovered plans were also transferred to her as part of that payment.
 
 ## Campaign History
 
 [[Vokenar]]'s Arcane Eye observed her receiving contraband paperwork and exchanging money before the party approached her tavern. Naomi Ue recognized them as outsiders, identified their warrants for killing [[Oni]] sentries, and cleared the records in return for mithril. She offered broader falsifications and citizenship arrangements. She also told them that [[Obould]] was held by [[Vizier Jade]] as a prisoner of war and leverage against [[The League of New Stark]], and that reaching him required dealing with the vizier directly. [[canon/sessions/session_023#Chunk 0001]]
 
-During the later rescue, Red Caesar hired her contacts to create a brief disturbance near the palace when Broy's false sky changed, then withdraw into hiding. She accepted gold, Jade's Compass, and The Carrot Cake plans, while protecting her network's secrecy. When Red Caesar dispelled the illusion, her staged protest combined with a genuine uprising. [[canon/sessions/session_032#Chunk 0001]]
+During the later rescue, Red Caesar hired her contacts to create a brief disturbance near the palace when Broy's false sky changed, then withdraw into hiding. She accepted gold, Jade's Compass, and The Karat Cake plans, while protecting her network's secrecy. When Red Caesar dispelled the illusion, her staged protest combined with a genuine uprising. [[canon/sessions/session_032#Chunk 0001]]
 
 ## Final Status
 

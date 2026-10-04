@@ -6,13 +6,13 @@ sessions_appeared: ["027", "028"]
 aliases:
   - The Hole Shebang
 related:
-  - "[[The Carrot Cake]]"
+  - "[[The Karat Cake]]"
   - "[[City Hole]]"
 ---
 
 # Hole Shebang
 
-Hole Shebang is the subtropical festival island in [[The Carrot Cake]], combining carnival games, automata, and electrical machinery. The party redirected its power to light the first lamp at [[Jack Harvey]]'s sealed gate.
+Hole Shebang is the subtropical festival island in [[The Karat Cake]], combining carnival games, automata, and electrical machinery. The party redirected its power to light the first lamp at [[Jack Harvey]]'s sealed gate.
 
 ## Geography and Access
 

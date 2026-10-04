@@ -29,7 +29,7 @@ The ship belonged to the Broyish Empire's fleet. Tango suspected that [[Emperor 
 
 ## Campaign History
 
-After The Opal escaped an imperial naval attack through temporary invisibility, Tango spotted the Imperial Xihe approaching [[The Carrot Cake]]. Its arrival left Kerben little time to follow the soldiers who had landed ahead of the flagship.
+After The Opal escaped an imperial naval attack through temporary invisibility, Tango spotted the Imperial Xihe approaching [[The Karat Cake]]. Its arrival left Kerben little time to follow the soldiers who had landed ahead of the flagship.
 
 The Imperial Xihe subsequently reached Lyngbakr Lagoon and sailed past The Opal without detecting the invisible ship. Troops landed while Emperor Shen and [[Vizier Jade]] confronted the party with [[Obould]] as a hostage. The flagship's arrival put the lagoon's refugee settlement in immediate danger.
 

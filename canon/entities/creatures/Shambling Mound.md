@@ -4,13 +4,13 @@ session_introduced: "029"
 sessions_appeared: ["029", "030"]
 related:
   - "[[King of the Hole]]"
-  - "[[The Carrot Cake]]"
+  - "[[The Karat Cake]]"
   - "[[Farraday]]"
 ---
 
 # Shambling Mound
 
-Shambling Mounds were towering plant creatures used in [[Farraday]]'s [[King of the Hole]] challenges at [[The Carrot Cake]].
+Shambling Mounds were towering plant creatures used in [[Farraday]]'s [[King of the Hole]] challenges at [[The Karat Cake]].
 
 ## Description
 

@@ -3,7 +3,7 @@
 ## Party Members
 - [[Red Caesar]] — Human wizard who develops Antumbra and Obvolvo Caelum, destroys Emperor Shen, and helps establish Broy's charter after erasing the Demi-Spell
 - [[Domyx]] — Titan who survives his grandfather's domination and reconciles with Domyx IV in a reformed homeland
-- [[Kerben]] — Captain of The Opal who rebuilds 40 Carats before departing to explore other worlds
+- [[Kerben]] — Captain of The Opal who rebuilds 40 Karats before departing to explore other worlds
 - [[Ceril]] — Druid who restores newly exposed land before retiring to the timeless refuge of Ceril's Star
 - [[Vokenar]] — Cleric who sacrifices his escape to save The Opal's people, then returns young to Arkadia and trains with Crone
 
@@ -54,7 +54,7 @@
 - [[The Marid]] — Water genie who runs The Boardwalks and serves as Cutlass Cray's Port Authority
 - [[Figma Brickfinger]] — Union leader who completed the Funnel excavation and withdrew workers from the dangers beyond
 - [[Sigrid Forgewelt]] — Dwarven weapon forger in The Pit
-- [[Beryzoz Helmscar]] — Armorer who eventually identifies Kerben among his ship thieves and accepts compensation through 40 Carats
+- [[Beryzoz Helmscar]] — Armorer who eventually identifies Kerben among his ship thieves and accepts compensation through 40 Karats
 - [[Alamar]] — Former ruler found sequestered after Castle Kaedon's spires were cleared; finds peace in Arkadia and welcomes Vokenar's return
 - [[Vlerro]] — Sequestered Alamar, then reunited with him in Arkadia
 - [[Igden]] — Parliamentarian of old Kaedon's senate, encountered in Arkadia
@@ -70,8 +70,8 @@
 - [[Illidrielle Gandara]] — Deceased Demi-Spell collaborator reunited with Vokenar in Arkadia after the world is saved
 - [[Clockwork]] — Dancing Blades member named in Castle Kaedon's political records and prisoner list; eventual fate unestablished
 - [[David Harvey]] — Harengon working with The League to reclaim harengon territory
-- [[Theo Harvey]] — Former imperial collaborator who repays Kerben by reuniting the surviving 40 Carats performers
-- [[Jack Harvey]] — Founder of 40 Carats and The Carrot Cake, whose grave Kerben visits after the oceans recede
+- [[Theo Harvey]] — Former imperial collaborator who repays Kerben by reuniting the surviving 40 Karats performers
+- [[Jack Harvey]] — Founder of 40 Karats and The Karat Cake, whose grave Kerben visits after the oceans recede
 - [[Feronia Caeradel]] — Keys Caeradel's mother, carrying the crystal containing her former husband's soul
 - [[Rizolvir Kiirnodel]] — Elven king who succeeds the Demi-Spell project with a monarchy responsive to its subjects
 - [[Queen Caeradwyn]] — Former elven queen whose fall enabled Aramil Kiirnodel's rise and preceded elven uprisings and the Cataclysm
@@ -96,7 +96,7 @@
 - [[Farraday]] — Kerben's former employer, Jack Harvey's fiendish benefactor, and keeper of the destroyed Tome of Satariel
 - [[Sunspite]] — Sun-hating entity defeated during the clearance of Castle Kaedon's exposed spires before Alamar was discovered within
 - [[Rakshasa]] — Keys Caeradel's father, whose bound soul remains in a crystal worn by Feronia Caeradel
-- [[Boston Golf]] — Old Carrot Cake performer and Rochella Golf's grandfather, represented by the fortune-teller automaton she recovered
+- [[Boston Golf]] — Old Karat Cake performer and Rochella Golf's grandfather, represented by the fortune-teller automaton she recovered
 - [[The Tyrant]] — Vizier Jade's undead servant who revealed Starfall's location in Axis Mundi before an unseen force destroyed it
 - [[PAXO]] — Warforged that drove Witness from the human refuge and massacred its residents, destroyed by the party
 - [[Xarag]] — Black dragon slain at Xarag's Island after stealing The Opal's treasure; probable ancestor of the Castle Kaedon dragons
@@ -116,8 +116,8 @@
 - [[Mary Andrews]] — Lute-playing construct automaton in the Hole Shebang that uses music to charm and damage targets
 - [[Phase Cat]] — Ethereal feline that phases through walls and displaces targets; appeared to be wildlife occupying the abandoned park
 - [[Smoke Elemental]] — Elemental creature of smoke and fumes in the Hole Shebang, formed from smoldering debris
-- [[Haunted Living Tent]] — Gargantuan living tent at The Carrot Cake that siphons victims into an extra-dimensional tea cozy house
-- [[Magen]] — Construct-like rabbit automata carrying part of Jack Harvey's mind and maintaining The Carrot Cake
+- [[Haunted Living Tent]] — Gargantuan living tent at The Karat Cake that siphons victims into an extra-dimensional tea cozy house
+- [[Magen]] — Construct-like rabbit automata carrying part of Jack Harvey's mind and maintaining The Karat Cake
 - [[Vampiric Nightbringer]] — Vampire lord that controlled Hole on Wheels before the party destroyed it with sunlight and force
 - [[Mummy]] — Undead park attackers with paralyzing glares; two withdrew into mud, while the King of the Hole pair were destroyed
 - [[Shambling Mound]] — Massive plant monster of twisted vines; engulfed targets with tendrils, healed by lightning; wave enemy in King of the Hole
@@ -189,12 +189,12 @@
 - [[Harengon Warrens]] — Island tunnel network where imperial forces were defeated and Theo Harvey captured; planned resettlement remains unconfirmed
 - [[Hole in the Sky]] — Former breach between Stark and Arkadia, sealed by Lyngbakr
 - [[Hole on Wheels]] — Scenic train zone over drowned Esperanto, containing the fourth lamp and a disabled return portal
-- [[Hole Shebang]] — Festival island of games and entertainments within The Carrot Cake, accessible via teleport circle
+- [[Hole Shebang]] — Festival island of games and entertainments within The Karat Cake, accessible via teleport circle
 - [[House Erendel]] — Boril Erendel’s mirror laboratory, destroyed after his defeat
 - [[Kaedon]] — Pre-Cataclysm human realm around Westerness and Castle Kaedon, transformed from monarchy into a republic before its destruction
-- [[King of the Hole]] — Island resort and coliseum zone within The Carrot Cake
+- [[King of the Hole]] — Island resort and coliseum zone within The Karat Cake
 - [[Lyngbakr Lagoon]] — Kuo-Toa dungeon where Blibdoolpoolp was defeated, later a refuge and revealed volcanic caldera
-- [[Magic Hat]] — Hotel and bunker within The Carrot Cake, accessible via teleport circle from the midway
+- [[Magic Hat]] — Hotel and bunker within The Karat Cake, accessible via teleport circle from the midway
 - [[Mana Sea]] — Wild-magic swamp over drowned Windsurf, formerly spreading Mana Sickness from the cursed Ninki Nanka
 - [[Otyugh Isle]] — Island with Kuo-Toa and Temple of Sigil
 - [[Prison of Frost]] — Titan prison near Acathian Manor from which Ulrich Fjoller was rescued before his threatened execution
@@ -210,7 +210,7 @@
 - [[The Bad Hare Day Theatre]] — Cutlass Cray theatre run by Vorgan of the Stage
 - [[The Boardwalks]] — Cutlass Cray waterfront run by The Marid; where Otto was recruited
 - [[The Brine & Bodak]] — Cutlass Cray establishment run by Transel
-- [[The Carrot Cake]] — Jack Harvey's protected amusement complex whose Penumbra hoard repaired the sky; the park's later restoration remains unconfirmed
+- [[The Karat Cake]] — Jack Harvey's protected amusement complex whose Penumbra hoard repaired the sky; the park's later restoration remains unconfirmed
 - [[The Church of the Thirty Lights]] — Cutlass Cray church led by Pastor Borm
 - [[The Corsairs' Court]] — Cutlass Cray venue run by Octavia Crayborne
 - [[The Deepworlders Delve]] — Home of the Duergar in The Pit
@@ -236,7 +236,7 @@
 ## Organizations
 - [[Aesir]] — Divine faction of sister sky goddesses who defeated the Vanir; Dunkelkalt and Entropie stand as their opposites
 - [[Vanir]] — Rival divine faction of ancient titan gods whose returning manifestations are defeated, culminating in Emperor Shen's destruction
-- [[40 Carats]] — Jack Harvey's entertainment company and troupe, reunited by Theo Harvey and rebuilt under Kerben
+- [[40 Karats]] — Jack Harvey's entertainment company and troupe, reunited by Theo Harvey and rebuilt under Kerben
 - [[Clan Lapis]] — Titan folk clan known for mining and gem exploration; Lorelai Lapis-Acathian married into this clan
 - [[Heaven's Bulb]] — Human refuge and magical school whose dispersed former students include Red Caesar and Lodestar; later institutional survival is uncertain
 - [[Figma Brickfinger's Union]] — Dwarven governing union in The Pit, overseeing deep-world integration and the excavation that reopened the Funnel

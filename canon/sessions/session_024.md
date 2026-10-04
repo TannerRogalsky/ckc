@@ -3,7 +3,7 @@ type: session
 session: "024"
 date: "2026-04-26"
 chunks: 5
-summary: "Kerben secretly frees Theo Harvey for intelligence about The Carrot Cake, Ceril and Vokenar meet Aeris's imprisoned mortal form, and the northern expedition ends with Domyx rejecting his clan and rescuing Ulrich Fjoller."
+summary: "Kerben secretly frees Theo Harvey for intelligence about The Karat Cake, Ceril and Vokenar meet Aeris's imprisoned mortal form, and the northern expedition ends with Domyx rejecting his clan and rescuing Ulrich Fjoller."
 ---
 
 # Session 024
@@ -20,7 +20,7 @@ The session returned to an earlier evening while Kerben was protecting [[The Opa
 
 Passing through the bunks, he met [[Theo Harvey]] in the improvised brig, where wooden posts enclosed part of a bed. The prisoner praised the ship's growing reputation and offered a bargain. He claimed that returning to [[The League of New Stark]] would probably mean execution, while surrendering to the [[Broyish Empire]] would certainly do so. Those were his expectations, rather than sentences the party had independently confirmed.
 
-Theo Harvey knew that Kerben had worked for [[Jack Harvey]] at his museum. He described his own ambition to emulate the older entrepreneur, whose life he had researched without ever learning everything he wanted to know. Kerben shared memories and a ticket connected to [[The Carrot Cake]], and Theo Harvey produced an old carrot tea recipe. They traded rum and tea while discussing Jack Harvey's ability to assemble people with the right skills for each project.
+Theo Harvey knew that Kerben had worked for [[Jack Harvey]] at his museum. He described his own ambition to emulate the older entrepreneur, whose life he had researched without ever learning everything he wanted to know. Kerben shared memories and a ticket connected to [[The Karat Cake]], and Theo Harvey produced an old carrot tea recipe. They traded rum and tea while discussing Jack Harvey's ability to assemble people with the right skills for each project.
 
 Theo Harvey supplied a more specific account of the park than he had given [[Domyx]]. Notes stolen from the Imperial Library described it as a demi-plane, accessible only from the first day of the fifth moon through the last day of the ninth. Outside that window it could not simply be found by sailing to its apparent position. He attributed [[The Tyrant]]'s failure to return to being trapped when that access closed.
 
@@ -82,7 +82,7 @@ In another scene preceding Aeris's visit, Domyx returned to the bunks and found 
 
 He sought [[Raxxy]], who had been on watch. She seemed drunk or delirious, unlike her usual conduct while on duty, and admitted losing track of time in the mess after drinking Mobley's new carrot tea from Kerben's recipe. She had not seen Theo Harvey leave.
 
-Raxxy found the document in the brig and gave it to Domyx. It marked The Carrot Cake on the rear side of the central mountain of [[Thalassia]], north of [[The White Drake]], with a particular direction from which a boat should approach. It repeated the opening window from the beginning of the fifth moon to the end of the ninth, while making clear that entering might still be difficult.
+Raxxy found the document in the brig and gave it to Domyx. It marked The Karat Cake on the rear side of the central mountain of [[Thalassia]], north of [[The White Drake]], with a particular direction from which a boat should approach. It repeated the opening window from the beginning of the fifth moon to the end of the ninth, while making clear that entering might still be difficult.
 
 Theo Harvey's accompanying note thanked the party for not surrendering him to the League and presented the map as a gesture of good faith. It claimed the park was full of Penumbra. Domyx wondered whether the marked place was also where the prisoner had gone, but the note did not establish that.
 
@@ -268,7 +268,7 @@ The pregnancy prompted discussion of finding a midwife and perhaps arranging a n
 
 ### Summary
 
-- Kerben secretly released [[Theo Harvey]] with the [[Gheister]] in exchange for [[The Carrot Cake]]'s location and seasonal access dates. He used carrot tea and a staged escape to conceal the bargain from his companions.
+- Kerben secretly released [[Theo Harvey]] with the [[Gheister]] in exchange for [[The Karat Cake]]'s location and seasonal access dates. He used carrot tea and a staged escape to conceal the bargain from his companions.
 - [[Ceril]] and [[Vokenar]] encountered [[Aeris]]'s mortal seed imprisoned within [[Starfall]]. She explained how her captive power and [[Penumbra]] fed the weapon, and believed repairing the sky could save her.
 - Ceril grew food around the ring, and Vokenar left a lasting light. The site remained unlocated, and they did not free Aeris during the encounter.
 - Domyx learned more about the Titanfolk diaspora from [[Fharan]]. Raxxy then found Theo Harvey's map, while the party discovered the missing Gheister and debated the lead's credibility.
@@ -294,4 +294,4 @@ That dependence contrasted with the ideals he confronted at home. Fharan had exp
 - [[session_037#Chunk 0000|The return to Gaokerena]] later establishes that Ceril's planting here spread into living land in the [[Gray Wastes]] and fostered the world tree's growth. The act of feeding Aeris had consequences neither visitor understood during this encounter.
 - The bow acquired in [[session_022#Chunk 0000|The Pit's ship upgrades]] and cannons purchased in [[session_023#Chunk 0002|Broy's market]] enable the northern voyage and its first confrontation. Brim the Bullywog's contribution leaves the need for a trained cannon crew open.
 - [[session_013#Chunk 0000|Ulrich Fjoller's warning]] and [[session_016#Chunk 0000|Lorelai Lapis-Acathian's appeal]] lead to the family confrontation and rescue. Domyx rejects the attempt to bury the truth his friend risked punishment to uncover.
-- The Indorras' medicine search from [[session_023#Chunk 0001|the coastal rescue]] remains open alongside the new couple's need for a home and support. Returning from the north does not resolve Southport's illness or the commitments to Obould, Aeris, and The Carrot Cake.
+- The Indorras' medicine search from [[session_023#Chunk 0001|the coastal rescue]] remains open alongside the new couple's need for a home and support. Returning from the north does not resolve Southport's illness or the commitments to Obould, Aeris, and The Karat Cake.

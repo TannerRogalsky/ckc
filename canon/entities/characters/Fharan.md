@@ -21,7 +21,7 @@ related:
 
 # Fharan
 
-Fharan was a masked human seneschal of the [[Broyish Empire]], serving as a court gatekeeper for [[Vizier Jade]] and [[Emperor Shen]]. He died after the party defeated his expedition at [[The Carrot Cake]] and questioned him about the imperial threat.
+Fharan was a masked human seneschal of the [[Broyish Empire]], serving as a court gatekeeper for [[Vizier Jade]] and [[Emperor Shen]]. He died after the party defeated his expedition at [[The Karat Cake]] and questioned him about the imperial threat.
 
 ## Identity and Background
 
@@ -37,7 +37,7 @@ Fharan admitted the party to an audience with Vizier Jade and Emperor Shen. When
 
 He recognized Domyx as belonging to [[Clan Akathia]], describing it as the noble ruling house of Nornhof and the titan region. He claimed its restricted rites and truths were widely known beyond the mountains, especially by people who had left. His account of titan migration to Broy challenged Domyx's sheltered understanding. The extent and source of Fharan's knowledge remained unclear.
 
-Fharan later led the force that drove [[Theo Harvey]] into The Carrot Cake and reached [[Jack Harvey]]'s inner sanctum. He recognized Red Caesar in the ensuing fight. After defeating him, Red Caesar dispelled a lethal contingency that would otherwise have prevented questioning. See [[session_031#Chunk 0000]].
+Fharan later led the force that drove [[Theo Harvey]] into The Karat Cake and reached [[Jack Harvey]]'s inner sanctum. He recognized Red Caesar in the ensuing fight. After defeating him, Red Caesar dispelled a lethal contingency that would otherwise have prevented questioning. See [[session_031#Chunk 0000]].
 
 ## Final Status
 

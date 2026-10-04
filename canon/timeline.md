@@ -383,7 +383,7 @@ Source: [[chunks/sessions_001-0010]].
 
 ### Chunk 0001
 
-- The party finishes the granary infestation and recovers [[The Carrot Cake]] tickets from a noble's corpse.
+- The party finishes the granary infestation and recovers [[The Karat Cake]] tickets from a noble's corpse.
 - Through [[Beryzoz's Teeth]], the woman describes [[Taylin]], her travel plans, [[Alamar]]'s republican reforms, and fatal collapse after lights crossed the sky from the east.
 - Her account matches Ceril's pre-Cataclysm memory. [[Esperanto]]'s early flooding is inferred from its low terrain.
 - Kerben senses hollow castle spaces underground and warns of approaching water elementals; [[Animated Armor]] and [[Psychic Goop]] also threaten the party.
@@ -513,7 +513,7 @@ Source: [[chunks/sessions_001-0010]].
 - On the island, Red Caesar detects an invisible Harengon and the party exposes an imperial ambush before initiating combat. Vokenar summons a celestial defender, and Red Caesar's Steelwind Strike breaks much of the resistance.
 - Red Caesar captures Theo Harvey in a resilient sphere. Ceril and Vokenar prevent the surviving soldiers' retreat by longboat; the imperial detachment is destroyed.
 - Vokenar finds the warrens entrance beneath a tree through invisible displaced earth and a separate illusion covering. The party does not explore the tunnels.
-- Theo Harvey argues for imperial protection, offers information and payment, and claims [[The Carrot Cake]] survives. The party takes him east as a prisoner rather than delivering him to the League.
+- Theo Harvey argues for imperial protection, offers information and payment, and claims [[The Karat Cake]] survives. The party takes him east as a prisoner rather than delivering him to the League.
 - Theo Harvey cultivates crew members, while [[Raxxy]] offers guard duty and Red Caesar insists he remains a captive. The party skips [[Cutlass Cray]] to reduce his opportunities to escape.
 - The upgraded bow enables The Opal to approach Broy's rocky coast. An unnatural white pillar shines on the horizon; the session ends before interception or admission.
 
@@ -523,7 +523,7 @@ Source: [[chunks/sessions_001-0010]].
 
 - Aboard [[The Opal]], [[Ceril]] locates [[Tome Keeper's Pyramid]] through Commune with Nature. The party has a lead on the unnamed [[Arcanoloth]] holding the [[Tome of Satariel]].
 - [[Vokenar]]'s Legend Lore reveals that the tome was created from 666 murdered wizards' souls, captures further souls, and returns to hell if destroyed in the material world. The party postpones the dangerous confrontation to seek [[Obould]] in [[Broy]].
-- During [[Domyx]]'s night watch, [[Theo Harvey]] describes [[The Carrot Cake]] as a Penumbra-powered maze of illusions and traps dating from before the Cataclysm. He says [[Vizier Jade]] sent [[The Tyrant]] there and it never returned.
+- During [[Domyx]]'s night watch, [[Theo Harvey]] describes [[The Karat Cake]] as a Penumbra-powered maze of illusions and traps dating from before the Cataclysm. He says [[Vizier Jade]] sent [[The Tyrant]] there and it never returned.
 - [[Farron Acathian II]] and [[Zohai Lapis]] attack The Opal amid a storm. Farron Acathian II identifies Domyx as his great-nephew and condemns his descent; the Titans act under an outside power's orders.
 - Domyx grows to Titan size with Red Caesar's help. Farron Acathian II boards and nearly capsizes the ship, throwing [[Kerben]] overboard; Domyx steadies the vessel and removes the attacker.
 - The party defeats both Titans, carries them onto exposed rock, and heals them. They depart north after giving Domyx a map toward the Titan homeland and surrendering mithril, without an established end to their compulsion.
@@ -561,7 +561,7 @@ Source: [[chunks/sessions_001-0010]].
 ### Chunk 0000
 
 - [[Kerben]] carries [[Shark's Edge]], a magical falchion that reveals the temperature of visible water, and develops the corrosive preparation from black dragon acid.
-- A flashback explains [[Theo Harvey]]'s departure while the others are ashore in Broy. Kerben struggles with acting command and secretly agrees to trade freedom and the [[Gheister]] for [[The Carrot Cake]] intelligence.
+- A flashback explains [[Theo Harvey]]'s departure while the others are ashore in Broy. Kerben struggles with acting command and secretly agrees to trade freedom and the [[Gheister]] for [[The Karat Cake]] intelligence.
 - Theo Harvey says [[Jack Harvey]] collected [[Penumbra]] after the sky broke and secured it in the park. His stolen notes describe a demi-plane accessible from the first day of the fifth moon through the end of the ninth.
 - Kerben gives [[Mobley]] the carrot tea recipe, using its ordinary intoxicating effects without added sedatives, and arranges a diversion for [[Yalet Mora]]. He stages the broken brig and lets Theo Harvey leave through darkness and fog, with a map left behind.
 - During rest after the palace audience, [[Ceril]] and [[Vokenar]] encounter [[Aeris]]'s mortal seed trapped within [[Starfall]] amid silver dust and a starless sky. The location is somewhere on Stark but remains unknown.
@@ -634,7 +634,7 @@ Source: [[chunks/sessions_001-0010]].
 - Kerben found fifty pounds of mithril. Red Caesar cleared harmful black pollen, and the group recovered the incomplete [[Chart of the Witness]]. Kerben offered the [[Potion of Fluid Adamantite]] to Red Caesar, who accepted it.
 - [[PAXO]] ambushed the party with heat beams and slowing magic. Ceril's Sunbeam and Red Caesar's Bigby's Hand helped restrain it; Kerben pried off its faceplate as the hand crushed its body.
 - The party stored PAXO's electrically changing alloy faceplate. Zulu found one hundred pounds of [[Esperanto]] coins in a side room. PAXO's origin and Witness's whereabouts remained unknown.
-- A three-day voyage brought the Opal to [[Xarag's Island]] as [[The Carrot Cake]]'s predicted opening date arrived. The party intended to recover the treasure [[Xarag]] had taken from the ship.
+- A three-day voyage brought the Opal to [[Xarag's Island]] as [[The Karat Cake]]'s predicted opening date arrived. The party intended to recover the treasure [[Xarag]] had taken from the ship.
 - A flashback showed [[Master Lee]] affirming young Red Caesar's determination to understand a potentially broken world inside Heaven's Bulb. A widening crack in its imitation sky admitted real sunlight.
 
 ## Session 026 — 2026-05-17
@@ -647,7 +647,7 @@ Source: [[chunks/sessions_001-0010]].
 - [[Kerben]] saw the elemental-colored beam from [[The Opal]]. [[Ceril]] recognized the weapon's effect; a broken crescent remained. The strike above [[Brimbolyn]] threatened the elves with falling debris, while waves, altered tides, and effects on time were assessed.
 - Sigil could not heal Crone's injury. Crone told Vokenar to focus on restoring Aeris; he returned to the assembled crew and relayed the instruction. He left Crone critically wounded in Sigil's care.
 - [[Domyx]] supported justice against his grandfather, while [[Red Caesar]] emphasized restoring the sky as the primary mission. Ceril suspected Sigil might be targeted next.
-- [[The Carrot Cake]]'s predicted opening date had arrived. The party chose nearby errands first to avoid leading possible observers to its hidden route.
+- [[The Karat Cake]]'s predicted opening date had arrived. The party chose nearby errands first to avoid leading possible observers to its hidden route.
 - Ceril arranged to check on the elves. Kerben, Red Caesar, Domyx, and Vokenar drank acid-resistance potions and tracked [[Xarag]] on [[Xarag's Island]].
 - Kerben's opening shot wounded Xarag badly. Vokenar conjured Crone's sword, but the dragon's acid disrupted it as the battle continued.
 
@@ -667,7 +667,7 @@ Source: [[chunks/sessions_001-0010]].
 - Two camouflaged beach trolls attacked. Red Caesar charmed [[Transel]], who asked for passage off the island in Runic; Domyx interpreted.
 - Lightning from Red Caesar stopped the other troll's regeneration, allowing Domyx to kill him. Transel interpreted the mage's arrival as help sent by the gods, without identifying a prior captor.
 - Transel paid an amethyst. Domyx and Transel gathered wood, Kerben found bindings, and Red Caesar arranged logs with Bigby's Hand. Transel left on their raft using his brother's femur as an oar.
-- The party continued toward [[Cutlass Cray]] before the Carrot Cake. Kerben and Red Caesar guided the improved Opal head-on through enormous swells from the moon disaster.
+- The party continued toward [[Cutlass Cray]] before the Karat Cake. Kerben and Red Caesar guided the improved Opal head-on through enormous swells from the moon disaster.
 - Cutlass Cray was intact under [[The Marid]]'s water magic, which turned the approaching waves away.
 - Transel arrived on his raft, greeted the party, and became the new bartender at [[The Brine & Bodak]].
 
@@ -682,8 +682,8 @@ Source: [[chunks/sessions_001-0010]].
 - Ceril funded a consumable ghost-ship token, and Vokenar funded the air-elemental genie engine. The Opal received repairs at port; no new powder monkey was hired.
 - [[Domyx]] checked on [[Transel]] as staff taught him bartending. [[The Marid]] described holding back the sea above Cutlass Cray with a protective dome. [[Pleasance MacLenth]] knew [[Lenth the Rugged]] from stories, leaving his fate uncertain.
 - During the three-day voyage, the party confirmed [[The Hideous Truth]] remained concealed and chose to keep its growing camouflage.
-- They reached [[The Carrot Cake]] through a recently revealed artificial lagoon and bright, overgrown approach. Ceril provided Heroes' Feast for the party and [[Zulu]].
-- [[40 Carats]]' familiar design suggested to Kerben a park deliberately repurposed as a refuge. A rabbit [[Magen]] welcomed them as orange-uniformed mummies and revenants rose to attack.
+- They reached [[The Karat Cake]] through a recently revealed artificial lagoon and bright, overgrown approach. Ceril provided Heroes' Feast for the party and [[Zulu]].
+- [[40 Karats]]' familiar design suggested to Kerben a park deliberately repurposed as a refuge. A rabbit [[Magen]] welcomed them as orange-uniformed mummies and revenants rose to attack.
 - Vokenar turned two mummies away, while the entrance battle continued into the next chunk.
 
 ### Chunk 0001
@@ -779,7 +779,7 @@ Source: [[chunks/sessions_001-0010]].
 - Domyx exchanged places with engulfed Ceril and later pulled Vokenar from the final Mound. The bonus victory earned Domyx the [[Hopping Mad Sash]].
 - The party redirected the arena's power and returned to find three gate lamps lit.
 - [[Tango]] delivered Kerben's note. Through Speak with Animals, Ceril learned that the Opal had repelled Imperial boats, with a larger force approaching.
-- A guide said [[Jack Harvey]] had resigned and left [[The Carrot Cake]] in the care of his nonmortal benefactor, [[Farraday]].
+- A guide said [[Jack Harvey]] had resigned and left [[The Karat Cake]] in the care of his nonmortal benefactor, [[Farraday]].
 - After Vokenar used Beacon of Hope and healing, the party entered [[Hole on Wheels]]. Ceril's owl scouted seven cars, vampire servants, and the final switch at the front.
 - Red Caesar protected Domyx, collected preserved carrot tea and a two-inscription healing scroll, and the party began fighting a cambion and revenants. Ceril summoned a crab spirit.
 
@@ -807,7 +807,7 @@ Source: [[chunks/sessions_001-0010]].
 
 - In events parallel to the park expedition, [[Kerben]] commands [[The Opal]] against imperial escorts; its upgraded weapons cripple a dangerous vessel while [[Yalet Mora]] pumps the flooding hull.
 - Kerben uses a Conjure Barrage scroll and the bound air elemental, then consumes the ghost-ship token and sends the damaged vessel west toward [[Lyngbakr Lagoon]].
-- After an overnight rest near [[The Carrot Cake]], Kerben follows an imperial landing party using the recaptured [[Theo Harvey]] as its guide. [[Tango]] identifies the approaching [[Imperial Xihe]].
+- After an overnight rest near [[The Karat Cake]], Kerben follows an imperial landing party using the recaptured [[Theo Harvey]] as its guide. [[Tango]] identifies the approaching [[Imperial Xihe]].
 - The soldiers kill a helpful [[Magen]] but cannot open [[Jack Harvey]]'s vault despite its four lit lamps.
 - [[Red Caesar]], [[Ceril]], [[Domyx]], and [[Vokenar]] return from the train amid an imperial battle with vampire spawn; [[Fharan]] attributes the portal suppression to [[Vizier Jade]].
 - Red Caesar learns that the gate recognizes successful challenge participants, and that opening it would release the ocean held behind its seal.
@@ -885,7 +885,7 @@ Source: [[chunks/sessions_001-0010]].
 - When Emperor Shen orders Domyx killed, Vizier Jade uses Feign Death and illusion to deceive him. His command prevents her speaking.
 - Red Caesar, Ceril, and Kerben enter the [[Broyish Capital]] and seek [[Naomi Ue]]. Vokenar's corpse has been displayed as imperial propaganda.
 - Naomi cannot provide a direct Starfall route; underground beam openings close quickly and Penumbra shipments have ended.
-- The party discovers the Mirage Arcana concealing the restored sky. Red Caesar hires Naomi's diversion with gold, [[Jade's Compass]], and the Carrot Cake plans.
+- The party discovers the Mirage Arcana concealing the restored sky. Red Caesar hires Naomi's diversion with gold, [[Jade's Compass]], and the Karat Cake plans.
 - Red Caesar's wind pushes the balloon higher while Ceril detects the illusion; dispelling it signals protest and revolt around the palace.
 - Ceril carries Red Caesar down in his flying starry form; Tango brings Kerben to the palace.
 - Vizier Jade opens Domyx's cage. Emperor Shen orders retreat to [[Starfall]], and she teleports them away after privately urging Domyx to use his reprieve.
@@ -1103,7 +1103,7 @@ Source: [[chunks/sessions_001-0010]].
 - [[Obould]] and [[Lady Jacinthe]] marry aboard [[The White Drake]] near the former [[Lyngbakr Lagoon]], with League and [[Broy]] guests present.
 - [[Theotropa]] invites Ceril to restore the emerging lands. He contributes dense, fertile jungle, then retires to his star; his choice about a later world remains open.
 - Red Caesar erases the [[Demi-Spell]] and writes Broy's new charter on its paper. Vizier Jade helps establish the new order and accepts imprisonment for her crimes.
-- [[Theo Harvey]] reunites surviving [[40 Carats]] performers. Kerben rebuilds the troupe, receives a [[Spelljammer]] from Obould, visits [[Jack Harvey]]'s grave near [[Esperanto]], and eventually sails into the stars.
+- [[Theo Harvey]] reunites surviving [[40 Karats]] performers. Kerben rebuilds the troupe, receives a [[Spelljammer]] from Obould, visits [[Jack Harvey]]'s grave near [[Esperanto]], and eventually sails into the stars.
 - Domyx returns to a more open [[Thalassia]], where houses share authority. [[Charlotta Fjoller]] encourages him to speak with [[Domyx IV]], who apologizes; father and son reconcile.
 - Vokenar eventually awakens young in Arkadia, retaining his experience. He reunites with the goddesses, [[Alamar]], [[Tuna]], [[Illidrielle Gandara]], and [[Damien Ouranous]], then accepts [[Crone]]'s training for a future campaign in the deeper hells.
 - The epilogue confirms [[Southport]]'s recovery, [[Lyngbakr]]'s return to Arkadia, [[Witness]]'s mapping of that plane, and [[Xander MacLenth]]'s passage to the afterlife. [[Kilosaurus]]'s death remains uncertain.

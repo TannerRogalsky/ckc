@@ -3,7 +3,7 @@ type: session
 session: "027"
 date: "2026-06-07"
 chunks: 3
-summary: "The party equips and repairs the Opal at Cutlass Cray, enters The Carrot Cake, survives its haunted midway, and discovers the four-lamp route to Jack Harvey's inner sanctum."
+summary: "The party equips and repairs the Opal at Cutlass Cray, enters The Karat Cake, survives its haunted midway, and discovers the four-lamp route to Jack Harvey's inner sanctum."
 ---
 
 # Session 027
@@ -14,7 +14,7 @@ summary: "The party equips and repairs the Opal at Cutlass Cray, enters The Carr
 
 #### Preparing in Cutlass Cray
 
-The recovered dragon treasure gave the party resources to prepare for [[The Carrot Cake]]. Its predicted opening had passed, and [[Kerben]]'s long pursuit of [[Jack Harvey]]'s clues had finally supplied a route there. The tickets he had found in his former employer [[Farraday]]'s supposed crypt now led toward a place where Jack Harvey had hidden broken sky.
+The recovered dragon treasure gave the party resources to prepare for [[The Karat Cake]]. Its predicted opening had passed, and [[Kerben]]'s long pursuit of [[Jack Harvey]]'s clues had finally supplied a route there. The tickets he had found in his former employer [[Farraday]]'s supposed crypt now led toward a place where Jack Harvey had hidden broken sky.
 
 Before leaving [[Cutlass Cray]], the companions replenished supplies and improved their equipment. At [[The Wonder Hulk]]'s shop, Kerben bought three feather tokens: one could produce a swan boat, another a large multicolored bird capable of carrying passengers or cargo, and the third a balloon. He exchanged mithril and his black periapt for them.
 
@@ -22,7 +22,7 @@ Before leaving [[Cutlass Cray]], the companions replenished supplies and improve
 
 Gilder Savar addressed Ceril as a former traveling companion and projected an illusion of his old human appearance. They had escaped [[Brimbolyn]] together with [[Vanzia Vynnfae]] before the Cataclysm. Gilder Savar explained that perfecting his craft required more time than a human life allowed: the best drinks might take centuries to mature. He had chosen undeath so he could remain long enough to perfect them.
 
-Ceril agreed to catch up, but kept the details of Aeris and the journey to The Carrot Cake private. He did tell Gilder Savar that Vanzia Vynnfae was alive, had joined the Broyish Empire, and had recently helped the party. Their conversation restored contact between two survivors of an old escape without resolving how Gilder Savar had passed from his earlier mortal peril into his present condition.
+Ceril agreed to catch up, but kept the details of Aeris and the journey to The Karat Cake private. He did tell Gilder Savar that Vanzia Vynnfae was alive, had joined the Broyish Empire, and had recently helped the party. Their conversation restored contact between two survivors of an old escape without resolving how Gilder Savar had passed from his earlier mortal peril into his present condition.
 
 Gilder Savar supplied Ceril with a potion of feather fall rather than the more costly means of sustained flight. Ceril also purchased an invulnerability potion and earrings of wakeful birdsong, which would briefly restore him if he collapsed and then break. He spent some of the summer spice among his goods on those preparations, keeping other gems and metal in reserve.
 
@@ -58,7 +58,7 @@ The Opal received repair work while docked, addressing damage from the northern 
 
 Red Caesar also asked about [[Lenth the Rugged]]. [[Pleasance MacLenth]] knew her father chiefly through stories and had never met him in person. His fate remained uncertain; the discussion suggested divination as a possible later inquiry rather than establishing his death.
 
-The party sailed toward The Carrot Cake, using the genie engine and their other improvements to make good progress despite unfavorable natural winds. The journey took three days. On the way, they checked the grotto where [[The Hideous Truth]] had been concealed. The vessel remained where they had left it, now more thoroughly covered in vines and undergrowth. They chose to retain that camouflage and postpone the work of clearing it for a future launch.
+The party sailed toward The Karat Cake, using the genie engine and their other improvements to make good progress despite unfavorable natural winds. The journey took three days. On the way, they checked the grotto where [[The Hideous Truth]] had been concealed. The vessel remained where they had left it, now more thoroughly covered in vines and undergrowth. They chose to retain that camouflage and postpone the work of clearing it for a future launch.
 
 #### The revealed approach
 
@@ -66,7 +66,7 @@ The route carried them among the high southern peaks. Ceril and Kerben remembere
 
 The Opal maneuvered through sharp rocks until it reached an approach that had only recently lost its concealing illusions. A smaller docking place led into a larger lagoon cut into the mountains. The artificial shape suggested a former approach or staging area that the flood had submerged. They chose a sheltered place to leave the ship.
 
-Overhead, the canopy mixed green leaves with red, orange, and yellow foliage, while flowers from apparently different seasons grew together. Farther up the path, painted structures, tethered balloons, and brilliant magical lights appeared above the hills. An orange route led toward an enormous carrot shape. The entrance displayed the stylized carrot-and-diamond emblem of [[40 Carats]], the company Kerben remembered.
+Overhead, the canopy mixed green leaves with red, orange, and yellow foliage, while flowers from apparently different seasons grew together. Farther up the path, painted structures, tethered balloons, and brilliant magical lights appeared above the hills. An orange route led toward an enormous carrot shape. The entrance displayed the stylized carrot-and-diamond emblem of [[40 Karats]], the company Kerben remembered.
 
 The lights made the newly exposed park conspicuous. The companions recognized that its location might not remain secret for long. Before entering, Red Caesar supplied the healing potions he had prepared during the voyage, and Ceril provided Heroes' Feast. He made a familiar shipboard stew with carrots, gathered ingredients, and spices, giving the meal protective strength against fear and poison. [[Zulu]] joined the feast with the party.
 
@@ -78,7 +78,7 @@ Kerben found the setting both familiar and wrong. Jack Harvey had intended a vis
 
 Ancient magic and Kerben's unease kept the group alert. As rain turned the ground to mud, humanoid figures rose from it and from around the tents. Their orange clothing looked like ruined uniforms. Mummies and revenants surrounded the visitors, the latter appearing as amalgams of multiple bodies.
 
-A rabbitlike figure sat ahead on a bench, drinking tea from a fine white saucer. Red Caesar recognized it as a [[Magen]], a wizard-created construct containing a reproduced part of its maker rather than an ordinary mechanical servant. The rabbit welcomed them to 40 Carats and announced the beginning of the dance.
+A rabbitlike figure sat ahead on a bench, drinking tea from a fine white saucer. Red Caesar recognized it as a [[Magen]], a wizard-created construct containing a reproduced part of its maker rather than an ordinary mechanical servant. The rabbit welcomed them to 40 Karats and announced the beginning of the dance.
 
 Vokenar turned two of the mummies away. They retreated toward the seated Magen, which refused to help them. Domyx and Vokenar engaged the revenants while Ceril called a crab and fought in his archer constellation. An illusory audience appeared to cheer the confrontation. The entrance battle was still underway when the chunk ended.
 
@@ -92,7 +92,7 @@ Red Caesar swept through the undead with Steel Wind Strike, allowing Kerben and 
 
 The remaining revenants temporarily paralyzed Domyx and Vokenar. Ceril defended himself with his shield and continued fighting while Kerben fired from concealment. The protections of the feast had helped against fear, but the party still had to contend with the undead's other powers. Together they destroyed the remaining attackers, with Ceril's light and crab helping finish the last revenant.
 
-Domyx recovered his movement, and the group continued without resting. The Magen introduced itself as one of Jack Harvey's many reproductions, charged with watching The Carrot Cake. Kerben remembered Jack Harvey's interest in filling the park with such constructs, and the guide explained that part of Jack Harvey's mind existed within its own.
+Domyx recovered his movement, and the group continued without resting. The Magen introduced itself as one of Jack Harvey's many reproductions, charged with watching The Karat Cake. Kerben remembered Jack Harvey's interest in filling the park with such constructs, and the guide explained that part of Jack Harvey's mind existed within its own.
 
 #### A constellation of resorts
 
@@ -180,7 +180,7 @@ The trapped companions returned to the real world, holding the painting inside t
 
 #### Four paths and a sealed gate
 
-Beyond the tent lay a broad courtyard. Kerben and Ceril watched for further threats while the others examined it. A heavy gate stood to one side, its seam and visible wards indicating that it could open but was secured by powerful magic. The 40 Carats emblem formed part of that protection. Four distinctive lamps beside the gate remained unlit.
+Beyond the tent lay a broad courtyard. Kerben and Ceril watched for further threats while the others examined it. A heavy gate stood to one side, its seam and visible wards indicating that it could open but was secured by powerful magic. The 40 Karats emblem formed part of that protection. Four distinctive lamps beside the gate remained unlit.
 
 At the courtyard's center, four gold-rimmed holes opened into darkness. Signs identified their destinations: Magic Hat beneath a magician's top hat, Hole Shebang beneath electrical arcs and a roller coaster, King of the Hole beside a hill-and-carrots motif, and [[Hole on Wheels]] with its colorful train.
 
@@ -211,14 +211,14 @@ They prepared for a short rest in the vestibule, with Vokenar proposing Prayer o
 - The party spent its recovered wealth on equipment and ship resources. Kerben acquired feather tokens and the Ascot; Red Caesar acquired spell scrolls, powders, immovable rods, party pipes, and the Wand of Blighting Bolts.
 - Ceril reunited with the lich Gilder Savar, bought protective supplies and feast components, and contributed a ghost-ship token. Vokenar obtained the Moon Blade at the church, established recall sanctuaries, and funded enchanted ammunition, healing scrolls, and the Opal's genie engine.
 - Domyx checked on Transel, and the Marid described protecting Cutlass Cray beneath a dome as the sea rose above it. The Hideous Truth remained hidden under growing vegetation.
-- The group sailed three days to the newly revealed park, The Carrot Cake, and entered after Ceril's Heroes' Feast. Its orange-uniformed undead attacked; the party defeated the remaining defenders after two mummies withdrew.
+- The group sailed three days to the newly revealed park, The Karat Cake, and entered after Ceril's Heroes' Feast. Its orange-uniformed undead attacked; the party defeated the remaining defenders after two mummies withdrew.
 - A Magen described Jack Harvey's linked resorts and inferred that Penumbra sustained the midway. Ceril collected seeds, Kerben won gold and platinum carrot coins, and Red Caesar kept Hooksy's mask after another ambush.
 - The living tent trapped four companions in an extra-dimensional house. Attacks from within and Domyx's work outside destroyed it, and Red Caesar and Kerben saved Jack Harvey's Portrait.
 - The party learned that four lamps opened Jack Harvey's inner sanctum. After Red Caesar jumped ahead, they secured the courtyard, gave Kerben an abandoned Ranger Scroll, and reunited in Hole Shebang's electrically lit entrance cavern.
 
 The preparations gave the party more than stronger weapons. Recall sanctuaries, feather tokens, an invisible-ship option, and the genie engine widened their choices for travel and retreat. Ceril's meeting with Gilder Savar also restored a connection to his earlier life. Gilder Savar's pursuit of mastery through undeath contrasted with the urgent, present work that Ceril kept partly private.
 
-The Carrot Cake brought Kerben's old employment and the party's effort to restore the sky into the same place. Its spectacle survived, but its defenses, abandoned uniforms, and hostile occupants showed what decades of isolation had made of Jack Harvey's refuge. The Magen preserved part of his mind and knowledge while remaining limited in its understanding of what powered the park and what had happened in distant sections.
+The Karat Cake brought Kerben's old employment and the party's effort to restore the sky into the same place. Its spectacle survived, but its defenses, abandoned uniforms, and hostile occupants showed what decades of isolation had made of Jack Harvey's refuge. The Magen preserved part of his mind and knowledge while remaining limited in its understanding of what powered the park and what had happened in distant sections.
 
 Exploration demanded care beyond defeating enemies. Red Caesar's escape from the Cloaker prevented attacks on it from harming him, while the living tent required those inside and outside to damage the same structure from separate spaces. Amid those threats, the companions preserved seeds, art, equipment, and old currency. Their search was already recovering pieces of the vanished world as well as approaching the Penumbra they needed.
 

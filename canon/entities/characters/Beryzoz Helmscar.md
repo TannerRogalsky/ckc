@@ -15,7 +15,7 @@ aliases:
 
 # Beryzoz Helmscar
 
-Beryzoz Helmscar is a gnomish armorer in [[The Pit]] who supplied distinctive equipment to the party. Repeated ship thefts eventually brought him into a dispute with [[Kerben]], settled through compensation from the revived [[40 Carats]].
+Beryzoz Helmscar is a gnomish armorer in [[The Pit]] who supplied distinctive equipment to the party. Repeated ship thefts eventually brought him into a dispute with [[Kerben]], settled through compensation from the revived [[40 Karats]].
 
 ## Identity and Background
 
@@ -42,4 +42,4 @@ When Red Caesar returned, Beryzoz Helmscar asked whether his old teeth had exper
 
 ## Final Status
 
-In the epilogue, costly divinations identified Kerben among many people who had stolen his ships. Beryzoz Helmscar confronted him, and they settled the grievance with a season pass to the revived 40 Carats. See [[session_038#Chunk 0002]].
+In the epilogue, costly divinations identified Kerben among many people who had stolen his ships. Beryzoz Helmscar confronted him, and they settled the grievance with a season pass to the revived 40 Karats. See [[session_038#Chunk 0002]].

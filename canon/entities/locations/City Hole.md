@@ -4,14 +4,14 @@ subtypes: [landmark]
 session_introduced: "027"
 sessions_appeared: ["027", "028"]
 related:
-  - "[[The Carrot Cake]]"
+  - "[[The Karat Cake]]"
   - "[[Hole Shebang]]"
   - "[[Magic Hat]]"
 ---
 
 # City Hole
 
-City Hole is the electricall[]()y lit hub cavern linking destinations in [[The Carrot Cake]]. Its barrel portals gave the party access to the park's connected zones.
+City Hole is the electricall[]()y lit hub cavern linking destinations in [[The Karat Cake]]. Its barrel portals gave the party access to the park's connected zones.
 
 ## Geography and Access
 

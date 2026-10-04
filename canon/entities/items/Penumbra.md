@@ -6,7 +6,7 @@ sessions_appeared: ["011", "012", "013", "014", "016", "017", "021", "025", "030
 related:
   - "[[Akasha]]"
   - "[[Obvolvo Caelum]]"
-  - "[[The Carrot Cake]]"
+  - "[[The Karat Cake]]"
   - "[[Red Caesar]]"
   - "[[Lyngbakr]]"
 ---
@@ -45,7 +45,7 @@ Vokenar kept a separate piece, polished it into a reflective focus, and fixed it
 
 ### Jack Harvey's Hoard and the Restoration
 
-Lighting all four lamps in [[The Carrot Cake]] opened the way to Jack Harvey's inner sanctum. [[Vizier Jade]] and [[Emperor Shen]] exploited the party's rest to search for the hoard while the companions were trapped away from the opened entrance. During that interruption, Red Caesar completed Obvolvo Caelum.
+Lighting all four lamps in [[The Karat Cake]] opened the way to Jack Harvey's inner sanctum. [[Vizier Jade]] and [[Emperor Shen]] exploited the party's rest to search for the hoard while the companions were trapped away from the opened entrance. During that interruption, Red Caesar completed Obvolvo Caelum.
 
 Inside Jack Harvey's underwater vault, the party found Penumbra crystallized across the walls. Red Caesar condensed the shards and fine deposits into a small orb containing more sky-material than all the party's earlier finds combined.
 

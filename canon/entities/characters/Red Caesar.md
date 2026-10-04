@@ -21,7 +21,7 @@ related:
   - "[[Penumbra]]"
   - "[[Antumbra]]"
   - "[[Obvolvo Caelum]]"
-  - "[[The Carrot Cake]]"
+  - "[[The Karat Cake]]"
   - "[[Lyngbakr]]"
   - "[[Starfall]]"
   - "[[Demi-Spell]]"
@@ -101,7 +101,7 @@ Separately, Red Caesar completed [[Obvolvo Caelum]], a spell for condensing [[Pe
 - [[Wand of Blighting Bolts]] — Acquired from [[The Wonder Hulk]] in [[Cutlass Cray]] in exchange for his former Wand of Lightning Bolts, gemstones, and mithril, and retained at campaign end. Its Blight magic broadened his offensive tools.
 - [[Ioun of Crimson Dreams]] — A crimson octahedral stone acquired in [[Cutlass Cray]] and retained at campaign end. It strengthens his defenses and adapts its protection to different elemental energies.
 - [[Green Slaadi Whiskey]] — A volatile potion received from [[Mayor Yoris]] before the [[Mana Sea]] expedition. It can heal, poison, or rarely grant a wish; no consumption is confirmed, and final custody remains uncertain.
-- [[Hooksy the Clown Automaton]] — Red Caesar salvaged the creature's clown mask at [[The Carrot Cake]] and wore it during later exploration. No later transfer of the mask is recorded, so it remains with Red Caesar.
+- [[Hooksy the Clown Automaton]] — Red Caesar salvaged the creature's clown mask at [[The Karat Cake]] and wore it during later exploration. No later transfer of the mask is recorded, so it remains with Red Caesar.
 - [[Teleport Keys]] — Circle encodements he used for routes to [[House Kiirnodel]], [[The White Drake]], the dwarvish market in [[The Pit]], and Broyish Steeltown. These destinations remain known, although they could not bypass [[Axis Mundi]]'s permanent abjurations.
 - [[Tome of Satariel]] — The ledger was destroyed by Kerben, but Red Caesar recovered three arcane pages. He used Contact Other Plane beneath [[The Funnel]] and later still carried Arcane Gate and Mind Blank; their final disposition is unconfirmed.
 - [[Tomb of Lenth the Rugged]] — A recovered resource he returned to [[Pleasance MacLenth]] at [[Bookbinders Cray]], rather than retaining.
@@ -126,7 +126,7 @@ At [[The Garden]], he and [[Ceril]] learned that [[Boril Erendel]] planned to fo
 
 ### Castle Kaedon and Obould's Captivity
 
-At [[Castle Kaedon]], Red Caesar recovered an old equestrian manual, a rare record of horses in a world where they had largely vanished from common knowledge. Using [[Beryzoz's Teeth]], he questioned a preserved noblewoman and learned about [[Alamar]]'s transformation of [[Kaedon]] from monarchy to republic, [[The Carrot Cake]], and streaks of light from the east before the castle's collapse. The account connected the party's memories of those streaks to [[The Cataclysm]].
+At [[Castle Kaedon]], Red Caesar recovered an old equestrian manual, a rare record of horses in a world where they had largely vanished from common knowledge. Using [[Beryzoz's Teeth]], he questioned a preserved noblewoman and learned about [[Alamar]]'s transformation of [[Kaedon]] from monarchy to republic, [[The Karat Cake]], and streaks of light from the east before the castle's collapse. The account connected the party's memories of those streaks to [[The Cataclysm]].
 
 During a visit to [[The White Drake]], Red Caesar sought out [[Lady Jacinthe]] privately. He learned that she and [[Obould]] had once intended to marry, but their ambitions had diverged: she wanted to unite kingdoms through the League, while he sought adventure and piracy. [[Obould]] had bound himself by an oath to die in her place if she came to harm. The conversation also introduced Red Caesar to [[Starfall]], the celestial cannon held by the [[Broyish Empire]].
 
@@ -134,7 +134,7 @@ On returning to [[Castle Kaedon]], Red Caesar investigated recent structural dam
 
 After [[Obould]]'s disappearance, Red Caesar and [[Ceril]] returned to [[The White Drake]]. [[Damien Ouranous]] relayed [[Lady Jacinthe]]'s claim that they should treat their captain as dead. Red Caesar created a distraction that allowed [[Ceril]] to take her portrait for scrying, then paid for the damage and helped clean up. The scrying revealed her covert meeting with [[Vizier Jade]]: [[Obould]] was alive, but was being used to pressure her and [[The League of New Stark]] into finding [[Penumbra]] for the Empire. Red Caesar shared that discovery with the party.
 
-Red Caesar and [[Ceril]] also visited [[House Kiirnodel]], where he reported [[Boril Erendel]]'s extreme plans to [[Rizolvir Kiirnodel]] and [[Feronia Caeradel]], prompting a promise to investigate. During the ensuing expedition to the [[Harengon Warrens]], Red Caesar captured [[Theo Harvey]] alive. The prisoner confirmed that [[The Carrot Cake]] still existed, although Red Caesar later questioned whether its promised [[Penumbra]] was merely a bluff after [[Theo Harvey]] escaped.
+Red Caesar and [[Ceril]] also visited [[House Kiirnodel]], where he reported [[Boril Erendel]]'s extreme plans to [[Rizolvir Kiirnodel]] and [[Feronia Caeradel]], prompting a promise to investigate. During the ensuing expedition to the [[Harengon Warrens]], Red Caesar captured [[Theo Harvey]] alive. The prisoner confirmed that [[The Karat Cake]] still existed, although Red Caesar later questioned whether its promised [[Penumbra]] was merely a bluff after [[Theo Harvey]] escaped.
 
 In [[Broy]], Red Caesar requested citizenship papers from [[Vanzia Vynnfae]] and obtained a teleport-circle scriptum. At the [[Dawn Market]], [[Qian Hu]] recognized his connection to [[Heaven's Bulb]] and claimed to have known [[Master Lee]] before [[The Cataclysm]]. In the palace, Red Caesar tried to bargain for [[Obould]]'s freedom by offering to teach the Empire to synthesize [[Penumbra]] from water. [[Vizier Jade]] read his thoughts and exposed the lack of a working plan. She also refused his offer of one piece of [[Penumbra]], demanding the much larger supply already sought from the League. Red Caesar later sequestered himself to manufacture counterfeit [[Penumbra]] as leverage, motivated in part by her treatment of his captain.
 
@@ -144,7 +144,7 @@ Red Caesar used his Caesarean method to compress [[Akasha]] into synthesized [[P
 
 After [[Starfall]] shattered the moon, Red Caesar continued to argue for restoring [[Aeris]] and the sky rather than accelerating a world reset. He helped track [[Xarag]], enabling the party to defeat the dragon and recover [[The Opal]]'s lost treasure, and captured an imperial [[Gun Balloon]] during a later attack on the ship. During a troll hunt, he charmed and spared [[Transel]], helping build a raft so the stranded troll could leave for [[Cutlass Cray]].
 
-At [[The Carrot Cake]], Red Caesar investigated the electrical arcs in the [[Hole Shebang]], establishing that they sought living targets and that the party's immovable rods were nonconductive. In [[Hole on Wheels]], he protected [[Domyx]] from domination and helped expose the [[Vampiric Nightbringer]] to sunlight. He then operated the train and activated the final lamp switch, opening [[Jack Harvey]]'s inner sanctum.
+At [[The Karat Cake]], Red Caesar investigated the electrical arcs in the [[Hole Shebang]], establishing that they sought living targets and that the party's immovable rods were nonconductive. In [[Hole on Wheels]], he protected [[Domyx]] from domination and helped expose the [[Vampiric Nightbringer]] to sunlight. He then operated the train and activated the final lamp switch, opening [[Jack Harvey]]'s inner sanctum.
 
 When the portal network failed, Red Caesar was drawn into a magical version of a [[Heaven's Bulb]] memory. [[Vizier Jade]] and [[Emperor Shen]] intruded into his memories, searching for the newly accessible [[Penumbra]] and threatening [[Obould]]. Red Caesar used True Seeing on his younger self, who identified Mending as the missing principle in his research and completed [[Obvolvo Caelum]].
 

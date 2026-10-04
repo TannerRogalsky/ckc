@@ -11,7 +11,7 @@ related:
   - "[[Vorgan of the Stage]]"
   - "[[Gray Wastes]]"
   - "[[Spelljammer]]"
-  - "[[40 Carats]]"
+  - "[[40 Karats]]"
   - "[[Vokenar]]"
 ---
 
@@ -73,7 +73,7 @@ Repairs at Cutlass Cray addressed the northern voyage and balloon attack. Vokena
 
 ### Preserving the crew and changing command
 
-While the others explored [[The Carrot Cake]], Kerben returned to defend The Opal from imperial boats and sent [[Tango]] with a warning of the larger force approaching. The shattered moon's dark nights aided imperial movement past rival powers.
+While the others explored [[The Karat Cake]], Kerben returned to defend The Opal from imperial boats and sent [[Tango]] with a warning of the larger force approaching. The shattered moon's dark nights aided imperial movement past rival powers.
 
 During the naval attack, the crew disabled an escort using the ship's improved weapons. Kerben released the wind-providing elemental and consumed the ghost-ship token to retreat west invisibly rather than face the gathering fleet. No crew were lost, though the ship remained damaged. It escaped to Lyngbakr Lagoon, where Vokenar's recall brought the companions aboard. The invisible ship evaded the [[Imperial Xihe]], received the rescued Obould, and recovered [[Red Caesar]] after [[Lyngbakr]] repaired the sky.
 
@@ -91,8 +91,8 @@ Imperial soldiers teleported aboard during the voyage, but Vokenar's consecratio
 
 When the Gray Wastes flooded after the final battle, Kerben gathered the companions, [[Vizier Jade]], and the crew aboard, then stored The Opal in its portable form. Vokenar stayed outside and banished Kerben, carrying the entire ship and company, back to Cutlass Cray. His sacrifice secured their escape.
 
-At Obould and Lady Jacinthe's wedding, Obould confirmed Kerben's permanent captaincy and gave him the Spelljammer he had received from southern orcish guilds and kept until the ship could withstand it. Kerben first rebuilt [[40 Carats]], then returned to The Opal in later years and sailed into the stars.
+At Obould and Lady Jacinthe's wedding, Obould confirmed Kerben's permanent captaincy and gave him the Spelljammer he had received from southern orcish guilds and kept until the ship could withstand it. Kerben first rebuilt [[40 Karats]], then returned to The Opal in later years and sailed into the stars.
 
 ## Final Status
 
-The Opal survived the final flood and became Kerben's vessel for exploration beyond Stark. Its last established voyage was his departure among the stars after rebuilding 40 Carats. His ultimate destination, the complete later crew roster, and the vessel's eventual fate are not fixed by the epilogue. Vokenar's enduring consecrations remain aboard, temporarily suspended during astral travel.
+The Opal survived the final flood and became Kerben's vessel for exploration beyond Stark. Its last established voyage was his departure among the stars after rebuilding 40 Karats. His ultimate destination, the complete later crew roster, and the vessel's eventual fate are not fixed by the epilogue. Vokenar's enduring consecrations remain aboard, temporarily suspended during astral travel.

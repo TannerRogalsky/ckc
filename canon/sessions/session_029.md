@@ -14,7 +14,7 @@ summary: "Imperial scouts threaten the Opal while the party rests at the Magic H
 
 #### A warning from the ship
 
-At [[The Carrot Cake]]'s main rotunda, the companions could see the result of their work in the [[Hole Shebang]]: one lamp beside [[Jack Harvey]]'s sealed gate was lit. They prepared to enter the [[Magic Hat]], hoping the hotel would provide a safe place to recover.
+At [[The Karat Cake]]'s main rotunda, the companions could see the result of their work in the [[Hole Shebang]]: one lamp beside [[Jack Harvey]]'s sealed gate was lit. They prepared to enter the [[Magic Hat]], hoping the hotel would provide a safe place to recover.
 
 Before they departed, [[Kerben]] felt his entrance alarm activate. [[Ulrich Fjoller]] and [[Raxxy]] hurried in from [[The Opal]] with a warning. Ulrich Fjoller had seen a balloon in the sky, and [[Broyish Empire]] scouts were near the island. Unless the ship moved, they risked being found in the surrounding waters.
 

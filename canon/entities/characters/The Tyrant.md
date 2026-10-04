@@ -5,7 +5,7 @@ session_introduced: "023"
 sessions_appeared: ["023", "029", "031"]
 related:
   - "[[Vizier Jade]]"
-  - "[[The Carrot Cake]]"
+  - "[[The Karat Cake]]"
   - "[[Broyish Empire]]"
   - "[[Starfall]]"
   - "[[Axis Mundi]]"
@@ -15,7 +15,7 @@ related:
 
 # The Tyrant
 
-The Tyrant was [[Vizier Jade]]'s undead, beholder-like servant, lost during her search for [[The Carrot Cake]]. Its revelation of [[Starfall]]'s location gave the party a route toward the weapon before an unseen force destroyed it.
+The Tyrant was [[Vizier Jade]]'s undead, beholder-like servant, lost during her search for [[The Karat Cake]]. Its revelation of [[Starfall]]'s location gave the party a route toward the weapon before an unseen force destroyed it.
 
 ## Identity and Background
 
@@ -41,7 +41,7 @@ The Tyrant communicated telepathically. Its eyestalks projected debilitating and
 
 ## Campaign History
 
-[[Theo Harvey]] told [[Domyx]] that Vizier Jade had sent The Tyrant to find The Carrot Cake and that it had never returned. He described the park's illusions and arcane traps as capable of trapping anyone who entered. Later discussion considered whether the search had included other locations and whether the park's limited opening could explain the failed return. None of these earlier explanations established its death.
+[[Theo Harvey]] told [[Domyx]] that Vizier Jade had sent The Tyrant to find The Karat Cake and that it had never returned. He described the park's illusions and arcane traps as capable of trapping anyone who entered. Later discussion considered whether the search had included other locations and whether the park's limited opening could explain the failed return. None of these earlier explanations established its death.
 
 The party eventually found The Tyrant alive as an undead being inside Jack Harvey's underwater Penumbra vault. [[Jade's Compass]] lay nearby. The compass suggested that an agent connected to Vizier Jade had entered years earlier, and the party suspected The Tyrant had brought it; its presence did not establish the servant's custody of the compass or a personal visit by Vizier Jade.
 

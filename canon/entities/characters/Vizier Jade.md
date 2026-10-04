@@ -41,7 +41,7 @@ She told [[Vokenar]] that she had once fought for the world but grown exhausted 
 - [[Obould]] — Her prisoner of war, whose humiliation and threatened execution became leverage against both the adventurers and [[Lady Jacinthe]].
 - [[Lady Jacinthe]] — Coerced into directing imperial attention toward the party and providing Penumbra to prolong Obould's life.
 - [[Vokenar]] — Killed by her after challenging her war against the gods. He later restored her from petrification and accepted her assistance against Emperor Shen's final form.
-- [[The Tyrant]] — Her undead servant, lost during the search for [[The Carrot Cake]]. It feared her control and destruction; the force that killed it was associated with her only by inference.
+- [[The Tyrant]] — Her undead servant, lost during the search for [[The Karat Cake]]. It feared her control and destruction; the force that killed it was associated with her only by inference.
 - [[Master Lee]] — An old acquaintance she described as a good man.
 - [[Witness]] — The warforged cartographer she created, who remembered her gratefully despite her involvement in war.
 
@@ -73,7 +73,7 @@ In the palace audience, she read the party's thoughts and exposed Red Caesar's a
 
 ### The restored sky and a death
 
-Vizier Jade and Emperor Shen intruded into Red Caesar's memories while the party rested aboard [[Hole on Wheels]], searching for newly accessible Penumbra in The Carrot Cake. She recognized his conscious presence and cautioned the emperor about what they revealed. [[canon/sessions/session_030#Chunk 0003]]
+Vizier Jade and Emperor Shen intruded into Red Caesar's memories while the party rested aboard [[Hole on Wheels]], searching for newly accessible Penumbra in The Karat Cake. She recognized his conscious presence and cautioned the emperor about what they revealed. [[canon/sessions/session_030#Chunk 0003]]
 
 The Tyrant was found in [[Jack Harvey]]'s underwater vault, showing that her earlier search had reached it without recovering the stock. At [[Lyngbakr Lagoon]], she and the emperor used the caged Obould to demand the material. After [[Domyx]] exchanged places with him and the emperor departed, she remained with Vokenar. Her attempt to banish him failed. Following their argument about hope and divine suffering, she killed him and took his body. [[canon/sessions/session_031#Chunk 0004]]
 

@@ -34,7 +34,7 @@ Following the boarding attack on The Opal, the party pursued the pirate galley a
 
 The companions debated selling the ship, seeking League assistance, or keeping it. Uncertain earlier ownership troubled Kerben, while Red Caesar argued that salvage rights permitted retaining it. They chose a hidden reserve against future damage to The Opal, renamed it The Hideous Truth, covered it with foliage, and marked the grotto for a return.
 
-On the way to [[The Carrot Cake]], the party checked the hiding place. The galley remained there beneath additional vines, which they deliberately left intact rather than clearing it for immediate use.
+On the way to [[The Karat Cake]], the party checked the hiding place. The galley remained there beneath additional vines, which they deliberately left intact rather than clearing it for immediate use.
 
 Red Caesar, Ceril, and Kerben switched to The Hideous Truth to approach Broy without displaying The Opal's familiar hull. Kerben carried The Opal and its entire crew in the egg, preserving it as a possible escape resource. The rescuers landed and entered the capital; their later departure used magical travel rather than a recorded voyage back aboard the galley.
 

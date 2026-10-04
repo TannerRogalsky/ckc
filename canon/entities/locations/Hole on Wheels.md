@@ -4,7 +4,7 @@ subtypes: [landmark]
 session_introduced: "027"
 sessions_appeared: ["027", "030", "031"]
 related:
-  - "[[The Carrot Cake]]"
+  - "[[The Karat Cake]]"
   - "[[City Hole]]"
   - "[[Esperanto]]"
   - "[[Magen]]"
@@ -15,7 +15,7 @@ related:
 
 # Hole on Wheels
 
-Hole on Wheels is the scenic flying-train destination in [[The Carrot Cake]], once overlooking [[Esperanto]] and its desert. The party freed its route from the [[Vampiric Nightbringer]] and used its lamplighter to open [[Jack Harvey]]'s sanctum.
+Hole on Wheels is the scenic flying-train destination in [[The Karat Cake]], once overlooking [[Esperanto]] and its desert. The party freed its route from the [[Vampiric Nightbringer]] and used its lamplighter to open [[Jack Harvey]]'s sanctum.
 
 ## Geography and Access
 

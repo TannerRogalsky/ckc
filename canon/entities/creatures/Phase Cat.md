@@ -8,12 +8,12 @@ sessions_appeared:
 related:
   - "[[Hole Shebang]]"
   - "[[King of the Hole]]"
-  - "[[The Carrot Cake]]"
+  - "[[The Karat Cake]]"
 ---
 
 # Phase Cat
 
-Phase Cats were ethereal felines encountered in [[The Carrot Cake]]'s [[Hole Shebang]], [[Magic Hat]], and [[King of the Hole]].
+Phase Cats were ethereal felines encountered in [[The Karat Cake]]'s [[Hole Shebang]], [[Magic Hat]], and [[King of the Hole]].
 
 ## Description
 

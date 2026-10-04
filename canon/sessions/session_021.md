@@ -156,7 +156,7 @@ The mangonel recovered from the castle was now mounted aboard The Opal. The part
 
 They discussed where those valuables could be useful. Dwarven craftspeople could work gems into weapons, the elves could use mithril for equipment, and [[Muudeep]] at [[The Garden]] traded art for magical items to wear. [[Cutlass Cray]] offered a wider range of exchanges. None of these prospective purchases had yet happened.
 
-Kerben's growing collection of tickets to [[The Carrot Cake]] remained in his bunk. The castle's discoveries had narrowed the search for [[Jack Harvey]]'s old amusement park to a region of the former continent, giving that objective a clearer place on their map.
+Kerben's growing collection of tickets to [[The Karat Cake]] remained in his bunk. The castle's discoveries had narrowed the search for [[Jack Harvey]]'s old amusement park to a region of the former continent, giving that objective a clearer place on their map.
 
 Other commitments remained open. Domyx still intended to rescue [[Ulrich Fjoller]], imprisoned while [[Lorelai Lapis-Acathian]] secretly carried his child. Ceril's proposed bargain involved finding the fiend threatening the [[Rakshasa]] and using that leverage to influence [[Keys Caeradel]] and the [[Demi-Spell]]. The party had not carried out that plan or gained a new lead on the earlier sky-touching member of [[Clan Akathia]].
 
@@ -210,7 +210,7 @@ Domyx still kept the captain's succession arrangement private. Obould had record
 
 The companions also discussed the capabilities accompanying their growth. Domyx gained a divine battle cry that could strengthen nearby allies. Ceril could change the constellation expressed by his luminous form, making his star magic more flexible. Kerben chose further rogue training, improving his ability to avoid a dangerous blow, disengage after striking, and incorporate poisons into his attacks. This gave his interest in developing his own poisons a clearer practical use.
 
-Vokenar gained Divine Intervention, allowing him to call directly for clerical magic beyond his prepared spells. He considered using it to establish a hallowed refuge, raise the dead, or seek Legend Lore about objects and places such as Starfall or The Carrot Cake. These were newly available possibilities; he did not perform those interventions during this session.
+Vokenar gained Divine Intervention, allowing him to call directly for clerical magic beyond his prepared spells. He considered using it to establish a hallowed refuge, raise the dead, or seek Legend Lore about objects and places such as Starfall or The Karat Cake. These were newly available possibilities; he did not perform those interventions during this session.
 
 The party ended rested and stronger, with resources to improve its equipment and ship. Castle Kaedon's expedition had succeeded and the sky had visibly begun to heal, but Obould's captivity now pulled the next journey toward Broy. The companions had remained together through their disagreement, with a plan to divide the immediate travel and gather information before committing to the rescue.
 

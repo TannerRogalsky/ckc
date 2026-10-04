@@ -24,7 +24,7 @@ He is a small, fuzzy, orange, rabbit-like person reaching about a humanoid's kne
 ## Relationships
 
 - [[Theo Harvey]] — His cousin, who disclosed the hidden warrens to the [[Broyish Empire]] and joined its forces. David Harvey wanted him captured alive so the League could learn what he had revealed.
-- [[Jack Harvey]] — His great-uncle and the entrepreneur behind [[The Carrot Cake]]. David Harvey said he had not followed those theatrical ambitions; Theo Harvey had been more interested in them.
+- [[Jack Harvey]] — His great-uncle and the entrepreneur behind [[The Karat Cake]]. David Harvey said he had not followed those theatrical ambitions; Theo Harvey had been more interested in them.
 - [[Lady Jacinthe]] — Praised her protection of his displaced people and joined her in assembling Theo Harvey's bounty.
 
 ## Equipment and Resources

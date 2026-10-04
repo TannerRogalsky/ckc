@@ -6,12 +6,12 @@ sessions_appeared: ["029", "033"]
 related:
   - "[[Rochella Golf]]"
   - "[[Magic Hat]]"
-  - "[[The Carrot Cake]]"
+  - "[[The Karat Cake]]"
 ---
 
 # Boston Golf
 
-Boston Golf was a figure in the old acting company associated with [[The Carrot Cake]]. A fortune-teller automaton portraying him survived in the ruined [[Magic Hat]] and was recovered as a family heirloom.
+Boston Golf was a figure in the old acting company associated with [[The Karat Cake]]. A fortune-teller automaton portraying him survived in the ruined [[Magic Hat]] and was recovered as a family heirloom.
 
 ## Campaign History
 

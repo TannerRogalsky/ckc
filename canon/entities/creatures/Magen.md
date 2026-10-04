@@ -3,14 +3,14 @@ type: creature
 session_introduced: "027"
 sessions_appeared: ["027", "028", "029", "030", "031"]
 related:
-  - "[[The Carrot Cake]]"
+  - "[[The Karat Cake]]"
   - "[[Jack Harvey]]"
   - "[[Penumbra]]"
 ---
 
 # Magen
 
-Magen were magically created, rabbitlike beings that preserved part of [[Jack Harvey]]'s mind and maintained [[The Carrot Cake]]'s hospitality and attractions.
+Magen were magically created, rabbitlike beings that preserved part of [[Jack Harvey]]'s mind and maintained [[The Karat Cake]]'s hospitality and attractions.
 
 ## Description
 
@@ -22,7 +22,7 @@ Some read visitors' thoughts to provide personalized meals or introductions, ope
 
 ### Guides and hospitality
 
-The entrance guide welcomed the party to [[40 Carats]] and described Jack Harvey's constellation of resorts across [[Stark]], connected by teleportation circles. It served [[Kerben]] carrot tea that briefly made him want to remain forever.
+The entrance guide welcomed the party to [[40 Karats]] and described Jack Harvey's constellation of resorts across [[Stark]], connected by teleportation circles. It served [[Kerben]] carrot tea that briefly made him want to remain forever.
 
 Guides directed the party toward [[Magic Hat]], [[Hole Shebang]], and the other destinations, explaining that four lamplighters would unlock Jack Harvey's inner sanctum. One seated inside the [[Haunted Living Tent]] greeted its captives but disintegrated when the party destroyed the tent.
 

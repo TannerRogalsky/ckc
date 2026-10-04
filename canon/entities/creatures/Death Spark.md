@@ -12,7 +12,7 @@ related:
 
 # Death Spark
 
-Death Sparks were small electrical entities encountered throughout [[Hole Shebang]] and the [[King of the Hole]] challenge in [[The Carrot Cake]].
+Death Sparks were small electrical entities encountered throughout [[Hole Shebang]] and the [[King of the Hole]] challenge in [[The Karat Cake]].
 
 ## Description
 

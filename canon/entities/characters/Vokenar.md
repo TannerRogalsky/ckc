@@ -84,7 +84,7 @@ His renewed aasimar powers gave him a sense of belonging to both [[Arkadia]] and
 
 ### Healing and Protection
 
-Vokenar's clerical magic emphasizes sustaining others: Cure Wounds, Healing Word, Mass Cure Wounds, and Aura of Vitality restore companions, while Lesser Restoration reverses afflictions including petrification. Warding Flare and his later strengthened protective flares shield allies. Guarded Mind protects him from mental influence; Calm Emotions and restorative magic help free others from charm and domination. His growth through the Carrot Cake expedition deepened his divine spellcasting, and he prepared for further advancement after the Mana Sea expedition.
+Vokenar's clerical magic emphasizes sustaining others: Cure Wounds, Healing Word, Mass Cure Wounds, and Aura of Vitality restore companions, while Lesser Restoration reverses afflictions including petrification. Warding Flare and his later strengthened protective flares shield allies. Guarded Mind protects him from mental influence; Calm Emotions and restorative magic help free others from charm and domination. His growth through the Karat Cake expedition deepened his divine spellcasting, and he prepared for further advancement after the Mana Sea expedition.
 
 Channel Divinity, Radiance of Dawn, Turn Undead, Guardian of Faith, Spirit Guardians, and his Celestial Defender bring divine protection and opposition to hostile creatures. Nimbus Form and angelic wings give him radiant presence and flight. His wings disappeared after an earlier dragon battle; reincarnation later obscured his aasimar powers until he recognized that they survived within his elven form. His recovered wings saved him during the descent into the Gray Wastes.
 
@@ -138,7 +138,7 @@ At [[Castle Kaedon]], he found [[Sunspite]]'s crushed, rose-covered severed head
 
 Scrying showed [[Obould]] in manacles under Vizier Jade's escort before she detected and dispelled the sensor.
 
-He sailed with Kerben and Domyx to The Pit for ship upgrades, checked on deep worlder integration with Figma Brickfinger, and acquired Sunset's Solace. He noticed a League vessel approaching Lyngbakr Lagoon from an unexpected direction. At the [[Harengon Warrens]], he found the concealed entrance and helped Ceril stop fleeing imperial soldiers. David Harvey privately assured him that [[The Carrot Cake]] remained alive and well.
+He sailed with Kerben and Domyx to The Pit for ship upgrades, checked on deep worlder integration with Figma Brickfinger, and acquired Sunset's Solace. He noticed a League vessel approaching Lyngbakr Lagoon from an unexpected direction. At the [[Harengon Warrens]], he found the concealed entrance and helped Ceril stop fleeing imperial soldiers. David Harvey privately assured him that [[The Karat Cake]] remained alive and well.
 
 Legend Lore revealed that the [[Tome of Satariel]] contained pages made from the souls of 666 wizards and would return to hell if destroyed. On the voyage toward [[Broy]], Vokenar healed the party and the titans [[Farron Acathian II]] and [[Zohai Lapis]] after their battle. Divine scouting located [[Naomi Ue]]'s tavern and safer routes through the capital. He protected threatened coastal travelers and proposed helping the Southport couple afflicted by plague.
 
@@ -148,13 +148,13 @@ In a shared vision with Ceril, he saw Aeris's mortal seed imprisoned within the 
 
 During the northern expedition, Vokenar's water-walking and protective magic supported the crossing. His radiant attack destroyed the [[Remorhaz]] that had swallowed Domyx, enabling the rescue. At [[Acathian Manor]], he remained concealed among hostile titan folk and found no Penumbra; the distant sky there appeared intact.
 
-### Crone's Wounding and the Carrot Cake
+### Crone's Wounding and the Karat Cake
 
 After finding hidden Penumbra aboard [[The White Drake]], Vokenar proposed placing [[Antumbra]] in the League's stock so it would reach Broy and Starfall. Sigil advised that Obould was less endangered than he seemed, but that Broy was more dangerous than the party understood. Crone then recalled Vokenar to training. He left The Opal expecting several weeks away because he was not ready for the coming battle; Kerben was already carrying acting command during Obould's captivity.
 
 Outside the worlds, Vokenar fought demons and sparred with Crone while Sigil defended his ethics against her sister's harsher expectations. Aeris rested among the stars, strengthened by the party's Penumbra work. When Crone began bleeding and aging during sparring, the apparent sword wound proved to be an attack from below: Vokenar scryed Emperor Shen firing Starfall at the moon. Crone's dying command was to focus on restoring Aeris and never waver. He returned to the crew, relayed the message, and later received private counsel from Sigil about Crone and the elves. Crone subsequently survived and recovered.
 
-In Cutlass Cray, Vokenar established a holy refuge and obtained the Moon Blade. At The Carrot Cake, he warned the party of a Cloaker and helped overcome the park's dangers. He accepted a Magen's billiards challenge and lost despite Ceril's discreet assistance. His restorative magic repeatedly reversed petrification during the Magic Hat and King of the Hole challenges. On [[Hole on Wheels]], Blade Barrier opened the train's roof, and he helped free Red Caesar from the Vampiric Nightbringer's domination as Ceril admitted sunlight.
+In Cutlass Cray, Vokenar established a holy refuge and obtained the Moon Blade. At The Karat Cake, he warned the party of a Cloaker and helped overcome the park's dangers. He accepted a Magen's billiards challenge and lost despite Ceril's discreet assistance. His restorative magic repeatedly reversed petrification during the Magic Hat and King of the Hole challenges. On [[Hole on Wheels]], Blade Barrier opened the train's roof, and he helped free Red Caesar from the Vampiric Nightbringer's domination as Ceril admitted sunlight.
 
 He later helped shield Domyx from the seawater behind [[Jack Harvey]]'s sanctum and fought [[The Tyrant]] in the underwater vault. Once the party recovered the Penumbra, Word of Recall brought them to The Opal, where he healed injured crew members.
 

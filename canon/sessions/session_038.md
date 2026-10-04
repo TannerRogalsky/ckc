@@ -124,15 +124,15 @@ Red Caesar still possessed the [[Demi-Spell]]. Its magic offered the possibility
 
 The charter was established and displayed as the framework of the new order. Vizier Jade then submitted to its judgment. Her past conduct placed her in violation of the laws they had written, and she accepted years of imprisonment in a Broyish jail as repayment. Their shared hope became an actual political settlement, and her accountability became part of it. The conversation proposed roles for Red Caesar without separately confirming a formal appointment to every title discussed.
 
-#### Kerben, 40 Carats, and the stars
+#### Kerben, 40 Karats, and the stars
 
-At the wedding, Obould brought [[Theo Harvey]] to Kerben. Theo Harvey thanked him for the balloon that had saved him from the imperial guards at [[The Carrot Cake]]. Since escaping, he had met Obould and gathered surviving members of [[40 Carats]] from Cutlass Cray and The Garden.
+At the wedding, Obould brought [[Theo Harvey]] to Kerben. Theo Harvey thanked him for the balloon that had saved him from the imperial guards at [[The Karat Cake]]. Since escaping, he had met Obould and gathered surviving members of [[40 Karats]] from Cutlass Cray and The Garden.
 
 He offered Kerben the chance to put the company back together. Kerben accepted and chose that work as his immediate future. Rebuilding the troupe would let Theo Harvey see it in its former spirit and bring the surviving performers together.
 
 Obould thanked Kerben for caring for The Opal and confirmed that he was its permanent captain. He also gave him a [[Spelljammer]], a geode-like device with iridescent crystal within a rocky exterior. Southern orcish guilds had originally supplied it to Obould, who had kept it until the ship could withstand its power. Mounted aboard The Opal, it would allow Kerben to leave their plane and explore the astral and other worlds.
 
-As the oceans drew back, places Kerben had known became accessible again. He found [[Jack Harvey]]'s grave near [[Esperanto]], where it had remained beneath the sea, and paid his respects. He successfully reunited 40 Carats and spent the next part of his life leading it.
+As the oceans drew back, places Kerben had known became accessible again. He found [[Jack Harvey]]'s grave near [[Esperanto]], where it had remained beneath the sea, and paid his respects. He successfully reunited 40 Karats and spent the next part of his life leading it.
 
 In later years, old and gray, Kerben returned to The Opal and sailed into the stars. He went in search of unfamiliar worlds, animals, and landscapes. The record established that departure without fixing his ultimate destination or fate. Vokenar's consecrations remained enduring enchantments aboard the ship, though the Spelljammer would temporarily suspend them during astral travel.
 
@@ -170,7 +170,7 @@ The other sisters urged that he be given time to recover as well. Vokenar accept
 
 The closing account settled several consequences beyond the companions' own epilogues. [[Southport]] fully recovered from its magical illness following the party's work with [[Janeera]] and the local community. Obould and Lady Jacinthe later had half-orc children.
 
-[[Beryzoz Helmscar]] used divination to discover the repeated thefts of his ships, including Kerben's part in them. He confronted the dwarf, and they settled the grievance through a season pass to the revived 40 Carats.
+[[Beryzoz Helmscar]] used divination to discover the repeated thefts of his ships, including Kerben's part in them. He confronted the dwarf, and they settled the grievance through a season pass to the revived 40 Karats.
 
 When the waters withdrew from Lyngbakr Lagoon, they revealed the rim of a volcanic caldera. Emperor Shen's attack had killed residents, but many had escaped. The place no longer resembled its former island lagoon. [[Lyngbakr]] had returned to Arkadia and was swimming in its recovering ocean.
 
@@ -200,7 +200,7 @@ No additional in-world events were established in this final chunk.
 - Stark's oceans began retreating, exposing old lands and settling Cutlass Cray onto mountains. Obould and Lady Jacinthe married aboard The White Drake.
 - Red Caesar erased the Demi-Spell and used its paper for Broy's governing charter. Vizier Jade helped establish the settlement and accepted imprisonment for her crimes.
 - Ceril helped restore life to the revealed lands before retiring to his star.
-- Kerben rebuilt 40 Carats, visited Jack Harvey's grave, and eventually left for the stars with The Opal and Obould's Spelljammer.
+- Kerben rebuilt 40 Karats, visited Jack Harvey's grave, and eventually left for the stars with The Opal and Obould's Spelljammer.
 - Domyx returned to a more open titan society and reconciled with Domyx IV.
 - Vokenar awakened young again in Arkadia, retained his experience, and accepted Crone's training for a future struggle in the deeper hells.
 
@@ -218,5 +218,5 @@ The goddesses were well in Arkadia, and the moon and oceans were recovering. The
 - [[canon/sessions/session_024#Chunk 0000|Ceril's care for Aeris]] grew into Gaokerena's forest, leading to the blessing received in [[canon/sessions/session_037#Chunk 0000|session 037]]. Its use here saved Kerben and renewed the magic needed for Vokenar's escape plan.
 - The repaired [[Hole in the Sky]] and [[Crone]]'s recovery followed the upheavals of [[canon/sessions/session_031#Chunk 0004|the ascent from Lyngbakr Lagoon]]. The lower boundary's collapse now let Stark's excess water drain away without an accelerated Genesis Mundi.
 - [[canon/sessions/session_035#Chunk 0002|Keys Caeradel's surrender of the Demi-Spell]] left its final use to the party. Red Caesar's erasure fulfilled the alternative he had identified there; the epilogue also established the Rakshasa's crystal in Feronia Caeradel's custody.
-- [[canon/sessions/session_034#Chunk 0000|Obould's renewed proposal and Kerben's captaincy]] developed into the wedding and renewed confirmation of command. [[canon/sessions/session_031#Chunk 0001|Theo Harvey's escape]] led to the reunion of 40 Carats.
+- [[canon/sessions/session_034#Chunk 0000|Obould's renewed proposal and Kerben's captaincy]] developed into the wedding and renewed confirmation of command. [[canon/sessions/session_031#Chunk 0001|Theo Harvey's escape]] led to the reunion of 40 Karats.
 - [[canon/sessions/session_024#Chunk 0003|Domyx's rejection of his clan and his father's disowning]] gave way to reconciliation without imposing the divine inheritance he had refused.

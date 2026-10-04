@@ -128,7 +128,7 @@ Naomi Ue offered a quiet thieves' approach to the palace. Red Caesar instead ask
 
 When Red Caesar pointed to the restored sky, Naomi Ue showed him what the city's people could actually see: the same old broken heavens. A Mirage Arcana concealed the repair above Broy. Revealing the true sky would provide both a signal and a grievance around which the diversion could gather.
 
-Red Caesar hired her people to be ready near the palace. On the sky's change, they were to make a brief disturbance against imperial authority and withdraw into the shadows. After haggling, Naomi Ue accepted gold, [[Jade's Compass]], and The Carrot Cake plans the party had recovered. She promised a return worth the payment while insisting that their meeting had never happened.
+Red Caesar hired her people to be ready near the palace. On the sky's change, they were to make a brief disturbance against imperial authority and withdraw into the shadows. After haggling, Naomi Ue accepted gold, [[Jade's Compass]], and The Karat Cake plans the party had recovered. She promised a return worth the payment while insisting that their meeting had never happened.
 
 #### Removing the false sky
 
@@ -204,7 +204,7 @@ After several days sailing through fog, they approached alongside refugee boats 
 - The crew's real discussion favored going to Broy. Ceril returned to The Opal, and Kerben discovered that his egg could carry the vessel and crew.
 - Obould left for The White Drake with the recovered wedding band to seek Lady Jacinthe.
 - Vizier Jade secretly used Feign Death to spare Domyx after Emperor Shen ordered his execution.
-- Red Caesar paid Naomi Ue with gold, Jade's Compass, and The Carrot Cake plans. The rescuers dispelled Broy's false sky, triggering a diversion and uprising.
+- Red Caesar paid Naomi Ue with gold, Jade's Compass, and The Karat Cake plans. The rescuers dispelled Broy's false sky, triggering a diversion and uprising.
 - Emperor Shen and Vizier Jade teleported to Starfall. Vizier Jade left Domyx's cage open; the party restored him and located Vokenar's preserved body.
 - Ceril escaped through plants with the companions and body, then reincarnated Vokenar at the Temple of Sigil. The forced high elf form exposed corruption already active in the incarnation cycle.
 - Courteous Cam and Otto agreed to reopen the Funnel's collapsed descent into the abyss beneath Stark, requiring several weeks.

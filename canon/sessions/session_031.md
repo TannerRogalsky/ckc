@@ -14,7 +14,7 @@ summary: "Jack Harvey's hoard restores the sky and reveals Starfall's location; 
 
 #### Kerben preserves the ship
 
-The opening returned to [[Kerben]]'s defense of [[The Opal]] while his four companions were still completing [[The Carrot Cake]]'s challenges. Imperial vessels had found the ship, and it had already taken damage by the time he returned in the longboat. [[Ulrich Fjoller]], [[Brim the Bullywog]], [[Yalet Mora]], and the other crew members worked its upgraded weapons, while Kerben took the helm. His priority was to keep the crew alive rather than attempt to defeat the approaching fleet.
+The opening returned to [[Kerben]]'s defense of [[The Opal]] while his four companions were still completing [[The Karat Cake]]'s challenges. Imperial vessels had found the ship, and it had already taken damage by the time he returned in the longboat. [[Ulrich Fjoller]], [[Brim the Bullywog]], [[Yalet Mora]], and the other crew members worked its upgraded weapons, while Kerben took the helm. His priority was to keep the crew alive rather than attempt to defeat the approaching fleet.
 
 Kerben ordered Yalet Mora to operate the bilge pump and identified the most dangerous vessel, partly concealed behind the leading escort. Damaged steering ropes made turning The Opal harder than expected, but he brought its weapons to bear. The combined attack disabled enemy munitions, and the great arbalest broke the vessel's mast. Its inability to sail gave the crew a brief reprieve while the pump slowed the water entering their own hull.
 
@@ -28,7 +28,7 @@ Kerben consumed the ghost-ship token, making The Opal disappear from outside vie
 
 The next morning, an imperial boat landed near the entrance. Soldiers searched the trees with lanterns and forced a manacled [[Theo Harvey]] ahead of them. Kerben remained hidden and used Speak with Animals to send [[Tango]] scouting. He overheard Theo Harvey claiming that he had guided the earlier visitors while blindfolded and could not identify them. Theo Harvey also insisted that the park had probably already been looted. His escort distrusted the story and pushed him onward.
 
-Tango identified the [[Imperial Xihe]] farther offshore by its marked masthead. He suspected that the Empire's ruler or fleet commander might be aboard and warned that it could arrive within hours. Kerben followed the landing party into The Carrot Cake rather than fight it alone. The soldiers had killed the helpful [[Magen]] near the entrance. Theo Harvey's constant conversation distracted them enough for Kerben to move ahead through the stalls and find cover near the great vault door.
+Tango identified the [[Imperial Xihe]] farther offshore by its marked masthead. He suspected that the Empire's ruler or fleet commander might be aboard and warned that it could arrive within hours. Kerben followed the landing party into The Karat Cake rather than fight it alone. The soldiers had killed the helpful [[Magen]] near the entrance. Theo Harvey's constant conversation distracted them enough for Kerben to move ahead through the stalls and find cover near the great vault door.
 
 All four lamps were lit, but the imperials could not open the door. Theo Harvey used that failure to reinforce his claim that the earlier visitors had taken everything and that continuing would waste their time. Their commander refused to leave. Kerben watched an imperial spellcaster examine the barrier, keeping his weapons ready while waiting for his companions.
 
@@ -205,7 +205,7 @@ The hidden Opal later recovered him. Kerben and Obould were safe aboard, and the
 ### Summary
 
 - Kerben and the crew preserved The Opal through a naval assault, using its upgraded weapons, a Conjure Barrage scroll, the air elemental, and the ghost-ship token to escape west invisibly.
-- At The Carrot Cake, Kerben freed Theo Harvey and gave him a balloon token. Theo Harvey escaped, intending to hide among the dwarves.
+- At The Karat Cake, Kerben freed Theo Harvey and gave him a balloon token. Theo Harvey escaped, intending to hide among the dwarves.
 - The reunited party defeated Fharan's force. Red Caesar removed his lethal contingency; the dying seneschal disclosed Obould's imminent arrival and named Sigil as Starfall's next target.
 - The party safely opened the flooded vault. Red Caesar gathered Jack Harvey's immense Penumbra hoard into an Obvolvo Caelum sphere, and Kerben and Domyx found Jade's Compass.
 - Red Caesar charmed The Tyrant after the companions exhausted its defenses. It identified Axis Mundi as Starfall's location and described its own connection to the weapon before an unseen force destroyed it.

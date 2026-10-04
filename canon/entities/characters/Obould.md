@@ -71,4 +71,4 @@ At [[The White Drake]], Obould challenged Lady Jacinthe over risking the world t
 
 ## Final Status
 
-Obould married Lady Jacinthe aboard The White Drake near the former lagoon. They later had half-orc children. At the wedding he confirmed Kerben's permanent captaincy, gave him the Spelljammer, and introduced the grateful Theo Harvey, whose proposal helped revive [[40 Carats]]. Obould's final commitment was family life and shared leadership of the League. [[canon/sessions/session_038#Chunk 0002]]
+Obould married Lady Jacinthe aboard The White Drake near the former lagoon. They later had half-orc children. At the wedding he confirmed Kerben's permanent captaincy, gave him the Spelljammer, and introduced the grateful Theo Harvey, whose proposal helped revive [[40 Karats]]. Obould's final commitment was family life and shared leadership of the League. [[canon/sessions/session_038#Chunk 0002]]

@@ -8,7 +8,7 @@ sessions_appeared:
 
 # Cloaker
 
-Cloakers were predatory, bat-like creatures encountered in [[The Carrot Cake]], including its [[King of the Hole]] challenge.
+Cloakers were predatory, bat-like creatures encountered in [[The Karat Cake]], including its [[King of the Hole]] challenge.
 
 ## Description
 

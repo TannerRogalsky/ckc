@@ -6,7 +6,7 @@ sessions_appeared: ["027", "028", "029"]
 aliases:
   - The Magic Hat
 related:
-  - "[[The Carrot Cake]]"
+  - "[[The Karat Cake]]"
   - "[[City Hole]]"
   - "[[Magen]]"
   - "[[Gorgon Head]]"
@@ -19,7 +19,7 @@ related:
 
 # Magic Hat
 
-Magic Hat is the hotel and bunker destination in [[The Carrot Cake]]. It sheltered the party during its search for [[Jack Harvey]]'s sanctum, before its electrical supply was redirected to the sealed gate.
+Magic Hat is the hotel and bunker destination in [[The Karat Cake]]. It sheltered the party during its search for [[Jack Harvey]]'s sanctum, before its electrical supply was redirected to the sealed gate.
 
 ## Geography and Access
 

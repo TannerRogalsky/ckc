@@ -21,8 +21,8 @@ related:
   - "[[Jack Harvey]]"
   - "[[Farraday]]"
   - "[[Theo Harvey]]"
-  - "[[40 Carats]]"
-  - "[[The Carrot Cake]]"
+  - "[[40 Karats]]"
+  - "[[The Karat Cake]]"
   - "[[Zulu]]"
   - "[[Tango]]"
   - "[[Kilosaurus]]"
@@ -48,13 +48,13 @@ related:
 
 # Kerben
 
-A dwarf ranger and rogue, Kerben is the party's scout and marksman and the permanent captain of [[The Opal]], succeeding [[Obould]]. His connections to [[Jack Harvey]] and [[Farraday]] help lead the party to [[The Carrot Cake]] and the [[Penumbra]] needed to repair the sky. After the campaign, he rebuilds [[40 Carats]] before eventually sailing into the stars to explore other worlds.
+A dwarf ranger and rogue, Kerben is the party's scout and marksman and the permanent captain of [[The Opal]], succeeding [[Obould]]. His connections to [[Jack Harvey]] and [[Farraday]] help lead the party to [[The Karat Cake]] and the [[Penumbra]] needed to repair the sky. After the campaign, he rebuilds [[40 Karats]] before eventually sailing into the stars to explore other worlds.
 
 ## Identity and Background
 
 Kerben's surname is Graphene. He is a survivor of [[The Cataclysm]] with a sailor's background, accustomed to navigation, rigging, knots, and life aboard ship. He began the campaign as [[The Opal]]'s first mate, sharing navigation duties with [[Raxxy]] before taking command himself.
 
-Before the Cataclysm, Kerben worked for [[Jack Harvey]], running his museum and belonging to the [[40 Carats]] company. He remembers its old routes and Jack Harvey's talent for assembling people with complementary skills. He also worked for [[Farraday]], later revealed as an [[Arcanoloth]] and Jack Harvey's benefactor. These were distinct employers whose surviving projects brought Kerben's past into the party's search for the broken sky.
+Before the Cataclysm, Kerben worked for [[Jack Harvey]], running his museum and belonging to the [[40 Karats]] company. He remembers its old routes and Jack Harvey's talent for assembling people with complementary skills. He also worked for [[Farraday]], later revealed as an [[Arcanoloth]] and Jack Harvey's benefactor. These were distinct employers whose surviving projects brought Kerben's past into the party's search for the broken sky.
 
 While visiting [[Darvenlast]], Kerben recalled childhood excursions into the Deep World and associated his familiarity with its toxic fumes with his resistance to poison. His memories of the old world also include [[Kaedon]]: recognizing [[Lady Acelia]]'s name helped him recall her place in [[Alamar]]'s family and the royal family's dispersal after the monarchy ended.
 
@@ -64,24 +64,24 @@ Kerben takes a practical interest in animals, useful materials, and poison craft
 
 His gruff manner initially made the managerial side of captaincy difficult. Filling [[Obould]]'s place taught him how much quiet work went into delegation, crew relations, and keeping the ship running. When imperial forces threatened [[The Opal]], he repeatedly stayed aboard to protect it; during the naval assault, he prioritized getting the crew away over defeating the whole fleet.
 
-Kerben's attachment to [[Jack Harvey]]'s legacy gives his exploration a personal purpose. He secretly freed [[Theo Harvey]] to obtain the route to [[The Carrot Cake]], seeking an escape with as few casualties as possible and hoping Theo Harvey would repay the favor if their positions were reversed. When offered the chance to leave the plane after the finale, he chose first to rebuild [[40 Carats]] and see who remained of its old company.
+Kerben's attachment to [[Jack Harvey]]'s legacy gives his exploration a personal purpose. He secretly freed [[Theo Harvey]] to obtain the route to [[The Karat Cake]], seeking an escape with as few casualties as possible and hoping Theo Harvey would repay the favor if their positions were reversed. When offered the chance to leave the plane after the finale, he chose first to rebuild [[40 Karats]] and see who remained of its old company.
 
 ## Relationships
 
 - [[Obould]] — His former captain and eventual predecessor. Kerben struggled with command during Obould's captivity, helped free him at [[Lyngbakr Lagoon]], and received permanent command when Obould retired. Obould later thanked him for protecting the ship and gave him a [[Spelljammer]].
 - [[Raxxy]] — His fellow navigator and crewmate aboard [[The Opal]]. She chose to remain with Kerben when Obould retired, providing continuity as the ship changed captains.
-- [[Jack Harvey]] — His former employer and the founder of [[40 Carats]]. Kerben's memories of Jack Harvey and his museum helped connect the park's surviving clues to its intended refuge. Rebuilding the company and visiting Jack Harvey's recovered grave renewed that connection after the campaign.
-- [[Farraday]] — Another pre-Cataclysm employer, whose supposed crypt held clues to [[The Carrot Cake]]. Learning that Farraday had survived as a fiend turned an old association into a confrontation: Kerben destroyed his ledger and his body on [[Stark]], forcing him back to hell.
-- [[Theo Harvey]] — Initially an imperial collaborator held aboard [[The Opal]], then Kerben's secret bargaining partner. Their shared interest in Jack Harvey led to Theo Harvey's first escape; Kerben freed him again after the Empire recaptured him. Theo Harvey repaid those rescues by gathering surviving [[40 Carats]] performers.
+- [[Jack Harvey]] — His former employer and the founder of [[40 Karats]]. Kerben's memories of Jack Harvey and his museum helped connect the park's surviving clues to its intended refuge. Rebuilding the company and visiting Jack Harvey's recovered grave renewed that connection after the campaign.
+- [[Farraday]] — Another pre-Cataclysm employer, whose supposed crypt held clues to [[The Karat Cake]]. Learning that Farraday had survived as a fiend turned an old association into a confrontation: Kerben destroyed his ledger and his body on [[Stark]], forcing him back to hell.
+- [[Theo Harvey]] — Initially an imperial collaborator held aboard [[The Opal]], then Kerben's secret bargaining partner. Their shared interest in Jack Harvey led to Theo Harvey's first escape; Kerben freed him again after the Empire recaptured him. Theo Harvey repaid those rescues by gathering surviving [[40 Karats]] performers.
 - [[Zulu]] — His dinosaur companion, used for scouting, protection, and distractions. Kerben repeatedly restored Zulu after injuries; [[Vokenar]] restored him after he fell during the confrontation at [[House Erendel]].
 - [[Tango]] — His flying companion and aerial scout, whom Kerben resummoned after specters drained him at [[Castle Kaedon]]. Tango later carried warnings between ship and party and helped Kerben escape danger through [[The Ascot]]'s place-swapping magic, including during the final battles.
 - [[Kilosaurus]] — The triceratops-like beast Kerben befriended in [[Darvenlast]], named, and used to haul [[Penumbra]]. The party left Kilosaurus at [[Lyngbakr Lagoon]]. The epilogue suggested he probably died, but no death was witnessed.
 - [[Victor, the Amphibious Beast]] — His large crocodilian companion, suited to travel on land and in water. Victor, the Amphibious Beast accompanied him through the [[Mana Sea]] and helped the party during the Aboleth encounter.
 - [[Ceril]] — A fellow naturalist and companion with whom he could summon the same crab spirit. Ceril removed Kerben's Mark of the Home curse and later freed him from [[Emperor Shen]]'s maze by drawing the party into [[Ceril's Star]].
-- [[Red Caesar]] — A collaborator in reconnaissance and the sabotage of [[Starfall]]. Kerben planted the [[Antumbra]] Red Caesar and his collaborators produced; they also combined animal speech with [[Beryzoz's Teeth]] to question an expedition dog. Kerben used a restoration scroll to release Red Caesar from paralysis at [[The Carrot Cake]].
+- [[Red Caesar]] — A collaborator in reconnaissance and the sabotage of [[Starfall]]. Kerben planted the [[Antumbra]] Red Caesar and his collaborators produced; they also combined animal speech with [[Beryzoz's Teeth]] to question an expedition dog. Kerben used a restoration scroll to release Red Caesar from paralysis at [[The Karat Cake]].
 - [[Domyx]] — A companion with whom Kerben exchanged important rescues. Kerben extracted him from a defeated [[Remorhaz]], while Domyx pulled Kerben free of an [[Aboleth]]. Together they freed Obould, at the cost of Domyx's own capture.
 - [[Vokenar]] — His companion and the means of the party's final escape. Vokenar stayed behind in the flooding [[Gray Wastes]] and banished Kerben home while Kerben carried the stored ship and everyone aboard.
-- [[Beryzoz Helmscar]] — The armorer who made [[Vivarian Zodex]] and later identified Kerben among the thieves who had taken his ships. Their grievance was settled in the epilogue with a pass to the revived [[40 Carats]] company.
+- [[Beryzoz Helmscar]] — The armorer who made [[Vivarian Zodex]] and later identified Kerben among the thieves who had taken his ships. Their grievance was settled in the epilogue with a pass to the revived [[40 Karats]] company.
 
 ## Abilities
 
@@ -136,7 +136,7 @@ Kerben resists poison and works with toxins as ingredients rather than merely ha
 
 ### Early Voyages and Darvenlast
 
-Kerben began among the original companions aboard [[The Opal]]. His search for [[The Carrot Cake]] grew from tickets found in [[Farraday]]'s supposed crypt and other early clues. That visit is recalled later, but the surviving early record does not establish its session. The tomb's significance became clear only when the party eventually met Farraday alive.
+Kerben began among the original companions aboard [[The Opal]]. His search for [[The Karat Cake]] grew from tickets found in [[Farraday]]'s supposed crypt and other early clues. That visit is recalled later, but the surviving early record does not establish its session. The tomb's significance became clear only when the party eventually met Farraday alive.
 
 In [[Darvenlast]], Kerben used his language skills to challenge cult followers and demand passage to [[Morel Chainsunder]], while his stone sense revealed the city's passages and approaching ambushes. He detained captured spies and used his keyring's truth magic to obtain information. He befriended the triceratops-like beast later named [[Kilosaurus]], learned its commands through animal speech and Northern postings, and directed it against the [[Fire Giant]]. In the church, his shots made the apparent Morel Chainsunder bleed, undermining the congregation's image of an invulnerable leader. The party discovered that this figure was a manifestation sustained by shared fear; the real Morel Chainsunder had died long before.
 
@@ -160,7 +160,7 @@ Kerben continued as acting captain while Red Caesar worked at [[The Academy]], t
 
 Kerben was the first aboard The Opal to see Starfall's strike against the moon and warned about possible consequences for tides, debris, and Brimbolyn. He helped defeat Xarag at [[Xarag's Island]], salvaging material for Red Caesar's acid-resistance preparations. He also helped repel the [[Gun Balloon]] boarders and gathered binding materials for [[Transel]]'s raft.
 
-After restocking in Cutlass Cray, Kerben guided the party to The Carrot Cake, recognizing its 40 Carats branding and recalling Jack Harvey's conversion of the park into a bunker. He won carrot coins at the carnival and helped recover Jack Harvey's Portrait from the haunted tent. In the Hole Shebang, he spent his final Tatzelwurm Gizzard Juice at Al-Qadif's Tower of Treasures and won the Smack a Bodak game with Red Caesar's help. These events connected his old employer's surviving entertainment grounds to the refuge hidden beyond them.
+After restocking in Cutlass Cray, Kerben guided the party to The Karat Cake, recognizing its 40 Karats branding and recalling Jack Harvey's conversion of the park into a bunker. He won carrot coins at the carnival and helped recover Jack Harvey's Portrait from the haunted tent. In the Hole Shebang, he spent his final Tatzelwurm Gizzard Juice at Al-Qadif's Tower of Treasures and won the Smack a Bodak game with Red Caesar's help. These events connected his old employer's surviving entertainment grounds to the refuge hidden beyond them.
 
 Imperial reconnaissance drew him back to the ship while the party continued through the park. Tango carried his warnings that imperial boats had attacked and a larger fleet was approaching in the moonless dark. Kerben commanded the naval defense, crippled the most dangerous escort, released the ship's air elemental, and concealed The Opal with a ghost-ship feather token. The crew escaped west toward Lyngbakr Lagoon.
 
@@ -190,10 +190,10 @@ The resurrected Emperor Shen trapped Kerben in a magical maze, but Ceril's Star 
 
 ### Rebuilding and Departure
 
-At Obould and [[Lady Jacinthe]]'s wedding, Theo Harvey offered the surviving 40 Carats performers he had gathered, and Obould reaffirmed Kerben's captaincy and gave him the Spelljammer. Kerben chose to rebuild the troupe first. Receding oceans revealed places along its old routes and Jack Harvey's grave near [[Esperanto]], allowing him to pay his respects. He also settled Beryzoz Helmscar's ship-theft grievance through a pass to the revived troupe. In later life he left aboard The Opal to explore other worlds.
+At Obould and [[Lady Jacinthe]]'s wedding, Theo Harvey offered the surviving 40 Karats performers he had gathered, and Obould reaffirmed Kerben's captaincy and gave him the Spelljammer. Kerben chose to rebuild the troupe first. Receding oceans revealed places along its old routes and Jack Harvey's grave near [[Esperanto]], allowing him to pay his respects. He also settled Beryzoz Helmscar's ship-theft grievance through a pass to the revived troupe. In later life he left aboard The Opal to explore other worlds.
 
 ## Final Status
 
-Kerben survives the final confrontation, remains The Opal's permanent captain, and rebuilds 40 Carats before eventually departing into the stars. His Spelljammer gives the ship a means of reaching other planes, and his later exploration follows his interest in strange animals and unfamiliar environments.
+Kerben survives the final confrontation, remains The Opal's permanent captain, and rebuilds 40 Karats before eventually departing into the stars. His Spelljammer gives the ship a means of reaching other planes, and his later exploration follows his interest in strange animals and unfamiliar environments.
 
 His eventual destination and fate are unknown; the record does not establish where he settled or what became of his crew.

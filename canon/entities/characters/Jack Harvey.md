@@ -4,18 +4,18 @@ subtypes: [npc]
 session_introduced: "018"
 sessions_appeared: ["018", "022", "024", "027", "030", "031", "034", "038"]
 related:
-  - "[[The Carrot Cake]]"
+  - "[[The Karat Cake]]"
   - "[[David Harvey]]"
   - "[[Kaedon]]"
   - "[[Kerben]]"
   - "[[Theo Harvey]]"
   - "[[Penumbra]]"
-  - "[[40 Carats]]"
+  - "[[40 Karats]]"
 ---
 
 # Jack Harvey
 
-Jack Harvey was an entrepreneur of old [[Kaedon]], founder of [[40 Carats]], and creator of [[The Carrot Cake]]. His protected [[Penumbra]] hoard supplied the sky's restoration, and [[Kerben]] later renewed his theatrical legacy after visiting his long-submerged grave.
+Jack Harvey was an entrepreneur of old [[Kaedon]], founder of [[40 Karats]], and creator of [[The Karat Cake]]. His protected [[Penumbra]] hoard supplied the sky's restoration, and [[Kerben]] later renewed his theatrical legacy after visiting his long-submerged grave.
 
 ## Identity and Background
 
@@ -29,8 +29,8 @@ Jack Harvey converted his amusement park into a fortified refuge as the world ch
 
 ## Relationships
 
-- [[Kerben]] — Former employee who recovered Jack Harvey's portrait and hoard, paid respects at his grave, and reunited 40 Carats.
-- [[Farraday]] — Fiendish benefactor and later steward of The Carrot Cake after Jack Harvey resigned direct control.
+- [[Kerben]] — Former employee who recovered Jack Harvey's portrait and hoard, paid respects at his grave, and reunited 40 Karats.
+- [[Farraday]] — Fiendish benefactor and later steward of The Karat Cake after Jack Harvey resigned direct control.
 - [[David Harvey]] — Great-nephew who said he had not followed Jack Harvey's theatrical ambitions and later received [[Jack Harvey's Portrait]] for the family.
 - [[Theo Harvey]] — Relative inspired by his empire of spectacle, whose knowledge helped Kerben find the surviving park and reunite its performers.
 
@@ -40,14 +40,14 @@ His distinctive skill lay in organizing specialists and large magical projects. 
 
 ## Equipment and Resources
 
-- [[40 Carats]] — His entertainment company, later revived under Kerben's leadership.
-- [[The Carrot Cake]] — His former amusement park linking mountain resorts through magical transport. Later defenses secured old-world treasures and sky fragments behind the inner sanctum's gate.
+- [[40 Karats]] — His entertainment company, later revived under Kerben's leadership.
+- [[The Karat Cake]] — His former amusement park linking mountain resorts through magical transport. Later defenses secured old-world treasures and sky fragments behind the inner sanctum's gate.
 - [[Penumbra]] — Vast hoard protected in his vault until the party recovered it for [[Lyngbakr]]. It was consumed to repair the sky.
 - [[Jack Harvey's Portrait]] — Former likeness recovered from the [[Haunted Living Tent]], later entrusted to David Harvey aboard [[The White Drake]].
 
 ## Campaign History
 
-A dead noble in [[Castle Kaedon]] carried tickets to The Carrot Cake and described its linked mountaintop destinations. She had intended to attend before [[The Cataclysm]] prevented the journey. Later testimony from David Harvey and Theo Harvey established Jack Harvey's family connections and suggested that his final project survived. See [[session_018#Chunk 0001]] and [[session_022]].
+A dead noble in [[Castle Kaedon]] carried tickets to The Karat Cake and described its linked mountaintop destinations. She had intended to attend before [[The Cataclysm]] prevented the journey. Later testimony from David Harvey and Theo Harvey established Jack Harvey's family connections and suggested that his final project survived. See [[session_018#Chunk 0001]] and [[session_022]].
 
 Theo Harvey privately told Kerben how Jack Harvey assembled his crew and preserved the broken sky. Reaching the park, the party found its surviving Magen, treasures, and defenses; Kerben and [[Red Caesar]] saved the portrait as the living tent collapsed. A Magen later explained the transfer of stewardship to Farraday and the four lamps required to reach the sanctum. See [[session_024#Chunk 0000]], [[session_027#Chunk 0002]], and [[session_030#Chunk 0000]].
 
@@ -55,4 +55,4 @@ Jack Harvey's preserved magical voice welcomed [[Domyx]] when the party opened t
 
 ## Final Status
 
-As the oceans receded, Kerben found Jack Harvey's grave near Esperanto and paid his respects, confirming the death earlier suggested by the park's guides. Theo Harvey helped reunite the surviving 40 Carats performers, and Kerben successfully rebuilt the company. Jack Harvey's legacy continued through that work; he was not restored to life. See [[session_038#Chunk 0002]].
+As the oceans receded, Kerben found Jack Harvey's grave near Esperanto and paid his respects, confirming the death earlier suggested by the park's guides. Theo Harvey helped reunite the surviving 40 Karats performers, and Kerben successfully rebuilt the company. Jack Harvey's legacy continued through that work; he was not restored to life. See [[session_038#Chunk 0002]].

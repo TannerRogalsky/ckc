@@ -30,13 +30,13 @@ Planar Binding offered a more practical possibility: they might compel the fiend
 
 The party still believed it had only about sixteen days before Obould's threatened execution. Entering the pyramid without adequate preparation could cost them their souls and the chance to rescue him. They chose to continue toward Broy, leaving the pyramid for later and considering whether they could obtain useful spells before returning. Kerben drove his point home by stabbing the map and insisting that they proceed. Ceril's suggestion of leaving a familiar to watch the site remained uncarried out.
 
-#### Theo Harvey's account of The Carrot Cake
+#### Theo Harvey's account of The Karat Cake
 
 During Domyx's night watch, Theo Harvey tried to obtain better treatment, asking about more comfortable accommodation and rum. [[Domyx]] kept the party's business guarded and declined to supply alcohol that might become a weapon. He did not accept Theo Harvey's attempt to describe them as friends; friendship, to him, required loyalty.
 
 Theo Harvey claimed that the [[Broyish Empire]] would execute him for failing his assignment, possibly branding him a traitor as a public display of control regardless of how much useful information he possessed. Domyx answered with confidence that the party could protect him. Their recent defeat of Theo Harvey and his imperial escort gave that assurance substance, and the prisoner became more willing to offer information. They did not agree to release him.
 
-Theo Harvey warned that another member of [[Clan Akathia]] was in Broy. He then described [[The Carrot Cake]] as far more dangerous and valuable than an ordinary abandoned amusement park. [[Jack Harvey]] had powered it with Penumbra before the sky broke and had understood the material's connection to the heavens. The park contained a maze of illusions, arcane traps, and magic capable of transporting people across the world.
+Theo Harvey warned that another member of [[Clan Akathia]] was in Broy. He then described [[The Karat Cake]] as far more dangerous and valuable than an ordinary abandoned amusement park. [[Jack Harvey]] had powered it with Penumbra before the sky broke and had understood the material's connection to the heavens. The park contained a maze of illusions, arcane traps, and magic capable of transporting people across the world.
 
 According to Theo Harvey, [[Vizier Jade]] had sent [[The Tyrant]], a huge, bulky creature with a single central eye, to find the park. It had never returned. He presented the maze as a place that could trap anyone entering it, while also imagining its surviving stores and defenses as the basis for a refuge or a rich discovery. He knew something of its whereabouts, but did not provide a precise route during this conversation. His references to the Empire's plans for falling waters were less clear, and did not establish how those plans worked.
 
@@ -251,7 +251,7 @@ The party returned to The Opal and spent the night aboard. While the others rest
 ### Summary
 
 - Ceril located [[Tome Keeper's Pyramid]], and Vokenar learned that the [[Tome of Satariel]] captured souls and had been created from murdered wizards. The party postponed confronting its keeper.
-- [[Theo Harvey]] privately told Domyx that [[The Carrot Cake]] used Penumbra before the Cataclysm and that [[The Tyrant]] had failed to return from Vizier Jade's search for it.
+- [[Theo Harvey]] privately told Domyx that [[The Karat Cake]] used Penumbra before the Cataclysm and that [[The Tyrant]] had failed to return from Vizier Jade's search for it.
 - The party defeated [[Farron Acathian II]] and [[Zohai Lapis]]. Domyx saved The Opal from capsizing, Vokenar healed both Titans, and they departed after giving the party mithril and a map toward the Titan homeland.
 - The party rescued [[Trent Indorra]] and [[Ebbie Indorra]], learned that their children needed [[Deep Roses]] for [[Mana Sickness]], and offered help. Ebbie Indorra gave Ceril a sapphire earring, and the couple reached The Opal safely.
 - [[Naomi Ue]] and [[Vanzia Vynnfae]] cleared the party's imperial warrants for mithril. Ceril reunited with his old escape companion, Red Caesar obtained citizenship and a Broyish teleportation scriptum, and Vokenar paid to outfit The Opal with cannons on both sides.

@@ -23,7 +23,7 @@ The device resembles a sizable geode, with a rocky exterior and bristling, iride
 
 Southern orcish guilds gave the device to Obould, who kept it until The Opal could withstand its power. At his wedding to [[Lady Jacinthe]], he reaffirmed Kerben's permanent captaincy and handed over the Spelljammer as a means of exploring other worlds.
 
-Kerben first chose to rebuild [[40 Carats]] with [[Theo Harvey]]'s help. In later years, he returned to The Opal and sailed among the stars, fulfilling the device's purpose without establishing a final destination.
+Kerben first chose to rebuild [[40 Karats]] with [[Theo Harvey]]'s help. In later years, he returned to The Opal and sailed among the stars, fulfilling the device's purpose without establishing a final destination.
 
 ## Final Status
 

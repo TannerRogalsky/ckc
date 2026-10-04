@@ -8,7 +8,7 @@ aliases:
 related:
   - "[[Rahmadi]]"
   - "[[Magic Hat]]"
-  - "[[The Carrot Cake]]"
+  - "[[The Karat Cake]]"
 ---
 
 # Rahmadi's Capers
@@ -21,7 +21,7 @@ The recovered issue is a hand-drawn periodical with gold trim, depicting Rahmadi
 
 ## Campaign History
 
-While resting at the Magic Hat hotel in [[The Carrot Cake]], [[Vokenar]] sent Arcane Eye through its rooms. The magical eye found the fourth issue lying open on a bed, and the party added it to the shared hold aboard [[The Opal]].
+While resting at the Magic Hat hotel in [[The Karat Cake]], [[Vokenar]] sent Arcane Eye through its rooms. The magical eye found the fourth issue lying open on a bed, and the party added it to the shared hold aboard [[The Opal]].
 
 The discovery suggested a possible collection and trade, but neither a complete set nor an exchange was established.
 

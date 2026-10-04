@@ -4,7 +4,7 @@ subtypes: [landmark]
 session_introduced: "027"
 sessions_appeared: ["027", "029", "030"]
 related:
-  - "[[The Carrot Cake]]"
+  - "[[The Karat Cake]]"
   - "[[City Hole]]"
   - "[[Magen]]"
   - "[[Farraday]]"
@@ -14,7 +14,7 @@ related:
 
 # King of the Hole
 
-King of the Hole is the island resort and coliseum destination in [[The Carrot Cake]]. Its challenges supplied one of the lamps needed for [[Jack Harvey]]'s sanctum, with the [[Hopping Mad Sash]] awarded for the party's optional victory.
+King of the Hole is the island resort and coliseum destination in [[The Karat Cake]]. Its challenges supplied one of the lamps needed for [[Jack Harvey]]'s sanctum, with the [[Hopping Mad Sash]] awarded for the party's optional victory.
 
 ## Geography and Access
 

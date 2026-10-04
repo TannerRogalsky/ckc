@@ -4,14 +4,14 @@ session_introduced: "028"
 sessions_appeared: ["028", "029"]
 related:
   - "[[King of the Hole]]"
-  - "[[The Carrot Cake]]"
+  - "[[The Karat Cake]]"
   - "[[Farraday]]"
   - "[[Shambling Mound]]"
 ---
 
 # Lightning Elemental
 
-Lightning Elementals were living masses of electricity encountered in [[Hole Shebang]] and [[King of the Hole]] within [[The Carrot Cake]].
+Lightning Elementals were living masses of electricity encountered in [[Hole Shebang]] and [[King of the Hole]] within [[The Karat Cake]].
 
 ## Description
 

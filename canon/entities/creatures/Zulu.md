@@ -24,7 +24,7 @@ A diversion aboard [[The White Drake]] drew guards away while Kerben planted [[A
 
 At the [[Southern Archipelago Castle]], he collapsed under oppressive pollen and was restored. After the defeat of [[PAXO]], he led Kerben to an overlooked treasury of [[Esperanto]] coins.
 
-In [[The Carrot Cake]], he remained outside the [[Haunted Living Tent]] with [[Domyx]] and later chewed through [[Roger Ribbons]]' bindings to free Kerben.
+In [[The Karat Cake]], he remained outside the [[Haunted Living Tent]] with [[Domyx]] and later chewed through [[Roger Ribbons]]' bindings to free Kerben.
 
 Zulu accompanied Kerben into [[House Erendel]], where the mirrors showed an elven counterpart to his dinosaur form. [[Boril Erendel]]'s magic struck him down, but [[Vokenar]] restored him before the party left.
 

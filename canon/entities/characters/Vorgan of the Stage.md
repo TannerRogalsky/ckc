@@ -16,7 +16,7 @@ Vorgan of the Stage runs [[The Bad Hare Day Theatre]] in [[Cutlass Cray]]. He jo
 
 ## Personality and Motivations
 
-He wanted to experience the wider world, gather stories, and help sustain [[40 Carats]] through new performances. His role aboard the ship was to support morale, rather than a claim of established martial prowess.
+He wanted to experience the wider world, gather stories, and help sustain [[40 Karats]] through new performances. His role aboard the ship was to support morale, rather than a claim of established martial prowess.
 
 ## Campaign History
 

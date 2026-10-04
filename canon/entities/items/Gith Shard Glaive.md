@@ -23,7 +23,7 @@ Its cleaving force can project beyond the halberd's physical reach as a bolt of 
 
 Domyx commissioned the glaive during the party's return to [[The Pit]], supplying the star gem, a ruby, and gold. It extended his ability to fight beyond ordinary close combat.
 
-On the northern voyage, he carried it onto the ice against the [[Rimefire Hydra]]. Its projecting strikes later helped him reach distant and airborne enemies in [[The Carrot Cake]], including the [[Flame Skull]] threats, and it remained in use during the expedition through the [[Mana Sea]].
+On the northern voyage, he carried it onto the ice against the [[Rimefire Hydra]]. Its projecting strikes later helped him reach distant and airborne enemies in [[The Karat Cake]], including the [[Flame Skull]] threats, and it remained in use during the expedition through the [[Mana Sea]].
 
 Domyx subsequently acquired the [[Cestus of the Clear Sky]] as his principal close weapon. That commission used his former hammer, leaving the glaive distinct from the weapon he traded.
 

@@ -43,7 +43,7 @@
 ## Retrieve Theo Harvey
 - **Given by:** [[David Harvey]]
 - **Resolved:** Session 025
-- **Details:** [[David Harvey]] asked the party to retrieve his traitor cousin [[Theo Harvey]], who had revealed the [[Harengon Warrens]] to the [[Broyish Empire]]. The party captured Theo alive at the warrens island in session 022 and held him aboard [[The Opal]], but [[Kerben]] later freed him in exchange for information about [[The Carrot Cake]]. In session 025, Kerben reported Theo's escape to David. David accepted the outcome because Theo was no longer holding the island for the Empire, allowing the [[Harengon]] to reclaim the warrens.
+- **Details:** [[David Harvey]] asked the party to retrieve his traitor cousin [[Theo Harvey]], who had revealed the [[Harengon Warrens]] to the [[Broyish Empire]]. The party captured Theo alive at the warrens island in session 022 and held him aboard [[The Opal]], but [[Kerben]] later freed him in exchange for information about [[The Karat Cake]]. In session 025, Kerben reported Theo's escape to David. David accepted the outcome because Theo was no longer holding the island for the Empire, allowing the [[Harengon]] to reclaim the warrens.
 
 ## De-petrify the Temple of Sigil priests
 - **Given by:** Implicit (party initiative)
@@ -76,9 +76,9 @@
 - **Details:** A League quest to hunt beach trolls on a nearby island. The party killed one troll but spared [[Transel]] after [[Red Caesar]] charmed him. They built Transel a raft, and he followed them to [[Cutlass Cray]], became bartender at [[The Brine & Bodak]], and later came to run it.
 
 ## Light the four lamps and enter Jack Harvey's inner sanctum
-- **Given by:** [[Magen]] ([[The Carrot Cake]])
+- **Given by:** [[Magen]] ([[The Karat Cake]])
 - **Resolved:** Session 031
-- **Details:** The party lit all four lamps in [[The Carrot Cake]] and returned to the opened inner sanctum door despite the [[Broyish Empire]]'s intervention. They defeated [[Fharan]]'s force, opened [[Jack Harvey]]'s underwater vault, and recovered the hidden [[Penumbra]] hoard.
+- **Details:** The party lit all four lamps in [[The Karat Cake]] and returned to the opened inner sanctum door despite the [[Broyish Empire]]'s intervention. They defeated [[Fharan]]'s force, opened [[Jack Harvey]]'s underwater vault, and recovered the hidden [[Penumbra]] hoard.
 
 ## Rescue Obould from the Broyish Empire
 - **Given by:** [[Obould]] (implied), [[Lady Jacinthe]]
@@ -150,7 +150,7 @@
 - **Resolved:** Session 038
 - **Details:** Red Caesar and Vizier Jade establish a governing charter for [[Broy]] emphasizing laws, succession, and limits on personal power. Red Caesar erases the [[Demi-Spell]] and uses its paper for the charter. Vizier Jade submits to imprisonment under the new laws.
 
-## Reunite 40 Carats
+## Reunite 40 Karats
 - **Given by:** [[Theo Harvey]]
 - **Resolved:** Session 038
-- **Details:** Theo Harvey gathers surviving [[40 Carats]] performers from [[Cutlass Cray]] and [[The Garden]]. [[Kerben]] rebuilds and leads the troupe before eventually leaving aboard [[The Opal]] to explore other worlds.
+- **Details:** Theo Harvey gathers surviving [[40 Karats]] performers from [[Cutlass Cray]] and [[The Garden]]. [[Kerben]] rebuilds and leads the troupe before eventually leaving aboard [[The Opal]] to explore other worlds.

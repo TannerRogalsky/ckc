@@ -1043,3 +1043,6 @@
 ## [2026-10-04] lint | Validated Castle Kaedon Arena map embeds, preserved frontmatter, wiki links, and complete entity index
 ## [2026-10-04] update | Attached five Carrot Cake destination maps, including the inner sanctum vault, to requested location articles
 ## [2026-10-04] lint | Validated five map embeds, preserved location frontmatter, wiki links, and complete entity index
+## [2026-10-04] query | Located Karat naming variants and associated canon references.
+## [2026-10-04] update | Corrected The Karat Cake and 40 Karats names, aliases, filenames, and associated canon references.
+## [2026-10-04] lint | Validated Karat naming corrections, frontmatter, links, entity index, session structure, and quest records.

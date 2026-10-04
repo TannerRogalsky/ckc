@@ -28,7 +28,7 @@ The earlier record mentions visas issued in connection with Beryzoz Helmscar and
 
 The party used the Gheister to pursue the hobgoblin vessel that became [[The Hideous Truth]]. They secured it alongside the captured galley before boarding. Later, it carried them toward the risen [[Castle Kaedon]] at [[Lyngbakr Lagoon]]. They later used it to bring Penumbra above [[Lyngbakr]]'s head; the turtle's ascent nearly overturned the boat after they delivered the stone.
 
-During Obould's captivity, Theo Harvey offered Kerben [[The Carrot Cake]]'s location and opening dates in exchange for freedom and the Gheister. Kerben accepted, staged a broken brig, and helped Theo Harvey leave in fog and darkness. Theo Harvey intended to lie low, perhaps near the [[Harengon Warrens]] or an inconspicuous island, but did not give an exact destination. The other companions discovered the missing boat without learning Kerben's part in the bargain.
+During Obould's captivity, Theo Harvey offered Kerben [[The Karat Cake]]'s location and opening dates in exchange for freedom and the Gheister. Kerben accepted, staged a broken brig, and helped Theo Harvey leave in fog and darkness. Theo Harvey intended to lie low, perhaps near the [[Harengon Warrens]] or an inconspicuous island, but did not give an exact destination. The other companions discovered the missing boat without learning Kerben's part in the bargain.
 
 ## Final Status
 

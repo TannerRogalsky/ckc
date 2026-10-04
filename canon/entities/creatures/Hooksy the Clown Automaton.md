@@ -10,7 +10,7 @@ sessions_appeared:
 
 # Hooksy the Clown Automaton
 
-Hooksy the Clown Automaton describes a recurring kind of hostile, clown-faced creature in [[The Carrot Cake]], rather than a single individual.
+Hooksy the Clown Automaton describes a recurring kind of hostile, clown-faced creature in [[The Karat Cake]], rather than a single individual.
 
 ## Description
 

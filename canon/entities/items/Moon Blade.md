@@ -25,7 +25,7 @@ Its moonlight can suppress a creature's resistance to fire and cold, though it d
 
 After [[Starfall]] shattered the moon, the church in [[Cutlass Cray]] recovered some fallen pieces. Its craftspeople used one to make a weapon suited to Vokenar's struggle against hostile magic. He traded lapis lazuli for the hammer while retaining his earlier [[Akasha]]-infused blade.
 
-At [[The Carrot Cake]], Vokenar used the Moon Blade against undead and spellcasting enemies. Its light weakened the [[Flame Skull]] creatures' protection from cold while leaving their immunity to fire intact. He later used it against the [[Vampiric Nightbringer]], breaking the vampire's hold over [[Red Caesar]].
+At [[The Karat Cake]], Vokenar used the Moon Blade against undead and spellcasting enemies. Its light weakened the [[Flame Skull]] creatures' protection from cold while leaving their immunity to fire intact. He later used it against the [[Vampiric Nightbringer]], breaking the vampire's hold over [[Red Caesar]].
 
 ## Final Status
 

@@ -36,7 +36,7 @@ related:
   - "[[Vizier Jade]]"
   - "[[Prison of Frost]]"
   - "[[Acathian Manor]]"
-  - "[[The Carrot Cake]]"
+  - "[[The Karat Cake]]"
   - "[[Antumbra]]"
   - "[[Starfall]]"
   - "[[Demi-Spell]]"
@@ -117,7 +117,7 @@ His inherited knowledge includes the conflict between the [[Vanir]] and [[Aesir]
 - [[Kaboom Ring]] — A returning boomerang acquired before the descent through [[The Funnel]] and retained at campaign end, replacing his ordinary thrown javelins. Its impacts erupt with thunder.
 - [[The Opal]] — His crew's ship and home during the campaign. Obould's conditional promise of succession was recorded in his private logbook; the later permanent captaincy went to Kerben.
 
-Other gear included Stoic Laurels, which protected him from his allies' magic, and a pendant that helped him withstand charm at [[The Carrot Cake]]. His mantle supplied Cloud Jaunt, including exchanges of place with others. He used teleporting javelins early on and later traded equestrian manuals to [[Sigrid Forgewelt]] for enchanted javelins.
+Other gear included Stoic Laurels, which protected him from his allies' magic, and a pendant that helped him withstand charm at [[The Karat Cake]]. His mantle supplied Cloud Jaunt, including exchanges of place with others. He used teleporting javelins early on and later traded equestrian manuals to [[Sigrid Forgewelt]] for enchanted javelins.
 
 Domyx wore a hyena pelt as a trophy and won a scroll containing several spells at the Sky High Striker carnival game. He discarded his Akathian medallion when renouncing the clan. These objects have no established later custody.
 
@@ -139,13 +139,13 @@ A dream of [[Lorelai Lapis-Acathian]] revealed that [[Ulrich Fjoller]] had been 
 
 The expedition to [[Castle Kaedon]] intervened. Domyx survived a water elemental that engulfed him and delivered the killing blow to the young black dragon [[Ceril]] identified as likely one of [[Xarag]]'s offspring. See [[session_018#Chunk 0002]]. He also discovered [[The Jewel of Alfheimer]]. With [[Kerben]] launching him across a gap using the [[Mangonel]], he also reached a [[Zorn]] and helped intimidate it into surrendering swallowed gold.
 
-During the ship refit at [[The Pit]], Domyx commissioned his [[Gith Shard Glaive]]. He then joined the capture of [[Theo Harvey]], an imperial collaborator who offered information about [[The Carrot Cake]] while Domyx guarded him. Theo Harvey claimed the Empire wanted the park's hidden resources and said [[The Tyrant]] had failed to return from an earlier search.
+During the ship refit at [[The Pit]], Domyx commissioned his [[Gith Shard Glaive]]. He then joined the capture of [[Theo Harvey]], an imperial collaborator who offered information about [[The Karat Cake]] while Domyx guarded him. Theo Harvey claimed the Empire wanted the park's hidden resources and said [[The Tyrant]] had failed to return from an earlier search.
 
 Near [[Broy]], [[Farron Acathian II]] and [[Zohai Lapis]] attacked under orders. Domyx enlarged himself, steadied [[The Opal]] against capsizing, and helped defeat them. The party spared and healed both titans; Farron Acathian II gave Domyx a map of [[Thalassia]] and the approach to the homeland.
 
 In the [[Broyish Capital]], Domyx negotiated with [[Naomi Ue]] to clear the party's warrants and learned of titan folk living beyond their mountains. At the palace, [[Vizier Jade]] identified [[Emperor Shen]] as his grandfather. Their matching palms showed that both had touched the sky, and Emperor Shen admitted using [[Starfall]] to break it so others could not follow him and the gods could be killed.
 
-Domyx discovered [[Theo Harvey]]'s empty cell after his escape and recovered the map and seasonal information he had left for [[The Carrot Cake]]. A conversation with [[Fharan]] exposed the titan diaspora and how little Domyx's sheltered upbringing had prepared him to understand it.
+Domyx discovered [[Theo Harvey]]'s empty cell after his escape and recovered the map and seasonal information he had left for [[The Karat Cake]]. A conversation with [[Fharan]] exposed the titan diaspora and how little Domyx's sheltered upbringing had prepared him to understand it.
 
 The return north tested Domyx's survival experience and his companions' loyalty. A [[Remorhaz]] swallowed him; [[Vokenar]] destroyed it, Kerben cut him free, and Ceril restored him. Domyx then guided the party toward [[Acathian Manor]], entering alone because outsiders would be endangered there. [[Charlotta Fjoller]] and Lorelai Lapis-Acathian helped establish Ulrich Fjoller's whereabouts.
 
@@ -155,7 +155,7 @@ Domyx confronted [[Domyx IV]] over Emperor Shen's responsibility for the broken 
 
 Domyx helped distract the crew of [[The White Drake]] while [[Kerben]] planted [[Antumbra]] among the League's [[Penumbra]], then accompanied [[Ceril]] to the [[Temple of Sigil]], where they found petrified priests and Kuo-Toa. He continued defending [[The Opal]] through its southern voyages. After the party killed [[Xarag]], Domyx found the cliff hollow containing the ship's stolen treasure. He helped repel imperial [[Gun Balloon]] boarders and communicated with [[Transel]] in Runic while the party built the stranded troll a raft.
 
-At [[The Carrot Cake]], he crossed the [[Hole Shebang]]'s electrical defenses to operate the breaker, lighting one of the lamps required for [[Jack Harvey]]'s sanctum. His endurance helped the party complete every [[King of the Hole]] challenge, including the bonus round that earned the [[Hopping Mad Sash]]. On [[Hole on Wheels]], he threw a vampire spawn from the train and was dragged beneath the cars with it. He survived, climbed back aboard, and returned to deliver the final blow against the [[Vampiric Nightbringer]].
+At [[The Karat Cake]], he crossed the [[Hole Shebang]]'s electrical defenses to operate the breaker, lighting one of the lamps required for [[Jack Harvey]]'s sanctum. His endurance helped the party complete every [[King of the Hole]] challenge, including the bonus round that earned the [[Hopping Mad Sash]]. On [[Hole on Wheels]], he threw a vampire spawn from the train and was dragged beneath the cars with it. He survived, climbed back aboard, and returned to deliver the final blow against the [[Vampiric Nightbringer]].
 
 Domyx helped open the pressure-sealed underwater vault and recover [[Jade's Compass]]. The party learned where [[Starfall]] lay and obtained the [[Penumbra]] needed to repair the sky. At [[Lyngbakr Lagoon]], [[Emperor Shen]] and [[Vizier Jade]] arrived with Obould as their prisoner. After Kerben shot the captain's restraints, Domyx used Cloud Jaunt to exchange places with him, freeing Obould at the cost of his own capture.
 

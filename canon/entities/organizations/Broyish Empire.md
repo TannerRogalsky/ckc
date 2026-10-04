@@ -38,8 +38,8 @@ The empire opposed the Order's attempt to bring about [[Genesis Mundi]]. Rizolvi
 
 - [[Emperor Shen]] — Former ruler, Domyx's erased sky-touching grandfather, and architect of the assaults on the goddesses. He died at Axis Mundi, returned as the last Vanir, and was destroyed again.
 - [[Vizier Jade]] — Former chief agent and adviser who directed recruitment, hostage negotiations, and imperial magic. She betrayed Emperor Shen, helped establish Broy's new charter, and accepted imprisonment under its laws.
-- [[Fharan]] — Led the imperial force into [[The Carrot Cake]] using the recaptured [[Theo Harvey]] as guide.
-- [[The Tyrant]] — Vizier Jade's companion, sent to investigate The Carrot Cake.
+- [[Fharan]] — Led the imperial force into [[The Karat Cake]] using the recaptured [[Theo Harvey]] as guide.
+- [[The Tyrant]] — Vizier Jade's companion, sent to investigate The Karat Cake.
 
 [[Oni]] served as guards in Broy. Their employment establishes a supernatural component to imperial enforcement without making every member of that people an imperial subject or soldier.
 
@@ -64,11 +64,11 @@ At [[Axis Mundi]], Starfall consumed Penumbra to pierce the barriers between wor
 
 House Kiirnodel warned that the empire was collecting Penumbra, probably for a weapon. Lady Jacinthe's intelligence and a League airship interception reinforced the possibility of an immense magical cannon. Vizier Jade separately confirmed the military's mapping work and her interest in keeping Red Caesar alive for recruitment.
 
-In Broy, the party encountered Oni guards and learned that Vizier Jade had sent The Tyrant in search of The Carrot Cake. Her bargaining over Obould's captivity then confirmed Penumbra's intended use in Starfall.
+In Broy, the party encountered Oni guards and learned that Vizier Jade had sent The Tyrant in search of The Karat Cake. Her bargaining over Obould's captivity then confirmed Penumbra's intended use in Starfall.
 
 ### Naval assault and the lagoon
 
-While the party explored The Carrot Cake, imperial boats attacked [[The Opal]]. [[Kerben]] repelled the initial force but remained aboard as a larger fleet approached under the moonless darkness caused by Emperor Shen's attack.
+While the party explored The Karat Cake, imperial boats attacked [[The Opal]]. [[Kerben]] repelled the initial force but remained aboard as a larger fleet approached under the moonless darkness caused by Emperor Shen's attack.
 
 At the same time, someone dispelled the [[Hole on Wheels]] portal paintings, stranding the companions after they opened Jack Harvey's inner sanctum. The intruder's identity was not established. During the forced rest, Emperor Shen and Vizier Jade entered Red Caesar's dream and sought the newly accessible Penumbra. Their search revealed an intention to exploit the delay, rather than proof that they had already obtained the vault's contents.
 

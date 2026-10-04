@@ -34,7 +34,7 @@ The discovery also promised to simplify Akasha-to-Penumbra synthesis and allow m
 
 [[Vizier Jade]] and [[Emperor Shen]] intruded into Red Caesar's remembered life at Heaven's Bulb. After they moved through the dream, Red Caesar cast True Seeing on his younger self. The younger Red Caesar could then see the missing physical principle in the older Red Caesar's work: Mending. Together, the two versions completed the understanding that became Obvolvo Caelum.
 
-Red Caesar put the new spell to use inside Jack Harvey's underwater vault at [[The Carrot Cake]]. He gathered the Penumbra coating the vault into a small dense orb, allowing the party to remove the full hoard and deliver it to Lyngbakr before the [[Broyish Empire]] could claim it.
+Red Caesar put the new spell to use inside Jack Harvey's underwater vault at [[The Karat Cake]]. He gathered the Penumbra coating the vault into a small dense orb, allowing the party to remove the full hoard and deliver it to Lyngbakr before the [[Broyish Empire]] could claim it.
 
 ## Final Status
 
