@@ -58,6 +58,8 @@ Ceril and Vokenar rejoined their companions for the meal. Ceril renewed their pr
 
 ### Chunk 0001
 
+![[images/XStarfall.png]]
+
 [[chunks/session_037/chunk_0001|Source transcript]]
 
 #### An inheritance imposed

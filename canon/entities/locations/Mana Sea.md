@@ -14,6 +14,8 @@ related:
 
 # Mana Sea
 
+![[images/Mana-Sea_Encounters.png]]
+
 The Mana Sea is the dangerous magical swamp near [[Southport]], formed over the drowned forests of [[Windsurf]]. It was the source of [[Mana Sickness]] until [[Ceril]] freed [[Ninki Nanka]] from its curse.
 
 ## Geography and Access

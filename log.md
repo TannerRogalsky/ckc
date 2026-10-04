@@ -1046,3 +1046,7 @@
 ## [2026-10-04] query | Located Karat naming variants and associated canon references.
 ## [2026-10-04] update | Corrected The Karat Cake and 40 Karats names, aliases, filenames, and associated canon references.
 ## [2026-10-04] lint | Validated Karat naming corrections, frontmatter, links, entity index, session structure, and quest records.
+## [2026-10-04] update | Attached Mana Sea encounter map and Starfall map to Mana Sea and session 037
+## [2026-10-04] lint | Validated map embeds, preserved frontmatter, wiki links, session headings, and complete entity index
+## [2026-10-04] update | Moved session 037 Starfall map under Chunk 0001
+## [2026-10-04] lint | Verified Starfall map placement, unique embed, and existing image target
