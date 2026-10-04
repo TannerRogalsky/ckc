@@ -9,12 +9,25 @@ related:
   - "[[Hole Shebang]]"
   - "[[King of the Hole]]"
 ---
+
 # Death Spark
 
-A small lightning-based entity encountered alongside a larger lightning elemental in the [[Hole Shebang]] zone of [[The Carrot Cake]]. Resembling a will-o'-wisp made of lightning, the death spark zipped around at high speed and attacked with electrical zaps.
+Death Sparks were small electrical entities encountered throughout [[Hole Shebang]] and the [[King of the Hole]] challenge in [[The Carrot Cake]].
 
-Like the larger lightning elemental, it appeared to be animated by the electrical system powering the Hole Shebang island.
+## Description
 
-Additional death sparks appeared after the party flipped the island's breaker switch, sputtering from the dead electrical arcs. They zapped [[Zulu]] and [[Vokenar]] during combat. More death sparks appeared alongside additional enemies in the southern stage area of the island.
+Resembling will-o'-wisps made of lightning, they darted rapidly through the air and attacked with electrical zaps. Like the larger [[Lightning Elemental]]s, they appeared connected to Hole Shebang's electrical system.
 
-Death sparks also appeared in the optional [[King of the Hole]] bonus challenge, supporting [[Shambling Mound]]s and adding electrical pressure to the hilltop defense.
+Their electricity could restore [[Shambling Mound]]s, making them dangerous support for the plant creatures.
+
+## Campaign History
+
+The first Death Spark appeared alongside a Lightning Elemental among the wires and animated toys of Hole Shebang. [[Kerben]] destroyed it.
+
+Further Death Sparks sputtered from dead electrical arcs after the party shut off the island's breaker, attacked [[Zulu]] and [[Vokenar]], and joined the defenders around the southern stage. Cutting the power did not end their threat.
+
+More appeared during the King of the Hole rounds, attacking the contestants and replenishing Shambling Mounds. The party destroyed them while fighting through the challenge.
+
+## Final Status
+
+The Death Sparks encountered in these battles were destroyed. Their defeat does not establish that the park's electrical animation ended.

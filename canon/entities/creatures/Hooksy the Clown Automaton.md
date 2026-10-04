@@ -8,12 +8,30 @@ sessions_appeared:
   - "030"
 ---
 
-A grotesque automaton with a clown face nailed to its front, constructed from welded pieces of scrap metal and claw arms. Hooksy animates from a pile of junk and appears to be a monstrosity rather than a true construct. Beneath its metallic exterior lies flesh and blood — a living musculature that bleeds when the metal shell is breached, suggesting it is a cyborg or a living creature bound within metal plating.
+# Hooksy the Clown Automaton
 
-Hooksy was encountered at [[The Carrot Cake]], summoned alongside a [[Cloaker]] and two [[Flame Skull]]s. After its defeat, [[Red Caesar]] salvaged its blood-covered clown mask as a trophy.
+Hooksy the Clown Automaton describes a recurring kind of hostile, clown-faced creature in [[The Carrot Cake]], rather than a single individual.
 
-A second Hooksy appeared in the backstage area of the southern stage in the [[Hole Shebang]], confirming these are a class of hostile automata rather than a unique entity. [[Red Caesar]] wore the salvaged mask during this encounter.
+## Description
 
-Hooksy variants have a disturbing reproductive trait: when one dies, it can burst open bloodily and release two smaller forms from within its core. The smaller forms resemble crab-sized versions of the parent, covered in sticky placental fluid. At least some of these smaller forms can themselves contain yet more Hooksy variants, though acid can sterilize the inner forms and prevent further emergence. This mitotic splitting makes Hooksy variants a persistently dangerous enemy type.
+Welded scrap metal, chained or hooked limbs, and a nailed-on ceramic clown face enclosed living flesh and blood. Breached plating exposed musculature; beneath one mask was an eyeless, faceless mass of pulsing flesh. The creatures appeared to be monstrosities rather than ordinary constructs, though their exact origin remained unexplained.
 
-More Hooksy variants appeared in the final required [[King of the Hole]] wave. Their hooked limbs and forced movement threatened to overwhelm [[Domyx]], reinforcing their role as one of the park's most persistent hostile creature lines.
+They animated from piles of junk and used their hooks to pull victims around. One adapted to water by changing into a small yellow submarine with a snorkel-equipped face.
+
+A rare variant could burst open on death, releasing smaller spiderlike forms covered in sticky placental material. Those offspring could themselves conceal further forms. Acid prevented some larger nested creatures from emerging, but did not destroy every tiny survivor.
+
+## Campaign History
+
+The first creature attacked beneath the park's canopy alongside a [[Cloaker]] and two [[Flame Skull]]s. After its defeat, [[Red Caesar]] salvaged its blood-covered mask.
+
+Another appeared backstage in [[Hole Shebang]]. Red Caesar wore the salvaged mask, but the disguise did not stop attacks.
+
+Further variants appeared in [[King of the Hole]]. Red Caesar caught another mask when a creature died, wearing it behind his head. A later creature remained hostile despite his masks and was described as hating its own appearance.
+
+During the third round, a slain variant released two smaller creatures. [[Domyx]] crushed one, and [[Ceril]] dissolved the other with acid. Tiny, crab-sized survivors nevertheless scuttled into the sea.
+
+More appeared in the fourth required round, pulling Domyx between them. He drove one into the sea with an uprooted carrot beacon and destroyed the remaining attackers with Ceril's help. These variants did not release nested offspring.
+
+## Final Status
+
+The larger creatures encountered in these battles were defeated or destroyed. Tiny offspring escaped into the sea; their escape does not establish their later destruction.

@@ -8,16 +8,38 @@ related:
   - "[[Penumbra]]"
 ---
 
-A magen is a magically created construct-like being that can carry part of its creator's mind. [[Jack Harvey]] filled [[The Carrot Cake]] with many magen to oversee guests, answer questions, and preserve the park's routines.
+# Magen
 
-The magen encountered at [[The Carrot Cake]] take rabbit-like automaton forms and commonly drink tea. One welcomed the party with the words "come one, come all and welcome to the 40 carats, let the dance begin." They maintain a semblance of the park's original welcoming atmosphere decades after [[The Cataclysm]].
+Magen were magically created, rabbitlike beings that preserved part of [[Jack Harvey]]'s mind and maintained [[The Carrot Cake]]'s hospitality and attractions.
 
-The magen confirmed that [[Penumbra]] is the power source still running the midway. They provided a directory of the park's areas accessible from the midway: the [[Magic Hat]], the [[Hole Shebang]], and other zones connected by teleport circles. They explained that Jack Harvey designed the park as a constellation of resorts across Stark, all interconnected through teleportation magic.
+## Description
 
-In the [[Hole Shebang]], a magen was found in an interior room with a billiard table. It challenged the party to a game of eight-ball pool, offering to match bets up to five gold units. [[Vokenar]] accepted and played with [[Ceril]]'s subtle cheating assistance (tilting the table via Plant Growth), but still lost to the magen's superior skill. The magen admitted it had planned to throw the first round as a hustle for a second game.
+Construct-like reproductions of their creator, they retained knowledge and personality as well as assigned roles. Many drank tea and continued welcoming guests decades after [[The Cataclysm]].
 
-In the [[Magic Hat]], a magen maitre d' greeted the party at the hotel door, cast Knock to grant entry, and read their minds to deliver personalized food during the long rest. Another magen at [[King of the Hole]] served as an announcer with a carrot-microphone, delivering researched introductions for each party member and explaining the wave-based combat arena rules.
+Some read visitors' thoughts to provide personalized meals or introductions, opened doors with magic, or created illusions. Their knowledge was limited: a guide inferred that [[Penumbra]] sustained the midway rather than directly identifying its power source.
 
-In session 030, the King of the Hole announcer declared the party winners of every required and optional challenge. As a bonus prize, it detached and enchanted one of its own rabbit tails, presenting the result to [[Domyx]] as the [[Hopping Mad Sash]]. A magen also answered questions about [[Hole on Wheels]], [[Jack Harvey]], and [[Farraday]], clarifying that Jack had left the park in Farraday's care.
+## Campaign History
 
-In session 031, [[Kerben]] found that the helpful magen near the midway entrance had been killed by the [[Broyish Empire]] landing party as it forced its way toward [[Jack Harvey]]'s inner sanctum.
+### Guides and hospitality
+
+The entrance guide welcomed the party to [[40 Carats]] and described Jack Harvey's constellation of resorts across [[Stark]], connected by teleportation circles. It served [[Kerben]] carrot tea that briefly made him want to remain forever.
+
+Guides directed the party toward [[Magic Hat]], [[Hole Shebang]], and the other destinations, explaining that four lamplighters would unlock Jack Harvey's inner sanctum. One seated inside the [[Haunted Living Tent]] greeted its captives but disintegrated when the party destroyed the tent.
+
+In Hole Shebang, a billiards player offered to match wagers. [[Vokenar]] played without staking money, and [[Ceril]] discreetly tilted the table through magic. Vokenar still lost; the Magen admitted that it had intended to lose the first game to encourage a more profitable second one.
+
+A card dealer welcomed players near Magic Hat. The hotel's maître d' opened the entrance with Knock, offered safe rooms, and provided food suited to the guests' thoughts.
+
+### The arena and train
+
+The [[King of the Hole]] announcer used a carrot-shaped voice amplifier and researched introductions for the contestants. It attributed the challenges to [[Farraday]], arranged opponents, and conjured an illusory rising sea during the optional round.
+
+After the party won the required and optional challenges, the announcer detached and enchanted its own rabbit tail, giving [[Domyx]] the [[Hopping Mad Sash]].
+
+Another guide described [[Hole on Wheels]] and said Jack Harvey had resigned, leaving the park in Farraday's care. It presumed Jack Harvey dead because he was mortal and so much time had passed, without claiming to have witnessed his death.
+
+The train's Magen conductor was held under a vampire lord's control. During the party's intervention it jumped ahead of the moving train and vanished beneath the cars.
+
+## Final Status
+
+The conductor's survival was not established. The Magen within the living tent disintegrated with it, and the helpful entrance guide was later killed by the [[Broyish Empire]] landing party. These individual outcomes do not establish the fate of every Magen in the park.

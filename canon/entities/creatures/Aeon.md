@@ -6,10 +6,24 @@ related:
   - "[[Continental Stark]]"
 ---
 
-A Githzerai Aeon from beyond Stark and Arkadia, channeling energy from the astral realm or the void between stars. Green-skinned with gold-trimmed armor and ear flaps resembling fish fins. Hovers in a meditative stance without visible propulsion.
+# Aeon
 
-The Aeon communicates telepathically and speaks of "souls to drain" and "stars to bring home." It targets strong-willed individuals with Psychic Warp, flooding the victim's mind with cosmic darkness. It possesses potent psionic abilities including Shield, Counterspell, Dispel Magic, and Misty Step.
+The Aeon encountered on [[Continental Stark]] was a Githzerai visitor whose psionic power came from an astral realm beyond [[Stark]] and [[Arkadia]].
 
-It was observed watching the party from a cliff before descending to attack. [[Ceril]] identified it as truly alien, canceling energy from a plane that is neither Arkadia nor Stark.
+## Description
 
-After being defeated, the Aeon offered a star gem and golden spheres (coins from the astral plane) to [[Vokenar]], saying "whether you let me leave or not, you've earned this." [[Red Caesar]] attempted to Counterspell the Aeon's Plane Shift, but the Aeon Counterspelled the Counterspell and escaped. The Aeon insulted Red as "the filth" and "high dishonor, human" before departing to his plane.
+It had green skin, gold-trimmed armor, and finlike ear flaps. It hovered without visible propulsion, its legs splayed in a meditative posture, and communicated telepathically.
+
+Its Psychic Warp flooded minds with the darkness between stars and made its victims perceive it as harmless. It could raise a psionic shield, counter or dispel magic, and teleport. [[Ceril]] recognized the energy it channeled as alien to the party's world.
+
+## Campaign History
+
+The Aeon watched the party from a cliff before descending to attack. It spoke of souls to drain and stars to bring home, but its larger purpose remained unexplained.
+
+After the party weakened it, the Aeon offered [[Vokenar]] a star gem and astral coins hidden in a nearby pool, whether they spared it or killed it. Vokenar granted it leave, and [[Red Caesar]] recovered the gem and smooth golden spheres.
+
+Red Caesar nevertheless tried to counter its Plane Shift. The Aeon countered his interference, praised Vokenar's honor, and condemned Red Caesar as dishonorable before departing.
+
+## Final Status
+
+The Aeon escaped to its plane. The party retained its offering; its mission and later fate were not established.

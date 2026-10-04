@@ -8,8 +8,24 @@ related:
   - "[[Farraday]]"
 ---
 
-A massive plant-based monster encountered as a wave enemy in [[King of the Hole]] within [[The Carrot Cake]]. The shambling mound is a towering mass of twisted vines and undergrowth — described as "the evil version of nature in all of its splendor." It attacks with tendrils that can engulf targets. Its plant nature made it especially vulnerable to [[Red Caesar]]'s Blight, and it is healed by lightning damage rather than harmed by it.
+# Shambling Mound
 
-The shambling mound appeared in multiple waves of the [[King of the Hole]] arena, set up by [[Farraday]]'s entertainment system. It served as a durable tank in enemy formations, absorbing damage while smaller creatures like [[Hooksy the Clown Automaton]]s and [[Death Spark]]s harassed the party.
+Shambling Mounds were towering plant creatures used in [[Farraday]]'s [[King of the Hole]] challenges at [[The Carrot Cake]].
 
-In session 030, shambling mounds returned during the optional bonus challenge and engulfed multiple party members on the hilltop. [[Vokenar]] used divine radiance from inside one mound to burn it apart from within.
+## Description
+
+Twisted vines and undergrowth formed a massive body whose tendrils could engulf victims. Electricity restored the creature, allowing [[Lightning Elemental]]s and [[Death Spark]]s to sustain it.
+
+[[Red Caesar]]'s blighting magic withered and shrank the vines.
+
+## Campaign History
+
+Shambling Mounds appeared across several arena rounds alongside [[Hooksy the Clown Automaton]]s and electrical creatures. Their bulk held opponents while smaller attackers harried them, and their replenishing allies complicated the fight.
+
+During the optional challenge, two Shambling Mounds swallowed [[Ceril]], [[Vokenar]], and Red Caesar. [[Domyx]] exchanged places with Ceril, allowing him to escape, while Red Caesar teleported free. Ceril destroyed one Shambling Mound with his enchanted staff.
+
+Vokenar burned the other from inside with divine radiance. After the party eliminated its electrical support, Domyx struck it down and pulled Vokenar safely from the collapsing vines.
+
+## Final Status
+
+The encountered Shambling Mounds were destroyed, and the engulfed companions escaped.

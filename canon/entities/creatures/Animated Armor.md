@@ -6,6 +6,16 @@ related:
   - "[[Castle Kaedon]]"
 ---
 
-Magically animated suits of armor found within [[Castle Kaedon]]. They appear as smooth, undamaged metal statues near castle walls and are nearly indistinguishable from stationary decorations until they move. They are enchanted constructs — [[Red Caesar]] destroyed one instantaneously with Dispel Magic in session 018, confirming they are sustained by active spellwork rather than being true undead or golems.
+# Animated Armor
 
-The party had encountered similar constructs earlier in the castle on a previous visit.
+Animated Armor guarded [[Castle Kaedon]], disguising enchanted suits of metal armor as stationary decorations.
+
+## Description
+
+The suits appeared as smooth, undamaged statues near the castle walls, distinguishable from rusted remains only by their condition and eventual movement. Active enchantment sustained them.
+
+## Campaign History
+
+The party recognized the guardians from an earlier castle visit. On returning, [[Red Caesar]] dispelled one suit and [[Ceril]] dispelled the other, causing both to collapse.
+
+The two encountered suits were destroyed by the removal of their sustaining magic.

@@ -8,4 +8,22 @@ related:
   - "[[Penumbra]]"
 ---
 
-Horse-sized, dragon-like predators with scorpion tails and concentrated poison. They are of the dragon type but not true dragons — armless, gangly creatures with two wings and two legs. Their tail stinger delivers a nasty poison that causes the poisoned status effect with no save. They have Fly By (can escape attacks of opportunity when flying) and unusually high reach with their tail stinger. Their coloring indicates terrain camouflage rather than damage resistances; they resist only poison damage. Two wyverns guarded the pure [[Penumbra]] hoard in gnoll territory, diving on the party after the gnolls were defeated. [[Domyx]] grappled one wyvern using his trident, catching a wing in the tines and pulling it to the ground (requiring two strength checks for aerial grappling). The party focused fire on the pinned wyvern while [[Ceril]] cast Protection from Poison on [[Domyx]] after he was stung. [[Vokenar]] killed one with Toll the Dead, and [[Kerben]] finished the last with a decisive ranged shot. The final wyvern was killed when [[Vokenar]] flew above it and planted his sword two-handed down the center of its back, pinning it to the ground. The party recovered charred wyvern medallions and poison as loot.
+# Wyvern
+
+Wyverns were poisonous, dragon-like predators guarding a pure [[Penumbra]] fragment in [[Gnoll]] territory.
+
+## Description
+
+Horse-sized and gangly, they had two wings, two legs, no arms, and scorpion-like tails. Their extended stingers delivered concentrated poison, and they could swoop past prey without remaining within easy reach.
+
+Their coloring reflected camouflage for their native terrain rather than elemental protection.
+
+## Campaign History
+
+Two dived from the peaks after the party defeated the packs below. [[Domyx]] caught a wing in his trident and pulled one to the ground. The creatures' venom endangered him and [[Red Caesar]], while [[Ceril]] cured their poisoning and protected Domyx against further stings.
+
+When one threatened [[Kerben]], Domyx caught its neck in his trident and killed it. [[Vokenar]] flew above the survivor and drove his sword into its back for the final blow.
+
+The party recovered the Penumbra and gnomish gold beneath it. The carcasses supplied meat and material for Kerben's poison craft.
+
+Both encountered Wyverns were killed.

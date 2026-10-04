@@ -9,22 +9,34 @@ related:
   - "[[Broyish Empire]]"
 ---
 
-A companion creature belonging to [[Kerben]], likely another dinosaur or beast. Has flying capability. Kerben considers between keeping [[Zulu]] or Tango active depending on the situation, with Tango offering aerial utility.
+# Tango
 
-In session 018, Tango was targeted and life-drained by specters during the Castle Kaedon ambush. Kerben resummoned a fresh Tango afterward.
+Tango was [[Kerben]]'s flying companion and scout, carrying warnings to the party and later sharing a place-swapping bond through [[The Ascot]].
 
-In session 030, Tango carried a hurried message from [[Kerben]] to the party inside [[The Carrot Cake]]. After [[Ceril]] cast Speak with Animals, Tango reported that [[The Opal]] had been attacked by multiple boats, that Kerben had helped fend off the first wave, and that a larger [[Broyish Empire]] force was approaching under cover of moonless darkness.
+## Description
 
-In session 031, Tango scouted above [[The Carrot Cake]] and reported the presence of the imperial flagship [[Imperial Xihe]]. Later, at [[Lyngbakr Lagoon]], Tango warned [[Kerben]] that the flagship had reached shore, that imperial troops were landing, and that [[The Opal]] had moved farther out to sea while remaining invisible.
+Described in later encounters as a bird, Tango supplied aerial reconnaissance when Kerben chose flight over [[Zulu]]'s ground-based help. He could carry messages, and animal-speaking magic allowed other companions to understand his reports.
 
-## Session 036
+Kerben could resummon him in a fresh form. The Ascot allowed them to exchange places, providing a means of escape and movement without abandoning one another.
 
-Tango accompanied [[Kerben]] through [[The Funnel]] and across the boundary into the [[Gray Wastes]]. Swapping places through [[The Ascot]] helped Kerben escape a purple worm's jaws. The plan for Tango to carry the stored [[The Opal]] down to the desert failed when the ship could not be stored again; Tango followed the falling vessel and was safely aboard during its descent.
+## Campaign History
 
-## Session 037
+### Scouting and imperial warnings
 
-Tango accompanied [[Kerben]] at [[Axis Mundi]] through the battles with [[Emperor Shen]] and the returning [[Vanir]]. The companion was sheltered behind the ruins when the last Vanir, the resurrected [[Emperor Shen]], manifested.
+Tango scouted ahead during the party's travels and castle exploration. Specters at [[Castle Kaedon]] drained his vitality, after which Kerben resummoned him undrained.
 
-## Session 038
+While the others explored [[The Carrot Cake]], Tango brought Kerben's urgent warning that [[The Opal]] had fought off boarders and faced a larger [[Broyish Empire]] force. [[Ceril]] used Speak with Animals to hear the report.
 
-Tango accompanied [[Kerben]] in the final battle at [[Axis Mundi]]. Their place-swapping bond helped Kerben escape danger and remain with the party through [[Emperor Shen]]'s defeat.
+Tango later identified [[Imperial Xihe]] offshore. At [[Lyngbakr Lagoon]], he warned Kerben that the flagship had reached shore, troops were landing, and [[The Opal]] had moved out to sea while invisible.
+
+### The lower world and final battle
+
+Tango accompanied Kerben through [[The Funnel]] into the [[Gray Wastes]]. Their exchange through The Ascot freed Kerben from a purple worm's jaws, and Tango immediately flew clear.
+
+A plan to have Tango carry [[The Opal]] in its stored form down to the desert failed when the ship could not be stored again. He dived after the falling vessel and returned aboard during its safe descent.
+
+At [[Axis Mundi]], Tango supported Kerben's movements against [[Emperor Shen]] and the returning [[Vanir]], sheltering among the ruins when needed. Their exchanges helped Kerben escape Emperor Shen's order for [[Domyx]] to kill him and return to the attack.
+
+## Final Status
+
+Tango last accompanied Kerben through Emperor Shen's defeat. The record does not separately establish his later whereabouts.

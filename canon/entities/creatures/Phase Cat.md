@@ -11,8 +11,22 @@ related:
   - "[[The Carrot Cake]]"
 ---
 
-An ethereal feline creature encountered in the interior areas of the [[Hole Shebang]] island within [[The Carrot Cake]]. Phase cats can shift in and out of the ethereal plane, phasing through walls and the ocean floor to ambush prey. They appear in ghostly multi-colored forms that leave a nimbus of rainbow light when reappearing.
+# Phase Cat
 
-Phase cats hunt as a pack and attack with claws. Their ethereal movement randomly teleports targets they strike to different locations, disrupting positioning. They appear to be native animals that moved into the park over the decades since [[The Cataclysm]], rather than constructs created by [[Jack Harvey]]. Phase cats also appeared in the [[Magic Hat]] and as wave enemies at [[King of the Hole]].
+Phase Cats were ethereal felines encountered in [[The Carrot Cake]]'s [[Hole Shebang]], [[Magic Hat]], and [[King of the Hole]].
 
-Phase cats appeared again during the final required [[King of the Hole]] wave in session 030, continuing to disrupt the party's formation while gorgon heads threatened petrification.
+## Description
+
+They shifted through the Ethereal Plane, passing through walls and the ocean floor to ambush prey. Their ghostly, multicolored bodies left a rainbow nimbus when they reappeared.
+
+They hunted in packs and struck with claws. Those they hit could be teleported unpredictably, scattering companions and disrupting their ability to help one another. They appeared to be wildlife that had occupied the park after [[The Cataclysm]], rather than creations of [[Jack Harvey]].
+
+## Campaign History
+
+Four appeared in Hole Shebang's burned passages alongside [[Smoke Elemental]]s. The elementals' poisonous smoke killed two cats, showing that the creatures were not cooperating as a single defense. The last continued displacing [[Domyx]] and [[Zulu]] until [[Kerben]] shot it.
+
+Further cats guarded Magic Hat and joined the arena's summoned enemies. A third-round cat was destroyed by [[Ceril]]'s light. During the fourth required round, two scattered [[Vokenar]] and [[Red Caesar]] while a [[Gorgon Head]] threatened them with petrification. Both cats were eliminated.
+
+## Final Status
+
+The encountered cats were defeated, including specimens killed by the Smoke Elementals. Their defeat did not establish the fate of the wider population.

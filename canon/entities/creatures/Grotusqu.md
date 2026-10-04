@@ -6,4 +6,10 @@ sessions_appeared: ["001"]
 aliases: [Grotesqu]
 ---
 
-A non-magical giant squid. [[Lady Jacinthe]] asked the party to hunt one. The party completed the hunt during sessions 001–010.
+# Grotusqu
+
+A Grotusqu is a non-magical giant squid that [[Lady Jacinthe]] asked the party to hunt.
+
+## Campaign History
+
+The party completed Lady Jacinthe's hunt during its early adventures. The surviving account does not give a more precise sequence or outcome for the individual squid.

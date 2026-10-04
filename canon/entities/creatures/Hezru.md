@@ -8,8 +8,18 @@ related:
   - "[[Nalfeshne]]"
 ---
 
-A large toad-like monster, mostly orange in color, with bull horns atop its head. Resembles a giant bullfrog. Its body is described as being full of corpse meat, giving off an ancient decay smell.
+# Hezru
 
-The Hezru has an aura of stench surrounding it that poisons creatures who start their turn within range, imposing disadvantage on attack rolls. It has thick leathery hide with high armor class and can make large leaping jumps to reposition across the battlefield. It does not react to pain and has magic resistance like other fiends.
+A Hezru fought the party in [[Castle Kaedon]]'s stained-glass corridor under the observation of an invisible [[Nalfeshne]].
 
-One was encountered in a long stained-glass hallway within [[Castle Kaedon]], appearing through a door from the north alongside two [[Bearded Devil]]s, all overseen by an invisible [[Nalfeshne]]. The party defeated it through combined attacks — [[Kerben]] shredded it with dual blades, [[Zulu]] clawed at it, and [[Vokenar]] delivered the final blow with his Akasha blade.
+## Description
+
+It resembled an enormous orange bullfrog with bull horns and thick, leathery hide. Its body was described as full of corpse meat, producing an ancient smell of decay that sickened nearby creatures.
+
+The monster leapt great distances and showed little reaction to pain.
+
+## Campaign History
+
+It entered through the northern door while two [[Bearded Devil]]s appeared farther down the hall. After defeating the devils, the party surrounded the Hezru.
+
+[[Kerben]] attacked with his blades, [[Zulu]] joined him, and [[Vokenar]] delivered the finishing stroke with his [[Akasha]] blade. The Nalfeshne remained nearby to ambush the party afterward.

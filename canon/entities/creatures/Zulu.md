@@ -2,16 +2,32 @@
 type: creature
 subtypes: [companion]
 session_introduced: "001"
-sessions_appeared: ["001", "011", "012", "019", "020", "028", "035"]
+sessions_appeared: ["001", "011", "012", "019", "020", "021", "025", "026", "027", "028", "035"]
 related:
   - "[[Kerben]]"
   - "[[Nalfeshne]]"
 ---
 
-A dinosaur companion belonging to [[Kerben]], capable of powerful rushing attacks and adept at navigating cramped passages. Magic can enhance his jumping and mobility.
+# Zulu
 
-In [[Castle Kaedon]], Zulu survived repeated encounters with a [[Nalfeshne]] with help from Kerben and the party's healing.
+Zulu was [[Kerben]]'s dinosaur companion, helping him scout, protect the party, and create distractions.
 
-## Session 035
+## Description
 
-Zulu accompanied Kerben into [[House Erendel]], whose mirrors showed an elven counterpart to his dinosaur form. He was struck down during the fight with [[Boril Erendel]], then restored by [[Vokenar]] before the party left.
+He could make powerful rushing attacks and navigate cramped passages. Magic enhanced his jumping and mobility, and enchanted spurs allowed him to harm supernatural creatures.
+
+## Campaign History
+
+Zulu accompanied Kerben through [[Darvinblast]] and [[Castle Kaedon]]. He helped against the [[Fire Giant]] and the [[Nalfeshne]]'s servants, receiving healing after dangerous encounters. The Nalfeshne's hidden lightning attack brought him down alongside [[Red Caesar]] before the party restored him.
+
+A diversion aboard [[The White Drake]] drew guards away while Kerben planted [[Antumbra]] among its [[Penumbra]]. Zulu raided the meat stores, then returned safely to [[The Opal]].
+
+At the [[Southern Archipelago Castle]], he collapsed under oppressive pollen and was restored. After the defeat of [[PAXO]], he led Kerben to an overlooked treasury of [[Esperanto]] coins.
+
+In [[The Carrot Cake]], he remained outside the [[Haunted Living Tent]] with [[Domyx]] and later chewed through [[Roger Ribbons]]' bindings to free Kerben.
+
+Zulu accompanied Kerben into [[House Erendel]], where the mirrors showed an elven counterpart to his dinosaur form. [[Boril Erendel]]'s magic struck him down, but [[Vokenar]] restored him before the party left.
+
+## Final Status
+
+Zulu's last established condition was alive and restored after House Erendel. The record does not separately settle his later whereabouts.

@@ -111,27 +111,27 @@
 - [[Death Spark]] — Small lightning-based entity resembling a will-o'-wisp, encountered in the Hole Shebang
 - [[Roger Ribbons]] — Aberration of string and twine with a red skull and crucifix spikes, boss of the Hole Shebang island
 - [[Zulu]] — Kerben’s dinosaur companion, restored after falling in the battle at House Erendel
-- [[Cloaker]] — Bat-like creature wrapped in a massive silk membrane; ambushes from the canopy and summons allies through infrasound
+- [[Cloaker]] — Bat-like membrane predator that enveloped victims; the first appeared to summon allies through infrasound
 - [[Flame Skull]] — Tiny neon-colored floating fiend skulls that cast fire spells and blend with magical illusions
 - [[Gorgon Head]] — Floating monstrosity with snake hair, poison rays, and a petrifying gaze; encountered in the Magic Hat area
-- [[Hooksy the Clown Automaton]] — Grotesque clown-faced automaton that is actually a living creature bound within metal plating; multiple variants exist across the park
+- [[Hooksy the Clown Automaton]] — Clown-faced park creatures enclosing living flesh; rare variants released nested offspring, some escaping into the sea
 - [[Mary Andrews]] — Lute-playing construct automaton in the Hole Shebang that uses music to charm and damage targets
-- [[Phase Cat]] — Ethereal feline native to the Hole Shebang area that phases through walls and teleports its targets
+- [[Phase Cat]] — Ethereal feline that phases through walls and displaces targets; appeared to be wildlife occupying the abandoned park
 - [[Smoke Elemental]] — Elemental creature of smoke and fumes in the Hole Shebang, formed from smoldering debris
 - [[Haunted Living Tent]] — Gargantuan living tent at The Carrot Cake that siphons victims into an extra-dimensional tea cozy house
 - [[Magen]] — Construct-like rabbit automata carrying part of Jack Harvey's mind and maintaining The Carrot Cake
 - [[Vampiric Nightbringer]] — Vampire lord that controlled Hole on Wheels before the party destroyed it with sunlight and force
-- [[Mummy]] — Undead petitioners with petrifying glare, encountered as wave enemies in King of the Hole
+- [[Mummy]] — Undead park attackers with paralyzing glares; two withdrew into mud, while the King of the Hole pair were destroyed
 - [[Shambling Mound]] — Massive plant monster of twisted vines; engulfed targets with tendrils, healed by lightning; wave enemy in King of the Hole
-- [[Lightning Elemental]] — Fast elemental of crackling electricity; arcs healed the Shambling Mound, creating a dangerous synergy; wave enemy in King of the Hole
+- [[Lightning Elemental]] — Living electricity encountered in Hole Shebang and King of the Hole; restored animated toys and Shambling Mounds
 - [[Tango]] — Kerben's flying companion who helps him survive the final battle against Emperor Shen
-- [[Nyquil]] — Ceril's owl familiar, killed by Akasha rain
+- [[Nyquil]] — Ceril's owl scout, killed by Akasha rain; Ceril later acquired magma-owl summoning and resumed scouting
 - [[Kilosaurus]] — Kerben's former hauling companion, left at Lyngbakr Lagoon and believed dead in the epilogue
 - [[Penelope]] — Giant bat ridden by a dwarf bat rider knight
 - [[Bat Rider]] — Elite dwarf knights riding giant bats
 - [[Saratan]] — Species of gigantic turtle/whale things (includes Lyngbakr)
 - [[Wyrm]] — Famous Saratan noted in records
-- [[Kuo-Toa]] — Amphibious race whose god is Blibdoolpoolp
+- [[Kuo-Toa]] — Amphibious worshipers of Blibdoolpoolp; temple claimants remained petrified, while Mana Sea musketeers escaped Aboleth control
 - [[Gnoll]] — Fiendish hyena-like highland people who guarded a Penumbra chunk
 - [[Wyvern]] — Poisonous dragon-like predators encountered in gnoll territory
 - [[Etten]] — Two-headed giant creature encountered in Darvinblast
@@ -139,7 +139,7 @@
 - [[Grotusqu]] — Non-magical giant squid; the party completed Lady Jacinthe’s hunt during sessions 001–010
 - [[Fuchsia Fungus]] — Purple fungal mound creature in the bogs of Continental Stark that assimilates victims
 - [[Aeon]] — Githzerai creature from beyond Stark, green-skinned with psionic powers. Escaped after offering a star gem to Vokenar
-- [[Warg Lord]] — Massive fey beast with a bear-wolf body and goblin face, captain of the hobgoblin pirate ship The Hideous Truth
+- [[Warg Lord]] — Fey apparent leader of the pirate vessel later named The Hideous Truth; killed by Kerben during its capture
 - [[Storm Phoenix]] — Elemental being of pure power, once a gem of amber, driven mad by the Cataclysm. Destroyed by the party in session 015
 - [[Animated Armor]] — Spell-sustained metal constructs disguised as statues, guarding Castle Kaedon
 - [[Psychic Goop]] — Gray ooze formed from decayed brain matter; retaliates against magical attacks with psychic damage
@@ -149,7 +149,7 @@
 - [[Zorn]] — Subterranean elemental creature of stone and soil that eats gold coins and gems
 - [[Flabbergast]] — Undead creature found crushed under Castle Kaedon's portcullis
 - [[Bearded Devil]] — Fiend with rubbery purple skin and barbed facial tentacles, summoned in Castle Kaedon
-- [[Carrion Crawler]] — Large arachnid-like creature encountered in Castle Kaedon's entrance foyer
+- [[Carrion Crawler]] — Filthy, tentacled creatures that paralyzed prey in Castle Kaedon's granaries and foyer; the party killed them
 - [[Nalfeshne]] — Powerful boar-bodied demon with bluish fire; oversaw fiends in Castle Kaedon before being destroyed by the party
 - [[Nightmare]] — Horse of pure flame that can ethereal stride, ridden by wraiths
 - [[Wraith]] — Grayish ghostly undead that life-drains victims, encountered riding nightmares in Castle Kaedon
@@ -160,7 +160,7 @@
 - [[Rimefire Hydra]] — Massive eight-headed frost hydra encountered in the northern straits near Thalasia
 - [[Tatzelwurm]] — Unique white dragon variant near Thalasia that commands terrain weather; defeated by party ambush
 - [[Remorhaz]] — Huge, heat-exuding voracious creature of the northern territories that ambushes prey
-- [[Bane Siren]] — Siren dwelling in an underwater garden among Deep Roses; twisted by the Cataclysm, defeated by the party
+- [[Bane Siren]] — Garden-bound siren twisted by the Cataclysm, killed by Kerben; a drowned victim's locket was recovered
 - [[Aboleth]] — Extraplanar memory-feeder that enslaved drow and Kuo-Toa in the Mana Sea before the party killed it
 - [[Victor, the Amphibious Beast]] — Kerben's large crocodilian companion, effective on land and in water
 

@@ -7,6 +7,18 @@ related:
   - "[[Castle Kaedon]]"
 ---
 
-A horse-like creature made of pure flame, immune to fire damage. Nightmares can fly at high speed (90 feet) and can ethereal stride through solid obstacles, making them difficult to pin down. They confer fire resistance to their rider, or fire immunity if the rider already has fire resistance.
+# Nightmare
 
-They are intelligent and mercenary in nature, willing to work for whoever commands them — in this case serving the [[Nalfeshne]] within [[Castle Kaedon]]. They were observed carrying [[Wraith]] riders.
+Nightmares were fiery, horse-like creatures carrying [[Wraith]] riders in [[Castle Kaedon]].
+
+## Description
+
+Their bodies were made of flame. They flew swiftly and moved partly through the Ethereal Plane, passing through solid obstacles. Fire could not harm them, and their protection extended to their riders.
+
+The party understood them as intelligent, mercenary beings willing to serve different masters.
+
+## Campaign History
+
+The party suspected that the mounted creatures served the [[Nalfeshne]], though this allegiance was not independently confirmed.
+
+They carried Wraiths against the party through the castle's pillared hall, using ethereal movement to bypass obstructions. The companions defeated the mounted attackers, clearing the hall.

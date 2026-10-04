@@ -2,7 +2,7 @@
 type: creature
 subtypes: [companion]
 session_introduced: "012"
-sessions_appeared: ["012", "013", "038"]
+sessions_appeared: ["012", "013", "015", "025", "038"]
 aliases:
   - Kilo
 related:
@@ -11,10 +11,24 @@ related:
   - "[[Lyngbakr Lagoon]]"
 ---
 
-The triceratops-like beast befriended in [[Darvinblast]] and named by [[Kerben]]. Cow-like in appearance, [[Kerben]] named it Kilosaurus. It is stronger than an elephant and capable of towing several tons when given wheels or proper preparation.
+# Kilosaurus
 
-In session 013, [[The Opal]] was reinforced partly to carry this creature, and it helped haul a purified [[Penumbra]] core back to the ship. The party later left it at [[Lyngbakr Lagoon]] to help haul stone and defend the developing base.
+Kilosaurus was the triceratops-like companion befriended in [[Darvinblast]] and named by [[Kerben]], later left to aid the settlement at [[Lyngbakr Lagoon]].
 
-## Session 038
+## Description
 
-The epilogue suggested that the dinosaur left at [[Lyngbakr Lagoon]] probably died. Its death was not directly witnessed, and its precise fate remains uncertain.
+The enormous beast had a cow-like appearance and had been trained to carry a roofed basket of riders. Stronger than an elephant, it could haul heavy loads with a yoke and suitable preparation.
+
+It understood conversation through animal-speaking magic and showed concern for people it had injured. Losing its handler initially left it frightened and confused.
+
+## Campaign History
+
+The party spared Kilosaurus while fighting its handlers in Darvinblast. Calming magic, reassurance, and familiar food won its trust. It carried the companions through the city and helped defeat a [[Fire Giant]] by knocking him from a bridge.
+
+[[The Opal]] was reinforced to carry it and the party's [[Penumbra]]. Kerben named the animal, and it hauled a purified Penumbra core back to the ship.
+
+The party later left Kilosaurus at Lyngbakr Lagoon to haul stone and help defend the growing base. On a subsequent visit, [[Alamar]] and the settlement's defenders rode it to meet the returning party. It remained with Alamar when the party sailed north.
+
+## Final Status
+
+The epilogue suggested that Kilosaurus had probably died. No death was witnessed or confirmed, so its precise fate remains uncertain.

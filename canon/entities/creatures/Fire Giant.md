@@ -4,8 +4,18 @@ subtypes: [enemy]
 session_introduced: "012"
 ---
 
-A giant engulfed in flames, encountered in [[Darvinblast]] beyond the mining expansion area. Larger than the [[Etten]] but similar in build. Leapt from a hole in the wall onto a stony bridge over a 60-foot pit of burning miasma. Speaks Giant's Runic and acknowledged the "gunpowder from the east" reaching the surface. Declared upon arrival: "Finally, a fight worth my while!"
+# Fire Giant
 
-Wields a flame sword capable of dealing significant fire damage. Spoke of the "gods of the deep" winning in the end, referencing "Sigil replaced by the fires of the earth" and "Aeris, the bleak darkness of the abyss" — suggesting allegiance to the dwarvish anti-sky deities. Recognized [[Domyx]] as "one giant to another" and told him to "return to the sky, fool" — noting that Domyx "smells like clouds."
+A Fire Giant defending [[Darvinblast]] challenged the party near a bridge over a pit of burning miasma.
 
-Was knocked off the bridge by the party's triceratops mount, falling 60 feet into the burning miasma below. [[Domyx]] leaped down to grapple and fight it in the pit. Despite being heavily damaged, the giant held on until [[Ceril]] delivered the finishing blow.
+## Description
+
+Larger than the [[Etten]] but similarly built, the giant was engulfed in flames and carried a flaming sword. He spoke Giant's Runic, recognized eastern gunpowder, and could endure the fire in the pit below.
+
+He recognized [[Domyx]] as another giant but said that he smelled of clouds. His declarations favored the powers of the deep over [[Sigil]] and [[Aeris]], suggesting allegiance to the dwarves' opposition to the sky.
+
+## Campaign History
+
+The giant leapt from a hole in the wall onto the bridge, declaring that he had finally found a worthwhile fight. [[Kerben]] directed the triceratops later named [[Kilosaurus]] to charge him, knocking him into the burning pit.
+
+Domyx jumped down to grapple and fight him. The giant continued resisting despite the fall and the party's attacks until [[Ceril]] delivered the finishing blow.

@@ -4,6 +4,16 @@ session_introduced: "019"
 sessions_appeared: ["019"]
 ---
 
-An undead creature encountered within [[Castle Kaedon]]. It emits an aura of stench that poisons and frightens nearby creatures. It has paralytic claws that are ineffective against elves, and can project a black smoky wisp as a ranged necrotic attack that also induces fear.
+# Flabbergast
 
-It was found crushed beneath a portcullis in the castle's entrance foyer, hidden beneath a red carpet that matched its coloration. Despite being pinned, it tore itself free and attacked the party along with a [[Carrion Crawler]], [[Severed Hands]], and giant scorpions. Radiant damage is effective against it.
+The Flabbergast was an undead creature discovered pinned beneath a portcullis in [[Castle Kaedon]]'s entrance foyer.
+
+## Description
+
+Its red coloration blended with the carpet that concealed it. A foul stench poisoned and frightened nearby creatures, while a projected black, smoky wisp carried another fear-inducing attack. Its claws could paralyze victims, though that effect did not work on elves. Divine radiance proved effective against it.
+
+## Campaign History
+
+It tore itself free of the gate and attacked alongside a [[Carrion Crawler]], [[Severed Hands]], and giant scorpions. It frightened [[Kerben]] and advanced toward [[Red Caesar]] before [[Domyx]] helped bring it within reach.
+
+Kerben overcame his fear and shot the creature down. Its stench and frightening influence immediately subsided.

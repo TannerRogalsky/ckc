@@ -4,4 +4,6 @@ subtypes: [beast]
 session_introduced: "004"
 ---
 
-A famous [[Saratan]] noted in the records of [[Bookbinders Cray]].
+# Wyrm
+
+Wyrm was a famous [[Saratan]] mentioned in the records of [[Bookbinders Cray]]. The surviving account establishes no further individual history or fate.

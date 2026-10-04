@@ -8,8 +8,24 @@ related:
   - "[[Chain Devil]]"
 ---
 
-A type of devil with rubbery purple skin, long flowing black topknots, and barbed purple tentacles growing from the chin and sides of the face. They stand about as tall as a human and resemble samurai, wielding glaives or naginatas. Their beard attack can inflict damage and poison that prevents healing. As fiends, they possess magic resistance and various other resistances.
+# Bearded Devil
 
-They were first summoned into a pentagonal inner chamber of [[Castle Kaedon]] through magic circles drawn on the floor. In a later encounter, bearded devils appeared again in a long stained-glass hallway, summoned alongside a [[Hezru]] while a [[Nalfeshne]] oversaw the battle from an adjoining room. Notably, the bearded devils cooperated with a [[Chain Devil]] despite normally being enemies in the blood war between demons and devils.
+Bearded Devils were fiends summoned to oppose the party inside [[Castle Kaedon]], where a [[Nalfeshne]] directed them.
 
-In a third encounter in the same hallway, two more bearded devils were summoned. [[Domyx]] shoved one through the stained glass window, sending it plummeting into the ocean below. The second was reeled in by Domyx's trident and destroyed by [[Vokenar]]'s Guardian of Faith.
+## Description
+
+About human height, they had rubbery purple skin, long black topknots, and barbed purple tentacles along the chin and sides of the face. Their appearance resembled samurai, and they wielded glaives or naginatas.
+
+Their facial tentacles delivered poison that temporarily prevented healing. Their weapons could leave infernal wounds that continued bleeding.
+
+## Campaign History
+
+The first group appeared through pentagonal summoning circles in an inner chamber. The party destroyed them while their invisible Nalfeshne overseer observed. [[Vokenar]] healed the lingering wound they had inflicted.
+
+A further Bearded Devil appeared alongside a [[Chain Devil]] in the prison cells. The party defeated both. The demon's use of devil servants prompted discussion of opportunistic alliances despite the Blood War between their kinds.
+
+Two more appeared in a stained-glass corridor with a [[Hezru]]. [[Domyx]] destroyed one and drove it through a window into the ocean. He pulled the second into Vokenar's Guardian of Faith with [[Iklwa Isondo]], and the guardian cut it down.
+
+## Final Status
+
+The summoned Bearded Devils in these castle encounters were defeated. The pair in the stained-glass corridor were explicitly destroyed.

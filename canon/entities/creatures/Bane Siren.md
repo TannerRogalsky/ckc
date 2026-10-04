@@ -5,7 +5,23 @@ session_introduced: "025"
 sessions_appeared: ["025"]
 related:
   - "[[Deep Roses]]"
-  - "[[Mana Sea]]"
+  - "[[The Cataclysm]]"
 ---
 
-A siren dwelling in an underwater garden among submerged [[Deep Roses]] near the southern archipelago. Connected to the gardens much like a dryad to a tree, the Bane Siren was twisted into something greater by [[The Cataclysm]] and rising ocean waters. It bewitched sailors with a haunting song and a silver-eyed bewitching glare, driving ships onto nearby rocks. It resisted radiant and thunder damage and was connected to storms and lightning. The party defeated it underwater using water breathing potions brewed by [[Red Caesar]], with [[Kerben]]'s shark companion [[Zulu]] playing a key role through repeated grapples. One of its drowned victims — a sailor with a lapis lazuli locket — was recovered from the garden.
+# Bane Siren
+
+The Bane Siren haunted a submerged garden of [[Deep Roses]] near the southern archipelago, where the party confronted and killed her.
+
+## Description
+
+She was bound to the garden much as a dryad is bound to a tree. [[The Cataclysm]] and rising ocean waters had twisted her into a greater threat.
+
+Her haunting song lured sailors onto nearby rocks and into the water. A silver-eyed gaze bewitched those who met it. Sailors associated her waters with storms and lightning.
+
+## Campaign History
+
+Water-breathing potions brewed by [[Red Caesar]] allowed the party to reach the garden and gather Deep Roses. [[Domyx]] fell under her gaze, which prevented him from attacking her without making him attack his companions.
+
+[[Kerben]] and his shark companion held the siren in place while the others resisted her enchantments. Kerben killed her with his whip; her final shriek failed to overwhelm the group, and Domyx's attachment ended.
+
+[[Ceril]] later found a drowned sailor holding a damaged lapis lazuli locket, apparently a victim of the siren's song. The locket was recovered into [[The Opal]]'s stores. The record does not establish that the body was taken aboard.

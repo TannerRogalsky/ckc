@@ -7,6 +7,22 @@ related:
   - "[[Castle Kaedon]]"
 ---
 
-A grayish ghostly undead creature without a lower body, constantly shifting like smoke billowing from a dying fire. Wraiths were encountered riding atop [[Nightmare]]s within [[Castle Kaedon]].
+# Wraith
 
-Their primary attack is a life-drain that reduces a target's maximum hit points. They are resistant or immune to fire and vulnerable to radiant damage. When destroyed, they dissipate quietly without a body.
+Wraiths were ghostly undead encountered riding [[Nightmare]]s through [[Castle Kaedon]]'s pillared hall.
+
+## Description
+
+Their gray forms lacked lower bodies and shifted like smoke from a dying fire. They drained vitality, leaving victims weakened beyond injuries that ordinary healing could close.
+
+Divine radiance was effective against them, while their mounts extended protection from fire. When destroyed, they dissipated quietly without leaving bodies.
+
+## Campaign History
+
+[[Vokenar]] detected the mounted patrol before it could ambush the party. [[Domyx]] pulled a Wraith from its mount with [[Iklwa Isondo]], while [[Ceril]] and Vokenar brought moonlight and holy power against them.
+
+A mounted Wraith repeatedly drained [[Kerben]]. Healing kept him alive but did not undo the loss of vitality.
+
+Domyx destroyed one rider, and Ceril finished the last with transformed claws. The party also brought down their steeds, clearing the hall.
+
+The encountered Wraiths were destroyed. Kerben's life drain remained after the battle.

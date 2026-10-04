@@ -10,14 +10,25 @@ related:
   - "[[Thalasia]]"
   - "[[Kerben]]"
 ---
+
 # Tatzelwurm
 
-The Tatzelwurm is a unique variant of white dragon found only in the far northern territories near [[Thalasia]]. Unlike typical white dragons that hide inside mountains and icy layers, the Tatzelwurm flies and actively surveys its vast territorial domain. It is pale white in color, blending with the snowy mountain terrain.
+The Tatzelwurm was a distinctive white dragon encountered in the northern territory near [[Thalasia]], whose presence intensified the region's winter.
 
-The dragon commands the terrain around its lair through a connection to the land itself — blizzards and avalanches in the region are caused by its presence. Its death calms the extreme cold and harsh weather patterns, making the surrounding territory safer to traverse.
+## Description
 
-The Tatzelwurm is described as one of the less intelligent dragons — "the jocks of the dragon family" — with a kind of normal intelligence compared to the genius-level minds of most dragons. It fights with the brute ferocity of a polar bear. It is immune to cold damage.
+Its pale body blended with snowy mountains. It flew over and surveyed its broad territory rather than remaining hidden within a mountain lair.
 
-The party encountered the Tatzelwurm while trekking across the Arctic Plains near [[Thalasia]]. [[Kerben]], scouting ahead, discovered the creature finishing a meal of caribou. Kerben initiated an ambush using Hunter's Mark and wyvern poison, and the party defeated the dragon in a swift engagement. Its blood stained a nearby river red.
+Its connection to the land drove blizzards, avalanches, and extreme cold. It fought with brute, polar-bear-like ferocity and freezing breath, displaying less elaborate cunning than the dragons familiar to the party.
 
-After the fight, Kerben used the dragon's scales and darkwood bark to craft [[Tatzelwurm Gizzard Juice]], a one-use white dragon poison.
+## Campaign History
+
+[[Kerben]] found it finishing a meal of caribou and chose to ambush it with poisoned shots. [[Domyx]] helped bring it down while [[Ceril]] healed Kerben and supported the attack with a flying bestial spirit.
+
+Ceril's summoned spirit delivered the finishing blow. The extreme weather eased as the dragon died, and its blood stained the river the companions followed toward Titanfolk territory.
+
+Kerben found no conventional hoard. He harvested its remains, combining dragon material with darkwood bark to make [[Tatzelwurm Gizzard Juice]], and the party packed meat in snow for the ship.
+
+## Final Status
+
+The encountered dragon died, calming its territory's harsh weather.

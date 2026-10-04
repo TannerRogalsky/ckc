@@ -4,8 +4,26 @@ session_introduced: "019"
 sessions_appeared: ["019"]
 ---
 
-A subterranean elemental creature composed of stone, soil, and pebbles with three arms, three legs, three eyes, and a single central mouth with radial symmetry. It can earth glide through solid stone, sealing its path behind it, and moves through earth as easily as swimming through water.
+# Zorn
 
-The Zorn speaks Common and prefers the safety of the underground, referring to its home as "axis monday." It is motivated by a desire to eat precious gems and gold coins. Its digestive system polishes coins clean, leaving them well-worn but intact when regurgitated. The creature fears [[Akasha]], which dematerializes elemental matter on contact.
+The Zorn was a subterranean elemental encountered beneath [[Castle Kaedon]]'s southern platform, which bargained for its release rather than fighting to the death.
 
-It was encountered at [[Castle Kaedon]] on the southern island platform, emerging from beneath flagstones to ambush the party. After being pressured by [[Vokenar]]'s Akasha-infused weapon and intimidated by [[Domyx]], it vomited up roughly 50 pounds of gold coins before burrowing deep into the cliff face and fleeing.
+## Description
+
+Stone, soil, and pebbles formed a body with three arms, three legs, three eyes, and a central, radially toothed mouth. It glided through solid earth as if swimming, its path sealing behind it.
+
+It sought precious gems and gold. Coins passed through its rocky body clean and polished but intact. It spoke a language [[Domyx]] understood and referred to [[Axis Mundi]] as its home, preferring underground safety to life above.
+
+[[Akasha]] dematerialized part of its body on contact and frightened it.
+
+## Campaign History
+
+It emerged through flagstones to attack [[Vokenar]], then vanished beneath them. [[Kerben]] tracked its movement through stone, and [[Ceril]] thickened the underground fungal network to impede it.
+
+Vokenar's Akasha-infused blade and Domyx's threats forced a bargain. The Zorn begged to return home, accused the party of using a force destructive to elemental life, and coughed up the gold it had swallowed.
+
+Domyx accepted its departure. The party recovered the polished coins while Kerben sensed the creature descending deep into the cliff.
+
+## Final Status
+
+The Zorn escaped alive into the stone. Its eventual return to Axis Mundi and later behavior were not established.

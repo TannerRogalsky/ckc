@@ -10,6 +10,20 @@ related:
 
 # Mary Andrews
 
-A construct automaton encountered in the [[Hole Shebang]] zone of [[The Carrot Cake]]. Mary Andrews is a construct holding a musical instrument — specifically a lute — that activates its strumming fingers before the rest of its body comes to life.
+Mary Andrews was a kind of lute-playing automaton encountered more than once in [[Hole Shebang]] within [[Jack Harvey]]'s park, [[The Carrot Cake]].
 
-The creature uses its lute to produce loud music that can injure and charm targets. It proved a dangerous opponent in close combat, attacking with the instrument directly. It can be unnerved by displays of relentless resilience, such as [[Domyx]]'s repeated dying and reviving via his Zealot feature. Like other automata in the park, it appears to be one of [[Jack Harvey]]'s entertainment constructs turned hostile. Multiple Mary Andrews constructs have been encountered, confirming they are a class of hostile automata rather than unique individuals.
+## Description
+
+Its strumming fingers activated before the rest of its body rose into motion. Loud music could injure or charm listeners, and it also struck opponents directly with the instrument.
+
+The creatures appeared to be former entertainment constructs turned hostile. One became unnerved by [[Domyx]]'s repeated survival of apparently fatal blows.
+
+## Campaign History
+
+The first appeared after the party shut off the electrical breaker, joining animated toys, a [[Roger Ribbons]], and [[Death Spark]]s. Domyx destroyed it and the ribbon creature, freeing [[Ceril]] from its bindings.
+
+Another attacked from the southern stage alongside toys, Death Sparks, and [[Hooksy the Clown Automaton]]. Domyx's encouragement helped [[Red Caesar]] resist its charm as the party overcame the stage's defenders.
+
+## Final Status
+
+The encountered Mary Andrews automatons were destroyed.

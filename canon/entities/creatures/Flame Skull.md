@@ -7,6 +7,22 @@ sessions_appeared:
   - "029"
 ---
 
-Tiny, brightly colored floating skulls — neon green and pink — that are fiends rather than undead. They blend in with light and illusion, making them difficult to spot in environments with magical effects. Flame skulls can cast fire-based spells including fireball and ray of fire, though they are immune to fire damage. Their small size is their primary defense, giving them a low profile rather than actual armor.
+# Flame Skull
 
-Two flame skulls appeared at [[The Carrot Cake]], summoned by a [[Cloaker]] through infrasound. They were defeated by the party during an encounter alongside [[Hooksy the Clown Automaton]]. Flame skulls also appeared in the [[Magic Hat]] and as wave enemies at [[King of the Hole]].
+Flame Skulls were tiny floating fiends encountered in [[The Carrot Cake]], despite their resemblance to undead skulls.
+
+## Description
+
+Their neon green and pink coloring blended with magical lights and illusions. Their small bodies made them difficult to strike. They projected rays of fire and cast fireballs, while fire itself could not harm them.
+
+## Campaign History
+
+Two emerged beneath the park's canopy with a [[Cloaker]] and [[Hooksy the Clown Automaton]], apparently called by the Cloaker's infrasound. [[Domyx]] cut them down with the [[Gith Shard Glaive]].
+
+More appeared from a water feature in [[Magic Hat]]. Their fireballs badly injured [[Vokenar]] and destroyed the bodies of fallen vampire servants, preventing further questioning. Vokenar's cold magic weakened them, and [[Ceril]] finished them with moonlight.
+
+A Flame Skull also appeared in the opening [[King of the Hole]] round. [[Red Caesar]] countered its fireball, and Domyx reeled it closer with [[Iklwa Isondo]] before shattering it.
+
+## Final Status
+
+The Flame Skulls encountered in these battles were destroyed.

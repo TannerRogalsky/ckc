@@ -7,6 +7,20 @@ related:
   - "[[Castle Kaedon Arena]]"
 ---
 
-Clusters of parasitic sturge bats that hang from ceilings like cold bats in heaps. They are aerial creatures sensitive to the smell of blood — when they detect it they rush toward it like moths to a flame. They have low strength and are easily pushed by wind effects. Low-intelligence creatures that lack understanding of magical barriers or unusual tactics.
+# Sturges
 
-Found within [[Castle Kaedon]] buildings, particularly the granary, where they cling to the ceiling sniffing for blood. The party first encountered them in the [[Castle Kaedon Arena]] granary during session 017 alongside giant scorpions and carrion crawlers.
+Sturges were parasitic, bat-like creatures infesting [[Castle Kaedon]]'s granaries, including the storehouse near [[Castle Kaedon Arena]].
+
+## Description
+
+They hung from ceilings in clustered heaps and rushed toward blood scents. They attached themselves to victims to feed, could be pushed aside by wind, and persisted against barriers they did not understand.
+
+## Campaign History
+
+The first swarm attacked among giant scorpions and [[Carrion Crawler]]s in a granary filled with poisonous alcohol fumes. [[Domyx]] cut it down while the party cleared the infestation.
+
+In a larger granary, [[Ceril]] scouted beneath the door as a scorpion and found more hanging overhead. [[Red Caesar]] entered inside a protective sphere, drawing them into futile attacks against its surface. [[Kerben]] briefly exposed himself through another doorway before Domyx pulled him back with [[Iklwa Isondo]].
+
+The party destroyed the creatures around the sphere and doorway, clearing the building.
+
+The swarms encountered in these granaries were destroyed.

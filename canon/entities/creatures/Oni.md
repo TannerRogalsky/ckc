@@ -8,12 +8,24 @@ related:
   - "[[Broy]]"
 ---
 
-Large fiendish humanoid creatures serving as imperial guards and sentries for the [[Broyish Empire]]. They have four sets of horns, wear large golden loop earrings, and bear gold manacles and necklaces that appear ceremonial rather than restrictive. They look identical to one another, as if mass-produced from clay. When killed, oni disintegrate into black ash or smoke.
+# Oni
 
-They serve as both combat enforcers and surveillance sentries. Some oni are invisible and rotate positions at set intervals (notably at nine on the clock). They can detect intruders and issue automated warrants that inform every oni in town whom to apprehend on sight. They possess spellcasting abilities including Sleep and can cast See Invisibility when tasked as sentries.
+Oni served the [[Broyish Empire]] as fiendish guards, enforcers, and surveillance sentries around [[Broy]].
 
-## Plot Events
+## Description
 
-In session 023, the party first encountered oni surrounding a human and tiefling on slick stone near the coast of [[Broy]]. [[Vokenar]] intervened to protect the two civilians. The party defeated the oni in combat; the oni regenerated but were overwhelmed and ultimately disintegrated into soot and smoke.
+The large humanoids looked almost identical, as if mass-produced from clay. They had four sets of horns, large golden loop earrings, necklaces, and linked golden manacles that appeared ceremonial or magical rather than physically restrictive.
 
-Later, the party learned through [[Naomi Ue]] that they had automated warrants issued by the oni for immediate arrest. The party paid Naomi Ue to clear these warrants with 10 pounds of mithril.
+Wounded flesh broke into soot and drew back together through smoky regeneration. Those killed dissolved into black ash or smoke.
+
+They could hide through invisibility and induce enchanted sleep. Their observations generated warrants shared among the town's sentries. Guards rotated watches at times set by the mechanical clock, and the party learned that alerted sentries might use magic to detect invisible intruders.
+
+## Campaign History
+
+Three Oni surrounded [[Trent Indorra]] and [[Ebbie Indorra]] on the coastal approach. [[Vokenar]] intervened to protect them, and the party fought through the guards' regeneration. One put [[Domyx]] into magical sleep until Vokenar broke its hold. All three were killed.
+
+The Oni recorded the assault on imperial guards. [[Naomi Ue]] later showed the party the resulting automated warrant and arranged to clear it for mithril, allowing them to move openly.
+
+## Final Status
+
+The three coastal attackers were killed. Other Oni continued serving as sentries in Broy; their later individual fates were not established.

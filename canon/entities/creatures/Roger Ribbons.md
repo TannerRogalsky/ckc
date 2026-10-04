@@ -6,10 +6,23 @@ sessions_appeared:
 related:
   - "[[Hole Shebang]]"
 ---
+
 # Roger Ribbons
 
-A bizarre aberration encountered in the [[Hole Shebang]] zone of [[The Carrot Cake]]. Roger Ribbons formed from strands of string, twine, and fiberglass-like material that poured from behind a piano and coiled into a humanoid shape with a singular red skull atop a winged upper body. Its head bore spiky crucifix-like protrusions connected by sharp lines.
+Roger Ribbons was a recurring kind of aberration encountered among [[Hole Shebang]]'s animated defenders in [[The Carrot Cake]].
 
-The creature could fire ribbons to grapple targets at long range, reel them across the battlefield, and deliver devastating strikes with its head-mounted spikes. When destroyed, its remains were feathers, twine, and thorny crucifixes with pearl-colored blood seeping from its center — more material than biological.
+## Description
 
-In a second encounter after the party flipped the island's breaker switch, another Roger Ribbons appeared alongside more toy swarms and a [[Death Spark]]. This one used its ribbons to reposition allies behind cover and grappled [[Ceril]], pulling him into range before attempting crucifix attacks on [[Domyx]]. It was defeated by coordinated attacks from the party.
+String, twine, and fiberglass-like strands coiled into a humanoid body with a winged upper torso and a single red skull. Crucifix-like spikes joined by sharp lines protruded from its head.
+
+It fired ribbons to bind victims, reel them close, or move allies behind cover, then struck with its head-mounted spikes. Destroyed remains consisted of feathers, twine, thorny crucifixes, and pearl-colored blood.
+
+## Campaign History
+
+The first formed behind a piano. It pulled [[Kerben]] into its spikes until [[Zulu]] chewed through the bindings. It later caught a paralyzed [[Red Caesar]], whom Kerben restored and freed. Red Caesar finished the weakened creature with magic missiles.
+
+Another appeared after the party switched off the electrical breaker, alongside toy swarms, [[Death Spark]]s, and [[Mary Andrews]]. It repeatedly pulled the musician behind cover, countered by [[Domyx]] reeling the ally back.
+
+It caught [[Ceril]] and dragged him close. Domyx destroyed Mary Andrews and then Roger Ribbons with his hammer, freeing Ceril.
+
+Both encountered ribbon creatures were destroyed.

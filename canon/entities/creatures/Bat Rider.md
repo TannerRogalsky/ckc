@@ -4,4 +4,16 @@ subtypes: [enemy]
 session_introduced: "011"
 ---
 
-Elite dwarf knights of the [[Darvinblast]] who ride giant bats such as [[Penelope]]. They wield greatswords and fight alongside their mounts, which can bite and have the Flyby trait. Bat Riders are heavily armored and serve as a significant threat in the underground city. They operate under the command of [[Morel Chainsunder]] and his cult.
+# Bat Rider
+
+Bat Riders were elite dwarf knights defending [[Darvinblast]] under [[Morel Chainsunder]] and his cult.
+
+## Description
+
+The heavily armored knights wielded greatswords and fought alongside giant bat mounts such as [[Penelope]]. Their bats could swoop past opponents and attack with their bites.
+
+## Campaign History
+
+Bat Riders joined the defenders ordered against the party. [[Vokenar]]'s efforts to disarm, heal, and reassure their opponents persuaded several to stand down, including a knight who asked that his bat be spared.
+
+The surrendered knight agreed to guard a captured spy while the party continued toward Morel Chainsunder. He warned that defectors would be unsafe among the cult's loyal followers. Other Bat Riders later answered Morel Chainsunder's renewed call to resist.

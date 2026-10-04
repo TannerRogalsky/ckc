@@ -10,8 +10,24 @@ related:
   - "[[King of the Hole]]"
 ---
 
-An elemental creature composed of smoke and fumes, encountered in the interior area of the [[Hole Shebang]] island within [[The Carrot Cake]]. Two smoke elementals formed from the smoldering remains of debris — possibly melted and broken toys fused together by the area's ambient magic.
+# Smoke Elemental
 
-Smoke elementals attack by reaching tendrils of smoke into targets' throats, dealing poison damage. They can also emit wide bursts of toxic smoke that affect all nearby creatures. They are vulnerable to wind-based effects, which can push them and damage them by dispersing their gaseous form.
+Smoke Elementals were beings of fumes encountered in [[Hole Shebang]] and the optional [[King of the Hole]] challenge at [[The Carrot Cake]].
 
-Smoke elementals appeared again in the optional [[King of the Hole]] bonus challenge, this time as part of the hilltop defense against the party.
+## Description
+
+Two coalesced from smoldering debris and ruined toys, apparently animated by the area's ambient magic. They thrust smoky tendrils down victims' throats and released broad clouds of poisonous smoke.
+
+Wind could batter and scatter their gaseous bodies, though dispersal did not always destroy them immediately.
+
+## Campaign History
+
+In Hole Shebang, the elementals appeared alongside [[Phase Cat]]s. Their toxic burst blinded [[Vokenar]] and killed two cats, showing that the creatures were not a coordinated group of allies.
+
+[[Red Caesar]] used Gust of Wind to hold the smoke back and disrupt its form while the party overcame the threats. An elemental tried unsuccessfully to reach and choke him through the wind.
+
+Another joined the hilltop enemies during the optional King of the Hole round. [[Domyx]] intercepted it as it approached Red Caesar and destroyed it with his glaive.
+
+## Final Status
+
+The encountered Smoke Elementals were destroyed.

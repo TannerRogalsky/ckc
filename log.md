@@ -803,3 +803,79 @@
 ## [2026-10-04] update | Reconciled Tuna, Alamar, session 038, timeline, and entity index.
 ## [2026-10-04] lint | Removed unsupported travel abilities from Xarag's profile.
 ## [2026-10-04] lint | Revalidated canon links, frontmatter, session structure, provenance, index coverage, and append-only logging.
+## [2026-10-04] query | Inventoried all creature articles and reviewed Creature Article Structure requirements.
+## [2026-10-04] restructure | Aboleth
+## [2026-10-04] restructure | Aeon
+## [2026-10-04] restructure | Animated Armor
+## [2026-10-04] restructure | Arcanoloth
+## [2026-10-04] restructure | Bane Siren
+## [2026-10-04] restructure | Bat Rider
+## [2026-10-04] restructure | Bearded Devil
+## [2026-10-04] restructure | Carrion Crawler
+## [2026-10-04] restructure | Chain Devil
+## [2026-10-04] restructure | Cloaker
+## [2026-10-04] restructure | Death Spark
+## [2026-10-04] restructure | Etten
+## [2026-10-04] restructure | Fire Giant
+## [2026-10-04] restructure | Flabbergast
+## [2026-10-04] restructure | Flame Skull
+## [2026-10-04] restructure | Fuchsia Fungus
+## [2026-10-04] restructure | Gnoll
+## [2026-10-04] restructure | Gorgon Head
+## [2026-10-04] restructure | Grotusqu
+## [2026-10-04] restructure | Harengon
+## [2026-10-04] restructure | Haunted Living Tent
+## [2026-10-04] restructure | Hezru
+## [2026-10-04] restructure | Hooksy the Clown Automaton
+## [2026-10-04] restructure | Kilosaurus
+## [2026-10-04] restructure | Kuo-Toa
+## [2026-10-04] update | Corrected Lightning Elemental's introduction from verified earlier encounter.
+## [2026-10-04] restructure | Lightning Elemental
+## [2026-10-04] restructure | Magen
+## [2026-10-04] restructure | Mary Andrews
+## [2026-10-04] restructure | Mezzoloth
+## [2026-10-04] update | Corrected Mummy introduction and distinguished paralysis from petrification using earlier encounters.
+## [2026-10-04] restructure | Mummy
+## [2026-10-04] lint | Corrected the Nalfeshne killing crab's summoner from session 021 evidence.
+## [2026-10-04] restructure | Nalfeshne
+## [2026-10-04] restructure | Nightmare
+## [2026-10-04] restructure | Oni
+## [2026-10-04] restructure | Penelope
+## [2026-10-04] lint | Completed Nyquil after index validation prevented its initial save.
+## [2026-10-04] restructure | Nyquil
+## [2026-10-04] restructure | Phase Cat
+## [2026-10-04] restructure | Psychic Goop
+## [2026-10-04] restructure | Remorhaz
+## [2026-10-04] restructure | Rimefire Hydra
+## [2026-10-04] restructure | Roger Ribbons
+## [2026-10-04] restructure | Saratan
+## [2026-10-04] restructure | Severed Hands
+## [2026-10-04] restructure | Shambling Mound
+## [2026-10-04] restructure | Smoke Elemental
+## [2026-10-04] restructure | Storm Phoenix
+## [2026-10-04] restructure | Sturges
+## [2026-10-04] restructure | Tango
+## [2026-10-04] restructure | Tatzelwurm
+## [2026-10-04] lint | Corrected Nightbringer's defeat and distinguished its actions from the train's vampire spawn.
+## [2026-10-04] restructure | Vampiric Nightbringer
+## [2026-10-04] restructure | Victor, the Amphibious Beast
+## [2026-10-04] restructure | Warg Lord
+## [2026-10-04] restructure | Wraith
+## [2026-10-04] restructure | Wyrm
+## [2026-10-04] restructure | Wyvern
+## [2026-10-04] restructure | Zorn
+## [2026-10-04] restructure | Zulu
+## [2026-10-04] lint | Corrected Carrion Crawler anatomy and introduction using the earlier granary encounter.
+## [2026-10-04] restructure | Carrion Crawler
+## [2026-10-04] restructure | Kilosaurus
+## [2026-10-04] restructure | Mary Andrews
+## [2026-10-04] restructure | Nalfeshne
+## [2026-10-04] restructure | Nightmare
+## [2026-10-04] query | Reviewed source evidence and baseline facts for all creature rewrites.
+## [2026-10-04] lint | Reconciled Domyx's train history with Nightbringer and vampire spawn evidence.
+## [2026-10-04] update | Qualified Cloaker summoning and Phase Cat origin in the entity index.
+## [2026-10-04] lint | Replaced Bane Siren's incidental Mana Sea relation with its defining Cataclysm connection.
+## [2026-10-04] restructure | Bane Siren
+## [2026-10-04] lint | Standardized shortened creature and vessel references across restructured articles.
+## [2026-10-04] lint | Audited all creature articles alphabetically for fact preservation, chronology, canonical names, outcomes, and uncertainty.
+## [2026-10-04] lint | Validated 56 creature articles, linked character correction, frontmatter, provenance, wiki links, entity index, and append-only logging.

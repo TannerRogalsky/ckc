@@ -12,14 +12,34 @@ related:
   - "[[Ceril]]"
 ---
 
-A powerful demon with the body of a boar, bearing two large tusks and bluish fire emanating from its form. It had been overseeing fiendish forces within [[Castle Kaedon]], claiming the castle as "my brand new castle" that "belongs in hell."
+# Nalfeshne
 
-The Nalfeshne spoke Heavenly (a royal tongue) and recognized [[Vokenar]] as an old adversary. It repeatedly teleported away before the party could engage it directly, promising future encounters and "a lot of surprises."
+The Nalfeshne was the demon commanding fiendish forces in [[Castle Kaedon]], which it claimed as its new castle and said belonged in hell.
 
-In session 020, the Nalfeshne remained invisible while magically bolstering a [[Chain Devil]] ally. After the party defeated the chain devil and a [[Bearded Devil]], the Nalfeshne cast Fireball on the entire party before using a special reaction to teleport away in a puff of invisible blue fire. [[Vokenar]]'s See Invisibility allowed him to spot the demon, and his intimidation attempt warned it that the party had resources to deal with it directly.
+## Description
 
-In a later encounter in the same session, the Nalfeshne remained invisibly hidden during a battle against a [[Hezru]] and two [[Bearded Devil]]s. After the party defeated all visible enemies, the Nalfeshne struck from the hallway with a Lightning Bolt aimed at [[Domyx]], [[Red Caesar]], and [[Zulu]]. Red Caesar and Zulu were knocked down while Domyx withstood the blast. The Nalfeshne then retreated through a door to hide again, repeating its pattern of striking and vanishing.
+Its horse-sized body resembled a boar. Its head bore tusks and horns growing outward like plant overgrowth, with beady red eyes above a muscular, furred chest. Blue fire and smoky energy surrounded it.
 
-In session 021, the party ambushed the Nalfeshne in its throne room by using [[Kerben]]'s magic key to cast Pass Wall through the ceiling from the floor above. The Nalfeshne was caught completely off guard. The party descended on ropes into a proper throne room with stained glass windows, stone pillars, and a red carpet ascending a dais. The Nalfeshne was described as having a boar's head with extra tusks and horns growing outward in every direction like plant overgrowth, beady red eyes, and a fur-covered muscular chest wreathed in smoky blue energy. [[Ceril]]'s summoned bestial spirit crab proved decisive — it charged up the dais and delivered the killing blow, clamping its pincers around the Nalfeshne's neck. The demon dissipated in a puff of blue smoke.
+It spoke Heavenly, a royal tongue understood by [[Vokenar]] and [[Ceril]]. It remained invisible, teleported in blue fire, raised magical defenses, and released terrifying energy that assaulted victims' minds.
 
-After the Nalfeshne's defeat, the castle's magical aura and abjurations weakened noticeably. The throne room contained a large chunk of [[Penumbra]]. The Nalfeshne's throne held a ruby and a sapphire as arm-set gems, and its remains included a black periapt fashioned in Hell and set with sardonyx gems.
+## Campaign History
+
+### The invisible overseer
+
+The demon watched the party defeat its [[Bearded Devil]] servants, addressed Vokenar as an adversary, and promised further surprises before teleporting away.
+
+In the prison, Vokenar saw it strengthening a [[Chain Devil]]. After its servants fell, it blasted the party with fire and vanished again. Its alliances with devil servants crossed their kinds' usual rivalry.
+
+It next watched the fight against a [[Hezru]] and more Bearded Devils in the stained-glass corridor. After the visible enemies fell, its hidden lightning attack struck [[Domyx]], [[Red Caesar]], and [[Zulu]], dropping Red Caesar and Zulu. It then retreated through a door.
+
+### The throne-room ambush
+
+The party bypassed its protective locks with [[Kerben]]'s magical keyring, opened a passage through the ceiling, and descended on ropes into its throne room. Prepared protections against fear and hostile magic blunted its most dangerous assault.
+
+Kerben's summoned crab delivered the killing blow, closing its pincers around the demon's neck. The Nalfeshne dissolved in blue smoke.
+
+The castle's magical aura weakened and its arcane locks disappeared. The party recovered a large [[Penumbra]] fragment, ruby and sapphire throne ornaments, and a Hell-made black periapt set with sardonyx.
+
+## Final Status
+
+Its manifested body was destroyed, ending its control of the castle. The record does not establish its fate beyond its disappearance in blue smoke.

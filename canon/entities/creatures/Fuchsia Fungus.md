@@ -4,13 +4,22 @@ subtypes: [enemy]
 session_introduced: "014"
 related:
   - "[[Continental Stark]]"
-  - "[[Akasha]]"
 ---
 
-A large mound-like creature composed of purple mushroom and fungus, found in the bogs of [[Continental Stark]]. It has multiple legs and arms, with several dozen animal skulls floating atop its body where a head might be.
+# Fuchsia Fungus
 
-The Fuchsia Fungus assimilates victims by grafting them into its body — skin flows out across the fungus, bones are reconstituted into the creature's form, and skulls float to the top. It can graft nearby creatures through proximity, forcing a strength save or risk being absorbed. It moves through the bog at roughly the speed of a wading creature.
+The Fuchsia Fungus was a predatory mound of purple growth encountered among migrants trapped in the bogs of [[Continental Stark]].
 
-Described by elven migrants as "black, purple, like a mound of earth and mold, given form." It devoured one migrant and had others trapped in the surrounding quicksand.
+## Description
 
-The party defeated the Fuchsia Fungus in combat. [[Domyx]] sliced it in half with a Holy Light strike on his hammer. The purple and black parts turned to ash immediately, while undigested remains of animals and possibly elves sank into the bog. The creature is immune to necrotic damage.
+It had multiple arms and legs, with dozens of animal skulls floating where a head might have been. The migrants described it as black and purple, like a mound of earth and mold given form.
+
+It drew nearby victims into its tacky surface and grafted them into its body. Flesh spread across the fungus, bones became part of its limbs, and skulls rose to the top. It could pull unconscious victims through the surrounding mud.
+
+## Campaign History
+
+One apparently trapped migrant was already embedded in the creature when the party arrived. They tried to save the victim, but the fungus consumed the body completely. [[Vokenar]] held another migrant back while [[Red Caesar]] pushed endangered survivors away with a wave of force.
+
+[[Domyx]] resisted being absorbed and split the fungus with a hammer blow charged with holy light. Its purple and black substance turned to ash, leaving undigested animal remains and possibly elven remains to sink into the bog. The party rescued and healed most of the migrants, though some had already been lost.
+
+The encountered creature was destroyed.

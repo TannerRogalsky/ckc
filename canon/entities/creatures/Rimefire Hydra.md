@@ -9,8 +9,24 @@ related:
   - "[[Thalasia]]"
 ---
 
-A massive eight-headed hydra encountered in the frozen northern straits near [[Thalasia]]. Its body is covered in ice permafrost layered over dragon-like scales, making it extremely armored. Each head ends in a bristly, frosty lizard-like visage.
+# Rimefire Hydra
 
-The creature was awakened from decades-long hibernation by [[The Opal]] cutting through the ice near the titan homeland. It emerged from the frozen sea on the port side of the ship and immediately attacked. When a head is severed, it shatters into ice. The hydra can regenerate lost heads by sprouting new ones like reversed icicles — unless it has taken acid or fire damage, which prevents regeneration. It can also ram its body against ships, dealing structural damage.
+The Rimefire Hydra was an eight-headed creature awakened beneath the frozen northern straits near [[Thalasia]] by [[The Opal]]'s passage.
 
-The party defeated it in a ship-side battle using [[Ceril]]'s Moonbeam, [[Kerben]]'s acid poison to prevent head regrowth, [[Domyx]]'s frontline strikes, [[Vokenar]]'s healing and a finishing holy fireball, and [[Brim the Bullywog]]'s cannon fire. The battle also damaged [[The Opal]]'s hull.
+## Description
+
+Permafrost covered its dragon-like scales, and each head ended in a bristly, frosted lizard face. Severed heads shattered into ice; new heads could grow like reversed icicles, multiplying the threat.
+
+Acid or fire could interrupt its regeneration. Its enormous body could ram a ship and drive surrounding ice into the hull.
+
+## Campaign History
+
+The Opal disturbed its decades-long hibernation. It surfaced on the port side and attacked the ship and [[Domyx]], who fought from the water's surface.
+
+[[Brim the Bullywog]] fired the new cannons while [[Ceril]]'s moonlight and [[Vokenar]]'s protection supported the defense. [[Kerben]]'s black-dragon acid poison stopped the missing heads from growing back.
+
+Vokenar finished the creature with a holy fireball that burst it open from within. The acid continued melting its remains and prevented recovery.
+
+## Final Status
+
+The hydra died. The Opal retained damage from its collision and the ice driven into the hull.

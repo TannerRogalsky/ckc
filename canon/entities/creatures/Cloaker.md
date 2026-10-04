@@ -6,8 +6,22 @@ sessions_appeared:
   - "029"
 ---
 
-A bat-like creature whose body is centered within a massive silk-like membrane that drapes across the canopy like a sheet. The cloaker descends from trees and wraps its membrane around targets, squeezing them for damage while its spiky tail strikes from within the wrapping. It can use mirror image to create illusory duplicates of itself and emits a terrifying moan that induces fear.
+# Cloaker
 
-The cloaker encountered at [[The Carrot Cake]] appeared to have summoned other enemies — two [[Flame Skull]]s and [[Hooksy the Clown Automaton]] — through infrasound, acting as a kind of evil cloak cleric for the group. It proved susceptible to thunder damage and was ultimately defeated by the party.
+Cloakers were predatory, bat-like creatures encountered in [[The Carrot Cake]], including its [[King of the Hole]] challenge.
 
-A cloaker later appeared as a wave enemy at [[King of the Hole]] within [[The Carrot Cake]], fighting alongside [[Hooksy the Clown Automaton]]s, [[Shambling Mound]]s, and a [[Phase Cat]]. In this encounter it used mirror image defensively and attempted to attach to party members with its membrane and tail, but was obliterated by a [[Vokenar]] fireball.
+## Description
+
+A Cloaker's body lay within a broad, silk-like membrane that could drape across the canopy like a sheet. It descended from trees to envelop victims, squeezing them while striking with a spiky tail. Its veins could hook into a captive so that attacks against it also harmed the person enclosed.
+
+Cloakers emitted terrifying moans and created illusory duplicates. The first encountered creature appeared to summon two [[Flame Skull]]s and [[Hooksy the Clown Automaton]] through infrasound. Thunder tore its membrane.
+
+## Campaign History
+
+The first Cloaker ambushed the party beneath the park's canopy and wrapped around [[Red Caesar]]. He escaped by teleporting, allowing the others to attack without injuring him. The creature survived being blasted through the branches, renewed its attack behind overlapping images, and was eventually defeated.
+
+Another appeared in King of the Hole alongside more [[Hooksy the Clown Automaton]] specimens, [[Shambling Mound]]s, and a [[Phase Cat]]. It repeatedly enclosed [[Domyx]] and carried him up the hillside. [[Vokenar]] destroyed it with a radiant fireball, safely releasing Domyx.
+
+## Final Status
+
+The encountered Cloakers were defeated; the King of the Hole specimen was destroyed.

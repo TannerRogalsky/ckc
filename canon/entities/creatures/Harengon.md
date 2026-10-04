@@ -13,8 +13,22 @@ related:
   - "[[Broyish Empire]]"
 ---
 
-A rabbit-like species characterized by small size (roughly knee-height on a humanoid), fuzzy orange fur, and a reputation for rapid reproduction. The Harengon population was devastated by [[The Cataclysm]], but their fast reproductive rate makes them one of the races best suited to recover.
+# Harengon
 
-## Plot Events
+Harengon are small, rabbit-like people whose surviving communities sought help from [[The League of New Stark]] after [[The Cataclysm]].
 
-In session 022, the party met [[David Harvey]], a Harengon who works with [[The League of New Stark]] to reclaim Harengon territory. The Harengon have extensive underground warrens, some connected to tunnels in an area once called [[Esperanto]]. The warrens extend well below the level of the old oceans. A traitor named [[Theo Harvey]] revealed the warren locations to the [[Broyish Empire]], allowing imperial humans to occupy the island above.
+## Description
+
+They stood roughly knee-high to a humanoid and had fuzzy orange fur. Their population had been devastated by the flood; their rapid reproduction was described as offering a strong prospect of recovery.
+
+Their extensive underground warrens reached below the old ocean level and connected with tunnels near [[Esperanto]]. Some survivors still lived within that larger network.
+
+## Campaign History
+
+[[David Harvey]] worked with the League to reclaim his people's home. His cousin [[Theo Harvey]] had revealed the hidden [[Harengon Warrens]] to the [[Broyish Empire]], allowing imperial forces to occupy the island above.
+
+The party defeated Theo Harvey's allies, captured him alive, and found the warrens entrance without exploring the tunnels. Theo Harvey said the displaced inhabitants had taken their remaining supplies onto linked longboats and were waiting at sea for David Harvey to tell them it was safe to return.
+
+## Final Status
+
+The local imperial force was defeated and Theo Harvey was captured. The displaced community's return to the warrens was not confirmed; its last reported refuge was at sea.
