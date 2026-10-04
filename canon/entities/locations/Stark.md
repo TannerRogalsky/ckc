@@ -13,7 +13,7 @@ Stark is the world beneath [[Arkadia]], flooded by [[The Cataclysm]] and preserv
 
 Arkadia lies across the upper planar boundary; the Gray Wastes occupy a separate plane below. [[Gaokerena]] extends through all three realms. The reopened descent beneath [[The Funnel]] led past the stone remains of defeated [[Vanir]] avatars to a physically traversable lower threshold.
 
-Stark is the world containing [[Continental Stark]], [[Broy]], [[Thalasia]], and its surviving islands, not another name for the elven continent alone.
+Stark is the world containing [[Continental Stark]], [[Broy]], [[Thalassia]], and its surviving islands, not another name for the elven continent alone.
 
 ## Description
 

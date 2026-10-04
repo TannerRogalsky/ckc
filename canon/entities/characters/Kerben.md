@@ -42,7 +42,7 @@ related:
   - "[[Penumbra]]"
   - "[[Antumbra]]"
   - "[[Starfall]]"
-  - "[[Darvinblast]]"
+  - "[[Darvenlast]]"
   - "[[The Cataclysm]]"
 ---
 
@@ -56,7 +56,7 @@ Kerben's surname is Graphene. He is a survivor of [[The Cataclysm]] with a sailo
 
 Before the Cataclysm, Kerben worked for [[Jack Harvey]], running his museum and belonging to the [[40 Carats]] company. He remembers its old routes and Jack Harvey's talent for assembling people with complementary skills. He also worked for [[Farraday]], later revealed as an [[Arcanoloth]] and Jack Harvey's benefactor. These were distinct employers whose surviving projects brought Kerben's past into the party's search for the broken sky.
 
-While visiting [[Darvinblast]], Kerben recalled childhood excursions into the Deep World and associated his familiarity with its toxic fumes with his resistance to poison. His memories of the old world also include [[Kaedon]]: recognizing [[Lady Acelia]]'s name helped him recall her place in [[Alamar]]'s family and the royal family's dispersal after the monarchy ended.
+While visiting [[Darvenlast]], Kerben recalled childhood excursions into the Deep World and associated his familiarity with its toxic fumes with his resistance to poison. His memories of the old world also include [[Kaedon]]: recognizing [[Lady Acelia]]'s name helped him recall her place in [[Alamar]]'s family and the royal family's dispersal after the monarchy ended.
 
 ## Personality and Motivations
 
@@ -75,7 +75,7 @@ Kerben's attachment to [[Jack Harvey]]'s legacy gives his exploration a personal
 - [[Theo Harvey]] — Initially an imperial collaborator held aboard [[The Opal]], then Kerben's secret bargaining partner. Their shared interest in Jack Harvey led to Theo Harvey's first escape; Kerben freed him again after the Empire recaptured him. Theo Harvey repaid those rescues by gathering surviving [[40 Carats]] performers.
 - [[Zulu]] — His dinosaur companion, used for scouting, protection, and distractions. Kerben repeatedly restored Zulu after injuries; [[Vokenar]] restored him after he fell during the confrontation at [[House Erendel]].
 - [[Tango]] — His flying companion and aerial scout, whom Kerben resummoned after specters drained him at [[Castle Kaedon]]. Tango later carried warnings between ship and party and helped Kerben escape danger through [[The Ascot]]'s place-swapping magic, including during the final battles.
-- [[Kilosaurus]] — The triceratops-like beast Kerben befriended in [[Darvinblast]], named, and used to haul [[Penumbra]]. The party left Kilosaurus at [[Lyngbakr Lagoon]]. The epilogue suggested he probably died, but no death was witnessed.
+- [[Kilosaurus]] — The triceratops-like beast Kerben befriended in [[Darvenlast]], named, and used to haul [[Penumbra]]. The party left Kilosaurus at [[Lyngbakr Lagoon]]. The epilogue suggested he probably died, but no death was witnessed.
 - [[Victor, the Amphibious Beast]] — His large crocodilian companion, suited to travel on land and in water. Victor, the Amphibious Beast accompanied him through the [[Mana Sea]] and helped the party during the Aboleth encounter.
 - [[Ceril]] — A fellow naturalist and companion with whom he could summon the same crab spirit. Ceril removed Kerben's Mark of the Home curse and later freed him from [[Emperor Shen]]'s maze by drawing the party into [[Ceril's Star]].
 - [[Red Caesar]] — A collaborator in reconnaissance and the sabotage of [[Starfall]]. Kerben planted the [[Antumbra]] Red Caesar and his collaborators produced; they also combined animal speech with [[Beryzoz's Teeth]] to question an expedition dog. Kerben used a restoration scroll to release Red Caesar from paralysis at [[The Carrot Cake]].
@@ -87,7 +87,7 @@ Kerben's attachment to [[Jack Harvey]]'s legacy gives his exploration a personal
 
 ### Scouting, Navigation, and Survival
 
-Kerben combines tracking and fieldcraft with seafaring experience. He finds concealed anchorages, reads routes from maps and supply networks, scouts hostile terrain, and handles [[The Opal]] through ice, naval attacks, and unfamiliar planes. His knowledge of knots lets him fashion restraints, and his knowledge of Northern lets him address the dwarves of [[Darvinblast]].
+Kerben combines tracking and fieldcraft with seafaring experience. He finds concealed anchorages, reads routes from maps and supply networks, scouts hostile terrain, and handles [[The Opal]] through ice, naval attacks, and unfamiliar planes. His knowledge of knots lets him fashion restraints, and his knowledge of Northern lets him address the dwarves of [[Darvenlast]].
 
 Stone Cunning gives him tremor-sensing awareness of movement through surrounding stone, helping him trace occupied passages, detect ambushes, and discover concealed spaces. He also recognizes valuable gems and minerals, finding a rare ruby in a newly mined wall. His naturalist knowledge includes hunting, fishing, finding useful plants, extracting warmth from a remorhaz's heat gland, and treating salt baths for healing.
 
@@ -109,12 +109,12 @@ Kerben resists poison and works with toxins as ingredients rather than merely ha
 
 - [[The Opal]] — The ship Kerben first served as first mate and navigator, then acting captain, and finally permanent captain. Its crew and upgraded armaments became his responsibility. His ranger egg can temporarily store the vessel with its occupants, though that magic failed during its fall into the [[Gray Wastes]].
 - [[Mangonel]] — A celebration catapult recovered from [[Castle Kaedon]] and mounted aboard [[The Opal]]. It remains a resource of the ship's company under his later command.
-- [[Hilltop Hunter]] — His upgraded musket, retained at campaign end; commissioned from [[Sigrid Forgewelt]] in [[The Pit]] and collected during the party's return from Darvinblast. Its shots can carry green force energy.
+- [[Hilltop Hunter]] — His upgraded musket, retained at campaign end; commissioned from [[Sigrid Forgewelt]] in [[The Pit]] and collected during the party's return from Darvenlast. Its shots can carry green force energy.
 - [[Vivarian Zodex]] — The magical breastplate made for him by [[Beryzoz Helmscar]] and retained at campaign end, protecting nearby animal companions and providing a rotating slot for his ranger egg.
 - [[Shark's Edge]] — A megalodon-tooth falchion he received while acting captain and retained at campaign end. Its ability to reveal visible water's temperature helped him navigate warm currents and weak ice on the northern voyage.
 - [[The Ascot]] — An animal-pelt-textured scarf acquired from [[The Wonder Hulk]] in exchange for his remaining gold and rare items, retained at campaign end. It supplies animal speech and place-swapping magic, making his companions part of his escape and reconnaissance tools.
 - [[Ioun of the Emerald Hunter]] — An agility-enhancing stone acquired in [[Cutlass Cray]] after Obould transferred command and retained at campaign end. It also lets him shift Hunter's Mark between quarry more fluidly.
-- **Magical keyring** — His keys provide Zone of Truth, Arcane Lock, and Knock magic, supporting interrogation, securing doors, and opening enchanted locks. He used them in Darvinblast, to release Theo Harvey's manacles, and to open [[House Erendel]].
+- **Magical keyring** — His keys provide Zone of Truth, Arcane Lock, and Knock magic, supporting interrogation, securing doors, and opening enchanted locks. He used them in Darvenlast, to release Theo Harvey's manacles, and to open [[House Erendel]].
 - **Reusable magical bullets** — Three bullets made for him by [[Geoffrey the Younger]] at the Dawn Market after the confrontation with Farraday.
 - [[Wyvern Poison]] and [[Lolth's Sting]] — Poisons obtained through [[Gunk Grodley]] and the [[Goblin Traders]]. He traded uncommon goods and wyvern glands for the former and his bulette eggs for the latter. Both acquired doses were spent against the [[Tatzelwurm]], with no confirmed replacements.
 - [[Subpoena Deuces Mercator]] — A reusable scroll for summoning the Goblin Traders at sea, purchased with a rare gem with the party's approval. No activation is established, and final custody remains unconfirmed.
@@ -124,7 +124,7 @@ Kerben resists poison and works with toxins as ingredients rather than merely ha
 - [[Potion of Fluid Adamantite]] — A protective potion initially received by Red Caesar and later consumed by Kerben against [[Entropie]]. Its temporary protection ended during the refuge in [[Ceril's Star]].
 - [[Ranger Scroll]] — A recovered scroll with two Conjure Barrage inscriptions. He used one against an imperial escort, retaining the remaining inscription at campaign end.
 - **Feather tokens and practical gear** — Acquired from [[The Wonder Hulk]]: swan-boat, bird, and balloon tokens, Pipes of Smoke Monsters for the party, and immovable rods. Kerben later expended a ghost-ship token to conceal The Opal, gave a balloon token to Theo Harvey, and used his bird token to summon a roc that departed after helping the ship.
-- **Recovered treasure** — The party's acquisitions in [[Darvinblast]] included a rare ruby Kerben found, Deep World ivory figurines assigned to him, and texts about the deep worlders. These were acquisitions and shared supplies rather than an established final collection.
+- **Recovered treasure** — The party's acquisitions in [[Darvenlast]] included a rare ruby Kerben found, Deep World ivory figurines assigned to him, and texts about the deep worlders. These were acquisitions and shared supplies rather than an established final collection.
 - [[Jack Harvey's Portrait]] — Recovered jointly with Red Caesar from the collapsing [[Haunted Living Tent]]. Vokenar later gave it to [[David Harvey]], who hung it aboard [[The White Drake]].
 - [[Jade's Compass]] — Recovered with Domyx from [[Jack Harvey]]'s flooded vault. Red Caesar later gave it to [[Naomi Ue]] as payment for a diversion in [[Broy]].
 - **Recovered cloak** — Kerben found [[Rahmadi]]'s cloak with the remains of a failed expedition in the Mana Sea; it was placed in the ship's hold with other treasure.
@@ -134,11 +134,11 @@ Kerben resists poison and works with toxins as ingredients rather than merely ha
 
 ## Campaign History
 
-### Early Voyages and Darvinblast
+### Early Voyages and Darvenlast
 
 Kerben began among the original companions aboard [[The Opal]]. His search for [[The Carrot Cake]] grew from tickets found in [[Farraday]]'s supposed crypt and other early clues. That visit is recalled later, but the surviving early record does not establish its session. The tomb's significance became clear only when the party eventually met Farraday alive.
 
-In [[Darvinblast]], Kerben used his language skills to challenge cult followers and demand passage to [[Morel Chainsunder]], while his stone sense revealed the city's passages and approaching ambushes. He detained captured spies and used his keyring's truth magic to obtain information. He befriended the triceratops-like beast later named [[Kilosaurus]], learned its commands through animal speech and Northern postings, and directed it against the [[Fire Giant]]. In the church, his shots made the apparent Morel Chainsunder bleed, undermining the congregation's image of an invulnerable leader. The party discovered that this figure was a manifestation sustained by shared fear; the real Morel Chainsunder had died long before.
+In [[Darvenlast]], Kerben used his language skills to challenge cult followers and demand passage to [[Morel Chainsunder]], while his stone sense revealed the city's passages and approaching ambushes. He detained captured spies and used his keyring's truth magic to obtain information. He befriended the triceratops-like beast later named [[Kilosaurus]], learned its commands through animal speech and Northern postings, and directed it against the [[Fire Giant]]. In the church, his shots made the apparent Morel Chainsunder bleed, undermining the congregation's image of an invulnerable leader. The party discovered that this figure was a manifestation sustained by shared fear; the real Morel Chainsunder had died long before.
 
 The expedition recovered a major [[Penumbra]] source, which Kilosaurus helped haul after it was purified. Kerben collected [[Hilltop Hunter]] and [[Vivarian Zodex]] in [[The Pit]], and the party eventually left Kilosaurus to help the settlement at [[Lyngbakr Lagoon]]. Wyvern remains and [[Moon Mushrooms]] gathered during the following journey supplied his developing poison work.
 

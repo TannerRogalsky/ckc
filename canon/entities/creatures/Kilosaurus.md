@@ -13,7 +13,7 @@ related:
 
 # Kilosaurus
 
-Kilosaurus was the triceratops-like companion befriended in [[Darvinblast]] and named by [[Kerben]], later left to aid the settlement at [[Lyngbakr Lagoon]].
+Kilosaurus was the triceratops-like companion befriended in [[Darvenlast]] and named by [[Kerben]], later left to aid the settlement at [[Lyngbakr Lagoon]].
 
 ## Description
 
@@ -23,7 +23,7 @@ It understood conversation through animal-speaking magic and showed concern for 
 
 ## Campaign History
 
-The party spared Kilosaurus while fighting its handlers in Darvinblast. Calming magic, reassurance, and familiar food won its trust. It carried the companions through the city and helped defeat a [[Fire Giant]] by knocking him from a bridge.
+The party spared Kilosaurus while fighting its handlers in Darvenlast. Calming magic, reassurance, and familiar food won its trust. It carried the companions through the city and helped defeat a [[Fire Giant]] by knocking him from a bridge.
 
 [[The Opal]] was reinforced to carry it and the party's [[Penumbra]]. Kerben named the animal, and it hauled a purified Penumbra core back to the ship.
 

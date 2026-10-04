@@ -18,7 +18,7 @@ The Chart of the Witness is a magically encoded map of [[Stark]] made by [[Witne
 
 ## Description
 
-Witness mapped the world by walking over its highest mountains and across the ocean floor. The completed chart records elevations and ocean trenches, allowing the old landscape to be read against present-day [[Thalasia]].
+Witness mapped the world by walking over its highest mountains and across the ocean floor. The completed chart records elevations and ocean trenches, allowing the old landscape to be read against present-day [[Thalassia]].
 
 The chart's two portions each occupy a complete surface but contain only part of the information. They require assembly and magical decoding; they are not simply two pieces of a torn sheet.
 

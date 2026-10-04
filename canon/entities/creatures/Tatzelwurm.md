@@ -7,13 +7,13 @@ sessions_appeared:
 aliases:
   - Pretzel Worm
 related:
-  - "[[Thalasia]]"
+  - "[[Thalassia]]"
   - "[[Kerben]]"
 ---
 
 # Tatzelwurm
 
-The Tatzelwurm was a distinctive white dragon encountered in the northern territory near [[Thalasia]], whose presence intensified the region's winter.
+The Tatzelwurm was a distinctive white dragon encountered in the northern territory near [[Thalassia]], whose presence intensified the region's winter.
 
 ## Description
 

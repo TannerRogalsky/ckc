@@ -3,7 +3,7 @@ type: session
 session: "011"
 date: "2025-12-21"
 chunks: 4
-summary: "Vizier Jade secretly approaches Red Caesar; the party enters Darvinblast, wins dwarven allies, frees the Steelfend Clan, and finds a treasure map."
+summary: "Vizier Jade secretly approaches Red Caesar; the party enters Darvenlast, wins dwarven allies, frees the Steelfend Clan, and finds a treasure map."
 ---
 
 # Session 011
@@ -14,13 +14,13 @@ summary: "Vizier Jade secretly approaches Red Caesar; the party enters Darvinbla
 
 #### Vizier Jade's private visit
 
-About a week before the descent into [[Darvinblast]], an alarm woke [[Red Caesar]] aboard [[The Opal]]. On deck he found [[Vizier Jade]], a human woman in eastern attire who had appeared without warning and was inspecting the ship. She introduced herself as a servant and voice of [[Emperor Shen]] of [[Broy]]. When Red Caesar questioned whether she was merely a projection, she touched his arm to demonstrate that she was physically present.
+About a week before the descent into [[Darvenlast]], an alarm woke [[Red Caesar]] aboard [[The Opal]]. On deck he found [[Vizier Jade]], a human woman in eastern attire who had appeared without warning and was inspecting the ship. She introduced herself as a servant and voice of [[Emperor Shen]] of [[Broy]]. When Red Caesar questioned whether she was merely a projection, she touched his arm to demonstrate that she was physically present.
 
 Vizier Jade already knew about [[Heaven's Bulb]] and the party's search for [[Penumbra]]. She urged Red Caesar to visit the [[Broyish Empire]], offering to continue the education he had received at Heaven's Bulb. She argued that survivors of [[The Cataclysm]] were stronger and more deserving inheritors of the new world, and presented his magical potential as a reason for seeking him out. Red Caesar questioned what she wanted in return, but she described her interest as a duty to cultivate people capable of shaping that world.
 
 Her offer also carried a threat. She called his companions liabilities to him, Heaven's Bulb, and the Broyish Empire, promising to protect him from disaster while warning that she would come for them if they held him back. Red Caesar nevertheless asked about the practicalities of entering the Broyish Empire. Vizier Jade assured him that he would be admitted safely, claimed to have known [[Master Lee]] personally before and around The Cataclysm, and offered to discuss him further in Broy. She also explained that the Broyish Empire sought Penumbra as a source of energy and power, for purposes different from those of his companions.
 
-At Vizier Jade's request, Red Caesar promised to keep their meeting secret. She departed by teleportation, leaving him unsettled enough to patrol the deck again before returning to sleep. Small disturbances among the objects she had inspected reinforced that the encounter had been real. By the time the party entered Darvinblast, he had still told none of his companions.
+At Vizier Jade's request, Red Caesar promised to keep their meeting secret. She departed by teleportation, leaving him unsettled enough to patrol the deck again before returning to sleep. Small disturbances among the objects she had inspected reinforced that the encounter had been real. By the time the party entered Darvenlast, he had still told none of his companions.
 
 #### Vokenar's training during the fall
 
@@ -34,7 +34,7 @@ Vokenar willingly offered himself as their weapon, reasoning that without their 
 
 While the others had been exploring the preceding dungeon, [[Ceril]] watched its entrance, which he had concealed beneath thick weeds and vines. A flying machine bearing imperial markings returned over the mountains after the party had seen it pass earlier. Ceril took the form of a mountain goat to avoid drawing attention and sent [[Nyquil]] to follow it.
 
-The owl pursued the scout far beyond the mountains until it flew out over the sea. On returning, Nyquil conveyed images of a golden-haired, golden-bearded human in a turban and the Broyish Empire's white and gold colors. The pilot had appeared to search the land without finding his target. Nyquil interpreted the search as an effort to locate something hidden in the mountains, possibly more than the Darvinblast entrance.
+The owl pursued the scout far beyond the mountains until it flew out over the sea. On returning, Nyquil conveyed images of a golden-haired, golden-bearded human in a turban and the Broyish Empire's white and gold colors. The pilot had appeared to search the land without finding his target. Nyquil interpreted the search as an effort to locate something hidden in the mountains, possibly more than the Darvenlast entrance.
 
 Ceril then climbed to a vantage point and noticed an unnatural arrangement of terrain farther north. A powerful Mirage Arcana concealed a broad area from travelers and aerial observers alike, although he could not determine what lay beneath it. He returned to the entrance and marked the illusion's location on his map.
 
@@ -118,14 +118,14 @@ The clan's matron spoke Western and welcomed the people who had brought the brot
 
 Among the fallen defenders' belongings, Ceril found a map to the [[Far Helm Clan]] keep. It marked a nearby cavern where the clan had hidden valued treasure against the possibility that the deep-world venture failed. The map's bearer and his kin had died in the fighting, leaving no one from that group to return for the cache. Ceril shared the discovery with the party, giving them a new destination to investigate.
 
-The party accepted the clan's hospitality and rested in its wing while other clans remained hostile elsewhere in Darvinblast. Gammix and Tammix asked to leave the traveling group and stay with their family to protect it. The party agreed, and Vokenar asked them to spread word that the newcomers were trying to help rather than harm the dwarves. By the session's close, the party had gained a liberated household and refuge, but had not yet confronted Morel Chainsunder or located the Penumbra it sought in the region.
+The party accepted the clan's hospitality and rested in its wing while other clans remained hostile elsewhere in Darvenlast. Gammix and Tammix asked to leave the traveling group and stay with their family to protect it. The party agreed, and Vokenar asked them to spread word that the newcomers were trying to help rather than harm the dwarves. By the session's close, the party had gained a liberated household and refuge, but had not yet confronted Morel Chainsunder or located the Penumbra it sought in the region.
 
 ### Summary
 
 - [[Vizier Jade]] secretly approached [[Red Caesar]] aboard [[The Opal]], invited him to [[Broy]], promised safe entry, and threatened his companions if they obstructed his potential. He kept the meeting private.
 - A flashback revealed [[Vokenar]]'s training during his fall, his lost memories of earlier awakenings, and his willingness to serve the goddesses against an anticipated war.
 - [[Ceril]] and [[Nyquil]] investigated an imperial scout. Ceril located and mapped concealed terrain in the northern mountains and learned that an injured dwarf had surrendered to [[Figma Brickfinger's Union]].
-- The party entered [[Darvinblast]] and fought its defenders while attempting to spare and heal those willing to stand down.
+- The party entered [[Darvenlast]] and fought its defenders while attempting to spare and heal those willing to stand down.
 - [[Kerben]] captured a spy, and Red Caesar prevented the prisoner's suicide. The captive resisted questioning and made unverified accusations about [[Figma Brickfinger]] and earlier disasters.
 - [[Gammix]] and [[Tammix]] joined the party; Red Caesar dispelled the shared magic over them and the [[Steelfend Clan]].
 - The party took gold coins and a large amethyst from a market chest despite Vokenar's objection.
@@ -134,7 +134,7 @@ The party accepted the clan's hospitality and rested in its wing while other cla
 - The Steelfend Clan confirmed its liberation, offered refuge, and gifted deep-world coinage. Ceril recovered a map to the [[Far Helm Clan]] keep.
 - Gammix and Tammix stayed to safeguard their family. Morel Chainsunder and the local Penumbra remained the party's immediate objectives.
 
-The private visit and the training flashback placed two different claims on the party's future. Vizier Jade sought to draw Red Caesar toward the Broyish Empire through education, shared connections, and protection backed by threats. Vokenar offered himself to divine service despite uncertainty about the worlds below and the war he was being prepared to face. His response in Darvinblast gave that commitment a practical form: he treated frightened inhabitants and defeated enemies as people who could still be helped.
+The private visit and the training flashback placed two different claims on the party's future. Vizier Jade sought to draw Red Caesar toward the Broyish Empire through education, shared connections, and protection backed by threats. Vokenar offered himself to divine service despite uncertainty about the worlds below and the war he was being prepared to face. His response in Darvenlast gave that commitment a practical form: he treated frightened inhabitants and defeated enemies as people who could still be helped.
 
 The dwarven conflict unfolded through changes in trust as much as through victories. Intimidation, healing, translation, and calming magic persuaded some defenders to stop fighting, while Red Caesar's dispelling freed an entire clan bound through a shared ceremony. The brothers' defection exposed them to retaliation, making their eventual reunion and the clan's hospitality a significant outcome. The spy's testimony and the brothers' memories also complicated the apparent division between the surface dwarves and the deep-world cult without settling their historical grievances.
 

@@ -138,7 +138,7 @@ In later years, old and gray, Kerben returned to The Opal and sailed into the st
 
 #### Domyx and his father
 
-Domyx returned to [[Thalasia]] to understand what had changed after his grandfather's death. He wanted to learn how titan society might move beyond its hidden history and restrictive traditions. His rejection of his lineage did not prevent him from caring about the people who lived there.
+Domyx returned to [[Thalassia]] to understand what had changed after his grandfather's death. He wanted to learn how titan society might move beyond its hidden history and restrictive traditions. His rejection of his lineage did not prevent him from caring about the people who lived there.
 
 The mountains were full of new industry and repair. Younger titans carried timber uphill, watermills turned, and human, halfling, gnomish, and dwarven communities occupied the foothills. Some members of those peoples walked openly among the titans. The isolation Domyx had known was giving way to cooperation with newcomers.
 

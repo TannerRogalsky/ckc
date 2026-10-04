@@ -14,7 +14,7 @@ related:
   - "[[Vizier Jade]]"
   - "[[Theo Harvey]]"
   - "[[Penumbra]]"
-  - "[[Thalasia]]"
+  - "[[Thalassia]]"
   - "[[Kerben]]"
   - "[[Farraday]]"
   - "[[Magic Hat]]"
@@ -30,7 +30,7 @@ The Carrot Cake is [[Jack Harvey]]'s surviving amusement and refuge complex from
 
 ## Geography and Access
 
-The park connected distant mountaintops and resorts through teleportation. Early testimony placed its main destination north of [[Castle Kaedon]] and south of elven lands. [[Theo Harvey]] later supplied a map showing an approach from a particular side of the central mountain of [[Thalasia]].
+The park connected distant mountaintops and resorts through teleportation. Early testimony placed its main destination north of [[Castle Kaedon]] and south of elven lands. [[Theo Harvey]] later supplied a map showing an approach from a particular side of the central mountain of [[Thalassia]].
 
 Theo Harvey's stolen imperial notes described a demiplane accessible from the first day of the fifth moon through the last day of the ninth. A [[Magen]] explained the seasonal operation through the enormous energy cost and poor rainy-season business. These accounts established the known access window, not a guarantee that entry was easy.
 
@@ -41,6 +41,10 @@ The party reached a man-made lagoon cut into the mountainside after its concealm
 The park bears the stylized carrot-and-diamond emblem of 40 Carats. Illusory bands play a jazzy waltz in its entrance corridor, amid tattered tents and horse hooks. Its midway boulevard contains trees from across [[Stark]] and beyond, fruiting together despite incompatible natural habitats. Some stalls remain powered while others stand empty.
 
 Penumbra sustained the surviving midway and connected attractions. Illusions, arcane protections, electrical machines, automata, and hostile occupants made abandoned entertainment both functional and dangerous.
+
+### Inner Sanctum (Jack’s Vault)
+
+![[images/KaratCake_JacksVault.png]]
 
 ## Notable Areas
 

@@ -44,9 +44,9 @@ Consuming [[Penumbra]] restores his strength and enables him to rise from the se
 
 ### Recovering strength
 
-The party encountered Lyngbakr at [[Lyngbakr Lagoon]] after the adventure at [[Otyugh Isle]]. Learning that he had fallen from Arkadia connected him to their investigation of the broken sky. [[Sigil]] later assured them that supplying him with Penumbra offered a way to repair it.
+The party encountered Lyngbakr at [[Lyngbakr Lagoon]] after the adventure at [[Otyugh Isle]]. Learning that he had fallen from Arkadia connected him to their investigation of the broken sky. Castle Kaedon's spires initially poked out of the water. The party cleared those spires of demons, including [[Sunspite]], before discovering Alamar cloistered within. Later Penumbra feedings raised more of the castle and allowed access to [[Castle Kaedon Arena]]. [[Sigil]] later assured them that supplying him with Penumbra offered a way to repair it.
 
-They fed him the purified [[Darvinblast]] core and fragments recovered from gnoll territory through the lagoon's chute. Alamar expected digestion to take weeks, perhaps a month, before Lyngbakr could rise farther and expose more of Castle Kaedon. Between explorations, he could descend to hide the castle.
+They fed him the purified [[Darvenlast]] core and fragments recovered from gnoll territory through the lagoon's chute. Alamar expected digestion to take weeks, perhaps a month, before Lyngbakr could rise farther and expose more of Castle Kaedon. Between explorations, he could descend to hide the castle.
 
 By the next visit, Lyngbakr had finished digesting the earlier feeding. The party supplied the drained fragment from [[Theotropa]]. The island and surrounding pillars rose together, exposing roughly twice as much of the castle and bringing its turrets into view.
 

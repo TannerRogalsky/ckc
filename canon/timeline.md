@@ -57,9 +57,10 @@ Source: [[chunks/sessions_001-0010]].
 
 ### Chunk sessions_001-0010
 
-- [[Sunspite]] is fought again, confirming his hatred of the sun and intent to sink [[Castle Kaedon]].
+- The party had initially encountered [[Castle Kaedon]] with only its spires poking out of the water.
+- The party clears demons from those exposed spires, including [[Sunspite]], who hates the sun and wants the castle sunk.
 - A half-elf tied to [[The Order of Seasons]] and [[The Croakborne Carnival]] escapes with the [[Penumbra]], accompanied by a tiefling.
-- The party finds [[Alamar]] sequestered by [[Vlerro]] and bound to [[Castle Kaedon]], with [[Tuna]] nearby.
+- After clearing the spires, the party finds [[Alamar]] cloistered within [[Castle Kaedon]], sequestered by [[Vlerro]] and bound to the castle, with [[Tuna]] nearby.
 - The party learns that [[Rasharan's Rock]], their intended evacuation site, no longer exists.
 
 ## Session 008 — 2025-11-23
@@ -78,7 +79,7 @@ Source: [[chunks/sessions_001-0010]].
 - A prophecy warns the party to pay attention when passing the elven shores because something worth collecting lies there.
 - The party arrives at [[The Pit]], the dwarvish settlement run by [[Figma Brickfinger's Union]] from [[The Palace of the Pit]].
 - [[The Deepworlders Delve]] is introduced as the Duergar underground city led by [[Morel Chainsunder]], with an obsession for [[Penumbra]].
-- [[The Darvenlast]] and [[The Funnel]] are identified as key areas of the deep-world dwarven territory.
+- [[Darvenlast]] and [[The Funnel]] are identified as key areas of the deep-world dwarven territory.
 - [[Sigrid Forgewelt]] and [[Beryzoz Helmscar]] are established as important dwarven-market artisans.
 - [[Crone]] reveals that a single person caused [[The Cataclysm]] and achieved what they desired.
 
@@ -86,7 +87,7 @@ Source: [[chunks/sessions_001-0010]].
 
 ### Chunk sessions_001-0010
 
-- The party prepares to enter the [[Darvinblast]] and confront the influence of [[Morel Chainsunder]].
+- The party prepares to enter the [[Darvenlast]] and confront the influence of [[Morel Chainsunder]].
 - The party resolves to minimize casualties among the brainwashed deep-world dwarves.
 
 ## Session 011 — 2025-12-21
@@ -96,11 +97,11 @@ Source: [[chunks/sessions_001-0010]].
 - In a flashback aboard [[The Opal]], [[Vizier Jade]] reveals to [[Red Caesar]] that she serves [[Emperor Shen]] of [[Broy]], knows of [[Heaven's Bulb]] and the [[Penumbra]], and wants Red to come east.
 - [[Vizier Jade]] promises [[Red Caesar]] safe passage to [[Broy]] and warns that his companions may become liabilities to the empire's plans.
 - In a flashback outside normal time, [[Crone]], [[Sigil]], and [[Aeris]] train [[Vokenar]] as a weapon for an inevitable war.
-- In the present, the party enters the [[Darvinblast]] through unstable back passages while [[Ceril]] spots an imperial flying machine and discovers a large Mirage Arcana concealing the northern mountains.
+- In the present, the party enters the [[Darvenlast]] through unstable back passages while [[Ceril]] spots an imperial flying machine and discovers a large Mirage Arcana concealing the northern mountains.
 
 ### Chunk 0001
 
-- The party enters a sealed atrium of the [[Darvinblast]], where [[Morel Chainsunder]]'s voice rallies hostile dwarf defenders.
+- The party enters a sealed atrium of the [[Darvenlast]], where [[Morel Chainsunder]]'s voice rallies hostile dwarf defenders.
 - The party fights dwarf grunts, spies, priests, and [[Bat Rider]]s while attempting to avoid unnecessary deaths.
 
 ### Chunk 0002
@@ -113,13 +114,13 @@ Source: [[chunks/sessions_001-0010]].
 - The party wins the atrium battle and helps liberate the [[Steelfend Clan]] from [[Morel Chainsunder]]'s control.
 - The [[Steelfend Clan]] matron thanks the party and gives them deep-world coinage.
 - [[Ceril]] finds a map to the [[Far Helm Clan]] keep among enemy effects.
-- The party takes a short rest in the [[Steelfend Clan]]'s wing of the [[Darvinblast]].
+- The party takes a short rest in the [[Steelfend Clan]]'s wing of the [[Darvenlast]].
 
 ## Session 012 — 2026-01-04
 
 ### Chunk 0000
 
-- The party leaves the [[Steelfend Clan]] refuge and continues through [[Darvinblast]], where poisonous floor mist weakens [[Red Caesar]] and [[Vokenar]].
+- The party leaves the [[Steelfend Clan]] refuge and continues through [[Darvenlast]], where poisonous floor mist weakens [[Red Caesar]] and [[Vokenar]].
 - The party defeats an [[Etten]] and a [[Deep World Wizard]].
 - A dissenting dwarf questions [[Morel Chainsunder]]'s motives and gives [[Domyx]] a [[Potion of Proof Against Storms]].
 - The party takes minted deep-world coins into its shared stores; [[Kerben]] finds a valuable ruby in unfinished stonework.
@@ -157,7 +158,7 @@ Source: [[chunks/sessions_001-0010]].
 - Vokenar defeats the manifestation, leaving an ordinary congregant whom the others heal.
 - The party finds the real Morel Chainsunder's skeleton and will. His emotional binding spell has amplified anger into a curse and sustained the feared leader's identity.
 - Ceril consults [[Aeris]], who advises destroying the spell, identifies a nearby [[Penumbra]] source, and describes the many scattered fragments and other organizations' limited understanding.
-- Red Caesar tears the will, ending the curse. Darvinblast's residents emerge with curiosity replacing fear.
+- Red Caesar tears the will, ending the curse. Darvenlast's residents emerge with curiosity replacing fear.
 - Kerben discovers an exit shaft and historical texts. The party backtracks with the triceratops and returns it to [[The Opal]].
 - Ceril leads the party to the now-unconcealed quarry, where a massive tetrahedral Penumbra fragment remains too large to transport easily.
 - The party rests and begins its advancement; Domyx strengthens his endurance.
@@ -174,7 +175,7 @@ Source: [[chunks/sessions_001-0010]].
 
 ### Chunk 0000
 
-- Freed deep-world inhabitants emerge into [[The Pit]] while surface dwarves enter the underground, creating unrest after [[Darvinblast]]'s liberation.
+- Freed deep-world inhabitants emerge into [[The Pit]] while surface dwarves enter the underground, creating unrest after [[Darvenlast]]'s liberation.
 - A flashback follows [[Ceril]] and [[Vanzia Vynnfae]] fleeing west after [[Queen Caeradwyn]]'s death. Ceril sees east-to-west sky-lines and leaves a distress signal for the exhausted [[Gilder Savar]].
 - A [[House Kiirnodel]] aristocrat lets Ceril escape despite an order to capture him.
 - A second flashback shows [[Ulrich Fjoller]] risking punishment to tell [[Domyx]] that an earlier sky-touching blood relative was erased from [[Clan Akathia]]'s records.
@@ -331,7 +332,7 @@ Source: [[chunks/sessions_001-0010]].
 - After roughly two weeks, the crew returns to an expanded [[Lyngbakr Lagoon]], where oil-burning alarms call armed defenders mounted on [[Kilosaurus]].
 - [[Alamar]] feeds Theotropa's Penumbra through the excavated chute and demonstrates a foliage-covered canvas dome that conceals the settlement from overhead.
 - Alamar recalls a druid garden led by a woman named Theotropa in his own era; the relationship between the accounts is not established.
-- [[Lyngbakr]] rises farther, exposing more of [[Castle Kaedon]] and surrounding pillars of land.
+- [[Lyngbakr]] rises farther, exposing more of [[Castle Kaedon]] and surrounding pillars of land, allowing access to [[Castle Kaedon Arena]].
 - Alamar senses fiends and undead in the castle and describes curses and the lingering influence of [[Queen Caeradwyn]]. He remains to guard the lagoon.
 - The party takes the [[Gheister]] toward the newly exposed castle. The session ends before entry.
 
@@ -1103,7 +1104,7 @@ Source: [[chunks/sessions_001-0010]].
 - [[Theotropa]] invites Ceril to restore the emerging lands. He contributes dense, fertile jungle, then retires to his star; his choice about a later world remains open.
 - Red Caesar erases the [[Demi-Spell]] and writes Broy's new charter on its paper. Vizier Jade helps establish the new order and accepts imprisonment for her crimes.
 - [[Theo Harvey]] reunites surviving [[40 Carats]] performers. Kerben rebuilds the troupe, receives a [[Spelljammer]] from Obould, visits [[Jack Harvey]]'s grave near [[Esperanto]], and eventually sails into the stars.
-- Domyx returns to a more open [[Thalasia]], where houses share authority. [[Charlotta Fjoller]] encourages him to speak with [[Domyx IV]], who apologizes; father and son reconcile.
+- Domyx returns to a more open [[Thalassia]], where houses share authority. [[Charlotta Fjoller]] encourages him to speak with [[Domyx IV]], who apologizes; father and son reconcile.
 - Vokenar eventually awakens young in Arkadia, retaining his experience. He reunites with the goddesses, [[Alamar]], [[Tuna]], [[Illidrielle Gandara]], and [[Damien Ouranous]], then accepts [[Crone]]'s training for a future campaign in the deeper hells.
 - The epilogue confirms [[Southport]]'s recovery, [[Lyngbakr]]'s return to Arkadia, [[Witness]]'s mapping of that plane, and [[Xander MacLenth]]'s passage to the afterlife. [[Kilosaurus]]'s death remains uncertain.
 - [[Rizolvir Kiirnodel]] becomes the elves' king, and [[The Academy]] is repurposed. The [[Rakshasa]] remains in [[Feronia Caeradel]]'s crystal; [[Keys Caeradel]]'s later direction is unresolved.

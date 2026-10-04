@@ -18,7 +18,7 @@ He could make powerful rushing attacks and navigate cramped passages. Magic enha
 
 ## Campaign History
 
-Zulu accompanied Kerben through [[Darvinblast]] and [[Castle Kaedon]]. He helped against the [[Fire Giant]] and the [[Nalfeshne]]'s servants, receiving healing after dangerous encounters. The Nalfeshne's hidden lightning attack brought him down alongside [[Red Caesar]] before the party restored him.
+Zulu accompanied Kerben through [[Darvenlast]] and [[Castle Kaedon]]. He helped against the [[Fire Giant]] and the [[Nalfeshne]]'s servants, receiving healing after dangerous encounters. The Nalfeshne's hidden lightning attack brought him down alongside [[Red Caesar]] before the party restored him.
 
 A diversion aboard [[The White Drake]] drew guards away while Kerben planted [[Antumbra]] among its [[Penumbra]]. Zulu raided the meat stores, then returned safely to [[The Opal]].
 

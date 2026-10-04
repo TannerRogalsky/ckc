@@ -18,7 +18,7 @@ The Funnel is [[The Pit]]'s principal mining area and the starting point of the 
 
 ## Geography and Access
 
-The mining area lies near [[The Darvenlast]]'s entrance. Wooden lifts and pulley systems led below the sea to deeper excavation. Beyond natural caverns and the remains of earlier expeditions, a purple worm's tunnel crossed the lower planar threshold.
+The mining area lies near [[Darvenlast]]'s entrance. Wooden lifts and pulley systems led below the sea to deeper excavation. Beyond natural caverns and the remains of earlier expeditions, a purple worm's tunnel crossed the lower planar threshold.
 
 ## Description
 

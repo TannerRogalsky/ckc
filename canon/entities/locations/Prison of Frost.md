@@ -6,12 +6,12 @@ sessions_appeared: ["024"]
 related:
   - "[[Ulrich Fjoller]]"
   - "[[Acathian Manor]]"
-  - "[[Thalasia]]"
+  - "[[Thalassia]]"
 ---
 
 # Prison of Frost
 
-The Prison of Frost is the titan prison in [[Thalasia]] from which [[Ulrich Fjoller]] was rescued before his threatened execution. It lies not far from [[Acathian Manor]].
+The Prison of Frost is the titan prison in [[Thalassia]] from which [[Ulrich Fjoller]] was rescued before his threatened execution. It lies not far from [[Acathian Manor]].
 
 ## Description
 

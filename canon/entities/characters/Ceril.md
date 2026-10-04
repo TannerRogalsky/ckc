@@ -94,7 +94,7 @@ Ceril's Wild Shape supports scouting and survival through forms such as a mounta
 
 Healing Word, Mass Cure Wounds, Protection from Poison, and Greater Restoration let him sustain companions, neutralize poison, remove curses, and reverse petrification. Reincarnate returned [[Vokenar]] to life, though [[Boril Erendel]]'s interference constrained the available bodies to elves. Dispel Magic can remove hostile enchantments and interrupt a curse before it takes hold.
 
-His offensive magic includes Guiding Bolt, Moonbeam, Starry Wisp, Primal Savagery, and the constellation form's luminous archery, including Luminous Arrow and Winden's Arrow. Moonbeam can reveal a concealed true form; its appearance in [[Darvinblast]] evoked [[Crone]] as a crescent moon.
+His offensive magic includes Guiding Bolt, Moonbeam, Starry Wisp, Primal Savagery, and the constellation form's luminous archery, including Luminous Arrow and Winden's Arrow. Moonbeam can reveal a concealed true form; its appearance in [[Darvenlast]] evoked [[Crone]] as a crescent moon.
 
 ### Divination, Nature, and Travel
 
@@ -124,7 +124,7 @@ A potion also once granted Ceril a single flying gargoyle transformation. That c
 
 ### Finding Penumbra and Returning to the Elven Lands
 
-While exploring [[Castle Kaedon]], Ceril recognized [[Illidrielle Gandara]] among the people taking its [[Penumbra]] and connected her to [[The Order of Seasons]]. In [[Darvinblast]], he used [[Nyquil]] to follow an imperial scout and discovered the northern mountains' concealing illusion. He also found a map to the [[Far Helm Clan]] keep and, with [[Vokenar]], crates of Deepworlder-minted coins.
+While exploring [[Castle Kaedon]], Ceril recognized [[Illidrielle Gandara]] among the people taking its [[Penumbra]] and connected her to [[The Order of Seasons]]. In [[Darvenlast]], he used [[Nyquil]] to follow an imperial scout and discovered the northern mountains' concealing illusion. He also found a map to the [[Far Helm Clan]] keep and, with [[Vokenar]], crates of Deepworlder-minted coins.
 
 Ceril's divination established that the apparent [[Morel Chainsunder]] was not the living person the party sought. It led them to the real [[Morel Chainsunder]]'s skeleton and the binding document sustaining the city's curse. After [[Red Caesar]] destroyed it, Ceril consulted [[Aeris]] through his shield and guided the party toward the [[Penumbra]] quarry exposed by the cleared illusion.
 
@@ -156,7 +156,7 @@ Ceril and [[Vokenar]] were drawn into a shared vision of [[Aeris]]'s mortal form
 
 Learning that [[The League of New Stark]] was secretly supplying [[Vizier Jade]] with [[Penumbra]] exposed another danger to the repair mission. During the northern journey, Ceril helped restore [[Domyx]] after the [[Remorhaz]] encounter and sent his magma owl to scout the guarded cavern believed to hold [[Ulrich Fjoller]]. His dragon constellation form gained flight and hovering during that expedition.
 
-After leaving [[Thalasia]], Ceril contacted [[Aeris]]'s star-filled divine aspect. She confirmed that the [[Antumbra]] sabotage would not harm her captive fragment and that [[Obould]] remained alive. Ceril relayed her approval to the party. At the [[Temple of Sigil]], he also restored [[Father Warrick]] from petrification; the priest freed others, and the survivors planned to help [[Southport]].
+After leaving [[Thalassia]], Ceril contacted [[Aeris]]'s star-filled divine aspect. She confirmed that the [[Antumbra]] sabotage would not harm her captive fragment and that [[Obould]] remained alive. Ceril relayed her approval to the party. At the [[Temple of Sigil]], he also restored [[Father Warrick]] from petrification; the priest freed others, and the survivors planned to help [[Southport]].
 
 In [[Cutlass Cray]], Ceril reunited with [[Gilder Savar]] and bought supplies before sailing to [[The Carrot Cake]]. He gathered seeds from its preserved trees and used restorative magic to sustain the party through the park's challenges. He interpreted [[Tango]]'s warning that imperial forces were attacking [[The Opal]], giving the party reason to press toward the last lamp while [[Kerben]] defended the ship.
 

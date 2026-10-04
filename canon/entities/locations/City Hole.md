@@ -11,7 +11,7 @@ related:
 
 # City Hole
 
-City Hole is the electrically lit hub cavern linking destinations in [[The Carrot Cake]]. Its barrel portals gave the party access to the park's connected zones.
+City Hole is the electricall[]()y lit hub cavern linking destinations in [[The Carrot Cake]]. Its barrel portals gave the party access to the park's connected zones.
 
 ## Geography and Access
 
@@ -20,6 +20,10 @@ A portal from the midway courtyard leads into the cavern. Barrels labeled for [[
 ## Description
 
 Copper lanterns illuminate the small interior space through electrical power. A wireframe gate at the far end leads farther into the zone.
+
+### Map
+
+![[images/KaratCake_CityHole.png]]
 
 ## Campaign History
 

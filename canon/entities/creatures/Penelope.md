@@ -6,7 +6,7 @@ session_introduced: "011"
 
 # Penelope
 
-Penelope was the giant bat ridden by a dwarf [[Bat Rider]] knight in [[Darvinblast]]. Her puffy, chinchilla-like face looked more like a cat's than a bat's and was described as uncomfortably cute.
+Penelope was the giant bat ridden by a dwarf [[Bat Rider]] knight in [[Darvenlast]]. Her puffy, chinchilla-like face looked more like a cat's than a bat's and was described as uncomfortably cute.
 
 ## Campaign History
 

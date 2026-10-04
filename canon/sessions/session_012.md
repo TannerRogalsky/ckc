@@ -3,7 +3,7 @@ type: session
 session: "012"
 date: "2026-01-04"
 chunks: 6
-summary: "The party befriends a triceratops, frees Darvinblast from the dead Morel Chainsunder's binding curse, and discovers a massive Penumbra fragment."
+summary: "The party befriends a triceratops, frees Darvenlast from the dead Morel Chainsunder's binding curse, and discovers a massive Penumbra fragment."
 ---
 
 # Session 012
@@ -12,9 +12,9 @@ summary: "The party befriends a triceratops, frees Darvinblast from the dead Mor
 
 [[chunks/session_012/chunk_0000|Source transcript]]
 
-#### Poison and defenders in Darvinblast
+#### Poison and defenders in Darvenlast
 
-The party left the refuge provided by the [[Steelfend Clan]] and continued searching [[Darvinblast]] for [[Morel Chainsunder]]. Their earlier efforts had won allies and divided the city's loyalties, but many inhabitants still treated them as enemies. [[Kerben]] renewed his stone sense to trace movement through the surrounding walls, [[Red Caesar]] prepared to detect magic, and [[Vokenar]] extended Water Walk over the party so that the city's sludgy ash and soot would not impede them.
+The party left the refuge provided by the [[Steelfend Clan]] and continued searching [[Darvenlast]] for [[Morel Chainsunder]]. Their earlier efforts had won allies and divided the city's loyalties, but many inhabitants still treated them as enemies. [[Kerben]] renewed his stone sense to trace movement through the surrounding walls, [[Red Caesar]] prepared to detect magic, and [[Vokenar]] extended Water Walk over the party so that the city's sludgy ash and soot would not impede them.
 
 The passages resembled narrow city streets, with homes dug into the walls above them, shuttered windows, wooden walkways, clotheslines, and pipes carrying water from hidden cisterns. Kerben realized why the residents lived above ground level when the party walked into a fetid black mist crawling along the floor. Its poison left Red Caesar and Vokenar weakened beyond the immediate injury. The raised dwellings offered some protection, but the environment itself made life underground unhealthy. [[Ceril]], mindful of his responsibility to protect Vokenar, helped shelter him within the group as they continued north.
 
@@ -132,7 +132,7 @@ The remaining questions turned to their wider task. Aeris placed the nearby Penu
 
 Aeris also said that more Penumbra fragments existed than the party believed, scattered on land and beneath the ocean. Ceril noted that pieces could gather together, leaving the total uncertain. Neither he nor Vokenar knew how much [[Lyngbakr]] would need to complete their work, although they reasoned that the goddesses would not have set them an impossible task. Vokenar wanted to warn Figma Brickfinger about the liberation before unrest could spread above; a peaceful aftermath was still a hope rather than an established outcome.
 
-Following the consultation, Red Caesar looked once more at the skeleton and tore the will down the middle. The magic departed. Outside the shrine, Darvinblast grew louder as residents emerged from their homes, their fear giving way to curiosity. This ended the binding curse without establishing that every inhabitant would welcome the party.
+Following the consultation, Red Caesar looked once more at the skeleton and tore the will down the middle. The magic departed. Outside the shrine, Darvenlast grew louder as residents emerged from their homes, their fear giving way to curiosity. This ended the binding curse without establishing that every inhabitant would welcome the party.
 
 Kerben noticed a tiny point of blue light at the top of a long vertical shaft, revealing another possible exit. The party chose to backtrack instead so that it could bring the triceratops out. During a final search, Kerben found books recording the deep-world inhabitants' own history of events around [[The Pit]], including accounts the people above might not know. The party took the texts, rode out, and arranged for its new animal ally to be returned to [[The Opal]].
 
@@ -146,21 +146,21 @@ The discovery fulfilled the regional search, but transporting the fragment remai
 
 [[chunks/session_012/chunk_0005|Source transcript]]
 
-#### Growth after Darvinblast
+#### Growth after Darvenlast
 
 The party's advancement continued after the expedition. Kerben considered adding wizard magic through Arcane Trickster training, but chose the Assassin path instead, emphasizing decisive attacks and opening opportunities for poison craft. Red Caesar strengthened his spellcasting and protective ward, prepared Control Water, and chose Tongues so that unfamiliar languages would no longer leave him dependent on translation. Vokenar developed Heavy Armor Master training, increasing his strength and protection, and prepared Banishment alongside the Arcane Eye supplied by his divine domain. He also offered to teach Kerben the language of the undead.
 
 #### Farewell and the road ahead
 
-A brief scene returned to the party's departure from Darvinblast: [[Gammix]] and [[Tammix]], who had remained with their family, waved their new friends off. Their farewell affirmed the alliance won during the descent even as the wider city's adjustment remained uncertain.
+A brief scene returned to the party's departure from Darvenlast: [[Gammix]] and [[Tammix]], who had remained with their family, waved their new friends off. Their farewell affirmed the alliance won during the descent even as the wider city's adjustment remained uncertain.
 
-The party divided treasure from the shared hold. Its accumulated stores included the coins, ruby, jade, ivory deity figures, and historical books recovered in Darvinblast alongside earlier acquisitions. Red Caesar selected an amethyst, Domyx took mithril, and Kerben received jade. A holy mask was identified with Ogun, the dwarven god of darkness, although its recipient was not clearly established. The gems were valuable materials for trade or possible enchantment rather than magical items in themselves.
+The party divided treasure from the shared hold. Its accumulated stores included the coins, ruby, jade, ivory deity figures, and historical books recovered in Darvenlast alongside earlier acquisitions. Red Caesar selected an amethyst, Domyx took mithril, and Kerben received jade. A holy mask was identified with Ogun, the dwarven god of darkness, although its recipient was not clearly established. The gems were valuable materials for trade or possible enchantment rather than magical items in themselves.
 
 Before setting out for Brimbolyn, the party still needed a way to bring the enormous Penumbra fragment aboard The Opal. Domyx proposed asking Figma Brickfinger's people to help move it. Speaking with her about the freed population and visiting the dwarven market to exchange their gems or improve equipment were also proposed. These preparations and the Penumbra's transport remained unfinished at the session's close.
 
 ### Summary
 
-- The party left the [[Steelfend Clan]] refuge, endured [[Darvinblast]]'s poisonous environment, and defeated two Deep World Wizards and their accompanying defenders.
+- The party left the [[Steelfend Clan]] refuge, endured [[Darvenlast]]'s poisonous environment, and defeated two Deep World Wizards and their accompanying defenders.
 - A dissenting resident gave [[Domyx]] a [[Potion of Proof Against Storms]]. The party recovered minted coins, a ruby, jade, ivory deity figures, and deep-world historical texts.
 - [[Kerben]], [[Vokenar]], Domyx, and [[Red Caesar]] helped win the trust of the triceratops later named [[Kilosaurus]], which carried them through the city and helped defeat a [[Fire Giant]].
 - Vokenar defended the congregation's freedom to choose, Domyx demonstrated the living sky through his marked hands and urged self-determination, and Red Caesar released prisoners.
@@ -176,7 +176,7 @@ Vokenar's insistence on choice linked the frightened child's question, the trice
 
 Winning the triceratops's trust also changed the expedition. A former instrument of the defenders became an ally through calming magic, patient care, and familiar food, then helped the party reach the church. The farewell from Gammix and Tammix supplied a smaller but clear sign of friendship beyond the spell's destruction. Neither those relationships nor the city's emerging curiosity guaranteed an orderly reconciliation with the surface dwarves.
 
-By the close, the party had broken Darvinblast's binding curse and found the Penumbra it sought. The new fragment's size made discovery only the first part of recovery. Figma Brickfinger's response, the liberated population's adjustment, and the journey toward the Order of Seasons remained immediate concerns, while Aeris's answers broadened the search without establishing how many fragments their larger mission required.
+By the close, the party had broken Darvenlast's binding curse and found the Penumbra it sought. The new fragment's size made discovery only the first part of recovery. Figma Brickfinger's response, the liberated population's adjustment, and the journey toward the Order of Seasons remained immediate concerns, while Aeris's answers broadened the search without establishing how many fragments their larger mission required.
 
 ### Connections
 

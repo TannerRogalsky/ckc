@@ -19,7 +19,7 @@ Penumbra is the physical substance of the fallen sky, sought as magical fuel and
 
 Living Penumbra appears as black material filled with points of light like stars. Fragments can join together: the great stone recovered from [[Castle Kaedon]] consisted of triangular pieces fused into a blocky, fractal mass, while [[Jack Harvey]]'s vault held both crystalline shards and sand-like deposits. Near Lyngbakr, the castle's fragment became almost weightless.
 
-Penumbra stores extraordinary magical energy. Drawing on that energy can exhaust it, leaving mundane obsidian where living sky once remained. An early beach find was already fading and had no useful magical function; the [[Darvinblast]] quarry contained a much larger example of depletion.
+Penumbra stores extraordinary magical energy. Drawing on that energy can exhaust it, leaving mundane obsidian where living sky once remained. An early beach find was already fading and had no useful magical function; the [[Darvenlast]] quarry contained a much larger example of depletion.
 
 [[Akasha]] is Penumbra's liquid counterpart. [[Red Caesar]] demonstrated that immense pressure could turn collected Akasha into a small, star-filled sphere of genuine Penumbra. His later spell, [[Obvolvo Caelum]], could condense existing deposits into a portable orb without discarding their sky-material. [[Antumbra]] was a separately altered sphere intended to destroy anything that consumed its energy, rather than a property of ordinary Penumbra.
 
@@ -29,7 +29,7 @@ Penumbra stores extraordinary magical energy. Drawing on that energy can exhaust
 
 [[Sunspite]] used Penumbra as a magical battery while seeking to sink Castle Kaedon. [[Keys Caeradel]] and [[Illidrielle Gandara]] carried away a castle fragment; [[Ceril]] recognized Illidrielle Gandara's affiliation with [[The Order of Seasons]] before the party met the researchers at [[The Academy]]. Another fragment recovered from a defeated golem was carried by [[Vokenar]].
 
-The Duergar of [[The Deepworlders Delve]] drew power from Penumbra. Divine guidance directed the party to find [[Morel Chainsunder]] before recovering the Darvinblast supply. Ending his surviving binding spell revealed the hidden quarry. Decades of use had drained the enormous stone's exterior into ordinary black glass, but Vokenar located a surviving, star-filled core. [[Figma Brickfinger]]'s workers cut away the dead shell, and [[Kilosaurus]] hauled the remaining stone to [[The Opal]]. The depletion raised concern that treating Penumbra as fuel was consuming the sky rather than healing it.
+The Duergar of [[The Deepworlders Delve]] drew power from Penumbra. Divine guidance directed the party to find [[Morel Chainsunder]] before recovering the Darvenlast supply. Ending his surviving binding spell revealed the hidden quarry. Decades of use had drained the enormous stone's exterior into ordinary black glass, but Vokenar located a surviving, star-filled core. [[Figma Brickfinger]]'s workers cut away the dead shell, and [[Kilosaurus]] hauled the remaining stone to [[The Opal]]. The depletion raised concern that treating Penumbra as fuel was consuming the sky rather than healing it.
 
 The party also recovered an untouched fragment from [[Gnoll]] territory and delivered its gathered supply to Lyngbakr at [[Lyngbakr Lagoon]], following the goddesses' direction. [[Sigil]] revealed that the Order had moved its own fragments to a protected place beyond [[Brimbolyn]]'s jungles.
 

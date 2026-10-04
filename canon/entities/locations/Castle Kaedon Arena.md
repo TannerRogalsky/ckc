@@ -16,6 +16,8 @@ Castle Kaedon Arena was the strangely preserved spectator courtyard within [[Cas
 
 ## Geography and Access
 
+The arena became accessible after the party fed [[Penumbra]] to [[Lyngbakr]], raising more of the castle above the water. Their earlier exploration had involved the exposed spires, which they cleared of demons before discovering [[Alamar]] within.
+
 An archway beneath the castle's turret walkways opened into the courtyard. The surrounding grounds included elevated plateaus, ocean-facing cliffs, old fields, and broken landmasses resting on barnacle-covered pillars. A great nearby cataract cast wind and mist across the island. [[Kerben]]'s stone sense revealed further buried hollows.
 
 ## Description
@@ -23,6 +25,16 @@ An archway beneath the castle's turret walkways opened into the courtyard. The s
 Bleachers rose toward a noble skybox with a throne, overlooking a circular arena floor and wooden post. Stables and mercantile kiosks stood along the sides. Ancient spectators' skeletons remained in the seating, with a noble figure in the skybox.
 
 The space appeared to have hosted human athletic or sporting events. The castle's abjurations preserved it despite long submersion, while thick seaweed covered the old fields.
+
+### Maps
+
+#### Surface
+
+![[images/CKWardsSurface.png]]
+
+#### Interior
+
+![[images/CKWardsInterior.png]]
 
 ## Notable Areas
 

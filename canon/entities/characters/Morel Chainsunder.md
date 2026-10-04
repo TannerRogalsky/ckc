@@ -9,11 +9,11 @@ aliases:
 
 # Morel Chainsunder
 
-Morel Chainsunder was the long-dead founder whose surviving spell bound the people of [[Darvinblast]]. The apparent living leader was a manifestation of communal fear; destroying the founder's written will ended the curse.
+Morel Chainsunder was the long-dead founder whose surviving spell bound the people of [[Darvenlast]]. The apparent living leader was a manifestation of communal fear; destroying the founder's written will ended the curse.
 
 ## Identity and Background
 
-Early accounts presented him as leader of the Duergar in [[The Deepworlders Delve]] at [[The Pit]], an insular community concerned with [[Penumbra]] and maintaining an uneasy truce with [[Figma Brickfinger's Union]] after earlier war. The Darvinblast revelation distinguished the dead founder from ordinary congregants able to embody his apparent identity.
+Early accounts presented him as leader of the Duergar in [[The Deepworlders Delve]] at [[The Pit]], an insular community concerned with [[Penumbra]] and maintaining an uneasy truce with [[Figma Brickfinger's Union]] after earlier war. Darvenlast revelation distinguished the dead founder from ordinary congregants able to embody his apparent identity.
 
 His remains lay in a hidden shrine or office behind the church sanctuary, draped in cloaks before his last will. He had died approximately fifty years before the party found him.
 
@@ -45,4 +45,4 @@ The released terrain revealed a quarry containing a massive tetrahedral Penumbra
 
 ## Final Status
 
-Morel Chainsunder had been dead for decades when his remains were discovered. The party ended the spell that perpetuated his authority and freed Darvinblast from its curse. [[canon/sessions/session_012#Chunk 0004]]
+Morel Chainsunder had been dead for decades when his remains were discovered. The party ended the spell that perpetuated his authority and freed Darvenlast from its curse. [[canon/sessions/session_012#Chunk 0004]]

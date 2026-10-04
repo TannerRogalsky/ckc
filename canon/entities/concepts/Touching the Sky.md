@@ -35,4 +35,4 @@ At [[Axis Mundi]], Emperor Shen explained that touching the sky had led him to d
 
 ## Final Status
 
-Domyx survived the campaign and returned to [[Thalasia]] after Emperor Shen's defeat. The homeland's houses were sharing authority and its people were beginning to question restrictive traditions. The record does not establish another ascent or a settled new role for Touching the Sky in that changing society.
+Domyx survived the campaign and returned to [[Thalassia]] after Emperor Shen's defeat. The homeland's houses were sharing authority and its people were beginning to question restrictive traditions. The record does not establish another ascent or a settled new role for Touching the Sky in that changing society.

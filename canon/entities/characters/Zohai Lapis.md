@@ -26,7 +26,7 @@ Zohai Lapis commanded cold and storms and could share vitality with an ally. Her
 
 ## Campaign History
 
-She and Farron Acathian II attacked [[The Opal]] near [[Broy]] under another power's orders. The companions defeated and healed both, allowing them to depart together toward [[Thalasia]]. [[canon/sessions/session_023#Chunk 0000]]
+She and Farron Acathian II attacked [[The Opal]] near [[Broy]] under another power's orders. The companions defeated and healed both, allowing them to depart together toward [[Thalassia]]. [[canon/sessions/session_023#Chunk 0000]]
 
 The two later returned after [[Starfall]]'s destruction to defend Emperor Shen at Axis Mundi. Farron Acathian II fell first; [[Kerben]] then killed Zohai Lapis, ending their protection of the emperor. [[canon/sessions/session_037#Chunk 0001]]
 

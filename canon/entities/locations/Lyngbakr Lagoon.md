@@ -6,6 +6,8 @@ sessions_appeared: ["003", "013", "015", "016", "031", "032", "038"]
 aliases:
   - Langbacher Lagoon
 related:
+  - "[[Kuo-Toa]]"
+  - "[[Blibdoolpoolp]]"
   - "[[Otyugh Isle]]"
   - "[[Lyngbakr]]"
   - "[[Castle Kaedon]]"
@@ -15,23 +17,31 @@ related:
 
 # Lyngbakr Lagoon
 
-Lyngbakr Lagoon was [[Alamar]]'s growing refuge on [[Otyugh Isle]], near [[Castle Kaedon]] and [[Lyngbakr]]. Imperial attack burned the settlement, and retreating oceans later revealed the former lagoon as a tall volcano's caldera.
+Lyngbakr Lagoon was the island dungeon on [[Otyugh Isle]] where the party fought the [[Kuo-Toa]] and defeated their god, [[Blibdoolpoolp]]. It later became [[Alamar]]'s growing refuge near [[Castle Kaedon]] and [[Lyngbakr]]. Imperial attack burned the settlement, and retreating oceans later revealed the former lagoon as a tall volcano's caldera.
 
 ## Geography and Access
 
 The lagoon provided anchorage near the turtle and castle approaches. Its familiar island geography changed when the seas receded; it no longer remained an ordinary lagoon.
 
+Map of the original Lyngbakr Lagoon dungeon:
+
+![[images/Lyngbakr_Lagoon.png]]
+
 ## Description
 
-The original base had shelters, water storage, torches, and an irrigation chute delivering [[Penumbra]] to Lyngbakr. Development added huts, sturdier wooden buildings, a watchtower, a cistern, and food-growing areas.
+The later refuge base had shelters, water storage, torches, and an irrigation chute delivering [[Penumbra]] to Lyngbakr. Development added huts, sturdier wooden buildings, a watchtower, a cistern, and food-growing areas.
 
 An oil-burning alarm path signaled arrivals. Blue ever-burning torches marked the excavated chute. Alamar used a foliage-covered canvas dome to conceal the island from aerial reconnaissance, later abandoning full secrecy and adding harpoons against imperial balloons.
 
 ## Inhabitants and Control
 
+Kuo-Toa and their god occupied the dungeon during the party's early visit. Their defeat preceded the site's development as a refuge.
+
 Alamar developed and defended the refuge. The party left [[Kilosaurus]], [[Rella Kel'Navvi]], and three deckhands to assist. Later arrivals included humans, dwarves, elves, and others displaced by the moon's destruction and war. The mixed refuge was Alamar's project, not an established outpost of [[The League of New Stark]].
 
 ## Campaign History
+
+The party first explored the island's ruins and caves and encountered the Kuo-Toa. Continuing into the lagoon dungeon, the companions fought the Kuo-Toa and defeated Blibdoolpoolp. Through glass they had seen the god as a large shadow in the water, holding an even larger entity in its claws; the record does not identify that other entity. They also obtained a map to an island with a [[Temple of Sigil]], where the Kuo-Toa wanted to move.
 
 Penumbra deliveries helped Alamar establish the base, while [[Ceril]] and [[Kerben]] supported its agriculture and expansion. The settlement grew into a busy community with watchtowers and an anchorage for several peoples.
 

@@ -7,13 +7,13 @@ sessions_appeared: ["009", "013"]
 
 # The Deepworlders Delve
 
-The Deepworlders Delve is the Duergar home associated with [[The Pit]] in the early dwarven directory. It contains the self-sufficient [[The Darvenlast]] area.
+The Deepworlders Delve is the Duergar home associated with [[The Pit]] in the early dwarven directory. It contains the self-sufficient [[Darvenlast]] area.
 
 ## Inhabitants and Control
 
 The early account described an insular religious community devoted to [[Penumbra]] and led by [[Morel Chainsunder]]. [[Figma Brickfinger's Union]] maintained an uneasy truce with the community after earlier war.
 
-The later discovery in [[Darvinblast]] established that Morel Chainsunder was long dead and that his surviving spell, rather than a living founder, sustained the apparent leadership.
+The later discovery in [[Darvenlast]] established that Morel Chainsunder was long dead and that his surviving spell, rather than a living founder, sustained the apparent leadership.
 
 ## Final Status
 

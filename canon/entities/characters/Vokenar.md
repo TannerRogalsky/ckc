@@ -61,7 +61,7 @@ Vokenar practiced with a sword in dreams that acted independently in Arkadia but
 
 ## Personality and Motivations
 
-Vokenar repeatedly chose protection and mercy. In [[Darvinblast]], he healed defeated enemies after disarming them and urged frightened residents toward freedom and unity. He insisted on helping endangered migrants on [[Continental Stark]], accepted [[Aeon]]'s offer to leave rather than press the attack, and later healed both his companions and the titans they had fought. These choices give substance to [[Sigil]]'s defense of his ethics as essential to his mission.
+Vokenar repeatedly chose protection and mercy. In [[Darvenlast]], he healed defeated enemies after disarming them and urged frightened residents toward freedom and unity. He insisted on helping endangered migrants on [[Continental Stark]], accepted [[Aeon]]'s offer to leave rather than press the attack, and later healed both his companions and the titans they had fought. These choices give substance to [[Sigil]]'s defense of his ethics as essential to his mission.
 
 He volunteered for the goddesses' purpose because he believed he would otherwise already be dead, and offered a phrase in another language to simplify their training discussions. His willingness to serve did not prevent him from questioning divine responsibility for [[The Cataclysm]] or the fairness of the [[Demi-Spell]]. He challenged the sacrifice of lives born after the disaster merely to recover an older world, warning that such imposed reversals could perpetuate conflict.
 
@@ -120,7 +120,7 @@ These acquisitions and refuges describe his resources during the campaign. The e
 
 Vokenar joined the original company aboard [[The Opal]] and helped [[Domyx]] recruit [[Otto]].
 
-In [[Darvinblast]], he sought to minimize bloodshed, revived disarmed opponents, and argued for freedom before [[Morel Chainsunder]]'s congregation. He recognized that the defeated figure differed from the apparent leader previously seen through illusion and helped end the confrontation. He also healed [[Zulu]] after the companion fell into a pit during the Fire Giant encounter. Consulting [[Aeris]] through [[Ceril]]'s shield confirmed that destroying the binding spell was the right choice and that Penumbra lay nearby.
+In [[Darvenlast]], he sought to minimize bloodshed, revived disarmed opponents, and argued for freedom before [[Morel Chainsunder]]'s congregation. He recognized that the defeated figure differed from the apparent leader previously seen through illusion and helped end the confrontation. He also healed [[Zulu]] after the companion fell into a pit during the Fire Giant encounter. Consulting [[Aeris]] through [[Ceril]]'s shield confirmed that destroying the binding spell was the right choice and that Penumbra lay nearby.
 
 At [[The Pit]], Vokenar detected a surviving kernel of real sky inside a drained [[Penumbra]] mass and advised [[Figma Brickfinger]]'s people to remove the dead outer shell carefully. At the abandoned [[Far Helm Clan]] home, he revealed [[Xander MacLenth]]'s ghost and raised water to release him to the tide. The epilogue confirmed the ghost's passage to the afterlife.
 

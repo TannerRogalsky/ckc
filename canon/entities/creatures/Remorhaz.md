@@ -7,12 +7,12 @@ sessions_appeared:
 aliases:
   - Remoraz
 related:
-  - "[[Thalasia]]"
+  - "[[Thalassia]]"
 ---
 
 # Remorhaz
 
-The Remorhaz was a rare northern predator encountered near [[Thalasia]] while the party followed a blood-stained river toward Titanfolk territory.
+The Remorhaz was a rare northern predator encountered near [[Thalassia]] while the party followed a blood-stained river toward Titanfolk territory.
 
 ## Description
 

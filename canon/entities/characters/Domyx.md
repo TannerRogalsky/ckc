@@ -13,7 +13,7 @@ aliases:
   - "Dominic"
 related:
   - "[[Clan Akathia]]"
-  - "[[Thalasia]]"
+  - "[[Thalassia]]"
   - "[[Touching the Sky]]"
   - "[[Aeris]]"
   - "[[Ulrich Fjoller]]"
@@ -57,7 +57,7 @@ Domyx is a cloud titan barbarian and former member of [[Clan Akathia]], whose ac
 
 ## Identity and Background
 
-Domyx comes from the titan mountains of [[Thalasia]]. He is the son of [[Domyx IV]], brother of [[Lorelai Lapis-Acathian]], and grandson of [[Emperor Shen]]. His upbringing within [[Clan Akathia]] concealed both the truth about his grandfather and the extent to which other titan folk had left their isolated homeland.
+Domyx comes from the titan mountains of [[Thalassia]]. He is the son of [[Domyx IV]], brother of [[Lorelai Lapis-Acathian]], and grandson of [[Emperor Shen]]. His upbringing within [[Clan Akathia]] concealed both the truth about his grandfather and the extent to which other titan folk had left their isolated homeland.
 
 Among his people, [[Touching the Sky]] is a feat of climbing and ambition, without inherent moral authority. Domyx completed it before descending to [[Stark]], leaving his palms permanently sky-blue from contact with [[Aeris]]'s body. His journey through the frozen straits involved crossing ice and swimming through freezing water, experience he later drew on when returning north.
 
@@ -67,7 +67,7 @@ Domyx renounced the Akathian name during his return to the mountains and later c
 
 ## Personality and Motivations
 
-Domyx values self-determination over inherited authority. He urged the people of [[Darvinblast]] to recognize themselves as individuals, refused to conceal his family's responsibility for the broken sky, and repeatedly rejected [[Emperor Shen]]'s offers of imperial succession. After the final victory, he wanted to understand what had been suppressed in titan history and what [[Touching the Sky]] meant in the restored world.
+Domyx values self-determination over inherited authority. He urged the people of [[Darvenlast]] to recognize themselves as individuals, refused to conceal his family's responsibility for the broken sky, and repeatedly rejected [[Emperor Shen]]'s offers of imperial succession. After the final victory, he wanted to understand what had been suppressed in titan history and what [[Touching the Sky]] meant in the restored world.
 
 His boldness includes intimidation and a willingness to endure danger for others. His crew-building through Titans Tarot, rescue of [[Ulrich Fjoller]] and [[Lorelai Lapis-Acathian]], and exchange of places with the captive [[Obould]] show his attachment to people beyond the clan's expectations.
 
@@ -77,7 +77,7 @@ Domyx's strength does not commit him to violence in every encounter. He helped [
 
 - [[Domyx IV]] — His father and the former ruler of [[Clan Akathia]]. Their rupture over the clan's concealed history ended in disowning. They reconciled after Domyx IV acknowledged his mistreatment and accepted greater independence for his people.
 - [[Emperor Shen]] — His grandfather, whose destruction of the sky and demands for a titan dynasty Domyx opposed. Their shared sky-colored palms marked the same achievement, while their choices about power diverged. Emperor Shen imprisoned him and later compelled him to harm a companion; Domyx survived his grandfather's final defeat.
-- [[Farron Acathian II]] — A relative who addressed him as his great-nephew during the attack near [[Broy]]. Domyx helped spare him and received a route to [[Thalasia]], then faced him again at [[Axis Mundi]].
+- [[Farron Acathian II]] — A relative who addressed him as his great-nephew during the attack near [[Broy]]. Domyx helped spare him and received a route to [[Thalassia]], then faced him again at [[Axis Mundi]].
 - [[Lorelai Lapis-Acathian]] — His sister, whose dream-message prompted the rescue of her partner, [[Ulrich Fjoller]]. Domyx helped them escape the titan homeland while she was pregnant. They later left [[The Opal]] to prepare a home for their child.
 - [[Ulrich Fjoller]] — A close friend who risked punishment to warn Domyx about the erased sky-toucher. Domyx promised to rescue him from execution and returned with his companions to free him from the [[Prison of Frost]].
 - [[Charlotta Fjoller]] — Ulrich Fjoller's sister, who helped Domyx during the rescue expedition and later welcomed him back to the changed homeland, encouraging him to speak with his repentant father.
@@ -111,7 +111,7 @@ His inherited knowledge includes the conflict between the [[Vanir]] and [[Aesir]
 - [[Iklwa Isondo]] — A mithril trident retained at campaign end, obtained from [[Lesanderol Nokiirna]] at the [[Elvish Marketplace]] in exchange for mithril and other equipment. Its magnetic coil works with his lodestone greaves to return the weapon and pull targets toward him. The greaves also let him sense buried and submerged train rails on [[Continental Stark]].
 - [[Gith Shard Glaive]] — A halberd retained at campaign end, commissioned from [[Sigrid Forgewelt]] using the star gem obtained from [[Aeon]], a ruby, and gold. Its embedded spatial magic projects psychic cleaving force beyond the weapon's physical reach.
 - [[Cestus of the Clear Sky]] — His former hammer reforged by [[Sigrid Forgewelt]] into a gauntlet, retained at campaign end. It leaves his blue palm exposed, gathers clouds into forceful blows, and can restore vitality. Attunement spreads the appearance of the restored heavens and their constellations across one side of his body.
-- [[Potion of Proof Against Storms]] — A dwarf's gift in [[Darvinblast]], consumed before entering [[Hole Shebang]]. His later recollection of a storm-resistance potion does not establish a replacement.
+- [[Potion of Proof Against Storms]] — A dwarf's gift in [[Darvenlast]], consumed before entering [[Hole Shebang]]. His later recollection of a storm-resistance potion does not establish a replacement.
 - [[Deception by Lenth]] — A single-use perfume recovered from the [[Southern Archipelago Castle]]. It can strengthen his ability to deceive; no use is recorded, and its custody at campaign end is unconfirmed.
 - [[Hopping Mad Sash]] — A magical bunny-tail sash awarded after the [[King of the Hole]] bonus challenge and retained at campaign end. It improves leaping and can release a shockwave after a damaging fall or collapse.
 - [[Kaboom Ring]] — A returning boomerang acquired before the descent through [[The Funnel]] and retained at campaign end, replacing his ordinary thrown javelins. Its impacts erupt with thunder.
@@ -125,7 +125,7 @@ Domyx wore a hyena pelt as a trophy and won a scroll containing several spells a
 
 ### Freedom and a Place Aboard The Opal
 
-Domyx joined the original company aboard [[The Opal]]. In [[Darvinblast]], he used intimidation to try to end hostilities without killing every opponent and received aid from a dwarf who questioned [[Morel Chainsunder]]'s rule. A [[Fire Giant]] recognized their shared giant nature and urged him to return to the sky. During the church confrontation, Domyx displayed his sky-blue hands as proof of the surface world and removed congregants' cowls while urging self-determination. The party broke the curse that had bound the city.
+Domyx joined the original company aboard [[The Opal]]. In [[Darvenlast]], he used intimidation to try to end hostilities without killing every opponent and received aid from a dwarf who questioned [[Morel Chainsunder]]'s rule. A [[Fire Giant]] recognized their shared giant nature and urged him to return to the sky. During the church confrontation, Domyx displayed his sky-blue hands as proof of the surface world and removed congregants' cowls while urging self-determination. The party broke the curse that had bound the city.
 
 Afterward, Domyx found a hidden [[Penumbra]] hoard and protected [[Kerben]] from a wyvern. He renewed the crew's Titans Tarot gatherings as an initiation and morale-building practice, helping people such as the antisocial [[Mobley]] and boisterous [[Yalet Mora]] feel at home. A consultation through [[Vokenar]] brought [[Sigil]]'s confirmation that the erased sky-toucher, [[Emperor Shen]], was the party's greatest enemy.
 
@@ -133,7 +133,7 @@ On [[Continental Stark]], Domyx's greaves helped follow the old train route. He 
 
 Obould privately named him heir to [[The Opal]] if anything happened to the captain, crediting Domyx with setting the crew's new direction in motion. Domyx subsequently helped defend the ship from pirates and capture [[The Hideous Truth]]. At [[The Garden]], he accompanied [[Ceril]] to meet the [[Rakshasa]], who recognized his heritage and said he had met Domyx's father. They accepted the task of defeating [[Farraday]] so the Rakshasa could leave hiding and visit his family. Domyx also helped bring down the [[Storm Phoenix]] during the following voyage.
 
-### The Hidden Bloodline and Return to Thalasia
+### The Hidden Bloodline and Return to Thalassia
 
 A dream of [[Lorelai Lapis-Acathian]] revealed that [[Ulrich Fjoller]] had been imprisoned for months and sentenced to execution. She was pregnant with his child and pleaded for Domyx to return. He promised to rescue him.
 
@@ -141,7 +141,7 @@ The expedition to [[Castle Kaedon]] intervened. Domyx survived a water elemental
 
 During the ship refit at [[The Pit]], Domyx commissioned his [[Gith Shard Glaive]]. He then joined the capture of [[Theo Harvey]], an imperial collaborator who offered information about [[The Carrot Cake]] while Domyx guarded him. Theo Harvey claimed the Empire wanted the park's hidden resources and said [[The Tyrant]] had failed to return from an earlier search.
 
-Near [[Broy]], [[Farron Acathian II]] and [[Zohai Lapis]] attacked under orders. Domyx enlarged himself, steadied [[The Opal]] against capsizing, and helped defeat them. The party spared and healed both titans; Farron Acathian II gave Domyx a map of [[Thalasia]] and the approach to the homeland.
+Near [[Broy]], [[Farron Acathian II]] and [[Zohai Lapis]] attacked under orders. Domyx enlarged himself, steadied [[The Opal]] against capsizing, and helped defeat them. The party spared and healed both titans; Farron Acathian II gave Domyx a map of [[Thalassia]] and the approach to the homeland.
 
 In the [[Broyish Capital]], Domyx negotiated with [[Naomi Ue]] to clear the party's warrants and learned of titan folk living beyond their mountains. At the palace, [[Vizier Jade]] identified [[Emperor Shen]] as his grandfather. Their matching palms showed that both had touched the sky, and Emperor Shen admitted using [[Starfall]] to break it so others could not follow him and the gods could be killed.
 
@@ -181,7 +181,7 @@ Emperor Shen compelled Domyx to strike down Red Caesar. Domyx wept as he harmed 
 
 ## Final Status
 
-Domyx survives the final confrontation and attends [[Obould]] and [[Lady Jacinthe]]'s wedding. He returns to [[Thalasia]] to investigate his people's history, restrictions, and sky-touching traditions. There he finds the houses sharing authority and other peoples living among the titans.
+Domyx survives the final confrontation and attends [[Obould]] and [[Lady Jacinthe]]'s wedding. He returns to [[Thalassia]] to investigate his people's history, restrictions, and sky-touching traditions. There he finds the houses sharing authority and other peoples living among the titans.
 
 At [[Acathian Manor]], [[Domyx IV]] apologizes for decades of mistreatment and acknowledges the corrupt influence of their lineage. Domyx tells him of [[Emperor Shen]]'s and [[Farron Acathian II]]'s deaths. Father and son reconcile, shoulder a heavy log together, and begin sharing the story of Domyx's travels. His renewed family ties are established; restored clan membership, a return to the Akathian name, and a claim to govern remain unconfirmed.
 

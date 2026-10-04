@@ -20,7 +20,7 @@ A small layer of moss or grass grows along the top of the weapon and changes wit
 
 ## Campaign History
 
-After the expedition to [[Darvinblast]], Kerben sought an improvement to his musket at Sigrid Forgewelt's forge. She enhanced the existing gun into Hilltop Hunter.
+After the expedition to [[Darvenlast]], Kerben sought an improvement to his musket at Sigrid Forgewelt's forge. She enhanced the existing gun into Hilltop Hunter.
 
 It became a recurring part of his equipment. He was still using it during the confrontation with [[Boril Erendel]], after assuming permanent command of [[The Opal]].
 

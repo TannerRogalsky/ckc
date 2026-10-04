@@ -6,7 +6,7 @@ session_introduced: "012"
 
 # Etten
 
-The Etten was a two-headed giant brought into the defense of [[Darvinblast]] by the [[Deep World Wizard]].
+The Etten was a two-headed giant brought into the defense of [[Darvenlast]] by the [[Deep World Wizard]].
 
 ## Description
 

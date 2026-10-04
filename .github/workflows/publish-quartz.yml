@@ -76,7 +76,7 @@ jobs:
         env:
           QUARTZ_BASE_URL: ${{ steps.pages-url.outputs.base_url }}
           QUARTZ_CONTENT_DIR: ${{ runner.temp }}/canon-worktree/canon
-          QUARTZ_SITE_TITLE: CKC Canon
+          QUARTZ_SITE_TITLE: "Castle Kaedon: Cataclysm"
         run: node "$GITHUB_WORKSPACE/.github/quartz/configure-site.mjs"
 
       - name: Build Quartz site

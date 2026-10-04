@@ -7,7 +7,7 @@ sessions_appeared: ["012", "027", "037"]
 
 # Potion of Proof Against Storms
 
-The Potion of Proof Against Storms is a protective draught given to [[Domyx]] by a dissenting dwarf in [[Darvinblast]]. Domyx later drank it before entering [[Hole Shebang]].
+The Potion of Proof Against Storms is a protective draught given to [[Domyx]] by a dissenting dwarf in [[Darvenlast]]. Domyx later drank it before entering [[Hole Shebang]].
 
 ## Description
 

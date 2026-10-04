@@ -35,7 +35,7 @@ The union operates The Palace of the Pit and commands guards and workers in The 
 
 ## Campaign History
 
-An injured dwarf fleeing [[Darvinblast]] surrendered in The Pit and was collected by union members. What happened to him afterward was not established.
+An injured dwarf fleeing [[Darvenlast]] surrendered in The Pit and was collected by union members. What happened to him afterward was not established.
 
 After the curse broke, deep-world inhabitants emerged above while surface dwarves entered spaces previously closed to them. Figma Brickfinger faced a difficult political transition and asked the party to leave before its presence aggravated the unrest. She nevertheless guarded the quarry and supplied workers to help free its usable Penumbra.
 

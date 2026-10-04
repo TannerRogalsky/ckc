@@ -22,7 +22,7 @@
 - [[Aramil Kiirnodel]] — Former Brimbolyn leader, Rizolvir Kiirnodel's father, Demi-Spell supporter, and painter of The Jewel of Alfheimer
 - [[Mobley]] — The cook aboard The Opal; kept the crew fed through the imperial attack aftermath
 - [[Vorgan of the Stage]] — Cutlass Cray actor and new performer aboard The Opal
-- [[Lyngbakr]] — Speaking Saratan ally who repairs the sky and returns to Arkadia's recovering oceans
+- [[Lyngbakr]] — Speaking Saratan whose Penumbra feedings exposed Castle Kaedon's grounds; repairs the sky and returns to Arkadia's recovering oceans
 - [[Rella Kel'Navvi]] — Speaking blink dog, former Opal crew member, and Ceril's companion; last seen at Lyngbakr Lagoon before the imperial attack
 - [[Witness]] — Warforged cartographer created by Vizier Jade, mapping Arkadia after completing the chart of Stark
 - [[Tuna]] — Speaking sphinx and Alamar's companion, reunited with Vokenar in Arkadia at campaign end
@@ -35,7 +35,7 @@
 - [[Lorelai Lapis-Acathian]] — Domyx's sister and expectant mother who left The Opal with Ulrich
 - [[Gunk Grodley]] — Dapper goblin trader who captains the Goblin Traders' ship
 - [[Vizier Jade]] — Former imperial vizier who helps defeat Emperor Shen, rebuilds Broy, and submits to imprisonment under its new laws
-- [[Morel Chainsunder]] — Long-dead founder whose surviving binding spell controlled Darvinblast until the party destroyed it
+- [[Morel Chainsunder]] — Long-dead founder whose surviving binding spell controlled Darvenlast until the party destroyed it
 - [[Emperor Shen]] — Emperor resurrected as the last Vanir, sustained by four named stelae before his destruction at Axis Mundi
 - [[Fharan]] — Masked human seneschal of the Broyish Empire who died after revealing Starfall's next target
 - [[Master Lee]] — Heaven's Bulb mentor known to Red Caesar, Vizier Jade, and Qian Hu
@@ -55,7 +55,7 @@
 - [[Figma Brickfinger]] — Union leader who completed the Funnel excavation and withdrew workers from the dangers beyond
 - [[Sigrid Forgewelt]] — Dwarven weapon forger in The Pit
 - [[Beryzoz Helmscar]] — Armorer who eventually identifies Kerben among his ship thieves and accepts compensation through 40 Carats
-- [[Alamar]] — Former ruler who finds peace in Arkadia and welcomes Vokenar's return
+- [[Alamar]] — Former ruler found sequestered after Castle Kaedon's spires were cleared; finds peace in Arkadia and welcomes Vokenar's return
 - [[Vlerro]] — Sequestered Alamar, then reunited with him in Arkadia
 - [[Igden]] — Parliamentarian of old Kaedon's senate, encountered in Arkadia
 - [[Tyson Cromwell]] — Old Kaedonite archbishop and Alamar's father figure, encountered in Arkadia
@@ -94,7 +94,7 @@
 - [[Charlotta Fjoller]] — Ulrich Fjoller's sister who welcomes Domyx to the reformed titan homeland and encourages reconciliation
 - [[Domyx IV]] — Former titan ruler who apologizes to Domyx as the houses adopt cooperative government
 - [[Farraday]] — Kerben's former employer, Jack Harvey's fiendish benefactor, and keeper of the destroyed Tome of Satariel
-- [[Sunspite]] — Entity that hates the sun and wanted Castle Kaedon sunk
+- [[Sunspite]] — Sun-hating entity defeated during the clearance of Castle Kaedon's exposed spires before Alamar was discovered within
 - [[Rakshasa]] — Keys Caeradel's father, whose bound soul remains in a crystal worn by Feronia Caeradel
 - [[Boston Golf]] — Old Carrot Cake performer and Rochella Golf's grandfather, represented by the fortune-teller automaton she recovered
 - [[The Tyrant]] — Vizier Jade's undead servant who revealed Starfall's location in Axis Mundi before an unseen force destroyed it
@@ -102,7 +102,7 @@
 - [[Xarag]] — Black dragon slain at Xarag's Island after stealing The Opal's treasure; probable ancestor of the Castle Kaedon dragons
 
 ## Creatures & Companions
-- [[Deep World Wizard]] — Two unnamed Darvinblast mages who defended its residential district, both killed by Domyx
+- [[Deep World Wizard]] — Two unnamed Darvenlast mages who defended its residential district, both killed by Domyx
 - [[Entropie]] — Defeated Vanir whose final Wish resurrects Emperor Shen as the last Vanir
 - [[Dunkelkalt]] — The Vanir That Eats The Sun And Moon; opposite of the Aesir alongside Entropie, slain by Kerben at Axis Mundi
 - [[Arcanoloth]] — Fiendish outsider species; Farraday was one and commanded part of the ocean
@@ -132,8 +132,8 @@
 - [[Kuo-Toa]] — Amphibious worshipers of Blibdoolpoolp; temple claimants remained petrified, while Mana Sea musketeers escaped Aboleth control
 - [[Gnoll]] — Fiendish hyena-like highland people who guarded a Penumbra chunk
 - [[Wyvern]] — Poisonous dragon-like predators encountered in gnoll territory
-- [[Etten]] — Two-headed giant creature encountered in Darvinblast
-- [[Fire Giant]] — Flame-engulfed giant encountered in Darvinblast, allied with dwarvish anti-sky deities
+- [[Etten]] — Two-headed giant creature encountered in Darvenlast
+- [[Fire Giant]] — Flame-engulfed giant encountered in Darvenlast, allied with dwarvish anti-sky deities
 - [[Grotusqu]] — Non-magical giant squid; the party completed Lady Jacinthe’s hunt during sessions 001–010
 - [[Fuchsia Fungus]] — Purple fungal mound creature in the bogs of Continental Stark that assimilates victims
 - [[Aeon]] — Githzerai creature from beyond Stark, green-skinned with psionic powers. Escaped after offering a star gem to Vokenar
@@ -155,8 +155,8 @@
 - [[Hezru]] — Large orange toad-like monster with bull horns and a nauseating stench aura
 - [[Harengon]] — Rabbit-like species with fuzzy orange fur and rapid reproduction
 - [[Oni]] — Fiendish horned demons serving as imperial guards for the Broyish Empire
-- [[Rimefire Hydra]] — Massive eight-headed frost hydra encountered in the northern straits near Thalasia
-- [[Tatzelwurm]] — Unique white dragon variant near Thalasia that commands terrain weather; defeated by party ambush
+- [[Rimefire Hydra]] — Massive eight-headed frost hydra encountered in the northern straits near Thalassia
+- [[Tatzelwurm]] — Unique white dragon variant near Thalassia that commands terrain weather; defeated by party ambush
 - [[Remorhaz]] — Huge, heat-exuding voracious creature of the northern territories that ambushes prey
 - [[Bane Siren]] — Garden-bound siren twisted by the Cataclysm, killed by Kerben; a drowned victim's locket was recovered
 - [[Aboleth]] — Extraplanar memory-feeder that enslaved drow and Kuo-Toa in the Mana Sea before the party killed it
@@ -172,16 +172,16 @@
 - [[Brimbolyn]] — Magical city on Continental Stark whose academy is repurposed under a renewed monarchy
 - [[Broy]] — Eastern land rebuilding under Red Caesar's charter after Emperor Shen's defeat
 - [[Broyish Capital]] — Industrial former imperial seat where the false sky was exposed and the party's rescue sparked an uprising
-- [[Castle Kaedon]] — Former human castle carried by Lyngbakr, destroyed during its renewed ascent after the sky-material was recovered
-- [[Castle Kaedon Arena]] — Former spectator courtyard and surrounding grounds within Castle Kaedon; individual remains unrecorded after the castle's destruction
+- [[Castle Kaedon]] — Former castle on Lyngbakr; exposed spires cleared before later Penumbra feedings opened its grounds; ultimately destroyed
+- [[Castle Kaedon Arena]] — Former spectator courtyard exposed by feeding Penumbra to Lyngbakr; individual remains unrecorded after Castle Kaedon's destruction
 - [[Ceril's Star]] — Aeris's astral refuge, used to save the party and later becoming Ceril's timeless home
 - [[City Hole]] — Central hub cavern with barrel portals connecting to the park's zones
 - [[Continental Stark]] — Massive elfish continent, last remnant of the Old World, home to Brimbolyn
 - [[Cutlass Cray]] — Former floating city settling onto exposed mountaintops as Stark's oceans recede
-- [[Darvinblast]] — Underground dwarven city freed from Morel Chainsunder's binding curse, revealing a hidden Penumbra quarry
+- [[Darvenlast]] — Underground dwarven city freed from Morel Chainsunder's binding curse, revealing a hidden Penumbra quarry
 - [[Dawn Market]] — Diverse Broy market whose vendors include Qian Hu and Geoffrey the Younger
 - [[Dawn Palace]] — Former emperor's palace where Domyx was rescued and Vokenar's preserved body recovered
-- [[Deep World]] — Underground dwarven realm whose communities began reintegrating with The Pit after Darvinblast's liberation
+- [[Deep World]] — Underground dwarven realm whose communities began reintegrating with The Pit after Darvenlast's liberation
 - [[Elvish Marketplace]] — Marketplace in Brimbolyn where elves sell magical goods
 - [[Esperanto]] — Pre-Cataclysm region near Jack Harvey's grave, accessible again as the oceans recede
 - [[Gaokerena]] — World tree restored by Ceril's planting; provides a passage between the Gray Wastes and Arkadia
@@ -193,7 +193,7 @@
 - [[House Erendel]] — Boril Erendel’s mirror laboratory, destroyed after his defeat
 - [[Kaedon]] — Pre-Cataclysm human realm around Westerness and Castle Kaedon, transformed from monarchy into a republic before its destruction
 - [[King of the Hole]] — Island resort and coliseum zone within The Carrot Cake
-- [[Lyngbakr Lagoon]] — Former refuge revealed as a volcanic caldera when the oceans recede
+- [[Lyngbakr Lagoon]] — Kuo-Toa dungeon where Blibdoolpoolp was defeated, later a refuge and revealed volcanic caldera
 - [[Magic Hat]] — Hotel and bunker within The Carrot Cake, accessible via teleport circle from the midway
 - [[Mana Sea]] — Wild-magic swamp over drowned Windsurf, formerly spreading Mana Sickness from the cursed Ninki Nanka
 - [[Otyugh Isle]] — Island with Kuo-Toa and Temple of Sigil
@@ -205,7 +205,7 @@
 - [[Stark]] — World whose drowned lands reappear as excess oceans drain into the Gray Wastes
 - [[Taylin]] — Old Kaedon settlement near Castle Kaedon, likely destroyed during the Cataclysm
 - [[Temple of Sigil]] — Otyugh Isle temple whose restored priests aided Southport; full restoration and reopening remain unconfirmed
-- [[Thalasia]] — Titan homeland opening to other peoples and cooperative rule after the final battle
+- [[Thalassia]] — Campaign region on the Prime Material Plane encompassing the titan homeland, Broy, The Pit, Mana Sea, and Brimbolyn
 - [[The Academy]] — Former Demi-Spell research center repurposed after the world is saved without its spell
 - [[The Bad Hare Day Theatre]] — Cutlass Cray theatre run by Vorgan of the Stage
 - [[The Boardwalks]] — Cutlass Cray waterfront run by The Marid; where Otto was recruited
@@ -213,7 +213,6 @@
 - [[The Carrot Cake]] — Jack Harvey's protected amusement complex whose Penumbra hoard repaired the sky; the park's later restoration remains unconfirmed
 - [[The Church of the Thirty Lights]] — Cutlass Cray church led by Pastor Borm
 - [[The Corsairs' Court]] — Cutlass Cray venue run by Octavia Crayborne
-- [[The Darvenlast]] — Self-sufficient area within The Deepworlders Delve
 - [[The Deepworlders Delve]] — Home of the Duergar in The Pit
 - [[The Funnel]] — Reopened descent from The Pit through ancient caverns to the Gray Wastes’ planar boundary
 - [[The Garden]] — Druid sanctuary helping restore lands exposed after Stark's oceans retreat
@@ -241,7 +240,7 @@
 - [[Clan Lapis]] — Titan folk clan known for mining and gem exploration; Lorelai Lapis-Acathian married into this clan
 - [[Heaven's Bulb]] — Human refuge and magical school whose dispersed former students include Red Caesar and Lodestar; later institutional survival is uncertain
 - [[Figma Brickfinger's Union]] — Dwarven governing union in The Pit, overseeing deep-world integration and the excavation that reopened the Funnel
-- [[Steelfend Clan]] — Darvinblast dwarf household freed from Morel Chainsunder's control, providing refuge and gifts to the party
+- [[Steelfend Clan]] — Darvenlast dwarf household freed from Morel Chainsunder's control, providing refuge and gifts to the party
 - [[Far Helm Clan]] — Deep-world dwarf clan whose abandoned coastal home and remaining treasure were found through its keep map; later clan fate is uncertain
 - [[Clan Akathia]] — Titan clan sharing authority with other houses after the end of isolation and dynastic rule
 - [[House Kiirnodel]] — Elven aristocratic house supporting the Demi-Spell and negotiating with the party; its leader Rizolvir Kiirnodel later becomes king
@@ -260,7 +259,7 @@
 - [[League Banner]] — Lady Jacinthe's signaling banner for the party, detectable by League divination; final holder unconfirmed
 - [[Para and Bellum]] — Red Caesar's retained copper blades from Master Lee, used as conduits for arcane magic
 - [[Iklwa Isondo]] — Domyx's retained mithril trident, crafted by Lesanderol Nokiirna to return magnetically and pull targets toward him
-- [[Potion of Proof Against Storms]] — Storm-protection gift from a Darvinblast dwarf, consumed by Domyx before Hole Shebang; any replacement unconfirmed
+- [[Potion of Proof Against Storms]] — Storm-protection gift from a Darvenlast dwarf, consumed by Domyx before Hole Shebang; any replacement unconfirmed
 - [[Hilltop Hunter]] — Kerben's retained enchanted musket, firing green force-infused shots and growing seasonal moss and flowers
 - [[Vivarian Zodex]] — Kerben's retained animal-protecting breastplate, made by Beryzoz Helmscar with a rotating chest socket for his magical egg
 - [[Beryzoz's Teeth]] — Ring made from Beryzoz Helmscar's teeth, retained by Red Caesar at campaign end; protects against necrotic harm and allows questioning the dead

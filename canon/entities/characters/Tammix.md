@@ -6,11 +6,11 @@ session_introduced: "011"
 
 # Tammix
 
-Tammix is a dwarf fighter of the [[Steelfend Clan]] and the brother of [[Gammix]]. Freed from [[Morel Chainsunder]]'s magical control, he helped the party in [[Darvinblast]] before choosing to remain with his clan.
+Tammix is a dwarf fighter of the [[Steelfend Clan]] and the brother of [[Gammix]]. Freed from [[Morel Chainsunder]]'s magical control, he helped the party in [[Darvenlast]] before choosing to remain with his clan.
 
 ## Abilities
 
-He fought with a heavy crossbow and knew Darvinblast's layout well enough to guide the companions to his clan's hidden house.
+He fought with a heavy crossbow and knew Darvenlast's layout well enough to guide the companions to his clan's hidden house.
 
 ## Campaign History
 

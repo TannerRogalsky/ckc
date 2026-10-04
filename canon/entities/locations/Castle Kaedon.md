@@ -2,7 +2,7 @@
 type: location
 subtypes: [building]
 session_introduced: "003"
-sessions_appeared: ["013", "015", "017", "018", "019", "020", "021", "031"]
+sessions_appeared: ["003", "007", "013", "015", "017", "018", "019", "020", "021", "031"]
 related:
   - "[[Lyngbakr]]"
   - "[[Alamar]]"
@@ -30,6 +30,16 @@ Smooth white cliffs, broken platforms on barnacle-covered pillars, and buried in
 
 The ruins retained turrets, pillars, courtyards, and seaweed-covered stained glass. [[Red Caesar]] identified an alien, planar quality in the preserving abjurations, which strengthened as the castle consumed Penumbra. [[Alamar]] attributed its many curses to [[Queen Caeradwyn]]'s ambition and bloodline magic; this was his explanation rather than a complete independently established origin.
 
+### Early Spire Maps
+
+Maps of the spires explored before the castle rose farther to expose [[Castle Kaedon Arena]].
+
+![[images/CKTurrets01.png]]
+
+![[images/CKTurrets02.png]]
+
+![[images/CKTurrets03.png]]
+
 ## Notable Areas
 
 - [[Castle Kaedon Arena]] — A preserved courtyard with spectator seating, stables, and kiosks, adjoining the broader grounds.
@@ -44,6 +54,8 @@ The ruins retained turrets, pillars, courtyards, and seaweed-covered stained gla
 Alamar remained bound to the site after its earlier ruin. [[Sunspite]] sought to sink it. Later, fiends and undead occupied the castle, with a [[Nalfeshne]] holding its old throne room and a great Penumbra deposit. Defeating that demon did not establish party ownership or prove that every creature in the ruins had been cleared.
 
 ## Campaign History
+
+The party first encountered the castle's spires poking out of the water. They cleared these exposed spires of demons, including [[Sunspite]], before discovering [[Alamar]] cloistered within. Later, feeding [[Penumbra]] to [[Lyngbakr]] raised more of the castle above the water, allowing access to [[Castle Kaedon Arena]]. The early clearance concerned the exposed spires rather than all of the submerged castle.
 
 The nearly drained Penumbra obtained from [[Theotropa]] helped the party raise more of the castle and revealed its renewed occupation. Alamar sensed a powerful presence below and warned of its curses. The companions explored the arena and the surrounding grounds, confronting [[Animated Armor]], water elementals, and [[Xarag]] offspring.
 

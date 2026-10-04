@@ -12,7 +12,7 @@ summary: "The party recovers and delivers more Penumbra, develops Lyngbakr Lagoo
 
 [[chunks/session_013/chunk_0000|Source transcript]]
 
-The end of [[Darvinblast]]'s curse had revealed a quarry whose enormous [[Penumbra]] fragment had powered the deep-world inhabitants' magic. While the party rested aboard [[The Opal]] and considered how to move it, the effects of liberation spread through [[The Pit]]. Former underground residents emerged above, while surface dwarves entered places previously closed to them. The exchange created unrest that [[Figma Brickfinger]] and representatives of the freed community would have to address.
+The end of [[Darvenlast]]'s curse had revealed a quarry whose enormous [[Penumbra]] fragment had powered the deep-world inhabitants' magic. While the party rested aboard [[The Opal]] and considered how to move it, the effects of liberation spread through [[The Pit]]. Former underground residents emerged above, while surface dwarves entered places previously closed to them. The exchange created unrest that [[Figma Brickfinger]] and representatives of the freed community would have to address.
 
 #### Ceril's escape from the elven lands
 
@@ -196,7 +196,7 @@ Obould prepared the boat for the return to The Opal. Ceril departed with the par
 
 - Flashbacks revealed [[Ceril]]'s escape with [[Vanzia Vynnfae]] and [[Gilder Savar]], his sight of strange east-to-west sky-lines, and [[Ulrich Fjoller]]'s warning to [[Domyx]] about an erased sky-touching relative.
 - [[Obould]] reinforced [[The Opal]] and recruited three dwarf deckhands. [[Kerben]] named the triceratops [[Kilosaurus]].
-- [[Figma Brickfinger]] helped remove the depleted obsidian shell from the Darvinblast [[Penumbra]], and Kilosaurus hauled its surviving core aboard.
+- [[Figma Brickfinger]] helped remove the depleted obsidian shell from the Darvenlast [[Penumbra]], and Kilosaurus hauled its surviving core aboard.
 - Kerben acquired the [[Hilltop Hunter]] and [[Vivarian Zodex]]. [[Red Caesar]] traded an amethyst for [[Beryzoz's Teeth]]; Ceril traded a Plant Growth scroll for dwarven seeds, growing knowledge, and a Call Lightning scroll.
 - The party recovered a sapphire and coins at the [[Far Helm Clan]] home. [[Vokenar]] found [[Xander MacLenth]]'s ghost and released him with created water.
 - Following [[Courteous Cam]]'s map, the party defeated gnoll packs and two wyverns, then recovered untouched Penumbra and gnomish gold.

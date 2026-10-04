@@ -1022,3 +1022,24 @@
 ## [2026-10-04] move | Dunkelkalt reclassified as creature and moved to creatures directory
 ## [2026-10-04] lint | Corrected duplicate index lines introduced during creature reclassification; each moved entity now has one entry
 ## [2026-10-04] lint | Creature moves validated: preserved narrative and provenance, compliant frontmatter and headings, correct index category, and unbroken wiki links
+## [2026-10-04] update | Changed generated website title in Quartz configuration and publishing workflow
+## [2026-10-04] update | Corrected Thalasia geographic scope, embedded regional map, and updated entity index
+## [2026-10-04] update | Renamed Thalasia to Thalassia, preserved spelling alias, and corrected canon references
+## [2026-10-04] update | Expanded Thalassia frontmatter relationships to reflect its regional scope
+## [2026-10-04] lint | Validated Thalassia rename, frontmatter, provenance, canon links, map embed, and complete entity index
+## [2026-10-04] query | Verified Darvenlast identity and earliest introduction against session 009 source notes
+## [2026-10-04] update | Corrected Darvinblast to Darvenlast, merged duplicate article, preserved provenance, and updated canon references and index
+## [2026-10-04] lint | Validated Darvenlast merge, frontmatter, canonical links, earliest provenance, preserved facts, and complete entity index
+## [2026-10-04] update | Embedded Darvenlast city map in location article
+## [2026-10-04] query | Located Darvenlast trapped-tunnel approach in session 011 opening recap of preceding play
+## [2026-10-04] query | Verified Lyngbakr Lagoon dungeon and Blibdoolpoolp encounter against early campaign notes
+## [2026-10-04] update | Restored Lyngbakr Lagoon dungeon history, embedded map, and updated frontmatter relationships and entity index
+## [2026-10-04] lint | Validated Lyngbakr Lagoon history, frontmatter, preserved provenance, entity links, map embed, and index
+## [2026-10-04] query | Verified early Castle Kaedon history against campaign notes and later castle expeditions
+## [2026-10-04] update | Integrated campaign clarification of Castle Kaedon spires, demon clearance, Alamar discovery, and later arena access
+## [2026-10-04] update | Attached three early spire maps to Castle Kaedon and aligned session 007 headings and source provenance
+## [2026-10-04] lint | Validated Castle Kaedon corrections, map embeds, frontmatter, session headings, canon links, and complete entity index
+## [2026-10-04] update | Attached surface and interior maps to Castle Kaedon Arena
+## [2026-10-04] lint | Validated Castle Kaedon Arena map embeds, preserved frontmatter, wiki links, and complete entity index
+## [2026-10-04] update | Attached five Carrot Cake destination maps, including the inner sanctum vault, to requested location articles
+## [2026-10-04] lint | Validated five map embeds, preserved location frontmatter, wiki links, and complete entity index

@@ -1,19 +1,25 @@
 ---
 type: location
 subtypes: [dungeon]
-session_introduced: "011"
-sessions_appeared: ["011", "012", "013"]
+session_introduced: "009"
+sessions_appeared: ["009", "011", "012", "013"]
 aliases:
   - Darvin Last
+  - Darvinblast
+  - The Darvenlast
 ---
+**
+# Darvenlast
 
-# Darvinblast
-
-Darvinblast is the underground dwarven city in the [[Deep World]] freed from [[Morel Chainsunder]]'s surviving binding spell. Its liberation revealed a hidden [[Penumbra]] quarry and opened a difficult transition between its residents and [[The Pit]].
+Darvenlast is the underground dwarven city in the [[Deep World]] freed from [[Morel Chainsunder]]'s surviving binding spell. Its liberation revealed a hidden [[Penumbra]] quarry and opened a difficult transition between its residents and [[The Pit]].
 
 ## Geography and Access
 
-The city occupies a narrow ribbon of mountainside in the northern mountains. Multiple back entrances had been collapsed to isolate the inhabitants. Mirage Arcana concealed the surrounding surface terrain until the party ended the binding curse. A long vertical shaft also offered a possible exit, glimpsed as a tiny point of daylight.
+The city is a self-sufficient area within [[The Deepworlders Delve]], near [[The Funnel]] in the dwarven highlands. Its surface entrance is a narrow break in a thin mountain. The city occupies a narrow ribbon of mountainside in the northern mountains. Multiple back entrances had been collapsed to isolate the inhabitants. Mirage Arcana concealed the surrounding surface terrain until the party ended the binding curse. A long vertical shaft also offered a possible exit, glimpsed as a tiny point of daylight.
+
+Map of Darvenlast:
+
+![[images/DarvenlastCity.png]]
 
 ## Description
 
@@ -52,4 +58,4 @@ The vanished illusion revealed the enormous Penumbra quarry. [[Figma Brickfinger
 
 ## Final Status
 
-The binding curse was ended, and residents could emerge and reconsider life above. By session 013, Figma Brickfinger was addressing the political consequences as deep worlders left the city and other dwarves entered formerly closed spaces. The recovered Penumbra became part of the sky-repair effort. Liberation did not establish universal friendship, removal of every environmental hazard, or a new permanent government for Darvinblast.
+The binding curse was ended, and residents could emerge and reconsider life above. By session 013, Figma Brickfinger was addressing the political consequences as deep worlders left the city and other dwarves entered formerly closed spaces. The recovered Penumbra became part of the sky-repair effort. Liberation did not establish universal friendship, removal of every environmental hazard, or a new permanent government for Darvenlast.

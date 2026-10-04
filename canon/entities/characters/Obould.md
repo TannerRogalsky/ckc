@@ -51,7 +51,7 @@ Obould combined seamanship and leadership with practical care for his people. Du
 
 ### A changing ship and purpose
 
-After the liberation of [[Darvinblast]], Obould reinforced The Opal's deck so it could carry [[Kilosaurus]] and heavy [[Penumbra]], and supported the development of Lyngbakr Lagoon. [[canon/sessions/session_013]]
+After the liberation of [[Darvenlast]], Obould reinforced The Opal's deck so it could carry [[Kilosaurus]] and heavy [[Penumbra]], and supported the development of Lyngbakr Lagoon. [[canon/sessions/session_013]]
 
 He discussed the move from piracy to divine errands with Kerben, admitting that he had to trust the companions who claimed to understand the gods' guidance. He then privately named Domyx as heir in the event of his death and recorded the decision in his logbook. [[canon/sessions/session_015#Chunk 0000]]
 

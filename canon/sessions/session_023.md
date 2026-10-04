@@ -64,7 +64,7 @@ Farron Acathian II opened his eyes and handed Domyx a scroll case. Zohai Lapis g
 
 The pair rose with their wrathful expressions unchanged, acknowledged that their task had failed, and walked north into the waters toward Domyx's homeland. They made no further attack. Their departure did not establish that they were free of their orders or would remain peaceful under future commands.
 
-The scroll contained a map extending the party's knowledge of [[Thalasia]], including elven territory associated with the lands adjoining Broy, a northern landmass, and a passage through the hills toward the Titan homeland. Ceril studied it as navigator. Domyx knew how dangerous his descent had been and expected an ascent to be harder; outsiders did not ordinarily reach those heights. The map nevertheless supplied a route for a possible return.
+The scroll contained a map extending the party's knowledge of [[Thalassia]], including elven territory associated with the lands adjoining Broy, a northern landmass, and a passage through the hills toward the Titan homeland. Ceril studied it as navigator. Domyx knew how dangerous his descent had been and expected an ascent to be harder; outsiders did not ordinarily reach those heights. The map nevertheless supplied a route for a possible return.
 
 #### Landing in Broy
 

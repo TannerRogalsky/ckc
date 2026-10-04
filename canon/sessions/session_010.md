@@ -2,7 +2,7 @@
 type: session
 session: "010"
 date: "2025-12-14"
-summary: "Party prepares for Darvinblast, learns of Morel Chainsunder's cult control."
+summary: "Party prepares for Darvenlast, learns of Morel Chainsunder's cult control."
 ---
 
 
@@ -10,16 +10,16 @@ summary: "Party prepares for Darvinblast, learns of Morel Chainsunder's cult con
 
 ## Events
 
-- **Preparation for the [[Darvinblast]]:** The party prepares to enter the underground dwarven city.
+- **Preparation for the [[Darvenlast]]:** The party prepares to enter the underground dwarven city.
 - **[[Morel Chainsunder]]:** A cult leader who brainwashed the dwarf population into hostility. The gods directed the party to find Morel Chainsunder before seeking the Penumbra.
 - The party's strategy is to minimize casualties — showing goodwill to the brainwashed dwarves.
 
 ## Characters & Plot Summary
 
-This session serves as the bridge between arriving at [[The Pit]] and entering the [[Darvinblast]]. The party learns about [[Morel Chainsunder]] and the brainwashing affecting the dwarf population. The gods' directive to find Morel Chainsunder before seeking the Penumbra establishes the priority of this arc.
+This session serves as the bridge between arriving at [[The Pit]] and entering the [[Darvenlast]]. The party learns about [[Morel Chainsunder]] and the brainwashing affecting the dwarf population. The gods' directive to find Morel Chainsunder before seeking the Penumbra establishes the priority of this arc.
 
 ## Connections
 
-- Directly leads into [[session_011]] where the party enters the Darvinblast
+- Directly leads into [[session_011]] where the party enters the Darvenlast
 - Establishes [[Morel Chainsunder]] as the primary antagonist of the dwarven arc
 - Connects to the [[Penumbra]] quest — Morel Chainsunder must be found first

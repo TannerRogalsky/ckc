@@ -5,7 +5,7 @@ import path from "node:path"
 const require = createRequire(path.join(process.cwd(), "package.json"))
 const YAML = require("yaml")
 
-const siteTitle = process.env.QUARTZ_SITE_TITLE ?? "CKC Canon"
+const siteTitle = process.env.QUARTZ_SITE_TITLE ?? "Castle Kaedon: Cataclysm"
 const baseUrl = process.env.QUARTZ_BASE_URL
 const contentDir = process.env.QUARTZ_CONTENT_DIR ?? path.join(process.cwd(), "content")
 

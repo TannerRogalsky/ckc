@@ -82,7 +82,7 @@ In another scene preceding Aeris's visit, Domyx returned to the bunks and found 
 
 He sought [[Raxxy]], who had been on watch. She seemed drunk or delirious, unlike her usual conduct while on duty, and admitted losing track of time in the mess after drinking Mobley's new carrot tea from Kerben's recipe. She had not seen Theo Harvey leave.
 
-Raxxy found the document in the brig and gave it to Domyx. It marked The Carrot Cake on the rear side of the central mountain of [[Thalasia]], north of [[The White Drake]], with a particular direction from which a boat should approach. It repeated the opening window from the beginning of the fifth moon to the end of the ninth, while making clear that entering might still be difficult.
+Raxxy found the document in the brig and gave it to Domyx. It marked The Carrot Cake on the rear side of the central mountain of [[Thalassia]], north of [[The White Drake]], with a particular direction from which a boat should approach. It repeated the opening window from the beginning of the fifth moon to the end of the ninth, while making clear that entering might still be difficult.
 
 Theo Harvey's accompanying note thanked the party for not surrendering him to the League and presented the map as a gesture of good faith. It claimed the park was full of Penumbra. Domyx wondered whether the marked place was also where the prisoner had gone, but the note did not establish that.
 

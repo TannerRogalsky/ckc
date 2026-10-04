@@ -6,7 +6,7 @@ session_introduced: "012"
 
 # Deep World Wizard
 
-Deep World Wizard is the recorded designation for two distinct unnamed mages who defended [[Darvinblast]] against the party. Both were killed during its advance through the city's residential approaches.
+Deep World Wizard is the recorded designation for two distinct unnamed mages who defended [[Darvenlast]] against the party. Both were killed during its advance through the city's residential approaches.
 
 ## Description
 

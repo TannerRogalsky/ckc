@@ -76,7 +76,7 @@ Red Caesar's political judgment centers on people's right to choose their own fu
 
 Red Caesar is an abjuration wizard whose wards can protect both himself and his companions. His Otiluke's Resilient Sphere bears the same warding runes used on the stanchions at [[Heaven's Bulb]]. He also uses Mage Armor, Shield, Shield of Faith, and Protection from Evil and Good. His War Caster training supports spellcasting in close combat. On advancing to level nine after visiting [[The Garden]], he acquired Circle of Power to protect the group from hostile magic.
 
-Counterspell and Dispel Magic let him interrupt hostile spells, remove enchantments, and identify ways through magical defenses. These capabilities mattered in breaking [[Darvinblast]]'s curse, containing [[Farraday]]'s magic, and dismantling [[Emperor Shen]]'s protections. His Leomund's Tiny Hut took the form of a steampunk dome, translucent blue from within, when he sheltered the party from the [[Akasha]] storms over [[Continental Stark]].
+Counterspell and Dispel Magic let him interrupt hostile spells, remove enchantments, and identify ways through magical defenses. These capabilities mattered in breaking [[Darvenlast]]'s curse, containing [[Farraday]]'s magic, and dismantling [[Emperor Shen]]'s protections. His Leomund's Tiny Hut took the form of a steampunk dome, translucent blue from within, when he sheltered the party from the [[Akasha]] storms over [[Continental Stark]].
 
 ### Investigation, Travel, and Elemental Magic
 
@@ -114,7 +114,7 @@ Separately, Red Caesar completed [[Obvolvo Caelum]], a spell for condensing [[Pe
 
 Red Caesar joined the original company aboard [[The Opal]]. During an early private visit, [[Vizier Jade]] told him that she served [[Emperor Shen]], offered him safe passage east, and warned that his companions were liabilities. Red Caesar kept the meeting secret.
 
-In [[Darvinblast]], Red Caesar helped free the [[Steelfend Clan]] from [[Morel Chainsunder]]'s influence and released civilians from cages during the church confrontation. After the party found that the real [[Morel Chainsunder]] had died long ago, Red Caesar identified his last will as the surviving binding spell and destroyed it, ending the curse over the city.
+In [[Darvenlast]], Red Caesar helped free the [[Steelfend Clan]] from [[Morel Chainsunder]]'s influence and released civilians from cages during the church confrontation. After the party found that the real [[Morel Chainsunder]] had died long ago, Red Caesar identified his last will as the surviving binding spell and destroyed it, ending the curse over the city.
 
 On [[Continental Stark]], Red Caesar encountered open prejudice against humans. [[Aeon]] insulted him, and young elves in [[Brimbolyn]] targeted him with Sleep because of his ancestry. [[Garsinth Theralal]] apologized for his son's behavior and directed Red Caesar to [[Yalet Aurum]]. Red Caesar and his companions answered the golden-headed creature's riddle, receiving gold and a warning that [[The Order of Seasons]] was collecting [[Penumbra]].
 

@@ -7,7 +7,7 @@ sessions_appeared: ["011", "012"]
 
 # Steelfend Clan
 
-Steelfend Clan is a dwarven household in [[Darvinblast]] that was freed from [[Morel Chainsunder]]'s magical control. Its hospitality gave the party refuge during the struggle underground.
+Steelfend Clan is a dwarven household in [[Darvenlast]] that was freed from [[Morel Chainsunder]]'s magical control. Its hospitality gave the party refuge during the struggle underground.
 
 ## Leadership and Membership
 

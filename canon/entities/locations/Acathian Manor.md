@@ -11,12 +11,12 @@ related:
   - "[[Domyx IV]]"
   - "[[Lorelai Lapis-Acathian]]"
   - "[[Charlotta Fjoller]]"
-  - "[[Thalasia]]"
+  - "[[Thalassia]]"
 ---
 
 # Acathian Manor
 
-Acathian Manor is the golden palace formerly serving as [[Clan Akathia]]'s ruling seat in [[Thalasia]]. It was the setting of [[Domyx]]'s rejection of his dynasty and later reconciliation with [[Domyx IV]].
+Acathian Manor is the golden palace formerly serving as [[Clan Akathia]]'s ruling seat in [[Thalassia]]. It was the setting of [[Domyx]]'s rejection of his dynasty and later reconciliation with [[Domyx IV]].
 
 ## Geography and Access
 

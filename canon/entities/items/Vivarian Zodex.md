@@ -20,7 +20,7 @@ The breastplate requires attunement and strengthens both its wearer and companio
 
 ## Campaign History
 
-After the expedition to [[Darvinblast]], Kerben visited Beryzoz Helmscar for armor. He declined the smith's proposal to replace his skin and instead accepted an enchanted breastplate made using jade.
+After the expedition to [[Darvenlast]], Kerben visited Beryzoz Helmscar for armor. He declined the smith's proposal to replace his skin and instead accepted an enchanted breastplate made using jade.
 
 The animal-focused design suited Kerben's relationships with companions such as [[Tango]] and [[Kilosaurus]], while the chest socket integrated his egg into his equipment.
 

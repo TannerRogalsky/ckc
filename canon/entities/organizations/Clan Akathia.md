@@ -16,7 +16,7 @@ aliases:
 
 # Clan Akathia
 
-Clan Akathia is [[Domyx]]'s titan clan in the northeastern mountains of [[Thalasia]]. Formerly ruled by [[Domyx IV]] under strict isolationist traditions, it shares authority with the other titan houses after the exposure and defeat of its concealed ancestor, [[Emperor Shen]].
+Clan Akathia is [[Domyx]]'s titan clan in the northeastern mountains of [[Thalassia]]. Formerly ruled by [[Domyx IV]] under strict isolationist traditions, it shares authority with the other titan houses after the exposure and defeat of its concealed ancestor, [[Emperor Shen]].
 
 ## Identity and Background
 

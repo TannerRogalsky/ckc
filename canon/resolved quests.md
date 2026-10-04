@@ -15,10 +15,10 @@
 - **Resolved:** Sessions 001–010 (exact session unknown; placed by latest possible resolution)
 - **Details:** The party completed [[Lady Jacinthe]]'s quest to hunt a [[Grotusqu]].
 
-## Break the Darvinblast curse
+## Break the Darvenlast curse
 - **Given by:** Implicit (party initiative)
 - **Resolved:** Session 012
-- **Details:** The party entered the [[Darvinblast]], discovered [[Morel Chainsunder]] was dead and his cult sustained by a binding-illusion curse. [[Red Caesar]] destroyed the spell document, freeing the [[Steelfend Clan]] and other deep-world dwarves. A massive [[Penumbra]] chunk was found in the hidden quarry.
+- **Details:** The party entered the [[Darvenlast]], discovered [[Morel Chainsunder]] was dead and his cult sustained by a binding-illusion curse. [[Red Caesar]] destroyed the spell document, freeing the [[Steelfend Clan]] and other deep-world dwarves. A massive [[Penumbra]] chunk was found in the hidden quarry.
 
 ## Destroy the Storm Phoenix
 - **Given by:** [[Theotropa]]

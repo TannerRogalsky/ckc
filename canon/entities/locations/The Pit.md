@@ -32,9 +32,9 @@ Industrial development added palace wings, wider roads, and minecart tracks. Aft
 
 ## Campaign History
 
-[[Vizier Jade]] visited [[Red Caesar]] while the party was traveling toward the city. A frightened dwarf fleeing [[Darvinblast]] also sought refuge toward The Pit, emphasizing its role as a surface center.
+[[Vizier Jade]] visited [[Red Caesar]] while the party was traveling toward the city. A frightened dwarf fleeing [[Darvenlast]] also sought refuge toward The Pit, emphasizing its role as a surface center.
 
-After Darvinblast's liberation, deep worlders emerged and other dwarves entered formerly closed underground spaces. Figma Brickfinger handled the resulting unrest while the party traded and reinforced [[The Opal]].
+After Darvenlast's liberation, deep worlders emerged and other dwarves entered formerly closed underground spaces. Figma Brickfinger handled the resulting unrest while the party traded and reinforced [[The Opal]].
 
 On the ship's return, expansion was underway and minor conflicts remained manageable. Reports placed [[Broyish Empire]] airships in the wider region without confirming their presence at the city itself. The party acquired a bulbous bow and hardened sails; [[Domyx]] and [[Vokenar]] exchanged gems with Sigrid Forgewelt for magical weapons.
 

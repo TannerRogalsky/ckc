@@ -24,6 +24,10 @@ Its midway portal bears a sign of carrots flanking a hill. Beyond it lies an oce
 
 Carrot-shaped beacons initiate the arena's staged challenges. Its magic records the contests for viewers in the park's main square. A lighthouse held a finely blown carrot-shaped glass bulb with an electrical filament, which the party collected.
 
+### Map
+
+![[images/KaratCake_KotH.png]]
+
 ## Inhabitants and Control
 
 A differently dressed [[Magen]] announcer used a carrot-shaped voice amplifier and researched introductions for the visitors. It attributed the challenges to [[Farraday]], Jack Harvey's benefactor, who wanted the park to remain entertaining after the apocalypse.

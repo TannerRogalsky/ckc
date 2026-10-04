@@ -6,7 +6,7 @@ session_introduced: "012"
 
 # Fire Giant
 
-A Fire Giant defending [[Darvinblast]] challenged the party near a bridge over a pit of burning miasma.
+A Fire Giant defending [[Darvenlast]] challenged the party near a bridge over a pit of burning miasma.
 
 ## Description
 

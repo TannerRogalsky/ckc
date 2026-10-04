@@ -67,7 +67,7 @@ Obould committed shared resources to reinforcing the hull and deck for the large
 
 After the party defended The Opal from hobgoblin pirates, it captured [[The Hideous Truth]] but concealed the galley because it could not sustain an active third vessel alongside The Opal and the [[Gheister]]. Obould's later captivity required Kerben to take responsibility for command. At [[The Pit]], the crew obtained the improved bow and sails; Vokenar's consecrations made the ship a refuge.
 
-The party commissioned cannons in Broy, and the weapons were installed before its northern voyage. Its reinforced bow then helped it break through ice near [[Thalasia]], though the passage and a hydra encounter damaged the hull. The company recovered its stolen treasure from Xarag's hoard and defended the vessel against imperial [[Gun Balloon]]s, capturing one despite further damage to The Opal.
+The party commissioned cannons in Broy, and the weapons were installed before its northern voyage. Its reinforced bow then helped it break through ice near [[Thalassia]], though the passage and a hydra encounter damaged the hull. The company recovered its stolen treasure from Xarag's hoard and defended the vessel against imperial [[Gun Balloon]]s, capturing one despite further damage to The Opal.
 
 Repairs at Cutlass Cray addressed the northern voyage and balloon attack. Vokenar funded the wind-providing genie engine, and the companions obtained a consumable ghost-ship token for concealment. It was a temporary resource rather than a permanent ability to turn the vessel invisible.
 

@@ -58,7 +58,7 @@ As a prisoner, he described the Empire's regional strength, questioned whether t
 
 During the voyage, he sought better treatment from Domyx and revealed that The Carrot Cake had used Penumbra before the sky broke. Its illusions and traps had defeated [[Vizier Jade]]'s search: her servant [[The Tyrant]] had gone in and never returned. The party later found his cage empty, initially without knowing how he had escaped. [[canon/sessions/session_023]]
 
-The missing episode was Kerben's secret bargain. In exchange for freedom and the Gheister, Theo Harvey supplied the park's location and access window: the demi-plane opened from the first day of the fifth moon through the last day of the ninth. Jack Harvey had hidden Penumbra there as a safeguard for later generations. Kerben arranged sedating carrot tea for the crew, staged signs of a violent escape, and let him depart in fog and darkness. Theo Harvey left a map to the rear of [[Thalasia]]'s central mountain and a note thanking them for withholding him from the League. [[canon/sessions/session_024]]
+The missing episode was Kerben's secret bargain. In exchange for freedom and the Gheister, Theo Harvey supplied the park's location and access window: the demi-plane opened from the first day of the fifth moon through the last day of the ninth. Jack Harvey had hidden Penumbra there as a safeguard for later generations. Kerben arranged sedating carrot tea for the crew, staged signs of a violent escape, and let him depart in fog and darkness. Theo Harvey left a map to the rear of [[Thalassia]]'s central mountain and a note thanking them for withholding him from the League. [[canon/sessions/session_024]]
 
 ### Imperial recapture and a second rescue
 

@@ -14,7 +14,7 @@ aliases:
 related:
   - "[[Domyx]]"
   - "[[Clan Akathia]]"
-  - "[[Thalasia]]"
+  - "[[Thalassia]]"
   - "[[Emperor Shen]]"
   - "[[Axis Mundi]]"
   - "[[Zohai Lapis]]"
@@ -36,7 +36,7 @@ His presence carried storm and weather phenomena. He could summon cloud-based we
 
 ## Campaign History
 
-Already injured from an earlier encounter, Farron Acathian II attacked The Opal with Zohai Lapis under orders to kill the party. His arrival aboard [[The Opal]] threatened to capsize it, until Domyx steadied the vessel and helped defeat him. [[Vokenar]] healed both titans. Farron Acathian II gave Domyx a scroll case containing a map of [[Thalasia]] and a difficult route into the homeland, then departed peacefully north with Zohai Lapis. Their orders and future conduct remained unsettled. See [[session_023#Chunk 0000]].
+Already injured from an earlier encounter, Farron Acathian II attacked The Opal with Zohai Lapis under orders to kill the party. His arrival aboard [[The Opal]] threatened to capsize it, until Domyx steadied the vessel and helped defeat him. [[Vokenar]] healed both titans. Farron Acathian II gave Domyx a scroll case containing a map of [[Thalassia]] and a difficult route into the homeland, then departed peacefully north with Zohai Lapis. Their orders and future conduct remained unsettled. See [[session_023#Chunk 0000]].
 
 ## Final Status
 

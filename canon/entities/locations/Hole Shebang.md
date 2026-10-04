@@ -22,6 +22,10 @@ A midway teleportation circle is marked by electricity arcing between poles and 
 
 Sandy beaches, stages, puppet automata, and games surround an electrical hub. Arcs between poles made movement dangerous before the party redirected the supply. Hostile animated creatures emerged from barrels and ruined scenery, while some games and friendly attendants continued working without the electrical system.
 
+### Map
+
+![[images/KaratCake_HoleShebang.png]]
+
 ## Notable Areas
 
 - Sky High Striker — A strength-testing attraction on an outer island.

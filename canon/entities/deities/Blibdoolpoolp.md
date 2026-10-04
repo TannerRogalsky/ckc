@@ -16,7 +16,7 @@ Blibdoolpoolp was the god of the [[Kuo-Toa]] encountered and defeated by the par
 
 Seen through glass, Blibdoolpoolp appeared as a massive shadow in the water, holding an even larger entity in its claws. The early account does not identify that other entity.
 
-The Kuo-Toa had made Blibdoolpoolp real through belief. That origin was recalled when the party encountered a different collective manifestation in [[Darvinblast]].
+The Kuo-Toa had made Blibdoolpoolp real through belief. That origin was recalled when the party encountered a different collective manifestation in [[Darvenlast]].
 
 ## Campaign History
 

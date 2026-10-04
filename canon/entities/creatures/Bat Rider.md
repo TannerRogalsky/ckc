@@ -6,7 +6,7 @@ session_introduced: "011"
 
 # Bat Rider
 
-Bat Riders were elite dwarf knights defending [[Darvinblast]] under [[Morel Chainsunder]] and his cult.
+Bat Riders were elite dwarf knights defending [[Darvenlast]] under [[Morel Chainsunder]] and his cult.
 
 ## Description
 

@@ -6,12 +6,12 @@ aliases:
   - Frost Hydra
 related:
   - "[[The Opal]]"
-  - "[[Thalasia]]"
+  - "[[Thalassia]]"
 ---
 
 # Rimefire Hydra
 
-The Rimefire Hydra was an eight-headed creature awakened beneath the frozen northern straits near [[Thalasia]] by [[The Opal]]'s passage.
+The Rimefire Hydra was an eight-headed creature awakened beneath the frozen northern straits near [[Thalassia]] by [[The Opal]]'s passage.
 
 ## Description
 

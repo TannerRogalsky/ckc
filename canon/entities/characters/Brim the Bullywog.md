@@ -34,7 +34,7 @@ He could build useful devices from limited scrap and leap extraordinarily far, a
 
 The party recruited him while traveling toward Brimbolyn. He helped them through the depot's inspection, then formally joined The Opal on its return to the coast, introducing himself to [[Domyx]] and climbing to the crow's nest. See [[session_014#Chunk 0002]] and [[session_015#Chunk 0000]].
 
-At [[The Pit]], he welcomed the unfamiliar room to roam beyond elven territory and went exploring. During the northern voyage toward [[Thalasia]], he helped use the new cannons against a [[Rimefire Hydra]]. Later, he defended The Opal with its arbalest during an imperial aerial attack while the party was away. See [[session_022#Chunk 0000]], [[session_024#Chunk 0001]], and [[session_026#Chunk 0001]].
+At [[The Pit]], he welcomed the unfamiliar room to roam beyond elven territory and went exploring. During the northern voyage toward [[Thalassia]], he helped use the new cannons against a [[Rimefire Hydra]]. Later, he defended The Opal with its arbalest during an imperial aerial attack while the party was away. See [[session_022#Chunk 0000]], [[session_024#Chunk 0001]], and [[session_026#Chunk 0001]].
 
 During the [[Broyish Empire]]'s naval assault, he again helped crew the cannons. He advised [[Kerben]] to use the ghost-ship feather token when retreat became necessary and volunteered to board a crippled imperial vessel with the ship's air elemental. That offer did not establish a completed boarding. See [[session_031]].
 

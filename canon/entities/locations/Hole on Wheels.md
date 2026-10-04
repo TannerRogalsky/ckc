@@ -25,6 +25,10 @@ The midway portal is marked by a brightly colored wooden toy train on false trac
 
 The train has seven cars. Its front car holds the controls and a lamplighter connected to the sanctum's gate. That connection redirected power to the fourth lamp in the midway; the controls also regulated the train's operation.
 
+### Map
+
+![[images/KaratCake_HoW.png]]
+
 ## Inhabitants and Control
 
 A [[Magen]] described its original scenic purpose. During exploration, cambions, revenants, vampire spawn, and the Vampiric Nightbringer occupied the cars. Jack Harvey's park and its connection with [[Farraday]] explain the attraction's wider context without establishing who controlled it after the party left.

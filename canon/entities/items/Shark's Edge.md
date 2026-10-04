@@ -20,7 +20,7 @@ Its shark theme was associated with [[Crone]]'s purview over the moon and tides.
 
 ## Campaign History
 
-Kerben acquired the weapon while serving as acting captain of [[The Opal]], before the voyage north. He used it to mark their chosen route on a chart, then read warmer water and weaker ice with it as the ship approached [[Thalasia]].
+Kerben acquired the weapon while serving as acting captain of [[The Opal]], before the voyage north. He used it to mark their chosen route on a chart, then read warmer water and weaker ice with it as the ship approached [[Thalassia]].
 
 It remained one of his weapons during later expeditions. He used it within the [[Haunted Living Tent]], against [[Farraday]], and while escaping a purple worm beneath [[The Funnel]].
 
