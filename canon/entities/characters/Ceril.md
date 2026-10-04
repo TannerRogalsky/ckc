@@ -83,7 +83,7 @@ After the final victory, Ceril wanted time and solitude. He chose to restore fer
 - [[Illidrielle Gandara]] — His former shipmate, later recognized among [[The Order of Seasons]]'s [[Penumbra]] collectors. He encountered her among the dead in [[Arkadia]] and carried her wish for [[Keys Caeradel]]'s future back to him.
 - [[Feronia Caeradel]] — One of the elves who allowed him to escape. On meeting him again, she said his soul survived many worlds unchanged and predicted that he would be like a god in a renewed world. This was her account of his possible future, rather than an established transformation.
 - [[Rizolvir Kiirnodel]] — The aristocrat whose offer Ceril rejected during the escape. Their later reunion revealed that [[House Kiirnodel]] had let him go deliberately; [[Rizolvir Kiirnodel]] also warned the party about the [[Broyish Empire]].
-- [[Damien Ouranous]] — The League envoy who helped conceal the portrait Ceril took for scrying. Ceril later encountered him in [[Arkadia]] alongside [[Vokenar]]'s spirit and learned that [[Emperor Shen]] had killed him.
+- [[Damien Ouranous]] — The League envoy who helped conceal the portrait Ceril took for scrying. Ceril later encountered him in [[Arkadia]] alongside [[Witness]] and learned that [[Emperor Shen]] had killed him. See [[session_032#Chunk 0000]].
 - [[Theotropa]] — The druid who invited him to help [[The Garden]] restore newly exposed lands. Ceril volunteered before retiring, without establishing a permanent role in the organization.
 
 ## Abilities
@@ -130,7 +130,7 @@ Ceril's divination established that the apparent [[Morel Chainsunder]] was not t
 
 Returning to [[Continental Stark]] brought Ceril back toward the society he had escaped. [[Akasha]] storms killed [[Nyquil]], whose body he consumed. He helped communicate with elven migrants and heal those rescued from the bog, and gathered [[Moon Mushrooms]] for [[Kerben]] before traveling by magical train to [[Brimbolyn]]. An alternative answer to [[Yalet Aurum]]'s riddle earned him gold before [[Red Caesar]] supplied the final solution.
 
-At [[The Academy]], Ceril recognized [[Keys Caeradel]] and [[Illidrielle Gandara]] as the collectors from [[Castle Kaedon]]. The party agreed to stop collecting new [[Penumbra]] and surrender its stock if the sky-repair plan failed, in exchange for access to [[The Order of Seasons]]'s teleportation circles. [[Keys Caeradel]] also asked them to bring his father, the [[Rakshasa]], to [[The Academy]].
+At [[The Academy]], Ceril recognized [[Keys Caeradel]] and [[Illidrielle Gandara]] as the collectors from [[Castle Kaedon]]. [[The Order of Seasons]] agreed to pause collecting new [[Penumbra]] while retaining its existing stock. The party promised its own collected Penumbra if the sky-repair plan failed, and received access to the Order's teleportation circles. See [[session_014#Chunk 0003]]. [[Keys Caeradel]] also asked them to bring his father, the [[Rakshasa]], to [[The Academy]].
 
 Ceril's visit to [[House Kiirnodel]] reunited him with [[Feronia Caeradel]] and [[Rizolvir Kiirnodel]]. For years he had thought the pair might have been a mirage or manifestation of nature. Meeting them again established that they were real and had deliberately let him escape.
 
@@ -166,7 +166,7 @@ Ceril and [[Red Caesar]] carried the condensed [[Penumbra]] to [[Lyngbakr]]. Whe
 
 ### Restoring Companions and Defending the Existing World
 
-In [[Arkadia]], Ceril consulted [[Aeris]], [[Sigil]], and the injured [[Crone]], learning that [[Vokenar]] could still be restored. He encountered [[Illidrielle Gandara]] among the dead and learned both that the [[Demi-Spell]] was complete and that [[Boril Erendel]]'s alterations constrained reincarnation. He also saw [[Damien Ouranous]] with [[Vokenar]]'s spirit and learned of the envoy's death.
+In [[Arkadia]], Ceril consulted [[Aeris]], [[Sigil]], and the injured [[Crone]], learning that [[Vokenar]] could still be restored. He encountered [[Illidrielle Gandara]] among the dead and learned both that the [[Demi-Spell]] was complete and that [[Boril Erendel]]'s alterations constrained reincarnation. He also saw [[Damien Ouranous]] traveling with [[Witness]] and learned of the envoy's death. See [[session_032#Chunk 0000]].
 
 Ceril returned through a closing sky passage and joined the disguised approach to the [[Broyish Capital]]. The party exposed [[Broyish Empire]]'s false sky, recovered [[Domyx]] and [[Vokenar]]'s body, and escaped through plant travel. At the [[Temple of Sigil]], Ceril reincarnated [[Vokenar]] as a high elf, confirming that only elven bodies remained available.
 

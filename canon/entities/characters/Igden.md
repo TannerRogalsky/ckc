@@ -10,4 +10,10 @@ related:
   - "[[Arkadia]]"
 ---
 
-The parliamentarian of the old Kaedonite senate before [[The Cataclysm]]. He maintained its rules of debate as new guilds and religious groups sought influence. In session 032, Ceril encountered Igden in Arkadia, where he remained among the old Kaedonite dead.
+# Igden
+
+Igden was the parliamentarian of old [[Kaedon]]'s senate, maintaining debate rules as new guilds and religious groups competed for influence. He died when the waters rose during [[The Cataclysm]].
+
+## Final Status
+
+[[Ceril]] and [[Alamar]] encountered him in [[Arkadia]] with [[Vlerro]] and [[Tyson Cromwell]], other dead companions from Kaedon. Alamar chose to stay and catch up with them while Ceril continued toward the goddesses. This was Igden's last established appearance, in [[session_032#Chunk 0000]].

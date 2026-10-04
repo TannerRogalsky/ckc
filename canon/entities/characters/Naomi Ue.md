@@ -7,14 +7,29 @@ aliases:
   - Naomi
 ---
 
-A human woman operating as an underground fixer in the [[Broyish Capital]] of [[Broy]]. She works out of a dive bar, absolving citizens of criminal liability by magically stamping documents in coordination with an elf associate who holds official government position. She has a white pet dog named Snow.
+# Naomi Ue
 
-## Plot Events
+Naomi Ue is a human underground fixer in the [[Broyish Capital]] of [[Broy]]. She used access to official paperwork to clear the party's warrants and later organized a diversion for their imperial rescue.
 
-In session 023, the party found Naomi Ue through [[Vokenar]]'s arcane eye scouting. She was seen receiving contraband documents, having them stamped by an armored elf associate, and exchanging money with clients who appeared to be criminals getting themselves cleared of legal trouble.
+## Identity and Background
 
-When the party entered her tavern, Naomi Ue recognized them as outsiders. She discovered they had warrants issued by [[Oni]] sentries after the party killed several oni near the coast. She offered to clear their warrants for 10 pounds of mithril, which the party paid. She also offered to fabricate false records redirecting oni attention for additional payment, and to arrange citizenship papers.
+She worked from a dive bar with her white dog, Snow. Her elven associate, [[Vanzia Vynnfae]], held an official government position, enabling her document work within the Empire's restricted system.
 
-Naomi Ue confirmed that [[Obould]] is in the custody of [[Vizier Jade]], held as prisoner of war and leverage against [[The League of New Stark]]. She warned the party they would need to speak with Jade to access Obould.
+## Abilities
 
-During the rescue in [[Broy]], [[Red Caesar]] paid Naomi Ue with gold, [[Jade's Compass]], and plans from [[The Carrot Cake]] to arrange a diversion near the imperial palace. Her people were to act when the false sky changed and then withdraw into hiding. The compass was transferred to her as payment.
+She could obtain magically stamped documents removing criminal liability and arrange false records or citizenship papers. Her network also supported covert approaches and organized disturbances, though larger arrangements required time and payment.
+
+## Equipment and Resources
+
+- [[Jade's Compass]] — Received from [[Red Caesar]] as payment for the rescue diversion; no subsequent transfer is established.
+- [[The Carrot Cake]] — Its recovered plans were also transferred to her as part of that payment.
+
+## Campaign History
+
+[[Vokenar]]'s Arcane Eye observed her receiving contraband paperwork and exchanging money before the party approached her tavern. Naomi Ue recognized them as outsiders, identified their warrants for killing [[Oni]] sentries, and cleared the records in return for mithril. She offered broader falsifications and citizenship arrangements. She also told them that [[Obould]] was held by [[Vizier Jade]] as a prisoner of war and leverage against [[The League of New Stark]], and that reaching him required dealing with the vizier directly. [[canon/sessions/session_023#Chunk 0001]]
+
+During the later rescue, Red Caesar hired her contacts to create a brief disturbance near the palace when Broy's false sky changed, then withdraw into hiding. She accepted gold, Jade's Compass, and The Carrot Cake plans, while protecting her network's secrecy. When Red Caesar dispelled the illusion, her staged protest combined with a genuine uprising. [[canon/sessions/session_032#Chunk 0001]]
+
+## Final Status
+
+Naomi Ue's last established work was organizing the Broy diversion through her local contacts. Her later role after the Empire's fall is not recorded. No later transfer of Jade's Compass is recorded.

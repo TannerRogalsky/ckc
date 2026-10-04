@@ -13,34 +13,46 @@ related:
   - "[[40 Carats]]"
 ---
 
-A famous entrepreneur from old [[Kaedon]] who created [[The Carrot Cake]], a massive magical amusement park spanning multiple mountaintops. He was known throughout the world for the ambitious projects he undertook during Kaedon's prosperous era.
+# Jack Harvey
 
-## Plot Events
+Jack Harvey was an entrepreneur of old [[Kaedon]], founder of [[40 Carats]], and creator of [[The Carrot Cake]]. His protected [[Penumbra]] hoard supplied the sky's restoration, and [[Kerben]] later renewed his theatrical legacy after visiting his long-submerged grave.
 
-He was first mentioned in session 018 when a dead noble corpse at [[Castle Kaedon]] was found carrying tickets for The Carrot Cake. [[Red Caesar]] used Speak with Dead on the corpse, which revealed that the amusement park spanned multiple mountaintops through great magic, could transport visitors across the world, and that the main destination was a tall peak north of Castle Kaedon but south of the elven lands. The noblewoman had been intending to attend, but [[The Cataclysm]] prevented it.
+## Identity and Background
 
-Jack Harvey was converting the amusement park into a bunker before the Cataclysm, securing things from the old world — including the broken sky — behind a giant gate.
+Jack Harvey was famous for ambitious projects during Kaedon's prosperity. His former home was near [[Esperanto]]. He knew Kerben, who worked at his museum, and held a position in the enterprise supported by [[Farraday]].
 
-In session 022, [[David Harvey]] revealed that Jack Harvey was his great uncle. David said Jack was famous for all the projects he was going to take on, though David himself never followed in his footsteps. [[Theo Harvey]] — a traitor Harengon — also apparently wanted to live his life like Jack Harvey did, creating his own "empire of glitz and glamour."
+## Personality and Motivations
 
-Later in session 022, while captured by the party, Theo revealed that Jack Harvey's final project — [[The Carrot Cake]] — is "alive and well," implying the amusement park or its magical legacy still exists somewhere in the world.
+According to [[Theo Harvey]], Jack Harvey's chief strength was assembling the right people for each task rather than doing everything himself. Theo Harvey compared him to a captain defined by his crew.
 
-## Session 024
+Jack Harvey converted his amusement park into a fortified refuge as the world changed. When the sky broke, he collected its fragments and hid them for future generations, trusting that someone would eventually need them even without knowing their precise use.
 
-During his secret meeting with [[Kerben]] aboard [[The Opal]], [[Theo Harvey]] revealed that Jack Harvey's main skill was not doing everything himself, but assembling the perfect crew — the right alchemist, the right leather worker, the right person for each task. Jack was like a captain himself, defined by his crew. When the sky first broke during [[The Cataclysm]], Jack collected [[Penumbra]] shards and hid them within [[The Carrot Cake]] as a safeguard for future generations. He didn't know what they would be needed for, but trusted that someday someone would come looking for all the pieces of the sky in one place. Jack Harvey knew [[Kerben]] personally — Kerben had worked at Jack's museum.
+## Relationships
 
-## Session 027
+- [[Kerben]] — Former employee who recovered Jack Harvey's portrait and hoard, paid respects at his grave, and reunited 40 Carats.
+- [[Farraday]] — Fiendish benefactor and later steward of The Carrot Cake after Jack Harvey resigned direct control.
+- [[David Harvey]] — Great-nephew who said he had not followed Jack Harvey's theatrical ambitions and later received [[Jack Harvey's Portrait]] for the family.
+- [[Theo Harvey]] — Relative inspired by his empire of spectacle, whose knowledge helped Kerben find the surviving park and reunite its performers.
 
-Inside the extra-dimensional space of the [[Haunted Living Tent]] at [[The Carrot Cake]], [[Red Caesar]] and [[Kerben]] recovered a portrait of Jack Harvey. Red recognized it by sight; Kerben identified its value because it was painted to look like his old boss. The painting was salvaged as the tent disintegrated.
+## Abilities
 
-## Session 030
+His distinctive skill lay in organizing specialists and large magical projects. [[Magen]] preserved portions of his mind and knowledge, maintaining parts of the park and explaining his safeguards long after his death. Their limited knowledge did not make every recollection a complete account of his plans.
 
-A [[Magen]] in [[The Carrot Cake]] explained that Jack Harvey eventually had to resign from direct control of the park and left it in the care of [[Farraday]]. The same conversation suggested Jack Harvey is almost certainly dead by the present day, making the Carrot Cake his surviving legacy. The party lit all four lamps, opening the path to Jack Harvey's inner sanctum, but the portal system was dispelled before they could return to the midway.
+## Equipment and Resources
 
-## Session 031
+- [[40 Carats]] — His entertainment company, later revived under Kerben's leadership.
+- [[The Carrot Cake]] — His former amusement park linking mountain resorts through magical transport. Later defenses secured old-world treasures and sky fragments behind the inner sanctum's gate.
+- [[Penumbra]] — Vast hoard protected in his vault until the party recovered it for [[Lyngbakr]]. It was consumed to repair the sky.
+- [[Jack Harvey's Portrait]] — Former likeness recovered from the [[Haunted Living Tent]], later entrusted to David Harvey aboard [[The White Drake]].
 
-Jack Harvey's inner sanctum proved to be an underwater vault that protected his hidden [[Penumbra]] hoard. His preserved magic welcomed the party to the vault when [[Domyx]] opened the pressure-sealed door. The vault's Penumbra was large enough for [[Lyngbakr]] to repair the [[Hole in the Sky]], confirming Jack Harvey's hoard as a successful long-term safeguard for future generations.
+## Campaign History
 
-## Session 038
+A dead noble in [[Castle Kaedon]] carried tickets to The Carrot Cake and described its linked mountaintop destinations. She had intended to attend before [[The Cataclysm]] prevented the journey. Later testimony from David Harvey and Theo Harvey established Jack Harvey's family connections and suggested that his final project survived. See [[session_018#Chunk 0001]] and [[session_022]].
 
-As the oceans receded, [[Kerben]] found Jack Harvey's long-submerged grave near [[Esperanto]] and paid his respects. [[Theo Harvey]] helped Kerben reunite the surviving [[40 Carats]] performers, renewing Jack Harvey's legacy.
+Theo Harvey privately told Kerben how Jack Harvey assembled his crew and preserved the broken sky. Reaching the park, the party found its surviving Magen, treasures, and defenses; Kerben and [[Red Caesar]] saved the portrait as the living tent collapsed. A Magen later explained the transfer of stewardship to Farraday and the four lamps required to reach the sanctum. See [[session_024#Chunk 0000]], [[session_027#Chunk 0002]], and [[session_030#Chunk 0000]].
+
+Jack Harvey's preserved magical voice welcomed [[Domyx]] when the party opened the pressure-sealed vault. Red Caesar gathered its hoard into an [[Obvolvo Caelum]] sphere, making the safeguard portable. The recovered Penumbra enabled Lyngbakr to repair the [[Hole in the Sky]], fulfilling its long-term purpose. See [[session_031#Chunk 0002]], [[session_031#Chunk 0003]], and [[session_031#Chunk 0004]].
+
+## Final Status
+
+As the oceans receded, Kerben found Jack Harvey's grave near Esperanto and paid his respects, confirming the death earlier suggested by the park's guides. Theo Harvey helped reunite the surviving 40 Carats performers, and Kerben successfully rebuilt the company. Jack Harvey's legacy continued through that work; he was not restored to life. See [[session_038#Chunk 0002]].

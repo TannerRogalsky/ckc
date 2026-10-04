@@ -8,4 +8,6 @@ related:
   - "[[The Boardwalks]]"
 ---
 
-A huge, pale water genie adorned in seaweed. The Marid runs [[The Boardwalks]], serves as Port Authority at [[Cutlass Cray]], and protects the city from catastrophic waves using his magic.
+# The Marid
+
+The Marid is a huge, pale water genie adorned in seaweed who runs [[The Boardwalks]] and serves as Port Authority at [[Cutlass Cray]]. His magic protects the city from catastrophic waves.

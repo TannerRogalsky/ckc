@@ -21,18 +21,38 @@ related:
   - "[[Demi-Spell]]"
 ---
 
-Leader of [[House Kiirnodel]], son of [[Aramil Kiirnodel]]. Aligned chiefly with [[The Order of Seasons]].
+# Rizolvir Kiirnodel
 
-He recognized [[Ceril]] from before [[The Cataclysm]] — they were the two faces from Ceril's escape flashback. He warned the party that their greatest enemy is the [[Broyish Empire]], which opposes the Order's attempt to bring about [[Genesis Mundi]] and is collecting [[Penumbra]] pieces for what he believes is a weapon. He said the Empire is more violent than any elf and kills people who don't even stand in their way.
+Rizolvir Kiirnodel is the leader of [[House Kiirnodel]] and the eventual king of the elves. Formerly aligned chiefly with [[The Order of Seasons]]' effort to enact the [[Demi-Spell]], he accepted the party's attempt to preserve the existing world.
 
-In session 022, Rizolvir greeted [[Red Caesar]] and [[Ceril]] when they arrived at [[House Kiirnodel]]'s teleport circle in Brimbolyn. He recognized them and asked their purpose. [[Feronia Caeradel]] identified Ceril as a survivor of the old world. Rizolvir lowered the Otiluke blast shield surrounding the circle. When Red reported that [[Boril Erendel]] had developed "wild ideas" at [[The Garden]] and was adding pages to the [[Demi-Spell]] on his own, Rizolvir agreed to send someone to retrieve him, though he noted Boril Erendel's son was overwhelmed with work.
+## Identity and Background
 
-In session 034, Rizolvir Kiirnodel acknowledged that stopping [[Boril Erendel]] primarily advances the [[Demi-Spell]], which the party also opposes. He agreed to stop urging [[Keys Caeradel]] to cast the spell and give the party more time to save the existing world. In exchange, the party accepted a map to [[House Erendel]] and agreed to confront Boril Erendel.
+He is a son of [[Aramil Kiirnodel]]. Before [[The Cataclysm]], he and [[Feronia Caeradel]] encountered [[Ceril]] during his escape from the elven lands; they later recognized one another.
 
-## Session 035
+## Personality and Motivations
 
-Rizolvir Kiirnodel sensed [[Boril Erendel]]'s defeat and thanked the party outside [[The Academy]], accompanied by [[Feronia Caeradel]]. He said he had been urging [[Keys Caeradel]] to delay the [[Demi-Spell]], honoring his bargain despite growing pressure to erase the world's suffering.
+Rizolvir Kiirnodel opposed the [[Broyish Empire]], which he described as more violent than the elves and willing to kill people who did not obstruct it. He believed its Penumbra collection served a weapon against the Order's plans.
 
-## Session 038
+He supported a restored world that included humans, dwarves, and other peoples, opposing [[Boril Erendel]]'s exclusively elven design. His desire to reverse suffering nevertheless made him impatient with delaying the Demi-Spell. He could negotiate a limited reprieve without immediately abandoning that purpose.
 
-In the epilogue, the elves established a monarchy under Rizolvir Kiirnodel, described as a considerate king who listened to his subjects. [[The Academy]] was retired from its original purpose and repurposed because the world had been saved without the [[Demi-Spell]].
+## Relationships
+
+- [[Aramil Kiirnodel]] — His father and predecessor in the elven political history.
+- [[Ceril]] — An old-world survivor he had helped spare during the escape and later received as an ally despite their disagreement about the world's future.
+- [[Feronia Caeradel]] — A longstanding associate who shared his connection to Ceril and his concerns about the Demi-Spell.
+- [[Keys Caeradel]] — The researcher he urged to complete and cast the Demi-Spell, then agreed to stop pressuring while the party confronted Boril Erendel.
+- [[Boril Erendel]] — A powerful rival whose interference threatened to make the new world exclusively elven; Rizolvir Kiirnodel sought the party's help defeating him.
+
+## Campaign History
+
+Rizolvir Kiirnodel recognized Ceril during the party's visit to Brimbolyn and warned that the Empire opposed the Order's intended [[Genesis Mundi]]. He suspected it was collecting [[Penumbra]] for a weapon. [[canon/sessions/session_014]]
+
+When Ceril and [[Red Caesar]] later arrived inside the protective sphere at House Kiirnodel, Rizolvir Kiirnodel questioned them while Feronia Caeradel lowered the barrier. Red Caesar reported Boril Erendel's unilateral additions to the Demi-Spell. Rizolvir Kiirnodel agreed to seek his account and consider retrieving him; the scene did not establish that an expedition was sent or his work altered. Keys Caeradel was already overwhelmed with work. [[canon/sessions/session_022#Chunk 0001]]
+
+After the sky's repair, he admitted that removing Boril Erendel would advance the Demi-Spell, which the party still opposed. Red Caesar offered to confront the wizard in exchange for more time to save the world. They agreed on a temporary halt to pressure on Keys Caeradel, and Rizolvir Kiirnodel supplied a map to [[House Erendel]]. [[canon/sessions/session_034#Chunk 0002]]
+
+He sensed Boril Erendel's defeat and thanked the companions outside [[The Academy]] with Feronia Caeradel. He said he was honoring the agreement despite growing pressure to reverse the world's losses. [[canon/sessions/session_035]]
+
+## Final Status
+
+The elves established a monarchy under Rizolvir Kiirnodel, described as a considerate king who listened to his subjects. With the world saved without the Demi-Spell, The Academy retired its original purpose and was repurposed. [[canon/sessions/session_038#Chunk 0002]]

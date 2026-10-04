@@ -10,6 +10,24 @@ related:
   - "[[Cutlass Cray]]"
 ---
 
-Librarian at [[Bookbinders Cray]] in [[Cutlass Cray]]. Offered the party a bespoke spell. Provided information about [[Lyngbakr]] and [[Saratan]].
+# Pleasance MacLenth
 
-In session 034, [[Red Caesar]] returned the [[Tomb of Lenth the Rugged]] to Pleasance MacLenth. Her family histories revealed that [[Lenth the Rugged]] returned to the Southport region for the final chapter of his life. She kept the tomb for display at Bookbinders Cray.
+Pleasance MacLenth is the librarian at [[Bookbinders Cray]] in [[Cutlass Cray]] and the granddaughter of [[Lenth the Rugged]]. She supplied lore to the party and accepted her grandfather's recovered remains.
+
+## Abilities
+
+Her library and family histories provided knowledge about [[Lyngbakr]], the [[Saratan]], and her grandfather's life. She also offered the party a bespoke spell.
+
+## Equipment and Resources
+
+- [[Tomb of Lenth the Rugged]] — Returned to her by [[Red Caesar]] and retained at Bookbinders Cray for display.
+
+## Campaign History
+
+Pleasance MacLenth helped the party identify Lyngbakr and understand the Saratan's ability to be mistaken for islands. [[canon/sessions/session_004]]
+
+Red Caesar later brought her the tomb recovered from [[Ninki Nanka]]'s hoard. She confirmed that Lenth the Rugged was her grandfather and consulted family histories describing the late-life romance that had drawn him back toward [[Southport]]. She accepted the remains and intended to display the tomb in her library. [[canon/sessions/session_034#Chunk 0000]]
+
+## Final Status
+
+Her last established appearance was at Bookbinders Cray, where the tomb had been returned to her family. No later transfer of the remains is recorded. [[canon/sessions/session_034#Chunk 0000]]

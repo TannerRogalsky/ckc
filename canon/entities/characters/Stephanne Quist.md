@@ -10,4 +10,6 @@ related:
   - "[[The Order of Seasons]]"
 ---
 
-A human who serves as a receptionist at [[The Academy]] in [[Brimbolyn]]. He greeted the party upon their arrival and asked them to state their business. He led them inside and introduced them to [[Keys Caeradel]] and [[Illidrielle Gandara]].
+# Stephanne Quist
+
+Stephanne Quist is a human receptionist at [[The Academy]] in [[Brimbolyn]], serving the institution of [[The Order of Seasons]]. He greeted the arriving party, asked their business, and led them inside to meet [[Keys Caeradel]] and [[Illidrielle Gandara]]. [[canon/sessions/session_014]]

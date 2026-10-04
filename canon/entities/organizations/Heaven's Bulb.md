@@ -6,19 +6,18 @@ sessions_appeared: ["002", "011", "013", "014", "019", "020", "021", "023", "025
 related:
   - "[[Red Caesar]]"
   - "[[Master Lee]]"
-  - "[[Keeper Rufus]]"
   - "[[Obvolvo Caelum]]"
 ---
 
 # Heaven's Bulb
 
-Heaven's Bulb was a human refuge and magical school associated with [[Master Lee]], [[Keeper Rufus]], and [[Red Caesar]]. Its teaching shaped Red Caesar's surviving powers and his desire to understand the world, although its institutional fate remains unsettled.
+Heaven's Bulb was a human refuge and magical school associated with [[Master Lee]] and [[Red Caesar]]. Its teaching shaped Red Caesar's surviving powers and his desire to understand the world, although its institutional fate remains unsettled.
 
 ## Identity and Background
 
 The conclave was active before and during [[The Cataclysm]]. Protective wards held back the surrounding waters, and maintaining its machinery taught Red Caesar how pressure could contain them. Its sheltered passageways and false ceiling remained vivid in his memories.
 
-Red Caesar's recollections showed Master Lee and Keeper Rufus contemplating the dangers beyond the refuge. Master Lee also asked what he hoped to become when he and the institution no longer needed one another.
+Red Caesar's recollections showed Master Lee warning Red Caesar about the dangers beyond the refuge. Master Lee also asked what he hoped to become when he and the institution no longer needed one another.
 
 ## Purpose and Principles
 
@@ -29,7 +28,6 @@ Departure was not uniformly an expulsion. [[Lodestar]] said Master Lee encourage
 ## Leadership and Membership
 
 - [[Master Lee]] — Teacher and guiding figure who counseled students about life outside. His leadership is established, while the record does not settle whether he founded the institution.
-- [[Keeper Rufus]] — Associated with Master Lee and the warnings about the world's dangers.
 - [[Red Caesar]] — Former student trained in abjuration, whose practical and magical education remained consequential after his departure.
 - [[Lodestar]] — Former divination student who followed Master Lee's advice and eventually reunited with her family in [[Southport]].
 

@@ -20,18 +20,53 @@ aliases:
   - Alamar Utgard
 ---
 
-A person placed in a magical coma (Sequestered) by [[Vlerro]]. Bound to [[Castle Kaedon]]. Was evacuating to [[Rasharan's Rock]] when captured.
+# Alamar
 
-After earlier feedings of [[Penumbra]], [[Alamar]] found he could range farther from [[Castle Kaedon]] and began developing [[Lyngbakr Lagoon]] with shelters, water storage, torches, and a chute for feeding stones to [[Lyngbakr]]. He reported that [[Broyish Empire]] airships had searched for the castle but had not found it. He explained that he and [[Lyngbakr]] appear bound by a shared leash to the location; when they near its limit, they grow sleepy as though a sequester-like effect takes hold, and both must return before losing their senses. He survived an owlbear encounter at the lagoon and ate bear eggs for a week. He learned Windwall as a counter to airships and acquired Continual Flame (paid for with a gold bar) to illuminate the island. He sensed a powerful presence in the old throne room of [[Castle Kaedon]], as if the castle had a new king who had taken [[Penumbra]] into a lair beneath the waves. [[Sigil]] later confirmed he is an ally to the party's cause, though he has not told every truth and will not.
+Alamar is the former ruler of [[Kaedon]] who helped replace its monarchy with a republic and later built the refuge at [[Lyngbakr Lagoon]]. Preserved through [[The Cataclysm]] to aid the sky's repair, he ultimately found peace in [[Arkadia]].
 
-In session 015, the party returned to [[Lyngbakr Lagoon]] to find the settlement expanded with huts, residents, and an oil-burning alarm path system. [[Lyngbakr]] had finished digesting the previous [[Penumbra]] feedings roughly three weeks prior. The party fed the drained Penumbra from [[Theotropa]] through the chute. Alamar had built a canvas dome covered with foliage that can shroud the island from aerial reconnaissance by the [[Broyish Empire]]. He revealed that a druid garden existed in his time as well, led by a kindly woman named [[Theotropa]] — the same individual who leads the Garden today, confirming she is a long-lived being who persisted through [[The Cataclysm]]. After feeding Lyngbakr, the island rose further, exposing twice as much of [[Castle Kaedon]] to explore. Alamar sensed that forces of hell and undead had taken residence in the castle, saying it is cursed by every kind of curse — physical, metaphysical, divine, and profane. He attributed this to [[Queen Caeradwyn]]'s curse and ambition, noting that after her death, female elves periodically claimed to be her reincarnation, spreading madness through [[Brimbolyn]] and beyond. Alamar chose to stay behind at the lagoon, saying he is "damned if I do and damned if I don't," and wished the party luck as they headed toward the risen castle.
+## Identity and Background
 
-In session 018, a dead noble woman questioned via [[Beryzoz's Teeth]] revealed that Alamar abdicated the old crown and his actions led to the creation of the senate, transforming [[Kaedon]] from a monarchy into a republic of syndicates — including groups like the Dancing Blades and the church. She described him as a great person who revolutionized the way of life in western Stark and wished she could have met him.
+The son of [[King Maniasis]], Alamar inherited a bloodline connected to [[Queen Caeradwyn]], with its entanglement of magic and corruption. [[Tyson Cromwell]] helped turn him away from his father's path. Alamar abdicated the crown and helped establish a senate involving local syndicates, including the [[Dancing Blades]], the church, and the Bloomshield family. A dead noble later praised his contribution to the republic and western Stark's way of life. See [[session_018#Chunk 0001]].
 
-In session 031, Alamar's settlement at [[Lyngbakr Lagoon]] had become a larger mixed refuge after the moon's destruction drove people from human, dwarven, and elven communities toward safety. Alamar explained that secrecy had become impossible and that the settlement had armed itself with harpoons against [[Broyish Empire]] balloons. When the Empire landed troops near the lagoon, Alamar tried to return to the settlement to protect its people. After [[Lyngbakr]] consumed enough [[Penumbra]] to repair the sky, Alamar joined [[Ceril]] on the turtle's ascent into the heavens, leaving Stark as the [[Hole in the Sky]] sealed beneath them.
+During the evacuation toward [[Rasharan's Rock]], [[Vlerro]] placed Alamar in a magical coma through Sequester. This preserved him into a time when the sky could be repaired, though he remained bound to [[Castle Kaedon]].
 
-In session 032, Alamar crossed the drained ocean floor of [[Arkadia]] with [[Ceril]] after the sky's restoration. He reunited with [[Vlerro]], [[Igden]], and [[Tyson Cromwell]], dead companions and mentors from old [[Kaedon]], and chose to remain with them for the time being so they could catch up. With his mission fulfilled, he treated his former world as part of the past and settled into Arkadia's dreamlike paradise while Ceril continued to the goddesses. No magical inability to return was stated; his decision appeared voluntary.
+## Personality and Motivations
 
-## Session 038
+Alamar sought to protect the lagoon's inhabitants and improved their refuge despite his confinement. He declined to join the castle expedition, believing his inherited curses would make him a hindrance. He warned that [[Genesis Mundi]] might undo terrible losses while erasing good that had arisen afterward, admitting he did not fully understand its scope.
 
-Alamar greeted [[Vokenar]] in [[Arkadia]], accompanied by [[Tuna]]. He welcomed the peaceful life there after a difficult life on [[Stark]] and credited his eventual trust in the party. He understood that the [[Demi-Spell]] would not be cast and expected to remain until the natural renewal of the world.
+He kept parts of his history and powers private. [[Sigil]] confirmed that he was an ally who had not lied, while warning that he had not disclosed every truth and would not. In Arkadia, Alamar described his earlier life as marked by fighting, confusion, and misplaced trust; trusting the party had finally helped him gain wisdom.
+
+## Relationships
+
+- [[Tuna]] — His sphinx companion, sharing life at the lagoon and later accompanying him in Arkadia.
+- [[Lyngbakr]] — His partner in the sky's restoration. Alamar suspected they shared a magical boundary; Lyngbakr confirmed that leaving Alamar behind during the ascent would kill him.
+- [[Ceril]] — Accompanied him into Arkadia after their mission. Alamar thanked him before choosing to remain with his old companions.
+- [[Vlerro]] — Preserved him through Sequester and reunited with him in Arkadia.
+- [[Igden]] — Parliamentarian of Kaedon's senate and an old companion encountered again in Arkadia.
+- [[Tyson Cromwell]] — Father figure whose guidance helped him become different from King Maniasis.
+- [[Vokenar]] — Supplied and taught him Continual Flame for the lagoon's lighting. Alamar later welcomed him home to Arkadia.
+
+## Abilities
+
+Alamar could use Wind Wall against airships and learned Continual Flame from Vokenar to light the settlement without smoky fires. He sensed powerful and hostile presences in Castle Kaedon; his impression of a new king holding [[Penumbra]] near its old throne room was a hunch rather than a verified discovery.
+
+His bond to the castle both sustained and restricted him. Penumbra feedings enlarged the area he could explore, but nearing its limit brought sleepiness resembling Sequester, forcing him back before losing his senses. He suspected Lyngbakr faced the same limit. These restrictions describe his life before Arkadia; no later magical inability to return was stated.
+
+## Equipment and Resources
+
+- [[Lyngbakr Lagoon]] — Former refuge, developed with shelters, water storage, a feeding chute, magical torches, an oil-burning alarm path, and a foliage-covered canvas dome concealing it from aerial reconnaissance. Refugees later expanded it and armed watchtowers with harpoons. Alamar left during the imperial attack.
+- [[Castle Kaedon]] — Former home and center of his magical confinement. He brought books and household objects from it to furnish the lagoon.
+
+## Campaign History
+
+The party discovered Alamar in his magical coma while seeking Rasharan's Rock. Once active at the lagoon, he used freedom gained from earlier Penumbra feedings to build shelter and open the cave approach. He survived encounters with fiends and an owlbear, whose eggs fed him and Tuna. He reported eastern airships searching for the castle, believing them to belong to the [[Broyish Empire]] and to have failed to locate it; their search results were not independently confirmed. The party left [[Rella Kel'Navvi]], [[Kilosaurus]], and deckhands to help him build and defend the refuge. See [[session_007]] and [[session_013#Chunk 0003]].
+
+On the next return, the party found huts, residents, and improved defenses. Lyngbakr had finished digesting earlier feedings; the drained Penumbra obtained from [[Theotropa]] raised the island farther, exposing more of the castle. Alamar recalled a kindly druid named Theotropa leading a sanctuary in his own time; the conversation suggested continuity without itself proving the identity. He sensed fiends and undead in the risen castle and attributed its physical, metaphysical, divine, and profane curses to Queen Caeradwyn's ambition. He recalled women claiming to be her reincarnation after her death and spreading madness through [[Brimbolyn]] and beyond. He stayed to protect the lagoon while the party explored. See [[session_015#Chunk 0004]].
+
+After the moon's destruction, refugees from human, dwarven, and elven communities made secrecy impossible. Alamar installed harpoons against imperial balloons and feared a naval assault. When troops landed, he turned back to protect the inhabitants. Lyngbakr collected him before ascending with Ceril, repairing the [[Hole in the Sky]] with the consumed Penumbra. Alamar left Stark as the last opening sealed. See [[session_031#Chunk 0003]] and [[session_031#Chunk 0004]].
+
+In Arkadia, Alamar crossed the drained ocean basin with Ceril and reunited with Vlerro, Igden, and Tyson Cromwell. His mission fulfilled, he voluntarily chose to stay and catch up with them while Ceril continued toward the goddesses, finally leaving the old world's trials behind. See [[session_032#Chunk 0000]].
+
+## Final Status
+
+Alamar remained peacefully in Arkadia with Tuna nearby and greeted Vokenar's return. He understood that the [[Demi-Spell]] would not be cast and expected to remain until the world's natural renewal. That expectation was his stated future rather than an event shown to occur. See [[session_038#Chunk 0002]].

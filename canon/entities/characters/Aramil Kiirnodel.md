@@ -18,6 +18,24 @@ related:
   - "[[Queen Caeradwyn]]"
 ---
 
-Aramil Kiirnodel took power in [[Brimbolyn]] after [[Queen Caeradwyn]] fell, becoming the continent's former leader before [[The Cataclysm]]. He is also the primary force driving the [[Demi-Spell]] project forward within [[The Order of Seasons]], described as "mostly the one behind keeping the Demi-Spell and its power growing." Related to [[House Kiirnodel]]. Uncle of [[Rizolvir Kiirnodel]], the current leader of the house.
+# Aramil Kiirnodel
 
-He was also a painter, best known for his landscape artwork [[The Jewel of Alfheimer]], which depicts Brimbolyn as a lush, jungled continent with no visible water. The painting was discovered by [[Domyx]] within [[Castle Kaedon]], suggesting Aramil may have had connections to the castle or that the artwork was looted and stored there before the Cataclysm.
+Aramil Kiirnodel was a leader of [[Brimbolyn]] and an important supporter of [[The Order of Seasons]]' [[Demi-Spell]] project. His surviving landscape, [[The Jewel of Alfheimer]], preserved an image of the continent before [[The Cataclysm]].
+
+## Identity and Background
+
+Aramil Kiirnodel took power after [[Queen Caeradwyn]] fell and led Brimbolyn before the Cataclysm. He belonged to [[House Kiirnodel]] and was the father of [[Rizolvir Kiirnodel]], identified as one of his sons in [[chunks/session_035/chunk_0002]].
+
+## Abilities
+
+He was a painter. The Jewel of Alfheimer depicted Brimbolyn as a lush, jungled continent without the floodwater that later surrounded it.
+
+## Campaign History
+
+During the party's visit to the Order, Aramil Kiirnodel was described as the principal force keeping the Demi-Spell and its power growing. See [[session_014#Chunk 0003]].
+
+[[Domyx]] later uncovered his signed and framed landscape in [[Castle Kaedon]], and the party recovered it. Its presence suggested a connection to the castle or an earlier transfer of the artwork, but did not establish how it came to be there. See [[session_018#Chunk 0002]].
+
+## Final Status
+
+Aramil Kiirnodel's personal fate and later whereabouts were not established. Rizolvir Kiirnodel led the house during the party's dealings with it and ultimately became king after the Demi-Spell was erased; those outcomes do not establish a separate final role for Aramil Kiirnodel.

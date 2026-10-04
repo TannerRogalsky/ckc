@@ -13,46 +13,62 @@ related:
   - "[[Spelljammer]]"
 ---
 
-Former captain of [[The Opal]], succeeded by [[Kerben]]. A gaudy orc who is very friendly with his crew and willing to go to great lengths (even "helping an elf") to establish himself and his ship as a force to be reckoned with. Hates [[The Order of Seasons]], describing them as "mostly elves, mostly jerks." The ship may have been inherited or stolen.
+# Obould
 
-The [[Orkland Pin of Courage]], awarded for saving southern orc tribes, was stolen by [[Xarag]], recovered by the party, and returned to Obould after his rescue. He later presented [[Obould's Wedding Band]] to [[Lady Jacinthe]] for their renewed engagement.
+Obould is an orc pirate and former captain of [[The Opal]], succeeded by [[Kerben]]. After surviving imperial captivity, he retired from the ship to marry [[Lady Jacinthe]] and share her commitment to [[The League of New Stark]].
 
-After the Darvinblast arc, [[Obould]] ordered [[The Opal]] reinforced with a laminate deck so it could carry [[Kilosaurus]] and heavy [[Penumbra]]. He supported turning [[Lyngbakr Lagoon]] into a second base of operations, leaving crew there to help [[Alamar]] develop and defend it.
+## Identity and Background
 
-In session 015, while the rest of the party was ashore, Obould discussed the crew's new direction with [[Kerben]] — whether chasing [[Penumbra]] for the Order was better than their old piracy days. He also summoned [[Domyx]] to his quarters and formally named him as heir to [[The Opal]] should anything happen to him, recording the decision in his private logbook. That night, Obould was injured during a hobgoblin pirate boarding attack but was protected by [[Red Caesar]]'s Resilient Sphere and managed to stabilize an injured deckhand.
+Gaudy in appearance, Obould built his life around piracy, adventure, and making his ship a force to be reckoned with. Whether he inherited or stole The Opal was never established. Earlier service saving southern orc tribes earned him the [[Orkland Pin of Courage]].
 
-After the battle, Obould proposed rafting the surviving hobgoblin out to sea as a message to their fleet — a calling card from [[The Opal]]. He then sent the party aboard the [[Gheister]] to chase down the hobgoblins' second ship, [[The Hideous Truth]], instructing them not to destroy it. The capture gave Obould’s company a third vessel, but insufficient crew prevented it from immediately joining the active fleet.
+## Personality and Motivations
 
-The party decided they lacked resources to crew a third ship and hid the vessel in a jungled grotto, renaming it [[The Hideous Truth]]. Obould agreed, noting it would be hard to travel with so many ships and that they could sell it later for 30-40 pounds of gold if needed. The party sailed to [[The Garden]], where Obould was happy to be around and found things to do with the crew.
+He was friendly with his crew and prepared to cross old prejudices, including cooperating with elves, to improve the ship and its standing. He distrusted [[The Order of Seasons]], dismissing its members as unpleasant elves. The party's arrival changed his outlook from living for the moment toward trusting a purpose he could not personally hear from the gods.
 
-In session 019, [[Red Caesar]] learned from [[Lady Jacinthe]] that Obould and Jacinthe were once to be wed for shared ambition rather than romance. Their paths diverged when Jacinthe chose to build [[The League of New Stark]] while Obould pursued adventure and piracy. Obould gave Jacinthe an oath that if she would die, he would die first; Jacinthe described this as him cursing himself with the oath and cursing her with sorrow.
+His loyalty encompassed both the crew and Lady Jacinthe. He risked his freedom for her yet opposed supplying imperial enemies with Penumbra to buy his release. After his rescue, he acknowledged that voyages had also allowed him to avoid responsibilities elsewhere and chose a life beyond the ship.
 
-In session 021, Obould abandoned [[The Opal]] without warning. He told the crew he was taking a longboat toward [[Castle Kaedon]] to help the party, but instead sailed east. [[Vokenar]] scryed on him and found him far inland in the mountains of the [[Broyish Empire]], in manacles with his hands fixed behind his back. He was being escorted up stone stairs through angular archways by armed humans in white and gold, led by [[Vizier Jade]]. Obould actively resisted the scrying. [[Red Caesar]] identified Vizier Jade and the location as Broy, and suspected Obould's departure may be tied to his oath to [[Lady Jacinthe]]: if harm came to her, he was sworn to go in her place.
+## Relationships
 
-## Session 022
+- [[Lady Jacinthe]] — His former fiancée and eventual wife. Their ambitions initially separated them when his violence hindered her alliances. He promised to take her place in danger and die before her; she described him as cursing her with sorrow and herself as cursing him with that oath. Their renewed engagement committed them to leading the League together, and they later had half-orc children.
+- [[Kerben]] — His long-serving officer, trusted rescuer, and permanent successor as captain. Obould later gave him the Spelljammer and helped reconnect him with [[Theo Harvey]].
+- [[Domyx]] — The companion he designated as heir to The Opal in case of his death, recognizing his ability to guide and unite the crew. Domyx exchanged places with him during the rescue, becoming a prisoner so Obould could escape. The earlier succession provision preceded Obould's later resignation and appointment of Kerben.
+- [[Red Caesar]] — A loyal companion who helped protect and rescue him and regarded him as the head of his family after leaving [[Heaven's Bulb]]. Obould's retirement changed that bond without ending it.
+- [[Vizier Jade]] — His imperial captor, who humiliated him and used his life to coerce Lady Jacinthe into supplying Penumbra.
 
-[[Red Caesar]] and [[Ceril]] visited [[The White Drake]] to learn what had happened to Obould. [[Lady Jacinthe]] appeared inconsolable and declared him deceased through [[Damien Ouranous]], saying "There is no more Captain Obould. He is dead and gone." Invoking his name reportedly caused Jacinthe to weep extensively. This deepened Red Caesar's suspicion that Obould's capture was tied to his oath to die in Jacinthe's place.
+## Abilities
 
-Later in session 022, [[Ceril]]'s successful scrying on [[Lady Jacinthe]] revealed that [[Vizier Jade]] was using Obould as leverage against Jacinthe. Vizier Jade confirmed Obould was safe but living, being fed and in "not the best of moods." She gave Jacinthe a one-month ultimatum to provide the [[Broyish Empire]] with [[Penumbra]] or information leading to it. Every piece of useful intelligence might extend the deadline, but after a month Vizier Jade could not guarantee Obould's survival. This gave the party approximately 21 days remaining (after accounting for travel time) to act.
+Obould combined seamanship and leadership with practical care for his people. During the hobgoblin boarding attack he sheltered an injured deckhand and saved the crew member's life while protected by Red Caesar's magic.
 
-## Session 023
+## Equipment and Resources
 
-In the imperial palace, [[Vizier Jade]] brought Obould before the party encased in a resilient sphere. He was alive but manacled, hunched over, and emaciated — clearly in poor spirits and enduring indignity. Vizier Jade cast a spell forcing him to dance in place as entertainment, humiliating him further. Obould had enough control to turn his face away from the party, refusing to let them see him in this state. When Vizier Jade ended the spell and prepared to return him, Obould managed to speak briefly: he warned the party not to give Vizier Jade any penumbra, explaining its purpose, before his mouth sealed over with flesh and he was hauled away. Vizier Jade revealed that [[The League of New Stark]] had been giving her penumbra, extending Obould's stay of execution to three months.
+- [[The Opal]] — His former command and the center of his pirate company; he permanently entrusted its captaincy to Kerben.
+- [[Orkland Pin of Courage]] — A keepsake of his service to southern orc tribes, stolen by [[Xarag]], recovered by the party, and returned to him after his rescue.
+- [[Obould's Wedding Band]] — Recovered with the pin and later presented to Lady Jacinthe when she accepted his renewed proposal.
+- [[Spelljammer]] — Supplied by southern orcish guilds and kept until The Opal could withstand its power, then given to Kerben.
+- [[Lyngbakr Lagoon]] — Supported as a second base for the company, with crew left to assist [[Alamar]] in its development and defense before the lagoon's destruction.
 
-## Session 030
+## Campaign History
 
-During [[Red Caesar]]'s forced dream, [[Emperor Shen]] told [[Vizier Jade]] that they had a more useful bargaining chip in the real world: Obould. Emperor Shen threatened that Obould would not live to see another dawn. The threat renewed the urgency of Obould's rescue even as the party was trapped on [[Hole on Wheels]].
+### A changing ship and purpose
 
-## Session 031
+After the liberation of [[Darvinblast]], Obould reinforced The Opal's deck so it could carry [[Kilosaurus]] and heavy [[Penumbra]], and supported the development of Lyngbakr Lagoon. [[canon/sessions/session_013]]
 
-[[Emperor Shen]] and [[Vizier Jade]] brought Obould to [[Lyngbakr Lagoon]] bound, gagged, and caged, using him as leverage to demand the [[Penumbra]]. [[Kerben]] shot open Obould's restraints, and [[Domyx]] used cloud jaunt to exchange places with him. Once freed, Obould ordered Kerben to lead him back to [[The Opal]] immediately, warning that greater dangers were unfolding.
+He discussed the move from piracy to divine errands with Kerben, admitting that he had to trust the companions who claimed to understand the gods' guidance. He then privately named Domyx as heir in the event of his death and recorded the decision in his logbook. [[canon/sessions/session_015#Chunk 0000]]
 
-## Session 034
+During a hobgoblin boarding attack, Red Caesar's protective sphere gave Obould time to save a fallen deckhand. After the defense, he proposed setting a surviving attacker adrift as a warning, without establishing that survivor's fate. He sent the party aboard the [[Gheister]] to capture the enemy galley intact. They succeeded but lacked enough crew to operate a third vessel, so they concealed it in a jungled grotto and named it [[The Hideous Truth]]. Obould agreed to retain it as a reserve that could be sold later. He and the crew subsequently found occupation during the visit to [[The Garden]]. [[canon/sessions/session_015]]
 
-At [[The White Drake]], Obould learned that the party had secretly placed [[Antumbra]] in the Penumbra sent to the [[Broyish Empire]]. He permanently resigned as captain of [[The Opal]], naming [[Kerben]] as his successor. Obould then proposed to [[Lady Jacinthe]] with [[Obould's Wedding Band]]. She accepted, and they agreed to lead [[The League of New Stark]] together.
+### Captivity and rescue
 
-## Session 038
+Obould left The Opal without warning, claiming he was taking a longboat toward [[Castle Kaedon]] to help the party but sailing east instead. [[Vokenar]]'s scrying found him manacled in Broy, escorted by imperial soldiers and Vizier Jade. Red Caesar suspected a connection to his oath to Lady Jacinthe; his precise route into captivity was not established. [[canon/sessions/session_021]]
 
-Obould married [[Lady Jacinthe]] aboard [[The White Drake]], with the surviving adventurers and guests from [[Broy]] present. In time, they had half-orc children.
+Lady Jacinthe publicly treated him as dead, but Ceril's scrying exposed her negotiations with Vizier Jade. The vizier guaranteed his safety for only a month and used information and Penumbra deliveries to prolong his life. When the party reached the palace, he was gaunt, manacled, and magically compelled to dance before them. He warned them to give the vizier nothing, but his mouth sealed before he could finish explaining why. Further League deliveries had bought him roughly three months. [[canon/sessions/session_022#Chunk 0001]] [[canon/sessions/session_023#Chunk 0002]]
 
-He confirmed [[Kerben]] as [[The Opal]]'s permanent captain and gave him a [[Spelljammer]], a crystalline device received from southern orcish guilds and kept until the ship could withstand its power. He also introduced Kerben to the grateful [[Theo Harvey]], who proposed reuniting [[40 Carats]].
+[[Emperor Shen]] renewed the threat against him during an intrusion into Red Caesar's dream. The emperor and Vizier Jade then brought him bound, gagged, and caged to Lyngbakr Lagoon to demand Penumbra. Kerben broke his restraints, and Domyx exchanged places with him. Obould withdrew with Kerben to The Opal, warning that the danger exceeded what they understood. [[canon/sessions/session_030#Chunk 0003]] [[canon/sessions/session_031#Chunk 0004]]
+
+### Retirement and reunion
+
+At [[The White Drake]], Obould challenged Lady Jacinthe over risking the world to save him, then admitted he would have made the same choice for her. Red Caesar revealed the [[Antumbra]] concealed in the Penumbra surrendered to the Empire. Obould resigned permanently from The Opal, appointed Kerben captain, and proposed to Lady Jacinthe with his recovered wedding band. She accepted. [[canon/sessions/session_034#Chunk 0000]]
+
+## Final Status
+
+Obould married Lady Jacinthe aboard The White Drake near the former lagoon. They later had half-orc children. At the wedding he confirmed Kerben's permanent captaincy, gave him the Spelljammer, and introduced the grateful Theo Harvey, whose proposal helped revive [[40 Carats]]. Obould's final commitment was family life and shared leadership of the League. [[canon/sessions/session_038#Chunk 0002]]

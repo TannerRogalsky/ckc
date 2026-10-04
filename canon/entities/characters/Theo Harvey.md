@@ -20,42 +20,50 @@ related:
   - "[[Obould]]"
 ---
 
-A [[Harengon]] traitor who betrayed his people by revealing the location of their secret underground warrens to the [[Broyish Empire]]. He formerly worked with the Empire's military forces. He is described as "wicked to the end" and a pirate through and through.
+# Theo Harvey
 
-## Plot Events
+Theo Harvey is a [[Harengon]] pirate who betrayed his people's hidden warrens to the [[Broyish Empire]]. A former imperial collaborator, he survived capture and two escapes before helping [[Kerben]] revive [[40 Carats]].
 
-In session 022, [[David Harvey]] explained that Theo Harvey told imperial forces where the Harengon's old den was located, allowing imperial humans to move in on the island above the warrens. Theo was motivated by power within the Empire, money, and pleasure. He apparently modeled his ambitions after his relative [[Jack Harvey]], the creator of [[The Carrot Cake]], initially seeing himself as a traveling minstrel before going down the "dark path of piracy."
+## Identity and Background
 
-The party traveled to the island north of the elven lands where Theo was stationed with imperial scouts and marshals. The imperial forces ambushed the party from invisibility. After a battle, [[Red Caesar]] trapped Theo and the party captured him alive. The remaining imperial forces attempted to flee by longboat but were stopped by [[Ceril]] and [[Vokenar]], killing most of them.
+A relative of [[Jack Harvey]] and cousin of [[David Harvey]], Theo Harvey initially imagined himself a traveling minstrel before pursuing piracy. Jack Harvey's example shaped his ambitions and his knowledge of [[The Carrot Cake]].
 
-While captive, Theo revealed that the [[Broyish Empire]] has a significant military presence in the region. He claimed that [[David Harvey]]'s plan to move the Harengon into the underground warrens was doomed since the waters keep rising. He also revealed that [[Jack Harvey]]'s final project — [[The Carrot Cake]] — is "alive and well," implying the amusement park or its legacy still exists somewhere.
+## Personality and Motivations
 
-Theo tried to persuade the party to take him to the Empire first rather than turning him over to the League, arguing he could serve as an inside contact and that the party would be better armed with knowledge about the Empire. The party skipped [[Cutlass Cray]] and continued east toward the [[Broyish Empire]] with Theo as prisoner, weighing his value as a bargaining chip against the risk of him escaping or manipulating the crew.
+David Harvey attributed his betrayal to imperial power, money, and pleasure. Theo Harvey repeatedly bargained with captors and allies to preserve his freedom, using valuable information as his principal leverage. His later gratitude to Kerben led to a constructive proposal for the surviving performers.
 
-The League wants Theo captured alive for interrogation about what he revealed to the Empire. A large gold bounty has been assembled for his safe return.
+## Relationships
 
-## Session 023
+- [[David Harvey]] — His cousin, who sought his capture alive after the betrayal of the [[Harengon Warrens]]. David Harvey and [[Lady Jacinthe]] assembled a bounty so the League could interrogate him.
+- [[Jack Harvey]] — His relative and model for a life spanning performance and piracy; knowledge of Jack Harvey's final project made Theo Harvey useful to the party and Empire.
+- [[Kerben]] — Secretly freed him from The Opal in exchange for access to The Carrot Cake and later saved him from imperial guards. Theo Harvey repaid that help by gathering performers for 40 Carats.
+- [[Domyx]] — Tried to negotiate with him while confined aboard the ship, identifying him as a possible sympathetic intermediary.
+- [[Broyish Empire]] — His former employer and beneficiary of his betrayal, later his captor when it forced him to guide troops into The Carrot Cake.
 
-During the voyage to [[Broy]], Theo approached [[Domyx]] during his guard duty and attempted to negotiate better accommodations. He claimed the party was using him as a bargaining chip and that Domyx would be the one person willing to help.
+## Equipment and Resources
 
-Theo revealed significant information about [[The Carrot Cake]]: it was powered by [[Penumbra]] before the sky broke, and it is a massive maze of illusions and arcane traps. [[Vizier Jade]] had sent her companion [[The Tyrant]] to find the Carrot Cake, and the Tyrant never returned. Theo noted that if one wound up inside the Carrot Cake, one would not come back either. He implied the Empire wanted this information and that executing him was merely a display of force.
+- [[Gheister]] — Granted by Kerben as part of their escape bargain; Theo Harvey used it to leave [[The Opal]].
+- [[The Carrot Cake]] — Knowledge of its location, seasonal access, traps, and Penumbra vault supported his bargains.
+- [[40 Carats]] — Surviving performers he gathered for the troupe's revival under Kerben.
 
-After the party returned to [[The Opal]] following their audience at the imperial palace, [[Vokenar]] checked on Theo during his night watch. Theo was gone from his cage in the brig — vanished without explanation. The party did not know when or how he escaped.
+## Campaign History
 
-## Session 024
+### Betrayal and capture
 
-It was later revealed that [[Kerben]] had secretly freed Theo. While serving as acting captain of [[The Opal]] while [[Obould]] was imprisoned, Kerben had been struggling with the managerial duties Obould had handled so easily. During one evening, Theo approached Kerben in the brig and struck a bargain: in exchange for his freedom and the [[Gheister]], he would provide the exact location and access window for [[The Carrot Cake]].
+Theo Harvey disclosed the Harengon's underground den to the Empire, allowing its forces to occupy the island above it. The party found him stationed there among imperial scouts and marshals. [[Red Caesar]] captured him alive after the invisible defenders ambushed the companions, and the party stopped the remaining troops' retreat. [[canon/sessions/session_022#Chunk 0002]]
 
-Theo revealed that [[Jack Harvey]] had collected [[Penumbra]] shards when the sky first broke, hiding them in the Carrot Cake as a safeguard for future generations. The Carrot Cake exists as a demi-plane that only opens seasonally — from the first day of the fifth moon through the last day of the ninth moon. He promised a map and the exact date.
+As a prisoner, he described the Empire's regional strength, questioned whether the warrens could remain safe as waters rose, and disclosed that The Carrot Cake still existed. He urged the party to take him east rather than surrender him to the League, offering himself as an inside contact. They continued toward [[Broy]] with him confined aboard The Opal.
 
-Kerben arranged the escape by giving [[Mobley]] a carrot tea recipe laced with sedative properties, which dulled the crew during their evening in the mess hall. Kerben staged the brig to look like a violent escape, then let Theo board the [[Gheister]] under cover of fog and darkness. Theo left behind a map marked with the Carrot Cake's location and a note thanking the party for not turning him over to the League.
+### The escape bargain
 
-When the rest of the party returned, they discovered Theo gone and the [[Gheister]] missing. [[Domyx]] was the first to investigate the empty brig, finding pry marks and tooth marks on the wooden posts. [[Raxxy]] was found delirious from the sedated carrot tea, having been on watch. [[Domyx]] discovered the map and note Theo had left, marking the Carrot Cake's location on the rear side of the central mountain of [[Thalasia]].
+During the voyage, he sought better treatment from Domyx and revealed that The Carrot Cake had used Penumbra before the sky broke. Its illusions and traps had defeated [[Vizier Jade]]'s search: her servant [[The Tyrant]] had gone in and never returned. The party later found his cage empty, initially without knowing how he had escaped. [[canon/sessions/session_023]]
 
-## Session 031
+The missing episode was Kerben's secret bargain. In exchange for freedom and the Gheister, Theo Harvey supplied the park's location and access window: the demi-plane opened from the first day of the fifth moon through the last day of the ninth. Jack Harvey had hidden Penumbra there as a safeguard for later generations. Kerben arranged sedating carrot tea for the crew, staged signs of a violent escape, and let him depart in fog and darkness. Theo Harvey left a map to the rear of [[Thalasia]]'s central mountain and a note thanking them for withholding him from the League. [[canon/sessions/session_024]]
 
-The [[Broyish Empire]] recaptured Theo and forced him, manacled, to guide an imperial force into [[The Carrot Cake]]. Theo tried to mislead his captors by suggesting the party had already looted the vault, but [[Fharan]] kept pressing him toward the inner sanctum door. During the battle at the door, [[Kerben]] freed Theo with Knock and handed him a balloon feather token. Theo escaped upward, telling Kerben that the [[Penumbra]] was behind the door and that he would hide in the dwarven lands.
+### Imperial recapture and a second rescue
 
-## Session 038
+The Empire recaptured Theo Harvey and forced him, manacled, to guide its troops into the park. He tried to mislead them into believing the vault had already been looted, but [[Fharan]] pressed onward. During the battle at the inner door, Kerben freed him with Knock and supplied a balloon feather token. Theo Harvey escaped upward, confirmed that Penumbra lay behind the door, and said he meant to hide among the dwarves. The scene did not establish his arrival there. [[canon/sessions/session_031#Chunk 0000]] [[canon/sessions/session_031#Chunk 0001]]
 
-At [[Obould]] and [[Lady Jacinthe]]'s wedding, Theo Harvey thanked [[Kerben]] for saving him from imperial guards at [[The Carrot Cake]] and giving him a balloon to escape. Theo Harvey had befriended Obould and gathered surviving [[40 Carats]] performers from [[Cutlass Cray]] and [[The Garden]]. Kerben accepted his proposal to rebuild the troupe.
+## Final Status
+
+Theo Harvey attended Obould and Lady Jacinthe's wedding and thanked Kerben for the rescue. He had befriended Obould and gathered surviving 40 Carats performers from [[Cutlass Cray]] and [[The Garden]]. Kerben accepted his proposal to rebuild the troupe. The record establishes that collaboration without resolving the earlier League bounty or documenting a formal pardon. [[canon/sessions/session_038#Chunk 0002]]

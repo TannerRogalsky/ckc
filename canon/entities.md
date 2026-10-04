@@ -10,7 +10,7 @@
 ## Crew & Allies
 - [[Obould]] — Retired captain who marries Lady Jacinthe and gives Kerben a Spelljammer for The Opal
 - [[Raxxy]] — The Opal's navigator and lookout, who announces arrival at Gaokerena
-- [[Otto]] — Ship carpenter and Funnel guide who accompanied the party partway into the deep caverns
+- [[Otto]] — Warforged ship carpenter described as having developed a soul; helped excavate the Funnel and guided part of the descent.
 - [[Brim the Bullywog]] — The Opal’s tinkerer, tending its dust-filled bilge while the ship sails the Gray Wastes
 - [[Gammix]] — Dwarf fighter from the Steelfend Clan, recruited ally
 - [[Tammix]] — Dwarf fighter and brother of Gammix, recruited ally
@@ -19,7 +19,7 @@
 - [[Ebbie Indorra]] — Southport healer, Trent Indorra's wife, and sister of Lodestar
 - [[Ulrich Fjoller]] — Domyx's friend, freed prisoner, and expectant father who left The Opal with Lorelai Lapis-Acathian
 - [[Yalet Mora]] — Stone-bodied crew member who helped keep The Opal afloat during the imperial naval attack
-- [[Aramil Kiirnodel]] — Took power after Queen Caeradwyn fell; primary force behind the Demi-Spell and painter of The Jewel of Alfheimer
+- [[Aramil Kiirnodel]] — Former Brimbolyn leader, Rizolvir Kiirnodel's father, Demi-Spell supporter, and painter of The Jewel of Alfheimer
 - [[Mobley]] — The cook aboard The Opal; kept the crew fed through the imperial attack aftermath
 - [[Vorgan of the Stage]] — Cutlass Cray actor and new performer aboard The Opal
 - [[Lyngbakr]] — Speaking Saratan ally who repairs the sky and returns to Arkadia's recovering oceans
@@ -28,10 +28,8 @@
 - [[Tuna]] — Speaking sphinx and Alamar's companion, reunited with Vokenar in Arkadia at campaign end
 
 ## NPCs
-- [[Farron Acathian II]] — Emperor Shen's cloud titan lieutenant and Domyx's relative, defeated again at Axis Mundi
+- [[Farron Acathian II]] — Emperor Shen's cloud titan lieutenant and Domyx's relative, spared near Broy and killed by Domyx at Axis Mundi
 - [[Zohai Lapis]] — Emperor Shen's frost titan lieutenant, spared near Broy and later killed by Kerben at Axis Mundi
-- [[Dunkelkalt]] — The Vanir That Eats The Sun And Moon; opposite of the Aesir alongside Entropie, slain by Kerben at Axis Mundi
-- [[Entropie]] — Defeated Vanir whose final Wish resurrects Emperor Shen as the last Vanir
 - [[Domyx I]] — Ancient Vanir contacted by Red Caesar; distinct from Emperor Shen's resurrected final form
 - [[Domyx II]] — Titan ancestor whose gold amphora and diamond-set coronet were recovered beneath the Funnel
 - [[Lorelai Lapis-Acathian]] — Domyx's sister and expectant mother who left The Opal with Ulrich
@@ -41,12 +39,11 @@
 - [[Emperor Shen]] — Emperor resurrected as the last Vanir, sustained by four named stelae before his destruction at Axis Mundi
 - [[Fharan]] — Masked human seneschal of the Broyish Empire who died after revealing Starfall's next target
 - [[Master Lee]] — Heaven's Bulb mentor known to Red Caesar, Vizier Jade, and Qian Hu
-- [[Keeper Rufus]] — Figure at Heaven's Bulb alongside Master Lee
 - [[Lady Jacinthe]] — League leader who marries Obould aboard The White Drake and later has children with him
 - [[Ema-Tep]] — Yuan-Ti second-in-command and transportation chief for The League of New Stark
-- [[Damien Ouranous]] — Fallen aasimar now in Arkadia, hoping to train at Academia Lux
+- [[Damien Ouranous]] — Former League envoy killed by Emperor Shen; in Arkadia, intends to train at Academia Lux
 - [[Muudeep]] — Figure at The Garden who trades art pieces for attunable magic items
-- [[Theotropa]] — Garden druid who invites Ceril to help restore lands exposed by the retreating oceans
+- [[Theotropa]] — Garden leader who aided the sky mission and recruited Ceril for restoration; continuity with Alamar’s earlier namesake remains uncertain.
 - [[Boril Erendel]] — Rogue Demi-Spell architect killed at House Erendel after assuming a Larethian form
 - [[The Wonder Hulk]] — Proprietor of The W. H. Boutique in Cutlass Cray
 - [[Gilder Savar]] — Lich proprietor of Savar Brews and former traveling companion of Ceril and Vanzia Vynnfae
@@ -71,14 +68,12 @@
 - [[Stephanne Quist]] — Human receptionist at The Academy
 - [[Keys Caeradel]] — Demi-Spell author who leaves elven society seeking a new purpose after surrendering the completed spell
 - [[Illidrielle Gandara]] — Deceased Demi-Spell collaborator reunited with Vokenar in Arkadia after the world is saved
-- [[Clockwork]] — Member of the Dancing Blades thieves guild, imprisoned in Castle Kaedon
+- [[Clockwork]] — Dancing Blades member named in Castle Kaedon's political records and prisoner list; eventual fate unestablished
 - [[David Harvey]] — Harengon working with The League to reclaim harengon territory
 - [[Theo Harvey]] — Former imperial collaborator who repays Kerben by reuniting the surviving 40 Carats performers
 - [[Jack Harvey]] — Founder of 40 Carats and The Carrot Cake, whose grave Kerben visits after the oceans recede
 - [[Feronia Caeradel]] — Keys Caeradel's mother, carrying the crystal containing her former husband's soul
 - [[Rizolvir Kiirnodel]] — Elven king who succeeds the Demi-Spell project with a monarchy responsive to its subjects
-- [[Solar Flare]] — Tall woman with shining light seen by Vokenar 60 years ago
-- [[Deep World Wizard]] — Mage in [[Darvinblast]] allied with an [[Etten]] champion
 - [[Queen Caeradwyn]] — Former elven queen whose fall enabled Aramil Kiirnodel's rise and preceded elven uprisings and the Cataclysm
 - [[Vanzia Vynnfae]] — High elf paladin revolutionary who escaped Brimbolyn with Ceril; now operating in the Broyish Capital alongside Naomi Ue
 - [[Naomi Ue]] — Underground fixer in the Broyish Capital who absolves criminal records through magically stamped documents
@@ -87,26 +82,29 @@
 - [[Ninki Nanka]] — Ancient green dragon freed from the Penumbra-born curse that caused Mana Sickness
 - [[Lodestar]] — Heaven's Bulb diviner, Ebbie Indorra's sister, and Red Caesar's former colleague
 - [[Rahmadi]] — Legendary goblin rogue who led southern desert refugees to safety during the Cataclysm
-- [[Qian Hu]] — Ancient-world survivor and Dawn Market relic merchant who knew Master Lee before the Cataclysm
+- [[Qian Hu]] — Dawn Market relic merchant claiming an ancient soul across seventeen forms and a prior acquaintance with Master Lee.
 - [[Geoffrey the Younger]] — Dawn Market gunsmith who crafted three reusable magical bullets for Kerben
 - [[Courteous Cam]] — Dwarf farmer and trader who helped reopen the Funnel and reported the dangers beyond
 - [[Father Warrick]] — High-ranking priest of Sigil restored by Ceril and later aiding Southport
 - [[Xander MacLenth]] — Pirate ghost freed by Vokenar, whose passage to the afterlife is confirmed in the epilogue
-- [[Lenth the Rugged]] — Legendary pirate, father of Xander MacLenth, had wives on every continent
+- [[Lenth the Rugged]] — Legendary pirate and magical inventor whose recovered remains were returned to granddaughter Pleasance MacLenth.
 - [[Redrick Wenn]] — Dwarf whose visa was stolen by the party in [[The Pit]]
-- [[Lady Acelia]] — Younger sister of Alamar, youngest child of the Rodgard family; likely perished in the Cataclysm
+- [[Lady Acelia]] — Alamar's youngest sister, reportedly pursued northern peace efforts; her fate in the Cataclysm remains uncertain
 - [[King Maniasis]] — King of Kaedon, father of Alamar; went mad from elf-blood poisoning
 - [[Charlotta Fjoller]] — Ulrich Fjoller's sister who welcomes Domyx to the reformed titan homeland and encourages reconciliation
 - [[Domyx IV]] — Former titan ruler who apologizes to Domyx as the houses adopt cooperative government
 - [[Farraday]] — Kerben's former employer, Jack Harvey's fiendish benefactor, and keeper of the destroyed Tome of Satariel
 - [[Sunspite]] — Entity that hates the sun and wanted Castle Kaedon sunk
 - [[Rakshasa]] — Keys Caeradel's father, whose bound soul remains in a crystal worn by Feronia Caeradel
-- [[Boston Golf]] — Former acting-troupe figure from The Carrot Cake represented by a Magic Hat fortune-teller automaton
+- [[Boston Golf]] — Old Carrot Cake performer and Rochella Golf's grandfather, represented by the fortune-teller automaton she recovered
 - [[The Tyrant]] — Vizier Jade's undead servant who revealed Starfall's location in Axis Mundi before an unseen force destroyed it
 - [[PAXO]] — Warforged that drove Witness from the human refuge and massacred its residents, destroyed by the party
 - [[Xarag]] — Black dragon slain at Xarag's Island after stealing The Opal's treasure; probable ancestor of the Castle Kaedon dragons
 
 ## Creatures & Companions
+- [[Deep World Wizard]] — Two unnamed Darvinblast mages who defended its residential district, both killed by Domyx
+- [[Entropie]] — Defeated Vanir whose final Wish resurrects Emperor Shen as the last Vanir
+- [[Dunkelkalt]] — The Vanir That Eats The Sun And Moon; opposite of the Aesir alongside Entropie, slain by Kerben at Axis Mundi
 - [[Arcanoloth]] — Fiendish outsider species; Farraday was one and commanded part of the ocean
 - [[Death Spark]] — Small lightning-based entity resembling a will-o'-wisp, encountered in the Hole Shebang
 - [[Roger Ribbons]] — Aberration of string and twine with a red skull and crucifix spikes, boss of the Hole Shebang island

@@ -11,6 +11,10 @@ related:
   - "[[Clan Akathia]]"
 ---
 
-A titan ancestor of [[Domyx]] associated with [[Clan Akathia]].
+# Domyx II
 
-In session 036, the party recovered Domyx II's gold amphora and diamond-set gold coronet from a slain purple worm beneath [[The Funnel]]. The relics bore the clan's insignia. The amphora was large enough for the ashes of a titan far larger than Domyx; the coronet resembled one worn by [[Domyx IV]], but was more elaborate. A gold bugle was recovered alongside them.
+Domyx II was a titan ancestor of [[Domyx]], associated with [[Clan Akathia]]. His name survived on relics recovered beneath [[The Funnel]].
+
+## Campaign History
+
+From a slain purple worm, the party recovered a great gold amphora bearing the clan's insignia and identifying Domyx II. It was large enough to hold the ashes of a titan far larger than Domyx. A diamond-set gold coronet, resembling [[Domyx IV]]'s but more elaborate, and a gold bugle were recovered alongside it. The finds connected Domyx's ancestry to the depths without establishing how the relics reached the worm or the circumstances of Domyx II's life and death. See [[session_036#Chunk 0001]].

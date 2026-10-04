@@ -87,7 +87,7 @@ Domyx's strength does not commit him to violence in every encounter. He helped [
 - [[Ceril]] — A companion whose healing restored Domyx after the remorhaz encounter and imperial captivity, and whose dispelling freed Ulrich Fjoller. Domyx used Cloud Jaunt to free Ceril from engulfing vines during the arena's bonus challenge.
 - [[Vokenar]] — A companion with whom he recruited [[Otto]]. Vokenar freed him from a water elemental and destroyed the remorhaz that swallowed him. Domyx helped recover Vokenar's body after his death, and Vokenar later secured the party's escape from the flooding [[Gray Wastes]].
 - [[Vizier Jade]] — Initially his grandfather's enforcer, then the means of his survival in captivity. Recognizing her frustration with Emperor Shen gave Domyx hope; she ultimately faked his death and left him alive for his companions to recover.
-- [[Otto]] — A dwarf Domyx and Vokenar recruited at [[The Boardwalks]], agreeing to help him find his friends. Otto later guided the party partway into [[The Funnel]].
+- [[Otto]] — A warforged Domyx and Vokenar recruited at [[The Boardwalks]], agreeing to help him find his friends. Otto later guided the party partway into [[The Funnel]].
 - [[Yalet Mora]] — A boisterous crewmate whose personality Domyx helped integrate through crew gatherings. Domyx took part in the encounters with his brother, [[Yalet Aurum]], from the original riddle to the peaceful resolution of their feud.
 
 ## Abilities
@@ -137,7 +137,7 @@ Obould privately named him heir to [[The Opal]] if anything happened to the capt
 
 A dream of [[Lorelai Lapis-Acathian]] revealed that [[Ulrich Fjoller]] had been imprisoned for months and sentenced to execution. She was pregnant with his child and pleaded for Domyx to return. He promised to rescue him.
 
-The expedition to [[Castle Kaedon]] intervened. Domyx survived a water elemental that engulfed him and delivered the killing blow to the adult black dragon [[Ceril]] identified as likely one of [[Xarag]]'s offspring. He also discovered [[The Jewel of Alfheimer]]. With [[Kerben]] launching him across a gap using the [[Mangonel]], he also reached a [[Zorn]] and helped intimidate it into surrendering swallowed gold.
+The expedition to [[Castle Kaedon]] intervened. Domyx survived a water elemental that engulfed him and delivered the killing blow to the young black dragon [[Ceril]] identified as likely one of [[Xarag]]'s offspring. See [[session_018#Chunk 0002]]. He also discovered [[The Jewel of Alfheimer]]. With [[Kerben]] launching him across a gap using the [[Mangonel]], he also reached a [[Zorn]] and helped intimidate it into surrendering swallowed gold.
 
 During the ship refit at [[The Pit]], Domyx commissioned his [[Gith Shard Glaive]]. He then joined the capture of [[Theo Harvey]], an imperial collaborator who offered information about [[The Carrot Cake]] while Domyx guarded him. Theo Harvey claimed the Empire wanted the park's hidden resources and said [[The Tyrant]] had failed to return from an earlier search.
 

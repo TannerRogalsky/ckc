@@ -8,6 +8,12 @@ related:
   - "[[The Order of Seasons]]"
 ---
 
-An older elf encountered in the alleyways of [[Brimbolyn]]'s less forgiving districts. His son cast Sleep on [[Red Caesar]] as a prank — a mockery since only humans are susceptible to the spell in the city. Garsinth apologized and explained his son causes mischief at school and has only two first-level spells.
+# Garsinth Theralal
 
-He noted that humans rarely visit Brimbolyn and won't find a warm reception. He gave [[Red Caesar]] directions to [[Yalet Aurum]]'s monument in the jungle outside the city.
+Garsinth Theralal is an older elf of [[Brimbolyn]] who offered [[Red Caesar]] a hospitable exchange after his son's hostile prank.
+
+## Campaign History
+
+His son cast Sleep on Red Caesar in the city's alleys. Garsinth Theralal chastised him, apologized, and explained that the young caster neglected his studies and caused mischief despite hopes of advancing within [[The Order of Seasons]].
+
+He warned that humans rarely visited and received little welcome in some districts, where gangs frequented the alleys. He nevertheless believed the elves had more allies abroad than their leaders acknowledged. Asked about [[Yalet Aurum]], he gave Red Caesar directions to the living monument outside the city, warning about the jungle and burning rains. This was his only established encounter with the party, in [[session_014#Chunk 0003]].

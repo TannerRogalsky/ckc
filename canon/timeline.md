@@ -12,19 +12,22 @@ Source: [[chunks/sessions_001-0010]].
 
 ## Session 002 — 2025-08-14
 
-### Chunk sessions_001-0010
+### Chunk 0000
+
+Source: [[chunks/sessions_001-0010]].
 
 - In a flashback at [[Heaven's Bulb]], [[Master Lee]] gives [[Red Caesar]] the copper blades [[Para and Bellum]] and warns him about the world outside.
-- The party explores ruins on [[Otyugh Isle]], encounters [[Kuo-Toa]], and obtains a map to a Temple of [[Sigil]].
+- The party explores ruins on [[Otyugh Isle]], encounters [[Kuo-Toa]], and learns of their god [[Blibdoolpoolp]].
 
 ## Session 003 — 2025-08-21
 
-### Chunk sessions_001-0010
+### Chunk 0000
 
+Source: [[chunks/sessions_001-0010]].
+
+- The party obtains a map to an island with a Temple of [[Sigil]] where the Kuo-Toa want to move.
 - The party defeats [[Blibdoolpoolp]], the Kuo-Toa god, and [[Rella Kel'Navvi]] joins the party.
 - The party encounters [[Lyngbakr]], a giant [[Saratan]] from [[Arkadia]] that fell through the [[Hole in the Sky]] with [[Castle Kaedon]] on its back.
-- [[Sunspite]] is identified as an enemy who wants [[Castle Kaedon]] sunk and has used [[Penumbra]] as a magical battery.
-- [[Sigil]] tells the party that the mission is not hopeless: the [[Penumbra]] must be given to [[Lyngbakr]].
 
 ## Session 004 — 2025-08-28
 

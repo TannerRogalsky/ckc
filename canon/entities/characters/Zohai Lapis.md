@@ -12,8 +12,24 @@ related:
   - "[[Axis Mundi]]"
 ---
 
-A female frost titan and lieutenant of [[Emperor Shen]], paired with [[Farron Acathian II]]. Zohai Lapis has icy skin and white hair, wears gold chains, and commands cold and storms. She can share vitality with an ally and wields a great bow.
+# Zohai Lapis
 
-In session 023, Zohai Lapis and Farron Acathian II attacked [[The Opal]] near [[Broy]] under another power's orders. The party defeated and healed both, allowing them to depart together toward [[Thalasia]].
+Zohai Lapis was a frost titan and lieutenant of [[Emperor Shen]], paired with [[Farron Acathian II]]. She died defending the emperor at [[Axis Mundi]].
 
-In session 037, the two lieutenants returned to defend Emperor Shen at [[Axis Mundi]] after [[Starfall]]'s destruction. Their presence protected the emperor. [[Kerben]] killed Zohai Lapis after Farron Acathian II fell, ending that protection; her body turned to ice and shattered.
+## Identity and Background
+
+She had icy skin and white hair, wore gold chains, and carried a great bow.
+
+## Abilities
+
+Zohai Lapis commanded cold and storms and could share vitality with an ally. Her presence alongside Farron Acathian II protected Emperor Shen during his mortal confrontation with the party.
+
+## Campaign History
+
+She and Farron Acathian II attacked [[The Opal]] near [[Broy]] under another power's orders. The companions defeated and healed both, allowing them to depart together toward [[Thalasia]]. [[canon/sessions/session_023#Chunk 0000]]
+
+The two later returned after [[Starfall]]'s destruction to defend Emperor Shen at Axis Mundi. Farron Acathian II fell first; [[Kerben]] then killed Zohai Lapis, ending their protection of the emperor. [[canon/sessions/session_037#Chunk 0001]]
+
+## Final Status
+
+Zohai Lapis died at Axis Mundi, her body turning to ice and shattering. [[canon/sessions/session_037#Chunk 0001]]

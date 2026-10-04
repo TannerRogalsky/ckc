@@ -879,3 +879,146 @@
 ## [2026-10-04] lint | Standardized shortened creature and vessel references across restructured articles.
 ## [2026-10-04] lint | Audited all creature articles alphabetically for fact preservation, chronology, canonical names, outcomes, and uncertainty.
 ## [2026-10-04] lint | Validated 56 creature articles, linked character correction, frontmatter, provenance, wiki links, entity index, and append-only logging.
+## [2026-10-04] query | Reviewed alphabetical character inventory and Alamar, Aramil Kiirnodel, and Beryzoz Helmscar source evidence.
+## [2026-10-04] restructure | Alamar
+## [2026-10-04] restructure | Aramil Kiirnodel
+## [2026-10-04] update | Corrected Aramil Kiirnodel's relationship to Rizolvir Kiirnodel from session 035 testimony.
+## [2026-10-04] restructure | Beryzoz Helmscar
+## [2026-10-04] query | Reviewed Boril Erendel, Boston Golf, and Brim the Bullywog histories and outcomes.
+## [2026-10-04] restructure | Boril Erendel
+## [2026-10-04] restructure | Boston Golf
+## [2026-10-04] lint | Corrected Boston Golf heirloom citation to the matching source chunk.
+## [2026-10-04] restructure | Brim the Bullywog
+## [2026-10-04] lint | Audited Ceril's existing character structure and corrected the Academy Penumbra bargain from source evidence.
+## [2026-10-04] query | Reviewed Charlotta Fjoller, Clockwork, and Courteous Cam against session narratives and transcripts.
+## [2026-10-04] restructure | Charlotta Fjoller
+## [2026-10-04] restructure | Clockwork
+## [2026-10-04] restructure | Courteous Cam
+## [2026-10-04] query | Verified Damien Ouranous, David Harvey, and the distinct Darvinblast wizards against their source records.
+## [2026-10-04] restructure | Damien Ouranous
+## [2026-10-04] lint | Corrected Damien Ouranous's Arkadian traveling companion to Witness in Damien Ouranous and Ceril.
+## [2026-10-04] restructure | David Harvey
+## [2026-10-04] restructure | Deep World Wizard
+## [2026-10-04] lint | Audited Domyx's existing character structure and reconciled Otto's identity and Castle Kaedon's young dragon with sources.
+## [2026-10-04] restructure | Domyx I
+## [2026-10-04] restructure | Domyx II
+## [2026-10-04] restructure | Domyx IV
+## [2026-10-04] restructure | Dunkelkalt
+## [2026-10-04] restructure | Ebbie Indorra
+## [2026-10-04] restructure | Ema-Tep
+## [2026-10-04] lint | Validated alphabetical character pass through Ema-Tep, preserving frontmatter history and checking links, headings, and index coverage.
+## [2026-10-04] query | Reviewed Emperor Shen, Entropie, and Farraday, distinguishing transformations, defeats, and surviving uncertainties.
+## [2026-10-04] restructure | Emperor Shen
+## [2026-10-04] restructure | Entropie
+## [2026-10-04] restructure | Farraday
+## [2026-10-04] restructure | Farron Acathian II
+## [2026-10-04] restructure | Father Warrick
+## [2026-10-04] restructure | Feronia Caeradel
+## [2026-10-04] restructure | Fharan
+## [2026-10-04] restructure | Figma Brickfinger
+## [2026-10-04] restructure | Gammix
+## [2026-10-04] restructure | Garsinth Theralal
+## [2026-10-04] restructure | Geoffrey the Younger
+## [2026-10-04] restructure | Gilder Savar
+## [2026-10-04] restructure | Gossa
+## [2026-10-04] restructure | Gunk Grodley
+## [2026-10-04] restructure | Igden
+## [2026-10-04] update | Aligned Farron Acathian II's index description with his verified death.
+## [2026-10-04] lint | Validated Gammix through Igden for standard character sections, preserved history, canonical names, wiki links, and index coverage.
+## [2026-10-04] restructure | Illidrielle Gandara
+## [2026-10-04] restructure | Jack Harvey
+## [2026-10-04] restructure | Janeera
+## [2026-10-04] restructure | Keeper Rufus
+## [2026-10-04] lint | Audited Kerben's existing character structure, narrative inventory, final status, custody distinctions, frontmatter, and links.
+## [2026-10-04] lint | Qualified Farraday's undated crypt investigation and removed its unsupported session citation.
+## [2026-10-04] restructure | Keeper Rufus
+## [2026-10-04] restructure | Keys Caeradel
+## [2026-10-04] restructure | King Maniasis
+## [2026-10-04] restructure | Lady Acelia
+## [2026-10-04] delete | Removed Keeper Rufus article and index entry at user request.
+## [2026-10-04] lint | Removed Keeper Rufus canon references and validated affected frontmatter, wiki links, and entity index coverage.
+## [2026-10-04] restructure | Lady Jacinthe
+## [2026-10-04] update | Lady Jacinthe oath attribution and flashback chronology corrected
+## [2026-10-04] restructure | Lenth the Rugged
+## [2026-10-04] update | Lenth the Rugged remains confirmed returned to Pleasance MacLenth
+## [2026-10-04] restructure | Lesanderol Nokiirna
+## [2026-10-04] restructure | Lodestar
+## [2026-10-04] restructure | Lorelai Lapis-Acathian
+## [2026-10-04] update | Lorelai Lapis-Acathian departure preserves unconfirmed refuge and childbirth
+## [2026-10-04] lint | Lyngbakr character structure and links validated
+## [2026-10-04] restructure | Marshal Zem
+## [2026-10-04] restructure | Master Lee
+## [2026-10-04] restructure | Mayor Yoris
+## [2026-10-04] restructure | Mobley
+## [2026-10-04] restructure | Morel Chainsunder
+## [2026-10-04] restructure | Muudeep
+## [2026-10-04] restructure | Naomi Ue
+## [2026-10-04] restructure | Ninki Nanka
+## [2026-10-04] restructure | Obould
+## [2026-10-04] update | Obould oath attribution and separate succession decisions clarified
+## [2026-10-04] restructure | Octavia Crayborne
+## [2026-10-04] restructure | Osiris Dims
+## [2026-10-04] update | Osiris Dims profile distinguishes Gossa testimony from his own
+## [2026-10-04] restructure | Otto
+## [2026-10-04] restructure | Pastor Borm
+## [2026-10-04] lint | PAXO character structure and links validated
+## [2026-10-04] restructure | Pleasance MacLenth
+## [2026-10-04] restructure | Qian Hu
+## [2026-10-04] restructure | Queen Caeradwyn
+## [2026-10-04] restructure | Rahmadi
+## [2026-10-04] restructure | Rakshasa
+## [2026-10-04] restructure | Raxxy
+## [2026-10-04] update | Red Caesar Penumbra accord, Fharan testimony, and retained equipment corrected
+## [2026-10-04] restructure | Redrick Wenn
+## [2026-10-04] lint | Rella Kel'Navvi character structure and links validated
+## [2026-10-04] restructure | Rizolvir Kiirnodel
+## [2026-10-04] update | Rizolvir Kiirnodel barrier action attributed to Feronia Caeradel
+## [2026-10-04] restructure | Rochella Golf
+## [2026-10-04] restructure | Sigrid Forgewelt
+## [2026-10-04] restructure | Solar Flare
+## [2026-10-04] restructure | Stephanne Quist
+## [2026-10-04] restructure | Sunspite
+## [2026-10-04] restructure | Tammix
+## [2026-10-04] restructure | The Marid
+## [2026-10-04] lint | The Tyrant character structure and links validated
+## [2026-10-04] restructure | The Wonder Hulk
+## [2026-10-04] restructure | Theo Harvey
+## [2026-10-04] restructure | Theotropa
+## [2026-10-04] update | Theotropa earlier identity preserved as uncertain
+## [2026-10-04] restructure | Transel
+## [2026-10-04] restructure | Trent Indorra
+## [2026-10-04] update | Trent Indorra proposed gunner training distinguished from completed appointment
+## [2026-10-04] lint | Tuna character structure and links validated
+## [2026-10-04] restructure | Tyson Cromwell
+## [2026-10-04] restructure | Ulrich Fjoller
+## [2026-10-04] restructure | Vanzia Vynnfae
+## [2026-10-04] restructure | Lenth the Rugged
+## [2026-10-04] update | Lenth the Rugged colorful family stories, legacy irony, and perfume flavor restored
+## [2026-10-04] delete | Solar Flare character article, index entry, and canon references removed
+## [2026-10-04] lint | Solar Flare removal backlinks, frontmatter, and entity index validated
+## [2026-10-04] restructure | Vizier Jade
+## [2026-10-04] restructure | Vlerro
+## [2026-10-04] update | Vokenar Penumbra accord and Obould scrying chronology corrected
+## [2026-10-04] restructure | Vorgan of the Stage
+## [2026-10-04] lint | Witness character structure and links validated
+## [2026-10-04] restructure | Xander MacLenth
+## [2026-10-04] update | Xarag profile distinguishes young Castle Kaedon dragon from Xarag
+## [2026-10-04] restructure | Yalet Aurum
+## [2026-10-04] restructure | Yalet Mora
+## [2026-10-04] restructure | Zohai Lapis
+## [2026-10-04] restructure | David Harvey
+## [2026-10-04] update | David Harvey report preserves proposed Harengon return and Jack Harvey interpretation
+## [2026-10-04] update | Otto warforged identity, soul testimony, index, and source anchor corrected
+## [2026-10-04] lint | Red Caesar unused potions and scrolls retain unresolved final custody
+## [2026-10-04] lint | Sessions 002 and 003 chronology, source links, and summary structure corrected
+## [2026-10-04] update | Timeline sessions 002 and 003 aligned with represented source and events
+## [2026-10-04] update | Qian Hu index qualifies claimed ancient identity and earlier acquaintance
+## [2026-10-04] lint | Final character review preserves flavor, source uncertainty, chronology, and narrative custody
+## [2026-10-04] lint | Alphabetical character pass complete: 98 profiles, 304 index entries, 9371 wiki links, session summaries, and append-only log validated
+## [2026-10-04] query | Otto physical description checked against original profile and source transcripts
+## [2026-10-04] lint | Removed unsupported dwarf-shaped description of Otto from his profile, Domyx relationship, and entity index
+## [2026-10-04] move | Deep World Wizard reclassified as creature and moved to creatures directory
+## [2026-10-04] move | Entropie reclassified as creature and moved to creatures directory
+## [2026-10-04] move | Dunkelkalt reclassified as creature and moved to creatures directory
+## [2026-10-04] lint | Corrected duplicate index lines introduced during creature reclassification; each moved entity now has one entry
+## [2026-10-04] lint | Creature moves validated: preserved narrative and provenance, compliant frontmatter and headings, correct index category, and unbroken wiki links

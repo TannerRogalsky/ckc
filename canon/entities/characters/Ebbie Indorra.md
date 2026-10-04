@@ -15,8 +15,27 @@ related:
   - "[[Domyx]]"
 ---
 
-A healer from [[Southport]] who briefly joined [[The Opal]]'s crew alongside her husband [[Trent Indorra]].
+# Ebbie Indorra
 
-Ebbie Indorra is a skilled healer who cast Mass Cure Wounds upon meeting the crew. She offered to treat injured or poisoned crew members and established herself in the ship's sickbay. She proved particularly valuable to [[Domyx]]'s sister [[Lorelai Lapis-Acathian]], who was pregnant and needed someone to monitor her health.
+Ebbie Indorra is a healer from [[Southport]] who briefly served aboard [[The Opal]] with her husband [[Trent Indorra]]. They returned home to protect their twelve children and the community from [[Mana Sickness]].
 
-Ebbie Indorra and Trent Indorra returned to Southport to help their twelve children and the wider community survive [[Mana Sickness]]. Her sister [[Lodestar]] later reunited with the family there.
+## Relationships
+
+- [[Trent Indorra]] — Husband and fellow traveler in the search for medicine for their children.
+- [[Lodestar]] — Her sister, who eventually reunited with the family in Southport.
+- [[Lorelai Lapis-Acathian]] — Offered to monitor her pregnancy while serving aboard The Opal.
+- [[Ceril]] — Gave him a sapphire earring as collateral and gratitude, allowing him to keep it if he saved her people.
+
+## Abilities
+
+Ebbie Indorra could heal groups through Mass Cure Wounds and offered care for injured or poisoned crew members. Her medical work supported the establishment of The Opal's sickbay.
+
+## Campaign History
+
+The party rescued Ebbie Indorra and Trent Indorra near [[Broy]]. They had sought a cure for their children's illness, but the stolen market herbs were unsuitable. Ebbie Indorra appealed to [[Red Caesar]]'s calling as a protector when he hesitated to approach a plague-stricken town. The party agreed to help, and the couple reached The Opal safely. See [[session_023#Chunk 0001]] and [[session_023#Chunk 0002]].
+
+After joining the crew, Ebbie Indorra offered healing and care for Lorelai Lapis-Acathian. When [[Father Warrick]] and other priests were restored on [[Otyugh Isle]], she hoped they could save her children. She and Trent Indorra left the ship with the clergy for the route toward Southport. See [[session_025#Chunk 0000]].
+
+## Final Status
+
+The party later found the Indorra family in Southport with their children running and playing and Lodestar beside them. Ebbie Indorra's last personal appearance was there during the expedition that ended the source of new Mana Sickness infections; no later separate role or departure was recorded. See [[session_033#Chunk 0000]] and [[session_033#Chunk 0003]].

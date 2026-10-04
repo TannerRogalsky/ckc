@@ -19,7 +19,7 @@ Xarag was the black dragon that broke into [[The Opal]]'s hold and stole its tre
 
 Xarag was the large black dragon encountered near the southern island that bears his name. His lineage connected him to the dragons later encountered at [[Castle Kaedon]], although [[Ceril]] identified that relationship as probable rather than certain.
 
-An adult black dragon at the castle spoke of its father and treated its accompanying wyrmlings as its own children. That adult was a separate individual from Xarag.
+A young black dragon at the castle spoke of its father and treated its accompanying wyrmlings as its own children. That young dragon was a separate individual from Xarag.
 
 ## Personality and Motivations
 
@@ -47,7 +47,7 @@ Some mithril appeared to have come from another ship, possibly an elven vessel; 
 
 Early in the voyage, Xarag wrecked The Opal's hold and took its treasure. The party initially considered itself too weak to confront him, leaving the theft as unfinished business.
 
-During the later exploration of Castle Kaedon, an adult black dragon and four wyrmlings rose from the water to attack. Ceril considered them probably related to Xarag. The adult said that its father would be pleased to find the castle, suggesting a new haunt for their lineage. The party defeated this separate group, with [[Domyx]] killing the adult. Kerben used material from that dragon to craft [[Preparation Melf]]; it did not come from Xarag's later corpse. The encounter is recorded in [[canon/sessions/session_018#Chunk 0001]] and [[canon/sessions/session_018#Chunk 0002]].
+During the later exploration of Castle Kaedon, a young black dragon and four wyrmlings rose from the water to attack. Ceril considered them probably related to Xarag. The young dragon said that its father would be pleased to find the castle, suggesting a new haunt for their lineage. The party defeated this separate group, with [[Domyx]] killing the young dragon. Kerben used material from that dragon to craft [[Preparation Melf]]; it did not come from Xarag's later corpse. The encounter is recorded in [[canon/sessions/session_018#Chunk 0001]] and [[canon/sessions/session_018#Chunk 0002]].
 
 ### The return to Xarag's Island
 

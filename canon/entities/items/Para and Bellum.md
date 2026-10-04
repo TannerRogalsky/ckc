@@ -19,7 +19,7 @@ The paired blades take their names from the maxim meaning “If you want peace, 
 
 ## Campaign History
 
-A flashback to Heaven's Bulb recalled Master Lee giving Red Caesar the blades while [[Keeper Rufus]] was present. The gift accompanied warnings about the dangers beyond the conclave.
+A flashback to Heaven's Bulb recalled Master Lee giving Red Caesar the blades. The gift accompanied warnings about the dangers beyond the conclave.
 
 Red Caesar used them to channel Vampiric Touch against a [[Wyvern]]. Their magic later formed a resilient sphere around [[Theo Harvey]], preventing his escape.
 

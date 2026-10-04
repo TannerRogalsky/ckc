@@ -10,6 +10,16 @@ related:
   - "[[Kerben]]"
 ---
 
-The cook aboard [[The Opal]]. An older crew member described as antisocial. He prepared a batch of carrot tea from a recipe provided by [[Kerben]], which inadvertently sedated the crew and allowed [[Theo Harvey]] to escape.
+# Mobley
 
-In session 031, Mobley kept cooking through the aftermath of the [[Broyish Empire]] attack on [[The Opal]], preparing stew while the crew recovered near [[Lyngbakr Lagoon]].
+Mobley is the older cook aboard [[The Opal]], described as antisocial. His meals sustained its crew, including through the aftermath of the imperial attack at [[Lyngbakr Lagoon]].
+
+## Campaign History
+
+[[Kerben]] gave Mobley a carrot tea recipe for an evening in the mess. Its sedating effects helped Kerben's planned departure but also left the crew inattentive enough for [[Theo Harvey]] to escape, an unintended consequence. [[canon/sessions/session_024]]
+
+After the [[Broyish Empire]] attacked The Opal, Mobley continued preparing stew while the crew recovered near Lyngbakr Lagoon. [[canon/sessions/session_031]]
+
+## Final Status
+
+Mobley was last personally described still serving as The Opal's cook after the attack. His later individual whereabouts are not specified. [[canon/sessions/session_031]]

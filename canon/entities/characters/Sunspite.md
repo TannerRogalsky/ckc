@@ -5,6 +5,10 @@ session_introduced: "007"
 sessions_appeared: ["007", "021"]
 ---
 
-An entity that hates the sun and wanted [[Castle Kaedon]] sunk. Was using the [[Penumbra]] as a magical battery. Fought by the party in an earlier encounter on the upper floors of the castle.
+# Sunspite
 
-In session 021, [[Vokenar]] found Sunspite's severed head — the one he chopped off at the end of their fight — crushed under rubble in a flooded guest room. The head had fallen through a collapsed ceiling from the room above where they had fought. It had been overgrown with roses in the intervening time.
+Sunspite was an entity hostile to the sun that wanted [[Castle Kaedon]] sunk. It used [[Penumbra]] as a magical battery and fought the party on the castle's upper floors, where [[Vokenar]] severed its head.
+
+## Final Status
+
+Vokenar later found the severed head crushed beneath rubble in a flooded guest room. It had fallen through the collapsed ceiling from the room of their confrontation and become overgrown with roses. [[canon/sessions/session_021]]

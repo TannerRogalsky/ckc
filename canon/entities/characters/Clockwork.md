@@ -8,4 +8,14 @@ related:
   - "[[Castle Kaedon]]"
 ---
 
-A member of the [[Dancing Blades]], a thieves guild. Clockwork was held as a prisoner in the dungeon cells of [[Castle Kaedon]] at some point before the party's arrival. His name appeared on a prisoner list found on a bulletin board in the castle's tactical room.
+# Clockwork
+
+Clockwork was a member of the [[Dancing Blades]] whose name appeared in [[Castle Kaedon]]'s political records and on its dungeon prisoner list.
+
+## Campaign History
+
+The party encountered Clockwork's name among the heraldic associations in the castle's senate chamber, then found it on a bulletin board in the adjoining guards' or warden's room. The prisoner list established that Clockwork had been held in the castle before the party's arrival, without explaining how that imprisonment related to the earlier political association. See [[session_019#Chunk 0000]] and [[session_020#Chunk 0001]].
+
+## Final Status
+
+The records did not identify any of the dungeon's skeletons as Clockwork. Clockwork's eventual fate remained unestablished.

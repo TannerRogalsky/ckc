@@ -17,12 +17,36 @@ related:
   - "[[Arcanoloth]]"
 ---
 
-An [[Arcanoloth]] who employed [[Kerben]] before [[The Cataclysm]] and later acted as [[Jack Harvey]]'s benefactor. Kerben once investigated Farraday's supposed crypt and found tickets to [[The Carrot Cake]], but session 034 revealed that the tomb had always been empty because Farraday survived as a fiend.
+# Farraday
 
-Farraday was also [[Jack Harvey]]'s benefactor who wanted to make sure The Carrot Cake remained entertaining even after the apocalypse. He set up the wave-based combat system at [[King of the Hole]], where enemies are presented not by Jack Harvey but by Farraday's design. The system uses five beacons that must be activated in groups of three to trigger waves of enemies.
+Farraday was an [[Arcanoloth]], [[Kerben]]'s former employer, and [[Jack Harvey]]'s fiendish benefactor. Keeper of the [[Tome of Satariel]] and later steward of [[The Carrot Cake]], he lost his final foothold on Stark when Kerben destroyed the tome and his local body, forcing him back to hell.
 
-In session 030, a [[Magen]] clarified that Jack Harvey resigned from direct stewardship of [[The Carrot Cake]] and left the park in Farraday's care. Farraday was not a mortal being and did not age conventionally, making his long-term oversight of the park possible even after Jack's era ended.
+## Identity and Background
 
-Farraday kept the [[Tome of Satariel]], a hellish ledger made from the souls and knowledge of hundreds of slain wizards. He built [[Tome Keeper's Pyramid]] in the eastern waters to house it, trapped the interior, and used the tome to monitor [[Rakshasa]] and other escaped demons.
+He employed Kerben before [[The Cataclysm]], repeatedly underpaying and dismissing him. Jack Harvey held a higher position in the same enterprise. Farraday's nonmortal nature and unconventional aging allowed him to oversee the park beyond Jack Harvey's era.
 
-In session 034, the party reached the pyramid and recognized Farraday by his stature, eyes, and voice. [[Kerben]] destroyed the Tome of Satariel before it could restore itself, then dealt the final blow to Farraday's body on Stark. Farraday was forced back to hell to rebuild his standing, ending his last foothold on Stark and freeing the Rakshasa from his surveillance.
+## Relationships
+
+- [[Kerben]] — Former employee who recognized him inside the pyramid and dealt the final blow to his body on Stark.
+- [[Jack Harvey]] — Beneficiary whose park Farraday took over when Jack Harvey resigned direct stewardship. He intended it to remain entertaining after the apocalypse.
+- [[Rakshasa]] — Escaped fiend whom Farraday monitored through the tome, preventing a safe reunion with his family. The book's destruction ended that surveillance.
+
+## Abilities
+
+Farraday built convincing illusions that could imprison perception within hellish scenes or visions of the old world's dust and ruin. He wielded powerful defensive and destructive magic. The tome's captured knowledge and bond to him supplied a further source of power.
+
+## Equipment and Resources
+
+- [[The Carrot Cake]] — Former stewardship entrusted by Jack Harvey. Farraday designed the [[King of the Hole]] encounters and their beacon-triggered challenges.
+- [[Tome Keeper's Pyramid]] — Trapped refuge he built in the eastern waters to house the tome.
+- [[Tome of Satariel]] — Hellish ledger of money, souls, and exchanges, containing the souls and knowledge of hundreds of slain wizards. He used it to track the Rakshasa and other escaped demons; Kerben destroyed it.
+
+## Campaign History
+
+Kerben investigated Farraday's supposed crypt and found tickets leading to The Carrot Cake. The tomb was empty: the later encounter established that Farraday had remained a fiend rather than been buried there. The surviving early record does not establish the session of that investigation. A [[Magen]] explained that Jack Harvey had left the park in Farraday's care, accounting for the continuing challenges. See [[session_030#Chunk 0000]] and [[session_034#Chunk 0001]].
+
+The party reached the pyramid and recognized Farraday by his stature, eyes, and voice. Kerben shattered the tome before its magical bond could restore it, severing an important connection between Farraday's work in hell and his presence on [[Stark]]. The companions resisted his illusions and magic, and Kerben killed his local body. See [[session_034#Chunk 0001]].
+
+## Final Status
+
+Farraday was returned to hell to rebuild his position from a lower rank. His last foothold on Stark and surveillance of the Rakshasa ended. Destruction of his body and ledger did not establish the permanent annihilation of his soul or a later return. See [[session_034#Chunk 0001]].

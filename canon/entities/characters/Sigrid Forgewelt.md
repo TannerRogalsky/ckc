@@ -11,8 +11,12 @@ related:
   - "[[Cestus of the Clear Sky]]"
 ---
 
-A dwarven weapon forger in [[The Pit]]. Her forge is scorching hot, and the area around it is decorated with religious symbolism — she is devoted to creating weapons that would serve the gods well. She can craft and upgrade all manner of weaponry.
+# Sigrid Forgewelt
 
-In session 013, [[Sigrid Forgewelt]] upgraded [[Kerben]]'s rare musket into the [[Hilltop Hunter]] — a +1 musket that deals an extra d8 force damage at ranges over 60 feet, with a magical green glow and a patch of living grass growing on top that changes with the seasons.
+Sigrid Forgewelt is a dwarven weapon forger in [[The Pit]], devoted to making weapons worthy of serving the gods. Her scorching forge is decorated with religious symbols, and she can craft and improve a wide range of arms.
 
-In session 034, Sigrid Forgewelt transformed [[Domyx]]'s former hammer into the [[Cestus of the Clear Sky]], using the hand that had touched the heavens as the new weapon's focus.
+## Campaign History
+
+She upgraded [[Kerben]]'s musket into the [[Hilltop Hunter]], giving it a green magical glow, greater power at long range, and a patch of living grass that changed with the seasons. [[canon/sessions/session_013]]
+
+Later, she transformed [[Domyx]]'s former hammer into the [[Cestus of the Clear Sky]], designing its wrapping around the hand with which he had touched the heavens and leaving his blue palm exposed. [[canon/sessions/session_034#Chunk 0001]]

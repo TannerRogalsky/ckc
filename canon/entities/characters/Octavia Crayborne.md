@@ -9,8 +9,10 @@ related:
   - "[[Cutlass Cray]]"
 ---
 
-Octavia Crayborne runs [[The Corsairs' Court]] in [[Cutlass Cray]]. She formerly performed at [[The Brine & Bodak]] before being poached away.
+# Octavia Crayborne
 
-## Session 038
+Octavia Crayborne is the mayor of [[Cutlass Cray]] and a descendant of its builders. A musician who communicates through her music, she also runs [[The Corsairs' Court]].
 
-The epilogue identified Octavia Crayborne as [[Cutlass Cray]]'s mayor and a descendant of its builders. She communicated through her music.
+## Campaign History
+
+She formerly performed at [[The Brine & Bodak]] before being recruited away to The Corsairs' Court. The campaign's closing account identified her as Cutlass Cray's mayor and connected her family to its construction. [[canon/sessions/session_038#Chunk 0002]]

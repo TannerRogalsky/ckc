@@ -53,7 +53,7 @@ Vokenar is an aasimar cleric from [[Arkadia]], trained by [[Sigil]] and [[Crone]
 
 ## Identity and Background
 
-Sixty years before the campaign, Vokenar was a young aasimar at a waterside citadel in [[Arkadia]]. He saw [[Solar Flare]], a towering woman shining with light. His mentor [[Gossa]], a teacher from [[Academia Lux]], suggested that becoming a Guardian was not his only possible path and commended him to [[Sigil]]'s guidance.
+Sixty years before the campaign, Vokenar was a young aasimar at a waterside citadel in [[Arkadia]]. His mentor [[Gossa]], a teacher from [[Academia Lux]], suggested that becoming a Guardian was not his only possible path and commended him to [[Sigil]]'s guidance.
 
 During his descent toward [[Stark]], [[Crone]] and [[Sigil]] trained him outside ordinary time and space for an inevitable war. Each awakening felt new because he could not remember the preceding training, though his body retained decades of practice. Elemental opponents grew stronger as he improved, and the goddesses spoke of further years or decades before his descent ended. [[Aeris]] also spoke during the training, expressing uncertainty about what had happened to his world and the one below it.
 
@@ -128,7 +128,7 @@ At [[The Pit]], Vokenar detected a surviving kernel of real sky inside a drained
 
 On [[Continental Stark]], Vokenar located buried rails, collected Akasha for study, and insisted on helping migrants threatened by the bog and [[Fuchsia Fungus]]. His water-walking magic enabled the rescue in which Domyx retrieved an unconscious migrant. He helped counter [[Aeon]]'s mental influence and accepted its treasure and departure. In [[Brimbolyn]], [[Osiris Dims]] identified the Magic City with the Order and warned that the Demi-Spell might be less than a year away. Vokenar also reunited with Gossa at the [[Elvish Marketplace]].
 
-At [[The Academy]], he questioned [[Keys Caeradel]] and [[Illidrielle Gandara]] about repeating the world's cycle and the gods' possible responsibility for The Cataclysm. The party negotiated an accord to stop collecting new Penumbra and surrender its stock if its sky-repair plan failed, gaining teleport-circle access. At [[House Kiirnodel]], [[Feronia Caeradel]] distinguished the inevitable [[Genesis Mundi]] from the Demi-Spell's imposed guidelines. Vokenar questioned whether those guidelines would serve all peoples, including the Broyish Empire.
+At [[The Academy]], he questioned [[Keys Caeradel]] and [[Illidrielle Gandara]] about repeating the world's cycle and the gods' possible responsibility for The Cataclysm. The party negotiated an accord under which the Order paused new Penumbra collection while retaining its stock; Vokenar offered the party's collected stock if its sky-repair plan failed. The agreement also secured teleport-circle access. At [[House Kiirnodel]], [[Feronia Caeradel]] distinguished the inevitable [[Genesis Mundi]] from the Demi-Spell's imposed guidelines. Vokenar questioned whether those guidelines would serve all peoples, including the Broyish Empire.
 
 ### Divine Counsel and the Imperial Threat
 
@@ -136,11 +136,13 @@ Vokenar helped protect The Opal from pirate boarders and sustained his companion
 
 At [[Castle Kaedon]], he found [[Sunspite]]'s crushed, rose-covered severed head and [[Lady Acelia's Chalice]], whose inscription identified Lady Acelia as Alamar's younger sister. He restored Ceril during the dragon battle, exposed the invisible [[Nalfeshne]], and prayed over dead prisoners. His Akasha blade helped drive off a [[Zorn]]. Kerben saved him after a Mezzoloth brought him near death.
 
+Scrying showed [[Obould]] in manacles under Vizier Jade's escort before she detected and dispelled the sensor.
+
 He sailed with Kerben and Domyx to The Pit for ship upgrades, checked on deep worlder integration with Figma Brickfinger, and acquired Sunset's Solace. He noticed a League vessel approaching Lyngbakr Lagoon from an unexpected direction. At the [[Harengon Warrens]], he found the concealed entrance and helped Ceril stop fleeing imperial soldiers. David Harvey privately assured him that [[The Carrot Cake]] remained alive and well.
 
 Legend Lore revealed that the [[Tome of Satariel]] contained pages made from the souls of 666 wizards and would return to hell if destroyed. On the voyage toward [[Broy]], Vokenar healed the party and the titans [[Farron Acathian II]] and [[Zohai Lapis]] after their battle. Divine scouting located [[Naomi Ue]]'s tavern and safer routes through the capital. He protected threatened coastal travelers and proposed helping the Southport couple afflicted by plague.
 
-Scrying showed [[Obould]] in manacles under Vizier Jade's escort before she detected and dispelled the sensor. In the palace, Emperor Shen revealed himself as Domyx's grandfather and declared his aim to kill the gods. Later, Vokenar discovered that [[Theo Harvey]] had escaped his shipboard cage.
+In the palace, Emperor Shen revealed himself as Domyx's grandfather and declared his aim to kill the gods. Later, Vokenar discovered that [[Theo Harvey]] had escaped his shipboard cage.
 
 In a shared vision with Ceril, he saw Aeris's mortal seed imprisoned within the four-element ring of [[Starfall]], surrounded by darkness and silver powder. Aeris said repairing the sky would save her and help her divine self locate the prison, while admitting uncertainty about the Demi-Spell. She felt the party's work as healing and the Empire's as pain, and warned against underestimating her captor. Vokenar left Continual Flame beside her as a promise; Starfall's fire elements drew it into the apparatus. Ceril grew fruit on its earth elements, offering sustenance and a possible identifying trace.
 

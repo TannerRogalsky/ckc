@@ -7,29 +7,42 @@ aliases:
   - Morrell
 ---
 
-Morel Chainsunder was the long-dead founder whose surviving binding spell controlled [[Darvinblast]]. The apparent living leader was a manifestation of communal fear, and the party ended the curse by destroying his written will.
+# Morel Chainsunder
 
-Early accounts described him as leader of the Duergar in [[The Deepworlders Delve]] at [[The Pit]], an insular community focused on [[Penumbra]] and maintaining an uneasy truce with [[Figma Brickfinger's Union]] after earlier war. The Darvinblast discovery later distinguished the dead founder from the leader his magic allowed ordinary congregants to embody.
+Morel Chainsunder was the long-dead founder whose surviving spell bound the people of [[Darvinblast]]. The apparent living leader was a manifestation of communal fear; destroying the founder's written will ended the curse.
 
-Before that revelation, the apparent leader rallied hostile dwarves through a booming voice heard across the city and proclaimed conquest of the upper world. [[Red Caesar]] first freed the [[Steelfend Clan]] from the shared magical control, and divine consultation directed the party to seek the leader before pursuing Penumbra.
+## Identity and Background
 
-## The Revelation
+Early accounts presented him as leader of the Duergar in [[The Deepworlders Delve]] at [[The Pit]], an insular community concerned with [[Penumbra]] and maintaining an uneasy truce with [[Figma Brickfinger's Union]] after earlier war. The Darvinblast revelation distinguished the dead founder from ordinary congregants able to embody his apparent identity.
 
-In the church sanctuary, the party confronted what appeared to be Morel Chainsunder. He stood on a platform in smooth tar, surrounded by a congregation in red robes and caged civilians. He claimed that [[Figma Brickfinger]] had "cast them here" and that they were "forced from the light." His fire magic drew on geothermal force rather than celestial flame.
+His remains lay in a hidden shrine or office behind the church sanctuary, draped in cloaks before his last will. He had died approximately fifty years before the party found him.
 
-[[Ceril]]'s divination revealed that the figure was not the living Morel Chainsunder. The party understood it as a manifestation of the dwarves' collective fears and paranoia, comparing shared belief to the way the [[Kuo-Toa]] had made [[Blibdoolpoolp]] real. The defeated figure had a different face from the one seen earlier through illusion and blended back into the congregation as an ordinary member.
+## Personality and Motivations
 
-The real Morel Chainsunder had been dead for approximately 50 years. His skeleton was found in a hidden shrine/office, draped in cloaks before a document that was his last will and testament. The document itself was the spell — a binding magic that united the dwarves emotionally ("what one brother says or does, the others will feel"). Morel Chainsunder's intention was benevolent: he hoped that over decades, this shared empathy would bring them peace and lead them back to the surface. Instead, it twisted into a curse through a feedback loop — worsening opinions and anger amplified until only hatred remained. The spell also made them aware of each other's locations at all times and created the illusion of a "big brother" watching them.
+The founder intended his binding magic to foster empathy and solidarity over decades, bringing happiness, peace with [[Figma Brickfinger]], and an eventual return to the surface. Its effects reversed that hope: shared anger amplified fear and hostility until the community's imagined watcher became a source of punishment and hatred.
 
-The *Mirage Arcana* illusion covering the northern mountains was linked to this curse. When [[Red Caesar]] destroyed the document, the magic departed and the illusion cleared. The fear subsided from the dwarves, replaced by curiosity.
+## Abilities
 
-## Consultation with Aeris
+His last will was itself a spell. It joined the dwarves' emotions and awareness, allowing them to feel one another's responses and know one another's locations. The resulting feedback sustained the illusion of an overseeing leader and allowed a congregant to assume that figure's identity and power. The regional Mirage Arcana was linked to the same curse.
 
-[[Ceril]] contacted [[Aeris]], goddess of paths and randomness, through his shield. The consultation addressed the party's choices:
-1. Is there a path to save lives AND find the Penumbra? **"Your words freed them, as the spell once freed them."**
-2. Should they destroy the document? **"Destroy the spell. Old magic binds, new magic frees."**
-3. Where is the Penumbra? **"In the hills, not too far away. Others might be after it."**
-4. Does [[The Order of Seasons]] know how to use the Penumbra? **"Other organizations know very little of how to use it."**
-5. How many Penumbra pieces exist? **"More than you believe. Many sank in the ocean, many on land."**
+The apparent leader used a booming voice to rally the city and fire magic drawn from geothermal heat. These were manifestations of the surviving system, not evidence that the founder remained alive.
 
-After the spell was broken, the party followed Ceril to where the Mirage Arcana had been hiding a quarry. There they found a massive chunk of [[Penumbra]] — tetrahedron-shaped. The illusion may have been the only thing preventing Imperial scouts from discovering it.
+## Campaign History
+
+### The feared leader
+
+The party initially sought Morel Chainsunder as a living leader. [[Red Caesar]] freed the [[Steelfend Clan]] from shared magical control, and divine counsel directed the companions to seek the leader before pursuing Penumbra. The apparent leader proclaimed conquest of the upper world and rallied hostile dwarves against them.
+
+In the church sanctuary, he stood above smooth tar before a red-robed congregation and caged dissenters. He accused Figma Brickfinger of casting his people underground and depriving them of the light; the party did not establish that accusation as fact. [[canon/sessions/session_012#Chunk 0003]]
+
+### Exposure and liberation
+
+[[Ceril]]'s divination revealed that the figure was not the living Morel Chainsunder. The party compared its dependence on shared fear to the [[Kuo-Toa]]'s creation of [[Blibdoolpoolp]] through belief. Once defeated, it displayed a different face from the earlier illusion and returned to the congregation as an ordinary member.
+
+The companions found the founder's skeleton and identified his will as the spell sustaining the bond. Ceril consulted [[Aeris]], who affirmed that they could save lives while finding Penumbra and directed them to destroy the binding magic. She placed the nearby fragment in the hills, warned of other seekers, and explained that many fragments lay on land and beneath the sea while other organizations knew little about using them. Red Caesar destroyed the document. Fear gave way to curiosity, and the Mirage Arcana concealing the northern mountains cleared. [[canon/sessions/session_012#Chunk 0004]]
+
+The released terrain revealed a quarry containing a massive tetrahedral Penumbra fragment. The party suspected the illusion had kept imperial scouts from finding it, without confirming their purpose.
+
+## Final Status
+
+Morel Chainsunder had been dead for decades when his remains were discovered. The party ended the spell that perpetuated his authority and freed Darvinblast from its curse. [[canon/sessions/session_012#Chunk 0004]]

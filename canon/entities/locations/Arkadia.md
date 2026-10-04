@@ -45,7 +45,7 @@ Arkadia includes a citadel associated with Vokenar's childhood, a paradise where
 
 ## Inhabitants and Control
 
-Aeris, Sigil, and Crone gathered at Gaokerena during the party's visits. [[Solar Flare]] and Gossa belong to Vokenar's earlier experience of the plane. Alamar remained in its paradise after the sky's repair; [[Illidrielle Gandara]] and [[Damien Ouranous]] welcomed Vokenar's eventual homecoming. These encounters do not establish a complete population or governing hierarchy.
+Aeris, Sigil, and Crone gathered at Gaokerena during the party's visits. Gossa belongs to Vokenar's earlier experience of the plane. Alamar remained in its paradise after the sky's repair; [[Illidrielle Gandara]] and [[Damien Ouranous]] welcomed Vokenar's eventual homecoming. These encounters do not establish a complete population or governing hierarchy.
 
 ## Campaign History
 

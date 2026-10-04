@@ -13,24 +13,50 @@ related:
   - "[[Starfall]]"
 ---
 
-Leader of [[The League of New Stark]]. Was once a princess of a now-drowned human kingdom. Commands [[The White Drake]], the League's main ship. Concerned about the [[Broyish Empire]], a xenophobic force hurting people under the League's protection. Offered the party a [[League Banner]] and asked them to hunt a [[Grotusqu]] (a non-magical giant squid).
+# Lady Jacinthe
 
-## Plot Events
+Lady Jacinthe leads [[The League of New Stark]] and commands its flagship, [[The White Drake]]. Formerly a princess of a drowned human kingdom, she sought to rebuild a free society after the [[The Cataclysm]]. She ultimately married [[Obould]], with whom she planned to lead the League.
 
-In session 016, the party visited Lady Jacinthe aboard [[The White Drake]] via Teleportation Circle. She briefed them on the rising threat of the [[Broyish Empire]], which had attacked a human settlement near League territory. She revealed the League had shot down an imperial airship carrying a [[Penumbra]]-like obsidian stone, and that the Empire might be collecting stones to power a massive magical weapon — possibly a cannon.
+## Identity and Background
 
-She offered the party shelter and a banquet, expressing that the League would continue defending the party's operations. She gave them two optional quests: track down a corrupted siren in the southwestern seas, and investigate a castle south of [[The Garden]] where a powerful old-world construct/golem once appeared. [[Ema-Tep]] provided passage back to [[Lyngbakr Lagoon]] using the druid spell *Transport via Plants*.
+Lady Jacinthe came from a human kingdom lost beneath the waters. Her response to the ruined world was to build an alliance of communities able to protect one another without surrendering their independence.
 
-In session 019, the party returned to [[The White Drake]] via Teleportation Circle and stayed overnight for a banquet. [[Red Caesar]] spoke with Jacinthe privately and learned that she and [[Obould]] were once to be wed — not for romance, but for shared ambition. Jacinthe's ambition was building the League to unite kingdoms after the world was torn down; Obould's was adventure and piracy. Their diverging paths forced them apart. Jacinthe revealed that Obould gave her an oath: should she come to harm, he will go in her place and die first. He cursed himself with the oath and she cursed him with sorrow. Red also learned of [[Starfall]], an ancient cannon of celestial origin now in the possession of the [[Broyish Empire]]. Jacinthe explained that the League's ultimate purpose is to give the world over to free peoples once the empire and other mounting forces are neutralized.
+## Personality and Motivations
 
-In session 022, [[Red Caesar]] and [[Ceril]] visited [[The White Drake]] via Teleportation Circle seeking information about [[Obould]]. Jacinthe appeared inconsolable and refused to see visitors. Through [[Damien Ouranous]], she delivered a message: "For all intents and purposes, you should treat your captain as deceased. There is no more Captain Obould. He is dead and gone."
+She wanted to restore what had been torn down and eventually hand the world over to free peoples. She defended voluntary agreements, mutual protection, and a dispersed League rather than conscription. She hoped its communities could establish secure laws and contracts resembling the old republics. Her opposition to the [[Broyish Empire]] grew from its attacks on people under League protection and its coercive ambitions.
 
-However, [[Ceril]]'s second scrying attempt — using a stolen portrait of Jacinthe christening [[The White Drake]] as focus — revealed her grief was a ruse. The wine bottles she had delivered up were unopened, lined up neatly. She only wept loudly after checking that the coast was clear. In private, [[Vizier Jade]] appeared in Jacinthe's room via illusion magic. Vizier Jade demanded Jacinthe help the Empire find [[Penumbra]], leveraging [[Obould]]'s captivity as pressure. She gave Jacinthe one month to deliver, promising that every piece of information provided might extend Obould's survival. Jacinthe, alone after Vizier Jade departed, spoke aloud: "One month. Can we even get there in one month?" This revealed that Jacinthe genuinely wants Obould to survive and is being coerced into betraying the party's Penumbra quest.
+Her love for Obould could override her judgment about wider dangers. When challenged over the Penumbra she sent to the Empire to preserve his life, she said she would make the same choice again; he acknowledged that he would have done likewise for her.
 
-In session 031, [[Obould]] was rescued from [[Vizier Jade]] and [[Emperor Shen]] at [[Lyngbakr Lagoon]], ending the hostage leverage Vizier Jade had held over Jacinthe and [[The League of New Stark]] since session 021.
+## Relationships
 
-In session 034, Jacinthe learned that the party had hidden [[Antumbra]] in the Penumbra she surrendered to the [[Broyish Empire]]. After [[Obould]] retired from [[The Opal]], he proposed with [[Obould's Wedding Band]]. Lady Jacinthe accepted the ring and proposal, and they agreed to lead the League together rather than choose between their relationship and their responsibilities.
+- [[Obould]] — Their first engagement united shared ambition, but her work building the League conflicted with his piracy and voyages. She rejected his ring when his violence threatened her alliances. He swore to take her place if she came to harm and to die before her. In her account, he cursed her with sorrow and she cursed him with the oath to die. His captivity later became leverage against her. Following his rescue, they became engaged again, married, and had half-orc children.
+- [[The League of New Stark]] — She leads its voluntary coalition and treats the safety and independence of its people as her central political responsibility.
+- [[Vizier Jade]] — As an imperial adversary, Vizier Jade coerced her into supplying Penumbra by threatening Obould's life. His rescue ended that leverage; Vizier Jade later attended their wedding among visitors from [[Broy]].
+- [[Damien Ouranous]] — Her envoy conveyed messages aboard The White Drake, including her public claim that Obould should be treated as dead during his captivity.
+- [[Ema-Tep]] — Her League associate helped the party travel from The White Drake back to [[Lyngbakr Lagoon]].
 
-## Session 038
+## Equipment and Resources
 
-Lady Jacinthe married [[Obould]] aboard [[The White Drake]] near the former [[Lyngbakr Lagoon]]. The adventurers attended alongside League associates and visitors from [[Broy]], including [[Vizier Jade]]. Lady Jacinthe and Obould later had half-orc children.
+- [[The White Drake]] — The League's flagship, under her command; it served as a refuge, diplomatic meeting place, and the venue for her wedding.
+- [[Obould's Wedding Band]] — Accepted when Obould renewed his proposal after leaving command of [[The Opal]].
+- [[League Banner]] — Offered to the party as a sign of their association with the League.
+
+## Campaign History
+
+### Alliance with the adventurers
+
+Lady Jacinthe asked the party to hunt a [[Grotusqu]] and offered them a League Banner. During their later visit to The White Drake, she reported an imperial attack on a human settlement near League territory. League forces had downed an airship carrying obsidian resembling [[Penumbra]], suggesting that the Empire was collecting it for a magical weapon. She offered shelter, a banquet, and continued protection for the party's work, while proposing investigations of a corrupted southwestern siren and an old-world construct at a castle south of [[The Garden]]. Ema-Tep arranged their return to Lyngbakr Lagoon. [[canon/sessions/session_016#Chunk 0000]]
+
+During that visit, [[Red Caesar]] privately asked about her former engagement. She explained the divergence between her political purpose and Obould's adventures, described his oath, and defended the League's voluntary organization. She also supplied the name [[Starfall]], learned from a captured imperial mage who resisted and was killed. His account described the cannon as ancient and celestial. This conversation was later recounted as a flashback during the castle expedition. [[canon/sessions/session_019#Chunk 0001]] [[canon/sessions/session_019#Chunk 0002]]
+
+### Coercion and reconciliation
+
+After Obould's capture, Lady Jacinthe refused visitors and presented herself as overwhelmed by grief. Damien Ouranous told Red Caesar and [[Ceril]] that she regarded their captain as dead. Ceril's scrying, using a portrait of her christening The White Drake, showed unopened wine bottles and her checking for witnesses before weeping. He also saw an illusory visit from Vizier Jade, who demanded Penumbra within a month and promised that useful information might prolong Obould's survival. Her apparent withdrawal concealed an effort to keep him alive. [[canon/sessions/session_022#Chunk 0000]] [[canon/sessions/session_022#Chunk 0001]]
+
+The party rescued Obould from Vizier Jade and [[Emperor Shen]] at Lyngbakr Lagoon, removing the hostage leverage over Lady Jacinthe and the League. [[canon/sessions/session_031#Chunk 0004]]
+
+After Obould retired from The Opal, they confronted the danger of her bargain without repudiating their love. Red Caesar revealed that [[Antumbra]] had been concealed in the Penumbra surrendered to the Empire, making the shipment an unwitting vehicle for sabotage of Starfall. A snake-bodied ally concealed their discussion with protective magic. Obould offered his wedding band, and Lady Jacinthe accepted his proposal; they intended to lead the League together. [[canon/sessions/session_034#Chunk 0000]]
+
+## Final Status
+
+Lady Jacinthe married Obould aboard The White Drake near the former Lyngbakr Lagoon after the defeat of Emperor Shen. The party, League associates, and visitors from Broy attended. She and Obould later had half-orc children. Their shared leadership of the League was the commitment accompanying their marriage. [[canon/sessions/session_038#Chunk 0002]]

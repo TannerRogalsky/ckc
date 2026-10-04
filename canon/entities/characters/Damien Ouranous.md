@@ -15,22 +15,31 @@ related:
   - "[[Arkadia]]"
 ---
 
-An aasimar who served [[The League of New Stark]] aboard [[The White Drake]] as one of [[Lady Jacinthe]]'s diplomatic envoys. [[Emperor Shen]] later killed him, and his spirit returned to [[Arkadia]].
+# Damien Ouranous
 
-## Plot Events
+Damien Ouranous was an aasimar diplomatic envoy of [[The League of New Stark]], serving [[Lady Jacinthe]] aboard [[The White Drake]]. [[Emperor Shen]] killed him; at the campaign's end he was in [[Arkadia]], hoping to train at [[Academia Lux]].
 
-In session 016, Damien visited [[Lyngbakr Lagoon]] aboard a League ship painted white with red sails and a white-blue League symbol. He had been sent by [[Lady Jacinthe]] to check on the party's island base. He negotiated diplomatically, revealing the League had shot down a [[Broyish Empire]] airship on the party's behalf and that the League would continue defending the party's operations if trusted with information about the mysterious island and the [[Penumbra]] stones. He planned to tour the island for a day or two to report back to Lady Jacinthe.
+## Identity and Background
 
-In session 022, Damien greeted [[Red Caesar]] and [[Ceril]] when they arrived at [[The White Drake]] via Teleportation Circle. He informed them that [[Lady Jacinthe]] was inconsolable and would not receive visitors. He relayed Jacinthe's message that they should treat [[Obould]] as deceased — invoking his name had caused her to weep extensively. Despite Red Caesar's off-putting demeanor, Damien allowed them to stay and gave them keys to room 17.
+He fell from the heavens when [[The Cataclysm]] struck and lived below until his death. His later homecoming was to a place he described as a home he had never truly known. See [[chunks/session_032/chunk_0000]] and [[session_038#Chunk 0002]].
 
-Later in session 022, Damien encountered [[Ceril]] carrying the stolen portrait in the hallway. Ceril claimed the guards told him to move the painting to safety. Damien, one of Jacinthe's closest associates, offered his own cape to help conceal the painting and urged Ceril to hurry. After [[Red Caesar]]'s Thunderwave distraction, Damien found Red and scolded him for exploding the glass portholes, then tasked him with cleaning up the mess alongside himself. Red paid for the damages with old Cadenite coins, which Damien accepted.
+## Relationships
 
-Before leaving The White Drake, [[Ceril]] wrote a message revealing the truth about Jacinthe's secret dealings and hid it inside the stolen painting for Damien to find in due time.
+- [[Lady Jacinthe]] — His commander and a close associate. He negotiated on her behalf and carried her messages to the party.
+- [[Ceril]] — Borrowed his cape to conceal a stolen portrait, misleading Damien Ouranous about its removal. Ceril left him a hidden account of Lady Jacinthe's secret dealings, but its receipt was not established.
+- [[Witness]] — His traveling companion in Arkadia, with whom he discussed [[Vizier Jade]]'s history of war and frustrated desire for peace.
+- [[Vokenar]] — Fellow aasimar whom he welcomed back to Arkadia. Vokenar offered to help him become acquainted with the plane.
 
-In session 025, Damien helped restrain [[Zulu]] when the dinosaur raided The White Drake's meat stores as a distraction for [[Kerben]]'s sabotage mission. He made Kerben help clean the stores and warned that [[The Opal]] would receive an invoice for the lost provisions. This was Damien's final known living encounter with the party.
+## Campaign History
 
-In session 032, Ceril saw Damien's spirit traveling through Arkadia alongside Vokenar's spirit. Damien said he had been slain by Emperor Shen, although he did not know what had happened after his death. He and Vokenar reflected on [[Vizier Jade]]'s long entanglement in wars before continuing through Arkadia.
+Sent to inspect [[Lyngbakr Lagoon]], Damien Ouranous arrived aboard a white League ship with red sails and a white-blue emblem. He said the League had shot down a [[Broyish Empire]] airship on the party's behalf and offered continued protection in exchange for information about the island and [[Penumbra]]. He intended to tour the base before reporting to Lady Jacinthe. See [[session_016]].
 
-## Session 038
+When [[Red Caesar]] and Ceril came to The White Drake seeking news of [[Obould]], he relayed Lady Jacinthe's message that the captain should be treated as deceased. This did not establish Obould's death. He secured a guest room for them despite her refusal to receive visitors. Later, he believed Ceril's claim that guards had ordered the portrait moved to safety and lent his cape to cover it. He did not knowingly authorize its theft. After Red Caesar's Thunderwave distraction shattered the lounge's windows, Damien Ouranous required cleanup and accepted Kaedonite coins as compensation. Ceril hid his later discoveries with the portrait for him to find. See [[session_022#Chunk 0000]] and [[session_022#Chunk 0001]].
 
-Damien Ouranous welcomed [[Vokenar]] back to [[Arkadia]], describing it as a home he had never truly known. He hoped to train at [[Academia Lux]] and become one of the plane's warriors. Vokenar offered to show him around.
+During Kerben's sabotage operation, Damien Ouranous helped restrain [[Zulu]] after the dinosaur raided the ship's meat stores. He made [[Kerben]] help clean up and warned that [[The Opal]] would be invoiced for the lost provisions. This was his last established living encounter with the party. See [[session_025]].
+
+Ceril later overheard him traveling through Arkadia with Witness. Damien Ouranous said Emperor Shen had slain him and admitted he did not know all that had followed. [[David Harvey]] separately reported his death when the moon was struck; the killing itself was not depicted. See [[session_032#Chunk 0000]] and [[session_034#Chunk 0000]].
+
+## Final Status
+
+Damien Ouranous greeted Vokenar in Arkadia and expressed a wish to study at Academia Lux and become one of the plane's warriors. Vokenar offered to show him around. The intention was established, but completed training or a new appointment was not. See [[session_038#Chunk 0002]].

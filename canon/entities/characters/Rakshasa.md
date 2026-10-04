@@ -15,20 +15,30 @@ aliases:
   - "Dis Pater Solaris"
 ---
 
-A divine being and former escapee from hell, father of [[Keys Caeradel]] and former husband of [[Feronia Caeradel]]. Keys Caeradel spent years visiting him in a cave without feeling that he truly knew him.
+# Rakshasa
 
-The Rakshasa lived in the inner sanctum of [[The Garden]], smoking from a hookah in chambers hung with silks. When [[Domyx]] and [[Ceril]] visited on Keys Caeradel's behalf, he recognized Domyx's heritage and said he had visited the titan realm and met Domyx's father. He reacted emotionally to mention of his son but tried to conceal it.
+Rakshasa is a divine being and former escapee from hell, father of [[Keys Caeradel]] and former husband of [[Feronia Caeradel]]. After the party ended the surveillance that confined him to [[The Garden]], he voluntarily entered a crystal vessel for his soul, ultimately worn by Feronia Caeradel.
 
-Charged with hunting other beings who had escaped hell, the Rakshasa feared that the demons would unite against him if he exposed his location. [[Farraday]] could track him through the [[Tome of Satariel]], preventing him from safely visiting his family. He asked the party to destroy Farraday's foothold on [[Stark]]. In session 034, they destroyed the tome and Farraday's Stark body, ending that surveillance.
+## Identity and Background
 
-He initially dismissed the [[Demi-Spell]] as futile and treated the eventual [[Genesis Mundi]] with indifference, perhaps as an opportunity for atonement.
+Charged with hunting other beings who had escaped hell, he feared that exposing his location would unite demons against him. He lived in The Garden's inner sanctum, in silk-hung chambers where he smoked a hookah. He had visited the titan realm and said he had met [[Domyx IV]]. Feronia Caeradel later described his repeated changes over the years.
 
-## Session 035
+## Personality and Motivations
 
-Freed to travel, the Rakshasa visited Keys Caeradel at [[The Academy]], where his son confined him in a magical cage. Feronia Caeradel confirmed their former marriage and described his repeated changes over the years.
+He initially dismissed the [[Demi-Spell]] as futile and regarded the eventual [[Genesis Mundi]] with indifference, possibly seeing it as an opportunity for atonement. His emotional reaction to mention of his son, which he tried to hide, contrasted with that detachment. He ultimately urged Keys Caeradel to let the party decide what should become of the completed spell.
 
-The Rakshasa initially argued that the shattered moon meant the sky remained incomplete. When Keys Caeradel reconsidered casting the Demi-Spell, the Rakshasa advised handing it to the party so that they could determine the world's fate. At his own request, Keys Caeradel used Magic Jar to bind his soul into an amulet, allowing his son to carry him away without the cage.
+## Relationships
 
-## Session 038
+- [[Keys Caeradel]] — His son, who visited him for years in a cave without feeling that he knew him. Their later reunion at [[The Academy]] led to Rakshasa voluntarily entrusting his bound soul to him.
+- [[Feronia Caeradel]] — His former wife, who confirmed their marriage and eventually carried the crystal containing his soul.
+- [[Farraday]] — Could locate him through the [[Tome of Satariel]], preventing safe visits to his family. Destroying the ledger and Farraday's Stark body ended that surveillance.
 
-The epilogue confirmed that the Rakshasa remained bound within a crystal now worn by his former wife, [[Feronia Caeradel]]. [[Keys Caeradel]] had previously carried the amulet away from [[The Academy]].
+## Campaign History
+
+[[Domyx]] and [[Ceril]] visited on Keys Caeradel's behalf. Rakshasa recognized Domyx's heritage and concealed his emotion on hearing of his son. He asked them to destroy Farraday's foothold on [[Stark]] so he could travel without exposing himself and his family. The party later destroyed the tome and Farraday's local body, freeing him from the tracking. [[canon/sessions/session_034#Chunk 0001]]
+
+He visited Keys Caeradel at The Academy, where his son held him in a magical cage. He first argued that the shattered moon meant the sky remained incomplete. As Keys Caeradel reconsidered the Demi-Spell, Rakshasa advised surrendering it to the party. At his own request, Keys Caeradel used Magic Jar to bind his soul into an amulet and carried him away without the cage. [[canon/sessions/session_035]]
+
+## Final Status
+
+The epilogue established that Rakshasa remained bound within a crystal worn by Feronia Caeradel. The record does not describe his release. [[canon/sessions/session_038#Chunk 0002]]

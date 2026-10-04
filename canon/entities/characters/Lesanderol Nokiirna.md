@@ -10,6 +10,18 @@ aliases:
 sessions_appeared: ["014"]
 ---
 
-An elf mithril smith operating in the [[Elvish Marketplace]] of [[Brimbolyn]], marked by two mithril statues at his shop entrance. He carries on the ancient Nokiirna trade using a bluish-green flame to melt mithril quickly.
+# Lesanderol Nokiirna
 
-He crafted the [[Iklwa Isondo]] for [[Domyx]] — an enchanted mithril trident that returns magnetically and can pull targets toward Domyx through its link to his lodestone greaves. The trade cost two uncommon items and a rare (gold-trimmed books and a chunk of pure gold) plus the mithril itself.
+Lesanderol Nokiirna is an elven mithril smith in the [[Elvish Marketplace]] of [[Brimbolyn]]. He made the [[Iklwa Isondo]] for [[Domyx]], adapting the weapon to Domyx's magnetic greaves.
+
+## Identity and Background
+
+He carries on the ancient Nokiirna family trade. Two mithril statues mark his shop entrance.
+
+## Abilities
+
+His smithing uses a bluish-green flame to melt mithril rapidly. The Iklwa Isondo combines mithril construction with a magnetic link to Domyx's lodestone greaves, allowing the trident to return when thrown and pull an impaled target toward its wielder.
+
+## Campaign History
+
+Domyx visited his workshop and traded mithril, his existing trident, gold-trimmed books, and a piece of pure gold for the Iklwa Isondo. The commission joined the family's enduring craft to equipment Domyx already used. [[canon/sessions/session_014#Chunk 0002]]

@@ -23,56 +23,71 @@ related:
   - "[[Dunkelkalt]]"
 ---
 
-The emperor of [[Broy]] and [[Domyx]]'s grandfather, formerly served by [[Vizier Jade]]. He is the erased sky-touching member of [[Clan Akathia]] that the clan hid from history. The party killed him at [[Axis Mundi]] in session 037.
+# Emperor Shen
 
-A blood relative of [[Domyx]] from [[Clan Akathia]] who touched the sky before Domyx and was banished from his home after [[Touching the Sky]]. [[Sigil]] identified him as the party's greatest enemy, perhaps their only great enemy.
+Emperor Shen was the ruler of [[Broy]], the erased sky-touching ancestor of [[Clan Akathia]], and [[Domyx]]'s grandfather. He used [[Starfall]] to attack the sister goddesses, then died and returned as the last [[Vanir]] before the party destroyed him at [[Axis Mundi]].
 
-In session 023, the party entered [[Vizier Jade]]'s chamber and saw Emperor Shen slumped in a large glorious throne, his face obscured by metal and a headdress. He was old and barely moving. Vizier Jade revealed that Emperor Shen is [[Domyx]]'s grandfather — confirmed by the matching sky-colored palms shared between Domyx and the emperor, evidence of having touched the sky. This revelation unified the two identities: Emperor Shen is the erased ancestor.
+## Identity and Background
 
-Emperor Shen spoke in Giant's Runic (understood by Domyx and Vizier Jade) and revealed that he was the first of his bloodline to touch the sky — "I was the first, my grandson, but you are the last." He planned to be the last sky-toucher, hence why he tried to destroy the sky using [[Starfall]]. He was not successful in destroying all of it.
+Emperor Shen was banished after [[Touching the Sky]] and concealed in his clan's history. His sky-colored palms matched Domyx's, marking the achievement that the family had falsely presented as unprecedented in its younger heir. [[Sigil]] identified that erased ancestor as the party's greatest enemy.
 
-Emperor Shen's stated goal is that "our rage will kill the gods." He believes the gods play with mortals like toys and that all suffering in the world is the gods' doing, not humanity's. His final words before falling unconscious were: "Stark will fall, but we will survive. The gods will die. We will live on." He pained himself to speak and collapsed from exhaustion.
+He captured [[Aeris]] and broke her apart, imprisoning her aging mortal body inside Starfall while her divinity still reached the world through the sky. In the party's vision, she described captivity lasting sixty to eighty years. Domyx speculated that his ancestor might have sought [[Arkadia]] through sky-touching; that precise original ambition was not established.
 
-Before the confrontation at [[Axis Mundi]], Emperor Shen's plans after the gods' deaths remained unclear. In session 037 he explicitly described a divine titan dynasty descending from [[Domyx]], while confirming his desire to prevent others from gaining power through [[Touching the Sky]].
+His first appearance suggested extreme age and weakness: he sat almost motionless on a glorious throne, his face covered by metal and a headdress. A later broken mask revealed a face much like Domyx's, showing that the apparent decrepitude had been at least partly a ruse.
 
-In session 024, [[Ceril]] and [[Vokenar]] were drawn into a shared vision of [[Aeris]]'s mortal body, which had been imprisoned for sixty to eighty years by Emperor Shen. He captured her and broke her into pieces so no one else could have her power. Her body is trapped at the center of the [[Starfall]] device, aging and weakening in captivity.
+## Personality and Motivations
 
-In session 026, [[Vokenar]] scryed on Emperor Shen and witnessed him loading a large [[Penumbra]] chunk into [[Starfall]] and firing a beam of energy across the heavens. The beam struck the moon, shattering it. Emperor Shen is confirmed as the operator of Starfall who has attacked two of the three sister goddesses — first [[Aeris]] sixty years ago and now [[Crone]].
+Emperor Shen blamed the gods for mortal suffering and said their rule treated people as toys. He intended to kill them and reserve the power of sky-touching for his own lineage. His claim to liberation ultimately became a plan for a divine titan dynasty descending from Domyx, regardless of his grandson's consent.
 
-Emperor Shen may have attempted to reach [[Arkadia]] by [[Touching the Sky]], going beyond the rite's usual purpose of simply touching the sky.
+He defended his early rule by claiming that he met his followers' needs and won their loyalty. He regarded obedience as the price of that rule and mocked loyalty between the companions as weakness. [[Vizier Jade]] recalled that he had once shared a dream of building something better before his choices corrupted it; that was her account of his earlier aspirations.
 
-## Session 030
+## Relationships
 
-Emperor Shen intruded into [[Red Caesar]]'s dream alongside [[Vizier Jade]] while the party was trapped on [[Hole on Wheels]]. He revealed in Red Caesar's hearing that the party's actions had granted access to [[Penumbra]] and that the Empire was searching while the party was incapacitated. Vizier Jade noted that Emperor Shen was being careless by speaking so openly.
+- [[Domyx]] — Grandson and intended successor, who repeatedly rejected his imposed inheritance. Emperor Shen imprisoned him and compelled him to attack [[Red Caesar]], but did not secure his allegiance.
+- [[Domyx IV]] — Son whose rule preserved the family's secrecy. After Emperor Shen's death, Domyx IV acknowledged his corrupt influence and reconciled with Domyx.
+- [[Vizier Jade]] — Former vizier and enforcer whose growing resistance culminated in arranging his use of the sabotaged ammunition. He petrified her for apparent failure; she later helped defeat his final form.
+- [[Aeris]] — Captive source of Starfall's power, fragmented so others could not share the power he had gained.
+- [[Farron Acathian II]] — Titan lieutenant who defended him at Axis Mundi.
+- [[Zohai Lapis]] — Titan lieutenant whose presence also sustained his protection in that confrontation.
 
-When Red Caesar placed himself between Emperor Shen and [[Master Lee]], Emperor Shen drew a katana and threatened Red Caesar inside the dream. He then abandoned the immediate confrontation, saying their real leverage was [[Obould]], who would not live to see another dawn.
+## Abilities
 
-## Session 031
+He spoke Runic, communicating with Domyx and Vizier Jade. He could intrude into dreams, leave in golden light, imprison captives, and petrify a servant. Starfall supplied his earlier invulnerability; its destruction removed that protection.
 
-Emperor Shen came ashore at [[Lyngbakr Lagoon]] with [[Vizier Jade]], using [[Obould]] as hostage to demand the [[Penumbra]]. He threatened to destroy the settlement, then continue destroying each place the party fled to until they surrendered. When [[Kerben]] shot him, the damage broke part of his mask and revealed that Emperor Shen's apparent decrepitude was at least partly a ruse: beneath the mask, his face looked much like [[Domyx]]'s.
+Resurrection transformed him into a colossal divine body whose presence drained life from the [[Gray Wastes]], turning fertile ground to dust. He wielded destructive light and shocks through the earth, dispelled sustaining magic, imprisoned [[Kerben]] in a maze, and dominated Domyx. These were powers of his final Vanir form, distinct from his earlier imperial appearance.
 
-After Domyx swapped places with Obould, Emperor Shen seized the caged Domyx and departed in golden light, declaring that his grandson would be returned to the Empire and disciplined. During the confrontation, the party revealed that they had learned [[Starfall]] is hidden in [[Axis Mundi]].
+## Equipment and Resources
 
-## Session 033
+- [[Broyish Empire]] — Former regime, military forces, and court, including his seat at the [[Dawn Palace]]. His absence and defeats left its towns without stable imperial direction.
+- [[Starfall]] — Weapon powered by Aeris and [[Penumbra]], used to break the sky and shatter the moon. It was destroyed by [[Antumbra]].
+- [[Axis Mundi]] — Final weapon site and battlefield. His resurrected body's four rib-shaped stone supports were the Stele of Apotropaism, Stele of Menace, Stele of Solemnity, and Stele of Serenity. Their inscriptions sustained his defenses and power; permanently destroying or transforming the stone removed them. He called them his bones and the plane his body.
 
-[[Lodestar]]'s divination indicated that Emperor Shen had lost access to some of his former magic and would remain inactive until at least the next moon. The party used this respite to pursue other existential threats.
+## Campaign History
 
-## Session 034
+### The emperor behind the broken sky
 
-Emperor Shen's continuing absence left the [[Broyish Empire]] militarily weakened and politically fractured. The former imperial waters emptied, while Broyish towns faced uncertainty over what government or revolutionary force would replace his rule.
+At the palace audience, Vizier Jade revealed Emperor Shen's relationship to Domyx, uniting the emperor and the erased ancestor. He admitted using Starfall to prevent others from touching the sky and declared that the gods would die while his people survived. Speaking exhausted him until he lost consciousness. The subsequent vision of Aeris revealed the captive body at the heart of his weapon. See [[session_023]] and [[session_024#Chunk 0000]].
 
-## Session 037
+[[Vokenar]] later witnessed him loading Penumbra into Starfall and firing across the heavens. The shot shattered the moon, attacking [[Crone]] after his earlier assault on Aeris. See [[session_026#Chunk 0000]].
 
-Emperor Shen sent a boarding force against [[The Opal]] while waiting beside [[Starfall]] at [[Axis Mundi]]. A captive revealed his intention to destroy [[Sigil]] that day. [[Crone]] explained that his pride delayed the shot until [[Domyx]] arrived.
+He intruded with Vizier Jade into Red Caesar's dream while the party was trapped on [[Hole on Wheels]], carelessly revealing that imperial forces sought Penumbra while the party was incapacitated. When Red Caesar protected [[Master Lee]], Emperor Shen drew a katana and threatened him, then shifted to threatening [[Obould]]'s life. See [[session_030]].
 
-He told Domyx that he intended to grant him divine power and establish a dynasty ruling the titans, regardless of Domyx's consent. He claimed he had gained his Broyish following through invulnerability and by meeting his followers' demands. Starfall's protection initially made him impervious to Domyx's challenge.
+### Hostages and the failing empire
 
-[[Vizier Jade]] covertly arranged for him to load the final ammunition himself. He petrified her for apparent failure, then fed the [[Antumbra]] into Starfall. Its explosion destroyed the weapon and ended his invulnerability.
+Emperor Shen arrived at [[Lyngbakr Lagoon]] with Obould as hostage and demanded the party's Penumbra, threatening every refuge it might seek. Kerben's shot broke his mask. Domyx exchanged places with Obould, and Emperor Shen seized the caged grandson and departed in golden light. The lagoon attack killed residents, although many escaped. See [[session_031]] and [[session_038#Chunk 0002]].
 
-[[Farron Acathian II]] and [[Zohai Lapis]] lent him protection until the party defeated them. Domyx then defeated Emperor Shen, who called on the [[Vanir]] before dying. [[Entropie]] and [[Dunkelkalt]] then manifested. After their defeat, Entropie's final Wish brought forth the last Vanir, Emperor Shen's resurrected body in a colossal divine form, as confirmed in session 038.
+In Broy, he pressured Domyx to accept imperial succession while denying the evidence of the sky's repair. Vizier Jade's dissatisfaction eventually led her to fake Domyx's death and leave him for the companions to rescue. See [[session_032]].
 
-## Session 038
+[[Lodestar]]'s divination reported that Emperor Shen had lost access to some former magic and would remain inactive until at least the next moon. His continuing absence weakened imperial military control and left Broyish towns uncertain about the government that might replace him. See [[session_033]] and [[session_034]].
 
-The final [[Vanir]] at [[Axis Mundi]] was Emperor Shen's resurrected body, transformed by [[Entropie]]'s Wish. He recognized [[Domyx]] as his grandson and tried to break his loyalty to his friends. His presence drained life throughout the [[Gray Wastes]], and four rib-shaped stone stelae sustained his defenses and power: the Stele of Apotropaism, Stele of Menace, Stele of Solemnity, and Stele of Serenity. He called the stelae his bones and the plane his body.
+### Starfall and the returning Vanir
 
-He imprisoned [[Kerben]] in a magical maze and later compelled Domyx to strike down [[Red Caesar]]. [[Ceril's Star]] rescued Kerben, and [[Vokenar]] restored Red Caesar. Guided by [[Vizier Jade]], the party destroyed the supporting stelae. Ceril dissolved the last one, allowing Red Caesar's Disintegrate to destroy Emperor Shen completely. His death ended the wasting influence, but the lower sky continued collapsing and admitted Stark's oceans.
+At Axis Mundi, he sent a boarding force against [[The Opal]] and prepared to destroy Sigil. Crone explained that his pride delayed the shot until Domyx arrived. He insisted that Domyx would inherit divine power and rule a titan dynasty.
+
+Vizier Jade covertly arranged for him to load the final ammunition himself. He petrified her, then fed the Antumbra into Starfall, destroying the weapon and his invulnerability. Farron Acathian II and Zohai Lapis defended him until the party defeated them. Domyx then struck him down. Emperor Shen called on Entropie and [[Dunkelkalt]] before dying, and both manifested. After their defeats, Entropie's final Wish resurrected him as the last Vanir. See [[session_037]].
+
+## Final Status
+
+In his final form, Emperor Shen tried to isolate the companions and break their loyalty. [[Ceril's Star]] rescued Kerben from his maze. Vokenar restored Red Caesar after the compelled attack, and Domyx continued opposing his grandfather. Guided by Vizier Jade, the party removed the stelae; [[Ceril]] dissolved the last one, allowing Red Caesar's Disintegrate to destroy Emperor Shen completely.
+
+His death ended the wasting influence, but the lower sky continued collapsing and admitted Stark's oceans. Broy later adopted a charter with Vizier Jade's and Red Caesar's help, while the titan houses shared authority rather than inheriting his proposed dynasty. See [[session_038]].

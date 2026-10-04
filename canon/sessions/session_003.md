@@ -2,30 +2,26 @@
 type: session
 session: "003"
 date: "2025-08-21"
-summary: "Party encounters Lyngbakr the giant turtle, discovers Castle Kaedon, learns of Saratan."
+summary: "The party defeats Blibdoolpoolp, encounters Lyngbakr and Castle Kaedon, and gains Rella Kel'Navvi as a companion."
+chunks: 1
 ---
-
 
 # Session 003
 
-## Events
+### Chunk 0000
 
-- **[[Lyngbakr]]:** The party encounters the giant turtle from [[Arkadia]] that fell through the [[Hole in the Sky]]. It has a city built on its back, including [[Castle Kaedon]]. Named for the fields of heather on its back.
-- **[[Castle Kaedon]]:** A castle on Lyngbakr's back where [[Alamar]] is bound. Surrounded by Westerness.
-- **[[Saratan]]:** The species Lyngbakr belongs to — gigantic turtle/whale things that people are surprised aren't islands due to their magical aura.
-- **[[Bookbinders Cray]]:** [[Pleasance MacLenth]] provides information about Lyngbakr and Saratan. Offers the party a bespoke spell.
-- **[[Sunspite]]:** An entity that hates the sun and wanted Castle Kaedon sunk. Was using the [[Penumbra]] as a magical battery. Fought by the party.
+[[chunks/sessions_001-0010|Source transcript]]
 
-## Items Acquired
+The party continued into the island dungeon at [[Lyngbakr Lagoon]] on [[Otyugh Isle]]. They obtained a map to an island with a Temple of [[Sigil]], where the [[Kuo-Toa]] wanted to move. Through glass they saw a large shadow in the water: [[Blibdoolpoolp]], holding an even larger entity in its claws. The party defeated the god.
 
-- Bespoke spell from [[Pleasance MacLenth]]
+They encountered [[Lyngbakr]], a gigantic turtle that had fallen from [[Arkadia]] through the [[Hole in the Sky]]. A city stood on his back, including [[Castle Kaedon]]. [[Rella Kel'Navvi]], the blink dog found during the adventure, came away with the companions.
 
-## Characters & Plot Summary
+### Summary
 
-The encounter with [[Lyngbakr]] is a major milestone. The party learns about [[Saratan]] — generally benign, hungry and instinctual creatures. [[Sunspite]]'s use of the Penumbra as a magical battery confirms the Penumbra's nature as a power source. [[Sigil]] tells the party their mission is not hopeless and that they will only have to give Penumbra to Lyngbakr the turtle.
+The party defeated Blibdoolpoolp, gained a temple map, and encountered Lyngbakr with Castle Kaedon on his back. Rella Kel'Navvi joined them after the island adventure.
 
-## Connections
+### Connections
 
-- Confirms the party's quest objective: find Penumbra and give it to [[Lyngbakr]]
-- [[Sunspite]]'s defeat removes a threat to Castle Kaedon
-- Connects the [[Hole in the Sky]] to [[Arkadia]] and Lyngbakr's fall
+- The visit to [[Bookbinders Cray]] in [[canon/sessions/session_004]] supplied [[Pleasance MacLenth]]'s explanation of the [[Saratan]]: enormous creatures whose magical aura makes them seem to be islands, generally driven by hunger and instinct. She explained Lyngbakr's name through the heather on his back and offered the party a bespoke spell; acquisition of that spell is not established.
+- [[canon/sessions/session_006]] records Sigil's reassurance that the mission was not hopeless and that giving [[Penumbra]] to Lyngbakr could achieve their purpose.
+- [[canon/sessions/session_007]] records the confrontation with [[Sunspite]], who wanted Castle Kaedon sunk and used Penumbra as a magical battery, and the discovery of [[Alamar]] sequestered and bound to the castle. These later discoveries develop the castle's history and its ties to [[Westerness]].

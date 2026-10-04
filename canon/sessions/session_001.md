@@ -28,7 +28,7 @@ Source: [[chunks/sessions_001-0010]].
   - [[Bookbinders Cray]] — [[Pleasance MacLenth]]
   - [[The Church of the Thirty Lights]] — [[Pastor Borm]]
 - **[[The Marid]]:** A huge pale dignitary wading in the water serves as Port Authority at Cutlass Cray.
-- **Vokenar flashback:** 60 years ago, [[Vokenar]] stared out over water in [[Arkadia]]. [[Gossa]], an aasimar mentor, suggested other paths than becoming a Guardian. [[Solar Flare]] was seen.
+- **Vokenar flashback:** 60 years ago, [[Vokenar]] stared out over water in [[Arkadia]]. [[Gossa]], an aasimar mentor, suggested other paths than becoming a Guardian.
 - **[[The Croakborne Carnival]]:** [[Ceril]] previously served on this ship of [[The Order of Seasons]]. A half-elf woman stole the [[Penumbra]].
 
 #### Items Acquired

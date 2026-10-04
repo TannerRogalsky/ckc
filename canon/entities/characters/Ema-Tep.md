@@ -11,8 +11,14 @@ related:
   - "[[The League of New Stark]]"
 ---
 
-A Yuan-Ti associated with [[The League of New Stark]] and [[The White Drake]]. Ema-Tep serves as [[Lady Jacinthe]]'s second-in-command and head of transportation.
+# Ema-Tep
 
-## Plot Events
+Ema-Tep is a yuan-ti who served as [[Lady Jacinthe]]'s second-in-command and transportation officer for [[The League of New Stark]] aboard [[The White Drake]].
 
-In session 016, Ema-Tep was summoned by Lady Jacinthe to help the party return from [[The White Drake]] to [[Lyngbakr Lagoon]]. He used the druid spell *Transport via Plants*, creating a temporary link between a plantain on the White Drake and its kind on the lagoon island, providing the party passage home.
+## Abilities
+
+Transport via Plants let him connect matching vegetation and carry travelers between the League ship and [[Lyngbakr Lagoon]]. The plantains cultivated at the lagoon provided the needed counterpart to those aboard the ship.
+
+## Campaign History
+
+Lady Jacinthe summoned Ema-Tep to arrange the party's return from The White Drake. He offered passage on the condition that they investigate a dangerous siren in southwestern waters, said to be corrupted by hellish influence. [[Vokenar]] accepted, and Ema-Tep opened the plantain route, returning Vokenar, [[Red Caesar]], and [[Domyx]] to the lagoon. This was his last established appearance, in [[session_016]]; no later personal fate was recorded.

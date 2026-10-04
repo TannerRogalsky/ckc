@@ -10,4 +10,10 @@ related:
   - "[[Arkadia]]"
 ---
 
-An archbishop in old Kaedon who advocated reform within his church. He became a father figure to [[Alamar]], helping him choose a path away from [[King Maniasis]]'s legacy. In session 032, Ceril found him in Arkadia among the old Kaedonite dead.
+# Tyson Cromwell
+
+Tyson Cromwell was an archbishop of old [[Kaedon]] who advocated reform within his church and became a father figure to [[Alamar]]. He helped Alamar choose a path away from [[King Maniasis]]'s legacy.
+
+## Final Status
+
+[[Ceril]] found Tyson Cromwell among the old Kaedonite dead in [[Arkadia]], alongside [[Vlerro]] and [[Igden]], after the repaired sky enabled Alamar's passage there. [[canon/sessions/session_032#Chunk 0000]]

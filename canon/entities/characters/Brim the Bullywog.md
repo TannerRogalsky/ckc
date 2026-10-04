@@ -9,26 +9,35 @@ related:
   - "[[The Pit]]"
 ---
 
-A frog-headed humanoid (bullywog) who lives in a moss hut beside the train rails in the jungles of [[Continental Stark]]. By trade, he is a tinkerer who builds contraptions from salvaged train parts and scrap metal.
+# Brim the Bullywog
 
-Brim joined [[The Opal]] after the party recruited him, seeking productive work and a chance to see the wider world. He requested supplies of metal to work with and showed off a non-functional ornithopter he built. He is industrious and capable, possibly underplaying his own skill.
+Brim the Bullywog is a frog-headed tinkerer recruited to [[The Opal]] from the jungles of [[Continental Stark]]. His salvaged inventions and service aboard the ship contributed to its defenses.
 
-He knows [[Marshal Zem]] from the Knights of the Four Seasons and can vouch for travelers at the train depot.
+## Identity and Background
 
-In session 015, Brim officially joined [[The Opal]]'s crew, leaping aboard from the coast with a 50-foot jump. He introduced himself to [[Domyx]] as the new tinkerer and immediately climbed into the crow's nest.
+He lived in a moss-covered hut beside the railway toward [[Brimbolyn]], building contraptions from salvaged or stolen train parts and scrap metal. His experimental ornithopter could not fly; he admitted selling a similarly unsuccessful machine in Brimbolyn.
 
-## Session 022
+## Personality and Motivations
 
-When [[The Opal]] arrived at [[The Pit]], Brim hopped off the boat to stretch his legs. He had never been to Dwarfland away from elf territory with so much room to hop around. He declared he would go explore and get lost, telling the party to "give a holler" if they needed him.
+Brim the Bullywog wanted productive work, better materials, and a chance to see the wider world. He disliked relying on theft and deception to survive and hoped eventually to rival the engineers of the East. [[Red Caesar]] judged his failed experiments to conceal substantial skill and persistence.
 
-## Session 024
+## Relationships
 
-During the voyage north toward [[Thalasia]], Brim manned [[The Opal]]'s new cannons when a [[Rimefire Hydra]] burst from the ice. He fired grape shot that blasted two heads off the creature. Despite his enthusiasm, the DM noted he was not the most adept gunner and the party would benefit from recruiting a dedicated master gunner.
+- [[The Opal]] — Joined its crew as tinkerer and lookout on the condition that he receive metal and projects for his craft. He also helped operate its weapons.
+- [[Marshal Zem]] — Knew him from the railway depot. Brim the Bullywog vouched for the party when the [[Knights of the Four Seasons]] inspected it.
 
-## Session 031
+## Abilities
 
-Brim helped crew [[The Opal]]'s cannons during the [[Broyish Empire]] naval attack. He advised [[Kerben]] to use the ship's ghost-ship feather token once retreat became necessary and volunteered to join a boarding effort against a crippled imperial vessel with the ship's air elemental.
+He could build useful devices from limited scrap and leap extraordinarily far, a capability he used to escape danger and board the ship. He helped use cannons and the arbalest, but his first cannon engagement showed that enthusiasm did not replace the need for a trained master gunner.
 
-## Session 036
+## Campaign History
 
-After [[The Opal]] landed in the [[Gray Wastes]], Brim the Bullywog reported to [[Domyx]] that dust had entered the bilge in place of water and was flowing through the pump.
+The party recruited him while traveling toward Brimbolyn. He helped them through the depot's inspection, then formally joined The Opal on its return to the coast, introducing himself to [[Domyx]] and climbing to the crow's nest. See [[session_014#Chunk 0002]] and [[session_015#Chunk 0000]].
+
+At [[The Pit]], he welcomed the unfamiliar room to roam beyond elven territory and went exploring. During the northern voyage toward [[Thalasia]], he helped use the new cannons against a [[Rimefire Hydra]]. Later, he defended The Opal with its arbalest during an imperial aerial attack while the party was away. See [[session_022#Chunk 0000]], [[session_024#Chunk 0001]], and [[session_026#Chunk 0001]].
+
+During the [[Broyish Empire]]'s naval assault, he again helped crew the cannons. He advised [[Kerben]] to use the ghost-ship feather token when retreat became necessary and volunteered to board a crippled imperial vessel with the ship's air elemental. That offer did not establish a completed boarding. See [[session_031]].
+
+## Final Status
+
+His last individual scene was aboard The Opal after its landing in the [[Gray Wastes]], when he reported to Domyx that dust had replaced water in the bilge and was flowing through the pump. No separate later departure or personal epilogue was established. See [[session_036]].

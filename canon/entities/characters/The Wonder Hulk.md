@@ -8,4 +8,6 @@ related:
   - "[[Cutlass Cray]]"
 ---
 
-Proprietor of [[The W. H. Boutique]] in [[Cutlass Cray]]. Well-traveled.
+# The Wonder Hulk
+
+The Wonder Hulk is the well-traveled proprietor of [[The W. H. Boutique]] in [[Cutlass Cray]].

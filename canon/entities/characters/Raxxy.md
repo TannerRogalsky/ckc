@@ -11,28 +11,35 @@ related:
   - "[[Kerben]]"
 ---
 
-Navigator aboard [[The Opal]]. A jack-of-all-trades who works in the rigging. Works alongside [[Kerben]] on navigation and astrology duties. An orc who serves as the ship's crow's nest lookout.
+# Raxxy
 
-In session 015, Raxxy spotted an incoming vessel with red sails from the crow's nest — the [[Goblin Traders]]' ship. Later that night, she was injured during a hobgoblin pirate boarding attack, holding an unconscious crew member while warning the party that the ship was being boarded.
+Raxxy is an orc navigator and lookout aboard [[The Opal]]. She remained with the ship after [[Obould]] retired, choosing its company as her home under [[Kerben]]'s command.
 
-In session 021, Raxxy was stationed at [[Lyngbakr Lagoon]] alongside [[Alamar]] when the party returned from [[Castle Kaedon]]. She reported that [[Obould]] had left in a longboat earlier that day, claiming he was heading toward the castle to help the party. After some time passed and he did not return, she realized he had taken the longboat in the opposite direction — he had lied and gone east instead. She confirmed he was not within five to ten miles of the ship when searched with spyglasses.
+## Personality and Motivations
 
-## Session 024
+Raxxy could enjoy a drink but avoided it while on watch. Although Obould's departure made her consider leaving, the return to [[Southport]] convinced her that the ship and crew had become her home.
 
-Raxxy was on watch duty when [[Theo Harvey]] escaped. She was found delirious in the mess hall, having been sedated by carrot tea that [[Mobley]] had prepared from a recipe [[Kerben]] had provided. Although Raxxy was known to drink occasionally, she never drank during guard duty — making the sedated tea the cause of her lapse.
+## Relationships
 
-## Session 031
+- [[Kerben]] — Worked with him on navigation and astrology and chose to remain aboard when he became permanent captain.
+- [[The Opal]] — The ship she served as navigator, rigging worker, and crow's nest lookout.
 
-After [[The Opal]] escaped the [[Broyish Empire]] fleet and reached [[Lyngbakr Lagoon]], Raxxy reported that the crew had survived without losses and that the ship had made it to the lagoon while still damaged but intact.
+## Abilities
 
-## Session 034
+A versatile crew member, Raxxy combined work in the rigging with navigation, sky observation, and vigilant lookout duty. She could rouse the crew quickly when the ship faced unexpected danger.
 
-When [[Obould]] retired and named [[Kerben]] captain, Raxxy chose to remain aboard [[The Opal]]. Although she had considered leaving after Obould's departure, returning to [[Southport]] convinced her that the ship and its crew were now her home.
+## Campaign History
 
-## Session 036
+Raxxy spotted the red sails of the [[Goblin Traders]] before their visit. During the later hobgoblin boarding attack, she warned the companions and held an unconscious crew member despite her own injuries. [[canon/sessions/session_015#Chunk 0000]]
 
-When [[Kerben]] released [[The Opal]] onto a suspended rock in the [[Gray Wastes]], Raxxy questioned the deployment away from water. Seeing open sky beneath the ship, she roused the crew as the vessel began to slip toward the abyss.
+While stationed at [[Lyngbakr Lagoon]] with [[Alamar]], she reported that Obould had left in a longboat claiming he meant to help the party at [[Castle Kaedon]]. She later realized he had sailed east instead. Searching with spyglasses did not find him nearby. [[canon/sessions/session_021]]
 
-## Session 037
+The carrot tea [[Mobley]] prepared from Kerben's recipe sedated her during the evening when [[Theo Harvey]] escaped. Her lapse was attributed to the tea rather than her usual conduct on duty. [[canon/sessions/session_024]]
 
-Raxxy announced the arrival at [[Gaokerena]] from [[The Opal]]'s crow's nest as the ship reached the living land in the [[Gray Wastes]].
+After the escape from the [[Broyish Empire]] fleet, she reported that the crew had survived and the damaged ship had reached the lagoon intact. When Obould later retired, she chose to stay with The Opal. [[canon/sessions/session_031]] [[canon/sessions/session_034#Chunk 0000]]
+
+In the [[Gray Wastes]], she questioned releasing the ship onto a suspended rock away from water and roused the crew when it began to slip toward the abyss. She subsequently announced their arrival at [[Gaokerena]] from the crow's nest. [[canon/sessions/session_036]] [[canon/sessions/session_037]]
+
+## Final Status
+
+Raxxy was last personally described still serving aboard The Opal at Gaokerena. Her later individual destination is not specified. [[canon/sessions/session_037]]

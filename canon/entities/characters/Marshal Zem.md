@@ -8,6 +8,10 @@ related:
   - "[[Brimbolyn]]"
 ---
 
-A tiefling with long horns, serving as Marshal of the [[Knights of the Four Seasons]] — the militia that protects [[The Order of Seasons]] and its magi. Stationed at the train junction leading into [[Brimbolyn]].
+# Marshal Zem
 
-Marshal Zem inspects all arrivals to the city, checking weapons and equipment on a conveyor belt. His knights cast Augury on each traveler to determine if it is safe to let them into the city, then cast an augmented Sanctuary spell that wards visitors from being attacked until they attack first. He is on high alert due to [[Broyish Empire]] activity.
+Marshal Zem is a long-horned tiefling marshal of the [[Knights of the Four Seasons]], the militia protecting [[The Order of Seasons]] and its magi. He guards the train junction leading into [[Brimbolyn]].
+
+## Campaign History
+
+With [[Broyish Empire]] activity putting the city on alert, Marshal Zem questioned the arriving party about imperial connections. His knights inspected travelers' weapons and equipment on a conveyor belt and used Augury to assess whether admitting them was safe. Approved visitors received an augmented Sanctuary that protected them until they initiated an attack. [[canon/sessions/session_014#Chunk 0002]]

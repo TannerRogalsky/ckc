@@ -20,18 +20,24 @@ related:
   - "[[Zohai Lapis]]"
 ---
 
-A cloud titan and lieutenant of [[Emperor Shen]]. He is a relation to [[Domyx]] and [[Clan Akathia]], calling Domyx "great nephew abomination" and stating Domyx "was never meant to descend." He speaks the language of the titans and has dark blue skin with a pure white beard. He wears gold chains and can summon cloud-based weapons.
+# Farron Acathian II
 
-## Plot Events
+Farron Acathian II was a cloud titan serving [[Emperor Shen]], related to [[Domyx]] and [[Clan Akathia]]. Spared after an earlier attack near [[Broy]], he returned to defend the emperor at [[Axis Mundi]], where Domyx killed him.
 
-In session 023, Farron Acathian II appeared alongside [[Zohai Lapis]], a female frost titan, during a storm as the party approached the coast of [[Broy]]. He was acting under orders from a higher power — not of his own volition — and was sent to kill the party. Despite his immense size and power, he was already injured from a prior encounter. The party defeated him in combat aboard [[The Opal]].
+## Identity and Background
 
-After being healed by [[Vokenar]], Farron Acathian II departed peacefully with [[Zohai Lapis]], heading north toward titan homeland territory. Before leaving, he gave [[Domyx]] a scroll case containing a map showing a portion of [[Thalasia]] and a treacherous path through hills into the continent where Domyx's people live.
+He had dark blue skin, a pure white beard, and golden ornaments and chains. He spoke the titans' language and addressed Domyx as his great-nephew while condemning his descent from the homeland.
 
-## Nature
+Unlike mortal titan folk, Farron Acathian II was understood to be driven by powers beyond his own will. This distinction was Domyx's reason for urging mercy after their first battle; it did not establish that the lieutenant had been released from his orders.
 
-Farron Acathian II is driven by forces beyond his own will, more like natural forces than a free agent. He carries with him a storm and weather phenomenon. Titans like him lack the free will of mortal titan folk and are driven by other powers. He was part of a pair, along with [[Zohai Lapis]], who could heal allies and summon hailstorms.
+## Abilities
 
-## Session 037
+His presence carried storm and weather phenomena. He could summon cloud-based weapons and turn to cloud to move. His partnership with [[Zohai Lapis]] combined these powers with her healing and hailstorms. Together they later supplied supernatural protection to Emperor Shen.
 
-Farron Acathian II returned with [[Zohai Lapis]] to defend [[Emperor Shen]] at [[Axis Mundi]] after the destruction of [[Starfall]]. Their presence lent supernatural protection to the emperor. [[Domyx]] defeated Farron Acathian II, ending his contribution to that protection; [[Kerben]] subsequently killed Zohai Lapis.
+## Campaign History
+
+Already injured from an earlier encounter, Farron Acathian II attacked The Opal with Zohai Lapis under orders to kill the party. His arrival aboard [[The Opal]] threatened to capsize it, until Domyx steadied the vessel and helped defeat him. [[Vokenar]] healed both titans. Farron Acathian II gave Domyx a scroll case containing a map of [[Thalasia]] and a difficult route into the homeland, then departed peacefully north with Zohai Lapis. Their orders and future conduct remained unsettled. See [[session_023#Chunk 0000]].
+
+## Final Status
+
+He returned with Zohai Lapis to protect Emperor Shen after [[Starfall]]'s destruction. Domyx killed Farron Acathian II, ending his contribution to the emperor's protection; [[Kerben]] then killed Zohai Lapis. Domyx later reported his death to [[Domyx IV]]. See [[session_037#Chunk 0001]] and [[session_038#Chunk 0002]].

@@ -18,18 +18,42 @@ related:
   - "[[Charlotta Fjoller]]"
 ---
 
-[[Domyx]]'s sister, a titan folk born of the Empyreans — a term from old titan texts for their lineage. Lorelai Lapis-Acathian has long white hair reaching her knees and wears a golden circlet. She married into [[Clan Lapis]], a mining clan among the titan folk.
+# Lorelai Lapis-Acathian
 
-## Plot Events
+Lorelai Lapis-Acathian is [[Domyx]]'s sister, a titan who escaped [[Clan Akathia]] with his help and that of his companions. She left [[The Opal]] with [[Ulrich Fjoller]] to prepare a safer home for their expected child.
 
-During a dream visitation in session 016, Lorelai Lapis-Acathian contacted [[Domyx]] secretly using a scrying pool or communal magical device — an act she knew was unauthorized and risky. She revealed that [[Ulrich Fjoller]] had been imprisoned in dungeons for months after returning from seeking Domyx on the hill, and that the clan had sentenced Ulrich to execution. She pleaded with Domyx to return to the consulate, rescue Ulrich, and stay his execution.
+## Identity and Background
 
-Lorelai Lapis-Acathian revealed she was pregnant with Ulrich's child, adding urgency: the baby would need its father, and her pregnancy would soon make the secret impossible to hide. She warned Domyx not to let anyone know they spoke and to make it seem as though he wanted to live his life away from the clan.
+Born of the Empyrean lineage described in old titan texts, Lorelai Lapis-Acathian has white hair reaching her knees and wears a golden circlet. She married into [[Clan Lapis]], a titan mining clan. Her relationship with Ulrich Fjoller and pregnancy were concealed from her father, [[Domyx IV]], while she remained at [[Acathian Manor]].
 
-In session 024, Lorelai Lapis-Acathian emerged from hiding at [[Acathian Manor]] after overhearing [[Domyx]]'s conversation with [[Charlotta Fjoller]] about [[Emperor Shen]] breaking the sky. She confirmed she had heard every word. She revealed that [[Domyx IV]] did not yet know about her pregnancy and that she would do anything to get Ulrich to safety. She told Domyx that Ulrich was being held in the [[Prison of Frost]] and that they needed to flee — she could not stay at the manor and Ulrich could not return there. She showed Domyx how to reach the prison with gestures and asked him to teach her how to survive in the world below the mountains. After Domyx was disowned by his father, Lorelai Lapis-Acathian introduced herself to the rest of the party, apologizing for dragging them into the situation. She had previously contacted Domyx through a magical mirror.
+## Personality and Motivations
 
-After Domyx was disowned, the party proceeded to the [[Prison of Frost]] to rescue [[Ulrich Fjoller]]. [[Ceril]] dispelled the magical barrier holding Ulrich captive. With both Ulrich and Lorelai Lapis-Acathian free, they joined the party and returned to [[The Opal]] as new crew members — the ship now carrying two couples, one of whom was pregnant.
+She was determined to protect Ulrich Fjoller and their child, even at the cost of leaving her clan and learning to survive below the mountains. She recognized the danger of secretly contacting Domyx but believed his help was necessary to prevent Ulrich Fjoller's execution.
 
-In session 026, Lorelai Lapis-Acathian joined the crew's discussion of [[Emperor Shen]] aboard The Opal, emphasizing the vast suffering caused by her grandfather.
+## Relationships
 
-In session 034, Lorelai Lapis-Acathian and [[Ulrich Fjoller]] left [[The Opal]] as her pregnancy neared its end. They intended to prepare a safe home for their child while staying close to the changing world through [[The White Drake]] and possibly [[Southport]].
+- [[Domyx]] — Her brother and secret confidant. She sought his help freeing Ulrich Fjoller and later asked him to teach her how to survive outside their family's world.
+- [[Ulrich Fjoller]] — Her partner and the father of their expected child. She worked to free him from imprisonment and fled with him.
+- [[Domyx IV]] — Her father, from whom she concealed her pregnancy. She could no longer safely remain at his manor.
+- [[Clan Akathia]] — Her family clan; its punishment of Ulrich Fjoller drove her departure.
+- [[Clan Lapis]] — The mining clan into which she had married.
+
+## Campaign History
+
+### Secret appeal and escape
+
+Lorelai Lapis-Acathian contacted Domyx secretly during a dream visitation, warning that Ulrich Fjoller had been imprisoned for months after seeking him on the hill and was sentenced to execution. She revealed her pregnancy, asked Domyx to rescue him, and insisted their contact remain secret. Her pregnancy would eventually expose what she had hidden. The means of contact was initially unclear and later identified as a magical mirror. [[canon/sessions/session_016#Chunk 0000]]
+
+At Acathian Manor, she overheard Domyx and [[Charlotta Fjoller]] discussing [[Emperor Shen]]'s responsibility for breaking the sky. She emerged from hiding, confirmed that her father did not know about the pregnancy, and showed Domyx the route to the [[Prison of Frost]]. She could not remain at the manor, nor could Ulrich Fjoller return there. After Domyx was disowned, she introduced herself to his companions and apologized for drawing them into the danger. [[canon/sessions/session_024#Chunk 0003]]
+
+The party reached the prison, where [[Ceril]] dispelled the barrier holding Ulrich Fjoller. Both he and Lorelai Lapis-Acathian escaped to The Opal and joined its company. [[canon/sessions/session_024#Chunk 0004]]
+
+### Life beyond the clan
+
+Aboard The Opal, Lorelai Lapis-Acathian joined the discussion of her grandfather, Emperor Shen, emphasizing the suffering he had caused. [[canon/sessions/session_026#Chunk 0000]]
+
+She and Ulrich Fjoller later departed to prepare for parenthood. Their child was still expected in the coming months. [[Southport]] was suggested as a home, but she preferred [[The White Drake]], where the League offered safety and continuing purpose. [[canon/sessions/session_034#Chunk 0000]]
+
+## Final Status
+
+Lorelai Lapis-Acathian's last established appearance was her departure from The Opal with Ulrich Fjoller to prepare for their child's birth. She favored refuge aboard The White Drake; their eventual arrival and the birth itself are not recorded. [[canon/sessions/session_034#Chunk 0000]]

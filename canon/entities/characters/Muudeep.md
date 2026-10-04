@@ -10,4 +10,6 @@ related:
   - "[[The Garden]]"
 ---
 
-A figure at [[The Garden]] who specializes in attunable magic items. Muudeep trades art pieces for attunable items, each of which apparently has a song associated with it.
+# Muudeep
+
+Muudeep is a trader at [[The Garden]] specializing in magic items that require attunement. He exchanges such items for works of art; each apparently has an associated song.

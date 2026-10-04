@@ -47,7 +47,7 @@ A human wizard and former student of [[Heaven's Bulb]], Red Caesar is one of [[T
 
 ## Identity and Background
 
-Red Caesar is human, a survivor of [[The Cataclysm]], and a former pupil of [[Heaven's Bulb]], whose education aimed to make its members capable of inheriting a new world. Flashbacks show his education under [[Master Lee]], who valued Red Caesar's determination to understand how the world works even when the knowledge might be unbearable. [[Master Lee]] and [[Keeper Rufus]] warned him about the dangers outside the conclave. In one memory, [[Master Lee]] gave Red Caesar two copper blades, [[Para and Bellum]].
+Red Caesar is human, a survivor of [[The Cataclysm]], and a former pupil of [[Heaven's Bulb]], whose education aimed to make its members capable of inheriting a new world. Flashbacks show his education under [[Master Lee]], who valued Red Caesar's determination to understand how the world works even when the knowledge might be unbearable. [[Master Lee]] warned him about the dangers outside the conclave. In one memory, [[Master Lee]] gave Red Caesar two copper blades, [[Para and Bellum]].
 
 ## Personality and Motivations
 
@@ -101,7 +101,7 @@ Separately, Red Caesar completed [[Obvolvo Caelum]], a spell for condensing [[Pe
 - [[Wand of Blighting Bolts]] — Acquired from [[The Wonder Hulk]] in [[Cutlass Cray]] in exchange for his former Wand of Lightning Bolts, gemstones, and mithril, and retained at campaign end. Its Blight magic broadened his offensive tools.
 - [[Ioun of Crimson Dreams]] — A crimson octahedral stone acquired in [[Cutlass Cray]] and retained at campaign end. It strengthens his defenses and adapts its protection to different elemental energies.
 - [[Green Slaadi Whiskey]] — A volatile potion received from [[Mayor Yoris]] before the [[Mana Sea]] expedition. It can heal, poison, or rarely grant a wish; no consumption is confirmed, and final custody remains uncertain.
-- [[Hooksy the Clown Automaton]] — Red Caesar salvaged the creature's clown mask at [[The Carrot Cake]] and wore it during later exploration. Its subsequent custody is not established.
+- [[Hooksy the Clown Automaton]] — Red Caesar salvaged the creature's clown mask at [[The Carrot Cake]] and wore it during later exploration. No later transfer of the mask is recorded, so it remains with Red Caesar.
 - [[Teleport Keys]] — Circle encodements he used for routes to [[House Kiirnodel]], [[The White Drake]], the dwarvish market in [[The Pit]], and Broyish Steeltown. These destinations remain known, although they could not bypass [[Axis Mundi]]'s permanent abjurations.
 - [[Tome of Satariel]] — The ledger was destroyed by Kerben, but Red Caesar recovered three arcane pages. He used Contact Other Plane beneath [[The Funnel]] and later still carried Arcane Gate and Mind Blank; their final disposition is unconfirmed.
 - [[Tomb of Lenth the Rugged]] — A recovered resource he returned to [[Pleasance MacLenth]] at [[Bookbinders Cray]], rather than retaining.
@@ -118,7 +118,7 @@ In [[Darvinblast]], Red Caesar helped free the [[Steelfend Clan]] from [[Morel C
 
 On [[Continental Stark]], Red Caesar encountered open prejudice against humans. [[Aeon]] insulted him, and young elves in [[Brimbolyn]] targeted him with Sleep because of his ancestry. [[Garsinth Theralal]] apologized for his son's behavior and directed Red Caesar to [[Yalet Aurum]]. Red Caesar and his companions answered the golden-headed creature's riddle, receiving gold and a warning that [[The Order of Seasons]] was collecting [[Penumbra]].
 
-At [[The Academy]], Red Caesar debated [[Keys Caeradel]] and [[Illidrielle Gandara]] over the [[Demi-Spell]]'s imposed future. He negotiated an accord under which the party would stop collecting new [[Penumbra]] and surrender its stock if their attempt to repair the sky failed.
+At [[The Academy]], Red Caesar debated [[Keys Caeradel]] and [[Illidrielle Gandara]] over the [[Demi-Spell]]'s imposed future. He helped negotiate an accord under which the Order would pause collecting new [[Penumbra]] while retaining its stock; if the party failed to repair the sky, it would surrender its own collected Penumbra to support the Demi-Spell.
 
 On the voyage back from [[Continental Stark]], [[Vizier Jade]] assured Red Caesar that she was watching over him. He declined her restriction scroll and said his trust in her was enough. [[Yalet Mora]] also approached him about growing stronger and eventually taking [[Yalet Aurum]]'s golden head, a plan Red Caesar agreed to.
 
@@ -148,7 +148,7 @@ At [[The Carrot Cake]], Red Caesar investigated the electrical arcs in the [[Hol
 
 When the portal network failed, Red Caesar was drawn into a magical version of a [[Heaven's Bulb]] memory. [[Vizier Jade]] and [[Emperor Shen]] intruded into his memories, searching for the newly accessible [[Penumbra]] and threatening [[Obould]]. Red Caesar used True Seeing on his younger self, who identified Mending as the missing principle in his research and completed [[Obvolvo Caelum]].
 
-Red Caesar returned the party through the disabled portal network. At the sanctum door, he recognized the completed lamp challenges as its entry condition and the dangerous seawater held behind it. He also dispelled [[Fharan]]'s lethal contingency, allowing the captive to be questioned before his death. [[Fharan]] confirmed that [[Obould]] was alive and that [[Starfall]]'s next target was [[Sigil]].
+Red Caesar returned the party through the disabled portal network. At the sanctum door, he recognized the completed lamp challenges as its entry condition and the dangerous seawater held behind it. He also dispelled [[Fharan]]'s lethal contingency, allowing the captive to be questioned before his death. [[Fharan]] confirmed that [[Obould]] was alive and reported that [[Starfall]]'s next target was the sun.
 
 Inside [[Jack Harvey]]'s underwater vault, Red Caesar used [[Obvolvo Caelum]] to condense the vast [[Penumbra]] store into a portable orb. He charmed [[The Tyrant]], ending the fight long enough for the servant to reveal that [[Starfall]] lay beneath the world at [[Axis Mundi]]. A force connected to [[Vizier Jade]] then destroyed the creature before it could reveal more.
 
