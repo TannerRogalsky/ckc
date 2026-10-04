@@ -37,7 +37,7 @@ Source: [[chunks/sessions_001-0010]].
 
 ### Summary
 
-The opening session establishes the party aboard [[The Opal]] and their world. The [[Penumbra]] is introduced as "pieces of the fallen sky" — magical batteries. A stone found on a beach had no magical function but was fading. The party's quest involves finding and plugging the [[Hole in the Sky]]. [[The Order of Seasons]] seeks to bring about the [[Genesis Mundi]] using the [[Demi-Spell]]. [[The Cataclysm]] is referenced as a past world-resetting event. The three goddesses — [[Sigil]], [[Crone]], and [[Aeris]] — are introduced, with Sigil giving Ceril a shield.
+The opening session establishes the party aboard [[The Opal]] and their world. The [[Penumbra]] is introduced as "pieces of the fallen sky" — magical batteries. A stone found on a beach had no magical function but was fading. The party's quest involves finding and plugging the [[Hole in the Sky]]. [[The Order of Seasons]] seeks to bring about the [[Genesis Mundi]] using the [[Demi-Spell]]. [[The Cataclysm]] is referenced as a past world-resetting event. The three goddesses — [[Sigil]], [[Crone]], and [[Aeris]] — are introduced, with Aeris giving Ceril a shield.
 
 ### Connections
 

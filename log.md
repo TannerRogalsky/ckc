@@ -630,3 +630,14 @@
 ## [2026-10-03] lint | Preserved the union's duergar relationship and corrected attribution of the imperial violence warning.
 ## [2026-10-03] lint | Refined Heaven's Bulb background placement during the organization fact-preservation review.
 ## [2026-10-03] lint | Validated sixteen organizations, fact preservation, frontmatter, provenance, 798 wiki links, complete entity index, and append-only logging.
+## [2026-10-04] query | Inventoried five deity articles and verified divine identities, training, captivity, gifts, and final outcomes against campaign sources.
+## [2026-10-04] restructure | Applied character article structure to Aeris.
+## [2026-10-04] restructure | Applied character article structure to Blibdoolpoolp.
+## [2026-10-04] restructure | Applied character article structure to Corellon Larethian.
+## [2026-10-04] restructure | Applied character article structure to Crone.
+## [2026-10-04] restructure | Applied character article structure to Sigil.
+## [2026-10-04] update | Corrected Cataclysm attribution, divine training roles, and shield giver; aligned entity descriptions and appended verified deity appearances.
+## [2026-10-04] lint | Refined deity profiles to preserve elemental description, restoration work, divine power direction, and uncertain sibling ordering.
+## [2026-10-04] lint | Preserved deity encounter details and intervention limits; clarified Cataclysm flooding and equipment recipients.
+## [2026-10-04] lint | Validated five deity profiles, preserved facts, frontmatter, session history, 533 wiki links, complete entity index, and append-only logging.
+## [2026-10-04] query | Rechecked Ceril's shield attribution against explicit transcript statements and the conflicting session summary.

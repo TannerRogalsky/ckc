@@ -313,7 +313,7 @@
 - [[Kaboom Ring]] — Domyx's retained returning boomerang, releasing thunder and brief deafness around its impact
 
 ## Concepts
-- [[The Cataclysm]] — Lore of the world-ending event that reset the world
+- [[The Cataclysm]] — Devastation of Stark after Emperor Shen’s Starfall attack broke the sky and released Arkadia’s waters
 - [[Genesis Mundi]] — Natural renewal of reality, no longer accelerated by the party's destroyed Demi-Spell
 - [[Demi-Spell]] — World-remaking spell erased by Red Caesar, its blank pages becoming Broy's governing charter
 - [[Touching the Sky]] — Titan rite with cosmic implications for Domyx and the broken sky
@@ -323,6 +323,6 @@
 ## Deities
 - [[Aeris]] — Restored sky goddess who aids the final battle and welcomes Vokenar home after the divine mission succeeds
 - [[Sigil]] — Sun goddess spared Starfall's attack, later welcoming Vokenar back to Arkadia
-- [[Crone]] — Recovered moon goddess preparing Vokenar for a future campaign in the deeper hells
-- [[Blibdoolpoolp]] — Kuo-Toa deity defeated by the party on Otyugh Isle
-- [[Corellon Larethian]] — Primordial elven deity alluded to by Boril Erendel’s Larethian form
+- [[Crone]] — Recovered moon goddess and demanding mentor whose renewed training with Vokenar prepares a future assault on the deeper hells
+- [[Blibdoolpoolp]] — Kuo-Toa god made real through collective belief and defeated by the party on Otyugh Isle
+- [[Corellon Larethian]] — Primordial elf and deity of changing gender invoked by Boril Erendel’s Larethian form
