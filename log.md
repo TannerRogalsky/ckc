@@ -1050,3 +1050,7 @@
 ## [2026-10-04] lint | Validated map embeds, preserved frontmatter, wiki links, session headings, and complete entity index
 ## [2026-10-04] update | Moved session 037 Starfall map under Chunk 0001
 ## [2026-10-04] lint | Verified Starfall map placement, unique embed, and existing image target
+## [2026-10-04] query | Investigated missing website images and Quartz build input.
+## [2026-10-04] update | Staged tracked images inside canon input for the Quartz website build.
+## [2026-10-04] update | Replaced workflow staging with relocation of website images into canon/images.
+## [2026-10-04] lint | Verified relocated image integrity, existing embeds, successful Quartz build, and generated image URLs.
