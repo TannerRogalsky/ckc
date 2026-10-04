@@ -259,7 +259,7 @@ Source: [[chunks/sessions_001-0010]].
 
 ### Chunk 0003
 
-- [[Garsinth Theralal]] apologizes for his son's treatment of [[Red Caesar]] and supplies directions to [[Yalet Aurum]].
+- [[Garsynth Feralol]] apologizes for his son's treatment of [[Red Caesar]] and supplies directions to [[Yalet Aurum]].
 - Red Caesar visits Yalet Aurum alone, learns that [[Penumbra]] lies beyond his control, and returns with companions to answer a riddle about [[Yalet Mora]].
 - Yalet Aurum rewards [[Ceril]]'s alternative answer and Red Caesar's intended solution with gold.
 - At the market, Ceril trades the mask of Ogun to [[Gossa]] for an amulet that enables a magma-elemental familiar.

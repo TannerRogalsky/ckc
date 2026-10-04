@@ -116,7 +116,7 @@ Red Caesar joined the original company aboard [[The Opal]]. During an early priv
 
 In [[Darvenlast]], Red Caesar helped free the [[Steelfend Clan]] from [[Morel Chainsunder]]'s influence and released civilians from cages during the church confrontation. After the party found that the real [[Morel Chainsunder]] had died long ago, Red Caesar identified his last will as the surviving binding spell and destroyed it, ending the curse over the city.
 
-On [[Continental Stark]], Red Caesar encountered open prejudice against humans. [[Aeon]] insulted him, and young elves in [[Brimbolyn]] targeted him with Sleep because of his ancestry. [[Garsinth Theralal]] apologized for his son's behavior and directed Red Caesar to [[Yalet Aurum]]. Red Caesar and his companions answered the golden-headed creature's riddle, receiving gold and a warning that [[The Order of Seasons]] was collecting [[Penumbra]].
+On [[Continental Stark]], Red Caesar encountered open prejudice against humans. [[Aeon]] insulted him, and young elves in [[Brimbolyn]] targeted him with Sleep because of his ancestry. [[Garsynth Feralol]] apologized for his son's behavior and directed Red Caesar to [[Yalet Aurum]]. Red Caesar and his companions answered the golden-headed creature's riddle, receiving gold and a warning that [[The Order of Seasons]] was collecting [[Penumbra]].
 
 At [[The Academy]], Red Caesar debated [[Keys Caeradel]] and [[Illidrielle Gandara]] over the [[Demi-Spell]]'s imposed future. He helped negotiate an accord under which the Order would pause collecting new [[Penumbra]] while retaining its stock; if the party failed to repair the sky, it would surrender its own collected Penumbra to support the Demi-Spell.
 

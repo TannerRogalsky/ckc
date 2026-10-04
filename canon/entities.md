@@ -63,7 +63,7 @@
 - [[Osiris Dims]] — Aasimar born in Brimbolyn 45 years ago, revealed details about the Demi-Spell
 - [[Marshal Zem]] — Tiefling marshal of the Knights of the Four Seasons
 - [[Lesanderol Nokiirna]] — Elf mithril smith in the Elvish Marketplace
-- [[Garsinth Theralal]] — Older elf in Brimbolyn whose son cast Sleep on Red Caesar
+- [[Garsynth Feralol]] — Older elf in Brimbolyn whose son cast Sleep on Red Caesar
 - [[Yalet Aurum]] — Golden Galeb Duurr who staged his decline to give Yalet Mora closure
 - [[Stephanne Quist]] — Human receptionist at The Academy
 - [[Keys Caeradel]] — Demi-Spell author who leaves elven society seeking a new purpose after surrendering the completed spell

@@ -1054,3 +1054,6 @@
 ## [2026-10-04] update | Staged tracked images inside canon input for the Quartz website build.
 ## [2026-10-04] update | Replaced workflow staging with relocation of website images into canon/images.
 ## [2026-10-04] lint | Verified relocated image integrity, existing embeds, successful Quartz build, and generated image URLs.
+## [2026-10-04] query | Located Garsinth Theralal article, source spelling, and canon references
+## [2026-10-04] update | Corrected Garsinth Theralal to Garsynth Feralol across article, index, and canon references
+## [2026-10-04] lint | Validated Garsynth Feralol correction, frontmatter, canon links, entity index, and session 014 structure
