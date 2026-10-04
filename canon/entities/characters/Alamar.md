@@ -5,6 +5,7 @@ session_introduced: "007"
 sessions_appeared: ["007", "013", "015", "016", "018", "031", "032", "035", "038"]
 related:
   - "[[Lyngbakr Lagoon]]"
+  - "[[Tuna]]"
   - "[[Lyngbakr]]"
   - "[[Ceril]]"
   - "[[Vlerro]]"
@@ -33,4 +34,4 @@ In session 032, Alamar crossed the drained ocean floor of [[Arkadia]] with [[Cer
 
 ## Session 038
 
-Alamar greeted [[Vokenar]] in [[Arkadia]], accompanied by a small sphinx. He welcomed the peaceful life there after a difficult life on [[Stark]] and credited his eventual trust in the party. He understood that the [[Demi-Spell]] would not be cast and expected to remain until the natural renewal of the world.
+Alamar greeted [[Vokenar]] in [[Arkadia]], accompanied by [[Tuna]]. He welcomed the peaceful life there after a difficult life on [[Stark]] and credited his eventual trust in the party. He understood that the [[Demi-Spell]] would not be cast and expected to remain until the natural renewal of the world.

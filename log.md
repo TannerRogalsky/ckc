@@ -787,3 +787,19 @@
 ## [2026-10-04] lint | Resolved location prose aliases, restored entity links, and removed redundant editorial wording.
 ## [2026-10-04] lint | Validated location structure, fact preservation, provenance, canonical links, index coverage, and append-only logging.
 ## [2026-10-04] query | Reviewed reasons for the Morel Chainsunder consistency update.
+## [2026-10-04] query | Reviewed Lyngbakr and Rella Kel'Navvi classification against campaign sources.
+## [2026-10-04] update | Moved Lyngbakr and Rella Kel'Navvi to characters and updated the entity index.
+## [2026-10-04] restructure | Applied character article structure to Lyngbakr and Rella Kel'Navvi.
+## [2026-10-04] lint | Validated character structure, provenance, frontmatter, wiki links, index coverage, and append-only logging.
+## [2026-10-04] query | Reviewed remaining creature articles for character and vessel classification.
+## [2026-10-04] query | Verified sources for Witness, The Tyrant, PAXO, Xarag, and Tuna.
+## [2026-10-04] update | Moved Witness and Tuna to characters and updated their index entries.
+## [2026-10-04] update | Moved The Tyrant, PAXO, and Xarag to characters and updated their index entries.
+## [2026-10-04] restructure | Applied character article structure to Witness, The Tyrant, PAXO, Xarag, and Tuna.
+## [2026-10-04] lint | Corrected PAXO's unsupported wall-passing ability and qualified The Tyrant's destruction and Tuna's epilogue identity.
+## [2026-10-04] update | Added verified appearances while preserving introduction sessions and existing entity histories.
+## [2026-10-04] lint | Validated character structure, fact preservation, frontmatter, links, provenance, index coverage, and append-only logging.
+## [2026-10-04] update | Identified Tuna in Arkadia's epilogue from user clarification.
+## [2026-10-04] update | Reconciled Tuna, Alamar, session 038, timeline, and entity index.
+## [2026-10-04] lint | Removed unsupported travel abilities from Xarag's profile.
+## [2026-10-04] lint | Revalidated canon links, frontmatter, session structure, provenance, index coverage, and append-only logging.

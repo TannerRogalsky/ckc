@@ -156,7 +156,7 @@ Vokenar eventually awakened in Arkadia. He did not know whether weeks, years, or
 
 [[Sigil]], Aeris, and Crone welcomed him home. Arkadia's oceans were still lower than he remembered, but clouds and rain were replenishing them. Crone had recovered enough to guide their restoration.
 
-Alamar greeted Vokenar with a small sphinx nearby. He welcomed the peace of Arkadia after a life of fighting, confusion, and misplaced trust in Stark. His final trust in the party had given him some wisdom before he left the old world. He expected to remain in Arkadia until the natural renewal, understanding that the Demi-Spell would not be cast.
+Alamar greeted Vokenar with [[Tuna]] nearby. He welcomed the peace of Arkadia after a life of fighting, confusion, and misplaced trust in Stark. His final trust in the party had given him some wisdom before he left the old world. He expected to remain in Arkadia until the natural renewal, understanding that the Demi-Spell would not be cast.
 
 [[Illidrielle Gandara]] hurried over and asked whether Vokenar's companions had survived. He could only tell her that he had sent them away with the last of his magic and believed they were safe. She accepted that the spell she had worked on would remain unused. [[Damien Ouranous]] also greeted him, returning to a home he had never truly known. He hoped to study at [[Academia Lux]] and join the warriors Arkadia would need, and Vokenar offered to show him around.
 

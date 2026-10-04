@@ -1101,7 +1101,7 @@ Source: [[chunks/sessions_001-0010]].
 - Red Caesar erases the [[Demi-Spell]] and writes Broy's new charter on its paper. Vizier Jade helps establish the new order and accepts imprisonment for her crimes.
 - [[Theo Harvey]] reunites surviving [[40 Carats]] performers. Kerben rebuilds the troupe, receives a [[Spelljammer]] from Obould, visits [[Jack Harvey]]'s grave near [[Esperanto]], and eventually sails into the stars.
 - Domyx returns to a more open [[Thalasia]], where houses share authority. [[Charlotta Fjoller]] encourages him to speak with [[Domyx IV]], who apologizes; father and son reconcile.
-- Vokenar eventually awakens young in Arkadia, retaining his experience. He reunites with the goddesses, [[Alamar]], [[Illidrielle Gandara]], and [[Damien Ouranous]], then accepts [[Crone]]'s training for a future campaign in the deeper hells.
+- Vokenar eventually awakens young in Arkadia, retaining his experience. He reunites with the goddesses, [[Alamar]], [[Tuna]], [[Illidrielle Gandara]], and [[Damien Ouranous]], then accepts [[Crone]]'s training for a future campaign in the deeper hells.
 - The epilogue confirms [[Southport]]'s recovery, [[Lyngbakr]]'s return to Arkadia, [[Witness]]'s mapping of that plane, and [[Xander MacLenth]]'s passage to the afterlife. [[Kilosaurus]]'s death remains uncertain.
 - [[Rizolvir Kiirnodel]] becomes the elves' king, and [[The Academy]] is repurposed. The [[Rakshasa]] remains in [[Feronia Caeradel]]'s crystal; [[Keys Caeradel]]'s later direction is unresolved.
 - [[Beryzoz Helmscar]] settles his grievance with Kerben through the revived troupe. Lyngbakr Lagoon is revealed as a volcanic caldera, and [[Octavia Crayborne]] is identified as Cutlass Cray's mayor and a descendant of its builders.

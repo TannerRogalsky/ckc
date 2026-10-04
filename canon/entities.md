@@ -22,6 +22,10 @@
 - [[Aramil Kiirnodel]] — Took power after Queen Caeradwyn fell; primary force behind the Demi-Spell and painter of The Jewel of Alfheimer
 - [[Mobley]] — The cook aboard The Opal; kept the crew fed through the imperial attack aftermath
 - [[Vorgan of the Stage]] — Cutlass Cray actor and new performer aboard The Opal
+- [[Lyngbakr]] — Speaking Saratan ally who repairs the sky and returns to Arkadia's recovering oceans
+- [[Rella Kel'Navvi]] — Speaking blink dog, former Opal crew member, and Ceril's companion; last seen at Lyngbakr Lagoon before the imperial attack
+- [[Witness]] — Warforged cartographer created by Vizier Jade, mapping Arkadia after completing the chart of Stark
+- [[Tuna]] — Speaking sphinx and Alamar's companion, reunited with Vokenar in Arkadia at campaign end
 
 ## NPCs
 - [[Farron Acathian II]] — Emperor Shen's cloud titan lieutenant and Domyx's relative, defeated again at Axis Mundi
@@ -98,7 +102,9 @@
 - [[Sunspite]] — Entity that hates the sun and wanted Castle Kaedon sunk
 - [[Rakshasa]] — Keys Caeradel's father, whose bound soul remains in a crystal worn by Feronia Caeradel
 - [[Boston Golf]] — Former acting-troupe figure from The Carrot Cake represented by a Magic Hat fortune-teller automaton
-
+- [[The Tyrant]] — Vizier Jade's undead servant who revealed Starfall's location in Axis Mundi before an unseen force destroyed it
+- [[PAXO]] — Warforged that drove Witness from the human refuge and massacred its residents, destroyed by the party
+- [[Xarag]] — Black dragon slain at Xarag's Island after stealing The Opal's treasure; probable ancestor of the Castle Kaedon dragons
 
 ## Creatures & Companions
 - [[Arcanoloth]] — Fiendish outsider species; Farraday was one and commanded part of the ocean
@@ -123,9 +129,6 @@
 - [[Kilosaurus]] — Kerben's former hauling companion, left at Lyngbakr Lagoon and believed dead in the epilogue
 - [[Penelope]] — Giant bat ridden by a dwarf bat rider knight
 - [[Bat Rider]] — Elite dwarf knights riding giant bats
-- [[Rella Kel'Navvi]] — Blink dog companion from Otyugh Isle, now stationed at Lyngbakr Lagoon
-- [[Tuna]] — Sphinx, half cat half falcon, associated with Alamar
-- [[Lyngbakr]] — World-restoring turtle returned to Arkadia's recovering oceans
 - [[Saratan]] — Species of gigantic turtle/whale things (includes Lyngbakr)
 - [[Wyrm]] — Famous Saratan noted in records
 - [[Kuo-Toa]] — Amphibious race whose god is Blibdoolpoolp
@@ -138,7 +141,6 @@
 - [[Aeon]] — Githzerai creature from beyond Stark, green-skinned with psionic powers. Escaped after offering a star gem to Vokenar
 - [[Warg Lord]] — Massive fey beast with a bear-wolf body and goblin face, captain of the hobgoblin pirate ship The Hideous Truth
 - [[Storm Phoenix]] — Elemental being of pure power, once a gem of amber, driven mad by the Cataclysm. Destroyed by the party in session 015
-- [[Xarag]] — Prologue black dragon; slain on Xarag's Island; offspring attacked at Castle Kaedon
 - [[Animated Armor]] — Spell-sustained metal constructs disguised as statues, guarding Castle Kaedon
 - [[Psychic Goop]] — Gray ooze formed from decayed brain matter; retaliates against magical attacks with psychic damage
 - [[Mezzoloth]] — Fiendish beetle-like creature with four arms, magic resistance, and liquid-metal teleportation
@@ -155,13 +157,10 @@
 - [[Hezru]] — Large orange toad-like monster with bull horns and a nauseating stench aura
 - [[Harengon]] — Rabbit-like species with fuzzy orange fur and rapid reproduction
 - [[Oni]] — Fiendish horned demons serving as imperial guards for the Broyish Empire
-- [[The Tyrant]] — Vizier Jade's undead beholder-like servant found in Jack Harvey's vault; revealed Starfall's location before being destroyed
 - [[Rimefire Hydra]] — Massive eight-headed frost hydra encountered in the northern straits near Thalasia
 - [[Tatzelwurm]] — Unique white dragon variant near Thalasia that commands terrain weather; defeated by party ambush
 - [[Remorhaz]] — Huge, heat-exuding voracious creature of the northern territories that ambushes prey
 - [[Bane Siren]] — Siren dwelling in an underwater garden among Deep Roses; twisted by the Cataclysm, defeated by the party
-- [[PAXO]] — Warforged construct with a reflective faceplate and heat beam attacks; massacred humans in the Southern Archipelago Castle before being defeated by the party
-- [[Witness]] — Construct cartographer mapping Arkadia after completing the chart of Stark
 - [[Aboleth]] — Extraplanar memory-feeder that enslaved drow and Kuo-Toa in the Mana Sea before the party killed it
 - [[Victor, the Amphibious Beast]] — Kerben's large crocodilian companion, effective on land and in water
 
