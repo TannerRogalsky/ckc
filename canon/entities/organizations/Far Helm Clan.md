@@ -2,9 +2,25 @@
 type: organization
 subtypes: [clan]
 session_introduced: "011"
-sessions_appeared: ["013"]
+sessions_appeared: ["011", "013"]
 ---
 
-A dwarf clan that operates in the [[Deep World]]. They hid valued treasure in a cavern as insurance in case the deep worlders failed. A map to the Far Helm clan keep was found by [[Ceril]] among the effects of a defeated enemy. The treasure is now accessible to the party since the map's original owner and his kin were killed in battle.
+# Far Helm Clan
 
-In session 013, the party followed the clan's map to an abandoned half-built coastal home that had been left behind when the clan joined the deep worlder cult. The site could have housed 20–30 dwarves. [[Red Caesar]] dated the abandonment to roughly when the deep worlder cult rose to power. They recovered a sapphire, silver and copper coins, and released the ghost of [[Xander MacLenth]], a pirate who had once died trying to seize the site from the dwarven family — likely the ancestors of [[Gammix]] and [[Tammix]].
+Far Helm Clan was a dwarven clan associated with the [[Deep World]]. Its abandoned coastal home and treasure map became a tangible record of a household diverted into the deep-world movement.
+
+## Holdings and Resources
+
+The clan left a half-built coastal home with room for an extended household. Treasure concealed there was intended as a fallback if the underground venture failed. By the party's visit, much had been removed, although a prized sapphire and silver and copper coinage remained.
+
+## Campaign History
+
+[[Ceril]] recovered a map to the clan's keep among the belongings of a defeated deep-world defender. The bearer and his kin had died in the fighting, leaving that group unable to return for the cache.
+
+Following the map, the party found the unfinished home abandoned. [[Red Caesar]] dated its weathering to the rise of the deep-world cult and understood the site as a household given up when its people moved underground. The companions recovered the remaining sapphire and coins.
+
+The home also held the ghost of [[Xander MacLenth]]. He said that he and his pirate crew had tried to seize it from a dwarven family, whose defenders killed them. [[Gammix]] and [[Tammix]] may have participated while younger, but their relationship to Far Helm Clan is not confirmed; their established clan is [[Steelfend Clan]]. [[Vokenar]] raised water over the ghost at his request, allowing him to pass on.
+
+## Final Status
+
+The last investigation of the clan's home occurs in [[canon/sessions/session_013#Chunk 0001|session 013]]. The site was abandoned and its remaining treasure taken by the party. The map bearer's family's deaths do not establish the fate of every clan member, and no later clan leadership or settlement is recorded.

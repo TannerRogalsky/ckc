@@ -605,3 +605,28 @@
 ## [2026-10-03] query | Reviewed concept classifications against divine faction accounts in existing transcripts.
 ## [2026-10-03] update | Reclassified Aesir and Vanir as organizations; updated faction descriptions and entity index categories.
 ## [2026-10-03] lint | Validated reclassified factions, frontmatter, preserved session history, wiki links, complete entity index coverage, and append-only logging.
+## [2026-10-03] query | Reviewed sixteen organizations alongside character, item, vessel, session, and transcript structures.
+## [2026-10-03] update | Added organization article structure and maintenance instructions to AGENTS.md.
+## [2026-10-03] lint | Validated organization instructions, campaign examples, compatibility with existing rules, formatting, change scope, and append-only logging.
+## [2026-10-03] query | Inventoried sixteen organizations and verified institutional histories, affiliations, and uncertain outcomes against existing sources.
+## [2026-10-03] restructure | Applied organization article structure to Clan Lapis.
+## [2026-10-03] restructure | Applied organization article structure to Dancing Blades.
+## [2026-10-03] restructure | Applied organization article structure to Far Helm Clan.
+## [2026-10-03] restructure | Applied organization article structure to Figma Brickfinger's Union.
+## [2026-10-03] restructure | Applied organization article structure to Goblin Traders.
+## [2026-10-03] restructure | Applied organization article structure to Heaven's Bulb.
+## [2026-10-03] restructure | Applied organization article structure to Knights of the Four Seasons.
+## [2026-10-03] restructure | Applied organization article structure to Steelfend Clan.
+## [2026-10-03] restructure | Applied organization article structure to 40 Carats.
+## [2026-10-03] restructure | Applied organization article structure to Aesir.
+## [2026-10-03] restructure | Applied organization article structure to Broyish Empire.
+## [2026-10-03] restructure | Applied organization article structure to Clan Akathia.
+## [2026-10-03] restructure | Applied organization article structure to House Kiirnodel.
+## [2026-10-03] restructure | Applied organization article structure to The League of New Stark.
+## [2026-10-03] restructure | Applied organization article structure to The Order of Seasons.
+## [2026-10-03] restructure | Applied organization article structure to Vanir.
+## [2026-10-03] update | Integrated verified organizational developments and appended source-supported appearances without changing introduction sessions.
+## [2026-10-03] update | Aligned organization index descriptions and corrected linked Genesis Mundi and senator accounts.
+## [2026-10-03] lint | Preserved the union's duergar relationship and corrected attribution of the imperial violence warning.
+## [2026-10-03] lint | Refined Heaven's Bulb background placement during the organization fact-preservation review.
+## [2026-10-03] lint | Validated sixteen organizations, fact preservation, frontmatter, provenance, 798 wiki links, complete entity index, and append-only logging.

@@ -23,7 +23,7 @@ A drow of former House Caeradel, mother of [[Keys Caeradel]]. She is "chiefly in
 
 She was encountered by [[Ceril]] before [[The Cataclysm]] alongside [[Rizolvir Kiirnodel]] when Ceril was fleeing the elven lands. She recognized Ceril's future self, saying "your soul survives many worlds unchanged" and that he was "never meant to be bound in the new world." She predicted Ceril would become a god in the reset world.
 
-She warned the party that the [[Broyish Empire]] is their greatest enemy, working toward the [[Genesis Mundi]] with Penumbra pieces collected for weapons. She said the Empire is "more violent than any elf" and "willing to wield that violence against those who would even show up on their radar."
+At [[House Kiirnodel]], [[Rizolvir Kiirnodel]] warned that the [[Broyish Empire]] opposed the Order's attempt to bring about [[Genesis Mundi]] and was collecting [[Penumbra]], probably for a weapon. Rizolvir Kiirnodel described the Empire as more violent than any elf and willing to attack people merely brought to its attention.
 
 She asked the party to check in on [[Boril Erendel]] at [[The Garden]], worrying where his mind has taken him with his side project.
 

@@ -2,26 +2,71 @@
 type: organization
 subtypes: [order]
 session_introduced: "001"
-sessions_appeared: ["013", "014", "034", "035", "038"]
+sessions_appeared: ["004", "007", "012", "013", "014", "026", "034", "035", "038"]
 related:
   - "[[Keys Caeradel]]"
   - "[[Demi-Spell]]"
 ---
 
-An organization mostly composed of elves. Their ship [[The Croakborne Carnival]] flies their flag. [[Obould]] hates them, calling them "mostly elves, mostly jerks." They seek to recreate the world with the [[Demi-Spell]], which accelerates and modifies the [[Genesis Mundi]]. [[Boril Erendel]] is associated with them but stationed at [[The Garden]]. A half-elf woman who stole the [[Penumbra]] works for this order.
+# The Order of Seasons
 
-[[Sigil]] revealed in session 013 that the order's stolen [[Penumbra]] had been moved deeper into [[Brimbolyn]], beyond the jungles, to perhaps the order's most protected place. [[Alamar]] warned that their plan to cast [[Genesis Mundi]] would undo both harm and good, and that the party must keep [[Penumbra]] away from them.
+The Order of Seasons is the predominantly elven institution that developed the [[Demi-Spell]] to renew the world. Its research was completed, but the spell was surrendered to the party and erased, leaving its original project ended and [[The Academy]] repurposed.
 
-In session 014, the party learned the Order operates the [[Knights of the Four Seasons]] as their militia, stationed at the train junction into [[Brimbolyn]]. [[Osiris Dims]] revealed the Magic City and the Order are "one and the same," and that the [[Demi-Spell]] may be less than a year away. The Order has acquired "rare possessions" to speed up their research. The Order's symbol is a full moon with phases of the moon framing it like parentheses. Decades ago, someone tried to stop the Demi-Spell and destroy all who knew it — possibly [[Morel Chainsunder]].
+## Identity and Background
 
-At [[The Academy]], the party met [[Keys Caeradel]], [[Illidrielle Gandara]], and [[Stephanne Quist]]. Keys Caeradel and Illidrielle Gandara were the same individuals who stole [[Penumbra]] from [[Castle Kaedon]]. The Order uses Penumbra as energy sources for the Demi-Spell. [[Aramil Kiirnodel]] is the primary force behind the Demi-Spell's power. Every elven house and most humans on the continent align with the project. The Order granted the party access to teleport circles after negotiating an accord: the party will stop collecting new Penumbra, and if their plan to fix the sky fails, they will give all collected Penumbra to the Order.
+The Order's emblem is a full moon framed by gibbous, half, and crescent phases. It united researchers and supporters from the elven houses and other inhabitants of [[Continental Stark]].
 
-In session 034, [[Rizolvir Kiirnodel]] agreed to stop urging [[Keys Caeradel]] to cast the [[Demi-Spell]] while the party confronts [[Boril Erendel]]. The reprieve delays political pressure rather than ending the Order's project.
+Decades before the party's visit, an opponent had tried to stop the Demi-Spell by destroying those who knew it. A possible connection to [[Morel Chainsunder]] was raised but not established.
 
-## Session 035
+## Purpose and Principles
 
-The Order completed the [[Demi-Spell]] using its accumulated [[Penumbra]], but its conflict with the [[Broyish Empire]] brought severe losses. After [[Boril Erendel]]'s death, [[Keys Caeradel]] relinquished the decision to cast the spell and entrusted it to the party. The Order's immediate effort to reset the world ended with that handover.
+The Order intended to accelerate and shape [[Genesis Mundi]] through the Demi-Spell, carrying the world into a renewed cycle rather than simply repairing the present sky. The natural renewal and the mortal spell intended to invoke it are related but distinct.
 
-## Session 038
+Its researchers hoped to undo catastrophe and preserve worthwhile forms of life in the next world. Their consultations, divinations, and records were meant to reduce harm, but the party challenged the loss of lives and relationships formed since [[The Cataclysm]]. Agreement among the local houses and much of the continent's human population did not establish consent from every surviving people.
 
-The completed [[Demi-Spell]] was never cast: [[Red Caesar]] erased it and used its paper for [[Broy]]'s charter. [[The Academy]] was repurposed after the existing world was saved. The elves' subsequent government was a monarchy under [[Rizolvir Kiirnodel]].
+## Leadership and Membership
+
+- [[Keys Caeradel]] — Principal researcher and writer who eventually entrusted the completed spell to the party rather than decide to cast it himself.
+- [[Illidrielle Gandara]] — Researcher and Keys Caeradel's collaborator, previously involved in taking [[Penumbra]] from [[Castle Kaedon]]. Her death sharpened the grief surrounding the project's completion.
+- [[Stephanne Quist]] — Human researcher who advocated giving the party an opportunity to repair the sky.
+- [[Boril Erendel]] — Order member working separately at [[The Garden]]. His forced-reincarnation project was his own undertaking and became a danger the party opposed.
+
+[[Aramil Kiirnodel]] and [[House Kiirnodel]] supplied major power and support behind the undertaking. [[Rizolvir Kiirnodel]] and [[Feronia Caeradel]] worked to bring it to completion, but those roles do not establish a complete hierarchy or a single permanent head of the Order.
+
+## Relationships
+
+- [[House Kiirnodel]] — Principal aristocratic supporter of the Demi-Spell. Rizolvir Kiirnodel later agreed to postpone pressure on Keys Caeradel while the party confronted Boril Erendel.
+- [[Knights of the Four Seasons]] — Militia protecting the Order and its magi, including admission controls on the approach to [[Brimbolyn]].
+- [[Broyish Empire]] — Opposing power whose war and attacks on the heavens brought disasters and losses despite the Order's successful research.
+- [[Obould]] — Distrusted the predominantly elven Order. His hostile opinion is distinct from an established account of its whole membership.
+- [[Red Caesar]] — Defended the possibility of preserving the existing world and ultimately erased the completed spell. The party's negotiations created a conditional working arrangement rather than unconditional allegiance.
+
+## Holdings and Resources
+
+The Academy in Brimbolyn housed the spell's research and copying, supported by specialist magic, scribes, laboratories, and accumulated Penumbra. Consuming the stones' energy accelerated the work and reduced the burden on those contributing their own lives to its creation. Earlier reports suggested that new resources might put casting within the coming year; this was a contemporary estimate.
+
+[[The Croakborne Carnival]] served the Order and flew its flag. The Order and its supporters also provided access to teleport circles.
+
+[[Osiris Dims]] described Brimbolyn and the Order as inseparable. That account expresses their close civic relationship without making a city, research institution, militia, and aristocratic house interchangeable entities.
+
+## Campaign History
+
+### The stolen Penumbra and the conditional accord
+
+[[Sigil]] told the party that the Penumbra taken from Castle Kaedon had been moved deeper into Brimbolyn, perhaps to one of the Order's best-protected places. [[Alamar]] warned that world renewal could erase good as well as harm and urged the party to keep further stones from it.
+
+At the Academy, the companions recognized Keys Caeradel and Illidrielle Gandara as the pair involved in the theft. The researchers explained how Penumbra powered the Demi-Spell and defended the undertaking's local support.
+
+The party negotiated time to attempt its alternative. It agreed to stop collecting new Penumbra and to surrender its gathered material if the sky-restoration plan failed. The Order granted circle access, while retaining its own project and requiring evidence that repair could work.
+
+### Completion and relinquishment
+
+After the sky's repair and the moon's destruction, the question of casting remained urgent. Rizolvir Kiirnodel agreed to stop pressing Keys Caeradel while the party addressed Boril Erendel's separate attempt to dictate the next world's inhabitants.
+
+The Order completed the Demi-Spell with its accumulated Penumbra, but conflict with the Broyish Empire had brought severe losses. Boril Erendel was dead, and Keys Caeradel mourned Illidrielle Gandara. The party argued that another renewal would erase lives already worth preserving and that the moon could recover through the goddesses' work.
+
+Keys Caeradel surrendered the completed document. That handover ended the Order's immediate effort to cast it, without undoing the research or resolving every member's future.
+
+## Final Status
+
+In [[canon/sessions/session_038#Chunk 0002|session 038]], Red Caesar erases the uncast Demi-Spell and uses its paper for [[Broy]]'s charter. The Academy is retired from its original purpose and repurposed, while the elves adopt a monarchy under Rizolvir Kiirnodel. The ending settles the project's fate, but does not explicitly dissolve the Order or establish its complete later membership and governmental role.

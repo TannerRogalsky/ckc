@@ -299,7 +299,7 @@ After writing:
 
 # Character Article Structure
 
-Apply this structure when creating or deliberately reorganizing character files, including party members and NPCs. Use the exact section names and order below; omit optional sections without substantive source-supported content. This is a body layout, not a change to the frontmatter schema. Vessels follow Vessel Article Structure; other entity types retain their existing layouts.
+Apply this structure when creating or deliberately reorganizing character files, including party members and NPCs. Use the exact section names and order below; omit optional sections without substantive source-supported content. This is a body layout, not a change to the frontmatter schema. Vessels follow Vessel Article Structure; organizations follow Organization Article Structure; other entity types retain their existing layouts.
 
 ## Opening and Section Order
 
@@ -358,6 +358,81 @@ After restructuring:
 - Preserve frontmatter identity and session history; reorganization alone does not establish a new appearance or introduction session. Validate frontmatter and links under the existing rules.
 - Check index coverage and update the one-line entity description when the article's canonical characterization is materially corrected. A layout-only change does not require rewriting an accurate index description.
 - Perform the applicable Post-Ingest Validation checks for touched canon surfaces and append the operations to log.md. Do not change quest status merely because a character article was reorganized.
+
+# Organization Article Structure
+
+Apply this structure when creating or deliberately reorganizing organization files. Use `type: organization`, store files in `canon/entities/organizations/`, and choose the established organization subtypes that fit the source. This body layout does not add frontmatter fields. It follows the character profiles' distinction between identity and history, the vessels' attention to leadership and affiliations, and the items' treatment of resources and final disposition.
+
+## Opening and Section Order
+
+After frontmatter, use `# Canonical Name`, matching the filename, followed by a short introduction identifying the group, its defining purpose or affiliation, and its campaign significance. Keep the introduction consistent with the last established state; qualify former rulers, projects, allegiances, and forms of government.
+
+Use the exact section names and relative order below. Omit optional sections without substantive source-supported content or when they would merely repeat the introduction.
+
+| Order | Exact heading | Content and boundaries |
+|---|---|---|
+| 1 | `## Identity and Background` | The group's nature, origins, founding, pre-campaign history, constituent people, traditions, and identifying symbols. Distinguish a political body or divine faction from a species, an individual deity, or a place. Explain meaningful changes of name without making an alias the ordinary name. Put campaign-era changes in Campaign History and summarize their result here only as needed to describe the group accurately. |
+| 2 | `## Purpose and Principles` | Established goals, beliefs, public mission, characteristic practices, and institutional functions such as protection, trade, research, or entertainment. Distinguish professed ideals from demonstrated conduct, former projects from continuing purposes, and collective policy from an individual's ambition. Attribute hostile descriptions and disputed motives. |
+| 3 | `## Leadership and Membership` | Founders, rulers, commanders, governing arrangements, significant members, specialists, and constituent branches. Use linked bullets or a compact role table when helpful. Distinguish leadership, membership, employment, patronage, and temporary association. Mark former roles, departures, defections, deaths, and succession; a historical roster does not establish membership or office at campaign end. Include narratively important unnamed roles in ordinary prose. Do not invent ranks, succession arrangements, or a complete hierarchy. |
+| 4 | `## Relationships` | Consequential alliances, rivalries, obligations, subordinate relationships, and ties to characters, other groups, deities, and communities. Use one bullet per relationship, beginning with a canonical wiki-link and explaining its nature, stakes, and important changes. Keep internal roles in Leadership and Membership. A member can also appear here when a distinct bond or conflict warrants it. Frontmatter `related` remains a curated navigation aid rather than a copy of every link. |
+| 5 | `## Holdings and Resources` | Established territory, seats, estates, bases, vessels, artifacts, wealth, networks, and distinctive institutional expertise or magical and military capabilities. Explain how these support the group, linking the relevant entity articles for fuller descriptions. Distinguish ownership, rule, command, custody, access, and temporary use, and mark former or lost resources. A member's personal equipment or abilities are not automatically communal resources. Keep numerical mechanics, inventories of incidental wares, and operating instructions out. |
+| 6 | `## Campaign History` | A chronological synthesis of consequential actions, discoveries about the group, bargains, conflicts, losses, reforms, changes of leadership or allegiance, and institutional transformations. Explain what changed for the organization and why it mattered. Use compact paragraphs or milestone bullets, with descriptive `###` arc headings for substantial histories. Do not reproduce the party's itinerary, individual members' biographies, or combat logs. |
+| 7 | `## Final Status` | The last established leadership, purpose, control of significant holdings, relationships, and institutional condition, including any epilogue. Distinguish survival, dispersal, revival, reform, replacement, and dissolution only as the record supports. Separate completed outcomes from proposals and forecasts. If the group drops out of the record before the finale, give its last attested state and verified session without implying that it continued unchanged. Preserve meaningful uncertainty about later activity, leadership, or existence. |
+
+## Identity, Authority, and Resources
+
+Treat the group as the article's subject. An aristocratic house is distinct from its estate; a troupe is distinct from its amusement park; an order is distinct from its academy, militia, and associated government. Explain supported connections without merging their identities. Shared branding, a meeting place, or a character's association alone does not establish ownership, membership, or organizational equivalence. Resolve apparent equivalence against the sources rather than automatically splitting or merging entities.
+
+Clans are organizations, while their broader peoples or species follow the creature classification. Divine factions such as Aesir and Vanir remain organizations; their named members retain the primary types appropriate to their individual narrative roles. Do not treat all descendants, worshipers, residents, allies, or subjects as members. Describe unnamed crews or communities in ordinary prose unless they independently warrant an entity under the extraction rules.
+
+Differentiate authority over a group from authority over a settlement, people, or territory. A noble house's leader is not automatically head of an allied order; a monarch's later reign does not establish command of every former institution. Support, coercion, and negotiated cooperation are distinct relationships. Attribute a person's claim to speak for a group when that mandate is uncertain. Do not generalize an individual's actions or prejudices into policy without evidence.
+
+Apply the existing item and vessel custody rules when describing holdings. A personal gift, borrowed resource, ship under a member's command, or temporary visit does not by itself make the resource organizational property. Preserve established group ownership or control of vessels, distinguish individual custody, and record explicit transfers, losses, abandonment, consumption, or destruction. Summaries of holdings must agree with the relevant item, vessel, location, character, and index entries; do not invent transfers to reconcile them.
+
+## Chronology, Evidence, and Duplication
+
+Campaign History owns the detailed event sequence. The other sections synthesize the group's identity, aims, people, relationships, resources, and final condition without repeating whole scenes. Put pre-campaign institutional history in Identity and Background even when learned through a later flashback or testimony; explain a consequential campaign discovery in Campaign History without retelling the whole earlier account.
+
+Order history by established in-world chronology, using session and chunk order when uncertain. Integrate new material into the appropriate profile section or historical arc; do not append competing `## Session NNN`, Members, Goals, or Miscellaneous sections. Session summaries and transcripts retain the fuller event record. Use session or chunk references only when verified, as supporting citations or to identify the last attested state, rather than as the article's organizing structure.
+
+Existing organization prose and index descriptions are starting points, not authority for contradictions. Consult session summaries and source chunks for consequential questions about identity, affiliation, collective responsibility, custody, or institutional fate. Distinguish testimony, accusations, memories, dreams, prophecies, and plans from established events. An intrusion into a remembered headquarters does not establish the institution's later physical condition. Do not import external mythology, game lore, or assumptions about how governments work.
+
+A defeated ruler does not establish the destruction of all subjects or the dissolution of every institution. A completed research project does not prove that its organization disbanded. Defeat of a divine manifestation does not prove that every associated divine spark ceased to exist. Explain evidence of continuity, replacement, or uncertain survival without inventing closure. A proposed office, alliance, constitution, or voyage is not an established appointment, treaty, form of government, or completed journey.
+
+Use canonical names throughout prose and link labels. Keep spelling variants in aliases, and preserve meaningful historical renaming without using aliases as ordinary names. Remove routine mechanics and table commentary; retain capabilities and practices only at the level needed to explain the organization's role. Avoid generic Unknown placeholders for absent facts.
+
+## Scaling the Layout
+
+- **Substantial recurring organizations:** Use every section with meaningful information. Campaign History and Final Status are required. The Broyish Empire and The Order of Seasons need room for institutional change; a full layout does not justify inventing membership, doctrine, or resources.
+- **Moderately documented organizations:** Select standard sections that improve retrieval. A short origin can remain in the introduction; a single relationship or resource can remain in its relevant narrative paragraph when a separate section would repeat it.
+- **Brief organizations:** An introduction alone, or an introduction with selected standard sections, is sufficient. Preserve meaningful members, functions, events, and uncertainty without expanding a clan or crew into an unsupported political system. Include an established fate in the introduction when Final Status would only repeat it.
+- Optional `###` subdivisions may organize substantial leadership arrangements, holdings, or historical arcs. Do not create empty headings, placeholders, or competing top-level layouts for different subtypes.
+
+## Application Examples from This Campaign
+
+These examples guide placement based on the existing organizations; verify the underlying sources when rewriting rather than copying current article claims as canon.
+
+- **Broyish Empire:** Separate imperial ideology, Emperor Shen's former rule, Vizier Jade's changing role, forces and vessels, and the pursuit of Penumbra and Starfall. Campaign History traces coercion, military collapse, and the Broy settlement. Final Status distinguishes the former regime from the established charter without inventing a constitutional label or confirming every office Red Caesar proposed.
+- **The Order of Seasons, House Kiirnodel, and Knights of the Four Seasons:** Separate the Demi-Spell project's purpose, the house's leadership and estate, the Academy's research, and the militia's protective role. Describe their institutional relationships without treating the three groups as aliases. Completion, surrender, and erasure of the Demi-Spell are distinct milestones; the Academy's repurposing and Rizolvir Kiirnodel's monarchy do not by themselves settle every organization's later status.
+- **The League of New Stark:** Distinguish its protective mission, Lady Jacinthe and Obould's leadership, The White Drake and League Banner, and imperial coercion over Penumbra. A wedding attended by Broy's representative supports diplomatic contact; it does not establish a formal alliance.
+- **40 Carats and Goblin Traders:** Describe entertainment and commerce as institutional functions, with founders, performers, traders, and specialists in Leadership and Membership. Keep 40 Carats distinct from The Carrot Cake. Trace the troupe's confirmed reunion and Kerben's later departure without inventing his successor. Describe the traders' ship and magical summons at a high level, leaving fuller function and custody to the vessel or item article where one exists.
+- **Clan Akathia, Clan Lapis, Steelfend Clan, and Far Helm Clan:** Distinguish people, clan governance, family connections, characteristic work, and homes or caches. Clan Akathia's former isolation and dynastic authority must agree with the later cooperative rule. Steelfend Clan's liberation and Far Helm Clan's abandoned home belong in their respective histories; preserve uncertain kinship and avoid treating an emptied site as proof that its entire clan died.
+- **Heaven's Bulb, Figma Brickfinger's Union, and Dancing Blades:** Separate training and survivor dispersal, union authority and the deep worlders' transition, and the thieves guild's historical political influence. Members encountered later, a recalled expedition, and dead prisoners provide evidence about different periods; none alone establishes a complete final roster or institutional fate.
+- **Aesir and Vanir:** Keep faction identity and constituent divine beings separate from the ancient war, surviving sparks, claimed world cycles, and returning manifestations. Attribute Domyx I's account of earlier cycles. Preserve the distinction between Domyx I and the resurrected Emperor Shen, and describe the final defeat at the scope established by the sources.
+
+## Reorganization and Maintenance Checks
+
+Before restructuring, inventory distinct identity and background facts, goals, practices, leaders, members, relationships, holdings, capabilities, historical events, and unresolved claims. Map each to its destination section. Preserve substantive information and verified source references, or correct it from evidence; do not discard a meaningful fact because it fits the layout awkwardly.
+
+After writing:
+
+- Confirm the canonical title, exact standard headings and relative order, and absence of empty or duplicate sections and leftover session appendices.
+- Compare the result with the fact inventory and sources. Confirm that each substantive fact and meaningful uncertainty survives in an appropriate section or was corrected from evidence.
+- Verify chronological history and agreement between the introduction, profile sections, and last established institutional state. Distinguish past and final leaders, membership, projects, affiliations, holdings, and governments.
+- Check claims of membership, authority, collective policy, ownership, continuity, replacement, and dissolution. Confirm that associated people, places, vessels, and artifacts remain distinct entities and that linked articles agree on consequential facts.
+- Preserve frontmatter identity, `session_introduced`, and existing appearance history. Reorganization alone establishes no new appearance; add older appearances only when verified from sources. Validate schema compliance, quoted session values, aliases, meaningful `related` links, and all entity and source links.
+- Confirm exactly one correctly categorized index entry per entity file. Update descriptions and affected linked articles when canon is materially corrected; an accurate index description needs no change for layout alone.
+- Remove routine mechanics, table meta, unsupported generalizations, and duplicated scene accounts. Apply the relevant Post-Ingest Validation checks and append operations to `log.md`. Reorganization alone does not change quest status.
 
 # Session Summation
 

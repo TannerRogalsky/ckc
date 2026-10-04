@@ -2,7 +2,7 @@
 type: "organization"
 subtypes: ["empire"]
 session_introduced: "004"
-sessions_appeared: ["013", "014", "016", "022", "023", "030", "031", "033", "034", "035", "037", "038"]
+sessions_appeared: ["004", "011", "012", "013", "014", "016", "021", "022", "023", "024", "030", "031", "033", "034", "035", "037", "038"]
 aliases:
   - "Dawn Empire"
 related:
@@ -18,46 +18,78 @@ related:
   - "[[Axis Mundi]]"
 ---
 
-A xenophobic empire ruled by [[Emperor Shen]]. [[Lady Jacinthe]] of [[The League of New Stark]] is concerned about them hurting people under the League's protection. [[Boril Erendel]] hinted that "looking east" would reveal answers about imperial structure, pointing toward this empire.
+# Broyish Empire
 
-In session 016, [[Lady Jacinthe]] revealed that the Empire may be collecting [[Penumbra]]-like obsidian stones to power a massive magical weapon, possibly a cannon. The League had recently shot down an imperial airship carrying such a stone.
+The Broyish Empire was [[Emperor Shen]]'s coercive imperial regime, served by [[Vizier Jade]]. Its pursuit of [[Penumbra]] and use of [[Starfall]] threatened the heavens and neighboring communities; after the emperor's destruction, [[Broy]] received a new legal order developed by Vizier Jade and [[Red Caesar]].
 
-In session 013, [[Alamar]] reported seeing Broyish airships searching the area around [[Castle Kaedon]]. They did not appear to find the castle, but their command of the sky makes them a threat to [[Lyngbakr Lagoon]] and future [[Penumbra]] operations.
+## Identity and Background
 
-In session 014, [[Rizolvir Kiirnodel]] and [[Feronia Caeradel]] of [[House Kiirnodel]] warned the party that the Empire is their greatest enemy. The Empire is also pursuing the [[Genesis Mundi]] and collecting [[Penumbra]] pieces — likely for a weapon. The Empire is described as more violent than any elf, killing people who don't even stand in their way. [[Vizier Jade]] confirmed the Empire has a military arm mapping all of what was once Stark and that she has been watching [[Red Caesar]] to ensure he survives until he can be recruited.
+The empire's authority centered on Broy and extended through military occupation and control of surrounding waters. Its forces bore distinctive cape insignia and included scouts, marshals, naval crews, and supernatural guards.
 
-In session 022, the party encountered imperial military forces on the [[Harengon Warrens]] island. [[Red Caesar]] identified distinctive markings on the soldiers' capes as imperial insignia. The Empire maintains a significant military presence in the region with scouts and marshals stationed on occupied islands.
+The regime was described as xenophobic. That characterization concerns its imperial conduct rather than proving a single outlook among all its subjects. [[House Kiirnodel]]'s leaders acknowledged that many humans depended on the imperial system for survival even while condemning its violence.
 
-## Session 023
+## Purpose and Principles
 
-The party arrived at the coast of [[Broy]] and disembarked. They encountered [[Oni]] demons serving as imperial guards, suggesting the Empire employs fiendish creatures for enforcement. [[Theo Harvey]] revealed that [[Vizier Jade]] had sent her companion [[The Tyrant]] to search for [[The Carrot Cake]], indicating the Empire's interest in ancient magical structures and their potential power sources.
+Emperor Shen sought to kill the gods and preserve power for himself and his descendants. Penumbra supplied Starfall, the weapon with which he attacked the sky and later the moon. His promised survival beyond Stark's fall remained a claim, rather than an established imperial outcome.
 
-## Session 030
+The empire opposed the Order's attempt to bring about [[Genesis Mundi]]. Rizolvir Kiirnodel's warning about that opposition did not establish an imperial plan to cast the renewal itself. His account of indiscriminate imperial violence and Lady Jacinthe's concern about coercive rule were testimony about the regime's ambitions.
 
-The Empire attacked [[The Opal]] with multiple boats while the party remained inside [[The Carrot Cake]]. [[Kerben]] repelled the first wave but stayed with the ship because a larger force was approaching under cover of the moonless dark created by [[Emperor Shen]]'s attack on the moon.
+## Leadership and Membership
 
-The Empire also made a direct move inside The Carrot Cake after the party lit all four lamps. Someone dispelled the [[Hole on Wheels]] portal paintings, trapping the party on the train while [[Jack Harvey]]'s inner sanctum opened elsewhere. During the same rest, [[Vizier Jade]] and Emperor Shen intruded into [[Red Caesar]]'s dream, confirming they were searching for the newly accessible [[Penumbra]] while the party was incapacitated.
+- [[Emperor Shen]] — Former ruler, Domyx's erased sky-touching grandfather, and architect of the assaults on the goddesses. He died at Axis Mundi, returned as the last Vanir, and was destroyed again.
+- [[Vizier Jade]] — Former chief agent and adviser who directed recruitment, hostage negotiations, and imperial magic. She betrayed Emperor Shen, helped establish Broy's new charter, and accepted imprisonment under its laws.
+- [[Fharan]] — Led the imperial force into [[The Carrot Cake]] using the recaptured [[Theo Harvey]] as guide.
+- [[The Tyrant]] — Vizier Jade's companion, sent to investigate The Carrot Cake.
 
-## Session 031
+[[Oni]] served as guards in Broy. Their employment establishes a supernatural component to imperial enforcement without making every member of that people an imperial subject or soldier.
 
-The Empire escalated from scouting to open naval assault. Its ships attacked [[The Opal]], pursued the party to [[The Carrot Cake]], recaptured [[Theo Harvey]], and forced him to guide an imperial force led by [[Fharan]] into the park. Fharan's group failed to open [[Jack Harvey]]'s inner sanctum and was defeated by the party.
+## Relationships
 
-The imperial flagship [[Imperial Xihe]] then reached [[Lyngbakr Lagoon]] with [[Emperor Shen]] and [[Vizier Jade]]. The Empire landed troops around the refuge and used [[Obould]] as hostage to demand the Penumbra. During the confrontation, the party revealed that they knew [[Starfall]] was hidden at [[Axis Mundi]]. Emperor Shen captured [[Domyx]], and Vizier Jade killed [[Vokenar]] and took his body.
+- [[The League of New Stark]] — Rival defending communities threatened by imperial expansion. The empire used [[Obould]] as leverage over [[Lady Jacinthe]] and the League to obtain Penumbra.
+- [[The Order of Seasons]] — Opposing institution whose world-renewal project competed for Penumbra and was challenged by imperial war.
+- [[Red Caesar]] — Vizier Jade sought to cultivate and recruit him after observing his power. He ultimately helped sabotage Starfall and construct a political future beyond Emperor Shen's rule.
+- [[Clan Akathia]] — Emperor Shen's suppressed origin connected imperial power to [[Domyx]]'s family conflict. That ancestry does not establish the clan as an imperial branch.
 
-## Session 033
+## Holdings and Resources
 
-[[Lodestar]] reported that Broyish Empire troops and ships were retreating amid a power vacuum in the east. [[Emperor Shen]] appeared weakened and was not expected to act before the next moon.
+The former regime commanded airships and a naval force, including the flagship [[Imperial Xihe]]. Its military mapped what had once been [[Stark]] and stationed forces on islands. The party encountered its insignia and personnel near the [[Harengon Warrens]].
 
-## Session 034
+At [[Axis Mundi]], Starfall consumed Penumbra to pierce the barriers between worlds and attack the goddesses. Vizier Jade's permanent magical protection guarded that site against magical travel. Starfall was destroyed, rather than inherited by Broy's later government; the record does not settle the fate or continuing control of every imperial vessel.
 
-With Emperor Shen absent, imperial waters were largely empty and the Broyish towns had entered a period of political confusion. The Empire was militarily weakened, and its prior form of government had collapsed without a clear successor, creating the risk of crime and instability before a new revolutionary force could take hold.
+## Campaign History
 
-## Session 037
+### Intelligence, recruitment, and the search for Penumbra
 
-[[Emperor Shen]] sent soldiers to intercept [[The Opal]] in the [[Gray Wastes]] while preparing to destroy [[Sigil]]. The boarding attack failed, and its captured leader was petrified by a secrecy condition after revealing the plan.
+[[Boril Erendel]] pointed the party east for answers about imperial power. [[Alamar]] reported airships searching near [[Castle Kaedon]] without apparently finding it, leaving the hidden refuge at [[Lyngbakr Lagoon]] vulnerable to discovery.
 
-At [[Axis Mundi]], [[Red Caesar]] proposed rebuilding the empire with [[Vizier Jade]]. She turned against Emperor Shen and enabled the [[Antumbra]] sabotage of [[Starfall]]. Emperor Shen was killed, after which the old [[Vanir]] returned to attack the party as servants of the three sister goddesses. The last manifestation is provisionally identified as [[Domyx I]]. No new imperial government was established during these events.
+House Kiirnodel warned that the empire was collecting Penumbra, probably for a weapon. Lady Jacinthe's intelligence and a League airship interception reinforced the possibility of an immense magical cannon. Vizier Jade separately confirmed the military's mapping work and her interest in keeping Red Caesar alive for recruitment.
 
-## Session 038
+In Broy, the party encountered Oni guards and learned that Vizier Jade had sent The Tyrant in search of The Carrot Cake. Her bargaining over Obould's captivity then confirmed Penumbra's intended use in Starfall.
 
-With [[Emperor Shen]] destroyed, [[Vizier Jade]] and [[Red Caesar]] rebuilt [[Broy]] through a governing charter written on the blank pages of the destroyed [[Demi-Spell]]. Their plan established continuity of leadership and limits on personal rule. Vizier Jade initially served as a public representative but expected Red Caesar eventually to lead; she later accepted imprisonment for her crimes. The exact constitutional form was not settled by name.
+### Naval assault and the lagoon
+
+While the party explored The Carrot Cake, imperial boats attacked [[The Opal]]. [[Kerben]] repelled the initial force but remained aboard as a larger fleet approached under the moonless darkness caused by Emperor Shen's attack.
+
+At the same time, someone dispelled the [[Hole on Wheels]] portal paintings, stranding the companions after they opened Jack Harvey's inner sanctum. The intruder's identity was not established. During the forced rest, Emperor Shen and Vizier Jade entered Red Caesar's dream and sought the newly accessible Penumbra. Their search revealed an intention to exploit the delay, rather than proof that they had already obtained the vault's contents.
+
+The empire recaptured Theo Harvey and forced him to lead Fharan's soldiers into the park. That force failed to open the inner sanctum and was defeated by the party. The naval assault continued, driving The Opal toward the lagoon.
+
+Imperial Xihe reached the refuge as imperial troops landed and Emperor Shen and Vizier Jade confronted the party with Obould as hostage. The party revealed its knowledge that Starfall lay at Axis Mundi. Obould was rescued, but Emperor Shen captured Domyx, and Vizier Jade killed [[Vokenar]] and took his body.
+
+### Retreat and the emperor's final attack
+
+[[Lodestar]] reported imperial retreat and a power vacuum in the east, believing the weakened emperor would not act before the next moon. Later travel found imperial waters largely empty and Broyish towns in political confusion. The old government lacked an effective successor, leaving the risk of instability.
+
+Emperor Shen nevertheless retained forces for his final attack. Soldiers intercepted The Opal in the [[Gray Wastes]] while he prepared to destroy [[Sigil]]. The boarding failed; a captured leader disclosed the plan before a secrecy condition petrified him.
+
+At Axis Mundi, Red Caesar proposed rebuilding Broy with Vizier Jade. She turned against Emperor Shen and enabled the planted [[Antumbra]] to destroy Starfall. The party killed the emperor, but his dying call brought back [[Entropie]] and [[Dunkelkalt]]. After their defeat, Entropie's Wish resurrected Emperor Shen as the last [[Vanir]]. This was the emperor's transformed body, distinct from the ancestral god [[Domyx I]]. The companions destroyed that final manifestation.
+
+### Broy's charter
+
+After the battle, Red Caesar and Vizier Jade developed a legal framework with safeguards for succession and limits on personal rule. Red Caesar erased the [[Demi-Spell]] and wrote Broy's charter on its blank pages. The charter was established and displayed.
+
+Vizier Jade initially represented Broy publicly and expected responsibility eventually to pass to Red Caesar. She then submitted to punishment under the new laws and accepted imprisonment for her crimes. The settlement was enacted, but the precise constitutional label and every proposed office were not confirmed.
+
+## Final Status
+
+The epilogue in [[canon/sessions/session_038#Chunk 0002|session 038]] establishes Emperor Shen's destruction and Broy's new charter. The former personal regime has been superseded. Red Caesar's contribution and Vizier Jade's accountability are established; a permanent appointment to all his proposed roles or a later formal transfer of leadership is not. No complete disposition of the old military and fleet is recorded.

@@ -23,7 +23,7 @@ related:
 
 Leader of [[House Kiirnodel]], son of [[Aramil Kiirnodel]]. Aligned chiefly with [[The Order of Seasons]].
 
-He recognized [[Ceril]] from before [[The Cataclysm]] — they were the two faces from Ceril's escape flashback. He warned the party that their greatest enemy is the [[Broyish Empire]], which is also pursuing the [[Genesis Mundi]] and collecting [[Penumbra]] pieces for what he believes is a weapon. He said the Empire is more violent than any elf and kills people who don't even stand in their way.
+He recognized [[Ceril]] from before [[The Cataclysm]] — they were the two faces from Ceril's escape flashback. He warned the party that their greatest enemy is the [[Broyish Empire]], which opposes the Order's attempt to bring about [[Genesis Mundi]] and is collecting [[Penumbra]] pieces for what he believes is a weapon. He said the Empire is more violent than any elf and kills people who don't even stand in their way.
 
 In session 022, Rizolvir greeted [[Red Caesar]] and [[Ceril]] when they arrived at [[House Kiirnodel]]'s teleport circle in Brimbolyn. He recognized them and asked their purpose. [[Feronia Caeradel]] identified Ceril as a survivor of the old world. Rizolvir lowered the Otiluke blast shield surrounding the circle. When Red reported that [[Boril Erendel]] had developed "wild ideas" at [[The Garden]] and was adding pages to the [[Demi-Spell]] on his own, Rizolvir agreed to send someone to retrieve him, though he noted Boril Erendel's son was overwhelmed with work.
 

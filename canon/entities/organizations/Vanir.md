@@ -18,18 +18,49 @@ related:
 
 # Vanir
 
-A divine faction of ancient titan gods who opposed the [[Aesir]] for dominion over [[Stark]]. [[Emperor Shen]] first invoked the two names in session 032 while explaining [[Domyx]]'s descent from beings born alongside the sister goddesses.
+Vanir is the divine faction of ancient titan gods that fought the [[Aesir]] for dominion over [[Stark]]. Its returning manifestations were defeated at [[Axis Mundi]], ending their immediate threat to the sister goddesses without settling every surviving divine spark's fate.
 
-In session 036, Domyx recalled that the Vanir fought the sky goddesses before the creation of the sky, moon, sun, and stars. The goddesses won and the titans were cast down. Deep beneath Stark, the party walked among enormous stone heads: the remains of the physical avatars the defeated gods used in that war, rather than carved monuments. Their surviving divine sparks can exist beyond those fallen bodies.
+## Identity and Background
 
-[[Red Caesar]] contacted [[Domyx I]] in the [[Gray Wastes]]. Domyx I claimed the divine war recurs with each world cycle, that the Vanir had won in earlier cycles, and that they would rule again after the next [[Genesis Mundi]]. His account of other cycles remains unverified.
+The titan gods and sky goddesses fought before the creation of the present sky, moon, sun, and stars. The Aesir won, and the fallen physical avatars of the Vanir sank beneath Stark. Their enormous stone heads were remains of divine bodies, rather than carved monuments.
 
-## Session 037
+Divine sparks could survive beyond those destroyed avatars. The faction's ancient origin is distinct from the mortal titan houses descended from those powers.
 
-After [[Emperor Shen]]'s mortal defeat at [[Axis Mundi]], [[Vizier Jade]] revealed that he and other titans had secretly conspired with the fallen gods. His dying call brought back [[Entropie]] and [[Dunkelkalt]], hostile counterparts to the sister goddesses.
+## Purpose and Principles
 
-The party defeated both manifestations. Before disappearing, Entropie cast a Wish that brought forth the last Vanir, the resurrected [[Emperor Shen]]. The returning old gods attack the party as servants of their enemies, [[Aeris]], [[Sigil]], and [[Crone]]. At the end of session 037, the final manifestation and four unexplained obelisks remained an active threat.
+The ancient conflict concerned control of the world between its highest and lowest realms. [[Domyx I]] claimed that the struggle repeated across world cycles, that the titans had won in earlier worlds, and that they would rule after the next [[Genesis Mundi]]. His account of those cycles and predictions of renewed dominion remain unverified.
 
-## Session 038
+The gods who returned with Emperor Shen's dying call opposed the sisters' creation and attacked the party for serving them.
 
-The final manifestation was the resurrected [[Emperor Shen]], transformed into the last Vanir by [[Entropie]]'s Wish. His arrival renewed the [[Gray Wastes]]' hostility to life, and four stone stelae reinforced him: the Stele of Apotropaism, Stele of Menace, Stele of Solemnity, and Stele of Serenity. The party permanently destroyed those supports before [[Red Caesar]] disintegrated Emperor Shen. This ended the returning Vanir's immediate threat to [[Aeris]], [[Sigil]], and [[Crone]].
+## Leadership and Membership
+
+- [[Domyx I]] — An ancestral titan god or surviving divine spark contacted in the [[Gray Wastes]]. His later fate is not established.
+- [[Dunkelkalt]] — Returning god associated with consuming the sun and moon, defeated by the party.
+- [[Entropie]] — Returning god associated with consuming the stars, whose final Wish resurrected Emperor Shen.
+- [[Emperor Shen]] — A mortal titan who conspired with the fallen gods and became the last returning Vanir through Entropie's Wish. His final body was destroyed.
+
+These attested beings do not establish a complete roster or a separate faction hierarchy.
+
+## Relationships
+
+- [[Aesir]] — Ancient victorious rivals. The returning gods treated the party as servants of [[Aeris]], [[Sigil]], and [[Crone]], renewing that struggle through their mortal champions.
+
+## Campaign History
+
+### Ancestry and the surviving god
+
+Emperor Shen named the Vanir and Aesir while explaining [[Domyx]]'s divine descent. When the companions later walked among the fallen avatars beneath Stark, Domyx recalled the ancient war from childhood teachings.
+
+[[Red Caesar]] contacted Domyx I in the Gray Wastes. The encounter demonstrated an ancestral presence beyond the stone bodies, while its assertions about earlier world cycles remained testimony. Domyx I was distinct from Emperor Shen, despite Red Caesar's initial mistaken recognition.
+
+### The returning manifestations
+
+As Emperor Shen died at Axis Mundi, his call brought back Entropie and Dunkelkalt. [[Vizier Jade]] warned that the emperor and other titans had secretly conspired with those fallen gods. They attacked the party as the sisters' representatives.
+
+The companions defeated both manifestations. Before vanishing, Entropie used Wish to resurrect Emperor Shen as the last Vanir. The transformed emperor and four newly raised stone supports remained for the final confrontation.
+
+Emperor Shen's return renewed the Gray Wastes' hostility to life. The Stele of Apotropaism, Stele of Menace, Stele of Solemnity, and Stele of Serenity reinforced him until the party permanently destroyed them. Red Caesar then disintegrated the resurrected emperor. His wasting influence ended and fertile growth returned to the damaged ground.
+
+## Final Status
+
+The final returning manifestation is destroyed in [[canon/sessions/session_038#Chunk 0002|session 038]], ending the immediate Vanir threat to the sisters. That opponent was Emperor Shen, rather than Domyx I. The record does not establish Domyx I's later fate or the extinction of every divine spark associated with the ancient faction.

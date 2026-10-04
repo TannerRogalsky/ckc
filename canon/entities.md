@@ -241,18 +241,18 @@
 - [[Vanir]] — Rival divine faction of ancient titan gods whose returning manifestations are defeated, culminating in Emperor Shen's destruction
 - [[40 Carats]] — Jack Harvey's entertainment company and troupe, reunited by Theo Harvey and rebuilt under Kerben
 - [[Clan Lapis]] — Titan folk clan known for mining and gem exploration; Lorelai Lapis-Acathian married into this clan
-- [[Heaven's Bulb]] — Group of cataclysm survivors
-- [[Figma Brickfinger's Union]] — The Pit’s dwarven union, whose prohibition an ancient underworld expedition defied
-- [[Steelfend Clan]] — Dwarf clan; Gammix and Tammix joined the party
-- [[Far Helm Clan]] — Dwarf clan with hidden treasure cavern
+- [[Heaven's Bulb]] — Human refuge and magical school whose dispersed former students include Red Caesar and Lodestar; later institutional survival is uncertain
+- [[Figma Brickfinger's Union]] — Dwarven governing union in The Pit, overseeing deep-world integration and the excavation that reopened the Funnel
+- [[Steelfend Clan]] — Darvinblast dwarf household freed from Morel Chainsunder's control, providing refuge and gifts to the party
+- [[Far Helm Clan]] — Deep-world dwarf clan whose abandoned coastal home and remaining treasure were found through its keep map; later clan fate is uncertain
 - [[Clan Akathia]] — Titan clan sharing authority with other houses after the end of isolation and dynastic rule
-- [[House Kiirnodel]] — Elven aristocratic house encountered in Ceril's escape flashback
+- [[House Kiirnodel]] — Elven aristocratic house supporting the Demi-Spell and negotiating with the party; its leader Rizolvir Kiirnodel later becomes king
 - [[The League of New Stark]] — Maritime league led by the newly married Obould and Lady Jacinthe
 - [[The Order of Seasons]] — Elven order whose Demi-Spell project ends with the spell erased and the Academy repurposed
 - [[Broyish Empire]] — Former imperial regime succeeded by Broy's new legal order under Red Caesar's charter
-- [[Knights of the Four Seasons]] — Elven marshal service on Continental Stark, led by Marshal Zem
+- [[Knights of the Four Seasons]] — The Order of Seasons' protective militia, encountered under Marshal Zem at Brimbolyn's rail approach
 - [[Goblin Traders]] — Goblin crew operating a red-sailed trading ship on the high seas, selling poisons and magical wares
-- [[Dancing Blades]] — Thieves guild from old Kaedon, members including Clockwork who was imprisoned in Castle Kaedon
+- [[Dancing Blades]] — Former Kaedonite thieves guild represented in the republic's senate; a visiting advocate died trapped in Castle Kaedon's cells
 
 ## Items
 - [[Spelljammer]] — Obould's crystalline gift to Kerben, mounted aboard The Opal for its later journey among the stars
