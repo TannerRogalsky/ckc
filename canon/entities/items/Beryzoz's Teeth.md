@@ -19,11 +19,11 @@ related:
 
 Beryzoz's Teeth is an enchanted ring made from [[Beryzoz Helmscar]]'s own teeth and acquired by [[Red Caesar]]. It protects its wearer from necrotic harm and helped the party recover testimony about the world before [[The Cataclysm]] and the dangers they faced.
 
-## Properties
+## Description
 
-The ring grants resistance to necrotic harm, requires attunement, and allows its wearer to cast Speak with Dead once per day. Its teeth leave the band, enter a corpse's mouth, and return to the wearer's finger after the questioning. The answers draw on what the deceased knew in life; they are not necessarily truthful or helpful. The teeth also sometimes speak directly to their wearer.
+The ring protects its attuned wearer from necrotic harm and allows limited use of Speak with Dead. Its teeth leave the band, enter a corpse's mouth, and return to the wearer's finger after the questioning. The answers draw on what the deceased knew in life; they are not necessarily truthful or helpful. The teeth also sometimes speak directly to their wearer.
 
-## History and Ownership
+## Campaign History
 
 Beryzoz Helmscar originally obtained the ring to try to speak with his discarded flesh after replacing his skin with metal. Red Caesar traded an amethyst for it in [[The Pit]].
 

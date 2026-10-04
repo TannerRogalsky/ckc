@@ -641,3 +641,65 @@
 ## [2026-10-04] lint | Preserved deity encounter details and intervention limits; clarified Cataclysm flooding and equipment recipients.
 ## [2026-10-04] lint | Validated five deity profiles, preserved facts, frontmatter, session history, 533 wiki links, complete entity index, and append-only logging.
 ## [2026-10-04] query | Rechecked Ceril's shield attribution against explicit transcript statements and the conflicting session summary.
+## [2026-10-04] query | Reviewed creature articles and item layouts for creature documentation instructions.
+## [2026-10-04] update | Added creature article structure, flavor preservation, evidence, and maintenance instructions to AGENTS.md.
+## [2026-10-04] update | Clarified creature flavor relevance and linked creature guidance from character layout instructions.
+## [2026-10-04] lint | Validated creature guidance, section order, existing-rule compatibility, change scope, formatting, and append-only logging.
+## [2026-10-04] query | Inventoried 56 item entries and compared their layouts with the new compact article guidance.
+## [2026-10-04] review | Checked compact article structure for Akasha.
+## [2026-10-04] review | Checked compact article structure for Antumbra.
+## [2026-10-04] restructure | Applied compact item article structure to Beryzoz's Teeth.
+## [2026-10-04] review | Checked compact article structure for Boots of the Alvargard.
+## [2026-10-04] review | Checked compact article structure for Branch of the Itinerant.
+## [2026-10-04] review | Checked compact article structure for Cestus of the Clear Sky.
+## [2026-10-04] review | Checked compact article structure for Chart of the Witness.
+## [2026-10-04] review | Checked compact article structure for Cloaks of Billowing.
+## [2026-10-04] review | Checked compact article structure for Cornucopia of Constellations.
+## [2026-10-04] review | Checked compact article structure for Crone's Contempt.
+## [2026-10-04] review | Checked compact article structure for Deception by Lenth.
+## [2026-10-04] review | Checked compact article structure for Deep Roses.
+## [2026-10-04] review | Checked compact article structure for Gith Shard Glaive.
+## [2026-10-04] review | Checked compact article structure for Green Slaadi Whiskey.
+## [2026-10-04] review | Checked compact article structure for Hilltop Hunter.
+## [2026-10-04] review | Checked compact article structure for Hopping Mad Sash.
+## [2026-10-04] review | Checked compact article structure for Iklwa Isondo.
+## [2026-10-04] review | Checked compact article structure for Ioun of Crimson Dreams.
+## [2026-10-04] review | Checked compact article structure for Ioun of the Emerald Hunter.
+## [2026-10-04] review | Checked compact article structure for Ioun of the Gilded Savior.
+## [2026-10-04] review | Checked compact article structure for Jack Harvey's Portrait.
+## [2026-10-04] review | Checked compact article structure for Jade's Compass.
+## [2026-10-04] review | Checked compact article structure for Kaboom Ring.
+## [2026-10-04] review | Checked compact article structure for Kaedonite Black Ale.
+## [2026-10-04] review | Checked compact article structure for Lady Acelia's Chalice.
+## [2026-10-04] review | Checked compact article structure for League Banner.
+## [2026-10-04] review | Checked compact article structure for Lolth's Sting.
+## [2026-10-04] review | Checked compact article structure for Mangonel.
+## [2026-10-04] review | Checked compact article structure for Moon Blade.
+## [2026-10-04] review | Checked compact article structure for Moon Mushrooms.
+## [2026-10-04] review | Checked compact article structure for Obould's Wedding Band.
+## [2026-10-04] review | Checked compact article structure for Orkland Pin of Courage.
+## [2026-10-04] review | Checked compact article structure for Para and Bellum.
+## [2026-10-04] review | Checked compact article structure for Penumbra.
+## [2026-10-04] review | Checked compact article structure for Potion of Clairvoyance.
+## [2026-10-04] review | Checked compact article structure for Potion of Eels.
+## [2026-10-04] review | Checked compact article structure for Potion of Fluid Adamantite.
+## [2026-10-04] review | Checked compact article structure for Potion of Proof Against Storms.
+## [2026-10-04] review | Checked compact article structure for Potion of Soothing Gaze.
+## [2026-10-04] review | Checked compact article structure for Preparation Melf.
+## [2026-10-04] review | Checked compact article structure for Rahmadi's Capers.
+## [2026-10-04] review | Checked compact article structure for Ranger Scroll.
+## [2026-10-04] review | Checked compact article structure for Shark's Edge.
+## [2026-10-04] review | Checked compact article structure for Spelljammer.
+## [2026-10-04] review | Checked compact article structure for Starfall.
+## [2026-10-04] review | Checked compact article structure for Subpoena Deuces Mercator.
+## [2026-10-04] review | Checked compact article structure for Sunset's Solace.
+## [2026-10-04] review | Checked compact article structure for Tatzelwurm Gizzard Juice.
+## [2026-10-04] review | Checked compact article structure for Teleport Keys.
+## [2026-10-04] review | Checked compact article structure for The Ascot.
+## [2026-10-04] review | Checked compact article structure for The Jewel of Alfheimer.
+## [2026-10-04] review | Checked compact article structure for Tomb of Lenth the Rugged.
+## [2026-10-04] review | Checked compact article structure for Tome of Satariel.
+## [2026-10-04] review | Checked compact article structure for Vivarian Zodex.
+## [2026-10-04] review | Checked compact article structure for Wand of Blighting Bolts.
+## [2026-10-04] review | Checked compact article structure for Wyvern Poison.
+## [2026-10-04] lint | Validated 56 item articles, preserved facts and provenance, 636 wiki links, complete entity index, and alphabetical logging.

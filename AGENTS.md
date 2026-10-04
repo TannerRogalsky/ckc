@@ -299,7 +299,7 @@ After writing:
 
 # Character Article Structure
 
-Apply this structure when creating or deliberately reorganizing character files, including party members and NPCs. Use the exact section names and order below; omit optional sections without substantive source-supported content. This is a body layout, not a change to the frontmatter schema. Vessels follow Vessel Article Structure; organizations follow Organization Article Structure; other entity types retain their existing layouts.
+Apply this structure when creating or deliberately reorganizing character files, including party members and NPCs. Use the exact section names and order below; omit optional sections without substantive source-supported content. This is a body layout, not a change to the frontmatter schema. Vessels follow Vessel Article Structure; organizations follow Organization Article Structure; creatures follow Creature Article Structure; other entity types retain their existing layouts.
 
 ## Opening and Section Order
 
@@ -433,6 +433,60 @@ After writing:
 - Preserve frontmatter identity, `session_introduced`, and existing appearance history. Reorganization alone establishes no new appearance; add older appearances only when verified from sources. Validate schema compliance, quoted session values, aliases, meaningful `related` links, and all entity and source links.
 - Confirm exactly one correctly categorized index entry per entity file. Update descriptions and affected linked articles when canon is materially corrected; an accurate index description needs no change for layout alone.
 - Remove routine mechanics, table meta, unsupported generalizations, and duplicated scene accounts. Apply the relevant Post-Ingest Validation checks and append operations to `log.md`. Reorganization alone does not change quest status.
+
+# Creature Article Structure
+
+Apply this structure when creating or deliberately reorganizing creature files. Use `type: creature`, store files in `canon/entities/creatures/`, and choose established creature subtypes that fit the sources: `enemy`, `beast`, `companion`, `familiar`, or `race`. This body layout does not add frontmatter fields.
+
+Most creature articles describe hostile beings the party encountered and defeated. Their value often lies in memorable campaign flavor rather than an extensive biography or continuing plot. Follow the items' compact Description, Campaign History, and Final Status approach, with encounter outcomes in place of custody. Preserve what made the creature distinctive without expanding sparse evidence into a character profile or a general monster encyclopedia.
+
+## Opening and Section Order
+
+After frontmatter, use `# Canonical Name`, matching the filename, followed by a short introduction identifying the creature or kind of creature, its defining traits, and its campaign context. Make clear whether the article concerns a species, recurring enemy type, particular creature, or companion. Keep established outcomes and former roles consistent with the last known state.
+
+Use the exact section names and relative order below. Omit a section when its substantive information fits in the introduction or another section without duplication.
+
+| Order | Exact heading | Content and boundaries |
+|---|---|---|
+| 1 | `## Description` | Source-supported appearance, sounds, movement, behavior, habitat, origins, and distinctive powers or vulnerabilities. Retain vivid details that made the encounter memorable, including unusual anatomy, hunting habits, transformations, and manifestations of magic. Describe capabilities through their observable or narrative effects, without statistics, damage types as a resistance inventory, save results, ranges, or operating rules. Distinguish observed traits from testimony and speculation. |
+| 2 | `## Campaign History` | A compact chronological account of meaningful encounters: where and why the creature appeared, its role or threat, how the party dealt with it, and the established outcome. Preserve consequential discoveries, rescues, negotiations, escapes, remains, recovered objects, and effects on people or places. Include a decisive action only when it explains the outcome or supplies memorable narrative detail. Do not reproduce attack sequences, routine spell casts, or the party's full itinerary. |
+| 3 | `## Final Status` | The last established fate, condition, whereabouts, or relationship to the party, including any epilogue. Distinguish killed, destroyed, defeated, driven off, escaped, spared, released, or still accompanying someone only as supported. For a species or recurring enemy type, state what happened to the encountered individuals without implying the whole population shared that fate. Preserve meaningful uncertainty when the record leaves the outcome unsettled. |
+
+## Relevance, Flavor, and Scope
+
+For creatures, distinctive campaign flavor counts as relevance under Entity Extraction. A distinctive encounter is sufficient reason for a creature article even when the creature appears only once and has little connection to the wider plot. Preserve memorable appearance, behavior, environment, danger, and aftermath; brevity is not a reason to prune useful campaign flavor. Apply the extraction rules to generic incidental mentions and indistinguishable repetitions. Do not create a separate entity for every unnamed specimen or import creatures never established in the sources.
+
+Treat the article as a record of this campaign. Do not infer powers, ecology, alignment, intelligence, motives, or history from a creature name, external game rules, or mythology. Retain demonstrated powers and story-relevant weaknesses at a high level. Remove mechanical bookkeeping and table jokes while preserving vivid in-world details and unusual outcomes.
+
+Not every creature is hostile. Companions and familiars need their significant bonds, roles, changes, and last attested condition; peoples and species need the traits and encounters actually established. Do not force them into a defeat narrative or treat living companions as items under the last-user custody default. Temporary summoning, domination, riding, or cooperation does not by itself establish a permanent bond or ownership.
+
+Follow the existing Category Selection rules: named individuals belong under character, peoples or species under creature with subtype race, political groups under organization, and named mounts under vessel. Preserve an existing primary type unless evidence shows the canonical identity was mistaken; this layout alone does not authorize recategorizing named creatures. Resolve names and aliases before splitting or merging articles. Keep different specimens' identities and outcomes distinct when the sources distinguish them.
+
+## Scaling, History, and Evidence
+
+- **Brief encounters:** An introduction alone, or an introduction with selected standard sections, is sufficient. A few clear paragraphs can preserve the whole useful account. Include the established fate in the introduction or history when Final Status would only repeat it; do not add empty headings, invented backstory, or Unknown placeholders.
+- **Recurring or substantial creatures:** Use the sections supported by meaningful information, including Campaign History and Final Status. Integrate consequential encounters and changes into a coherent history rather than accumulating combat summaries.
+- **Species and recurring enemy types:** Describe shared traits only when supported, and distinguish local encounters from claims about the whole kind. A defeat, retreat, or destruction of one group does not establish extinction or universal hostility.
+- Optional `###` subdivisions can organize substantial histories. Do not append competing `## Session NNN`, Plot Events, Abilities, or Miscellaneous sections.
+
+Campaign History owns the detailed event sequence; Description synthesizes traits and Final Status states the outcome without repeating whole scenes. Order events by established in-world chronology, using session and chunk order when uncertain. Keep pre-campaign origins distinguishable from discoveries made during play.
+
+Existing creature prose is a starting point, not authority for consequential ambiguities. Consult session summaries and source chunks to verify identity, allegiance, powers, and fate. Attribute testimony, suspicions, and uncertain explanations. A battle ending does not prove every opponent died, and the campaign ending does not supply missing closure. For creatures that drop out of the record, report the last attested state without implying it remained unchanged through the finale. Distinguish death or destruction from later return or resummoning when established.
+
+Use canonical names throughout prose and link labels, with spelling variants confined to aliases. Link significant people, places, factions, items, and other creatures. Preserve verified supporting references and keep session provenance in frontmatter; source order should guide history rather than become its section structure.
+
+## Reorganization and Maintenance Checks
+
+Before restructuring, inventory distinct descriptive details, capabilities, relationships, encounters, outcomes, remains or recovered objects, and unresolved claims. Preserve each substantive fact and meaningful uncertainty in an appropriate section, or correct it from evidence. Consolidate duplication without flattening the creature's flavor into a generic enemy label.
+
+After writing:
+
+- Confirm the canonical title, exact standard headings and relative order, and absence of empty sections, duplicates, or session appendices.
+- Compare the result with the fact inventory and sources. Confirm preservation of distinctive flavor, meaningful events, and uncertainties without routine mechanics or unsupported lore.
+- Check chronology and agreement between the introduction, traits, encounter history, and final state. Distinguish specimens from species, temporary relationships from continuing ones, and defeat from death or destruction.
+- Preserve frontmatter identity, `session_introduced`, and existing appearance history. Reorganization alone establishes no new appearance; append sessions only when verified. Validate schema compliance, quoted session values, aliases, meaningful `related` links, and entity and source links.
+- Confirm exactly one correctly categorized index entry per entity file. Update descriptions and affected linked articles when canon is materially corrected; accurate descriptions need no change for layout alone.
+- Apply the relevant Post-Ingest Validation checks and append operations to `log.md`. Reorganization alone does not change quest status.
 
 # Session Summation
 
